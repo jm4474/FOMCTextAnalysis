@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for fomc_scraper project
+# Scrapy settings for scrapy_scraper project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,15 +9,15 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'fomc_scraper'
+BOT_NAME = 'scrapy_scraper'
 
-SPIDER_MODULES = ['fomc_scraper.spiders']
-NEWSPIDER_MODULE = 'fomc_scraper.spiders'
+SPIDER_MODULES = ['scrapy_scraper.spiders']
+NEWSPIDER_MODULE = 'scrapy_scraper.spiders'
 
 LOG_FILE = "loging.txt"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'fomc_scraper (+http://www.yourdomain.com)'
+#USER_AGENT = 'scrapy_scraper (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -48,13 +48,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'fomc_scraper.middlewares.FomcScraperSpiderMiddleware': 543,
+#    'scrapy_scraper.middlewares.FomcScraperSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'fomc_scraper.middlewares.FomcScraperDownloaderMiddleware': 543,
+#    'scrapy_scraper.middlewares.FomcScraperDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,7 +66,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'fomc_scraper.pipelines.CsvWriterPipeline': 300
+    'scrapy_scraper.pipelines.CsvWriterPipeline': 300
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
