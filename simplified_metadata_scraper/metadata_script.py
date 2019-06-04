@@ -7,7 +7,6 @@ import csv
 def main():
     documents = []
     start_date, end_date = 1936,2013
-    uid = 1
     year_pages = get_year_pages(start_date,end_date)
     for year in year_pages:
         soup = BeautifulSoup(year,'lxml')
@@ -20,7 +19,6 @@ def main():
         meeting_tables = meeting_container.findChildren("div",recursive=False)
 
         for meeting_table in meeting_tables:
-            #header which contains date and type of event
             meeting_info = meeting_table.find("h5").text
 
             meeting_document_tables = meeting_table.find_all("div")[1]
@@ -31,8 +29,7 @@ def main():
                 document_list = get_documents_and_links(material)
                 #Append Meeting Specific Information to each document
                 for document in document_list:
-                    add_document(documents,document,year,meeting_info,uid)
-                    uid+=1
+                    add_document(documents,document,year,meeting_info)
 
             #Catches any minutes that are not given in a p-tag, just written as text in the div
             meeting_document_lists = meeting_document_tables.find_all("div")
@@ -44,9 +41,8 @@ def main():
                     document = {'document_name':non_p_text,
                                       'link': None
                                       }
-                    add_document(documents,document,year,meeting_info,uid)
-                    uid+=1
-    #writes to csv file in current working directory
+                    add_document(documents,document,year,meeting_info)
+
     write_to_csv(documents)
 
 def get_year_pages(start_date,end_date):
@@ -88,16 +84,15 @@ def get_documents_and_links(document_type):
             documents.append(current_document)
     return documents
 
-def add_document(documents,document,year,meeting_info,uid):
+def add_document(documents,document,year,meeting_info):
     document['year'] = year
     document['meeting_info'] = meeting_info
-    document['id'] = uid
     documents.append(document)
 
 # Writes information to CSV File
 def write_to_csv(documents):
     with open('raw_data.csv', 'w') as csvfile:
-        fieldnames = ['id', 'year', 'meeting_info', 'document_name', 'link']
+        fieldnames = ['year', 'meeting_info', 'document_name', 'link']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for document in documents:
