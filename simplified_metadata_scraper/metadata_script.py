@@ -96,7 +96,7 @@ def add_document(documents,document,year,meeting_info,uid):
 
 # Writes information to CSV File
 def write_to_csv(documents):
-    with open('test_metadata.csv', 'w') as csvfile:
+    with open('raw_data.csv', 'w') as csvfile:
         fieldnames = ['id', 'year', 'meeting_info', 'document_name', 'link']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
