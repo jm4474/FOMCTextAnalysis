@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import Tag
 import csv
+import re
 
 def main():
     documents = []
@@ -27,8 +28,10 @@ def main():
             document_types = meeting_document_tables.find_all("p")
             for document_type in document_types:
                 document_list = get_documents_and_links(document_type)
+                grouping = get_grouping(document_type,document_list)
                 #Append Meeting Specific Information to each document
                 for document in document_list:
+                    document['grouping'] = grouping
                     add_document(documents,document,year,meeting_info)
 
             #Catches any minutes that are not given in a p-tag, just written as text in the div
@@ -40,7 +43,9 @@ def main():
                     non_p_text = ' '.join(non_p_text.split())
                     document = {'document_name':non_p_text,
                                       'link': None
-                                      }
+                                    }
+                    grouping = get_grouping(document['document_name'],None)
+                    document['grouping'] = grouping
                     add_document(documents,document,year,meeting_info)
 
     write_to_csv(documents)
@@ -64,20 +69,28 @@ def get_year_pages(start_date,end_date):
 
 def get_documents_and_links(document_type):
     documents = []
+    comment = ''
     document_name = ''
     ptext = document_type.find(text=True, recursive=False)
     if ptext and ptext.strip():
-        document_name = ptext
+        ptext = ptext.strip()
+        #Takes care of edge case where reference was in p_text and minutes in link
+        if ptext[0] == "(":
+            comment = ptext
+        else:
+            document_name = ptext
     document_name += get_non_link_inner_text(document_type)
     links = document_type.find_all("a")
     if not links:
         current_document = {}
+        document_name += comment
         current_document['document_name'] = document_name
         current_document['link'] = None
         documents.append(current_document)
     else:
         for link in links:
             cur_doc_name = document_name + link.text
+            cur_doc_name += comment
             current_document = {}
             current_document['document_name'] = cur_doc_name
             current_document['link'] = link.get("href")
@@ -91,8 +104,8 @@ def add_document(documents,document,year,meeting_info):
 
 # Writes information to CSV File
 def write_to_csv(documents):
-    with open('raw_data.csv', 'w') as csvfile:
-        fieldnames = ['year', 'meeting_info', 'document_name', 'link']
+    with open('../output/raw_data.csv', 'w') as csvfile:
+        fieldnames = ['year', 'meeting_info', 'document_name', 'link', 'grouping']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for document in documents:
@@ -104,6 +117,22 @@ def get_non_link_inner_text(tag):
         if type(child) == Tag and child.name == "em":
              inner_text += child.text
     return inner_text
+
+def get_grouping(document_type,document_list):
+    if type(document_type) == str and document_list is None:
+        grouping = document_type
+    else:
+        document_type_text = document_type.find(text=True, recursive=False)
+        #Takes care of edge case where reference was in p_text and minutes in link
+        if document_type_text and document_type_text.strip() \
+                and not document_type_text.strip()[0]=="(":
+            grouping = document_type_text
+        else:
+            grouping = document_list[0]['document_name']
+    grouping = re.split('[:,(]',grouping)[0]
+    #Removes Year From Year-Specific groupings: Example 2008 Memos
+    grouping = re.sub("\d{4} ",'',grouping)
+    return grouping
 
 if __name__ == "__main__":
     main()
