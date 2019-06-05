@@ -25,11 +25,12 @@ def main():
         date_info = meeting_info.split(cur_document['event_type'])[0]
         if "," in date_info:
             date_info = date_info.split(",")[0] + "-" + date_info.split("and ")[1]
+
         start_date = extract_start_date(date_info)
         end_date = extract_end_date(date_info, start_date)
-        #print('{}|{}'.format(start_date,end_date))
         cur_document['start_date'] = '{} {}'.format(start_date['month'],start_date['day'])
         cur_document['end_date'] = '{} {}'.format(end_date['month'],end_date['day'])
+
         documents.append(cur_document)
     write_derived_csv(documents)
 
