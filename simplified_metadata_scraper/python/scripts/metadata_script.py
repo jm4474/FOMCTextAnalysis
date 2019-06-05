@@ -24,9 +24,9 @@ def main():
             meeting_document_tables = meeting_table.find_all("div")[1]
 
             #each p tag contains a set of one of more links to documents of a type
-            materials = meeting_document_tables.find_all("p")
-            for material in materials:
-                document_list = get_documents_and_links(material)
+            document_types = meeting_document_tables.find_all("p")
+            for document_type in document_types:
+                document_list = get_documents_and_links(document_type)
                 #Append Meeting Specific Information to each document
                 for document in document_list:
                     add_document(documents,document,year,meeting_info)
