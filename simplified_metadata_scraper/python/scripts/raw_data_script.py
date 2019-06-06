@@ -123,15 +123,13 @@ def get_grouping(document_type,document_list):
         grouping = document_type
     else:
         document_type_text = document_type.find(text=True, recursive=False)
+
         #Takes care of edge case where reference was in p_text and minutes in link
         if document_type_text and document_type_text.strip() \
                 and not document_type_text.strip()[0]=="(":
             grouping = document_type_text
         else:
             grouping = document_list[0]['document_name']
-    grouping = re.split('[:,(]',grouping)[0]
-    #Removes Year From Year-Specific groupings: Example 2008 Memos
-    grouping = re.sub("\d{4} ",'',grouping)
     return grouping
 
 if __name__ == "__main__":

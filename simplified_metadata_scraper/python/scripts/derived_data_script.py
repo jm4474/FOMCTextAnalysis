@@ -12,7 +12,7 @@ def main():
 
         document_name = row['document_name']
         link = row['link']
-
+        file_type = row['grouping']
 
         # cur_document['type'] = extract_type(meeting_info)
         cur_document['year'] = row['year']
@@ -20,7 +20,7 @@ def main():
         cur_document['file_name'] = extract_file_name(document_name)
         cur_document['file_size'] = extract_file_size(document_name)
         cur_document['link'] = extract_link(link)
-
+        cur_document['file_type'] = extract_file_type(file_type)
 
         date_info = meeting_info.split(cur_document['event_type'])[0]
         if "," in date_info:
@@ -94,10 +94,17 @@ def extract_link(link):
         return base+link
     else:
         return link
+def extract_file_type(grouping):
+    file_type = re.split('[:,(]',grouping)[0]
+
+    #Removes Year From Year-Specific groupings: Example 2008 Memos
+    file_type = re.sub("\d{4} ",'',file_type)
+    return file_type
 
 def write_derived_csv(documents):
     with open('../output/derived_data.csv', 'w') as csvfile:
-        fieldnames = ['year', 'start_date', 'end_date', 'event_type', 'file_name', 'file_size', 'link']
+        fieldnames = ['year', 'start_date', 'end_date', 'event_type',
+                        'file_name', 'file_size', 'link', 'file_type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for document in documents:
