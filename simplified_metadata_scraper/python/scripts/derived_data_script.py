@@ -14,16 +14,15 @@ def main():
         document_name = row['document_name']
         link = row['link']
         grouping = row['grouping']
-
-        # cur_document['type'] = extract_type(meeting_info)
         year = row['year']
-        cur_document['year'] = year
-        cur_document['event_type'] = extract_event_type(meeting_info)
-        cur_document['file_name'] = extract_file_name(document_name)
-        cur_document['file_type'] = extract_file_type(link,document_name)
-        cur_document['file_size'] = extract_file_size(document_name)
-        cur_document['link'] = extract_link(link)
-        cur_document['grouping'] = extract_grouping(grouping)
+
+        cur_document['year'] = year.strip()
+        cur_document['event_type'] = extract_event_type(meeting_info).strip()
+        cur_document['file_name'] = extract_file_name(document_name).strip()
+        cur_document['file_type'] = extract_file_type(link,document_name).strip()
+        cur_document['file_size'] = extract_file_size(document_name).strip()
+        cur_document['link'] = extract_link(link).strip()
+        cur_document['grouping'] = extract_grouping(grouping).strip()
 
         date_info = meeting_info.split(cur_document['event_type'])[0].strip()
         if "," in date_info:
@@ -90,7 +89,7 @@ def extract_event_type(meeting_info):
 
 def extract_file_name(document_name):
     #Gets rid of the file_size in parentheses including the file extension
-    file_name = re.sub("(\()([0-9])?(\.)?([0-9]{1,3})( )(MB|KB)( )(\w{1,5})(\))",'',document_name)
+    file_name = re.sub("(\()([0-9]{1,3})?(\.)?([0-9]{1,3})( )(MB|KB)( )(\w{1,5})(\))",'',document_name)
     #Gets rid of the file size without parentheses while preserving the file extension
     file_name = re.sub("([0-9])?(\.)?([0-9]{1,3})( )(MB|KB)( )",'',file_name)
     file_name = ' '.join(file_name.split())
