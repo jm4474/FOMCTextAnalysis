@@ -599,6 +599,6 @@ T_derived.Properties.VariableNames ...
           'DummyMeeting',...
           'Name','Group','Class','Size','FileType','Comments'};
 
-writetable(T_derived,'../Output/FedCorpus_derived.xls');
+writetable(T_derived,'../Output/FedCorpus_derived.csv');
 
 clearvars -except T_derived
