@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import csv
+import datetime
 def main():
     raw_df = pd.read_csv("../output/raw_data.csv")
     documents = []
@@ -8,59 +9,76 @@ def main():
         cur_document = {}
         meeting_info = row['meeting_info']
         if "(unscheduled)" in meeting_info:
-            meeting_info = meeting_info.replace("(unscheduled)","Conference Call")
+            meeting_info = meeting_info.replace("(unscheduled)", "Conference Call")
 
         document_name = row['document_name']
         link = row['link']
-        file_type = row['grouping']
+        grouping = row['grouping']
 
         # cur_document['type'] = extract_type(meeting_info)
-        cur_document['year'] = row['year']
+        year = row['year']
+        cur_document['year'] = year
         cur_document['event_type'] = extract_event_type(meeting_info)
         cur_document['file_name'] = extract_file_name(document_name)
+        cur_document['file_type'] = extract_file_type(link,document_name)
         cur_document['file_size'] = extract_file_size(document_name)
         cur_document['link'] = extract_link(link)
-        cur_document['file_type'] = extract_file_type(file_type)
+        cur_document['grouping'] = extract_grouping(grouping)
 
-        date_info = meeting_info.split(cur_document['event_type'])[0]
+        date_info = meeting_info.split(cur_document['event_type'])[0].strip()
         if "," in date_info:
             date_info = date_info.split(",")[0] + "-" + date_info.split("and ")[1]
-
-        start_date = extract_start_date(date_info)
-        end_date = extract_end_date(date_info, start_date)
-        cur_document['start_date'] = '{} {}'.format(start_date['month'],start_date['day'])
-        cur_document['end_date'] = '{} {}'.format(end_date['month'],end_date['day'])
+        start_date = extract_start_date(date_info, year)
+        end_date = extract_end_date(date_info, start_date, year)
+        cur_document['start_date'] = start_date
+        cur_document['end_date'] = end_date
 
         documents.append(cur_document)
     write_derived_csv(documents)
 
-def extract_start_date(date_info):
+def extract_start_date(date_info,year):
     start_date = {}
     if "-" in date_info:
         if "/" in date_info:
-            start_date['month'] = date_info.split('/')[0]
-            start_date['day'] = date_info.split(" ")[1].split("-")[0]
+            month = date_info.split('/')[0]
+            day = date_info.split()[1].split("-")[0]
         else:
-            start_date['month'] = date_info.split(" ")[0]
-            start_date['day'] = date_info.split(" ")[1].split("-")[0]
+            month = date_info.split()[0]
+            day = date_info.split()[1].split("-")[0]
     else:
-        start_date['month'] = date_info.split(" ")[0]
-        start_date['day'] = date_info.split(" ")[1]
-    return start_date
+        month = date_info.split()[0]
+        day = date_info.split()[1]
+    formatting = "%B %d %Y"
+    date_string = "{} {} {}".format(month, day, year)
+    date_object = datetime.datetime.strptime(date_string, formatting).date()
+    return date_object
 
-def extract_end_date(date_info,start_date):
-    end_date = {}
+def extract_end_date(date_info,start_date,year):
+    new_month = False
     if "-" in date_info:
-        if "/" in date_info:
-            end_date['month'] = date_info.split("/")[1].split(" ")[0]
-            end_date['day'] = date_info.split("-")[1]
+        if date_info.split("-")[1].isdigit():
+            if "/" in date_info:
+                new_month = True
+                month = date_info.split("/")[1].split(" ")[0]
+                day = date_info.split("-")[1]
+            else:
+                month = str(start_date.month)
+                day = date_info.split("-")[1]
         else:
-            end_date['month'] = start_date['month']
-            end_date['day'] = date_info.split("-")[1]
+            date_info = date_info.split("-")[1]
+            new_month = True
+            month = date_info.split()[0]
+            day = date_info.split()[1]
     else:
-        end_date['month'] = start_date['month']
-        end_date['day'] = start_date['day']
-    return end_date
+        month = str(start_date.month)
+        day = str(start_date.day)
+    if new_month:
+        formatting = "%B %d %Y"
+    else:
+        formatting = "%m %d %Y"
+    date_string = "{} {} {}".format(month,day,year)
+    date_object = datetime.datetime.strptime(date_string, formatting).date()
+    return date_object
 
 def extract_event_type(meeting_info):
     if 'Conference Call' in meeting_info:
@@ -79,12 +97,24 @@ def extract_file_name(document_name):
     return file_name
 
 def extract_file_size(document_name):
-    #Regular expression which searches for a file_size in the format (size)( )(mb/kb)( )(file_type)
-    result = re.search("([0-9])?(\.)?([0-9]{1,3})( )(MB|KB)( )(\w{1,5})",document_name)
-    if result:
-        return result.group()
+    re_search = re.search('([0-9])?(\.)?([0-9]{1,3})( )(MB|KB)',document_name)
+    if re_search:
+        return re_search.group()
     else:
         return None
+
+def extract_file_type(link,document_name):
+    if type(link)== str:
+        if ".pdf" in link:
+            return "PDF"
+        else:
+            return "HTML"
+    else:
+        re_search = re.search('(HTML|PDF)',document_name)
+        if re_search:
+            return re_search.group()
+        else:
+            return None
 
 def extract_link(link):
     if type(link)!= str :
@@ -94,7 +124,8 @@ def extract_link(link):
         return base+link
     else:
         return link
-def extract_file_type(grouping):
+
+def extract_grouping(grouping):
     file_type = re.split('[:,(]',grouping)[0]
 
     #Removes Year From Year-Specific groupings: Example 2008 Memos
@@ -104,7 +135,7 @@ def extract_file_type(grouping):
 def write_derived_csv(documents):
     with open('../output/derived_data.csv', 'w') as csvfile:
         fieldnames = ['year', 'start_date', 'end_date', 'event_type',
-                        'file_name', 'file_size', 'link', 'file_type']
+                        'file_name', 'file_size','file_type', 'link', 'grouping']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for document in documents:
