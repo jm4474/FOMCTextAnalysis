@@ -36,6 +36,7 @@ def main():
         cur_document['end_date'] = end_date
 
         documents.append(cur_document)
+    documents = do_manual_derived_changes(documents)
     write_derived_csv(documents)
 
 def extract_start_date(date_info,year):
@@ -183,6 +184,13 @@ def extract_document_class(grouping):
         print("No Class Found for Grouping Type:{}".format(grouping))
         return None
 
+def do_manual_derived_changes(documents):
+    #This Event Was Missing its Greenbook and was therefore incorrectly characterized
+    for document in documents:
+        if document['grouping'] == "Supplement":
+            document['grouping'] = "Greenbook"
+            document['document_class'] = "Economic Information"
+    return documents
 
 def write_derived_csv(documents):
     with open('../output/derived_data.csv', 'w') as csvfile:
