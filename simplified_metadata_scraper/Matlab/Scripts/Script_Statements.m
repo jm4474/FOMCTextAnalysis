@@ -1,15 +1,54 @@
-T = readtable('../Output/FedCorpus_derived.csv');
+%% Script to Download Statements
 
-%% Select Statements
+T = readtable('../../derived_data.csv');
 
-Tstatements = T(strcmp(T.Name,'Statement'),:);
+%% Eliminate extra spaces
 
-%% Urls for statements
+T.file_name = strtrim(T.file_name);        %Remove extra spaces in the file_name
 
-root = 'https://www.federalreserve.gov';
+T.grouping = strtrim(T.grouping);          %Remove extra spaces in the file_type
 
-url  = string(strcat(root,Tstatements.Links));
+%% Filter Statements
 
-%%
+ Tstatements ...
+           = T(string(T.grouping) == 'Statement',:);
+       
+%% Store in a string array
 
-webread(url(6))
+aux_size   = size(Tstatements,1);
+
+statements = strings(aux_size,1);
+
+options    = weboptions;
+
+options.Timeout ...
+           = 15;
+
+tic;
+
+for t_statement = 1:aux_size
+
+   if strcmp(string(Tstatements.file_type(t_statement)),'HTML') 
+    
+   statements(t_statement,1) ...
+           = extractHTMLText(webread(string(Tstatements.link(t_statement)),options));
+       
+   else 
+    
+   statements(t_statement,1) ...
+           = 'CHECK';
+       
+   end       
+
+end
+
+toc;
+
+%% Save csv file with the text of the statements 
+
+T_text ...
+     = [Tstatements, table(statements) ];
+
+writetable(T_text,'../Output/Statements/Statements_text.csv');
+
+clearvars -except T_text

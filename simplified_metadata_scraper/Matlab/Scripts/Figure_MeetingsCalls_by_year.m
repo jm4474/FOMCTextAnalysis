@@ -3,9 +3,7 @@ T = readtable('../../derived_data.csv');
 %% Dates in standard format
 
 T.start_dates_std_format ...
-             = datetime(...
-               strcat(T.start_date,{' '},string(T.year)),...
-               'InputFormat','MM d yyyy');            %Start Date in standard format 
+             = T.start_date;            %Start Date in standard format 
            
 %% Unique Dates of Meetings and Conferences
 
