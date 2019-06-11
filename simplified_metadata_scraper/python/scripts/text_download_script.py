@@ -5,6 +5,7 @@ import datetime
 import csv
 import tika
 from tika import parser
+import re
 def main():
     data_file_name = "../output/derived_data.csv"
     grouping = "Bluebook"
@@ -41,6 +42,8 @@ def download_pdf(file):
     open("../output/Bluebook/"+file['start_date'], 'wb').write(r.content)
     parsed = parser.from_file("../output/Bluebook/"+file['start_date'])
     document['file_text'] = parsed['content']
+    clean_parser = parser.from_file("../output/Bluebook/"+file['start_date'],xmlContent=True)
+    document['cleaned_text'] = clean_pdf(clean_parser)
     return document
 
 def download_html(file):
@@ -79,6 +82,51 @@ def write_statement_csv(statements,grouping):
         writer.writeheader()
         for statement in statements:
             writer.writerow(statement)
+
+def clean_pdf(clean_parser):
+    soup = BeautifulSoup(clean_parser['content'], 'lxml')
+    output = ""
+
+    pages = soup.find_all("div")
+    reached_appendix = False
+    for page in pages:
+        if reached_appendix:
+            break
+        valid_page = True
+        if page.text and page.text.strip():
+            ps = page.find_all("p", text=True)
+            for p in ps:
+                valid_line = True
+                p_text = p.text.strip()
+                # print(re.search("(^Appendix)(\s)(\w)(:)",p_text,re.IGNORECASE))
+                if re.search("(^Appendix)(\s)(\w)$", p_text, re.IGNORECASE) \
+                        or re.search("(^Appendix)(\s)(\w)(:)", p_text, re.IGNORECASE):
+                    reached_appendix = True
+                elif re.search("(^Chart )(\d)", p_text, re.IGNORECASE):
+                    valid_page = False
+                if reached_appendix or not valid_page:
+                    break
+                # Page Number
+                elif re.search("^(-)( ?)(\d{1,3})( ?)(-)$", p_text):
+                    valid_line = False
+                # FootNote
+                elif re.search("(^\d{1,3})(\.)( )", p_text):
+                    valid_line = False
+
+                # Handle Rogue Numbers
+                elif re.search("^(-)?(\d{1,3})(\.)?(\d{1,3})?", p_text):
+                    valid_line = False
+
+                #Handle table data such as 12.5 10.5
+                elif re.search("(-)?(\d{1,2})(\.)?(\d{1,2})?(\s)(-)?(\d{1,2})(\.)?(\d{1,2})?", p_text):
+                    valid_line = False
+                elif re.search("^NOTE", p_text, re.IGNORECASE):
+                    valid_line = False
+                elif len(p_text.split()) <= 1:
+                    valid_line = False
+                if valid_line:
+                    output+=p_text+"\n"
+    return output
 
 if __name__ == "__main__":
     main()
