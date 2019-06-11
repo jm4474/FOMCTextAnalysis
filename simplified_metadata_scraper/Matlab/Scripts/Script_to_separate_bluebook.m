@@ -27,8 +27,6 @@ paragraphs  = strings(size(data,1),1);
 expression  = '(\d{1,2}\)';               %Regular expresssion that looks for (#)
 
 for i_data      = [1:137,139:341]
-    
-    %[1:24,26:27,31:33,35:36,38,40:75,77:81,83:118,120,122:137,139:140,142,144:223,225:239,241:341]
 
 AUX         = regexp(data(i_data,:),expression,'match'); 
                                            %Extracts all the "(#)" that
