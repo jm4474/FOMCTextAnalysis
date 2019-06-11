@@ -91,7 +91,7 @@ toc
 
 %% Store as CSV
 
-tableaux = table(alternatives(:,1),alternatives(:,2),alternatives(:,2));
+tableaux = table(alternatives(:,1),alternatives(:,2),alternatives(:,3));
 
 Tableaux.Properties.VariableNames ...
          = {'Alternative A', 'Alternative B', 'Alternative C'};
