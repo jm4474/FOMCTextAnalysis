@@ -6,7 +6,11 @@ import csv
 import tika
 from tika import parser
 import re
+import os
 def main():
+    download_clean = True
+    if download_clean and not os.path.isdir("../output/clean_bluebook"):
+        os.mkdir("../output/clean_bluebook")
     data_file_name = "../output/derived_data.csv"
     grouping = "Bluebook"
     start_year = 1965
@@ -29,21 +33,27 @@ def main():
             tika.initVM()
             document =  download_html(file)
         elif grouping == "Bluebook":
-            document = download_pdf(file)
+            document = download_pdf(file,download_clean)
         documents.append(document)
     write_statement_csv(documents,grouping)
 
-def download_pdf(file):
+def download_pdf(file,download_clean):
     document = {
         'start_date': file['start_date'],
         'end_date': file['end_date']
     }
-    r = requests.get(file['link'])
-    open("../output/Bluebook/"+file['start_date'], 'wb').write(r.content)
+    if not os.path.exists("../output/Bluebook/"+file['start_date']):
+        r = requests.get(file['link'])
+        open("../output/Bluebook/"+file['start_date'], 'wb').write(r.content)
     parsed = parser.from_file("../output/Bluebook/"+file['start_date'])
     document['file_text'] = parsed['content']
     clean_parser = parser.from_file("../output/Bluebook/"+file['start_date'],xmlContent=True)
-    document['cleaned_text'] = clean_pdf(clean_parser)
+    clean_text = clean_pdf(clean_parser)
+    if download_clean == True:
+        with open("../output/clean_bluebook/"+document['start_date'],"w") as f:
+            f.write(clean_text)
+    else:
+        document['clean_text'] = clean_text
     return document
 
 def download_html(file):
@@ -127,6 +137,7 @@ def clean_pdf(clean_parser):
                 if valid_line:
                     output+=p_text+"\n"
     return output
+
 
 if __name__ == "__main__":
     main()
