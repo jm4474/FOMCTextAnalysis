@@ -5,13 +5,15 @@ Tbluebook   = readtable('../Output/Bluebook/CSV/Bluebook_anand.csv');
 
 %% Start date
 
-ind_start   = find(strcmp(Tbluebook.start_date(:,1),'1971-01-12'));
+ind_start   = find(strcmp(Tbluebook.start_date(:,1),'1968-08-13'));
+
+ind_end     = find(strcmp(Tbluebook.start_date(:,1),'2009-03-17'));
 
 %% Get the text from the file
 
-data        = string(Tbluebook.file_text(ind_start:end));
+data        = string(Tbluebook.file_text(ind_start:ind_end));
 
-dates       = Tbluebook.start_date(ind_start:end);
+dates       = Tbluebook.start_date(ind_start:ind_end);
 
 header_aux  = strings(size(data,1),1); 
 
@@ -26,7 +28,7 @@ paragraphs  = strings(size(data,1),1);
 
 expression  = '(\d{1,2}\)';               %Regular expresssion that looks for (#)
 
-for i_data      = [1:137,139:341]
+for i_data      = [1:170,172:size(data,1)]
 
 AUX         = regexp(data(i_data,:),expression,'match'); 
                                            %Extracts all the "(#)" that
