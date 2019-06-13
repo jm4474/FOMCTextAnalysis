@@ -54,6 +54,35 @@ policy expectations, however, moved noticeably lower as relatively benign readin
 inflation and the Chairman’s comments on the inflation outlook in testimony to the
 House Budget Committee apparently eased investors’ concerns.  According to a
 recent survey conducted by the Desk, dealers unanimously anticipate the upcoming
+Chart 1
+Interest Rate Developments
+Ten-Year
+Two-Year
+Treasury Yields*
+*Par yields from an estimated off-the-run Treasury yield curve.
+Twelve Months Ahead
+Six Months Ahead
+Policy Uncertainty*
+*Width of a 90 percent confidence interval for the federal funds rate
+computed from the term structures for both the expected federal funds
+rate and implied volatility.
+Daily
+FOMC
+September 16, 2004
+August 9, 2004
+Expected Federal Funds Rates*
+*Estimates from federal funds and eurodollar futures, with an allowance
+ for term premia and other adjustments.
+Inflation Compensation*
+*Based on a comparison of an estimated TIPS yield curve to an estimated
+nominal off-the-run Treasury yield curve.
+One-Year Forward Rate Ending
+Ten Years Ahead*
+*Forward rate is the one-year rate maturing in ten years
+that is implied by a smoothed Treasury yield curve.
+*Based on October 2004 federal funds futures contract.
+Probability of a 25 Basis Point Hike at the
+September FOMC Meeting*
 meeting to conclude with a quarter-point tightening and retention of an assessment of
 balanced risks with respect to both of the Committee’s objectives.  Judging from
 futures quotes, investors expect the funds rate to rise to around 2 percent by year-
@@ -73,6 +102,35 @@ apparently reflecting greater confidence about prospects in the business sector
 (Chart 2).  Further evidence of such confidence was visible in equity markets, where
 broad indexes have advanced 5½ to 7¼ percent since the market close before the
 August FOMC meeting.
+Chart 2
+Capital Market Developments
+Ten-Year AA
+Ten-Year Swap
+Higher-Tier Corporate Bond Spreads*
+*AA spread measured relative to an estimated off-the-run Treasury yield
+ curve. Swap spread measured relative to the on-the-run Treasury
+ security.
+Basis Points
+Ten-Year BBB (left scale)
+Five-Year high-yield (right scale)
+Lower-Tier Corporate Bond Spreads*
+*Measured relative to an estimated off-the-run Treasury yield curve.
+Long-run real Treasury yield*
+* Yield on synthetic Treasury perpetuity minus Philadelphia Fed 10-year
+     expected inflation.
+  + Denotes the latest observation using daily interest rates and stock prices
+     and latest earnings data from I/B/E/S.
+Sept.
+15
+Wilshire
+Nasdaq
+Stock Prices
+*Spot WTI price.
+S&P 500 (left scale)
+Ten-Year Treasury Note (right scale)
+Implied Volatility
+Daily
+FOMC
 (3) The exchange value of the dollar against other major currencies was
 essentially unchanged on net over the intermeeting period (Chart 3).2  The dollar rose
 more than 2½ percent against sterling, as the Bank of England held its policy stance
@@ -93,6 +151,22 @@ trading partners.
 annual rate in the second quarter and appears to be expanding at roughly the same
 pace in the current quarter.  In the domestic nonfinancial business sector, debt
 continued to grow at a moderate pace in August.  Corporate bond issuance picked up,
+Chart 3
+International Financial Indicators
+Nominal Trade-Weighted Dollar
+Indexes Index(12/31/02=100)
+Broad
+Major Currencies
+Other Important Trading Partners
+Ten-Year Government Bond Yields
+Percent
+UK (left scale)
+Germany (left scale)
+Japan (right scale)
+EMBI+ Index
+Basis Points
+FOMC
+Daily
 likely in part reflecting opportunistic borrowing by firms taking advantage of the
 decline in longer-term interest rates early in the month (Chart 4).  Firms paid down
 commercial paper modestly on net, but commercial and industrial loans at banks
@@ -110,6 +184,53 @@ M2 from mortgage refinancings that occurred during the spring was likely still
 unwinding over the past couple of months, depressing the growth of liquid deposits.
 Overall, available data suggest M2 growth has slowed substantially in the third quarter
 relative to the first half of the year, as the increase in opportunity costs has buoyed
+Chart 4
+Debt and Money
+C&I Loans
+Commercial Paper
+Bonds
+Changes in Selected Components of
+Nonfinancial Business Debt $Billions
+Monthly rate
+Growth of Household Debt Percent
+Quarterly, s.a.a.r.
+Consumer
+Credit
+Home
+Mortgage
+x
+Jul
+Fixed Rate (30-Year)
+Adjustable Rate (30-Year)
+Residential Mortgage Rates
+Source. Freddie Mac Primary Mortgage Market Survey.
+Weekly, n.s.a
+Applications
+(left axis)
+Originations
+(right axis)
+Aug
+Aug
+Source. Staff estimates.
+Mortgage Refinancing Activity
+$BillionsIndex(3/16/90 = 100)
+Monthly, s.a. Monthly, s.a.
+Six-Month Treasury Bill
+Six-Month Bank CD*
+Deposit and Market Rates Percent
+Velocity
+M2 Velocity and Opportunity Cost
+Percent
+e Estimated.
+Opportunity Cost*
+(left axis)
+Velocity
+(right axis)
+*Two-quarter moving average.
+e
+Q3
+e
+Q3
 Policy Alternatives
 (6) Over the period since the August Greenbook was put to bed, incoming
 information—including the employment report for July, which was released just after
@@ -209,6 +330,34 @@ economic prospects as needed to fulfill
 its obligation to promote price stability
 and sustainable growth.
 [Unchanged] [None]
+Chart 5
+Actual Real Federal Funds Rate and
+Range of Estimated Equilibrium Real Rates
+Actual Real Funds Rate
+TIPS-Based Estimate
+Historical Average: 2.72
+  (1964Q1-2004Q2)
+●25 b.p. Tightening
+Current Rate
+Equilibrium Real Funds Rate Estimates (Percent)
+August Bluebook
+August Bluebook
+August Bluebook
+August Bluebook
+Statistical Filter
+ - Two-sided:
+     Based on historical data and the staff forecast
+- One-sided:
+     Based on historical data*
+FRB/US Model
+ - Two-sided:
+     Based on historical data and the staff forecast
+- One-sided:
+     Based on historical data**
+Treasury Inflation-Protected Securities***
+*     Also employs the staff projection for the current and next quarters.
+**   Also employs the staff projection for the current quarter.
+*** Adjusts the five-year forward, five-year real rate by an assumed term premium of 75 basis points.
 federal funds rate may be viewed as appropriate in the exceptional circumstances of
 last year but no longer warranted today.  A modest further reduction in
 accommodation would also be consistent with a number of monetary policy rules
@@ -552,45 +701,6 @@ Buyer
 Conventional home
 mortgages
 primary market
-Appendix Table 1
-Selected Interest Rates
-(Percent)
-Sep 
-Oct 
-Nov 
-Dec 
-    
-Jan  
-Feb  
-Mar  
-Apr  
-May  
-Jun  
-Jul  
-Aug
-Jul  
-Jul  
-Jul  
-Aug  
-Aug  
-Aug  
-Aug  
-Sep  
-Sep  
-Sep
-Aug  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep  
-Sep
 Strictly Confidential (FR)-
 Class II FOMC
 Money Aggregates
@@ -639,7 +749,6 @@ Weekly
 Period
 In M3 onlyIn M2
 p    prel iminary
-Appendix Table 2
 Changes in System Holdings of Securities
  1 Strictly Confidential
 (Millions of dollars, not seasonally adjusted)
@@ -649,4 +758,3 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs  5
 Agency total
 Intermeeting Period
 Memo: LEVEL (bil. $)
-Appendix Table 3

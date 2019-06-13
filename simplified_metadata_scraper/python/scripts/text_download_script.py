@@ -114,11 +114,11 @@ def clean_pdf(clean_parser):
                         or re.search("(^Appendix)(\s)(\w)(:)", p_text, re.IGNORECASE):
                     reached_appendix = True
 
-                elif re.search("(Chart )(\d){1,5}$", p_text)\
+                elif re.search("^(Chart )(\d){1,5}$", p_text)\
                         or re.search("(CHART )(\d){1,5}",p_text):
                     valid_page = False
 
-                elif re.search("Appendix Table (\w){1,5}",p_text,re.IGNORECASE):
+                elif re.search("^Appendix Table (\w){1,5}",p_text,re.IGNORECASE):
                     valid_page= False
 
                 if reached_appendix or not valid_page:
