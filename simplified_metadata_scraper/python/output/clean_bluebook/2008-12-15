@@ -63,6 +63,12 @@ the values of their investment portfolios.  Equity prices of insurance companies
 slipped lower, on net, over the intermeeting period.  REITs were significantly affected
 by the deterioration in the commercial mortgage market, and their equity valuations
 fell and CDS spreads surged.  Average returns of hedge funds were negative for a
+1 As part of the agreement, the Treasury and FDIC will provide protection against outsized 
+losses on a pool of about $306 billion in residential and commercial real estate and other 
+assets.  Under this arrangement, Citigroup will issue preferred shares to the Treasury and 
+FDIC.  In addition and if necessary, the Federal Reserve stands ready to backstop residual 
+risk in the asset pool through a non-recourse loan.  Moreover, the Treasury will purchase an 
+additional $20 billion in Citigroup preferred stock using TARP funds.
 Class I FOMC - Restricted Controlled (FR) 2 of 60
 The FDIC’s Temporary Liquidity Guarantee Program
 On October 14, the Federal Deposit Insurance 
@@ -97,6 +103,12 @@ maturity or until June 30, 2012, whichever is sooner.  Fees
 associated with this program range from 50 basis points for 
 debt with maturities of 180 days or less to 100 basis points for 
 maturities beyond 360 days.
+1Eligible instruments consist of federal funds, promissory notes, commercial 
+paper, unsubordinated unsecured notes, and interbank deposits (including CDs, 
+deposits in an International Banking Facility, and Eurodollar deposits).  In its final 
+rule, the FDIC excluded obligations with maturities of less than 30 days and will 
+not collect fees against those obligations.  The final rule also gives the FDIC 
+discretion to adjust firms’ use of the program on a case-by-case basis.
 Class I FOMC - Restricted Controlled (FR) 3 of 60
 The FDIC’s Temporary Liquidity Guarantee Program (cont.)
 Initial inclusion in the TLGP was automatic, with eligible institutions having until December 5 
@@ -155,17 +167,23 @@ Dec.
  11
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+120
+Jan. 3, 2007 = 100
 Oct.
 FOMC
 Dec. 
  11
 S&P REITs Index
 Source. Standard & Poor’s.
+1500
+March 31, 2003 = 1000
 Oct.
 FOMC
 Dec. 
  9
 Global Hedge Fund Index values
+100
+Billions of dollars
 Sept. Oct. Nov. Dec.
 2008
 Government funds
@@ -197,6 +215,7 @@ at terms beyond overnight, although there were some signs of improvement.  In
 unsecured interbank funding markets, Libor fixings at most maturities declined
 notably early in the period and spreads over comparable-maturity overnight index
 swap (OIS) rates narrowed further from the record levels reached in October (Chart
+2).  The one-month spread initially jumped as that maturity crossed year-end but has
 narrowed again in recent days as the Libor fixing declined.  Trading in longer-term
 interbank funding markets reportedly remained thin.
 (5) In secured funding markets, conditions continued to be strained over the
@@ -209,6 +228,10 @@ Chart 2
 Market Functioning
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+400
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily Oct.
 FOMC
@@ -216,6 +239,8 @@ Dec.
  11
 July Oct. Jan. Apr. July Oct.
 2007 2008
+700
+Basis points
 ABCP
 A2/P2
 Dec. 
@@ -224,14 +249,19 @@ Oct.
 FOMC
 Spreads on 30-day commercial paper
 Basis points
+10-year note
 Treasury on-the-run premium
 Monthly average
 Oct.
 FOMC
+300
+Volume (billions)
 Daily on-the-run treasury market volume
 Monthly average
 Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+1000
+Basis points
 Oct.
 FOMC
 Dec. 
@@ -239,6 +269,8 @@ Dec.
 AAA CMBX Index
 Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+104
+Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 Oct.
@@ -306,6 +338,7 @@ asked spreads in the syndicated loan market widened further, on net.
 window.  Although primary credit outstanding declined somewhat in recent weeks, it
 stood at $90 billion as of December 10.  Recent TAF auctions, for both 28-day and
 Class I FOMC - Restricted Controlled (FR) 9 of 60
+84-day credit, were undersubscribed; the size of the auctions had been raised, and the
 number of bidders remained relatively steady.  Overall, credit extended under the
 TAF increased about $150 billion to $448 billion.  Bidding was especially light for the
 two forward TAF auctions conducted over the intermeeting period—each for $150
@@ -320,6 +353,24 @@ strong demand for Treasury collateral.  Use of the Primary Dealer Credit Facilit
 (PDCF) declined significantly over the intermeeting period, falling to $52 billion on
 December 10 from $80 billion on October 28.  On November 10, the Treasury and
 the Federal Reserve announced a restructuring of the support provided to AIG.2
+2 The Treasury announced that it would purchase $40 billion of newly issued AIG preferred 
+shares under the TARP, which allowed the Federal Reserve to reduce from $85 billion to 
+$60 billion the total amount available under the credit facility established on September 16.  
+Further, the interest rate on that facility was reduced to Libor plus 300 basis points, the fee 
+on undrawn funds was reduced to 75 basis points, and the term of the facility was 
+lengthened from two years to five years.  The Federal Reserve also announced plans to 
+restructure its lending related to AIG by extending credit to two newly formed limited 
+liability companies.  The first, which will receive a $22.5 billion loan from the Federal 
+Reserve and a $1 billion subordinated loan from AIG, will purchase residential mortgage-
+backed securities from AIG.  No credit has yet been extended to this facility.  As a result of 
+this facility, the securities lending facility established by the New York Federal Reserve Bank 
+on October 8 will be repaid and terminated.  On December 10, the outstanding amount of 
+credit outstanding to AIG, including the original loan arrangement and the securities lending 
+facility, totaled $57 billion.  The second new company will receive a $30 billion loan from the 
+Federal Reserve and a $5 billion subordinated loan from AIG and will purchase multi-sector 
+collateralized debt obligations on which AIG has written CDS contracts.  As of December 
+10, $20 billion in credit had been extended to this facility.  CPFF credit to AIG as of 
+December 10 was $16 billion.
 Class I FOMC - Restricted Controlled (FR) 10 of 60
 (9) Even though the interest rate paid on excess reserves was raised to the
 lowest target federal funds rate in place during the reserve maintenance period, the
@@ -344,6 +395,10 @@ rate after the December meeting to be around 30 basis points.  Using our standar
 assumption for term premiums, Eurodollar futures quotes suggest that investors
 anticipate that the FOMC will begin gradually raising the target federal funds rate in
 the summer of next year, with the rate expected to reach about 1.55 percent by the
+3 The effective federal funds rate averaged 0.34 percent over the intermeeting period amid 
+extraordinary volatility.  Over this intermeeting period, the volume of long-term repurchase 
+agreements was unchanged.  The desk did not redeem any Treasury securities.  On net, the 
+Desk purchased $2.2 billion in agency securities.
 Class I FOMC - Restricted Controlled (FR) 11 of 60
 Recent developments in the federal funds market
 Trading conditions in the federal funds market over the intermeeting period were influenced 
@@ -408,12 +463,18 @@ over the next few months but to become less pronounced over time.
 Class I FOMC - Restricted Controlled (FR) 13 of 60
 Chart 3
 Interest Rate Developments
+2009 2010
+0.0
+3.0
+Percent
 December 11, 2008
 October 28, 2008
 Expected federal funds rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
 for term premiums and other adjustments.
 Source. Chicago Mercantile Exchange and CBOT.
+70
+Percent
 Market-based*
   Desk’s survey**
 Probability density for the federal funds rate
@@ -432,6 +493,10 @@ Percent
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
 Source. CBOT.
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Source. Board staff estimates.
@@ -451,6 +516,10 @@ Oct.
 FOMC
 Dec. 
  11
+3.0
+Percent
+12/5/2008
+Day before Last FOMC 10/28/2008
 Inflation swaps yield curve
 Maturity in Years
 Source. Barclays, PLC.
@@ -518,6 +587,8 @@ Oct.
 FOMC
 Dec. 
  11
+100
+Percent
 Implied volatility on S&P 500 (VIX)
 Weekly (Fri.*)
 *Latest observation is for most recent business day.
@@ -527,6 +598,8 @@ FOMC
 Dec. 
  11
 Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Source. Merrill Lynch and Board staff estimates.
@@ -536,6 +609,10 @@ Dec.
  11
 Jan. Mar. May July Sept. Nov. Jan.
 2008
+260
+Basis points
+10-year agency debt
+Option-adjusted MBS spread
 Fannie Mae 10-year debt and option-adjusted
 MBS spreads
 Oct.
@@ -546,6 +623,8 @@ Dec.
  11
 Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+300
+Percent Basis points
 FRM rate (left scale)
 FRM spread (right scale)
 Residential mortgage rates and spreads
@@ -555,10 +634,13 @@ Dec.
  10
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+2000
+Basis points
 AAA    
 A
 BBB
 Source. Citigroup.
+2-year credit card ABS spreads over swaps
 Dec. 
  5
 Oct.
@@ -570,6 +652,7 @@ over the period, agency debt spreads narrowed 35 basis points while option-adjus
 spreads on agency MBS declined about 110 basis points.  Likely reflecting in part
 these developments, conditions in the primary residential mortgage market improved.
 The interest rate on 30-year fixed-rate conforming mortgages declined, on net, about
+100 basis points to about 5.5 percent, prompting a notable increase in mortgage
 (15) To address the tightening of credit conditions for consumers and small
 businesses, the Federal Reserve also announced on November 25 the creation of the
 TALF to support the markets for ABS collateralized by student loans, auto loans,
@@ -583,6 +666,10 @@ suggest that the upward moves in yields may owe in part to supply pressures as s
 and localities seek to refinance their variable-rate demand notes through the issuance
 of long-term debt.  The credit quality of municipal bonds deteriorated further, on net,
 over the period, likely placing further upward pressure on yields.
+4 Under this program, the Federal Reserve will lend up to $200 billion on a non-recourse 
+basis to holders of certain AAA-rated ABS backed by newly and recently originated 
+consumer and small business loans.  Using funds from the TARP program, the Treasury will 
+provide $20 billion of credit protection in connection with the TALF.
 Class I FOMC - Restricted Controlled (FR) 18 of 60
 Foreign Developments
 (17) Foreign financial markets continued to fluctuate amid mounting concerns
@@ -595,6 +682,7 @@ basis points, and the Swiss National Bank by a total of 200 basis points.  The B
 Japan reduced its target for the overnight call rate by 20 basis points, to 30 basis
 points.  A number of central banks in emerging market economies also eased policy,
 most prominently the People’s Bank of China, which cut its main policy rate from
+6.93 percent to 5.58 percent in two separate moves and also lowered reserve
 requirements.  The announcement on October 29 of new reciprocal swap lines with
 Brazil, Korea, Mexico, and Singapore was well received; since that time, Korea has
 made two drawings.
@@ -609,6 +697,7 @@ markets, in many cases registering double-digit percent increases.  Sovereign cr
 spreads were volatile and remained elevated over the past month.
 (19) The major currencies index of the dollar moved down nearly 2 percent, on
 net, since the October FOMC meeting.  Gains against some currencies—especially a
+9 percent rise against sterling—were more than offset by declines against the euro and
 Class I FOMC - Restricted Controlled (FR) 19 of 60
 Chart 5
 International Financial Indicators
@@ -681,12 +770,24 @@ Q4
 Q1
 Q2
 Q3
+5.3
+3.1
+7.2
+7.2
+5.6
+2.9
+3.2
+0.6
+6.7
+4.4
 Source. Flow of Funds.
 C&I loans
 Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector*
+2006 H1 H2 Q1 Q2 Q3 Oct Nov
+2007 2008
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 Source. Securities Data Company, Depository Trust & Clearing Corporation
@@ -705,9 +806,13 @@ Growth of house prices
 Annual rate, s.a.
 Source. Federal Housing Finance Agency (FHFA),
 Standard & Poor’s.
+25
+Percent
 Growth of total lending capacity
 Growth of M2
 Source. Federal Reserve.
+2006 H1 H2 Q1 Q2 Q3 Oct Nov
+2007 2008
 Class I FOMC - Restricted Controlled (FR) 22 of 60
 tightening lending standards in the Senior Loan Officer Opinion Survey for some
 time.  The tightening of lending standards no doubt contributed to the 6 percent drop
@@ -751,13 +856,17 @@ quotes to around $65 by the end of 2010, a level $20 per barrel lower than in Oc
 The staff forecast also assumes that a large fiscal stimulus package, amounting to
 about $500 billion, is approved by the Congress early in 2009.
 (24) Against this backdrop, real GDP is expected to fall at an annual rate of
+4¾ percent in the current quarter and 3 percent in the first half of 2009, 3½ and
+2 percentage points more, respectively, than in the previous projection.  Over the
 remainder of 2009 and in 2010, the economy is forecast to recover slowly.  Amid the
 Class I FOMC - Restricted Controlled (FR) 24 of 60
 weaker outlook for GDP growth, the unemployment rate is anticipated to rise to
+8¼ percent in 2010, almost 1 percentage point above the level in the October forecast
 and 3½ percentage points above the staff’s estimate of the NAIRU.  Increased slack
 in resource utilization, diminished pressures from energy and materials prices, a
 decline in import prices, and some reduction in inflation expectations lead to a further
 projected moderation in core PCE inflation from 2 percent this year to 1 percent in
+2009 and ¾ percent in 2010.  Overall PCE inflation is projected at ¾ percent in 2009
 and 1 percent in 2010.
 Monetary Policy Strategies
 (25) As indicated in Chart 7, the Greenbook-consistent measure of short-run r*
@@ -773,9 +882,13 @@ short-run r* from the FRB/US model has fallen 1 percentage point since the previ
 Bluebook and is now around -6¼  percent.  The estimates of short-run r* span a wide
 interval, but all except the single-equation estimate are well below the current level of
 the actual real federal funds rate.
+5 To a lesser extent, the shift in the r* from the small structural model also reflects the 
+revision in the current level of the output gap.
 Class I FOMC - Restricted Controlled (FR) 25 of 60
 Chart 7
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -789,11 +902,15 @@ Single-equation model (0.0 (1.6
 Small structural model -6.7 -2.9
 Large model (FRB/US) -6.3 -5.4
 Confidence intervals for three model-based estimates
+70 percent confidence interval -7.5 - 0.2
+90 percent confidence interval -8.4 - 1.6
 Greenbook-consistent measure -3.4 -3.1
 Medium-Run Measures
 Single-equation model (1.7 (2.0
 Small structural model (1.2 (1.0
 Confidence intervals for two model-based estimates
+70 percent confidence interval (0.5 - 2.4
+90 percent confidence interval (0.0 - 3.2
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate -1.0 -1.0
 Class I FOMC - Restricted Controlled (FR) 26 of 60
@@ -820,8 +937,17 @@ the corresponding tightening exacerbates weakness in activity and the rise in
 unemployment.  The Bluebook box, “Implications of Nonconventional Policies for
 Optimal Monetary Policy,” provides an illustration of how nonstandard policy actions
 could alter the optimal policy path.
+6 In these simulations, policymakers place equal weight on keeping core PCE inflation close 
+to a specified goal, on keeping unemployment close to the NAIRU, and on avoiding changes 
+in the nominal funds rate.  
+7 This assumption differs from the one in the previous Bluebook where the lower bound 
+was set equal to zero. These simulations assume that the actual federal funds rate trades at 
+the target level chosen by the Committee.
 Class I FOMC - Restricted Controlled (FR) 27 of 60
 Implications of Unconventional Policies for Optimal Monetary Policy
+1 Note 21 in the materials on the zero bound that were sent to the Committee on December 5 (“Gauging the Macro 
+Stimulus from Monetary Policy Communications and Other Tools”) provides a quantitative assessment of 
+unconventional measures, including the effects of fiscal policy actions.
 Given the severe deterioration in the economic outlook 
 since the last Bluebook, the optimal control simulations  
 presented in the current Bluebook show the federal funds  
@@ -879,8 +1005,10 @@ possible if the nontraditional policy actions were paired with a major fiscal st
 Class I FOMC - Restricted Controlled (FR) 29 of 60
 (27) As depicted in Chart 9, the outcome-based policy rule prescribes a funds
 rate that drops to the 25-basis-point lower bound by 2009Q1 and stays there through
+2011 before steadily rising to about 3½ percent by the end of 2013.  The trajectory of
 the funds rate consistent with financial market quotes declines to below 0.50 percent
 during the first half of 2009 before rising to a plateau of about 2¼ percent starting in
+2011. 8  In contrast to FRB/US simulations with the outcome-based rule, information
 from financial markets indicates that investors see a relatively high likelihood of policy
 tightening by the end of 2009.9  As shown in the bottom panel of Chart 9, the near-
 term prescriptions from both the 1993 and 1999 versions of the Taylor rules are
@@ -891,6 +1019,15 @@ both the first-difference rule and the 1999 Taylor rule prescribe setting the fu
 at its lower bound.  The near-term prescriptions from the 1993 Taylor rule are slightly
 higher than for the other rules because the 1999 Taylor rule and the first difference
 rule are a bit more sensitive to the output gap.
+8 The probability of low interest rates may be underestimated because the confidence 
+intervals shown in the top right panel of Chart 9 are computed from interest rate caps with 
+strike prices between 1 percent and 14 percent.  Interest rate caps with a strike price below 1 
+percent are not currently traded. 
+9 As noted earlier, given the uncertainty about the economic and financial outlook, reading 
+policy expectations from federal funds futures and options is not straightforward.  In 
+particular, the term premium may be larger than usual, which would imply that investors are 
+expecting less policy tightening than what it is shown in Chart 9 (see box “Expected 
+Softness in the Expected Federal Funds Rate”).
 Class I FOMC - Restricted Controlled (FR) 31 of 60
 Policy Alternatives
 (28) This Bluebook presents four alternatives for the Committee’s consideration,
@@ -908,6 +1045,7 @@ available tools to promote the resumption of sustainable economic growth and pri
 stability.  Under Alternative C, the target rate is cut 50 basis points to ½ percent and
 the possibility of a further downward adjustment, should conditions warrant, is left
 open.  Under Alternative D, the federal funds rate target is left unchanged at
+1 percent under the view that recent policy actions should help promote acceptable
 economic growth over time; as in Alternative C, the possibility of future policy easing
 is left open.  In view of the large amounts of reserves being provided by the Federal
 Reserve’s various liquidity facilities, Alternatives C and D recognize that federal funds
@@ -962,6 +1100,7 @@ securities in volume, as already announced, and as the TALF becomes operational.
 Federal funds have often traded below 50 basis points since the October meeting
 even with the current target of 1 percent.  In the last week, with the anticipation of
 further policy easing at this meeting, federal funds have traded persistently below
+10 basis points.  Members may thus view a shift away from interest rate targeting and
 towards balance sheet management as essentially already under way.  Committee
 members may also be mindful that announcing a target that is not possible to achieve
 may create the impression that Federal Reserve policy is ineffective, even though
@@ -977,10 +1116,18 @@ conditional terms by indicating its anticipation that “weak economic condition
 likely to warrant federal funds rates near zero for some time,” as suggested in the
 statement accompanying Alternative A.10  In addition, if members were concerned
 that even increased use of the Federal Reserve’s balance sheet as a policy tool and a
+10 The Committee may feel that a commitment that is conditioned on too precise a set of 
+events may also be undesirable because, in the future, a need to tighten policy may arise well 
+before those specific events materialize.  The proposed sentence makes clear in broad terms 
+that the commitment is not unconditional (because the expectation of very low rates is based 
+on “weak economic conditions”), but at the same time the condition is cast in terms broad 
+enough that it likely will not constrain the Committee’s future decisions.  The length of the 
+commitment (“for some time”) is described in similarly broad terms for the same reason.
 Class I FOMC - Restricted Controlled (FR) 40 of 60
 commitment to keep interest rates low for some time might not be sufficient to
 counter deflationary pressures, the Committee could explicitly state, as indicated in
 the bracketed sentence, that it will seek to achieve a rate of inflation of about
+2 percent in the medium term, in order to buoy inflation expectations.  Higher
 inflation expectations, in turn, would reduce real interest rates and so support
 economic activity.
 (32) The statement suggested for Alternative A begins by acknowledging the
@@ -1082,6 +1229,7 @@ possible expansion of other types of liquidity provision and other means of usin
 Federal Reserve’s balance sheet—are also noted.
 (37) Given that most market participants appear to expect only a 50 basis point
 reduction in the target at this meeting, a decision to reduce it instead by at least
+75 basis points will come as surprise, but likely not a large one since some investors
 apparently anticipate that the target will be brought down to ¼ percent at the January
 meeting.  As a result, nominal interest rates would likely decline a little, stock prices
 may increase some, and the foreign exchange value of the dollar may decline
@@ -1092,6 +1240,7 @@ yields might edge lower.
 (38) The Committee may prefer Alternative C for a number of reasons.
 Members may feel that a substantial policy easing at this meeting is warranted in
 response to the sharp deterioration of the economic outlook in recent weeks.  A
+50 basis point cut in the target rate at this meeting may be seen as appropriate,
 considering that policy has been eased substantially over the last year, that a number
 of extraordinary liquidity measures have been put in place or are in train, and that
 mortgage rates have already dropped appreciably in light of the Federal Reserve’s
@@ -1188,6 +1337,7 @@ actions, along with those announced but not yet implemented, will be sufficient 
 return the economy to a path of moderate economic growth before too long, the
 Committee may wish to leave the target rate unchanged at this meeting as in
 Alternative D.  Committee members may have a somewhat more upbeat outlook for
+2009 and 2010 that the staff and may believe, for example, that the recovery from the
 present recession, starting in the second half of next year, will be more robust than
 anticipated by the staff, as in the “faster recovery” alternative scenario in the
 Greenbook.  In addition, the Committee may think that the policy actions taken
@@ -1258,9 +1408,13 @@ and in 2010, as capital spending will remain sluggish.  Federal debt, which has 
 in the second half of 2008 because of government programs aimed at addressing
 financial market strains, is anticipated to continue to grow at a rapid pace throughout
 the forecast period.  Overall, total domestic nonfinancial debt is projected to expand
+4½ percent in 2009 and 4¼ percent in 2010.
 Class I FOMC - Restricted Controlled (FR) 51 of 60
 Bluebook Alternatives Strictly Confidential Class II FOMC
 M2 Path
+75 bp
+50 bp
+25 bp
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates
@@ -1350,6 +1504,7 @@ financial conditions that will foster price stability and promote sustainable
 Class I FOMC - Restricted Controlled (FR) 55 of 60
 growth in output.  To further its long-run objectives, the Committee seeks
 conditions in reserve markets consistent with federal funds trading in a range of
+0 to ¼ percent.  The Committee directs the Desk to purchase GSE debt and
 agency-guaranteed MBS during the intermeeting period with the aim of
 providing support to the mortgage and housing markets.  The timing and pace
 of these purchases should depend on conditions in the markets for such

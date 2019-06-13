@@ -35,6 +35,12 @@ MONETARY POLICY ALTERNATIVES
  
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE 
 BY THE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+1 The effective federal funds rate averaged 1 percent over the intermeeting
+period.  The Desk expanded the System’s outright holdings of securities by $8.9
+billion, with purchases from foreign official customers of $0.8 billion of Treasury bills
+and purchases from dealers of $2.8 billion of Treasury bills and $5.3 billion of coupon
+securities.  The volume of outstanding long-term RPs increased $3 billion to $19
+billion.
 Strictly Confidential (F.R.) June 24, 2004
 Class I – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -64,10 +70,14 @@ Chart 1
 Interest Rate Developments
 Jan. Apr. July Oct. Jan. Apr.
 2003 2004
+7
+Percent
 Ten-Year Treasury
 Two-Year Treasury
 Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+400
+Basis Points
 Twelve Months Ahead
 Six Months Ahead
 Policy Uncertainty*
@@ -78,6 +88,8 @@ Daily
 FOMC
 June Oct. Jan. Apr. July Oct. Jan. Apr.
 2004 2005 2006
+4.5
+Percent
 June 24, 2004
 May 3, 2004
 Expected Federal Funds Rates*
@@ -111,9 +123,13 @@ Similar Language
         30
 Jan. Apr. July Oct. Jan. Apr.
 2003 2004
+5 to 10 Years Ahead
+Next 5 Years
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+5.0
+Percent
 FRB Philadelphia
 Michigan
 Survey Measures of Long-Term Inflation Expectations
@@ -154,6 +170,8 @@ than those on their nominal counterparts, as strengthening aggregate demand
 reportedly caused inflation compensation to move a little higher.  (The box below
 provides more detail on the recent behavior of inflation compensation.)  Some survey
 measures of inflation expectations have also ticked up recently.  In the market for
+2  
+ .
 corporate securities, yields on investment- and speculative-grade bonds generally rose
 by about the same amounts as those on comparable Treasuries, leaving risk spreads
 about unchanged (Chart 2).  Notwithstanding the backup in interest rates, major
@@ -186,6 +204,8 @@ Chart 2
 Financial Market Indicators
 Jan. May Sept. Feb. June Oct. Feb. June
 2002 2003 2004
+200
+Basis Points
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
@@ -205,9 +225,15 @@ S&P 500 EPS Revisions Index
 Percent, Monthly Rate
 Jan. May Sept. Feb. June Oct. Feb. June
 2002 2003 2004
+120
+Index(12/31/01=100)
 Wilshire
 Nasdaq
 Stock Prices
+9
+Percent
+9
+Percent
 Earnings-Price Ratio for S&P 500
 and Real Treasury Yield
 Monthly
@@ -218,6 +244,8 @@ Real Treasury Yield*
 + Denotes latest daily observation, June 23, 2004.
 Jan. May Sept. Jan. May Sept. Jan. May
 2002 2003 2004
+50
+PercentImplied Volatility - S&P 500
 Daily
 FOMC
 Chart 3
@@ -245,6 +273,7 @@ Jan. Apr. July Oct. Jan. Apr.
 EMBI+ Index
 Basis Points
 Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 Commodity Prices
 $U.S./ounce $U.S./barrel
 Gold (left scale)
@@ -293,6 +322,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2002 2003 Q4 Q1 A M
+  2003    2004
 Monthly rate
 Growth of Household Debt Percent
 Quarterly, s.a.a.r.
@@ -306,6 +337,8 @@ Credit
 Home
 Mortgage
 Growth of Federal Debt
+2002 H1 Q3 Q4 Q1 Q2
+2003    2004
 e Estimated.
 Note. Treasury debt held by the public at period-end.
 Velocity
@@ -353,6 +386,11 @@ Longer-run Scenarios
 (8) To analyze strategies and risks for monetary policy, several simulations
 were conducted using a new version of the FRB-US model that embodies model-
 consistent expectations in asset pricing.  In this variant, financial markets are assumed
+3 More precisely, the federal funds rate path is chosen to minimize the equally
+weighted sum of squared deviations of unemployment from its natural rate, squared
+deviations of core PCE inflation from target, and squared changes in the funds rate. 
+The last term prevents the optimal federal funds rate from being much more volatile
+in the simulation than observed in the historical record.
 to have perfect foresight regarding the future path of the federal funds rate, while the
 expectations of households and firms are based on statistical forecasts generated from
 a limited subset of variables, as in the standard version of the FRB-US model.
@@ -378,6 +416,11 @@ deviations in unemployment from its natural rate, deviations in inflation from a
 run goal, and changes in the federal funds rate.3  This exercise is similar in spirit to the
 “policymaker perfect foresight” simulations that have appeared in previous
 Bluebooks, but the assumption that asset prices are based on model-consistent
+4 As a point of reference, the optimal policy derived in the standard version of
+FRB-US (which was referred to as “policymaker perfect foresight” in previous
+Bluebooks) has broadly similar contours.
+5 In this simulation, the inflation rate attains its objective by around the year
+2015.
 expectations implies that policymakers are not able to fool investors systematically. 
 The long-run objective for core PCE inflation is taken to be 1½ percent, the same as
 in the Greenbook extension.  As shown in the upper panel of Chart 5, the optimal
@@ -404,22 +447,38 @@ Under Alternative A, the existing stance of policy would be maintained at this
 meeting.  Alternative B would raise the target for the federal funds rate by 25 basis
 Chart 5
 Optimal Policy for the Benchmark Inflation Objective
+4
+Percent
 Real Federal Funds Rate
+5
+Percent
 Nominal Federal Funds Rate
 Greenbook Baseline
 Optimal Policy
+2.00
+Percent
 Civilian Unemployment Rate
+6.5
+Percent
 PCE Inflation (ex. food and energy)
 (Four-quarter percent change)
 Chart 6
 Optimal Policy with Alternative Inflation Objectives
+4
+Percent
 Real Federal Funds Rate
+5
+Percent
 Nominal Federal Funds Rate
 Inflation objective
 1 percent
 1.5 percent
 2 percent
+2.00
+PercentPCE Inflation (ex. food and energy)
 (Four-quarter percent change)
+6.5
+Percent
 Civilian Unemployment Rate
 Table 1: FOMC Statement Alternatives for the June Bluebook
 May FOMC Alternative A Alternative B Alternative C
@@ -540,12 +599,15 @@ this is to say that “. . . even after this action, the stance of monetary poli
 Chart 7
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+6
+Percent
 Actual Real Funds Rate
 TIPS-Based Estimate
 Historical Average: 2.64
   (1964Q1-2004Q1)
 ● Current Rate
 Equilibrium Real Funds Rate Estimates (Percent)
+2002     2003    2004Q1    2004Q2    ____     ____    ______    ______
 May Bluebook
 May Bluebook
 May Bluebook
@@ -575,6 +637,10 @@ the Greenbook and staff memoranda closest to the middle of each quarter, unless 
 Rule Specification
 Root-mean-
 square error
+1988:1-
+2004:1
+2001:1-
+2004:1
 it = 2 + Bt + 0.5(yt-yt*) + 0.5(Bt-
 2) .92 .87
 it = 2 + Bt + (yt-yt*) + 0.5(Bt-2) .74 .75
@@ -621,6 +687,8 @@ firming at this meeting along with an assessment of balanced risks for growth an
 inflation and retention of “measured” or similar language.  A number of other
 indicators, such as information on the trading positions of market participants, as well
 as anecdotal information, suggest that most market participants are well prepared for a
+6 See “Market Preparedness for Potential Policy Tightening,” distributed to the
+Committee on June 23, 2004.
 commencement of tightening.6  Accordingly, the immediate market reaction to
 implementation of this alternative would likely be rather subdued, with rates perhaps
 increasing slightly in response to the inclusion of the proposed final sentence.  If,
@@ -772,6 +840,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 SELECTED INTEREST RATES
 (percent)
 Jun 
@@ -810,6 +879,18 @@ Jun
 Jun  
 Jun  
 Jun
+23
+30
+7
+11
+18
+25
+8
+9
+03   -- High
+-- Low
+04   -- High
+-- Low
 Strictly Confidential (FR)-
 Class II FOMC
 Money Aggregates
@@ -834,6 +915,11 @@ Monthly
        Oct.
        Nov.
        Dec.
+2004-Jan.
+       Feb.
+       Mar.
+       Apr.
+       May
 Levels ($billions):
 Monthly
   2004-Jan.
@@ -849,6 +935,166 @@ Weekly
             31
 June  7p
             14p
+7.0
+     3.3
+     6.5
+8.6
+     6.5
+     2.4
+     6.1
+11.1
+    12.5
+      2.3
+      7.5
+     -0.1
+      1.7
+      0.0
+      9.0
+-5.8
+     18.1
+     17.5
+     -3.1
+     -2.3
+1286.6
+   1306.0
+   1325.1
+   1321.7
+   1319.2
+1356.6
+   1293.4
+   1317.1
+   1333.9
+   1322.9
+1308.3
+   1319.9
+10.2
+     6.7
+     5.2
+8.2
+     6.9
+    -1.5
+     3.2
+10.4
+     8.2
+8.0
+      8.0
+     -4.5
+     -3.2
+     -0.9
+     -1.1
+1.1
+      9.6
+      8.9
+      8.8
+     13.1
+6062.6
+   6110.9
+   6156.2
+   6201.5
+   6269.0
+6254.7
+   6247.8
+   6289.8
+   6277.1
+   6273.8
+6264.6
+   6275.0
+11.1
+     7.6
+     4.9
+8.1
+     7.1
+    -2.5
+     2.4
+10.2
+     7.0
+9.5
+      8.1
+     -5.6
+     -4.5
+     -1.1
+     -3.8
+3.0
+      7.3
+      6.5
+     12.1
+     17.2
+4776.0
+   4804.9
+   4831.1
+   4879.9
+   4949.9
+4898.0
+   4954.5
+   4972.7
+   4943.2
+   4950.9
+4956.4
+   4955.1
+18.5
+     5.8
+     2.9
+0.4
+     6.1
+    -0.9
+     8.3
+1.5
+     3.7
+14.5
+     -1.3
+      5.1
+     -4.3
+     -1.7
+     -0.6
+18.2
+      5.5
+     11.1
+     11.5
+     16.9
+2816.4
+   2829.4
+   2855.5
+   2882.8
+   2923.5
+2917.8
+   2926.9
+   2930.9
+   2917.8
+   2925.7
+2943.9
+   2972.4
+12.7
+     6.4
+     4.5
+5.8
+     6.7
+    -1.3
+     4.8
+7.6
+     6.8
+10.0
+      5.1
+     -1.5
+     -3.5
+     -1.1
+     -0.9
+6.5
+      8.3
+      9.6
+      9.7
+     14.3
+8879.0
+   8940.3
+   9011.7
+   9084.3
+   9192.5
+9172.5
+   9174.7
+   9220.7
+   9194.9
+   9199.5
+9208.5
+   9247.4
 Period
 In M3 onlyIn M2
 p    prel iminary
@@ -859,10 +1105,17 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
 Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2002 21,421 --- 21,421 12,720 12,748 5,074 2,280 --- 32,822 --- 54,242 -5,366 517 -4,850
+2003 18,150 --- 18,150 6,565 7,814 4,107 220 --- 18,706 10 36,846 2,223 1,036 3,259
+2003 QI 6,024 --- 6,024 1,796 2,837 1,291 50 --- 5,974 --- 11,998 1,957 3,770 5,727
 QII 6,259 --- 6,259 2,209 1,790 234 --- --- 4,232 --- 10,491 -2,578 1,056 -1,522
 QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
 QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+2004 QI 1,707 --- 1,707 1,311 2,848 1,251 275 --- 5,685 --- 7,391 -772 -3,515 -4,286
+2004 Jan 619 --- 619 --- --- --- --- --- --- --- 619 -424 -5,097 -5,520
 Apr 3,516 --- 3,516 --- --- --- --- --- --- --- 3,516 1,041 1,355 2,396
+2004 Mar 31 71 --- 71 --- --- --- --- --- --- --- 71 4,352 --- 4,352
 Apr 7 190 --- 190 --- --- --- --- --- --- --- 190 -3,727 --- -3,727
 Apr 14 403 --- 403 --- --- --- --- --- --- --- 403 5,420 --- 5,420
 Apr 21 200 --- 200 --- --- --- --- --- --- --- 200 -4,484 4,000 -484
@@ -875,5 +1128,6 @@ Jun 2 33 --- 33 --- --- 713 84 --- 797 --- 830 -564 3,000 2,436
 Jun 9 1,437 --- 1,437 --- 725 275 --- --- 1,000 --- 2,437 -6,834 2,000 -4,834
 Jun 16 14 --- 14 --- 1,035 --- --- --- 1,035 --- 1,049 248 -2,000 -1,752
 Jun 23 172 --- 172 --- --- --- --- --- --- --- 172 6,762 -4,000 2,762
+2004 Jun 24 1,640 --- 1,640 --- --- --- --- --- --- --- 1,640 -14,036 4,000 -10,036
 Intermeeting Period
 Memo: LEVEL (bil. $)

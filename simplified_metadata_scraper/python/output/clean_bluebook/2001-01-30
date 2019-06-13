@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (F.R.) January 26, 2001
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -34,6 +42,8 @@ Chart 1
 Financial Market Indicators
 Jan Apr Jul Oct Jan Apr Jul Oct
 2001 2002
+7.00
+Percent
 December 18, 2000
 January 26, 2001
 Expected Federal Funds Rates Estimated from
@@ -42,9 +52,13 @@ Financial Futures*
 allowance for term premia and other adjustments.
 Jun Jul Aug Sep Oct Nov Dec Jan
 2000
+7.00
+Percent
 Selected Treasury Yields
 Jun Jul Aug Sep Oct Nov Dec Jan
 2000
+12
+Percent Percent
 High Yield
 (left scale)
 Corporate BBB
@@ -57,14 +71,23 @@ Ten-year Swap
 Selected Private Long-Term Yields
 Jun Jul Aug Sep Oct Nov Dec Jan
 2000
+800
+Basis Points
 High Yield
 Selected Risk Spreads*
 *These spreads are the difference between the yields on the Merrill Lynch 
 175 and BBB indexes and that on the Merrill Lynch AAA index.
 Jun Jul Aug Sep Oct Nov Dec Jan
 2000
+130
+Index(5/31/00) = 100
 Wilshire 5000
 Selected Equity Indexes
+160
+Basis Points
+2000
+1998-1999
+1995-1997
 Spread of Low-Tier CP Rate
 over High-Tier CP Rate*
 Daily
@@ -98,15 +121,27 @@ commercial paper outstanding declined.  Since the intermeeting po licy move in e
 January, a substantial volume of corporate bonds, including a number of junk bonds,
 Chart 2
 Financial Flows and Exchange Rates
+1999 2000
+H1
+2000
+Q3
 O N D J
 p - Preliminary.
 M2 Growth
 Percent
+1999 2000
+H1
+2000
+Q3
 O N D
 Total Debt
 Annualized
 Percent
 p - Preliminary.
+1999 2000
+H1
+2000
+Q3
 O N D
 Business Debt
 Sum of Selected Components*
@@ -126,6 +161,7 @@ Index(9/1/99) = 100
 Nominal Trade-Weighted Dollar Exchange Rates
 Solid vertical line indicates last FOMC meeting.
 Dashed vertical line indicates January 3 cut in target federal funds rate.
+1999 2000
 *30-day rolling standard deviation of the
 daily percentage change.
 *30-day rolling standard deviation of the
@@ -169,6 +205,7 @@ dollar appreciated 4½ percent against the yen over the intermeeting period.  Th
 Japanese economic picture revived talk that the Bank of Japan may return its official
 interest rate, now at ¼ percent, to zero, and money market futures rates, as well as
 longer-term yields, shifted down a touch.  The exchange value of the dollar rose about
+1 percent against a  basket of currencies of our other important trading partners.
 General concerns about the effects on Latin America of a slow ing in U.S. growth
 supported the dollar relative to the Mexican peso and the Brazilian real.  The
 currencies of many Asian em erging market economies that are viewed as especially
@@ -193,6 +230,7 @@ because efficiency gains outpaced the lagging pickup in real wages.  But with th
 leveling out of structural productivity growth, this disinflationary effect wanes, and the
 degree of labor market slack consistent with steady inflation (the effective NAIRU)
 edges up from about 4¾ percent currently to about 5¼ percent by 2005.4  Also after
+2002, the federal surplus on a NIPA basis remains roughly stable at its current value
 of about 2 percent of GDP.  The dollar is predicted to depreciate at a 5 percent rate
 per year in real terms, and foreign economic growth picks up somewhat.  Together,
 these last two factors roughly stabilize the ratio of the current account deficit to GDP.
@@ -338,11 +376,13 @@ the very long run, trends in M2 and prices should be related.
 Growth  Rates of M 2 and M2 Velocity
 (in percent)
 Actual Projected
+2000 2001 2002
 M2 6.1 5½ 5½
 V2 0.0 -1½ 0
 Memo:
 Nominal
 GDP
+6.1 3¾ 5½
 (11) Even though velocity and opportunity cost have moved together on
 average over recent years, significant divergences also are apparent that may be related
 in part to the unusual behavior of the equity market.  Beginning in 1996, investors
@@ -485,6 +525,7 @@ pace of the latter part of last year, when firms seemed inclined to ho ld off on
 borrowing plans.  Business borrowing from banks is expected to m oderate, in part
 reflecting the increased reliance on bond offerings but also the more restrictive
 posture of loan  officers.  Debt of nonfederal sectors is projected to grow at about a
+6½ percent rate from December to June and total debt to grow at a 4¼ percent rate,
 held down by paydowns of federal debt.
 (20) M2 is projected to grow at a 5½ percent annual rate over the January-to-
 June period under the Greenbook forecast, well above the projected 2¾ percent
@@ -522,6 +563,9 @@ Growth Rate Ranges
       Dec-1999 Dec-2000      6.2      6.2      6.2                8.6      8.6       8.6               6.2      8.6      5.2
       Dec-2000 Jun-2001      7.0      6.5      5.9                8.8      8.6       8.3               6.5      8.6      4.3
       Jan-2001 Jun-2001      6.1      5.5      4.8                7.4      7.1       6.8               5.5      7.1      4.6
+1998-Q4  1999-Q4      6.3      6.3      6.3                7.7      7.7       7.7               6.3      7.7      6.8
+       1999-Q4  2000-Q4      6.1      6.1      6.1                9.1      9.1       9.1               6.1      9.1      5.3
+2000-Q4 Jun-2001      7.2      6.7      6.2                9.0      8.8       8.6               6.7      8.8      4.4
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Directive and Balance-of-Risks Language
 (21) Presented below for the mem bers' consideration is draft wording for

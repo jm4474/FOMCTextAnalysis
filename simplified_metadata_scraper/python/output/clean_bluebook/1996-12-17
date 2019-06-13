@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -41,6 +49,8 @@ I I I I I -I I I I I I I I I I I I I i I
 J F M A M J J A S O N D J F M A M J J A S O N D
 1995 1996
 Long-term Inflation Expectations
+1990 1992
+1994 1996
 Real Interest Rates
 Percent
 -- 5
@@ -121,6 +131,7 @@ by the standard staff econometric model. M3 grew 6-1/4 percent during 1996 throu
 November, slightly above the upper end of its 2 to 6 percent range. As expected, expansion
 of M3 outpaced that of bank credit adjusted for mark-to-market accounting effects. The
 rapid growth owed partly to money market mutual funds shares, which expanded at about a
+15 percent annual rate. In addition, although bank credit growth slowed this year, banks
 increased their reliance on deposit funding and paid down their borrowings from foreign
 offices, perhaps partly in response to the earlier reduction in deposit insurance premiums.
 MONEY, CREDIT, AND RESERVE AGGREGATES
@@ -145,6 +156,43 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+5.1
+7.0
+-21.1
+3.0
+-16.8
+-0.4
+4.6
+3.8
+4.9
+6.6
+7.1
+-28.4
+4.9
+3.5
+7.2
+0.3
+8.7
+4.9
+4.1
+5.1
+8.7
+5.2
+-7.0
+10.6
+5.7
+7.8
+-4.7
+5.3
+5.1
+3.8
+5.6
+3.9
+4.4
+-11.8
+7.9
+3.6
+6.2
 Policy Alternatives
 (7) The staff forecasts that the economy will expand over the next two years
 at a rate in line with the growth of potential, assuming an unchanged federal funds
@@ -156,6 +204,7 @@ pressures are evident in an upward drift in core inflation, especially once acco
 taken of technical adjustments to the CPI.
 (8) Nonetheless, the need for an immediate policy tightening could be
 questioned. The estimated output gap and underlying inflation pressures in 1997 and
+1998 in the staff forecast are fairly modest. Moreover, the Committee may be quite
 uncertain that there would be any deterioration in inflation, in light of the relatively
 good behavior of prices recently in the face of both a drop in the unemployment rate
 below most estimates of NAIRU and adverse supply side shocks in food and energy
@@ -236,6 +285,12 @@ Growth Rates of Money and Debt
 November
 to
 Adjusted for sweeps
+-7-3/4
+4-3/4
+1995:Q4
+to
+-4-3/4
+5-1/4
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
@@ -248,6 +303,7 @@ Feb-97 3856.0 3850.9 3845.8 4938.7 4935.4 4932.1 1057.2 1055.3 1053.3
 Mar-97 3872.9 3865.4 3857.9 4962.8 4958.1 4953.4 1051.5 1048.3 1045.1
 Growth Rate
 From To
+1.0 to 5.0 2.0 to 6.01996 Target Ranges:
 Directive Language
 (16) Presented below is draft wording for the operational paragraph that
 includes the usual options for Committee consideration.
@@ -269,6 +325,10 @@ Short-Term Lon-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds _ secondary market market Ipaper mutual prime maturity yields recently Bond market market
+95 -- High
+-- Low
+96 -- High
+Low
 Monthly
 Dec 95
 Jan 96
@@ -306,6 +366,22 @@ Dec 13 96
 - 8.25
 8.25
 - 8.25
+5.39 5.71 6.06
+6.31 6.74 6.95
+8.81
+6.98
+8.23
+7.00
+7.62
+7.67
+6.94
+5.65
+6.34
+5.63
+5.83
+5.93
+7.53 7.20 5.57
+8.62 8.09 5.75
 p - preliminary data
 Strictly Confidential (FR)-
 Clase II FOMC
@@ -317,8 +393,16 @@ Period M1 M2 M3 L and U.S. other' total
 In M2 In M3 only Investments' government'
 Levels (Sbillions)s
 Monthly
+1996-JULY 1108.2 3742.6 2634.4 990.0 4732.7 5851.4 3683.4 3729.4 10585.3 14314.7
+AUG. 1099.1 3754.4 2655.3 997.7 4752.1 5883.3 3677.7 3743.4 10625.5 14368.9
+SEP. 1091.1 3764.7 2673.6 1015.8 4780.6 5923.8 3693.2 3746.5 10667.8 14414.3
+OCT. 1075.8 3773.7 2697.9 1041.0 4814.7 3713.4 3758.2 10711.6 14469.8
+NOV. p 1076.1 3796.2 2720.1 1045.3 4841.5 3741.4
 Weekly
 1996-NOV. 4 1080.6 3790.4 2709.8 1041.1 4831.5
+11 1068.6 3792.0 2723.4 1039.6 4831.6
+18 1075.9 3797.2 2721.2 1047.8 4845.0
+25 p 1074.5 3792.6 2718.1 1049.5 4842.1
 DEC. 2 p 1089.1 3814.1 2725.0 1048.5 4862.6
 p preliminary
 pe preliminary estimate
@@ -339,6 +423,9 @@ Annual (Q4)
 1995
 Monthly
 1995-NOV.
+1996-JAN.
+FEB.
+MAR.
 APR.
 MAY
 JUNE
@@ -347,7 +434,223 @@ AUG.
 SEP.
 OCT.
 NOV. p
+320.0
+352.8
+371.9
+371.6
+373.2
+373.6
+373.3
+375.2
+376.0
+377.1
+379.4
+382.6
+385.0
+387.5
+390.3
+392.6
+381.6
+383.3
+388.7
+388.2
+389.8
+393.5
+397.4
+407.1
+406.3
+409.7
+413.7
+410.4
+407.3
+405.3
+396.1
+400.7
+412.1
+404.2
+359.2
+360.4
+353.0
+343.2
+337.8
+335.4
+332.4
+321.8
+315.0
+306.7
+298.4
+290.0
+280.9
+274.2
+1215.1
+1162.7
+1123.8
+1120.6
+1134.6
+1151.8
+1164.5
+1183.0
+1193.2
+1197.5
+1207.0
+1213.6
+1224.3
+1231.4
+1244.8
+1256.2
+792.3
+812.0
+934.2
+935.1
+937.7
+937.5
+937.1
+932.5
+930.4
+928.2
+927.5
+929.2
+933.4
+937.4
+942.1
+946.6
+356.5
+383.1
+455.5
+455.5
+460.3
+463.2
+468.4
+480.1
+480.3
+478.3
+486.3
+491.6
+497.7
+504.9
+511.0
+517.3
+196.3
+182.9
+225.2
+224.8
+227.2
+230.6
+243.9
+248.3
+245.6
+243.5
+249.4
+252.9
+257.2
+262.7
+264.3
+267.2
+334.8
+358.6
+414.1
+415.3
+417.2
+416.1
+421.6
+428.5
+430.9
+436.5
+442.6
+448.5
+452.0
+459.9
+476.8
+482.9
+155.3
+175.9
+185.8
+186.8
+179.4
+186.6
+188.7
+186.8
+187.6
+203.1
+194.3
+192.5
+191.6
+194.7
+196.9
+194.1
+66.1
+81.7
+91.6
+90.7
+91.1
+95.4
+96.6
+94.4
+97.0
+97.1
+97.6
+96.2
+96.8
+98.5
+103.1
+101.1
+170.7
+179.8
+184.5
+184.5
+184.8
+185.0
+185.0
+185.2
+185.6
+186.0
+186.4
+186.8
+187.2
+187.3
+339.5
+380.9
+468.6
+464.5
+475.7
+466.1
+445.1
+459.5
+461.7
+433.5
+445.0
+447.4
+454.2
+462.1
+382.4
+401.5
+438.2
+437.1
+437.1
+437.2
+442.3
+445.1
+461.0
+473.4
+470.9
+473.1
+478.6
+482.4
 p preliminary
+15.7
+13.8
+12.7
+12.6
+12.0
+11.8
+10.3
+9.8
+10.3
+10.8
+11.4
+11.4
+11.3
+11.5
 December 13,1996
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
@@ -360,15 +663,126 @@ purchases (-) change 1 year 1-5 5-10 1 over 10 (-) Change total 4 Net RPs
 ---Q2
 ---Q3
 ---Q4
+1996 ---Q1
+--- 02
+--- 03
+1995 December
+1996 January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
 Weekly
 September 4
+11
+18
+25
 December 4
 11
 Memo: LEVEL (bil. $) 6
 December 11
+17,717
+17,484
+10,932
+4,470
+842
+17,717
+17,484
+10,032
+4,470
+842
+10,350
+9,168
+4,966
 --- 2,549
 - 100
+390 2,317
+35
+1,240
+4,168 3,457
+3,818 3,606
+1,239 3,122
+1,138
+100
+767
+2,337
+1,476
+621
+370
+1,2
+779 1,065
+97 900
+18,431
+15,493
+8,241
+-621
+4,156
+200
+4,506
+28 -1,228
+87 2,691
 --- 3,716
 --- 4,591
+393.395.5 33.8 41.8
+35,374
+31,975
+16,970
+-850
+8,314
+541
+8,965
+-1,336
+5,952
+3,637
+-108
+2,697
+-16
+3,271
+-52
+3,716
+-27
+-63
+-50
+-13
+5,974
+-7,412
+-1,023
+-4,083
+10,395
+-15,979
+8,644
+-8,879
+2,959
+-12,623
+-1,689
+5,433
+-505
+4,174
+-711
+7,118
+-9,267
+-304
+3,625
+-3,632
+4,811
+-5,122
+4,998
+-8,126
+6,128
+-5,749
+9,711
+-6,460
+4,626
+-9,749
+9,865
+-2,552
+3,743
+407.8 -12.3
 asury and agency securities.
 rchase transactions (-), and matched purchase sale transactions (+).

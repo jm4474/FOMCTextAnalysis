@@ -57,6 +57,11 @@ as well as retention of an assessment of balanced risks and the “measured pace
 language.  Futures quotes imply that investors expect about 50 basis points of
 cumulative tightening over the first three meetings in 2005 and another 25 basis
 points later in the year.
+1 The effective federal funds rate averaged 2.00 percent over the intermeeting period.  The Desk 
+expanded the System’s outright holdings of securities by $8.6 billion, with purchases of $0.5 billion 
+of Treasury bills from foreign official customers and $2.5 billion of Treasury bills and $5.5 billion of 
+Treasury coupon securities from the market.  The volume of outstanding long-term RPs increased 
+$3.0 billion, to $20 billion.
 (2) The small upward revision in policy expectations for the next year
 contributed to a modest rise in yields on shorter-term Treasury coupon securities.2
 However, longer-term Treasury yields, which were buffeted during the period by
@@ -65,6 +70,7 @@ finished the period 5 to 10 basis points lower, perhaps reflecting in part the w
 than-expected data on economic activity.3  Much of the decline in longer-term yields
 was concentrated in forward rates at distant horizons.  The volatility of long-term
 interest rates implied by options prices edged lower over the period.  TIPS yields fell
+5 to 10 basis points.  Inflation compensation for the next five years rose slightly,
 extending its advance of the past several months.  Inflation compensation over the
 subsequent five years, however, remained well anchored, and survey measures of
 long-term inflation expectations were little changed.
@@ -180,6 +186,7 @@ Federal debt is estimated to be surging at a 10 percent pace in the fourth quart
 Total domestic nonfinancial sector debt appears to be advancing at about an 8 percent
 annual rate in the fourth quarter, the same pace as in 2004 as a whole.
 (7) M2 rose at about a 6¼ percent annual rate in November, up from
+2½ percent in October.  This aggregate appears to be expanding a bit more slowly
 than nominal income in the fourth quarter, in line with the slight increase in the
 opportunity cost of holding M2 assets.  Retail money funds, in particular, have been
 weak as investors evidently have found alternative investments, such as Treasury bills
@@ -196,6 +203,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2002 2003 H1 Q3 Oct Nov
+  2004
 Monthly rate
 Growth of Household Debt Percent
 Quarterly, s.a.a.r.
@@ -207,10 +216,13 @@ Home
 Mortgage
 Growth of Federal Debt
 Quarterly, s.a.a.r.
+2002 2003 H1 Q3 Q4
+  2004
 e Estimated.
 Note. Treasury debt held by the public at period-end.
 Growth of Nonfinancial Debt
 Percent, s.a.a.r.
+2004 Q1
 e Estimated.
 Growth of M2
 e Estimated.
@@ -257,6 +269,7 @@ prices of the modest slack in resource markets in the interim are offset by the 
 through of this year’s rise in energy prices, and core PCE inflation is forecast to
 remain near 1½ percent in 2005 and 2006.  However, with energy prices on a
 downward track, overall PCE inflation falls back from 2½ percent this year to about
+1¼ percent in 2005 and 2006.
 (9) This Bluebook presents three alternatives for the Committee’s consideration
 (see Table 1).  Under Alternative B, the federal funds rate would rise 25 basis points,
 but the statement would imply that the Committee saw a distinct possibility of a pause
@@ -421,6 +434,10 @@ should not be interpreted as policy prescriptions, but rather as potential input
 policy process.
 Chart 5
 Equilibrium Real Federal Funds Rate
+8
+Percent
+25 b.p. Tightening
+Current Rate
 Short-Run Estimates with Confidence Bands
 Short-Run and Medium-Run Measures for 2004:Q4
 Actual real federal funds rate
@@ -516,10 +533,13 @@ Greenbook.  Indeed, another 25 basis points of tightening at this meeting would 
 Chart 6
 Actual and Assumed Federal Funds Rate and
 Range of Values from Policy Rules and Futures Markets
+10
+Percent
 Shaded region is the range of values from rules 1a, 2a, 4, 5, and 6 below
 Actual federal funds rate and Greenbook assumption
 Market expectations estimated from futures quotes
 Values of the Federal Funds Rate from Policy Rules and Futures Markets
+2004 2005
 Q3 Q4 Q1 Q2 Q3
 ** Computed using average TIPS and nominal Treasury yields to date.
 Policy Rules Chart: Explanatory Notes
@@ -534,6 +554,10 @@ closest to the middle of each quarter, unless otherwise noted.
 Rule Specification
 Root-mean-
 square error
+1988:1-
+2004:3
+2001:1-
+2004:3
 Rules with Imposed Coefficients
 .83a .32a
 Rules with Estimated Coefficients
@@ -568,6 +592,17 @@ tightening again at the February meeting if incoming information suggested that
 another move was appropriate.  For example, the Committee pointed to the
 cumulative easing of policy in its June 2001 statement, but it nonetheless eased policy
 further at its August meeting.
+5 Another option under Alternative B would be for the Committee to indicate that “The Federal 
+Open Market Committee decided today to raise its target for the federal funds rate by 25 basis 
+points to 2¼ percent, bringing the cumulative increase in the target rate over the past several 
+months to 1¼ percentage point.”  (Analogous language was presented in the November Bluebook.)  
+Such a quantification of the cumulative increase in the funds rate would be another means of 
+suggesting that the FOMC was considering an adjustment to the policy trajectory going forward, and 
+indeed the Committee adopted such an approach in its June 2001 statement.  A disadvantage of this 
+wording is that on its face it would appear to be nothing more than a simple arithmetic statement.  
+Also, if the Committee elected not to pause in February, it would be necessary either to update the 
+arithmetic by changing the reference from 1¼ percentage points to 1½ percentage points or to 
+rewrite the statement more substantially.
 (15) The release of the announcement for Alternative B would likely lead to
 some easing of financial conditions.  Although investors have priced in a 25-basis-
 point increase in the target federal funds rate at this meeting, they do not anticipate
@@ -654,8 +689,12 @@ Committee will respond to changes in economic prospects as needed to
 fulfill its obligation to maintain price stability.
 Appendix A Chart 1
 The Yield Curve
+4
+Percentage Points
 + Denotes most recent weekly value.
 Spread Between Ten−year Treasury Yield and Federal Funds Rate
+7
+Percent
 December 9, 2004   
 November 9, 2004
 Selected Treasury Yield Curves*
@@ -676,12 +715,16 @@ Currencies
 Other Important
 Appendix A Chart 3
 Stock Indexes
+45
+Ratio
 Ratio Scale
 1941−43=10
 * Based on trailing four−quarter earnings.
 + Denotes most recent weekly value.
 P/E Ratio*
 S&P 500
+140
+160
 Ratio Scale
 1941−43=10
 * Deflated by the CPI.
@@ -689,16 +732,24 @@ Ratio Scale
 S&P 500*
 Appendix A Chart 4
 One−Year Real Interest Rates
+8
+Percent
 * Mean value of respondents.
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Michigan Survey)*
+8
+Percent
 * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters
 thereafter.  Median value of respondents.
 GDP Deflator
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Philadelphia Fed)*
+8
+Percent
 + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
 One−Year Treasury Constant Maturity Yield Less Change in the Core CPI from Three Months Prior
 Appendix A Chart 5
 Long−Term Real Interest Rates*
+10
+Percent
 +
 +
 +
@@ -708,6 +759,8 @@ Philadelphia Fed Survey
 Real rate using
 Michigan Survey
 Ten−year TIPS yield
+14
+Percent
 +
 +
 Nominal and Real Corporate Bond Rates
@@ -725,16 +778,33 @@ Michigan Survey
                 the most recent weekly nominal yield less the most recent inflation expectation.
 Appendix A Chart 6
 Commodity Price Measures
+130
+140
 Ratio scale, index (1980=100)
 Journal of Commerce Index
+340
+360
+380
 Ratio scale, index (1967=100)
 CRB Spot Industrials
+300
+Ratio scale, index (1967=100)
 CRB Futures
 Appendix A Chart 7
 Growth of Real M2 and M3
+10
+Percent
+10
+Percent
+15
+Percent
+15
+Percent
 Appendix A Chart 8
 Inflation Indicator Based on M2 and Two
 Estimates of V*
+140
+Ratio ScalePrice Level
 GDP implicit
 price deflator (P)
 Long-run equilibrium
@@ -743,8 +813,14 @@ current M2 and constant V*
 Long-run equilibrium
 price level (P*) given
 current M2 and V* with shift
+140
+Ratio Scale
+12
+PercentInflation*
 Constant V*
 V* with shift
+12
+Percent
 * Change in GDP implicit price deflator over the previous four quarters.
 Short-term Long-term
 Federal
@@ -761,6 +837,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 20-year 5-year 10-year Fixed-rate ARM
 Appendix A Table 1
 Selected Interest Rates
 (Percent)
@@ -801,6 +878,10 @@ Dec
 Dec  
 Dec  
 Dec
+03   -- High
+-- Low
+04   -- High
+-- Low
 Appendix A Table 2
 Money Aggregates
 Seasonally Adjusted
@@ -811,9 +892,20 @@ Annual growth rates (%):
 Annually (Q4 to Q4)
 Levels ($billions):
 Monthly
+2004-June 1335.9 6298.6 4962.7 2999.4 9298.0
+July 1325.0 6293.1 4968.1 2986.8 9279.9
+Aug. 1342.9 6304.1 4961.2 3004.3 9308.4
+Sep. 1346.9 6335.5 4988.6 3006.8 9342.3
+Oct. 1345.9 6348.8 5002.9 2969.7 9318.5
 Weekly
 2004-Oct. 4 1363.7 6339.1 4975.4 2988.8 9327.9
+11 1332.2 6333.4 5001.2 2959.3 9292.6
+18 1336.6 6356.3 5019.7 2958.0 9314.3
+25 1361.9 6360.4 4998.4 2971.2 9331.6
 Nov. 1 1350.8 6371.6 5020.7 2964.8 9336.3
 8 1340.2 6372.9 5032.6 2961.4 9334.2
+15 1348.4 6375.6 5027.2 2949.6 9325.2
+22p 1373.3 6386.9 5013.6 2950.4 9337.3
+29p 1393.1 6387.2 4994.1 2965.9 9353.1
 p preliminar y
 e estimated

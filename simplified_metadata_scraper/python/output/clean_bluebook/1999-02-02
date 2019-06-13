@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 JANUARY 29, 1999
 MONETARY POLICY ALTERNATIVES
@@ -57,6 +65,7 @@ since trading in the currency began on January 4, as data releases confirmed a s
 growth and the lack of inflationary pressures in many parts of the euro area, particularly in
 Germany. The Bank of England lowered its repo rate 25 basis points on January 7, surprising
 most market analysts, who had not expected another cut so soon, and the dollar appreciated about
+2 percent with respect to sterling.
 The Desk did not intervene on behalf of the System or the Treasury.
 (4) Prices of emerging market financial assets were importantly influenced by events
 in Brazil. The declaration on January 6 by the state of Menas Gerais of a moratorium in its debt
@@ -107,6 +116,8 @@ take advantage of low interest rates. The federal government continued to pay do
 holding total nonfinancial sector debt growth to about a 6-1/4 percent rate over the fourth quarter.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1997:Q4
+to
 Nov. Dec. Jan. 1998:Q4
 Money and Credit Aggregates
 M1
@@ -114,6 +125,11 @@ Adjusted for sweeps
 Domestic nonfinancial debt
 Federal
 Nonfederal
+6.6
+-0.5
+8.8
+10.6
+17.8
 Bank credit
 Adjusted1
 Reserve Measures
@@ -125,9 +141,24 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves 1624
+4.5
+6.9
+6.1
+-0.4
+8.2
+9.0
+11.6
+8.3
+8.7
 n.a.
 n.a.
 n.a.
+-0.9
+1.4
+13.4
+12.9
+11.2
+10.4
 Longer-Term Strategies
 (7) This section considers alternative longer-term strategies for monetary policy and
 highlights some important risks to the outlook. The staff FRB/US model is used to extend the
@@ -156,6 +187,7 @@ rises over the Greenbook forecast period and beyond.5 The unemployment rate is a
 percentage point below the NAIRU at the beginning of 2001, oil prices are on the upswing, and
 the dollar continues to depreciate. The Committee is assumed to start tightening immediately
 after the Greenbook horizon, raising the nominal federal funds rate to nearly 6-1/2 percent in
+2002, a level sufficient to halt the rise in inflation at 2-3/4 percent. The funds rate falls
 subsequently, but like the unemployment rate, to a level somewhat above its long-run
 equilibrium path in order to offset the price effects of the continuing depreciation of the dollar.
 The alternative strategy, shown by the dotted lines, is designed to achieve price stability--
@@ -208,6 +240,7 @@ indication of a permanent increase in desired capital stocks relative to their b
 a reflection of overly optimistic firms. In this scenario, firms reassess their capital stock needs
 and scale back the pace of accumulation over the next few years. With aggregate demand softer,
 the Committee, following the Taylor rule, would substantially reduce the funds rate in 1999 and
+2000. Thereafter, as the downward demand shock wears off and the fundamental imbalances
 present in the baseline show through in rising inflation, the Committee begins to firm policy in
 parallel with the baseline path.
 (12) The staff has built into the baseline a gradual depreciation of the dollar that limits
@@ -215,6 +248,7 @@ the deterioration of the current account and the rate of increase in the net for
 the United States. However, exchange-rate adjustments are typically not so gradual, and Chart 6
 presents a weaker dollar scenario in which the depreciation of the dollar that is assumed over
 the baseline horizon is more front-loaded: The dollar depreciates very sharply by the end of
+2000, but converges with the falling baseline path by 2010. The depreciation of the dollar
 imparts both an aggregate demand shock--as the relative price change spurs demand for U.S.
 goods--and a price shock--as the prices of imports and import-competing products rise. The
 Committee, seeing both lower unemployment and higher inflation, raises the nominal funds rate
@@ -242,6 +276,8 @@ debt in 1999, which are explained in the text that follows and may provide refer
 if somewhat unreliable--to assess money and debt growth as the year progresses.
 Money and debt growth
 (in percent)
+1998 1999 Provisional
+(Actual) (Projected) 1999 ranges
 Debt 6.3 5-1/4 3 to 7
 Nominal 5.1 4
 GDP
@@ -265,22 +301,31 @@ Intercept Fit from 1994:Q3- 1998:Q4
 (slope taken from lower regression line)
 :04 94:Q3
 99:Q4
+92:Q4
+902 **
+91:Q4 f 90:042-
+Fit f rom. , 199 - 18 9'
 Fit from 1959:Q2 - 1989:Q4
 Opportunity Cost (ratio scale)
 Ratio scale
 Percentage pointsRatio scale
+2.1 r-
 M2 Velocity
 (left scale)
 M2 Opportunity Cost
 I I I I I I I I I
 / IF
 00, .
+1978 1980 1982
 * Two quarter moving average
+1.9 -
+1.8 -
 ariussur er s s i s r r
 providing some information, namely that the banking system was sufficiently healthy to cushion
 the effects of disruptions in securities markets on spending.
 (15) In the staff forecast, assuming no change in the federal funds rate, nominal GDP
 decelerates to 4 percent in 1999. Under the circumstances, M2 is projected to grow 6 percent in
+1999, a considerable slowdown from 1998 but still well above nominal GDP growth and above
 the upper end of its price-stability range set provisionally last July. A portion of the decrease in
 velocity of nearly 2 percent can be attributed to residual adjustments of M2 asset holdings to the
 decline in market interest rates and opportunity costs last fall. In addition, money market mutual
@@ -302,6 +347,7 @@ securitizing loans amid the market turmoil, and attractive investment opportunit
 Absent new shocks to the financial system, these factors are expected to recede, and bank and
 thrift credit should expand at a pace closer to that of total debt and nominal GDP. In addition,
 growth in money market mutual funds in M3 is projected to slow from the exceptional rate of
+1998 as short-term market rates remain stable and the spread of money-fund cash-management
 programs to businesses moderates. We have allowed for a bit more of a pickup in M3 than in
 M2 as a consequence of the century date change. Investors' concerns about placing funds
 directly in securities markets could create market pressures that would induce firms to shift
@@ -420,6 +466,7 @@ Directive Language
 Committee's ranges for the aggregates in 1999 and the operational paragraph for the
 intermeeting period. The wording of the operational paragraph reflects the new language
 approved at the December meeting.
+1999 RANGES
 The Federal Open Market Committee seeks monetary and financial conditions
 that will foster price stability and promote sustainable growth in output. In furtherance of these
 objectives, the Committee [DEL: reaffirmed] at THIS [DEL: its] meeting [DEL: on June 30-July 1 the] ESTABLISHED
@@ -457,3 +504,57 @@ Growth Rate
 From To
 Dec-98 Jun-99
 Jan-99 Jun-99
+1998 Q4 Jun-99
+1996 Q4 1997 Q4
+1997 Q4 1998 Q4
+1998 Annual Ranges:
+1999 Provisional Ranges:
+1.0 to 5.0
+1.0 to 5.0
+2.0 to 6.0
+2.0 to 6.0
+3.0 to 7.0
+3.0 to 7.0
+11.6
+7.7
+6.6
+6.3
+6.3
+5.8
+8.7
+11.6
+7.6
+5.9
+5.7
+5.6
+5.8
+8.7
+13.5
+8.0
+7.3
+6.0
+6.3
+6.0
+8.1
+7.7
+7.1
+7.6
+8.8
+11.1
+11.6
+7.4
+5.1
+5.2
+5.0
+5.8
+8.7
+8.2
+8.0
+7.3
+7.9
+8.8
+11.1
+6.8
+7.3
+8.8
+11.1

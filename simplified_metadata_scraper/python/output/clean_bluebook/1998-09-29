@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 SEPTEMBER 25, 1998
 MONETARY POLICY ALTERNATIVES
@@ -34,6 +42,12 @@ investors to mark down their outlook for profits in the United States and to til
 toward safe and liquid assets. Major U.S. equity price indexes dropped 3-1/2 to 6-1/2 percent
 over the intermeeting period and are off 12 to 14 percent from their July peaks (chart).' Share
 prices for money center banks and investment houses were especially hard hit amid news about
+1 Trading volumes on major U.S. stock exchanges were extremely heavy but apparently
+posed few significant problems for clearing and settlement systems. Although intraday equity
+price movements were sizable-in index-point terms larger than those that tripped major circuit
+breakers in October 1997--they were not large enough in recent weeks to trigger any circuit
+breakers that would halt trading. Since earlier this year, such circuit breakers have been based on
+percent changes in market values rather than index points.
 the extent of their trading losses and speculation about the magnitude of their exposure to
 emerging markets and distressed counterparties. Prices of Treasury securities were buoyed by
 the strong safe-haven demands as well as by market sentiment that financial difficulties abroad
@@ -52,6 +66,11 @@ and greater reluctance to bear risk were abundant. Implied volatility derived fr
 including those on the S&P 500, Eurodollar futures, and Treasury bond futures--has remained
 elevated since the end of August. Spreads on swaps and mortgage securities fluctuated over a
 wide range and increased considerably on balance. Corporate bond markets also appeared
+2 In view of the volatility in financial markets, daily Desk operations were sensitive to
+ensuring an adequate degree of liquidity in the market. The average federal funds rate over the
+intermeeting period was close to its intended level. Anecdotal information suggests that intraday
+demand for reserves in the turbulent market atmosphere was somewhat elevated, although much
+of the actual increase in excess reserves reflected wire transfer problems in a single period.
 unsettled at times. Declines in yields on investment-grade bonds over the intermeeting period,
 while appreciable, did not match the fall in yields on comparable-maturity Treasuries, and
 investment-grade issuers pulled back offerings as they waited for more favorable market
@@ -103,6 +122,7 @@ constraining further declines in nominal and real rates in Japan. With incoming 
 further deterioration in the Japanese economy, the Bank of Japan announced that it would guide
 the overnight call rate down to around 1/4 percent from the previous target "somewhat below"
 the official discount rate of 1/2 percent. This move, which surprised investors, contributed to a
+36 basis point decline in Japanese bond yields over the intermeeting period to a level of 85 basis
 points. The lack of progress on legislation to reform the banking system contributed to the
 negative outlook for Japan.
 . The Desk did not intervene during the period for the
@@ -124,6 +144,8 @@ business borrowing actually picked up in September despite the tumult in financi
 somewhat more restrictive lending stance by banks.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+1997:Q4
+to
 July Aug. Sept. Sept.2
 Money and Credit Aggregates
 Domestic nonfinancial debt 6.2 6.0 n.a. 6.2
@@ -141,6 +163,7 @@ aggregate demand would result in very slow growth in U.S. output over the next f
 further disinflation from the already-modest pace of price increases. Thus, in the Greenbook the
 staff has assumed that the FOMC will initiate a series of easing moves that cumulate to 3/4
 percentage point over the next six months. Still, output growth slows in the forecast to about
+1-1/4 percent in 1999, and the unemployment rate rises to 5-1/4 percent by the end of that year.
 Both total and core CPI inflation are projected to be about 2 percent in 1999 and 2000, held down
 to an important extent by restrained inflation expectations as well as by technical changes in the
 indexes that take effect in 1999. Thus, even with the easing, the staff outlook for economic
@@ -151,6 +174,10 @@ tendency range.3
 may wish to reduce the funds rate 25 basis points at this meeting, as in alternative A. Now that
 the stock market has fallen and credit terms have tightened, the real federal funds rate probably
 can be reduced from its unusually high level without adding to inflation pressures. Indeed, with
+3 As of the July Humphrey Hawkins report, the central tendencies of the governors' and
+presidents' projections for 1999 were 2 to 2-1/2 percent for real GDP growth, 2 to 2-1/2 percent
+for CPI inflation, and 4-1/2 to 4-3/4 percent for the unemployment rate in the fourth quarter of
+1999.
 inflation expectations possibly falling further in recent months--as suggested by a much larger
 decline in the spread of nominal over indexed Treasury yields than can be accounted for by the
 relative liquidity of these instruments-the real federal funds rate may even have edged higher.
@@ -216,6 +243,10 @@ and likely engender added volatility. Short-term Treasury and private rates woul
 sharply, and longer-term rates also would rise, though perhaps not by much if, as seems likely,
 market participants believed that the easing had merely been postponed. Increases in Treasury
 yields might be less than in private rates, if adverse reactions in financial markets strengthened
+4 The reactions in financial and foreign exchange markets might be even larger if the
+discount rate were also reduced by 50 basis points, as such joint action might be seen as
+suggesting that the Federal Reserve is convinced that interest rates will remain low for a
+considerable period of time.
 flight-to-safety motives. A part of the recent improvement in foreign financial markets, which
 has been built on growing expectations of an easing in U.S. monetary policy, could be reversed,
 particularly in some especially vulnerable countries. The foreign exchange value of the dollar
@@ -237,6 +268,9 @@ deposits, whose rates adjust relatively sluggishly to declines in market rates, 
 deposits should run off, as offering rates on these deposits tend to adjust faster. Currency
 demand should remain strong, supported by ongoing turbulence abroad. Money market mutual
 funds should be buoyed by the declines in market rates and continue to benefit somewhat from
+5 The Greenbook projection could be considered to be consistent with a 25 basis point
+easing at this meeting and a similar move toward the end of 1998. Those assumptions are used
+for the projections of money growth under alternative A.
 the reduced attractiveness of stock mutual funds, but to a lesser degree than over the past couple
 months; the projected declines in stock prices are not as steep as those that already have
 occurred, and some of the money fund inflows at the onset of the bear market were likely only
@@ -250,6 +284,8 @@ strength in the aggregates apparently reflects shifts in money demand rather tha
 growth; M2 has been boosted by heightened demands for liquidity and shifts away from stock
 market investments, while the elevated growth of M3 has in part reflected a substitution of bank
 funding sources for market financing by lower-rated business firms.
+6 The ranges for 1998 and the preliminary ranges for 1999 are 1 to 5 percent for M2 and
+2 to 6 percent for M3.
 Directive Language
 (14) Presented below are three different wording choices for the operational paragraph.
 All include the usual policy alternatives for Committee consideration. The first incorporates the
@@ -310,6 +346,52 @@ Growth Rate
 From To
 Sep-98 Dec-98
 Sep-98 Mar-99
+1997 Q4 Sep-98
+1997 Q4 Dec-98
+1998 Q4 Mar-98
+1995 Q4 1996 Q4
+1996 Q4 1997 Q4
+1997 Q4 1998 Q4
+1998 Annual Ranges: 1.0 to 5.0 2.0 to 6.0
+11.0
+10.0
+7.0
+10.6
+7.1
+11.0
+10.0
+7.0
+10.2
+6.5
+7.8
+7.0
+10.1
+9.8
+8.3
+11.0
+10,0
+7.0
+10.4
+7.0
+8.2
+7.4
+10.1
+9.8
+8.4
+6.8
+8.8
+10.1
+9.9
+8.4
+6.8
+8.8
+6.8
+8.8
+9.9
+97 -- High
+-- Low
+98 - High
+- Low
 Monthly
 Sep 97
 Oct 97
@@ -352,6 +434,25 @@ Short-Term Long-Term
 Cos crporat mu conventional home
 fdal seondaury billset s om. U.S. government constant indexed yields t muni c mortgages
 funes market paper maturity yields ecn Buyer mraeonfunds markettl vyef primary market
+5.54
+5,50
+5,52
+5,50
+4.95
+4,97
+5.14
+5.16
+5.49
+5.49
+5,53
+5,78
+3.71
+3.66
+3.62
+5,64
+5.63
+5,59
+5.44
 p - preliminary data
 September 28,1998SELECTED INTEREST RATES
 Strictly Conlidenfial (FR)
@@ -364,11 +465,21 @@ nontransactionscomponents U. S
 Period M1 M2In M2 In M3 only M3 government' other' total'
 Levely (Sbillionri)
 Monthly
+1998-Apr. 1000.7 4167,2 3086.5 1411.7 5579.0 3791.3 11690.5 15481.8
+May 1077.7 4177.6 3099.9 1433.3 5610.8 3779.6 11775.9 15554.6
+June 1074.5 4196.1 3121.6 1443.6 5639.7 3775.7 11952.6 15628.3
+July 1071.6 4212.7 3141.2 1431,8 5644.5 3772.9 11935,6 15708.7
+Aug. 1068.4 4242.0 3173.7 1459,6 5701,6
 Weekly
 1998-Aug. 3 1083.1 4225.8 3142.8 1452.4 5678.2
+10 1063.3 4234.1 3170.8 1461.3 5495.4
+17 1061.4 4236.1 3174.7 1459.0 5695.1
+24 1065.4 4240.5 3175.0 1451.7 5692.2
+31 1075.4 4253.5 3178,1 1469.2 5722.7
 So* .
 7
 p 1064.7 4277,6 3212.9 1483.1 5760.7
+14p 1065.3 4288.4 3223.1 1479.8 5768,2
 p preliminary
 pe preliminary eslimate
 September 25, 1998
@@ -381,9 +492,160 @@ Treasury bills Treasurycoupons Federal Net change
 Net purchases 3 agencies outright
 Period Net Redemptions Ne wth Redemptions Net rdemtions holdings
 purchases (-1 change ye 1-5 5-10 over 10 () Change total 4 Net RPs
+1995
+1996
+1997
+1997 -- 01
+--0Q2
+---03
+-- Q4
+1998 -- Q01
+-- Q2
+1997 September
+October
+November
+December
+1998 January
+February
+March
+April
+May
+June
+July
+August
 Weekly
 June 10
+17
+24
 Memo: LEVEL (bi. $)
 September 23
+10,932
+9,901
+9,147
+3,550
+...
+10,032
+9,901
+9,147
+-2,000
+3,550
+390
+524
+619
+877
+644
+1.501
+1,369
+1,462
+1,947
+1,501
+1,369
+5,366
+3,898
+3,366
+5,822
+2,697
+7,794
+2,262
+2,993
+3,323
+4,471
+2,262
+2,993
+49.1 104.6
+1,432 2,529
+1,116 1,655
+3,649 5,897
+698 1,237
+1,233 1,894
+1,918 2,766
+848
+904
+1.049720* ..°.
+1,776 7,941
+2,015 5,179
+1,996 32,979
+607 5,314
+376 9,451
+598 2,744
+416 15,471
+478 4,311
+286 4,571
+416
+-..
+1,311
+.. °
+---
+41.3 53.9
+3,341
+1,002
+6,224
+8,245
+4,789
+4,571
+-1,311
+3,593
+1,023
+1,521
+16,970
+14,670
+40,586
+5,084
+13,554
+2,173
+2.251
+8,022
+3,236
+787
+6.198
+12,790
+-2,478
+-10
+4,739
+8,047
+-25
+-1,311
+3,518
+1,049
+-75
+1,023
+1,521
+-48
+4,148
+-1,023
+5,351
 .11,149
 6,771
+-4,493
+8,807
+-15,409
+10,707
+-181
+-4,412
+5.519
+7,700
+-21,985
+4,262
+2,314
+9,405
+-14,806
+16,108
+-9,397
+1,409
+-7,867
+10,838
+4,090
+-1.629
+-5,872
+8,421
+-10,085
+8,153
+-7,532
+9,774
+-6,976
+7,374
+-6,951
+8,405
+-5,832
+-235
+465.1 -18.7

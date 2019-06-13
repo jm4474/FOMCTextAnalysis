@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 July 2, 1981
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
@@ -40,6 +48,7 @@ Ma June to June to June
 (2) Bank credit increased at an 11¾ percent annual rate in
 May. Growth in business loans accelerated, but only to an 8 percent annual
 rate (net of acceptances); many firms satisfied their short-term credit
+1/ All data on monetary aggregates in this Bluebook reflect benchmark
 revisions, as described in Appendix I.
 needs by selling commercial paper as the prime rate lagged the downward
 movement in market yields. In June, credit expansion at large weekly
@@ -88,6 +97,8 @@ Treasury bills over this span largely to finance exchange market
 intervention activity.
 (6) Yields on most long-term securities trended downward
 through much of the intermeeting period, but have firmed noticeably in
+1/ Appendix II indicates the adjustments made to reserve paths during
+the intermeeting period.
 recent days. Corporate bond yields are still about 3/4 point lower than
 at the time of the last Committee meeting, but yields on longer-term
 Treasury coupon issues are up slightly. Interest rates in the primary
@@ -109,6 +120,7 @@ rates of change, in percent, for selected monetary and financial flows
 over various periods.
 June '81 June '81
 over over
+1978- 1979'- 1980- Mar. '81 Apr. '81
 Concepts of Money
 M-lA (Currency plus demand 5/ 5/
 (2.1) (-7.9)
@@ -116,6 +128,11 @@ Bank Credit
 Loan and investments of all
 Managed Liabilities of Banks
 (Monthly average change in
+1/ QIV to QIV.
+2/ Other than interbank and U.S. Government.
+3/ Includes loans sold to affiliates and branches.
+4/ Primarily federal funds purchases and securities sold under agreements to repurchase.
+5/ Adjusted for nationwide NOW accounts. Numbers in parentheses are observed changes
 unadjusted for shifts.
 The Money and Credit Targets for 1981
 (9) Under the Humphrey-Hawkins Act, the Federal Reserve must
@@ -130,9 +147,12 @@ lower boundaries of their ranges, while M2 is at, and M3 above, the upper
 limits of their respective ranges.
 Money and Credit Growth in the First Half of 1981
 (Seasonally adjusted annual rates, percent)
+1981
+80-IV to 81-11 80-IV to June Target
 M1-B (shift
 adjusted) 2.2 0.6 3½ to 6
 (10) It was anticipated when the Committee set its target for
+1981 in February that the broader monetary aggregates might tend to grow
 at rates around the upper ends of their ranges if narrow money grew at
 its midpoint rate. Thus the divergence in the first half between growth
 of M1-B and of M2 is somewhat larger than the staff projected would be
@@ -140,6 +160,7 @@ the case for the year. This divergence mainly reflects lower than
 expected growth in M1. Given the stronger increase in GNP for the first
 half than was projected last February, the slower M1 growth was accompanied
 by an unusually rapid two-quarter rise in its velocity--on the order of
+10 percent at an annual rate. There appears to have been a pronounced
 downward shift in the public's demand for transactions balances in the
 early part of the year, perhaps associated with the stimulus to more intense
 cash management provided by extraordinarily high interest rates and the
@@ -160,6 +181,7 @@ alternative 2, M1-B is assumed to grow by 3 percent, equal to the lower
 bound of the existing 1981 range. As may be seen, attainment of 4¾ per-
 cent M1-B growth is projected to involve M2 and M3 growth above the
 upper ends of the present target ranges for those aggregates, while
+3 percent growth of M-B is thought consistent with lower growth rates
 of the broader monetary aggregates (just within the present range for M2
 and just above for M3).
 M1-B (shift ad
@@ -170,8 +192,15 @@ Given Alternative M1-B Assumptions
 Exis
 Alt. 1 Alt. 2 80
 justed) 4¾ 3
+9 8¾
+10½ 9¾
+8¾ 8¾
 ting Target for
 -IV to 81-IV
+3 to 6
+6 to 9
+6 to 9
+6 to 9
 (12) Alternative 1 is the basis for the staff's Greenbook fore-
 cast, which shows nominal GNP growing at a 9 percent annual rate over the
 next two quarters. The staff also has assumed that there will not be a
@@ -187,6 +216,8 @@ or alternative 2 is, it should be stressed, quite sensitive to the
 assumption about M1-B demand. Should something like the downward shift
 of money demand over the first half be continued, alternative 1--or
 perhaps even alternative 2--could be associated with declining short-term
+1/ Interest rates thought consistent with alternatives 1 and 2 may be
+found in Appendix III.
 rates and noticeably stronger growth of nominal GNP and the broader
 monetary aggregates.1 /
 (13) The July Humphrey-Hawkins report will provide an occasion
@@ -197,15 +228,33 @@ to new NOW accounts may be near completion. The staff believes that at
 this time the over-all evidence does not justify a conclusion that the
 shift is over, but is consistent with a considerably slower movement into
 NOW accounts in the second half of the year than in the first. Thus far
+2/
+this year OCDs have increased by nearly $40 billion,2/ and we have assumed
 a further increase of $10 billion over the remainder of the year. Recent
 evidence on the proportions of new OCDs coming from various sources suggests
 that the percentage coming from demand deposits should be assumed to remain
 in the 70 to 75 percent area; in February it had been assumed that the
 proportion would fall to two-thirds. These assumptions would mean that
 actual M1-B would grow by 3 percentage points more than shift-adjusted M1-B.
+1/ The staff's monetary aggregate projections for future months assume
+that growth of small time and savings deposits will be bolstered by
+the DIDC's June 25 decisions to remove the cap for ceiling rates on
+small time deposits maturing in 2½ to 4 years and to remove ceilings
+entirely on such deposits maturing in 4 years or more, all effective
+August 1. It has been assumed that there will be a small net positive
+effect on M2. But the response of the public and the institutions to
+these decisions--not to mention legal issues that may be raised--
+represents an element of considerable uncertainty in the outlook, and
+will remain so for a few months. It also should be noted that the
+staff has not built the proposed tax-exempt savings certificate (under
+the "All Savers Act" bill) into its projection. This instrument would
+further enhance M2 growth.
+2/ Excluding the estimated trend increase of OCDs existing in December
+1980.
 The present range for actual M1-B of 6 to 8 percent assumes a 2 per-
 centage point impact. A point higher actual range would technically
 be justified if our assumptions about the second half of this year are
+1/ A larger adjustment would be entailed for actual M1-A. The present
 actual range is -4½ to -2 percent. On current assumptions about
 OCD growth and proportions coming out of demand deposits, this range
 might be lowered by 2 percentage points.
@@ -234,8 +283,10 @@ of the current range (which still involves an acceleration of growth
 over the second half of this year to a 4¾ percent annual rate), and
 that growth in the next two years is the same as in strategy 1 (but of
 course involving lower levels of money throughout the period). Strategy
+3 is the most restrictive, and assumes growth in M1-B at the lower end
 Economic Implications of Alternative
 Money Growth Strategies
+1981 1982 1983
 Adjusted M-1B (Percent
 Change, Q4 to Q4)
 Strategy 1
@@ -246,6 +297,8 @@ Q4 to Q4)
 Implicit Deflator (Percent
 Change, Q4 to Q4)
 Unemployment Rate (Q4)
+8.9
+9.2
 of the current range for 1981 and further decelerations of ½ point per year
 from that. All these strategies entail substantial declines in the rate
 of inflation, but at a cost within the projection period of a considerable
@@ -261,6 +314,7 @@ alternative II calls for a range that is 1 point lower.1/ The growth rates
 presented for M1-B can be considered as shift-adjusted, or, if the shift
 to NOW accounts is close to completion by the end of this year, as repre-
 senting ranges for growth in actual M1-B. Alternatives I and II retain
+2 point ranges for M1-B growth. A third alternative is presented with
 a 3-point range for M1-B growth should the Committee wish to widen the
 range to take account of uncertainties in the behavior of this variable
 related to, among other things, the significant changes in its composition.
@@ -268,6 +322,8 @@ The range shown under alternative III--2½ to 5½ percent--reduces the upper
 limit of the present 1981 range by point and the lower limit by 1 point.
 A 3-point range of 3 to 6 percent for M1-B would have the disadvantages
 of an upper limit that does not show a reduction from 1981 and of involving
+1/ No ranges have been presented for M1-A on the thought that the
+Committee may wish to consider dropping that aggregate next year.
 less restraint on growth of the broader aggregates than any of the
 alternatives presented.
 Projected Consistent Ranges for Money and
@@ -316,27 +372,80 @@ percent annual rate from June to August.
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 Alt. A Alt. B Alt. C
 Alt. A Alt. B Alt. C
+1981--May
+June
+July
+August
+September
 Growth Rates
 Monthly
 June '81 - September '81
 June '81 - August '81
 Quarterly Average
+1981--QII
+QIII
+393.3
+389.4
+393.0
+396.2
+399.4
+-11.9
+(-10.5)
+11.1
+(6.0)
+9.8
 (5.0)
 9.7
 (5.3)
 10.3
 (5.4)
 10.5
+4.8
+3.6
+393.3
+389.4
+392.3
+394.8
+397.2
+-11.9
+(-10.5)
+9.0
+(3.7)
+7.6
 (2.7)
 7.3
 (2.6)
 8.0
 (3.0)
 8.3
+4.8
+2.1
+393.3
+389.4
+391.8
+393.6
+395.1
+-11.9
+(-10.5)
+7.4
+(2.0)
+5.5
+(0.3)
+4.6
 (-0.3)
 5.9
 (0.7)
 6.5
+4.8
+0.8
+422.1
+418.4
+422.3
+425.8
+429.3
+-10.5
+(-9.7)
+11.2
 (13.2)
 10.0
 (11.6)
@@ -346,6 +455,16 @@ Quarterly Average
 (12.1)
 10.5
 (12.5)
+5.1
+4.1
+422.1
+418.4
+421.6
+424.4
+427.1
+-10.5
+(-9.7)
+9.2
 (11.2)
 8.0
 (9.7)
@@ -354,15 +473,32 @@ Quarterly Average
 8.3
 (10.0)
 8.3
+5.1
+2.8
+422.1
+418.4
+421.1
+423.2
+425.0
+-10.5
+(-9.7)
+7.7
+(9.8)
+6.0
 (7.8)
 5.1
 (6.4)
 6.3
 (8.0)
 6.3
+5.1
+1.5
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M2 M3
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1981--May 1743.7 1743.7 1743.7 2059.8 2059.8 2059.8
+June 1751.3 1751.3 1751.3 2077.2 2077.2 2077.2
+July 1765.5 1763.5 1762.1 2092.8 2090.8 2089.4
 August 1779.3 1776.0 1774.2 2108.1 2104.8 2101.9
 September 1792.7 1789.0 1785.4 2122.9 2119.2 2115.6
 Growth Rates
@@ -394,12 +530,14 @@ to expand, as internally generated funds do not keep pace with capital
 leave it below the lower end of the FOMC's 1981 range until November.
 If this growth rate were continued through year-end, it would result
 in growth for the year just marginally above the low end of the 3 to
+6 percent range for M1-B. The resulting combination of lower GNP and
 higher interest rates would tend to hold M2 growth down. Growth of total
 reserves of about 10½ percent, at an annual rate, from June to August,
 would be consistent with the alternative B monetary target. Given the
 present discount window structure, borrowing likely would run $2 billion
 or a bit more.
 (22) The federal funds rate probably would be around the 19 to
+20 percent area during the intermeeting period under alternative B. Other
 interest rates would probably rise from recent levels, perhaps substantially
 as the market is disappointed in its expectations that the funds rate would
 decline gradually as the summer progresses. The 3-month Treasury bill yield

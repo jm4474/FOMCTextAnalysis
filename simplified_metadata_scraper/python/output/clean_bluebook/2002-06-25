@@ -10,11 +10,25 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 JUNE 21,2002
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
 BY THE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+1    Financial market quotes are taken at the close of business Thursday, June 20.
+2   The federal funds rate has averaged very close to its 1-3/4 percent target over the
+intermeeting period.  The Desk has purchased $11.8 billion of Treasury securities in outright
+operations: $9.9 billion of Treasury coupon securities and bills in the market and $1.9 billion of bills
+from foreign official institutions.  The outstanding volume of long-term System RPs was decreased
+$1 billion to $18 billion.
 Strictly Confidential (F.R.) June 21, 2002
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -31,6 +45,7 @@ mark down their assessment of the strength of the economic expansion and to
 withdraw somewhat from taking on risk.  As a result, market participants now see
 monetary policy on hold into the fall, with no change in the balance-of-risks
 assessment, and have lowered the expected path of the intended funds rate about
+1/2 percentage point next year (chart 1).  Judged by options on interest rates futures,
 uncertainty about that path, at least at longer horizons, has increased appreciably.
 (2) Consistent with the downward revision to policy expectations, yields on
 short- and intermediate-term Treasury notes have fallen about 25 to 35 basis points
@@ -39,24 +54,32 @@ Chart 1
 Financial Market Indicators
 Jun Sep Dec Mar Jun Sep Dec Mar
 2002 2003 2004
+6
+Percent
 June 20, 2002
 May 6, 2002
 Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
  allowance for term premia and other adjustments.
+50
+Percent
 June 20, 2002
 May 6, 2002
 Months Ahead
 Eurodollar Implied Volatility Term Structure
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+7.0
+Percent
 Ten-Year TIPS
 Selected Treasury Yields*
 *Nominal Treasury yields are estimated from a smoothed yield curve based
  on off-the-run securities.
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+3.5
+Percent
 Long-Run Inflation Expectations
 Michigan Survey
 Philadelphia Fed Survey
@@ -65,6 +88,12 @@ Compensation*
 *The inflation rate that would equalize the price of the ten-year TIIS and
  the value of a portfolio of nominal zero-coupon securities with the
  same payments.
+3  Other factors reportedly influencing Treasury yields included purchases by investors of
+longer-term Treasuries to temper the effects on their portfolios of the shortening durations of
+mortgage backed securities as interest rates fell.  In addition, some states and municipalities
+purchased Treasuries in the market to defease their securities they have refunded in advance. 
+Normally, those entities would purchase nonmarketable issues from the Treasury, but with the debt
+ceiling currently binding, the Treasury has suspended such direct sales.
 debt has not moved much, the decline in the comparable nominal yield implies that
 inflation compensation has dropped by the same amount.  In contrast, survey
 measures of expected inflation have held steady.  In part, the drop in yields on
@@ -90,13 +119,19 @@ Chart 2
 Financial Market Indicators
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+120
+Index(8/31/00 = 100)
 Wilshire 5000
 Selected Equity Indexes
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+55
+Percent
 Implied Volatility of the S&P 100 (VIX)
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+250
+Basis Points
 High Yield*
 (left scale)
 Ten-year BBB
@@ -108,6 +143,8 @@ over Ten-Year Treasury
 *Source. Merrill Lynch.
 Sep Dec Mar Jun Sep Dec Mar Jun
 2000 2001 2002
+112
+Index(8/31/00 = 100)
 Broad Index
 Major
 Currencies Index
@@ -243,6 +280,7 @@ next year.  The tendency for economic slack to put downward pressure on core
 inflation in the interim, however, is about offset by an upturn in import prices, so core
 PCE inflation holds just below 1-1/2 percent this year and next.
 (8) At the end of the Greenbook forecast period in the fourth quarter of
+2003, the level of output is near its potential, the real funds rate is close to its
 equilibrium level, and pressures on inflation in either direction are muted.  But in the
 staff view, forces are in play that will require further policy action to maintain the
 economy along a sustainable path beyond the Greenbook horizon.  A depreciating
@@ -289,10 +327,12 @@ Civilian Unemployment Rate
 Percent Percent
 The solid line shows the path for the funds rate in the “perfect foresight” baseline
 chosen by a policy maker with a long-run inflation target for PCE inflation of about
+1-1/4 percent and an equal distaste for output deviating from its potential and
 inflation deviating from its target.  The perfect foresight path for the funds rate rises
 sooner but slightly more gradually than assumed in the Greenbook.  With this increase
 in the nominal funds rate, the real funds rate rises along with its gradually increasing
 equilibrium value.  By 2006, the real rate reaches its long-run equilibrium level of
+3-1/4 percent.  During the transition, spending expands a touch faster than potential
 output, putting the unemployment rate on a gradual descent to its natural rate.  The
 economic slack over that period more than counters the inflationary impetus of the
 assumed depreciation of the dollar, keeping core PCE inflation near its assumed 1-1/4
@@ -310,6 +350,7 @@ trimming the nominal funds rate about 1/2 percentage point by the end of the yea
 closely.  Because of the persistent weakness in equity prices, the nominal funds rate
 remains more than 1/2 percentage point below the baseline level through 2000,
 eventually bringing the real rate to its new lower equilibrium level of about
+2-3/4 percent.
 Chart 5
 Stock Market Decline Scenario
 Nominal Federal Funds Rate
@@ -454,13 +495,19 @@ follow the markets’ revisions to the path of the expected funds rate, and the
 Chart 7
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5
+Percent
 Actual Real Funds Rate
 TIIS-Based Estimate
 Historical Average: 2.76
   (1966Q1-2002Q1)
 Current Rate
+25 b.p.
+Tightening
+25 b.p. Easing
 Percent
 Equilibrium Real Funds Rate Estimates
+2000     2001 2002Q1 2002Q2 2003Q3    ____     ____ ______ ______ ______
 May Bluebook
 May Bluebook
 May Bluebook
@@ -522,12 +569,14 @@ interest rates little changed, growth of M2 for the four quarters of 2002 is exp
 be 5 percent, about in line with the expansion in nominal GDP.
 Table 1 :  Changes in market quotes on days of
 FOMC m eetings and intermeeting policy actions,
+1988 to 1998, percent of days
 Stock prices
 prices fa ll
 Yields fa ll 37 17
 Yields rise 19 27
 Table 2 :  Changes in market quotes on days of
 FOMC m eetings and intermeeting policy actions,
+1999 to 2002, percent of days
 Stock prices
 rise
 Stock prices
@@ -648,6 +697,171 @@ Weekly
                    
        June  3p    
             10p
+1.9
+    -1.7
+     6.8
+6.0
+    16.0
+     2.1
+     5.8
+7.5
+     9.7
+     13.9
+      9.1
+     55.1
+    -39.1
+      3.0
+     16.1
+         
+      3.3
+      1.9
+      2.9
+    -11.4
+      6.2
+1182.5
+   1184.4
+   1187.3
+   1176.0
+   1182.1
+1173.2
+   1168.7
+   1180.8
+   1194.1
+         
+   1196.7
+   1176.5
+6.3
+     6.1
+    10.3
+9.6
+    11.0
+     9.4
+     5.8
+6.0
+    10.9
+9.2
+      8.6
+     25.2
+     -1.5
+     10.3
+      9.8
+         
+      2.6
+      7.5
+     -0.7
+     -3.8
+     13.9
+5466.6
+   5500.6
+   5497.2
+   5479.8
+   5543.2
+5516.9
+   5535.1
+   5546.2
+   5563.9
+         
+   5545.5
+   5553.3
+7.8
+     8.6
+    11.3
+10.6
+     9.6
+    11.5
+     5.8
+5.6
+    11.2
+7.9
+      8.5
+     16.8
+      9.3
+     12.3
+      8.1
+         
+      2.4
+      9.0
+     -1.8
+     -1.7
+     15.9
+4284.1
+   4316.3
+   4309.9
+   4303.9
+   4361.1
+4343.7
+   4366.5
+   4365.4
+   4369.9
+         
+   4348.8
+   4376.8
+11.2
+    17.4
+    18.3
+23.1
+     8.1
+    18.2
+     2.7
+33.9
+    20.5
+1.2
+    -13.1
+     21.1
+     25.9
+     21.0
+     13.1
+         
+     -9.3
+      2.7
+      0.0
+      0.4
+      4.1
+2554.4
+   2560.2
+   2560.3
+   2561.1
+   2569.9
+2562.5
+   2577.1
+   2563.9
+   2574.6
+         
+   2568.0
+   2559.5
+7.7
+     9.3
+    12.7
+13.8
+    10.0
+    12.2
+     4.8
+14.7
+    13.9
+6.6
+      1.7
+     23.9
+      7.1
+     13.7
+     10.8
+         
+     -1.2
+      6.0
+     -0.5
+     -2.5
+     10.8
+8021.0
+   8060.9
+   8057.5
+   8040.9
+   8113.1
+8079.3
+   8112.3
+   8110.1
+   8138.5
+         
+   8113.6
+   8112.8
 Period
 In M3 onlyIn M2
 p preliminary
@@ -666,6 +880,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 Exhibit 10 June 21, 2002
 SELECTED INTEREST RATES
 (percent)
@@ -705,3 +920,12 @@ Jun
 Jun  
 Jun  
 Jun
+19
+26
+3
+14
+21
+01   -- High
+-- Low
+02   -- High
+-- Low

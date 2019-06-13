@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -29,6 +37,7 @@ reserves amplified by seasonal declines in reserve demands. Nonetheless, the res
 generally has remained tranquil in recent weeks, with day-to-day and intraday variations in
 the federal funds rate not discernibly affected.
 (2) Other interest rates rose 5 to 15 basis points over the intermeeting period (Chart
+1). Data on economic activity came in on the firm side of market expectations, leading many
 analysts to boost their forecasts of near-term growth. But prices and overall labor
 compensation generally continued to behave better than many market participants had
 expected, limiting the uptick in rates. On balance, the configuration of futures rates suggests
@@ -54,6 +63,11 @@ decline in the stock market, particularly bank stocks. In Canada, by contrast, r
 economic activity came in on the strong side; yields there rose 10 basis points, and the U.S.
 dollar depreciated 1-1/4 percent. In mid-January, Mexico repaid ahead of schedule its
 remaining $3-1/2 billion outstanding debt to the Treasury's Exchange Stabilization Fund.
+1 The real yield on the Treasury's new issue of ten-year indexed debt, which elicited
+considerable interest at its auction earlier this week, is currently 3.35 percent. Relating that
+measure to either survey-based or ex post calculations of real returns, however, will prove
+problematic until additional evidence on the behavior of real yields on indexed securities
+accumulates.
 The Desk did
 not intervene.
 (4) Recent data suggest that the monetary aggregates ended the old year and opened
@@ -63,9 +77,22 @@ decline in interest rates since September, on net, also may have contributed to 
 M2 demand by reducing its opportunity cost, a notion supported by continuing anemic
 noncompetitive tenders at Treasury auctions. December's expansion of M2, at a 7-1/2 percent
 rate, pulled that aggregate's growth for 1996 to 4-1/2 percent, in the upper portion of its 1-to-
+5 percent range. 2 In January, the growth of M2 slowed, but only to a 5-1/2 percent rate.3
 This strength in M2 apparently did not come at the expense of capital market mutual funds,
 which still seem to be attracting healthy inflows. The increase of M3 in the last month of
+1996, at an 11-1/4 percent rate, put its growth for the year at 7 percent, well above its 2-to-6
 percent annual range. The expansion of the broader aggregate slowed in January to a 6-3/4
+2 The data on the monetary aggregates in this bluebook incorporate revisions from the
+annual benchmark and seasonal review. Over the four quarters of 1996, these revisions left
+the annual growth of M2 unchanged and raised that of M3 by 0.3 percentage point. These
+data are scheduled to be published in early February and until that time are strictly
+confidential.
+3 M1 expanded at a rate of 1 percent in December but then contracted at a rate of 3-
+3/4 percent in January. Adjusting for the initial effects of sweep activity, which has been
+relatively steady in recent months, Ml increased at rates of 9-1/4 percent and 2-1/4 percent in
+December and January, respectively. The monetary base rose at a rate of 9-1/4 percent in
+December, but it dropped at a 5-3/4 percent rate in January. (The comparable figures
+adjusting for sweeps are 11 percent and -4 percent.)
 percent rate. With bank credit growth remaining robust over the past few months, bank
 funding needs were sizable. Branches and agencies of foreign banks have been particularly
 active lenders, and these depositories have increasingly relied on domestic rather than foreign
@@ -86,6 +113,8 @@ the final months of 1996, with debt expanding over the four quarters of 1996 at 
 a touch above the midpoint of its 3-to-7 percent annual range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+95:Q4 96:Q4
+to to
 Dec. Jan. 96:Q4 Jan.
 Money and Credit Aggregates
 Adjusted for sweeps
@@ -104,6 +133,20 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+11.5
+7.6
+7.0
+21.0
+9.2
+11.1
+-20.1
+-4.8
+-5.7
+-4.0
+-11.4
+8.3
+3.8
+6.4
 (FIN 39 and FASB 115).
 Long-Run Scenarios
 (6) To provide a longer-run perspective on the strategic issues confronting the
@@ -140,6 +183,21 @@ rate. This entails a near-term tightening, with the nominal funds rate rising to
 by the end of 1998. The effects of the unemployment rate remaining below the NAIRU until
 early 1999 are tempered in the near term by the sharp slowing in real growth, which keeps
 inflation expectations damped in the model (similar in result to a "speed effect" in the
+4 In the charts, inflation is measured by the core PCE chain-weight price index, and
+past movements in this index are used to proxy for inflation expectations in calculations of
+the real funds rate. This index has a steeper upward trajectory over the next few years than
+do many other broad measures of prices, because it: (1) excludes food and energy prices,
+which are moderating; (2) is unaffected by the changes in BLS calculations of the CPI; and
+(3) unlike a broad GDP price measure, includes import prices, which are damped at first and
+boosted later by the actual and assumed gyrations of the dollar. We think it gives a clearer
+view of the underlying inflation tendencies in the various scenarios, but its application in
+calculating the real interest rate may exaggerate the projected drop in real rates in 1997 and
+1998, especially if the public forms its expectations based on a broader set of prices than in
+this core measure. The real funds rates shown in the charts are higher than those calculated
+using the CPI, but would be higher through history as well because inflation as measured by
+the PCE index on average has run 1/2 percentage point below the CPI.
+5 That equilibrium itself is lower toward the end of the simulation than at present
+owing primarily to additional fiscal consolidation.
 Phillips curve), and by the rise in the dollar associated with higher interest rates. These
 effects dissipate, however, and ultimately the real interest rate and the unemployment rate
 must be kept above their natural levels for some time to offset the underlying inflationary
@@ -160,6 +218,9 @@ in which the unemployment rate is held to its baseline--at least initially.6 In 
 productivity growth is permanently 1/2 percentage point higher. Ultimately, the higher
 productivity growth will feed through to faster growth in real wages, which takes place
 through some combination of lower inflation and more rapid increases in nominal wages. In
+6 This set of simulations responds to a request from President Jordan, who asked at the
+December FOMC meeting about what type of shock to productivity growth would be needed
+to attain price stability without opening an output gap.
 the model, prices react faster than wages to changes in supply and demand, so the boost to
 real wage growth occurs mainly through lower price inflation. In effect, the higher
 productivity initially boosts profit margins, firms respond by trying to sell more, and their
@@ -180,6 +241,10 @@ higher--inflation would revert to its previous rate if monetary policy continues
 unemployment rate along the baseline. In scenario 2, the productivity growth shock ceases at
 the beginning of 2001. As productivity growth slows, firms attempt to maintain profit
 margins by raising prices more rapidly in the face of nominal wages that continue to climb at
+7 Consequently, with the unemployment rate following the baseline path, productivity
+growth would need to be permanently 3 percentage points higher than is embedded in the
+Greenbook to reduce long-run inflation by 2 percentage points to 1 percent--the definition of
+"price stability" used in the first set of simulations.
 the previous rate. But the Committee in this scenario maintains the reduced rate of inflation
 by keeping the real federal funds rate above its lower equilibrium level for longer than in
 scenario 1, causing unemployment to exceed the NAIRU for some years.
@@ -205,9 +270,17 @@ equity financing weaken investment. (We made no special allowance for possible
 extraordinary financial-market disruptions.) To mitigate the effects on output and
 employment while maintaining inflation along the baseline, the nominal federal funds rate
 falls in 1997 by 75 basis points relative to the baseline.8 The funds rate later rises to a level
+50 basis points below the baseline, the amount needed to offset the depressing long-run effect
 on aggregate demand of the lower level of wealth. In the gradual scenario, the fall in the
 stock market is spread out over five years. The policy response is also spread out, paralleling
 the gradual decline in the equilibrium real funds rate.9
+8 To return the unemployment rate to the baseline level by the end of 1998, the funds
+rate would have to fall by another 1/2 percentage point. However, the further decline in the
+funds rate would bring inflation above its baseline path owing to price effects of dollar
+depreciation.
+9 A stock market increase, rather than a decrease, of a similar absolute magnitude
+relative to the Greenbook baseline would require a policy tightening of comparable size in
+order to maintain inflation around the baseline path.
 Long-Run Ranges for 1997
 (14) As background for the Committee's discussion of the annual ranges for 1997, the
 table below presents projections for the growth of money and credit based on the Greenbook
@@ -216,15 +289,22 @@ FOMC last July as well as an alternative involving higher ranges for the monetar
 aggregates. 10
 Growth of Money and Debt and Alternative Ranges
 (percent)
+1996 1997 Alt. I Alt. II
+(actual) (projected) (provisional)
 M2 4.6 4-1/2 1 to 5 2 to 6
 M3 6.9 6-1/4 2 to 6 3 to 7
 Memo: Nominal GDP 5.2 4-1/2
 (15) The staff projects that M2 will expand 4-1/2 percent over the four quarters of
+1997, in line with forecasted growth in nominal income. During the early 1990s, M2 demand
 had diverged significantly from its historical relationship with nominal GDP and short-run
 opportunity costs, with its velocity rising well above its previous long-run average level, as
 shown in Chart 6.11 Recently, however, evidence has suggested that a stable demand for M2
 may have re-emerged, although the period of more normal velocity behavior has been brief.
 In contrast to the early 1990s, changes in the velocity of M2 over the past 2-1/2 years or so
+10 Appendix A shows the Committee's announced annual ranges for money and credit
+since 1979.
+11 Short-term opportunity costs are defined as the yield on three-month Treasury bills
+minus the weighted average return on the components of M2.
 can be explained primarily by variations in its short-run opportunity cost, and the apparent
 sensitivity of V2 to opportunity costs has been quite similar to that prevailing previously.
 The staff's forecast for M2 growth during 1997 is consistent with the putative new
@@ -240,10 +320,16 @@ M2, patterns of growth are expected to be similar to those during 1996; in parti
 projected to continue to decline substantially, reflecting the further spread of retail sweep
 accounts. 12
 (16) The staff expects M3 to continue to outpace both M2 and nominal income in
+1997, expanding at a 6-1/4 percent annual rate, down somewhat from last year's 7 percent
 jump. (The projected decline in M3 velocity is shown on Chart 7.) In an environment of
 moderate overall credit growth and of little net change in interest rates or lending conditions
 that would prompt shifts in borrowing patterns, bank and thrift credit growth, adjusted for
 mark-to-market accounting effects, should remain near last year's temperate pace. In funding
+12 Depository institutions appear to have considerable scope to continue to implement
+retail sweep arrangements, and, as a result, required reserves are likely to contract further in
+1997. With foreign currency shipments assumed to remain near last year's pace, currency is
+projected again to expand a little more rapidly than nominal income. The monetary base is
+projected to increase 3-1/2 percent, or 5-1/2 percent adjusted for the initial effects of sweeps.
 their asset growth, banks are expected to increase their large time deposits somewhat less
 rapidly than they did in 1996, when they were responding to the reduction in deposit
 insurance premiums beginning in late 1995. M3 likely will be buoyed again by gains in
@@ -251,6 +337,7 @@ money market mutual funds, which should continue to capture wholesale investment
 managers find it increasingly convenient to invest cash with money funds rather than place it
 directly in the open market instruments, some of which are outside of M3.
 (17) The staff is projecting domestic nonfinancial sector debt to rise 5 percent during
+1997, slightly slower than in 1996 and a little above nominal income growth. With the
 federal deficit remaining relatively modest, Treasury debt will continue its recent pattern of
 deceleration, rising about 3-1/4 percent. Expansion of the debt of nonfederal sectors also is
 projected to edge lower. That slowing owes entirely to the household sector, where debt
@@ -286,6 +373,9 @@ forecast if it thought that monetary policy would need to tighten during 1997 to
 objectives. For example, the staff estimates that the higher interest rates and slightly slower
 nominal GDP growth of the "stable inflation strategy" in the previous section would be
 associated with M2 growth on the order of 3-3/4 percent over this year.
+13 Under this rationale, however, the Committee might consider reducing the range for
+domestic nonfinancial sector debt, as the existing 3 to 7 percent range is unlikely to squarely
+encompass the rate of debt growth consistent with price stability.
 (19) If, on the other hand, the Committee did not see interest rates as likely to rise
 much over the course of 1997 and saw nominal income as coming in close to the Greenbook
 projection, and it wanted the ranges to encompass more comfortably the associated rates of
@@ -303,6 +393,8 @@ compared with those of the provisional ranges imply greater scope for the possib
 strong money growth associated with money demand shifts that are not related to disturbances
 to spending, which would automatically be accommodated under current operating procedures,
 and appropriately so.
+14 The central tendency of Committee members' nominal GDP projections
+encompasses the Greenbook projection.
 Short-run Policy Alternatives
 (20) Presented below are two short-run monetary policy alternatives. Under
 alternative B, the federal funds rate would kept at 5-1/4 percent. Under alternative C, the
@@ -342,6 +434,7 @@ inflation does not deteriorate appreciably in the near term, given the lags in t
 policy, the sooner the Committee begins to tighten--as under alternative C--the lower the odds
 that higher inflation will become embedded in price and wage setting. The discussion in the
 long-run strategies section suggested that a rise in the funds rate of 125 basis points by late
+1998 would be needed to keep inflation from moving permanently higher.
 (24) The tightening of policy under alternative C would surprise market participants,
 and short-term interest rates, including the prime rate, would rise by the half-point hike in the
 federal funds rate. In view of the shift in policy direction represented by such an action,
@@ -381,6 +474,7 @@ Mar-97 3885.1 3881.9 5016.4 5014.3 1068.2 1067.0
 Apr-97 3900.4 3894.6 5040.1 5036.3 1063.7 1061.5
 May-97 3909.6 3901.4 5060.4 5055.2 1057.5 1054.0
 Jun-97 3920.4 3910.4 5081.5 5075.3 1052.6 1047.7
+1.0 to 5.0 2.0 to 6.01996 Target Ranges:
 Directive Language
 (26) Presented below for the members' consideration is draft wording relating to the
 Committee's ranges for the aggregates in 1997 and the operational paragraph for the
@@ -391,7 +485,9 @@ output. In furtherance of these objectives, the Committee at THIS its
 meeting [DEL: in July reaffirmed the] ESTABLISHED ranges [DEL: it had established in
 January] for growth of M2 and M3 of ____ TO ____ [DEL: 1 to 5] percent and ____ TO
 ____ {DEL: 2 to 6] percent respectively, measured from the fourth quarter of 1996
+1995 to the fourth quarter of 1997 [DEL: 1996]. The monitoring range for growth
 of total domestic nonfinancial debt was SET [DEL: maintained] at ____ TO ____ [DEL: 3 to
+7] percent for the year. The behavior of the monetary aggregates will
 continue to be evaluated in the light of progress toward price level
 stability, movements in their velocities, and developments in the economy
 and financial markets.

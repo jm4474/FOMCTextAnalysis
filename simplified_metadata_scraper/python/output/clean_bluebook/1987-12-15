@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 11, 1987
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -113,6 +121,7 @@ growth, banks and thrift institutions issued managed liabilities at a
 robust pace in November, and flows into institution-only money funds
 moved up sharply, as returns on these funds lagged the downward movement
 of market rates in late October. As a consequence, M3 expanded at a 4-
+3/4 percent annual rate, bringing growth in this aggregate from
 September to 6-1/2 percent. Based on the staff Greenbook GNP forecast,
 the velocities of M1 and M2 appear to be increasing slightly further in
 the fourth quarter, while the velocity of M3 probably is dropping a
@@ -146,6 +155,7 @@ credit growth was moderate. On the other hand, Treasury borrowing has
 increased to fund a larger fourth-quarter deficit. Overall, the debt of
 domestic nonfinancial sectors is estimated to have expanded in November
 in line with its trend of just over 9 percent since the fourth-quarter
+1986 base; it thus appears that the debt aggregate will end the year
 near the middle of its 8 to 11 percent range.
 Policy alternatives
 (7) Three alternatives for monetary policy are presented below for
@@ -153,6 +163,7 @@ Committee consideration. They are based on the options of maintaining
 current reserve and money market conditions, or seeking somewhat easier
 (alternative A) or somewhat tighter (alternative C) conditions. The
 latter two alternatives are assumed to involve changes of approximately
+1/2 point in the federal funds rate from current levels along with
 associated adjustments of reserve pressures. Investor caution about
 default risk and potential volatility may continue in financial markets
 over the near term. In such circumstances, the apparent added reluc-
@@ -171,6 +182,7 @@ March under each alternative is presented in the table below, along with
 the associated federal funds rate bands. The memo items in the table
 show the implied rates of growth through March from the estimated
 fourth-quarter base for the 1988 ranges, as well as the FOMC's tentative
+1988 ranges themselves. (More detailed data are shown on the table and
 charts on the following pages.) Under all the alternatives, growth of
 the monetary aggregates in coming months is expected to rebound from the
 unusual weakness in November. However, based on the experience of
@@ -198,6 +210,11 @@ Levels in billions
 1987 October 2894.3 2894.3 2894.3 3645.6 3645.6 3645.6 760.7 760.7 760.7
 November 2894.0 2894.0 2894.0 3660.0 3660.0 3660.0 756.5 756.5 756.5
 December 2906.8 2906.1 2905.3 3675.3 3674.6 3673.9 757.1 756.9 756.7
+1988 January 2921.9 2918.7 2915.5 3696.4 3694.2 3692.0 761.4 760.1 758.8
+February 2937.2 2931.1 2925.0 3717.9 3713.9 3709.9 766.1 763.3 760.5
+March 2953.2 2943.6 2934.0 3739.8 3733.7 3727.6 771.6 766.6 761.6
+1987 Ranges: 5.5 to 8.5 5.5 to 8.5
+1988 Ranges (Tentative): 5.0 to 8.0 5.0 to 8.0
 window associated with this level of federal funds trading seems espe-
 cially difficult to gauge for the coming two maintenance periods, which
 surround year-end, as depository institutions position themselves for
@@ -351,37 +368,65 @@ sistently outside a range of [DEL: 4 to 8] ____ TO ____ percent.
 December 14, 1987
 paper
 1-month
+7.91
+5.60
 SELECTED INTEREST RATES
 (percent)
 -Cnorx- ta-..
 ----- reasury bills----
 --- secondary market---
+12
+month
+7.35
+5.32
 ods
 sec mkt
 3-month
+7.94
+5.47
 -U.S. Gov't. constant-
 ---- maturity yields---
 money
 market
 mutual
 fund
+7.21
+5.17
 bank
 prime
 loan
+9.50
+7.50
+8.60
+6.24
+9.38
+7.02
+9.52
+7.16
 Lon- I r...
 corp. A
 utility
 rec off
+10.83
+9.03
 muni.
 Bond
 Buyer
+8.72
+7.15
 -- conventional home--
 r---r tgages
 sec mkt
 fixed-
 rate
+10.97
+9.31
 fixed-
 rate
+10.99
+9.29
+9.09
+7.62
 Monthly
 DEC 86
 JAN 87
@@ -415,8 +460,42 @@ Daily
 DEC 4 87
 DEC 10 87
 DEC 11 87
+9.52
+8.86
+6.82
+6.83
+6.84p
+6.53
+6.81
+6.79
+8.75
+8.75
+8.75
+8.00
+8.29
+8.30p
+8.94
+9.23
+9.28p
+9.12
+9.40
+9.45p
 federal
 funds
+9.55
+5.75
+3
+month
+7.21
+5.09
+6
+month
+7.30
+5.16
+11.26
+10.65
+7.95
+7.91
 L Jl
 w _
 Strictly Confidential (FR)-
@@ -434,8 +513,20 @@ OCT. 760.7 2894.3 2133.5 751.4 3645.6 4320.7 2225. 1919.3 6242.1 8161.5
 NOT. P 756.5 2894.0 2137.5 766.0 3660.0 2224.3 1939.6 6292.0 8231.7
 EXKLI. LEVELS (SBILLIOIS)
 1987-OCT. 5 757.6
+12 754.0
+19 759.5
+26 768.4
 NOv. 2 762.7
 9 759.2
+16 756.2
+23 P 759.2
+30 P 750.9
+1/ ANNUAL RATES FOR BANK CBEDIT ARE ADJUSTED FOR A TRANSFEB OF LOANS FRON CONTINENTAL ILLINOIS NAIIONAL BANK TO THE FDIC
+BEGINIING SEPTEMREB 26, 1984.
+2/ DEBT DATA ABE ON A HONTHLI AVERAGE BASIS. DSEIVED B! AVERAGING END-OF-HONI' LEVELS OF ADJACENT NONTS., AND HAVE BEEN ADJUSTED
+TO BBIOVE DISCONTINUITIXS.
+F-PMELININARY
+PE-PMiLIAINART ESTINATE
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 DEC. 14, 1987
@@ -446,32 +537,134 @@ Period Currency deposits deposits Eurodollars NSA deposits time purpose, tlons t
 NSA deposits' nd brokerl only deposlts' securities tances
 dealer'
 AINUALLI (4TH QOT )
+1/ INCLUDES BETAIL BEPURCHASE AGBEBRINTS. ALL IlA AND K0OGM ACCOUNTS AT COIIBBCIAL BAIKS AND THRBIT INSTITUTIONS ARB SUBTRACTID
+FROn SALL TIRE DPOSITs.
+2/ EXCLODES IRA AID KROGM ACCOUOTS.
+3/ NET OF LARGE DENOINATION TIRE DEPOSITS HELDU ! 81 BI OE IAKET HUTUAL FUNDS AND THRIFT INSTITUTIONS.
 P-P LININABI
 Net Changes in System Holdings of Securities1
 MillIons of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 December 14, 1987
+1986--Q1
+Q2
+Q3
+1987--Q1
+Q2
+Q3
+1987--June
+July
+Aug.
+Sept.
+Oct.
+Nov.
 Dec. 2
 9
 LEVEL -Dec. 9
 Treasury bills
 net change'
+5,337
+5,698
+13,068
+3,779
+14,596
+19,099
+-2,821
+7,585
+4,668
+9,668
+-2,714
+5,823
+553
+-4,909
+499
+871
+795
+804
+2,994
+309
+245
+-50
+285
+644
+198
+2,953
+51
+127
+100
 Treasury coupons net purchases'
 within
 1-year
+1,349
+190
+1,767
+143
+143
+300
+670
+1,702
+1,794
+1,896
+1,938
+2,185
+-252
+5,036
+2,356
+1,394
+-200
+5
+2,551
+23.3 47.2
+5-10 over 10
+1,226
+619
+2,768
+2,803
+3,653
+3,440
+4,185
+1,476
+-252
+8,948
+3,610
+2,491
+-200
+5
+3,805
+300
+720
 -- 150
 -- 195
 -- 185
 -- 120
 -- 70
 445 4,109
+25.4 111.2
 Federal agencies net purchases
 wi th-n  1-5 5-10 over 10
 1-year total| oa
 .2 7.6
 Net change
 outright holdings Net RPs'
+8
+8
+16
+6
+18
+20
+-2
+7
+4
+-3
+14
+3
+-5
+4
+1
+4
+2
+4
 ,491 684
 ,312 1,461
 ,342 -5,445
@@ -484,12 +677,22 @@ outright holdings Net RPs'
 ,927 9,925
 ,075 -14,254
 ,735 2,121
+12 -1,433
 ,676 26
 ,039 7,493
 ,038 -3,331
 ,546 -19,561
+26 -1,025
+- 1,152
+194 2,600
+285 8,557
+794 -14,095
+393 3,744
 ,068 -4,309
 171 1,982
+196 9,998
+210 -10,780
+31.3 -4.5
 Change from end-of-period to end-of-period.
 Outright transactions in market and with foreign accounts, and redemptions (-) In bill auctions.
 Outright transactions In market and with foreign accounts, and short-term notes acquired in exchange for

@@ -10,11 +10,23 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 OCTOBER 31, 2002
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
 BY THE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+1  The federal funds rate averaged close to 1-3/4 percent over the intermeeting period.  With
+currency growth quite low relative to historical trends, the Desk made no outright purchases during
+the period.  Other market factors generally added reserves, and the Desk responded by reducing the
+outstanding volume of long-term System RPs from $11 billion to $6 billion.
 Strictly Confidential (F.R.) October 31, 2002
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -42,18 +54,24 @@ Chart 1
 Financial Market Indicators
 Jun Jul Aug Sep Oct
 2002
+5.6
+Index Percent
 S&P 500 Index
 (Left Scale)
 Ten-year Treasury
 (Right Scale)
 Oct Jan Apr Jul Oct Jan Apr Jul
 2002 2003 2004
+4
+Percent
 September 23, 2002
 October 31, 2002
 Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
  allowance for term premia and other adjustments.
+6
+ Percent
 September 23, 2002
 October 31, 2002
 Treasury Yield Curve*
@@ -63,6 +81,8 @@ securities.  Yields shown are those on notional par Treasury securities
 with semi-annual coupons.
 Apr May Jun Jul Aug Sep Oct
 2002
+55
+Percent
 S&P 100 (VIX)
 Stock Market Volatility
 Basis points
@@ -71,6 +91,8 @@ September 23, 2002
 Maturity in Years
 Sep Dec Mar Jun Sep Dec Mar Jun Sep
 2000 2001 2002
+3.5
+Percent
 Long-Run Inflation Expectations
 Michigan Survey
 Philadelphia Fed Survey
@@ -108,15 +130,21 @@ Chart 2
 Financial Market Indicators
 Jan Feb Mar May Jun Aug Sep
 2002
+600
+Basis points
 Ten-year Corporate Yields less Ten-year Treasury
 Sep Dec Mar Jun Sep Dec Mar Jun Sep
 2000 2001 2002
+350
+Basis points
 Ten-year AA
 Ten-year BBB
 Ten-year Swap
 Spreads of Selected Private Long-Term Yields
 Sep Dec Mar Jun Sep Dec Mar Jun Sep
 2000 2001 2002
+114
+Index(8/31/00 = 100)
 Broad Index
 Major
 Currencies Index
@@ -126,6 +154,8 @@ Nominal Trade-Weighted Dollar
 Exchange Rates
 Sep Dec Mar Jun Sep Dec Mar Jun Sep
 2000 2001 2002
+3000
+Index
 EMBI+ Index
 Market Liquidity
 Recent evidence on market perceptions of the health of major financial
@@ -157,10 +187,14 @@ market doubts appeared to be confirmed in that the announced steps were viewed a
 insufficient to make much headway against Japan’s deep structural problems.
 Chart 3
 Market Liquidity and Credit Availability
+50
+Basis points
 Treasury Liquidity Premiums*
 *Interpolated off-the-run yield minus the on-the-run yield, adjusted for time to next auction.
 Jul Sep Nov Jan Mar May Jul Sep
 2001 2002
+120
+Basis points
 Commercial Banks*
 Credit Default Swap Spreads for Selected Financial Intermediaries
 Ford Motor Credit
@@ -185,6 +219,7 @@ Party candidate Lula (who clinched victory in the second round vote on October 2
 might be more sympathetic to business interests and more fiscally responsible than
 previously thought.  Although the Brazilian real depreciated 1-1/2 percent against the
 dollar over the period, Brazil’s EMBI+ spread over Treasuries narrowed about
+3-1/2 percentage points (although it is still high at 18-1/2 percentage points), and its
 major stock price index gained 9-1/2 percent.  The Mexican peso appreciated 2
 percent against the dollar, while Mexico’s EMBI+ spread narrowed 60 basis points, to
 about 385 basis points.  In emerging Asia, the rebound in technology share prices
@@ -238,6 +273,11 @@ M2 Velocity and Opportunity Cost
 Ratio scale Percentage points
 * Two-quarter moving average.
 e Estimated.
+2 Banks have been reporting weaker loan demand and a tightening of standards and
+terms for some time.  A special question on the October Senior Loan Officer survey asked
+respondents to rank supply and demand factors as reasons for the very substantial decline in
+C&I loans so far this year.  Weaker business funding needs by creditworthy borrowers was
+the top reason by a wide margin.
 months, the chief reason being reduced spending on plant and equipment.  Business
 lending standards and terms reportedly tightened again, on net, but by a somewhat
 smaller proportion of respondents than in recent surveys.2  Households, by contrast,
@@ -245,6 +285,7 @@ continued to borrow heavily in mortgage markets and to take on additional consum
 debt through September.
 (7) With the effects of past policy easings on money demand largely played
 out and spending apparently softening, M2 growth has slowed to an estimated average
+7-3/4 percent annual rate over September and October.  M2 likely would have
 decelerated even more were it not for the boost to deposit growth provided by
 increased prepayments of mortgages.  Currency growth slowed appreciably, reflecting
 significantly weaker foreign demand and some moderation in domestic demand as
@@ -265,6 +306,7 @@ growth until the second half of next year.  As a result, the civilian unemployme
 is expected to move up to 6-1/4 percent early next year before edging lower after
 mid-2003.  With economic slack persisting, core inflation is projected to drift lower,
 bringing the annual rise in core PCE prices down to about 1-1/4 percent in 2003 and
+2004.  This forecast assumes that the Committee keeps policy steady, as opposed to
 the modest tightening built in toward the end of the forecast period in the September
 Greenbook.  An unchanged funds rate is assumed to hold yields on long-term
 Treasury securities near current levels, while rates on corporate issues should in time
@@ -277,6 +319,12 @@ level that is slightly higher than projected in the last Greenbook.
 improve gradually at the current stance of policy, as conveyed by its announcement
 after the September meeting, it might choose to leave the federal funds rate
 unchanged at this meeting.  Such an outcome may be seen as broadly consistent with
+3 The jagged movements in the real federal funds rate in the chart owe to swings in
+the proxy for inflation expectations–the backward-looking four-quarter growth rate of core
+PCE prices.  Core PCE prices were reduced significantly in the third quarter of 2001 by the
+imputed payment by insurers of claims related to the destruction of the World Trade Center. 
+Over time, as that observation enters and exits the calculation of the four-quarter growth
+rate, PCE inflation and the associated real rate bounce around.
 the Greenbook forecast, in which output growth slowly builds momentum.  The
 Committee may be particularly drawn to this policy approach if it views the current
 degree of slack in resource use to be less pronounced than does the staff and hence
@@ -299,6 +347,8 @@ weight on those outcomes than on forecast revisions.
 Chart 5
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5
+Percent
 Actual Real Funds Rate
 TIIS-Based EstimateHistorical Average: 2.72
   (1966Q1-2002Q3)
@@ -306,6 +356,7 @@ Current Rate
 25 b.p. Easing
 50 b.p. Easing
 Equilibrium Real Funds Rate Estimates (Percent)
+2000 2001 2002H1 2002Q3    ____ ____ ______ ______
 September Bluebook
 September Bluebook
 September Bluebook
@@ -395,6 +446,7 @@ become apparent over the past six weeks as especially troubling in association w
 historically low inflation and nominal interest rates as well as the significant downside
 risks already envisioned by the Committee since August.  In these circumstances, the
 Committee might wish to move aggressively to shore up aggregate demand through a
+50-basis-point easing of policy and might see little cost to doing so in terms of a
 need to reverse course anytime soon.  Indeed, the policymaker perfect foresight
 simulations that employ a judgmental extension of the Greenbook assumptions and
 are depicted in chart 7 entail a substantial near-term easing of monetary policy, even
@@ -497,6 +549,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 Exhibit 10
 SELECTED INTEREST RATES
 (percent)
@@ -537,6 +590,15 @@ Oct
 Oct  
 Oct  
 Oct
+01
+01
+01
+30
+6
+01   -- High
+-- Low
+02   -- High
+-- Low
 Strictly Confidential (FR)-
 Class II FOMC
 Exhibit 1
@@ -585,6 +647,181 @@ Weekly
        Oct.  7     
             14p    
             21p
+1.9
+    -1.7
+     6.8
+2.1
+     5.8
+    -0.6
+     2.9
+-39.1
+     3.1
+     16.0
+         
+      3.3
+      1.9
+      3.0
+    -11.2
+      6.6
+      7.2
+      8.0
+    -13.7
+      8.5
+      2.3
+1182.8
+   1189.9
+   1197.8
+   1184.1
+   1192.5
+1208.1
+   1178.2
+   1181.3
+   1192.0
+   1212.7
+         
+   1176.4
+   1195.1
+   1199.8
+6.3
+     6.1
+    10.3
+9.5
+     5.5
+     3.3
+    10.4
+-1.5
+    10.4
+9.8
+         
+      2.2
+      6.9
+     -1.3
+     -3.6
+     14.4
+      7.7
+     13.0
+      9.5
+      5.1
+     10.2
+5542.4
+   5578.1
+   5638.4
+   5682.9
+   5707.0
+5696.6
+   5696.4
+   5702.2
+   5712.2
+   5729.0
+         
+   5716.6
+   5746.0
+   5754.7
+7.8
+     8.6
+    11.3
+11.5
+     5.4
+     4.4
+    12.4
+9.3
+    12.4
+8.2
+         
+      1.9
+      8.3
+     -2.5
+     -1.6
+     16.5
+      7.9
+     14.3
+     15.7
+      4.2
+     12.3
+4359.6
+   4388.2
+   4440.6
+   4498.7
+   4514.5
+4488.5
+   4518.2
+   4520.9
+   4520.2
+   4516.3
+         
+   4540.2
+   4550.9
+   4555.0
+11.3
+    17.3
+    18.5
+18.5
+     3.5
+     3.3
+     4.2
+26.4
+    21.3
+12.8
+         
+     -8.4
+      4.3
+      1.6
+      1.7
+      6.9
+      2.8
+     -1.3
+     13.5
+      2.3
+    -20.4
+2588.2
+   2594.3
+   2591.5
+   2620.7
+   2625.7
+2620.0
+   2621.4
+   2638.5
+   2628.1
+   2617.0
+         
+   2585.5
+   2579.3
+   2577.0
+7.7
+     9.3
+    12.8
+12.3
+     4.8
+     3.3
+     8.4
+7.2
+    13.8
+10.8
+         
+     -1.2
+      6.1
+     -0.4
+     -1.9
+     12.0
+      6.2
+      8.4
+     10.7
+      4.2
+      0.5
+8130.7
+   8172.4
+   8229.9
+   8303.6
+   8332.6
+8316.6
+   8317.7
+   8340.7
+   8340.3
+   8345.9
+         
+   8302.2
+   8325.3
+   8331.7
 Period
 In M3 onlyIn M2
 p    preliminary       
@@ -596,12 +833,19 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
 Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+1999 --- --- --- 11,895 19,731 4,303 9,428 1,429 43,928 157 43,771 2,035 8,347 10,382
+2000 8,676 24,522 -15,846 8,809 14,482 5,871 5,833 3,779 31,215 51 15,318 -2,163 7,133 4,970
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2001 QIII 3,965 1,543 2,422 1,619 5,854 1,691 1,535 5,723 4,976 --- 7,398 3,832 2,587 6,419
 QIV 4,659 --- 4,659 5,761 2,577 982 1,632 473 10,479 --- 15,138 -4,223 10,847 6,624
+2002 QI 6,827 --- 6,827 4,349 6,153 971 1,927 --- 13,401 --- 20,228 -1,961 -2,191 -4,152
 QII 8,227 --- 8,227 5,535 2,580 2,471 210 --- 10,796 --- 19,023 -2,644 -4,563 -7,207
 QIII 6,117 --- 6,117 2,835 3,676 1,318 143 --- 7,972 --- 14,089 -3,067 -5,225 -8,291
+2002 Feb 1,042 --- 1,042 2,894 1,101 334 1,054 --- 5,383 --- 6,425 -3,647 -1,401 -5,048
 Apr 1,047 --- 1,047 2,709 1,142 1,670 210 --- 5,730 --- 6,777 1,211 -3,714 -2,503
 May 3,524 --- 3,524 2,826 1,439 259 --- --- 4,524 --- 8,048 -2,091 133 -1,958
 Sep 750 --- 750 1,286 --- 51 --- --- 1,337 --- 2,087 1,084 -1,026 59
+2002 Aug 7 --- --- --- 445 475 --- --- --- 920 --- 920 2,667 -1,000 1,667
 Aug 14 64 --- 64 --- --- --- --- --- --- --- 64 -3,630 -1,000 -4,630
 Aug 28 139 --- 139 --- 725 122 --- --- 847 --- 986 -5,686 --- -5,686
 Sep 4 185 --- 185 --- --- --- --- --- --- --- 185 9,085 --- 9,085
@@ -613,6 +857,7 @@ Oct 9 --- --- --- --- --- --- --- --- --- --- --- -3,476 -3,000 -6,476
 Oct 16 --- --- --- --- --- --- --- --- --- --- --- 6,620 -1,000 5,620
 Oct 23 --- --- --- --- --- --- --- --- --- --- --- -3,764 --- -3,764
 Oct 30 --- --- --- --- --- --- --- --- --- --- --- 4,339 --- 4,339
+2002 Oct 31 --- --- --- --- --- --- --- --- --- --- --- -4,801 --- -4,801
 Intermeeting Period
 Sep 24-Oct 31 --- --- --- --- --- --- --- --- --- --- --- 12,040 -5,000 7,040
 Memo: LEVEL (bil. $)

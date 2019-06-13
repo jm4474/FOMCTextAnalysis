@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 September 28, 1984
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -26,6 +34,7 @@ aggregate for the June-to-September period remains well below the path
 of 5 percent or slightly less specified at the last Committee meeting.
 The estimated level of M1 for September is at the center of its longer-
 run target range. On a quarterly average basis M1 increased at about a
+4-3/4 percent annual rate in the third quarter, about in line with pre-
 dictions of our quarterly model, given actual income (which turned out
 to be lower than assumed at the time of the last FOMC meeting) and
 interest rates.
@@ -56,6 +65,13 @@ Memo: (Millions of dollars)
 Adjustment and seasonal
 borrowing
 Excess reserves
+12.8 13.7
+15.0
+(1.5)
+6.2
+(1.7)
+747 3/
+647 3/
 and other managed liabilities to fund credit growth. By September, M3
 had fallen from a level well over its longer-run target range for the
 year to a point close to the upper limit.
@@ -91,6 +107,7 @@ extent of decline in the funds rate also has reflected some waning in the
 reluctance of institutions to borrow at the window or to lend in the
 funds market as perceptions about the condition of banks have improved.
 Rates on private money market obligations generally have declined about
+40 to 60 basis points since the FOMC meeting, and spreads of such rates
 over Treasury bill rates have continued to narrow. The 3-month CD rate
 was recently quoted just under 11 percent; most major banks have lowered
 their prime rate to 12-3/4 percent. Treasury and corporate bond yields
@@ -145,6 +162,9 @@ Alternative Levels and Growth Rates for Key Monetary Aggregates
 M1 M2 M3
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
 Monthly Levels-- ---- ---- -- - - --------
+1984--July 545.6 545.6 545.6 2281.1 2281.1 2281.1 2856.8 2856.8 2856.8
+August 546.4 546.4 546.4 2289.5 2289.5 2289.5 2867.8 2867.8 2867.8
+September 549.6 549.6 549.6 2305.4 2305.4 2305.4 2886.6 2886.6 2886.6
 October 553.0 552.3 551.6 2320.5 2319.7 2318.9 2908.7 2908.1 2907.6
 November 556.4 555.1 553.7 2335.9 2334.2 2332.5 2931.1 2930.0 2928.9
 December 559.9 557.9 555.8 2351.4 2348.7 2346.0 2953.7 2951.9 2950.1
@@ -173,6 +193,9 @@ S - ACTUAL LEVELS / -2380
 - /-2220
 S- 2200
 - -- 2180
+8 1I2160
+0 N O J F M A M J J A S 0 N D
+1983 1964
 Chart 3 CONFIDENTIAL (FR)
 CLASS FOMC
 Actual and Targeted M3
@@ -180,6 +203,10 @@ Billions of dollars
 A 2960
 B
 C-c
+2940
+- ACTUAL LEVELS /9%
+-- ESTIMATED LEVELS 2
+0 SHORT RUN ALTERNATIVES/ 2920
 /- 2900
 / 2880
 / - 2860
@@ -189,6 +216,7 @@ S/ 2840
 - 2760
 S I I I I I I I I I I I A e
 O N D J F M A M J J A S 0 N 0
+1983 1984
 I J I I I I r I 1 I I I I I L~qy
 (9) All the alternatives specify more rapid M1 growth over
 the next three months relative to its sluggish behavior over the June-to-
@@ -258,7 +286,9 @@ lower if the pattern of discount window borrowing evident before last May
 now expected by market participants, would probably set off a considerable
 rally in short- and longer-term markets. The Treasury bill rate might
 decline into the 9-1/2 percent area, and CD rates would drop to around
+10-1/2 percent, exerting further downward pressure on the prime rate.
 Yields on long-term Treasury bonds might decrease initially by at least
+1/2 percentage point on expectations that a sustained easing in credit
 markets might be underway. A portion of the gains in bond markets could
 later be reversed, however, should incoming data on the economy and money
 and credit show strength, and as bond issuance by corporations and state
@@ -306,9 +336,18 @@ persistently outside a range of [DEL: 8 to 12] ____ TO ____ percent.
 Selected Interest Rates
 Percent
 October 1, 1984
+19113--1iah
+Low
+1984--High
+LoA
+1983--Aug.
+Sept.
 Oct.
 Nov.
 Dec.
+1984-Jan.
+Peb.
+Mar.
 Apr.
 May
 June
@@ -316,21 +355,476 @@ July
 Aug.
 August I
 8
+15
+22
+29
+10.21
+8.42
+11.77
+9.41
+9.56
+9.45
+9.48
+9.34
+9.47
+9.56
+9.59
+9.91
+10.29
+10.32
+11.06
+11.23
+11.64
+12.75
+12.75
+9.49
+7.63
+10.65
+8.64
+9.34
+9.00
+8.64
+8.76
+9.00
+8.90
+9.09
+9.52
+9.69
+9.83
+9.87
+10.12
+10.47
+9.64
+7.72
+10.76
+8.94
+9.51
+9.15
+8.83
+8.93
+9.17
+9.02
+9.18
+9.66
+9.84
+10.31
+10.51
+10.52
+10.61
+9.79
+7.82
+11.09
+9.01
+9.60
+9.27
+8.98
+9.08
+9.24
+9.07
+9.20
+9.67
+9.95
+10.57
+10.93
+10.89
+10.71
+9.93
+8.15
+11.71
+9.35
+9.77
+9.39
+9.18
+9.36
+9.69
+9.42
+9.54
+10.41
+11.11
+11.34
+11.56
+11.47
+11.57
+11.49
+11.32
+9.85
+8.01
+11.35
+9.16
+9.41
+9.19
+9.03
+9.10
+9.56
+9.23
+9.35
+9.81
+10.17
+10.38
+10.82
+11.06
+11.19
+11.35
+11.31
+11.18
+10.66 13.00
+10.51 13.00
+10.93 11.67
+2
+.
+4 6
+p
+12.11 13.42 10.56
+10.32 11.64 9.21
+12.22
+12.12 --
+12.39p --
+13.89
+12.55
+14.68
+13.19
+13.81
+13.73
+13.54
+13.44
+13.42
+13.37
+13.23
+13.39
+13.65
+13.94
+14.42
+14.67
+14.47
 Security Dealer Positions
 Millions of dollars October 1, 1984
 Cash Positionso Forward and Future PoelUton
 P.erod Treasury coupon TrMiu coupons
 eriod t Treasury under over federal privte Tresury under over federal pitwo
 Total bills year 1 year agency short-term bills 1 ye 1 year Iaency Ihort4
+1983--1Righ
+Low
+1984--Hiigh
+Low
+1983--Aug.
+Sept.
 Oct.
 Nov.
 Dec.
+1984--Jan.
+Feb.
+Mar.
 Apr.
 May
 July
 Aug.
+1984--July 4
+11
+18
 Aug. 1
 8
+15
+21
+29
+20,858
+-296
+19,038
+5,047
+13,669
+16,971
+14,672
+15,981
+14,412
+14,177
+11,150
+12,467
+13,537
+14,424
+15,163
+12,583
+7,612
+12,781*
+11,255*
+6,566*
+13.273
+-3.461
+6,765
+-12.140
+5.929
+8,011
+9,694
+10.762
+8.653
+10.815
+9,658
+4.619
+2,929
+-7,093
+-2.628
+-2,362
+4,546
+-5,310
+-4,371
+-2,912
+2,696
+4,487
+5,258
+5,282
+8,459*
+9,664*
+1,010*
+9,921*
+1.579
+-687
+1,296
+-1,038
+748
+223
+609
+934
+1,083
+949
+811
+-32
+-291
+-596
+-604
+-89
+-275
+18
+-101
+-252
+-42
+173*
+492*
+-1,337*
+81*
+8,778
+-3,148
+2,477
+-5,533
+2.639
+6,344
+3,390
+325
+677
+-1,541
+-2,626
+-1,643
+-1,754
+-3.248
+-3,245
+-1,186
+-5,533
+-2,979
+-3,560
+-3,849
+-1,331
+-2,758
+153
+-1,423
+-209*
+-227*
+-1,144*
+3,054*
+12,088
+4,013
+17,495
+11,086
+8,093
+9,205
+10,255
+9,451
+11,398
+12,532
+16,151
+16,649
+16,849
+15.996
+16,040
+16,098
+15,961
+16,889
+16,230
+15,190
+15,791
+17,338
+15,841
+14,497
+16,423
+16,626*
+16,030*
+13,879*
+12,148*
+17,005
+8,839
+15,566*
+11,263
+10,361
+13,138
+14,242
+15,302
+15,449
+12.788
+13.345
+12,764
+13,065
+12,525
+14.457
+14,751
+15,558
+14,834
+15,208
+15,124
+13.933
+14,673
+15,526
+15,466
+15,566
+15,503
+16,682*
+17,345*
+18,760*
+17,443*
+1,654
+-11,307
+8,272
+-13,048
+-1,861
+-7,309
+-9,132
+-7,993
+-5,549
+-10,846
+-8.784
+-1,027
+-2,136
+5.511
+2,208
+-2,516
+-7.293
+651
+-2.333
+-2.586
+-3,393
+-3,131
+-2.760
+-8.492
+-9,862
+-8.350
+-8.669*
+-10,117*
+-9,854*
+14
+-95
+22
+327*
+-3
+-2
+-12
+-2
+-2
+-15
+-38
+-10
+-13
+-10
+-21
+-89
+-240
+-14
+-10
+-96
+-209*
+-202*
+-77*
+-75*
+1,516
+-3,270
+3,368
+-933
+-2,706
+-2,613
+-1,667
+-1,022
+-116
+23
+476
+351
+2,797
+2,527
+3,127
+2,314
+2,532
+3,041
+3,368
+2,875
+2,051
+1,910
+3,060
+2,557*
+2,173*
+2,397*
+2,179*
+-907
+-8.001
+-7,223
+-10.622
+-3,634
+-5,018
+-5,909
+-5,445
+-7,354
+-7,474
+-8,192
+-9,073*
+-9,422
+-9,676
+-9.937
+-9.650
+-9.030
+-10,485
+-10.622
+-9,756
+-8.617
+-9,071
+-9.858
+-8,407
+-8,483
+-9,265
+-9,334*
+-9.333*
+-7,875*
+-7,480*
+-4,411
+-9,564
+5
+11,273*
+-5,899
+-5.090
+-6,798
+-6,331
+-5,596
+-5,829
+-8,677
+-6,239
+-5,462
+-2,236
+-1,191
+-2,598
+-9,300
+-1,212
+-2,275
+-1,961
+-1,788
+-5,454
+-7.739
+-8.190
+-9,337
+-13,295*
+-14,570*
+-9,193*
+-5,442*
 and certain "when-Issued" securities for delayed delivery (more than 5 business days). Futures end for-
 ward positions include all other commitments Involving delayed delivery; futures contracts are arrang-
 ed on organized exchanges.
@@ -342,12 +836,31 @@ October 1, 1984
 Treasury Treasury coupons net purchases 3  Federal agencies net purchases 4  Net change_
 Period bills net outright Net RPs
 change 15 510 over 10 total 1-5 510 over 10 total h s11-year 1.5 &10 over 10 total 5-10 tota'1-year 1-year
+1984--Mar. 3,159 - - - -- - - - -- --- 3,149 6,807
 July -1,497 -- - -- -- -- - -- -1,499 -656
 Aug. -2,104 - - -- -- - -- - - -- -- -2,110 4,951
 JULY 4 - - - - - - -- -- -- -- -- -- 904
+11 -- - - - - -- -- -- -- -- -- -1 1,978
+18 -- -- -- -- -- -- -- -- -- -- -- -- 8
+25 -152 - - -- -- -- - - - -- -- -152 -5,477
 AUG. 1 -1,346 - - - -- - -- - -- -- -- -1,351 2,530
 8 -1,194 -- - - - -- - - - -- -1,194 502
+15 -272 - - -- - - -- -- - -- -- -272 -5,699
+22 -125 - - -- -- - -- - - -- -- -125 5,828
+29 -700 -- -- - - -- - -- - -- -- -700 -638
 SEPT. 5 1,950 - - - - -- -- -- -- -- 1,950 114
+12 589 -- -- - - - - - -- -- 588 2,228
+19 328 -- - -- - - - - -- -- -- 328 2,915
+1 Change from end-of-period to end of period
+2 Outright transactions in market and with foreign accounts, and redemptions I- in bill auctions.
+3 Outlight transactions in market and with foreign accounts, and short term notes acquired in ex-
 change for maturing bills. Excludes redemptions, maturty shifts, rollovers of maturing coupon
 issues, and direct Treasury borrowing from the System.
+4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity
+shifts.
+5 In addition to the net purchases of securities, also reflects changes in System holdings of bankers'
+acceptances, direct Treasury borrowing from the System and redemptions (-I of agency and Trea-
+sury coupon issues.
+6 Includes changes in RPs (+), matched sale-purchase transactions I-), and matched purchase-sale
+transactions (+).
 FR 1368 (781)

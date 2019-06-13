@@ -62,11 +62,21 @@ survey of primary dealers expected no change in the target rate at the June meet
 and a substantial majority expected the FOMC to keep rates on hold over the next 2
 to 3 meetings.  Futures quotes suggest that investors now expect the federal funds
 rate to reach about 2½ percent by end of this year, and about 3½ percent by the end
+1 The effective federal funds rate averaged 1.99 percent over the intermeeting period, but as 
+has been the case in recent months, volatility was very elevated.  Over the period, the 
+volume of long-term repurchase agreements (RPs) increased $5 billion.  The Desk redeemed 
+$35 billion in Treasury securities and sold $35 billion of Treasury securities on an outright 
+basis to offset the provision of balances through various programs, including primary credit, 
+the Primary Dealer Credit Facility, the Term Auction Facility, the single-tranche term RP 
+program, and draws on foreign currency swap arrangements.
 Class I FOMC - Restricted Controlled (FR) 2 of 41
 Chart 1
 Interest Rate Developments
+90
+Percent
 Futures market*
   Desk’s survey**
+1.75 2.00 2.25
 Probability density for target funds rate
 after the June meeting
 *Derived from options on federal funds futures.
@@ -82,6 +92,8 @@ Recent: 6/19/2008
 Last FOMC: 4/29/2008
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
+250
+Percent Basis Points
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)*
 Implied Volatilities
@@ -89,12 +101,22 @@ Implied Volatilities
 structures for the expected federal funds rate and implied volatility.
 Apr.
 FOMC
+7
+Percent
 Ten-year
 Two-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Apr.
 FOMC
+40
+ 50
+ 60
+ 70
+ 80
+ 90
+4.0
+$/barrel Percent
 Spot WTI (left scale)
 Next five years (right scale)
 Five-to-ten year forward (right scale)
@@ -129,10 +151,23 @@ prices likely contributed substantially to the rise in inflation compensation. (
 inflation caps suggest an increase in both inflation expectations and uncertainty. (See
 box “Deriving Probability Densities for Inflation from Inflation Caps.”)  Survey
 Class I FOMC - Restricted Controlled (FR) 4 of 41
+5
+Spot Oil Price
+1f1 Inflation Compensation
+5f1 Inflation Compensation
 Dollars Percent
 Inflation compensation and oil prices
+3 year 4-6 year 7-9 year
+2004-2005
+  2006-2007
+  2008
+14
+basis points
+3 year 4-6 year 7-9 year
 Response of Inflation Compensation
 to a 10 Percent Oil Price Shock
+1 For example, the weight of gasoline in the CPI basket increased from 3.2 percent in December 2003  
+  to 4.1 percent in December 2005 and to 5.2 percent in December 20007.
 Oil Prices and Inflation Compensation
 This box presents empirical estimates of the effects  
 of oil price shocks on TIPS-based measures of inflation 
@@ -195,6 +230,8 @@ willing to pay to hedge against the possibility of greater-than-expected inflati
 future.  Second, the market is comparatively small and illiquid, and the perceptions of 
 inflation risk among investors in this market might not be representative of those of 
 investors in the broader economy.
+1The assumption about the inflation process is intended as a plausible characterization of how investors might view 
+inflation dynamics.  However, the results are robust to alternative assumptions about the inflation process.
 Class I FOMC - Restricted Controlled (FR) 6 of 41
 measures of inflation expectations were flat to higher over the period, continuing the
 upward trend seen so far this year.2
@@ -233,11 +270,17 @@ Chart 2
 Asset Market Developments
 Jan. Apr. July Oct. Jan. Apr.
 2007 2008
+140
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily Apr.
 FOMC
 Jan. Apr. July Oct. Jan. Apr.
 2007 2008
+200
+Basis points
 ABCP
 A2/P2
 Spreads on thirty-day commercial paper
@@ -245,6 +288,8 @@ Apr.
 FOMC
 Jan. Apr. July Oct. Jan. Apr.
 2007 2008
+8
+Percent
 Target federal funds rate
 Treasury
 MBS
@@ -254,6 +299,8 @@ Apr.
 FOMC
 Jan. Apr. July Oct. Jan. Apr.
 2007 2008
+300
+Basis points
 Banks*
 Broker/dealers**
 *Median spread of 24 banking organizations.
@@ -261,6 +308,8 @@ Broker/dealers**
 CDS spreads at selected financial institutions
 Daily Apr.
 FOMC
+170
+Index(12/31/00=100)
 Wilshire
 Dow Jones Financial
 Equity prices
@@ -403,14 +452,20 @@ Chart 3
 Asset Market Developments
 Jan. Mar. May July Oct. Dec. Feb. Apr. June
 2007 2008
+102
+Percent of par
 Average bid price on most liquid leveraged loans
 Apr.
 FOMC
+2.0
+Ratio
 Twenty-year
 One-year
 Municipal bond yield ratios
 Apr.
 FOMC
+450
+Basis points
 FRM
 One-Year ARM
 Mortgage rate spreads
@@ -421,6 +476,8 @@ Percent
 Quarterly, s.a.a.r.
 OFHEO Purchase-Only Index
 p Projected.
+240
+Basis points
 Fannie Mae
 Ginnie Mae
 Agency option-adjusted spreads
@@ -428,6 +485,8 @@ Apr.
 FOMC
 Jan. Mar. May July Oct. Dec. Feb. Apr. June
 2007 2008
+2000
+Basis points
 AAA    
 BBB
 Ten-year investment grade CMBS spreads
@@ -456,6 +515,12 @@ over the intermeeting period in order to combat rising food and energy prices, a
 yields on local-currency bonds have risen.  Rising energy costs pushed some countries
 to scale back fuel subsidies, adding to short-term inflationary pressures.  Stock
 markets in the emerging economies generally declined between 1 and 10 percent,
+4 On May 7, the President signed into law the Ensuring Continued Access to Student Loans 
+Act of 2008.  The act gave the Department of Education new authority to purchase Stafford 
+and PLUS loans for the 2008-09 academic year.  The Department of Education held a 
+briefing on May 20 to present its proposals for implementing its new authority.   
+5 There were no foreign official purchases or sales of dollars by reporting central banks in 
+industrial countries during the intermeeting period.
 Class I FOMC - Restricted Controlled (FR) 14 of 41
 Chart 4
 International Financial Indicators
@@ -489,6 +554,7 @@ since mid-May after remaining essentially unchanged against that currency for mo
 April, but has appreciated against most other emerging Asian currencies.
 Debt and Money
 (13) The debt of domestic nonfinancial sectors is projected to be expanding at a
+3¾ percent annual rate in the second quarter, down from the 6 percent pace recorded
 in the first quarter (Chart 5).  The slowdown appears to be broad based, with
 household, business, and federal government debt all declining.  Home mortgage debt
 is estimated to have continued its recent slowdown, in part reflecting falling house
@@ -518,12 +584,20 @@ Q3
 Q4
 Q1
 Q2 e
+6.1
+3.8
+8.1
+5.5
+3.4
+2.7
 e Estimated.
 C&I loans
 Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business*
+2005 2006 Q1 Q2 Q3 Q4 Q1 Q2
+2007 2008
 e Estimated.
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
@@ -535,13 +609,18 @@ Consumer
 credit
 Home
 mortgage
+12
+$ billions
 Funded CLO issuance
 e Estimated.
 Source. JPMorgan.
+2007 2008
 Monthly Rate
 Growth of M2
 s.a.a.r.
 Percent
+2005 2006 Q1 Q2 Q3 Q4 Q1 Q2
+2007 2008
 e Estimated.
 M2 velocity and opportunity cost
 VelocityPercentage points
@@ -639,9 +718,15 @@ assumptions used in the model-based estimates of r*, that is, using realized cor
 PCE inflation over the past four quarters as a proxy for expected inflation.
 However, alternative estimates of the actual real rate—introduced in this
 Bluebook—highlight the extent to which an estimate of the real rate is sensitive to
+6  The FRB/US model-based estimate of r* shown in the April Bluebook treated the 
+Greenbook projection through 2008:Q2 as actual data, while the current estimate is based on 
+a simulation that treats the staff forecast through the third quarter as data.  This difference 
+accounts for the upward revision to the equity premium.
 Class I FOMC - Restricted Controlled (FR) 21 of 41
 Chart 6
 Equilibrium Real Federal Funds Rate
+8
+Percent
 * This measure was not reported in the April Bluebook.
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
@@ -656,11 +741,15 @@ Single-equation model (2.2 (2.1
 Small structural model -0.6 -0.8
 Large model (FRB/US) (0.4 (0.3
 Confidence intervals for three model-based estimates
+70 percent confidence interval -1.2 - 2.6
+90 percent confidence interval -2.2 - 3.8
 Greenbook-consistent measure -0.1 -0.5
 Medium-Run Measures
 Single-equation model (2.2 (2.2
 Small structural model (1.8 (1.7
 Confidence intervals for two model-based estimates
+70 percent confidence interval (1.1 - 2.9
+90 percent confidence interval (0.5 - 3.7
 TIPS-based factor model (2.0 2.0
 Measures of Actual Real Federal Funds Rate
 Based on lagged core inflation -0.2 (0.1
@@ -685,6 +774,20 @@ current value through mid-2010 and then rises to above 4 percent by the end of
 the simulation.  Under either inflation goal, the unemployment rate declines more
 slowly back towards the long-run NAIRU than in the previous Bluebook,
 reflecting a tighter average stance of monetary policy over the simulation period.
+7 Care should be used in comparing the new measures of the actual real federal funds rate to 
+the r* values shown here.  In order to make such a comparison, the calculation of r* needs to 
+be adjusted to put it on the same basis as the measure of the actual real federal funds rate to 
+be used.  In addition, the new measures of the actual real federal funds rate based on 
+headline inflation are more volatile than the measure based on core inflation because they 
+are influenced to a greater extent by potentially large swings in energy prices.  As a result, it 
+may be preferable to average the values of the actual real federal funds rate over several 
+quarters before making the comparison to r*. 
+8  In these simulations, policymakers place equal weight on keeping core PCE inflation close 
+to a specified goal, on keeping unemployment close to the long-run NAIRU, and on 
+avoiding changes in the nominal federal funds rate.  Moreover, policymakers and 
+participants in financial markets are assumed to understand fully the forces shaping the 
+economic outlook, whereas households and firms form their expectations using more limited 
+information.
 Class I FOMC - Restricted Controlled (FR) 23 of 41
 Even with a softer labor market, however, the trajectory for core PCE inflation
 from 2009 through the end of 2011 is nearly ¼ percentage point higher than in
@@ -705,12 +808,27 @@ a somewhat lower funds rate. 9  Both versions prescribe funds rates that are
 noticeably higher than the expectations of financial market participants.  The
 prescriptions from the first-difference rule are significantly lower than shown in
 the April Bluebook, reflecting the policy inertia of this rule.
+9  Starting in this Bluebook, prescriptions from the Taylor (1999) rule with higher r* will no 
+longer be presented in Chart 8.  The rationale for the use of such a specification was 
+associated with higher productivity growth rates than the staff anticipates for coming years.
 Class I FOMC - Restricted Controlled (FR) 25 of 41
+0   2   4   6   8  10
+-0.2
+0.5
+Percent
 Core PCE Inflation
 (four-quarter average)
 Years Ahead
+0   2   4   6   8  10
+-0.4
+0.1
+Percent
 Output Gap
 Years Ahead
+0   2   4   6   8  10
+-0.2
+1.0
+Percent
 Federal Funds Rate
 Years Ahead
 Optimal policy
@@ -730,6 +848,9 @@ energy costs push up marginal costs at any given level of
 output.  The central bank is assumed to have the objective  
 of minimizing squared deviations of inflation from a target  
 level and output from potential.1
+1 A detailed analysis of the implications of an increase in energy prices for the economy and monetary policy is 
+presented in the memo to the Committee, “Macroeconomic and Monetary Policy Implications of Rising Oil 
+Prices,” that will be distributed on June 20, 2008.
 In the first simulation, the central bank’s commitment to the 
 optimal policy – and to a fixed long-run inflation target – is  
 assumed to be fully credible (solid lines).  Two features of  
@@ -1112,6 +1233,7 @@ from the 8¼ percent advance posted last year.  The fall-off in debt growth owes
 mainly to an anticipated slowing of household borrowing, amid falling house
 prices and tighter standards and terms on consumer loans, and also to diminishing
 Class I FOMC - Restricted Controlled (FR) 37 of 41
+25 bp Easing No change 25 bp Tightening
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates

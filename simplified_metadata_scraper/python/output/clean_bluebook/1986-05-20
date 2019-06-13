@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 May 16, 1986
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -24,6 +32,7 @@ at around its rapid March pace, and data for the first part of May indicate
 further strong expansion. This growth, which substantially exceeded the
 the Committee's 7-to-8 percent March-to-June range, left M1 in April well
 above the upper end of its long-term range. M2 and M3 expanded in April at
+13-3/4 and 10-1/2 percent rates, respectively, outpacing their 7 percent
 short-run paths. Even so, M2 in April moved only into the lower part of its
 long-run target cone, while M3 rose slightly above the middle of its long-
 run range. Data for early May suggest some slowing in growth of the broader
@@ -54,6 +63,10 @@ Memo: (Millions of dollars)
 Adjustment and seasonal
 borrowing
 Excess reserves
+9.8 e
+2.0 P
+13.6 e
+7.8 P
 e -- estimated
 p -- preliminary
 have added a little to growth in M1 and M2. In M3, expansion of institution-
@@ -151,15 +164,161 @@ March
 April
 May
 June
+627.2
+631.1
+638.4
+646.1
+655.6
+660.4
+1.1
+7.5
+14.5
+17.6
+8.8
 Quarterly Ave. Growth Rates
 1985-Q2 10.5
 Q3 14.5
 Q4 10.7
+1986-Ql 7.7
+Q2 13.8
 Mar. 86 to June 86
 Apr. 86 to June 86
 Q4 84 to Q4 85
 Q4 85 to Apr. 86
 Q4 85 to June 86
+1986 Target Ranges:
+13.8
+13.3
+10.0
+11.1
+627.2
+631.1
+638.4
+646.1
+655.4
+659.3
+1.1
+7.5
+14.5
+17.3
+7.1
+13.1
+12.3
+10.0
+10.8
+627.2
+631.1
+638.4
+646.1
+655.2
+658.1
+1.1
+7.5
+14.5
+16.9
+5.3
+12.3
+11.1
+10.0
+10.4
+2569.1
+2576.9
+2591.4
+2621.0
+2642.6
+2659.2
+1.6
+3.6
+6.8
+13.7
+9.9
+7.5
+10.5
+8.7
+6.5
+7.2
+2569.1
+2576.9
+2591.4
+2621.0
+2642.2
+2656.2
+1.6
+3.6
+6.8
+13.7
+9.7
+6.4
+10.0
+8.1
+6.5
+7.0
+2569.1
+2576.9
+2591.4
+2621.0
+2641.8
+2653.1
+1.6
+3.6
+6.8
+13.7
+9.5
+5.1
+9.5
+7.3
+6.5
+6.8
+3224.1
+3240.6
+3259.0
+3287.8
+3309.1
+3329.5
+8.9
+6.1
+6.8
+10.6
+7.8
+7.4
+8.7
+7.6
+7.9
+7.9
+3224.1
+3240.6
+3259.0
+3287.8
+3308.8
+3327.5
+8.9
+6.1
+6.8
+10.6
+7.7
+6.8
+8.4
+7.2
+7.9
+7.8
+3 to 8 6 to 9
+3224.1
+3240.6
+3259.0
+3287.8
+3308.5
+3325.5
+8.9
+6.1
+6.8
+10.6
+7.6
+6.2
+8.2
+6.9
+7.9
+7.7
+6 to 9
 Chart 1
 ACTUAL AND TARGETED M1
 BI 1 lons of dot IlIr
@@ -170,13 +329,19 @@ BI 1 lons of dot IlIr
 -H 670
 -- 660AeB .'
 * C-" ,
+1 t I I I I I I I I 1 I I
 -- 620
+4 610
+600
+SN D J F M A M J J A S 0 N D
+1985 1986
 «
 .- *
 .*,
 o
 (8) Under alternative B discount window borrowing would continue
 around $300 million, with the federal funds rate remaining generally between
+6-3/4 and 6-7/8 percent. M1 under these circumstances is expected to slow
 considerably in June, though still increasing at a 13 percent rate over the
 March-to-June period. The effects of earlier market rate declines on
 demands for transactions balances should be abating in June, and incentives
@@ -250,6 +415,7 @@ well above the lower end, while M3 would be at about the middle of its
 (14) Market rates would back up considerably under alter-
 native C, at least initially, given the absence of market sentiment that
 such a move is imminent. The three-month bill rate would rise to around
+6-3/4 percent, and bond yields also would increase, though the rise might
 be moderated a bit to the extent that this action was viewed as reducing
 the potential for a reemergence of price pressures later this year. The
 current wide spreads between long-term private and Treasury rates might
@@ -347,6 +513,10 @@ the next meeting are likely to be associated with a federal funds
 rate persistently outside a range of [DEL:6 to 10] ____ to ____ percent.
 Selected Interest Rates May 19, 1986
 Percent
+1985--High
+Low
+1986--High
+Low
 Apr.
 May
 June
@@ -356,16 +526,118 @@ Sept.
 Oct.
 Hov.
 Dec.
+1986-Jan.
+Feb.
+aer.
 Apr. 2
 9
+16
+23
+30
 Hay 7
 14
 Dally-May 9
 15
 16
+8.83
+7.22
+7.91
+6.51
+8.31
+7.80
+7.34
+7.58
+7.73
+7.83
+7.81
+7.84
+7.87
+6.68
+6.69
+6.65
+6.63
+6.78
+6 4p 8.83
 -- 8.50
 - 8.50
 -- 8.50
+11.19
+8.24
+8.60
+6.66
+10.49
+9.75
+9.05
+9.18
+9.31
+9.37
+9.25
+8.88
+8.40
+7.03
+7.09
+7.01
+7.37
+7.5
+6
+p
+11.95
+9.07
+9.38
+7.15
+11.43
+10.85
+10.16
+10.31
+10.33
+10.37
+10.24
+9.78
+9.26
+7.46
+7.57
+11.89
+9.34
+9.52
+7.25
+11.47
+11.05
+10.45
+10.50
+10.56
+10.61
+10.50
+10.06
+9.54
+7.54
+7.40
+7.37
+7.50
+7.65p
+13.23
+10.62
+10.83
+9.15
+12.75
+12.25
+11.60
+11.64
+11.76
+11.87
+11.82
+11.35
+10.93
+9.09
+8.41
+10.92
+10.56
+9.89
+9.68
+9.52
+9.52
+9.50
+9.38
+9.19
 Money and Credit Aggregate Measures
 Seasonally adjusted
 Strictly Confidential (FR)-
@@ -379,6 +651,9 @@ I total
 In M2 in M3 only n_ _tmentl_
 PNICT ANNUAL GRO8TH:
 AIHNALLI (9Ul TO U1T)
+1983
+1984
+1985
 QUABTBBLI AVERAGE
 2MD Uta. 1985
 38D QTR. 1985
@@ -389,6 +664,61 @@ BIOT
 1986
 N88K
 1986
+10.4
+5.4
+10.5
+14.5
+30.7
+12.2
+8.0
+8.6
+2.5
+8.6
+12.8
+8.8
+7.6
+1.0
+7.0
+1.0
+21.2
+3.8
+2.6
+0.2
+8.0
+0.8
+0.6
+2.3
+-3.7
+-2.1
+11.7
+9.9
+10.5
+2.1
+7.0
+10.4
+11.9
+8.5
+10.6
+10.8
+9-9
+9.7
+9.6
+8.8
+4.9
+13.4
+9.5
+10.9
+6.5
+8.2
+21.5
+15.8
+15.2
+8.5
+13.8
+13.5
+11.2
+14.3
+13.9
 SLE LIUE"S (SBILLOINS
 -- DBC. 626.6 2565.7 1939.1 634.5 3200.3 3837.0 1895.5 1586.0 5215.0 6801.0
 -- JAM. 627.2 2569.1 1941.9 655.0 3224. 1 3860.0 1919.6 1100.S 5295.8 6904.J
@@ -397,12 +727,17 @@ IAB. 638.4 2591.4 1953.0 667.5 3259.0 3891.0 1943.5 1,9.J 5384.6 7013.9
 ArM. P 646.1 2621.0 1974.9 666.7 3287.8 1944.1 1638.6 5432.4 7071.0
 LI LEELS5 (S81LLIOS)
 -- 1AP. 7 645.9
+14 641.4
+21 645.6
+281 648.8
 RAI 5P 654.7
 ANNUAL bATES FOR BAlK CMEUIT ARE ADJUSTED FOB A TRANSFR OF LO AS FRO8 CONTLIITAL ILLINOIS NATIONAL MANK TO T Hr FDIC
 BEGLCMINiG SEPTEMBER 26, 1984.
 DEBT' UA'A ARI ON A HONTUILI AVERAGB BASIS, DEtIVotu BI ABVINAGIG IP-OP-ORTHIM LEVELS Of ADJACBEN IvflulTiS AN HAFI BE8N APJUSTED
 TO REMOVE DISCONMTNUITIES.
 p-PaILiHINIA
+5
+i
 Components of Money Stock and Related Measures
 Billions of dollars seasonally adjusted unless otherwise noted MAY 19, 1986
 Other Ovemight dfeoml- mutual funds. NSA denonmi Tnerm bI Short-
@@ -413,12 +748,245 @@ ANNUALLY (4TH 1 UT):
 .1983
 1984
 1985
+1985-APi.
+MAT
+joys
 JOUL
 AOG.
 SEPT.
+1986-JAi.
+REU.
 APa. P
+147.2
+157.
+169.7
+161.9
+163.2
+164.4
+165.3
+166.9
+167.7
+168.7
+169.8
+170.6
+171.9
+172.9
+173.9
+243.4
+247.1
+268.
+251.8
+255.4
+259.0
+260.4
+263.1
+266.4
+266.0
+267.8
+271.5
+268.9
+269.2
+273.2
+130.2
+144.2
+176.3
+156.5
+158.4
+161.8
+164.8
+169.0
+171.5
+173.7
+176.7
+178.6
+180.5
+183.1
+53.6
+56.1
+66.6
+57.8
+61.3
+60.8
+60.7
+63.6
+64.1
+64.7
+65.7
+69.5
+68.0
+67.6
+66.5
+376.2
+405.1
+508.5
+462.5
+466.4
+478.1
+487.2
+495.2
+499.8
+504.1
+509.5
+512.0
+515.7
+516.4
+520.5
+309.7
+291.0
+303.2
+289.0
+290.8
+293.6
+296.7
+299.7
+300.3
+302.3
+303.7
+303.6
+304.0
+305.0
+306.9
+775.0
+881.8
+877.3
+887.6
+889.5
+890.3
+888.0
+880.9
+878.3
+875.7
+876.0
+880.3
+886.0
+891.0
+894.7
+138.2
+161.7
+176.8
+176.2
+172.2
+175.4
+175.8
+176.8
+176.7
+177.0
+176.8
+176.5
+177.7
+181.0
+186.3
+43.2
+51.1
+59.6
+63.5
+67.1
+65.0
+63.6
+62.3
+63.3
+64.5
+64.6
+67.3
+67.7
+70.2
+325.
+409.0
+433.0
+425.9
+425.0
+422.7
+418.3
+421.0
+425.6
+429.7
+432.9
+436.5
+447.9
+451.2
+450.3
+48.0
+65,.
+62.1
+59.5
+63.0
+65.7
+68.5
+70.3
+71.4
+80.9
+81.4
+79.2
+78.8
+80.0
+80.2
+76.7
+79.3
+80.4
+70.9
+74.0
+79.0
+75.7
+76.1
+76.5
+76.7
+77.2
+78.0
+78.5
+79.9
+79.5
+79.9
+80.5
+81.1
+211.1
+248.*
+295.9
+276.0
+277.4
+282.6
+279.9
+278.1
+281.3
+281.4
+299.5
+306. 7
+303.9
+307.2
+299.9
+127.5
+156.7
+199.5
+167.7
+168.6
+165.7
+171.6
+182.9
+187.2
+192.5
+196.4
+209.5
+210.6
+209.2
+209.5
+44.0
+44.5
+42.7
+47.5
+46.3
+44.5
+43.7
+43.6
+43.2
+43.-
+43.1
+41.1
+41.5
+42.1
+41.6
 I/ IBCLUDES BETAIL REPURCHASE AGREEMHETS. ILL IA ANDU KR0GH ACCOUNTS AT COMMEICIAL BANMS AMD THRIFT INSTlTUTIONS ARE SUBTZACTED
 FRO SHALL .1 DEPOSITS.
+2/ EBCLUUBS 1A AND KEOGH ACCOUNTS.
+3/ NBT OF LARGE DBNONIMATION TIIE DEPOSITS HiELD bl UNOt MARKET HUTUAL FUNDS AND THRIPT INSTITOTIONS.
 STRICTLY CONFIDENTIAL (FR)
 Net Changes in System Holdings of Securities 1 CLASS II-FOMC
 Millions of dollars, not seasonally adjusted
@@ -427,8 +995,125 @@ bills Treasury coupons net purchases* Federal agencies net purchases' Net change
 Period Treasury bils I outright holdings Net RPs*
 nt change' w 1-5 5-10 over 10 total 1-5 5-10 over 10 total total'
 _______________________ __________ 1- r 1- 5-0 oer t toal -year
+1985--QTR. I
+II
+III
+IV
+1986--QTR. I
+1986--Jan.
+Feb.
+Mar.
+Apr.
 May 7
 14
 LEVEL--May 14
+961
+245
+2.138
+1,702
+1,794
+1,896
+1,938
+2,185
+465
+846
+6
+868
+-100
+108
+6
+345
+-3,052
+5,337
+5,698
+13,068
+3,779
+-2,044
+7,183
+4,027
+5,431
+61
+-3,277
+396
+2,988
+134
+152
+320
+2,132
+251
+389
+153
+4,564
+2,768
+2,803
+3,653
+3,440
+4,185
+1,326
+1,295
+12
+1,552
+217
+133
+2,035
+8,491
+8,312
+16,342
+6,964
+-735
+8,409
+3,962
+6,983
+61
+-3,318
+396
+2,988
+134
+152
+-940
+-1,683
+-195
+-725
+320
+2,132
+251
+389
+153
+135
+-50
+2,462
+684
+1,461
+-5,445
+1,450
+3,001
+462
+-350
+-3,446
+6,336
+-3,466
+198
+-312
+3,659
+5,075
+-4,999
+3,037
+4,896
+-7.440
+3,646
+119
+1,576
+-1,308
+4,809
+-5,405
+3,644
+-1,925
+-3,357
+4,724
+311
+2,520
+-2,041
+-2,491
+90.3 -3.3
 maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon issues, and direct Treasury
 borrowing from the System.

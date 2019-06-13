@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 October 13, 1978
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
@@ -41,10 +49,14 @@ M-2 6-1/2 to 10-1/2 10.0
 Memo: Federal funds Avg. for statement
 rate (per cent per week ending
 annum) 8-1/4 to 8-3/4 Sept. 20 8.36
+27 8.62
+Oct. 4 8.85
+11 8.71
 (2) Following the September FOMC meeting, incoming data
 suggested that M-1 growth would be around the upper end, and M-2 growth
 in the upper half, of their respective short-run ranges. The Account
 Management responded by raising its Federal funds rate objective to
+8-3/4 per cent, the upper end of the Committee's range. The discount
 rate was raised 1/4 point to 8 per cent on September 22 and was again
 raised to 8-1/2 per cent after the close of business Friday, October 13.
 Member bank borrowing has averaged from $1-1/4 to $1-1/2 billion during
@@ -88,6 +100,8 @@ of change in related monetary and financial flows over various time
 Past Past Past
 Twelve Six Three Past
 Months Months Months Months
+1976 & Sept. '78 Sept. '78 Sept. '78 Sept. '78
+1977 over over over over
 Average Sept. '77 Mar. '78 June '78 Aug. '78
 Concepts of Money
 M-3 (M-2 plus deposits at
@@ -97,6 +111,14 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift institu-
+tions--which are derived from either end-of-month or Wednesday statement date
+figures. Growth rates for reserve measures in this and subsequent tables are
+adjusted to remove the effect of discontinuities from breaks in the series when
+reserve requirements are changed.
 Prospective developments
 (7) Alternative longer-run growth ranges for the monetary
 aggregates over the one-year QIII '78 to QIII '79 period are shown
@@ -109,6 +131,7 @@ in the second line. The upper limits of the ranges on the top line are
 noticeably lower than those on the second line because the staff
 believes that some significant shift from demand to savings deposits
 as a result of ATS will almost assuredly occur, as explained in paragraph
+8; the ranges of the top line are relatively wide to allow for the
 uncertain size of this shift. Alternative B is based on the same growth
 rate range for M-1 as adopted by the Committee in July for the QII '78
 to QII '79 period, while alternatives A and C encompass, respectively,
@@ -125,6 +148,9 @@ M-2 7½ to 10 7 to 9½ 6½ to 9 6½ to
 M-3 9 to 11½ 8½ to 11 8 to 10½ 7½ to
 Bank Credit 9 to 12 8½ to 11 8 to 11 8½ to
 M-l+ 1/ 6 to 8½ 5 to 7½ 4 to 6½
+1/ M-1+ is defined as M-1 plus savings deposits at commercial banks,
+NOW accounts at thrifts, credit union share drafts, and demand
+deposits at MSBs. See appendix V of the September Bluebook.
 (8) Over the QIII '78-QIII '79 policy period, the staff
 projects that ATS would reduce M-1 growth by between 1½ and 4½
 percentage points. The upper end of this range assumes that some-
@@ -134,6 +160,7 @@ lower end assumes something less than 10 per cent shifts. While
 uncertainties are, of course, vast, the upper end of the range is
 comparable to first year experience with NOW accounts in the four New
 England states that were permitted to offer such accounts in early
+1976. Transfers under present circumstances may be slower because
 of the absence of competition from thrifts, which was present in
 New England. However, it would appear that bank pricing of the ATS
 will make such service quite attractive for large deposit holders, who
@@ -145,9 +172,15 @@ supplementing, at least for a transition period, the other monetary
 measures with the aggregate "M-l+", which will not be affected by
 shifts between demand and savings deposits at banks and should
 provide useful collateral evidence about the strength of the
+1/transactions demand for money.- This aggregate--defined as M-1
 plus savings deposits at commercial banks, NOW accounts at thrifts,
 credit union share drafts, and demand deposits at MSB's--was discussed
 in appendix V of the September Bluebook. The addendum to the table
+1/ It would, of course, be affected by shifts from deposits at
+savings institutions to commercial bank ATS accounts. Such shifts
+should be relatively modest. We have assumed a shift of $2 billion,
+which adds .4 of a percentage point to growth in M-1+ over the
+QIII '78-QIII '79 period.
 in paragraph (7) shows M-1+ ranges thought to be consistent with the
 other aggregates.
 (10) The demand for transactions balances is expected to
@@ -172,6 +205,10 @@ cast assumed a fairly significant downward shift in M-1 demand relative
 to income. There has been no evidence of such a shift in recent quarters,
 and without the restraint of even higher interest rates than earlier
 projected it appears that growth in M-1 (or M-1+) would run above the
+1/ Allowing for the ATS effect on M-1, and given the 1½ to 4½ per
+cent range of probable ATS effect, M-1 growth in a 2 to 5 per cent
+range after ATS would be economically equivalent to 6½ per cent
+ex-ATS.
 alternative B range. Even so it should be noted that our new interest
 rate estimates still assume some renewed downward drift in M-1 demand,
 apart from the effects of automatic transfers.1 /
@@ -191,14 +228,21 @@ deposits to thrifts should slow from its recent pace in the months
 ahead, as rising interest rates further moderate inflows of deposits
 subject to fixed rate-ceilings, the effects of the stock adjustment
 from other financial assets wane, and depository institutions perhaps
+1/ Appendix II displays projected velocity changes, with and
+without automatic transfers in the case of M-1.
+2/ The $2 billion shift that we have assumed would increase M-2
+growth by about ¼ percentage point over the QIII '78
+QIII '79 period.
 become less aggressive in offering the new certificates as the spread
 continues to narrow between their deposit costs and mortgage rates.
 (13) The longer-run alternative C ranges encompass growth
 rates for M-2 and M-3 nearer to those currently in place. In addition,
 alternative C calls for a slower longer-run growth in M-1--in a
+3 to 5 per cent range, abstracting from ATS. Growth around the
 upper end of that range would tend to compensate for the "overshoot"
 in M-1 expansion over the first three quarters of this year and would
 lead to about a 6 per cent annual rate of growth from the end of
+1977 through the third quarter of 1979, as may be seen in the bottom
 line of appendix III-1.
 (14) Two alternative short-run specifications for the
 monetary aggregates and the Federal funds rate believed to be generally
@@ -213,33 +257,259 @@ are shown in tables on pages 10 and 11; the numbers in parentheses
 in those tables show estimates abstracting from the effect of ATS).
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 Alt. A
+1978 September
+October
+November
+1978 QIII
+QIV
+1979 QI
+QII
+QIII
 Growth Rates
 Monthly:
+1978 October
+November
 Quarterly Average:
+1978 QIV
+1979 QI
+QII
+QIII
 QIII '78-QI '79
 QI '79-QIII '79
+360.9
+362.0
+363.3 (364.2)
+357.3
+363.2
+365.9
+368.8
+372.2
 (370.5)
 (376.7)
 (383.2)
+3.7
+4.3 (7.3)
+6.6 (7.7)
+3.0 (6.9)
+3.2 (6.7)
+3.7 (6.9)
+4.8 (7.4)
+3.4 (6.9
 Alt. B
+360.9
+362.0
+363.3
+357.3
+363.1
+364.3
+366.1
+368.6
 (368.9)
 (374.0)
 (379.6)
+6.5 (7.6)
+1.3 (5.3)
+2.0 (5.5)
+2.7 (6.0)
+3.9 (6.5)
+2.4 (5.8)
 Alt. C
+360.9
+361.9
+363.3
+357.3
+362.8
+363.0
+363.4
+365.0
+3.3
+3.6
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
 (367.6)
 (371.3)
 (376.0)
+588.0
+589.5
+593.2
+588.0
+589.5
+593.2
+588.0
+589.3
+592.6
+862.4
+867.8
+874.0
+862.4
+867.8
+874.0
+582.6 582.6 582.6 854.0 854.0
+593.1 593.0 592.4 874.0 873.9
+603.8
+614.2
+625.0
+601.4
+609.9
+619.2
+3.1
+7.5(6.6)
+6.2 (7.3)
+0.2 (4.2)
+0.4 (4.0)
+1.8 (5.1)
+3.2 (5.8)
+1.1 (4.6)
+7.2
+6.9
+7.0
+7.3
+7.0
+599.2
+605.7
+613.4
+892.7
+911.6
+931.2
+890.8
+908.1
+926.4
+7.5
+8.6
+8.6
+8.5
+8.6
+9.1
+8.6
+6.5
+5.9
+7.7
+7.8
+8.1
+3.2 (6.2) 2.2 (5.2) 7.3 6.3
+862.4
+867.4
+873.2
+854.0
+873.1
+888.7
+904.3
+921.2
+7.0
+8.0
+7.1
+7.0
+7.5
+8.1
+7.3
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M- 3
 Alt. A Alt. B Alt. C
 Bank Credit
 Alt. A Alt. B Alt. C
+1978 September
+October
+November
+1978 QIII
+QIV
+1979 QI
+QII
+QIII
 Growth Rates
 Monthly
+1978 October
+November
 Quarterly Average:
+1978 QIV
+1979 QI
+QII
+QIII
 QIII '78-QI '79
 QI '69-QIII '79
+1471.7
+1485.2
+1498.9
+1471.7
+1485.2
+1498.9
+1471.7
+1484.8
+1498.0
+1455.9 1455.9 1455.9
+1498.7 1498.5 1497.7
+1536.6
+1571.8
+1607.8
+11.0
+11.1
+10.1
+9.2
+9.2
+11.1
+9.3
+1534.5
+1567.4
+1601.0
+11.0
+11.1
+9.6
+8.6
+8.6
+10.8
+8.7
+1531.9
+1562.4
+1593.9
+10.7
+10.7
+9.1
+8.0
+8.1
+10.4
+8.1
+10.4 10.0 9.5
+946.9
+955.1
+964.0
+939.9
+963.6
+988.6
+1013.6
+1037.6
+10.4
+11.2
+946.9
+955.1
+963.5
+939.9
+963.2
+987.5
+1011.9
+1034.8
+10.4
+10.6
+946.9
+955.1
+964.5
+939.9
+964.0
+989.7
+1015.3
+1040.4
+10.4
+11.8
+10.7
+10.3
+10.6
+10.2
+10.4
+10.1
+10.1
+9.9
+9.1
+10.4
+9.9
+10.1
+9.6
 Alt. I Alt. II
 Ranges for Oct.-Nov.
 M-1 1 to 7 ½ to 6½
@@ -284,6 +554,9 @@ inflows seems likely to begin slowing by November, though remaining
 considerably stronger than in the first half of the year.
 (18) If the Federal funds rate remains around its current
 level of 8¾ per cent over the intermeeting period and published
+1/ The relationship between current levels of M-1, as well as other
+monetary aggregates, and the FOMC's longer-run ranges are shown
+in the set of charts attached after p. 18.
 growth of the monetary aggregates moderates as the staff projects,
 other short-term interest rates are also likely to change little.
 Business demands for short-term credit probably will continue at

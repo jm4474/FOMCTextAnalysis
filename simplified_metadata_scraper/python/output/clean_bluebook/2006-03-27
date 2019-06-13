@@ -70,6 +70,8 @@ Chart 1
 Interest Rate Developments
 Mar. June Sept. Dec. Mar. June Sept.
 2006 2007
+5.5
+Percent
 March 23, 2006
 January 30, 2006
 Expected Federal Funds Rates*
@@ -77,10 +79,14 @@ Expected Federal Funds Rates*
  for term premia and other adjustments.
 Probability Density for Target Funds Rate
 after June 2006 FOMC Meeting
+100
+Percent
 Target Funds Rate
 As of March 23, 2006
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2004 2005 2006
+190
+Percent Basis points
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
@@ -88,12 +94,16 @@ Daily
 FOMC
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2004 2005 2006
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2004 2005 2006
+3.5
+Percent
 Five-Year
 Ten-Year
 TIPS Yields*
@@ -103,6 +113,8 @@ FOMC
 curve, and adjusted for the indexation-lag (carry) effect.
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2004 2005 2006
+4.0
+Percent
 Next Five Years
 Five-to-Ten Years Ahead
 Inflation Compensation*
@@ -167,16 +179,22 @@ Chart 2
 Asset Market Developments
 Apr. Aug. Dec. Apr. Aug. Dec.
 2004 2005 2006
+130
+Index(12/31/03=100)
 Wilshire
 Nasdaq
 Stock Prices
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2004 2005 2006
+40
+Percent
 S&P 500
 Nasdaq
 Implied Volatilities
 Daily
 FOMC
+12-Month Forward
+   Trend E/P Ratio
 Real Long-Term Treasury Yield*
 *Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
@@ -188,6 +206,8 @@ profits before tax
 Corporate Earnings Growth Percent
 *Change from four quarters earlier.
     Source. I/B/E/S for S&P 500 EPS.
+8
+Percent of Liabilities Percent of Outstandings
 Expected Defaults* (left scale)
 Bond Default Rate** (right scale)
 Expected Defaults of Nonfinancial Companies
@@ -286,6 +306,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2004 Q1 Q2 Q3 Q4 Jan Feb
+2005 2006
 Monthly rate
 Growth of Household Debt
 Percent
@@ -294,6 +316,7 @@ Consumer
 Credit
 Home
 Mortgage
+2003 2004 2005
 Household Bankruptcies
 Thousands of filings
 Weekly, n.s.a.
@@ -310,6 +333,8 @@ Growth of M2
 s.a.a.r.
 Percent
 e Estimated.
+2004 H1 H2 Jan Feb
+2005 2006
 M2 Velocity and Opportunity Cost
 VelocityPercent
 Opportunity Cost*
@@ -325,6 +350,7 @@ spending indicate that this shortfall has been made up in the current quarter.  
 bit more momentum to aggregate demand and a slightly lower path for potential
 output than in the last Greenbook, the staff now assumes that the federal funds rate
 will rise to 5 percent later this spring and edge back to 4¾ percent after mid-year
+2007―quite close to the trajectory implied by futures quotes.  Given the close
 alignment of the staff policy assumption with market expectations, longer-term
 interest rates are projected to remain around their current levels.  Equity prices are
 expected to rise at a rate sufficient to generate risk-adjusted returns comparable to
@@ -453,6 +479,10 @@ information.
 Class I FOMC - Restricted Controlled (FR) Page 12 of 37
 Chart 5
 Equilibrium Real Federal Funds Rate
+8
+Percent
+25 b.p. Tightening
+Current Rate
 Short-Run Estimates with Confidence Intervals
 Short-Run and Medium-Run Measures
 Actual real federal funds rate
@@ -562,6 +592,7 @@ clues as to when the tightening cycle will end.  Expectations of a rate hike at 
 meeting will probably increase over the course of the upcoming intermeeting period
 in the absence of guidance from policymakers.
 (13) Although the Committee has raised rates 3½ percentage points since June
+2004, the ten-year Treasury yield is almost unchanged on net over this period, as are
 high-grade corporate yields, while yields on more-speculative issues have fallen.  To
 Class I FOMC - Restricted Controlled (FR) Page 15 of 37
 the extent that the Committee views the flat yield curve and narrow risk spreads as
@@ -606,6 +637,7 @@ in alternative simulations in the Greenbook.  This alternative may also be favor
 members are concerned about downside risks to the economy coming from, for
 example, a more pronounced cooling in the housing market than anticipated by the
 staff.  In that regard, the market’s expectation for the funds rate to decline modestly in
+2007 might be interpreted as evidence of investor concern that the Committee may
 tighten too much.
 (17) This alternative employs a rationale paragraph similar to that in
 Alternative B.  However, it points to possible moderation in the housing market as
@@ -620,25 +652,41 @@ communications indicating the importance of data in policy decisions.   Alternat
 Class I FOMC - Restricted Controlled (FR) Page 17 of 37
 Chart 6
 Information from Estimated Policy Rules and Financial Markets
+2005 2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Outcome-based rule
    70 percent confidence interval
    90 percent confidence interval
 Forecast-based rule
 Estimated Policy Rules
+2005 2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Market-based expectations
    70 percent confidence interval
    90 percent confidence interval
 Market Expectations
+2006 2007
 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 Class I FOMC - Restricted Controlled (FR) Page 18 of 37
 Chart 7
 Policy Paths under Alternative Inflation Objectives
+2005 2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Baseline Taylor rule
 Aggressive Taylor rule
 First-difference rule
+1½ Percent Inflation Objective
+2005 2006 2007
+8
+Percent
+2 Percent Inflation Objective
+2006 2007
 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 Class I FOMC - Restricted Controlled (FR) Page 19 of 37
 Policy Rule Charts: Explanatory Notes
@@ -795,9 +843,13 @@ needed to foster these objectives.
 Class I FOMC - Restricted Controlled (FR) Page 26 of 37
 Appendix Chart 1
 Treasury Yield Curve
+4
+Percentage Points
 + Denotes most recent weekly value.
 Note. Blue shaded regions denote NBER−dated recessions.
 Spread Between Ten−year Treasury Yield and Federal Funds Rate
+6.0
+Percent
 March 23, 2006   
 January 30, 2006
 Treasury Yield Curve*
@@ -820,6 +872,8 @@ Other Important
 Class I FOMC - Restricted Controlled (FR) Page 28 of 37
 Appendix Chart 3
 Stock Indexes
+45
+Ratio
 Ratio Scale
 1941−43=10
 * Based on trailing four−quarter earnings.
@@ -834,24 +888,34 @@ Note. Blue shaded regions denote NBER−dated recessions.
 Class I FOMC - Restricted Controlled (FR) Page 29 of 37
 Appendix Chart 4
 One−Year Real Interest Rates
+8
+Percent
 * Mean value of respondents.
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Michigan Survey)*
+8
+Percent
 * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters
 thereafter.  Median value of respondents.
 GDP Deflator
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Philadelphia Fed)*
+8
+Percent
 + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
 Note. Blue shaded regions denote NBER−dated recessions.
 One−Year Treasury Constant Maturity Yield Less Change in the Core CPI from Three Months Prior
 Class I FOMC - Restricted Controlled (FR) Page 30 of 37
 Appendix Chart 5
 Long−Term Real Interest Rates*
+10
+Percent
 Real Ten−Year Treasury Yields
 Real rate using
 Philadelphia Fed Survey
 Real rate using
 Michigan Survey
 Ten−year TIPS yield
+14
+Percent
 +
 +
 Nominal and Real Corporate Bond Rates
@@ -871,20 +935,42 @@ Michigan Survey
 Class I FOMC - Restricted Controlled (FR) Page 31 of 37
 Appendix Chart 6
 Commodity Price Measures
+160
+Ratio scale, index (1980=100)
 Journal of Commerce Index
+400
+Ratio scale, index (1967=100)
 CRB Spot Industrials
+400
+Ratio scale, index (1967=100)
 CRB Futures
 Class I FOMC - Restricted Controlled (FR) Page 32 of 37
 Appendix Chart 7
 Growth of M2
+14
+Percent
+14
+Percent
 Nominal M2
+10
+Percent
+10
+Percent
 Real M2
 Class I FOMC - Restricted Controlled (FR) Page 33 of 37
 Appendix Chart 8
 Inflation Indicator Based on M2
+140
+Ratio ScalePrice Level
 Implicit GDP
 price deflator (P) Long-run equilibrium
 price level (P*)
+140
+Ratio Scale
+12
+PercentInflation                1
+12
+Percent
 Class I FOMC - Restricted Controlled (FR) Page 34 of 37
 Short-term Long-term
 Federal
@@ -901,3 +987,4 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 20-year 5-year 10-year Fixed-rate ARM

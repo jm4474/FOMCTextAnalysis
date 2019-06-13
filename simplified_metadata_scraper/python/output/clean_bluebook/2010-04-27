@@ -53,6 +53,7 @@ to the event that the first increase in the FOMC’s target funds rate would occ
 given quarter over the next couple of years.  The responses indicated that the dealers
 see probabilities that the first target rate increase will occur in the second half of this
 year, the first half of next year, or in the second half of next year and beyond of about
+40 percent, 35 percent, and 23 percent, respectively.
 On net, yields on 2- and 10-year Treasury securities edged up, on balance, over
 the intermeeting period, reportedly reflecting in part some concerns about the fiscal
 outlook and modestly improved prospects for economic growth.  Trading was volatile
@@ -65,9 +66,15 @@ expectations were about unchanged.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 3 of 59
 Chart 1
 Interest Rate Developments
+2.5
+Percent
 April 22, 2010
 March 15, 2010
 Expected federal funds rate
+2010 2011
+0.0
+2.5
+Percent
 April 22, 2010
 March 15, 2010
 Mode of the distribution of the anticipated federal funds
@@ -75,6 +82,10 @@ rate
 Distribution of expected quarter of first rate increase
 from the Desk’s Dealer Survey
 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 >=Q2
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields
 Mar.
 FOMC
@@ -91,10 +102,13 @@ Mar.
 FOMC
 Apr. 
  22
+16
+Percent
 Apr. 
  22
 Mar.
 FOMC
+10-year Treasury implied volatility
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 4 of 59
 The Treasury auctioned about $200 billion in coupon securities of various
 maturities over the intermeeting period.  Some of the auctions held in late March,
@@ -122,14 +136,27 @@ Yields on investment-grade corporate bonds edged down, leaving their spreads to
 comparable-maturity Treasury securities a bit lower at levels around those that
 prevailed in late 2007. Consistent with more favorable investor sentiment toward
 risky assets, yields and spreads on speculative-grade corporate bonds declined, and
+1 A negative swap spread does not indicate that corporations can issue long-term debt at a lower cost than 
+the U.S. Treasury.  This is because, in order to do so, companies would need to either keep rolling over 
+short-term debt over the next ten years or issue ten-year floating-rate bonds, while in the meantime 
+swapping the floating-rate liabilities into fixed rates.  The former arrangement exposes them to the risk that 
+their short-term borrowing cost might rise in the future, while in the latter scenario, the floating-rate debt is 
+typically issued at a spread over Libor that is sufficiently large to result in an overall borrowing cost 
+exceeding the ten-year Treasury yield.
 ‐20 
 0 
 20 
 40 
 60 
 80
+100 
+120 
+140
 Basis points 10y swap spread 
 fitted value
+3/31/10 values: 
+actual=‐1 bp 
+fitted=+18 bp
 Basis points United States 
 United Kingdom 
 Germany 
@@ -193,6 +220,8 @@ behaved similarly to those in the United States.  Staff work suggests that these
 spreads are also reflective, in part, of concerns about the future supply of 
 government securities.
 Asset Market Developments
+220
+Jan. 26, 2010 = 100
 S&P 500
 S&P 500 Bank Index
 Equity prices
@@ -201,17 +230,25 @@ Mar.
 FOMC
 Apr. 
  22
+100
+Percent
 Implied volatility on S&P 500 (VIX)
 Source. Chicago Board Options Exchange.
 Mar.
 FOMC
 Apr. 
  22
+1750
+Basis points Basis points
+10-year BBB (left scale)
+10-year high-yield (right scale)
 Corporate bond spreads
 Mar.
 FOMC
 Apr. 
  22
+110
+Percent of par
 Source. LSTA/LPC Mark-to-Market Pricing.
 Secondary loan market average bid price
 Mar.
@@ -225,6 +262,8 @@ Q1
 Upgrades
 Annual rate
 Bond ratings changes of nonfinancial companies
+8
+Percent of outstandings
 Nonfinancial bond default rate*
 * 6-month trailing defaults divided by beginning-of-period outstandings,
 at an annual rate.
@@ -260,6 +299,8 @@ around the time of the program’s conclusion, ending the period roughly where i
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 9 of 59
 Chart 3
 Credit Market Developments
+100
+Billions of dollars
 Bonds
   C&I loans
   Commercial paper
@@ -270,6 +311,11 @@ Changes in selected components of debt of the
 nonfinancial business sector
 Jan. Mar. May July Oct. Dec. Feb. Apr.
 2009 2010
+7
+Percent
+30-year fixed-rate mortgage
+MBS yield
+On-the-run 10-year Treasury
 Mar.
 FOMC
 Selected interest rates
@@ -277,6 +323,8 @@ Apr.
  21
 Apr. 
  22
+40
+Billions of dollars
 Credit card
   Auto
   Student loan
@@ -295,12 +343,19 @@ Source. Inside MBS & ABS, Merrill Lynch, Bloomberg, and the Federal
 Reserve.
 Sept. Dec. Mar. June Sept. Dec. Mar.
 2008 2009 2010
+500
+Basis points
+6-month
+3-month
+1-month
 Mar.
 FOMC
 Libor over OIS spreads
 Source. British Bankers’ Association and Prebon.
 Apr. 
  22
+700
+Basis points
 ABCP
 A2/P2
 Apr. 
@@ -345,6 +400,14 @@ MARKET  FUNCTIONING  AND  FEDERAL  RESERVE  PROGRAMS
 Overall, conditions in short-term funding markets remained generally stable
 during the intermeeting period. Libor-OIS spreads at the one-, three-, and six-month
 tenors stayed around levels that prevailed in late 2007, as did spreads in the
+1 Although Libor-OIS spreads were little changed, anecdotal reports late in the period 
+suggested that some institutions might be experiencing a modest increase in funding 
+pressures. A number of possible causes were cited, included potential concerns about 
+institutions’ perceived exposures to Greece.
+2 To minimize the dollar amount of the assessment fee for the TAGP at each quarter-end, 
+some banks reportedly sought to encourage their customers to shift funds from transaction 
+deposits, which were subject to the assessment, to other types of investments that were not.  
+The resulting shifts put downward pressure on GC repo rates and other short-term money
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 11 of 59
 commercial paper market.1  The effective federal funds rate was somewhat firm
 relative to the recent past, averaging 18 basis points compared to 13 basis points over
@@ -393,6 +456,9 @@ of AAA-rated CMBS to 10-year Treasury securities, which remain elevated relative
 pre-crisis levels, decreased substantially over the intermeeting period, reportedly
 reflecting increased demand. These developments suggest that the end of the portion
 of the TALF program supporting legacy CMBS did not cause significant strains in the
+1 These data are through April 21, 2010.
+ 
+2 The figures for securities holdings reflect only trades that have settled.  Over the intermeeting period, the
 Open Market Desk committed to purchase, but has not settled, an additional $25.8 billion of MBS, on net. 
 3 The remaining assets of CPFF LLC—investments of the fees paid by issuers that sold commercial paper to
 the facility—will remain on the Federal Reserve’s balance sheet until the LLC is dissolved, which will likely 
@@ -506,6 +572,9 @@ Percent Percent
 Source. Bloomberg.
 Mar.
 FOMC
+115Broad
+Major currencies
+Other important trading partners
 Nominal trade-weighted dollar indexes
 Dec. 31, 2006 = 100
 Source. Federal Reserve.
@@ -580,6 +649,8 @@ Government__________
 17.7
 Source. Flow of Funds.
 p Projected.
+20NBER
+peak
 Growth of debt of household sector
 Percent
 Quarterly, s.a.a.r.
@@ -606,6 +677,8 @@ Growth of M2
 Mar p
 p Preliminary.
 Source. Federal Reserve.
+2007 2008 Q1 Q2 Q3 Q4
+2009
 Growth of M2 and its components
 Percent, s.a.a.r.
 Mar p
@@ -617,6 +690,7 @@ Memo:
 Monetary
 Source. Federal Reserve.
 p Preliminary.
+1 The weekly data show that balance sheet positions for 17 of the 25 largest domestic banks, 8 smaller
 domestically chartered commercial banks, and 4 foreign-related institutions were affected by FAS 166/167.  
 The March Call Report may show that balance sheet positions of some banks that are not in our weekly 
 sample were also affected by FAS 166/167.  The estimated net effect on total assets of the accounting 
@@ -680,6 +754,7 @@ All other loans 28 2,371
 Allowance for loan and lease losses 36 236
 * Includes closed-end residential mortgages and revolving home equity lines of credit.
 Source. Federal Reserve.
+2 The remaining securitized credit card balance is held by one reporter, and is expected to be consolidated by
 the bank holding company.
 securitized credit card loans were returned to the balance sheets.2  Other consumer 
 loans increased $41 billion; commercial and industrial loans rose $33 billion; and 
@@ -717,6 +792,12 @@ base contracted in March as the effect on reserves of purchases under the Federa
 Reserve’s large-scale asset purchase programs was more than offset by a further
 contraction in credit outstanding under liquidity and credit facilities and an increase in
 the Treasury’s balances at the Federal Reserve.
+3 The staff forecast also assumes there will be no asset sales.  The Federal Reserve currently 
+holds about $1.5 trillion of longer-term securities associated with the recently completed 
+large-scale asset purchase program. The System’s holdings of these securities are assumed 
+to run off gradually, declining to about $1.4 trillion by the end of 2011; maturing Treasury 
+securities are assumed to be rolled over into new issues, but proceeds from maturing 
+agency debt issues and prepayments on agency MBS are not reinvested.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 23 of 59
 ECONOMIC  OUTLOOK
 On balance, the data on economic activity received over the intermeeting period
@@ -731,6 +812,7 @@ will not be raised until early 2012—as in the March projection—and that no f
 asset purchases will be conducted.3  As in the March Greenbook, fiscal policy is
 expected to add about 1 percentage point to real GDP growth this year and then be a
 neutral influence on growth next year. House prices are projected to decline about
+3 percent this year in response to the large volume of foreclosed properties and then
 to edge up in 2011 as demand gradually picks up.
 Interest rates on 30-year fixed-rate mortgages and longer-term Treasury securities
 are projected to rise moderately through 2011.  The spread between the two rates is
@@ -757,6 +839,7 @@ year, slightly more than in the March projection, and about 4½ percent in 2011.
 light of incoming data on the labor market and the higher projection for output
 growth in 2010, the trajectory for the unemployment rate has been lowered marginally
 compared to the last Greenbook. The projected rate now declines to about
+9¼ percent at the end of 2010 and 8¼ percent at the end of 2011, still well above the
 staff’s estimate of the effective NAIRU over this period.  With inflation expectations
 stable and economic slack forecast to remain substantial, the staff projects that core
 PCE prices will rise just under 1 percent this year and next.  Total PCE inflation is
@@ -766,10 +849,19 @@ April 22, 2010 Class I FOMC - Restricted Controlled (FR) 25 of 59
 Looking farther ahead, the staff forecasts above-trend output growth, falling
 unemployment, and slowly rising inflation  over 2012-2014.  The federal funds rate is
 assumed to start rising in early 2012 and to reach a bit more than 3½ percent by late
+2014. Real GDP is anticipated to expand 4¾ percent in 2012 before decelerating to
+3½ percent by 2014, while potential output is expected to advance slightly more than
+2½ percent per year on average. As a result, the projected unemployment rate
 declines to 5¼ percent in late 2014, about in line with the staff’s estimate of the
 NAIRU at that time. With a steadily narrowing output gap and stable expectations
 for longer-term inflation, total PCE inflation rises slowly after 2011 and reaches
+1½ percent by 2014—a rate still somewhat below the central tendency of
 policymakers’ long-run projections for inflation.
+4 Moving the first quarter of this period forward to the second quarter of 2010 implies that resource 
+utilization is higher at the end of the twelve-quarter window used in the calculation.  As a result, less policy 
+stimulus is required to move output back to potential by the end of that window, raising the estimated level 
+of r*. The upward effect on r* of moving the window is expected to be repeated going forward, as resource 
+slack continues to diminish.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 26 of 59
 MONETARY  POLICY  STRATEGIES
 Chart 6 displays estimates of short-run r*, defined as the real federal funds rate
@@ -808,10 +900,19 @@ Greenbook-consistent measure (FRB/US)
 Short-Run and Medium-Run Measures
 Current Current Estimate Previous 
 Estimate as of Previous Bluebook Estimate
+70 percent confidence interval -2.4 to 1.3
+ 90 percent confidence interval -3.4 to 2.5
+70 percent confidence interval 0.5 to 2.4
+
+ 90 percent confidence interval -0.3 to 2.9
 TIPS-based factor model 2.0 2.0
 Memo
  Actual real federal funds rate -1.2 -1.2
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 28 of 59
+5 The staff has made a technical adjustment in its methods for constructing the policy expectations and 
+confidence intervals shown in the upper-right panel of Chart 8.  To facilitate comparability, those methods 
+have also been applied to the financial market data available at the time of the March Bluebook, and hence 
+the line labeled “Previous Bluebook” differs slightly from the one that was published in March.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 29 of 59
 would stay appreciably below 2 percent through late 2014.  The chart also displays the
 optimal-control results obtained if the nominal funds rate were not constrained by the
@@ -825,6 +926,7 @@ later this year and in early 2011 outweigh the effects of slightly lower unemplo
 As shown in Chart 8, the outcome-based policy rule prescribes a trajectory for the
 federal funds rate virtually identical to the one in the previous Bluebook (upper-left
 panel). The nominal funds rate starts rising above the effective lower bound in
+2012Q2, the same quarter as shown in the March Bluebook.  According to money-
 market futures quotes, market participants’ expectations regarding the path of the
 funds rate also were little changed over the intermeeting period (upper-right panel).5
 The lower panel of Chart 8 provides near-term prescriptions from simple policy rules,
@@ -985,6 +1087,7 @@ with price stability
 Federal Funds Rate Target
 Intermeeting 
 Period
+0 to ¼ percent 0 to ¼ percent 0 to ¼ percent 0 to ¼ percent
 Forward 
 Guidance
 economic conditions are 
@@ -1025,17 +1128,112 @@ debt and MBS”
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 34 of 59
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 35 of 59
 March  FOMC  Statement
+1.	 Information received since the Federal Open Market Committee met in January suggests 
+that economic activity has continued to strengthen and that the labor market is 
+stabilizing. Household spending is expanding at a moderate rate but remains constrained 
+by high unemployment, modest income growth, lower housing wealth, and tight credit. 
+Business spending on equipment and software has risen significantly. However, 
+investment in nonresidential structures is declining, housing starts have been flat at a 
+depressed level, and employers remain reluctant to add to payrolls. While bank lending 
+continues to contract, financial market conditions remain supportive of economic 
+growth. Although the pace of economic recovery is likely to be moderate for a time, the 
+Committee anticipates a gradual return to higher levels of resource utilization in a 
+context of price stability.
+2.	 With substantial resource slack continuing to restrain cost pressures and longer-term 
+inflation expectations stable, inflation is likely to be subdued for some time.
+3.	 The Committee will maintain the target range for the federal funds rate at 0 to 1/4 
+percent and continues to anticipate that economic conditions, including low rates of 
+resource utilization, subdued inflation trends, and stable inflation expectations, are likely 
+to warrant exceptionally low levels of the federal funds rate for an extended period. To 
+provide support to mortgage lending and housing markets and to improve overall 
+conditions in private credit markets, the Federal Reserve has been purchasing $1.25 
+trillion of agency mortgage-backed securities and about $175 billion of agency debt; 
+those purchases are nearing completion, and the remaining transactions will be executed 
+by the end of this month. The Committee will continue to monitor the economic 
+outlook and financial developments and will employ its policy tools as necessary to 
+promote economic recovery and price stability.
+4.	 In light of improved functioning of financial markets, the Federal Reserve has been 
+closing the special liquidity facilities that it created to support markets during the crisis. 
+The only remaining such program, the Term Asset-Backed Securities Loan Facility, is 
+scheduled to close on June 30 for loans backed by new-issue commercial mortgage-
+backed securities and on March 31 for loans backed by all other types of collateral.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 36 of 59
 April  FOMC  Statement—Alternative  A
+1.	 Information received since the Federal Open Market Committee met in March suggests 
+that economic activity has continued to strengthen and that the labor market is showing 
+signs of improving. Although growth in household spending has picked up 
+recently, it is likely to remain constrained by high unemployment, modest income 
+growth, lower housing wealth, and tight credit.  Business spending on equipment and 
+software has risen significantly; however, investment in nonresidential structures is 
+declining and employers remain reluctant to add to payrolls.  Housing starts have edged 
+up but remain at a depressed level. While bank lending continues to contract, financial 
+market conditions remain supportive of economic growth.
+2.	 Although longer-term inflation expectations have remained stable, recent data 
+suggest inflation has been trending down in response to substantial resource slack. 
+The Committee anticipates that inflation is likely to be quite subdued for some time.
+3.	 To promote a more robust economic recovery in a context of price stability, the 
+Committee anticipates maintaining the target range for the federal funds rate at 0 to ¼ 
+percent for an extended period—until economic conditions such as appreciably 
+higher rates of resource utilization, increasing inflation pressures, or rising inflation 
+expectations warrant a less accommodative monetary policy. The Committee will 
+continue to monitor the economic outlook and financial developments and will employ 
+its policy tools as necessary to promote economic recovery and price stability.
+4.	 [To gradually reduce the size of the Federal Reserve’s balance sheet and return it 
+to a more normal composition over time, the Committee will maintain its 
+approach of not reinvesting the proceeds of maturing agency debt and payments 
+on mortgage-backed securities held by the System Open Market Account.  The 
+Committee is continuing to roll over maturing Treasury securities.]
+5.	 In light of improved functioning of financial markets, the Federal Reserve has closed all 
+but one of the special liquidity facilities that it created to support markets during the 
+crisis. The only remaining such program, the Term Asset-Backed Securities Loan Facility, 
+is scheduled to close on June 30 for loans backed by new-issue commercial mortgage-
+backed securities; it closed on March 31 for loans backed by all other types of collateral.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 37 of 59
 April  FOMC  Statement—Alternative  B
+1.	 Information received since the Federal Open Market Committee met in March suggests 
+that economic activity has continued to strengthen and that the labor market is 
+beginning to improve. Growth in household spending has picked up recently but 
+remains constrained by high unemployment, modest income growth, lower housing 
+wealth, and tight credit. Business spending on equipment and software has risen 
+significantly; however, investment in nonresidential structures is declining and employers 
+remain reluctant to add to payrolls.  Housing starts have edged up but remain at a 
+depressed level.  While bank lending continues to contract, financial market conditions 
+remain supportive of economic growth. Although the pace of economic recovery is likely 
+to be moderate for a time, the Committee anticipates a gradual return to higher levels of 
+resource utilization in a context of price stability.
+4.	 [To gradually reduce the size of the Federal Reserve’s balance sheet and return it 
+to a more normal composition over time, the Committee will maintain its 
+approach of not reinvesting the proceeds of maturing agency debt and payments 
+on mortgage-backed securities held by the System Open Market Account.  The 
+Committee is continuing to roll over maturing Treasury securities.
 To gradually reduce the size of the Federal Reserve’s balance sheet over time, the 
 Committee will maintain its approach of not reinvesting the proceeds of maturing 
 agency debt and payments on mortgage-backed securities held by the System 
 Open Market Account.  In addition, on May 3 the Committee will stop 
 reinvesting the proceeds of maturing Treasury securities.]
+5.	 In light of improved functioning of financial markets, the Federal Reserve has closed all 
+but one of the special liquidity facilities that it created to support markets during the 
+crisis. The only remaining such program, the Term Asset-Backed Securities Loan Facility, 
+is scheduled to close on June 30 for loans backed by new-issue commercial mortgage-
+backed securities; it closed on March 31 for loans backed by all other types of collateral.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 38 of 59
 April  FOMC  Statement—Alternative  C
+4.	 The Committee will maintain its approach of not reinvesting the proceeds of 
+maturing agency debt and payments on mortgage-backed securities held by the 
+System Open Market Account.  In addition, on May 3 the Committee will stop 
+reinvesting the proceeds of maturing Treasury securities.  To further reduce the 
+size of the Federal Reserve’s balance sheet, and to return the balance sheet to a 
+more normal composition, the Committee anticipates that it will soon begin 
+gradual sales of agency debt and mortgage-backed securities.  The timing and 
+pace of such sales will depend on evolving economic and financial conditions. 
+The Committee will continue to monitor the economic outlook and financial 
+developments and will employ its policy tools as necessary to promote economic 
+recovery and price stability.
+5.	 In light of improved functioning of financial markets, the Federal Reserve has closed all 
+but one of the special liquidity facilities that it created to support markets during the 
+crisis. The only remaining such program, the Term Asset-Backed Securities Loan Facility, 
+is scheduled to close on June 30 for loans backed by new-issue commercial mortgage-
+backed securities; it closed on March 31 for loans backed by all other types of collateral.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 39 of 59
 THE  CASE  FOR  ALTERNATIVE  B
 If policymakers expect the pace of economic recovery to be moderate and
@@ -1117,6 +1315,10 @@ see a near-zero probability that the Committee will increase its target for the 
 funds rate this quarter; they see substantial probabilities (ranging from 15 to 25
 percent) that the first increase in the funds rate will occur during each of the next four
 quarters. Market quotes are broadly consistent with the Desk’s survey:  Money
+6 Figures provided by the Desk show that allowing all maturing Treasury securities to roll off 
+beginning in May 2010 would reduce the Federal Reserve’s holdings by $60 billion in 2010, 
+another $70 billion in 2011, and a total of $435 billion through 2015—an average decline of 
+$6.4 billion per month.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 42 of 59
 market futures indicate that the expected federal funds rate remains below 25 basis
 points until the fourth quarter of this year and rises to 50 basis points during the first
@@ -1279,6 +1481,7 @@ DEBT,  BANK  CREDIT,  AND  MONEY  FORECASTS
 The staff projects that domestic nonfinancial sector debt will expand at an annual
 rate of about 6¾ percent in the second quarter of 2010, reflecting rapid growth in
 government debt and a modest expansion in private-sector debt. Over 2010 and
+2011, domestic nonfinancial sector debt is expected to grow at an average annual rate
 of about 5½ percent; federal government debt is projected to increase at a substantial
 pace over this period—though more slowly than in the current quarter—but
 household and business borrowing is expected to be modest.  Household debt is
@@ -1290,8 +1493,10 @@ time. The debt of nonfinancial businesses is expected to grow modestly in the cu
 quarter and throughout the forecast period, despite a projected increase in investment
 outlays, as large cash balances and solid profits limit firms’ needs for external funds.
 Although federal government debt is projected to expand rapidly through 2010 and
+2011, state and local government debt is expected to increase only moderately, with
 fiscal pressures limiting spending on new capital projects.
 Commercial bank credit is expected to contract at an annual rate of about
+3 percent in the second quarter of 2010, and to decline 1 percent over the year as a
 whole. Declines in most categories of lending for 2010 are expected to be only
 partially offset by increases in securities holdings.  C&I loans are projected to contract
 through the third quarter of 2010, reflecting tight lending standards that have only

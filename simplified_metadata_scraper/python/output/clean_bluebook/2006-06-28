@@ -59,10 +59,17 @@ path currently peaks near 5½ percent toward the end of this year and then slope
 down gradually thereafter.  Policy uncertainty, as measured by volatilities implied by
 Eurodollar options, remained low over the intermeeting period, as did the implied
 volatility of longer-term Treasury rates.
+1 The effective federal funds rate averaged near its intended level over most of the 
+intermeeting period, but this morning federal funds are trading a few basis points above the 
+target in anticipation of tightening at next Thursday’s meeting.  During the period, the Desk 
+purchased $7.5 billion of Treasury coupon securities in the market.  The volume of 
+outstanding long-term RPs declined $4 billion, to $11 billion.
 Chart 1
 Interest Rate Developments
 June Sept. Dec. Mar. May July Oct.
 2006 2007
+6.0
+Percent
 June 22, 2006
 May 9, 2006
 Expected Federal Funds Rates*
@@ -70,6 +77,8 @@ Expected Federal Funds Rates*
  for term premiums and other adjustments.
 Apr. Aug. Dec. Apr. Aug. Dec. Apr.
 2004 2005 2006
+220
+Percent Basis points
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
@@ -77,6 +86,8 @@ Daily
 FOMC
 Apr. Aug. Dec. Apr. Aug. Dec. Apr.
 2004 2005 2006
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
@@ -87,6 +98,8 @@ Rates since Last FOMC
 Years Ahead
 Apr. Aug. Dec. Apr. Aug. Dec. Apr.
 2004 2005 2006
+4.0
+Percent
 Next Five Years
 Five-to-Ten Years Ahead
 Inflation Compensation*
@@ -94,6 +107,8 @@ Inflation Compensation*
 Treasury yield curves, and adjusted for the indexation-lag (carry) effect.
 Apr. Aug. Dec. Apr. Aug. Dec. Apr.
 2004 2005 2006
+180
+$/barrel Index(12/31/03=100)
 Spot WTI (left scale)
 Metals Index* (right scale)
 *Source. Journal of Commerce.
@@ -151,9 +166,13 @@ Chart 2
 Asset Market Developments
 Apr. Aug. Dec. Apr. Aug. Dec. Apr.
 2004 2005 2006
+130
+Index(12/31/03=100)
 Wilshire
 Nasdaq
 Stock Prices
+12-Month Forward
+   Trend E/P Ratio
 Real Long-Term Treasury Yield*
 *Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
@@ -211,6 +230,8 @@ foreign currencies rose about 2¼ percent over the intermeeting period.2
 (5) The cooling in equity markets in industrial countries was accompanied by a
 more pronounced chill in many emerging markets.  Brazilian and Mexican stock
 prices fell 17 percent over the period, and their EMBI+ spreads widened about 30 to
+40 basis points.  The dollar gained almost 9 percent against the real and about
+5 percent against the peso.  Stock prices in many Asian emerging markets also
 declined sharply during the period.  The dollar gained 2 to 7 percent against currencies
 of Asian countries with flexible exchange rates.  Central banks in a large number of
 emerging market economies firmed policy during the period, in some cases by
@@ -273,6 +294,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2004 H1 H2 Q1 Apr. May
+2005 2006
 Monthly rate
 Growth of Household Debt
 Percent
@@ -294,11 +317,21 @@ Q3
 Q4
 Q1
 Q2 p
+10.9
+6.2
+8.7
+9.9
+10.5
+9.8
+10.4
+8.3
 p Projected.
 Growth of M2
 s.a.a.r.
 Percent
 p Preliminary.
+2004 H1 H2 Q1 Apr. May
+2005 2006
 M2 Velocity and Opportunity Cost
 VelocityPercent
 Opportunity Cost*
@@ -325,6 +358,7 @@ year and then is little changed in 2007, a path $4 to $6 lower than in the last 
 Against this backdrop, the staff projects real GDP to increase at a 2¾ percent pace
 over the next six quarters, somewhat slower than in the May Greenbook.  With
 output expanding more slowly than its potential, the unemployment rate rises to
+5¼ percent by the end of the forecast horizon, a little above the staff’s estimate of the
 NAIRU.  This slack offsets only part of the impetus from the upside surprises in
 recent inflation releases, and the staff has increased its forecast of total and core PCE
 inflation to 2½ percent in 2006 and 2¼ percent in 2007.
@@ -334,6 +368,9 @@ Longer-Run Scenarios
 an inflation goal and the relative weight placed on different stabilization objectives—
 can be informed by simulations of the FRB/US model.  This analysis starts by
 constructing an illustrative extension of the current Greenbook projection through
+2012, in which the natural rate of unemployment is assumed to hold steady at
+5 percent and the equilibrium real funds rate has a medium-run value of about
+2¾ percent.  The optimal policy balances three objectives:  keeping core PCE
 inflation close to a long-run goal; keeping unemployment close to its natural rate; and
 avoiding abrupt changes in the federal funds rate.3  The optimal path of the funds rate
 is determined in part by the weights assigned to these three policy objectives as well as
@@ -362,9 +399,15 @@ Optimal Policy Implications of Recent Changes in the Staff Outlook
 June Outlook
 January Outlook
 Federal Funds Rate
+4.0
+Percent
 Five-Year Real Interest Rate
+6.0
+Percent
 Civilian Unemployment Rate
 Four-quarter average
+2.50
+Percent
 Core PCE Inflation
 Class I FOMC - Restricted Controlled (FR) Page 12 of 41
 stabilization objectives.4  As shown in the upper-left panel, the current outlook
@@ -392,13 +435,23 @@ throughout the remainder of the decade.  This flat trajectory largely reflects t
 to which core inflation is already close to the specified goal of 2 percent, looking
 beyond the transitory effects of recent energy price increases.  Accordingly, the stance
 of policy is set to keep the unemployment rate near its natural rate.
+4 In conducting this analysis, the January Greenbook projection is extended using the same 
+set of procedures employed for the current Greenbook extension.
 Class I FOMC - Restricted Controlled (FR) Page 13 of 41
 Chart 6
 Alternative Long-Run Inflation Objectives
+1.5 Percent Objective
+2 Percent Objective
 Federal Funds Rate
+4.0
+Percent
 Five-Year Real Interest Rate
+6.0
+Percent
 Civilian Unemployment Rate
 Four-quarter average
+2.50
+Percent
 Core PCE Inflation
 Class I FOMC - Restricted Controlled (FR) Page 14 of 41
 (12) Chart 7 depicts the consequences of alternative choices regarding the
@@ -417,15 +470,23 @@ a result, the unemployment rate rises above 5½ percent late next year and remai
 above that level through 2010.  With this additional economic slack, actual inflation
 exhibits a more distinct downward trajectory and approaches the long-run goal by the
 end of the decade.
+5 In particular, the weight on unemployment gaps was lowered from 1.0 to 0.05, while the 
+weights on the inflation objective and changes in the funds rate were maintained at 1.0.
 Class I FOMC - Restricted Controlled (FR) Page 15 of 41
 Chart 7
 Placing Greater Relative Weight on the Inflation Objective
 Equal Weights
 More Weight on Inflation Objective
 Federal Funds Rate
+4.0
+Percent
 Five-Year Real Interest Rate
+6.0
+Percent
 Civilian Unemployment Rate
 Four-quarter average
+2.50
+Percent
 Core PCE Inflation
 Class I FOMC - Restricted Controlled (FR) Page 16 of 41
 Short-Run Policy Alternatives
@@ -554,6 +615,11 @@ growth and price stability.
 Class I FOMC - Restricted Controlled (FR) Page 18 of 41
 Chart 8
 Equilibrium Real Federal Funds Rate
+8
+Percent
+50 b.p. Tightening
+25 b.p. Tightening
+Current Rate
 Short-Run Estimates with Confidence Intervals
 Short-Run and Medium-Run Measures
 Actual real federal funds rate
@@ -722,29 +788,45 @@ justify a pause in policy to await additional information bearing on the outlook
 Class I FOMC - Restricted Controlled (FR) Page 23 of 41
 Chart 9
 Information from Estimated Policy Rules and Financial Markets
+2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Outcome-based rule
    70 percent confidence interval
    90 percent confidence interval
 Forecast-based rule
 Estimated Policy Rules
+2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Market-based expectations
    70 percent confidence interval
    90 percent confidence interval
 Market Expectations
+2006 2007
 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 Class I FOMC - Restricted Controlled (FR) Page 24 of 41
 Chart 10
 Policy Paths under Alternative Inflation Objectives
+2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Baseline Taylor rule
 Aggressive Taylor rule
 First-difference rule
+1½ Percent Inflation Objective
+2006 2007
+8
+Percent
 Actual and Greenbook assumption
 Baseline Taylor rule
 Aggressive Taylor rule
 First-difference rule
+2 Percent Inflation Objective
+2006 2007
 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 Class I FOMC - Restricted Controlled (FR) Page 25 of 41
 Policy Rule Charts: Explanatory Notes
@@ -796,9 +878,12 @@ marked up inflation compensation.  The foreign exchange value of the dollar woul
 probably fall.  Stock prices likely would rise, given the lower real interest rates.
 Money and Debt Forecasts
 (23) Under the Greenbook forecast, M2 is expected to expand just 4 percent in
+2006, reflecting the moderate growth in nominal income and the restraining effects of
 past policy tightenings (Table 2).  With short-term interest rates unchanged after the
 June meeting, opportunity costs gradually level out, and M2 growth picks up to
+5 percent in 2007, matching the growth in nominal income.
 (24) Growth of domestic nonfinancial sector debt is projected to drop from
+9½ percent last year to 8 percent in 2006 and 6½ percent in 2007.  The slowdown
 reflects the contours of the staff outlook for nominal GDP and, in the near term, a
 reduction in federal debt growth owing to the surprisingly strong tax receipts this
 spring.  In addition, merger and acquisition activity is expected to moderate next year,
@@ -857,9 +942,13 @@ economic outlook as implied by incoming information.
 Class I FOMC - Restricted Controlled (FR) Page 30 of 41
 Appendix Chart 1
 Treasury Yield Curve
+4
+Percentage points
 + Denotes most recent weekly value.
 Note. Blue shaded regions denote NBER−dated recessions.
 Spread Between Ten−year Treasury Yield and Federal Funds Rate
+6.5
+Percent
 June 22, 2006   
 May 9, 2006
 Treasury Yield Curve*
@@ -882,12 +971,16 @@ Other Important
 Class I FOMC - Restricted Controlled (FR) Page 32 of 41
 Appendix Chart 3
 Stock Indexes
+45
+Ratio
 Ratio scale
 1941−43=10
 * Based on trailing four−quarter earnings.
 + Denotes most recent weekly value.
 P/E Ratio*
 S&P 500
+140
+160
 Ratio scale
 1941−43=10
 * Deflated by the CPI.
@@ -897,24 +990,34 @@ S&P 500*
 Class I FOMC - Restricted Controlled (FR) Page 33 of 41
 Appendix Chart 4
 One−Year Real Interest Rates
+8
+Percent
 * Mean value of respondents.
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Michigan Survey)*
+8
+Percent
 * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters
 thereafter.  Median value of respondents.
 GDP Deflator
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Philadelphia Fed)*
+8
+Percent
 + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
 Note. Blue shaded regions denote NBER−dated recessions.
 One−Year Treasury Constant Maturity Yield Less Change in the Core CPI from Three Months Prior
 Class I FOMC - Restricted Controlled (FR) Page 34 of 41
 Appendix Chart 5
 Long−Term Real Interest Rates*
+10
+Percent
 Real Ten−Year Treasury Yields
 Real rate using
 Philadelphia Fed Survey
 Real rate using
 Michigan Survey
 Ten−year TIPS yield
+14
+Percent
 Nominal and Real Corporate Bond Rates
 Nominal rate on Moody’s
 A−rated corporate bonds
@@ -932,22 +1035,44 @@ Michigan Survey
 Class I FOMC - Restricted Controlled (FR) Page 35 of 41
 Appendix Chart 6
 Commodity Price Measures
+180
+Ratio scale, index (1980=100)
 Journal of Commerce Index
 Total
 Metals
+450
+Ratio scale, index (1967=100)
 CRB Spot Industrials
+450
+Ratio scale, index (1967=100)
 CRB Futures
 Class I FOMC - Restricted Controlled (FR) Page 36 of 41
 Appendix Chart 7
 Growth of M2
+14
+Percent
+14
+Percent
 Nominal M2
+10
+Percent
+10
+Percent
 Real M2
 Class I FOMC - Restricted Controlled (FR) Page 37 of 41
 Appendix Chart 8
 Inflation Indicator Based on M2
+140
+Ratio scalePrice Level
 Implicit GDP
 price deflator (P) Long-run equilibrium
 price level (P*)
+140
+Ratio scale
+12
+PercentInflation                1
+12
+Percent
 Class I FOMC - Restricted Controlled (FR) Page 38 of 41
 Short-term Long-term
 Federal
@@ -964,3 +1089,4 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 20-year 5-year 10-year Fixed-rate ARM

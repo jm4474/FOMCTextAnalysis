@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 October 2, 1981Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -29,6 +37,7 @@ on the next page, growth in adjusted M-1B for the year to date is just
 a little over 1 percent at an annual rate, well below the lower limit of
 the Committee's 3½ to 6 percent longer-run range.
 (2) Growth of M2 over the June to September period was at a
+9 percent annual rate, holding growth for the year to date at the upper
 end of the FOMC's longer-run range. The nontransaction component of M2
 in August and September showed considerable strength, led by continued
 large inflows into money market mutual funds.
@@ -39,6 +48,8 @@ but mainly to attract customer funds in anticipation of the October 1
 issuance of All Saver Certificates (ASCs).1  These RPs were not included
 in M2 when it was redefined in early 1980 because they were not of any
 importance at that time. Inclusion of all such RPs in M2 would raise its
+1/ An August 31 Federal Reserve survey indicated that on that date
+depository institutions had $11.1 billion of retail RPs outstanding--
 $6.3 billion at S&Ls, $1.3 billion at mutual savings banks, and
 $3.5 billion at commercial banks. Staff estimates based on sample
 data suggest such RPs rose a further $4 billion by the end of
@@ -51,6 +62,15 @@ Money and Credit Aggregates
 Reserve Measures 2/
 Memo: Adjustment Borrowing
 (million of dollars) 1,676 1,339 1,159
+1/ The quantity of retail RPs are staff estimates based on an August 31, 1981
+universe survey, and partial FRB and FHLBB samples.
+2/ Growth rates for reserve measures are adjusted to remove the effects of dis-
+continuities for breaks in the series as reserve ratios go through phased
+changes under the Monetary Control Act. In addition, reserve data for QIV '80
+have been adjusted to remove the distorting effects of the reduction in week-
+end reserve avoidance activities that occurred in late 1980.
+3/ Nonborrowed reserves included special borrowing and extended credit from the
+Federal Reserve.
 p/ Preliminary.
 Memorandum: FOMC Targets
 (percent increase)
@@ -77,10 +97,17 @@ three months.1/
 (5) The federal funds rate, which had averaged around 19 percent
 in July and around 18¼ percent at the time of the August meeting, recently
 has traded in a 14½ to 16½ percent range as pressure in the reserves market
+2/
+eased.- In response, most other short-term market rates have declined 1
 to 2½ percentage points. The bank prime rate was reduced by 1 percentage
 point to 19½ percent, and the Federal Reserve reduced by 1 percentage point
 to 3 percent the surcharge rate for large, frequent borrowers at the
 discount window.
+1/ See Appendix I for adjustments made to the reserves path during the
+intermeeting period.
+2/ Trading took place at somewhat higher rates on the first two days of
+same day CHIPS settlement, as institutions initially managed reserves
+more cautiously in adjusting to the new system.
 (6) Despite the easing in the money market, bond yields have
 increased on balance since the last meeting by 50 to over 100 basis points.
 The advance in long-term yields reflected in large part market concerns about
@@ -123,12 +150,22 @@ by shifts of funds out of non-M2 assets into ASCs; such an approach would
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M1-A M1-B
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1981--August 392.7 392.7 392.7 422.3 422.3 422.3
+September 391.0 391.0 391.0 420.9 420.9 420.9
+October 394.1 393.4 392.8 424.3 423.6 423.0
+November 398.4 396.3 394.6 428.9 426.8 425.1
+December 402.9 399.8 396.4 433.7 430.6 427.2
 Growth Rates
 Monthly
 Quarterly Average
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M2 M3
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1981--August 1777.9 1777.9 1777.9 2118.3 2118.3 2118.3
+September 1788.7 1788.7 1788.7 2133.5 2133.5 2133.5
+October 1811.5 1810.0 1808.0 2159.5 2158.0 2156.0
+November 1830.0 1826.0 1821.0 2175.7 2173.3 2171.0
+December 1844.6 1839.0 1833.4 2189.6 2186.5 2183.4
 Growth Rates
 Monthly
 Quarterly Average
@@ -152,8 +189,12 @@ Billions of dollars
 .60/b -1300
 SI I I I III _J
 O N D J
+1980
+F M A M J J
 I I I I I I
 A S 0 N D
+1200
+I
 I I J I
 leave M1-B for the year well below the lower end of its range. Alternative
 B falls midway between the two approaches.1/
@@ -164,9 +205,31 @@ limit of its longer-run target range. The staff does not expect this
 alternative to involve further downward pressures on short-term interest
 rates, given the 7 percent increase in nominal GNP projected for the
 fourth quarter and assuming less rapid downward shift in demand for M1-B
+2/
+(relative to income and interest rates) than occurred earlier this year.2/
 (11) Over the next few weeks, the federal funds rate under
 this alternative may fluctuate for the most part in the area of 15 to 16
 percent. Other short-term rates are not likely to drop further under
+1/ In developing these alternatives it was assumed that about $80 billion
+would shift into ASCs during the fourth quarter out of $125 billion
+projected to shift over the life of the instrument. Of this amount, it
+was further assumed that about $15 billion will represent funds that are
+not currently in M2 (with about three-fourths representing funds
+currently in retail RPs). A shift to ASCs from non-M2 sources of that
+amount would raise M2 growth by about 3 percentage points at an annual
+rate for the fourth quarter, and about ¾ of a percentage point for
+the year 1981. It is probable, however, that such a calculation over-
+estimates the impact of ASCs on M2. To the extent that retail RPs
+represent funds that would have otherwise been in M2, shifts from them
+to ASCs in the fourth quarter only offset the downward distortions to
+M2 from their growth in earlier quarters. If it is assumed, at one
+extreme, that all retail RPs reflect funds diverted from M2-type
+accounts, then the impact of ASCs on M2 for the year 1981 would only
+be about ¾ of a percent. It is probably best to assume a range of
+impact from ¼ to ¾ of a percent.
+2/ Over the first three quarters of 1981, the downward shift in demand
+for adjusted M1-B according to the Board's quarterly model was
+equivalent to about 6 percentage points at an annual rate.
 such circumstances, and they could edge higher. Business net demands on
 financial markets are expected to remain sizable as profits continue
 to be squeezed, and to focus, as in the recent past, on short-term markets.
@@ -178,6 +241,7 @@ of alternative C are to be achieved. Adjustment borrowing at the discount
 window would probably vary between $900 million and $1.2 billion, given
 the current structure of discount rates and a federal funds rate in the area
 of 15 to 16 percent. Nonborrowed reserves would be targeted to expand at a
+4 percent annual rate over the last three months of the year.
 (13) The specifications of alternative B call for a more rapid
 growth in M1-B at around a 9 percent annual rate from September to
 December, sustained by 6 percent annual rate of growth in total reserves.
@@ -201,11 +265,32 @@ about a 12 percent annual rate from September to December in order to
 bring this aggregate back to the lower bound of its long-run range by the
 end of the year. We would expect a substantial drop in short-term rates--
 with the funds rate dropping into a 10 to 12 percent range on average and
+3-month rates moving toward single digit levels--as reserves are expanded
 to reach this objective. Total reserves would have to rise at a 9 percent
 annual rate over the quarter, and nonborrowed reserves at about an 18
 percent annual rate. A reserve operating path that appears to entail market
 rates well below the present 14 percent discount rate calls into question
 the sustainability of that rate, for technical reasons if for no other.1/
+1/ A discount rate well above the expected funds rate runs the risk of
+leading to highly volatile money market conditions. With adjustment
+borrowing negligible, the level of nonborrowed reserves in the
+operating path would be effectively equal to the total reserves path.
+If there were a shortfall in money and in required reserves, maintenance
+of nonborrowed reserves at path levels would entail adding to banks'
+excess reserves, with consequent downward, and possibly sharp downward,
+pressure on the funds rate. In the short-run the funds rate could be
+driven toward minimal levels. Rates could subsequently rebound sharply
+as money demand strengthened, perhaps excessively, in response to the
+very low money market rates. This type of rate volatility would
+probably be a little more marked under lagged than under contemporaneous
+reserve accounting, since under the former excess reserves created by
+Federal Reserve operations in any given week cannot be absorbed by
+changes in required reserves that week. With a discount rate low
+relative to money market rates, the nonborrowed reserves path could be
+set below the total reserve path. As a result, a change in borrowing
+could absorb shortfalls in required reserves; and, with borrowing less
+interest inelastic than excess reserves, short-term market rates would
+vary less for a given nonborrowed reserve path.
 (17) M2 under this alternative would probably grow at a 12
 percent annual rate over the next three months. Net inflows of funds to
 thrift institutions may pick up somewhat, but more importantly, pressures on

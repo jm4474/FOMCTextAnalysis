@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -54,6 +62,9 @@ opportunity costs about unchanged, this behavior of velocity would extend the re
 stable relationship between these two measures that has prevailed for the last 2-1/2 years. M3
 growth continued to outpace that of M2, reflecting sizable issuance of large time deposits,
 particularly by foreign banks, which have been using them to fund rapid asset expansion as
+1M1 grew at a 3/4 percent annual rate in February; adjusted for the initial effects of
+sweeps, growth was at a 7-3/4 percent rate. The monetary base grew at a 6 percent rate last
+month, and at a 7-1/2 percent rate adjusted for the effect of sweeps.
 well as to pay down borrowing from their foreign offices. M3 also continued to be boosted
 by further strong growth of money funds, which have continued to gain popularity as a
 business cash management vehicle in recent years.
@@ -79,6 +90,8 @@ sector debt growth appears to have strengthened somewhat so far this year, with 
 evident in both its consumer credit and mortgage components.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 Dec. Jan. Feb. Feb.
 Money and Credit Aggregates
 Adjusted for sweeps
@@ -97,11 +110,27 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+-1.4
+4.0
+3.3
+-.6
+4.6
+11.3
+6.2
+7.0
+21.1
+9.2
+11.1
+-18.3
+-3.7
+3.0
+4.3
 (FIN 39 and FASB 115).
 Policy Alternatives
 (6) The current pace of economic activity appears considerably more robust than
 had been expected in the January Greenbook. Persistent strength in domestic demand has
 prompted the staff to raise appreciably its projections of nominal and real GDP growth for
+1997; the staff projections had been in line with the central tendencies of FOMC member
 forecasts in the latest Humphrey-Hawkins report, but are now about a half percentage point
 above the upper ends of the central tendency ranges. With growth in real GDP projected by
 the staff to exceed its estimate of the growth in potential by nearly a percentage point this
@@ -139,6 +168,7 @@ projects -- strong real GDP growth and the unemployment rate declining -- both s
 long-term interest rates would back up, with long-term rates possibly more than reversing any
 initial rally.
 (9) The Committee might choose to increase the federal funds rate, perhaps by the
+50 basis points of alternative C, in order to lean against the likely buildup of inflation
 pressures. Recent strength in aggregate demand suggests that interest rates are not high
 enough to restrain economic growth over the near term to the likely rate of increase in
 potential, so resource use probably will be moving more decidedly above sustainable levels.
@@ -173,6 +203,7 @@ disequilibrium is small, and markets could see the 50 basis point adjustment as 
 at a setting that would re-equilibrate risks for some time.
 (11) If the Committee felt that a tightening were needed but believed that a modest
 firming might be sufficient to contain inflation, it could choose to raise the federal funds rate
+25 rather than 50 basis points. Even if a larger increase were seen as ultimately necessary, a
 smaller initial move might seem desirable if it were viewed as less likely to trigger an
 outsized reaction in financial markets. Since high odds on a 25 basis point tightening are
 already embodied in market yields, both long- and short-term rates might rise relatively little
@@ -184,11 +215,13 @@ tendency that would be amplified if incoming data are as strong as in the staff 
 (12) Under alternative B and the staff forecast, debt is expected to continue to grow
 around its recent pace in the months ahead, while money growth tends to moderate as the
 expansion of nominal GDP slows. The debt of nonfinancial sectors is expected to grow at a
+5 percent rate from February to June, paced by the business and household sectors. Business
 borrowing picks up somewhat, as capital spending remains strong, while flows of internal
 funds level out. For households, although credit is likely to become somewhat harder to
 obtain for marginal borrowers, overall consumer debt should remain on its recent moderate
 growth path.
 (13) M2 growth from February to June under alternative B is projected to slow to a
+4-1/2 percent rate, reflecting the deceleration in nominal GDP. By midyear, this aggregate
 will likely be near the upper edge of its 1-to-5 percent annual range. Expansion of M3
 should ease relative to its unusually rapid pace of earlier this year, as the torrid growth in
 money funds slows to a more sustainable rate and depositories resume a more typical balance
@@ -217,6 +250,7 @@ May-97 3908.5 3904.7 5069.9 5067.4 1061.9 1060.5
 Jun-97 3924.1 3917.6 5094.8 5090.6 1058.4 1055.9
 Growth Rate
 From To
+1.0 to 5.0 2.0 to 6.01997 Annual Ranges:
 Directive Language
 (14) Presented below is draft wording for the operational paragraph that includes the
 usual options for Committee consideration.
@@ -237,6 +271,10 @@ Short-Term Lon-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+96 -- High
+-- Low
+97 -- High
+-- Low
 Monthly
 Mar 96
 Apr 96
@@ -271,6 +309,9 @@ Daily
 Mar 14 97
 Mar 20 97
 Mar 21 97
+8.25
+8.25
+8.25
 p - preliminary data
 Strictly Confidential (FR)-
 Class II FOMC
@@ -283,8 +324,16 @@ Period M1 M2 M3 L and U. S. other' total=
 In M2 In M3 only Investments' government'
 Levels (Sbillions)
 Monthly
+1996-OCT. 1080.2 3787.9 2707.7 1069.5 4857.4 5982.9 3718.9 3758.2 10751.3 14509.5
+NOV. 1080.0 3809.4 2729.4 1074.5 4883.9 6020.0 3743.3 3771.4 10805.9 14577.3
+DEC. 1081.0 3833.1 2752.1 1092.1 4925.2 6055.2 3770.6 3780.4 10846.0 14626.3
+1997-JAN. 1079.7 3849.8 2770.2 1102.8 4952.7 6078.0 3806.1 3778.6 10887.8 14666.4
+FEB. p 1080.4 3866.1 2785.8 1129.7 4995.8 3845.7
 Weekly
 1997-FEB. 3 1087.2 3861.6 2774.4 1111.8 4973.4
+10 1083.1 3862.1 2779.0 1122.9 4985.0
+17 1076.8 3868.1 2791.3 1134.5 5002.6
+24 1080.3 3869.1 2788.8 1134.1 5003.2
 MAR. 3 p 1079.5 3870.6 2791.1 1139.2 5009.8
 10 p 1076.5 3875.0 2798.6 1142.5 5017.5
 p preliminary
@@ -311,7 +360,224 @@ SEP.
 OCT.
 NOV.
 DEC.
+1997-JAN.
+FEB. p
+352.4
+371.4
+392.6
+373.4
+375.4
+376.4
+377.7
+379.9
+382.8
+385.2
+387.6
+390.2
+392.5
+395.2
+397.0
+400.5
+384.9
+390.3
+400.9
+397.3
+404.5
+404.5
+407.1
+410.6
+408.7
+405.8
+404.9
+398.2
+402.1
+402.5
+401.7
+404.3
+404.8
+362.1
+278.3
+340.3
+337.3
+333.9
+323.5
+316.4
+308.7
+300.4
+292.2
+283.2
+276.8
+274.8
+272.4
+267.0
+1164.0
+1127.3
+1258.8
+1165.1
+1180.2
+1190.1
+1195.6
+1204.1
+1211.0
+1222.7
+1231.5
+1246.3
+1259.0
+1271.0
+1282.5
+1290.3
+806.5
+930.4
+942.9
+934.1
+930.8
+929.5
+928.4
+928.8
+930.5
+934.2
+937.5
+940.9
+943.3
+944.4
+945.2
+946.7
+379.8
+451.0
+528.1
+466.0
+476.8
+481.4
+484.5
+493.6
+499.6
+506.1
+513.2
+520.5
+527.1
+536.6
+542.4
+548.7
+197.4
+244.7
+293.1
+259.7
+263.7
+263.4
+263.6
+269.7
+274.0
+278.8
+285.2
+288.1
+292.0
+299.3
+296.3
+305.4
+358.7
+416.3
+483.5
+426.3
+432.5
+435.4
+442.5
+448.9
+455.2
+459.3
+466.8
+479.2
+481.7
+489.7
+497.6
+510.4
+176.6
+186.7
+194.3
+188.9
+187.8
+188.9
+202.7
+195.2
+194.0
+192.0
+193.9
+195.6
+194.7
+192.5
+195.2
+198.7
+81.8
+91.8
+107.8
+95.4
+94.0
+96.5
+97.0
+97.8
+97.9
+98.4
+106.6
+106.3
+110.6
+113.8
+115.2
+179.7
+184.4
+187.0
+185.2
+185.4
+185.8
+186.1
+186.4
+186.7
+186.9
+187.1
+187.1
+187.0
+187.0
 p preliminary
+378.8
+465.5
+445.8
+448.1
+458.4
+460.0
+439.6
+448.5
+447.6
+452.4
+457.7
+447.5
+454.2
+435.7
+402.2
+439.3
+486.1
+443.0
+446.3
+459.3
+468.0
+470.1
+473.0
+477.7
+482.0
+479.6
+483.2
+495.6
+13.6
+12.4
+11.6
+10.5
+10.1
+10.4
+11.0
+11.5
+11.6
+11.4
+11.3
+11.3
+11.6
+11.8
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -319,12 +585,161 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Period Net 2 Redemptions Net it Redemptions Net rdemptions holdings
 _________purchases (-) change year 1-5 510 over 10 Change total 4 NetRPs
+1994
+1995
+1996
+1995 ---Q1
+---Q2
+---Q3
+---Q4
+1996 ---Q1
+---Q2
+---Q3
+---Q4
+1996 March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+1997 January
+February
 Weekly
 December 18
+25
+January 1
 March 5
 12
 19
 Memo: LEVEL (bil. $) 6
 March 19
+17,484
+10,932
+9,901
+4,470
+842
+3,399
+-- o
+1,238
+390
+9,168
+4,966
+3,177
+2,549
+100
+17,484
+10,032
+9,901
+4,470
+842
+1,438
+1,423
+3,818 3,606
+1,239 3,122
+776 1,965
+1,138
+100
+1,065
+900
+15,493
+8,241
+6,407
+-621
+4,156
+200
+4,506
+2,691
+3,716
+607 -607
+-1,943
+2,555
+1,423
+397.236.6 42.1
+1,002
+1,303
+1,637
+27
+63
+10
+187
+27
+170
+17
+31,975
+16,970
+14,670
+-850
+8,314
+541
+8,965
+-1,336
+5,952
+3,637
+6,417
+-108
+2,697
+-16
+3,271
+-52
+3,716
+-27
+-63
+6,492
+-12
+-793
+1,916
+-777
+-17
+1,125
+791
+2,555
+1,423
+-7,412
+-1,023
+5,351
+-4,083
+10,395
+-15,979
+8,644
+-8,879
+2,959
+-2,454
+13,726
+5,433
+-2,925
+6,594
+-711
+7,118
+-9,267
+-304
+3,625
+584
+9,518
+-10,151
+-7,371
+15,613
+-8,118
+4,247
+-8,210
+3,263
+-9,269
+10,721
+-12,348
+7,645
+-9,546
+7,579
+-9,508
+7,457
+412.6 -13.7
 March 21, 1997
+35 1,899
+1,240 1,279
+35 1,899
+1,240 1,279
+818 1,125
+1 vear I 1-5 I 5-10 I over 10 total
 March 19

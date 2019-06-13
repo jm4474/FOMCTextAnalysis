@@ -61,9 +61,19 @@ predominantly Treasury securities (Chart 1).  Prime funds responded to the surge
 redemptions by reducing their purchases of commercial paper and other short-term
 assets, causing significant strains in these markets.  Meanwhile short-term Treasury
 bill yields plummeted amid sharp inflows into Treasury-only MMMFs.  Intense
+1 On September 16, the Federal Reserve announced the establishment of a liquidity facility 
+that would provide up to $85 billion in credit to assist AIG in meeting its obligations as they 
+come due.  This facility has a 24-month term, with interest accruing on the outstanding 
+balance at a rate of three-month Libor plus 850 basis points, and is collateralized by all the 
+assets of AIG and of its primary non-regulated subsidiaries.  On October 8, the Federal 
+Reserve announced an additional program under which it will lend up to $37.8 billion to 
+finance investment-grade, fixed-income securities held by AIG.  These securities had been 
+previously lent by AIG’s insurance company subsidiaries to third parties.
 Class I FOMC - Restricted Controlled (FR) 2 of 45
 Chart 1
 Financial Institutions
+100
+Billions of dollars
 Sept. Oct.
 2008
 Government funds
@@ -88,6 +98,8 @@ Oct.
  23
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+1600
+Basis points
 Morgan Stanley
 Goldman Sachs
 CDS spreads for selected institutions
@@ -109,6 +121,8 @@ FOMC
 Jan. Mar. May June Aug. Oct.
 2008
 Basis points
+2-year
+10-year
 Fannie Mae 2- and 10-year debt spreads
 Sept.
 FOMC
@@ -140,10 +154,21 @@ MMMFs, on October 21 the Federal Reserve announced the creation of the Money
 Market Investor Funding Facility (MMIFF).3
 (5) Difficulties also intensified at a number of depository institutions.  The
 FDIC’s decision to resolve the failure of Washington Mutual (WaMu) on September
+25 in a manner that imposed significant losses on senior and subordinated debt
 holders led investors to mark down their expectations of government support for
 unsecured non-deposit liabilities, undermining the ability of some other banking
 organizations—including Wachovia, at the time the fourth-largest U.S. bank by assets
 —to obtain funding.  On September 29, to avoid serious adverse effects on economic
+2 Under the AMLF, the Federal Reserve extends non-recourse loans at the primary credit 
+rate to U.S. depository institutions and bank holding companies to finance their purchases of 
+high-quality ABCP from money market mutual funds, thereby assisting money funds that 
+hold such paper in meeting demand for redemptions from investors. 
+3 Under the MMIFF, the Federal Reserve will provide senior secured funding to a series of 
+special purpose vehicles to finance their purchase of certain money market instruments from 
+eligible investors.  Eligible assets will include certificates of deposit, commercial paper, and 
+bank notes issued by highly rated financial institutions with remaining maturities of 90 days 
+or less.  Eligible investors will include U.S. MMMFs and over time may include other U.S. 
+money market investors.
 Class I FOMC - Restricted Controlled (FR) 4 of 45
 conditions and financial stability, the Secretary of the Treasury, on the
 recommendation of the FDIC and the Federal Reserve and in consultation with the
@@ -204,6 +229,10 @@ Chart 2
 Market Functioning
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+400
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily Sept.
 FOMC
@@ -211,6 +240,8 @@ Oct.
  23
 Jan. Mar. May July Sept. Nov.
 2008
+3.5
+Percent
 Effective Overnight FF
 1-month agency repo*
 1-month MBS repo*
@@ -221,6 +252,8 @@ Spreads over Treasury GC repos
 Source. Bloomberg, New York Fed.
 Oct. 
  23
+3000
+Billions of dollars
 Treasury
 Agency
 MBS
@@ -231,6 +264,8 @@ Oct.
  15
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2007 2008
+400
+Basis points
 AA ABCP
 A2/P2 nonfinancial
 AA financial
@@ -254,6 +289,7 @@ Selected other Assets* 518 417
 Deposits of D.I.s 227 123
 Supplementary Financing
 Account
+559 559
 Selected items from Federal Reserve balance sheet
 Billions of dollars
 *Includes assets denominated in foreign currencies, including foreign
@@ -261,6 +297,8 @@ currency holdings that are part of reciprocal swap arrangements with foreign
 central banks.
 Jan. Mar. May June Aug. Oct.
 2008
+2000
+Billions of Dollars
 Total assets on Federal Reserve balance sheet
 Sept.
 FOMC
@@ -289,6 +327,12 @@ funds rate widened sharply, and amounts outstanding in the financial sector cont
 to trend down.  In response to these developments, the Federal Reserve announced
 the establishment of the AMLF, the Commercial Paper Funding Facility (CPFF), and
 the MMIFF.4  Reportedly, some improvements in CP market functioning started to
+4 On October 7, the Federal Reserve authorized the creation of the CPFF to provide a 
+liquidity backstop to U.S. issuers of commercial paper through a special purpose vehicle 
+(SPV) that will purchase three-month unsecured and asset-backed CP from eligible issuers 
+through the primary dealers.  The Federal Reserve will provide overnight financing to the 
+SPV under the CPFF at the target federal funds rate and will be secured by all of the assets 
+of the SPV.  The Federal Reserve will also be secured by any excess spread and fees that
 Class I FOMC - Restricted Controlled (FR) 8 of 45
 surface in recent days, perhaps because investors gained comfort from the FDIC
 guarantee of some CP issued by banking organizations and also from the
@@ -339,6 +383,12 @@ Federal Reserve has paid interest on required reserve and excess balances.
 Nevertheless, partly because of the extremely high provision of liquidity through the
 Federal Reserve’s liquidity facilities, the effective federal funds rate has been well
 below the FOMC’s target, with a substantial amount of trading at rates below the
+5 On October 6, the Federal Reserve boosted the sizes of both the 28-day and 84-day TAF 
+auctions to $150 billion each.  These increases will eventually bring the maximum amount 
+outstanding under the regular TAF program to $600 billion.  In addition, the sizes of the two 
+forward TAF auctions—announced on September 29 and scheduled to be conducted in 
+November to extend credit over year-end—were increased to $150 billion each, so that a 
+maximum of $900 billion of TAF credit will potentially be outstanding over year-end.
 Class I FOMC - Restricted Controlled (FR) 10 of 45
 interest rate paid on excess balances.6  However, federal funds futures rates rose
 following the announcement on October 22 that the Federal Reserve had increased
@@ -360,6 +410,15 @@ easing was likely.  The reaction to both policy actions was soon overshadowed,
 however, by market concerns about the financial sector and the economic outlook.
 (15) Options on federal funds futures suggest that investors currently place high
 odds on the FOMC lowering the federal funds target at the October 28-29 meeting,
+6 The effective federal funds rate averaged 1.28 percent over the intermeeting period.  The 
+intraday standard deviation of the funds rate, at about 75 basis points, was extremely 
+elevated by historical standards and more than double the level observed in March.  Over 
+this intermeeting period, the volume of long-term repurchase agreements declined $10 
+billion, and on September 18 the Desk redeemed the full amount of maturing Treasury bill 
+holdings, $3.3 billion, to draw reserve from the banking system.    
+7 Previously the rate on excess balances had been set at the lowest federal funds rate target 
+established by the FOMC during the reserve maintenance period minus 75 basis points.  
+Under the revised rule the rate will be set to the lowest target rate minus 35 basis points.
 Class I FOMC - Restricted Controlled (FR) 11 of 45
 Early Experience with Interest on Reserves 
  
@@ -403,11 +462,14 @@ the incentive for institutions to trade in the overnight market may have diminis
 Class I FOMC - Restricted Controlled (FR) 12 of 45
 Chart 3
 Interest Rate Developments
+2009 2010
 October 23, 2008
 September 15, 2008
 Expected federal funds rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
  for term premiums and other adjustments.
+50
+Percent
 Futures market*
   Desk’s survey**
 Probability density for target funds rate
@@ -420,12 +482,19 @@ Recent: 10/23/2008
 Last FOMC: 9/15/2008
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Sept.
 FOMC
 Oct. 
  23
+2006 2007 2008
+5.0
+$/barrel Percent
 Spot WTI (left scale)
 Next 5 years (right scale)
 5-to-10 year forward (right scale)
@@ -436,6 +505,10 @@ Sept.
 FOMC
 Oct. 
  23
+3.5
+Percent
+10/23/2008
+Day before Last FOMC 9/15/2008
 Inflation swaps yield curve
 Maturity in Years
 Class I FOMC - Restricted Controlled (FR) 13 of 45
@@ -448,6 +521,7 @@ although they may now be somewhat stale—indicate that dealers place 38 percent
 probabilities on a 25 and 50 basis point rate cut, a 3 percent probability on a 75 basis
 point rate cut, and a 20 percent probability on no change.  Further ahead, futures
 quotes suggest that investors expect the FOMC to begin tightening by the spring of
+2009, with the federal funds rate returning to a level of about 1.5 percent by the end
 of 2009 and 2.75 percent by the end of 2010.  However, these estimates may also be
 distorted; term premiums resulting from heightened market volatility and poor
 functioning in other financial markets may be substantially higher than currently
@@ -503,6 +577,8 @@ Sept.
 FOMC
 Oct. 
  23
+80
+Percent
 Implied volatility on S&P 500 (VIX)
 Weekly (Fri.*)
 *Latest observation is for most recent business day.
@@ -512,6 +588,8 @@ FOMC
 Oct. 
  23
 Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
   Source. Merrill Lynch.
@@ -530,6 +608,8 @@ Bid-ask spread
 (left scale)
 Oct. 
  22
+240
+Basis points
 Fannie Mae
 Ginnie Mae
 Option-adjusted spreads on Agency MBS
@@ -537,6 +617,8 @@ Sept.
 FOMC
 Oct. 
  23
+450
+Basis points
 FRM
 1-year ARM
 Residential mortgage rate spreads
@@ -601,6 +683,7 @@ and Denmark were added).  Late in the period, in connection with these swap
 Class I FOMC - Restricted Controlled (FR) 18 of 45
 arrangements, the European Central Bank, the Bank of England, the Swiss National
 Bank, and the Bank of Japan began to conduct auctions of dollar liquidity with 7-day,
+28-day, and 84-day maturities at pre-announced fixed interest rates, with funding
 being made available to fully meet the quantities demanded by borrowers in
 possession of eligible collateral.  Additionally, the Swiss National Bank announced
 plans to draw on its swap line to help finance up to $60 billion in purchases of assets
@@ -660,6 +743,7 @@ which apparently reflected a rapid unwinding of yen carry-trade positions.  Impl
 volatilities in most currency pairs rose to multi-year highs, making hedging currency
 risk far more costly.  The dollar appreciated 9 percent against the currencies of our
 other important trading partners over the period.  Most notably, the dollar rose about
+25 percent against the Brazilian real and the Mexican peso, and 21 percent versus the
 Korean won, despite reports of heavy intervention sales of dollars by the monetary
 authorities of these countries.  The dollar’s especially sharp increase against the
 currencies of emerging market economies likely reflected investors’ pulling back from
@@ -692,12 +776,25 @@ Q4
 Q1
 Q2
 Q3 p
+5.4
+3.5
+8.9
+7.4
+5.7
+5.3
+3.3
+1.4
+0.5
+6.7
+4.4
 p Projected.
 C&I loans
 Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector*
+2006 H1 H2 Q1 Q2 Q3
+2007 2008
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 Growth of debt of household sector
@@ -715,6 +812,8 @@ Annual rate, s.a.
 Source. Office of Housing Enterprise Oversight (OFHEO),
 Standard & Poor’s
 Growth of M2
+2006 H1 H2 Q1 Q2 Q3
+2007 2008
 p Preliminary.
 M2 velocity and opportunity cost
 VelocityPercentage points
@@ -784,6 +883,7 @@ annual rate of only ¼ percent, held down by tight lending standards and straine
 financial conditions that improve only slowly.  In 2010, as financial strains continue to
 ebb, GDP expands at its potential growth rate of 2¼ percent.  As a consequence of
 the economic weakness through the end of next year, the unemployment rate rises to
+7¼ percent by the end of 2009, about 2½ percentage points above the staff’s estimate
 of the NAIRU.  This substantial amount of slack, coupled with a lower path for
 energy prices, leads to a marked deceleration in prices.  Core PCE inflation, which is
 projected at an annual rate of 2¼ percent in the current quarter, moderates to 1½
@@ -806,6 +906,8 @@ effects of a wider equity premium—has moved down about 110 basis points since 
 Class I FOMC - Restricted Controlled (FR) 25 of 45
 Chart 7
 Equilibrium Real Federal Funds Rate
+9
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -819,11 +921,15 @@ Single-equation model (1.6 (2.0
 Small structural model -2.9 -1.8
 Large model (FRB/US) -5.4 -1.7
 Confidence intervals for three model-based estimates
+70 percent confidence interval -5.6 - 1.8
+90 percent confidence interval -6.7 - 3.2
 Greenbook-consistent measure -3.1 -0.3
 Medium-Run Measures
 Single-equation model (2.0 (2.1
 Small structural model (1.0 (1.7
 Confidence intervals for two model-based estimates
+70 percent confidence interval (0.5 - 2.6
+90 percent confidence interval (0.0 - 3.5
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate -1.0 -0.4
 Class I FOMC - Restricted Controlled (FR) 26 of 45
@@ -838,23 +944,35 @@ long-run Greenbook forecast beyond 2010.8  These simulations impose a lower
 bound of zero on the nominal funds rate and abstract from any potential stimulus
 from non-standard policy tools (see box on “Possible Constraints on Monetary Policy
 at Very Low Nominal Interest Rates”).  For an inflation goal of either 1½ percent or
+2 percent (the left-hand and right-hand sets of charts, respectively), the optimal
 control simulations prescribe a trajectory for the federal funds rate that declines to the
 zero lower bound by mid-2009 and remains at that rate through mid-2012.  Optimal
 policy is significantly constrained by the zero lower bound in these simulations;
 indeed, the funds rate would fall much further if the zero lower bound were not
 imposed on the optimal control policy.9  Because monetary policy is unable to provide
 adequate stimulus over the next several years, the unemployment rate rises to around
+7 percent next year and remains above the NAIRU through 2012.  Given the
 persistence of this slack, core PCE inflation troughs near 1¼ percent in early 2012.
 Under either inflation objective, the economy is still not in equilibrium after five years,
 and further adjustments in policy are needed to ensure that inflation ultimately settles
 down at the desired rate and output returns to its balanced-growth path.
+8 In these simulations, policymakers place equal weight on keeping core PCE inflation close 
+to a specified goal, on keeping unemployment close to the NAIRU, and on avoiding changes 
+in the nominal funds rate.  
+9 See the Greenbook box on “The Federal Funds Rate in the Staff’s Projections.”
 Class I FOMC - Restricted Controlled (FR) 27 of 45
+5
+Percent
 Federal funds rate
 Recession Scenario
 Taylor Rule
 Full Preemption
 Risk Management
+6.50
+Percent
 Civilian unemployment rate
+3.00
+Percent
 Core PCE inflation
 Possible Constraints on Monetary Policy at Very Low Nominal Interest Rates
 Given the recent sharp deterioration in the economic outlook, the Committee may see  
@@ -919,6 +1037,13 @@ core inflation that has occurred over the past year, the first-difference rule d
 three-quarter-ahead forecasts for output growth and core inflation; hence, for either
 inflation goal, this rule prescribes a declining funds rates trajectory that reaches the
 zero bound by the first quarter of 2009.
+10 The stochastic simulations of the FRB/US model also incorporate the zero bound 
+constraint on the nominal funds rate, and hence the 70 and 90 percent confidence intervals 
+are truncated at zero from the second half of 2009 through mid-2012. 
+11 The probability of low interest rates may be underestimated because the confidence 
+intervals shown in the top right panel of Chart 9 are computed from interest rate caps with 
+strike prices between 1 percent and 14 percent.  Interest rate caps with a strike price below 1 
+percent are not currently traded.
 Class I FOMC - Restricted Controlled (FR) 30 of 45
 Policy Alternatives
 (33) This Bluebook presents three alternatives for the Committee’s
@@ -1093,6 +1218,7 @@ rather than the target rate, the difference between the dealer expectations and 
 futures rate may reflect the possibility that federal funds will continue to trade below
 the target in coming weeks; 12 it is likely that at the time of the Desk’s survey, both
 dealers and futures market participants expected a cut in the target funds rate of about
+30 basis points.  However, over subsequent days, rates on federal funds futures
 contracts closing after the October meeting have declined another 10 basis points
 amid investor concerns about the economic outlook, and they now suggest
 expectations of about 40 basis points of easing at the upcoming meeting.  Thus, a 25
@@ -1209,6 +1335,7 @@ boost federal debt substantially in 2009 and 2010.  Overall, domestic nonfinanci
 debt is projected to grow 2¾ percent in 2009 and 4¼ percent in 2010, a very subdued
 pace by historical standards.
 Class I FOMC - Restricted Controlled (FR) 40 of 45
+50 bp Ease 25 bp Ease No Change Greenbook Forecast*
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates

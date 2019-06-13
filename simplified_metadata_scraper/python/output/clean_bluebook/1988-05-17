@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR)
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -31,6 +39,7 @@ that the funds rate would firm as Treasury balances soared, together with
 apparently heightened demands for excess reserves, may have contributed to
 upward pressure on the funds rate and particularly heavy borrowing in the
 second week of that period. Much of the increase in borrowing in the May
+4 maintenance period occurred at small and medium-sized banks, and included
 a rise of nearly $70 million in seasonal borrowing to $191 million. Early
 in the current maintenance period, in light of data since the last FOMC
 meeting showing considerable economic strength with possible accompanying
@@ -55,6 +64,7 @@ Memo: (Millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+12.3 8.8
 (2) Responding to the increases in reserve pressures, the federal
 funds rate has moved up from around 6-1/2 percent at the time of the last
 FOMC meeting to around 7 percent most recently. Other short-term interest
@@ -132,6 +142,8 @@ to the Desk's current operating objective. The assumption for adjustment
 plus seasonal borrowing would be kept at $400 million under alternative B
 and would be raised or lowered by $200 million under alternatives C and A,
 respectively. The federal funds rate would be expected to average around
+7 percent under alternative B, and around 7-1/2 and 6-1/2 percent under
+2
 alternatives C and A. These relations embody some continued reluctance of
 banks to be seen at the discount window compared with patterns before the
 stock market crash; to the extent this reluctance abates or is offset by
@@ -163,6 +175,7 @@ funds rate range 4 to 8 5 to 9 5 to 9
 (9) Market interest rates now appear to incorporate the policy
 stance of alternative B. Thus, with federal funds continuing to trade
 around 7 percent, the three-month Treasury bill rate could remain in the
+6-1/4 percent area in the near term. But if economic data in coming weeks
 confirm the second-quarter strength of economic activity envisioned in the
 greenbook forecast, heightened market concern about inflation and anticipa-
 tion of further policy restraint could well induce a further firming in
@@ -182,6 +195,7 @@ March 2967.7 2967.7 2967.7 3740.4 3740.4 3740.4 763.1 763.1 763.1
 April 2992.2 2992.2 2992.2 3761.7 3761.7 3761.7 770.2 770.2 770.2
 May 3004.2 3003.4 3002.6 3779.3 3778.9 3778.5 771.2 771.0 770.8
 June 3025.2 3019.6 3014.0 3803.1 3801.2 3799.3 775.5 773.6 771.7
+4.0 to 8.0 4.0 to 8.01988 Target Ranges:
 -- Actual Level
 ------ Growth From Fourth Quarter
 * Short-Run Alternatives
@@ -313,35 +327,71 @@ Short
 -- secondary market-
 federal 3
 funds month
+6
+month
+7.36
+5.36
+12
+month
+7.64
+5.40
 cds
 sec akt
 3-month
+8.49
+5.83
 paper
 1-month
+8.12
+5.88
 SELECTED INTEREST RATES
 (percent I
 money
 market
 mutual
 fund
+6.70
+5.28
 -U.S. Gov't. constant-
 -- maturity yields--
 bank
 prime
 loan
+9.25
+7.50
+9.29
+6.37
+9.96
+7.03
+9.97
+7.34
 SLOn- Isr.-
 -- conventional hom---
 or t gages
 corp. A
 utility
 rec off
+11.50
+8.79
 muni.
 Bond
+9.59
+6.92
 sec mkt
 fixed-
 rate
+11.98
+8.97
 fixed-
 rate
+11.58
+9.03
+8.45
+7.47
+87--High
+Lao
+88--High
+Low,
 Monthly
 HAY 87
 JUN 87
@@ -355,10 +405,62 @@ JAN 88
 FEB 88
 AR 88
 APR 88
+6.51
+6.50
+6.56
+6.57
+6.60
+6.63
+6.92
+6.78
+6.85
+6.97
+6.99
+6.85
+6.73
+6.58
+8.61
+8.40
+9.78
+9.83
+9.98
+10.01
+10.09
+8.15
+8.21
+8.27
+8.25
 Daily
 MAY
 MAY
 MAY
+6.88
+7.10
+7.14p
+6.29
+6.21
+6.16
+6.51
+6.43
+6.43
+6.84
+6.83
+6.81
+6.90
+7.10
+7.06
+8.50
+9.00
+9.00
+8.17
+8.18
+8.11p
+9.01
+9.04
+9.03p
+9.18
+9.17
+9.20p
 Meekly
 FEB 3 88
 FEB 10 88
@@ -389,16 +491,29 @@ t1 766.3 2991.J 4224.9 768.6 3759.9
 18 766.3 2992.0 2225.7 769.1 3161.2
 25 P 777.9 2996.4 2218.5 767.4 3763.8
 AI 2 P 776.4 2997.4 2221.0 771.5. 3768.8
+1/ ANIUAL RATES rOi BANK CREDIT AE ADJUSTED rFO A TBlASFER OF L3ANS FION CONTINEITAL ILLINOIS NATIONAL BAlK TO THS FDIC
+BBGINIIG SBPTBBEI 26, 1984.
+2/ DEBT DATA ARB ON A IOMTHLI AWVMAGE BASIS, DERIVED BI AVEAGING EID-OF-RONTH LEVELS OF ADJACENT HROUNTS, AID HAVE BEBR ADJUSTED
+TO 8E0OIK DISCONTINOITIES.
+P-PRELIIIARY
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 MAY 16, 1988
 ANNUALLY (4TH QTR):
+1985
+1986
+1987
+1987-APR.
+MAY
+JUNE
 JULI
 AUG.
 SEPT.
 OCT.
 NOV.
 DEC.
+1988-JAN.
+FEB.
 APR. P
 Currency
 Demand
@@ -419,6 +534,137 @@ mutual funds, NSA
 general I Instilu-
 purpose.
 and brokerl
+8 9
+SI- I - ------
+166.9
+179.3
+194.9
+185.6
+187.0
+187.8
+189.0
+190.2
+191.4
+193.1
+195.0
+196.5
+198.4
+199.3
+200.9
+263.5
+294.6
+291.7
+299.3
+298.9
+293.3
+292.3
+292.1
+290.5
+295.9
+291.3
+288.0
+289.9
+287.8
+287.9
+176.8
+228.6
+259.7
+253.1
+253.9
+254.3
+255.6
+257.2
+258.6
+260.3
+259.5
+259.3
+263.4
+265.2
+267.1
+67.2
+78.0
+81.1
+76.9
+76.2
+74.9
+75.7
+79.7
+83.4
+85.9
+79.6
+77.9
+82.7
+78.1
+74.9
+509.9
+569.2
+528.9
+566.8
+550.6
+555. I
+549.4
+545.0
+540.5
+533.9
+527.7
+525.2
+524.0
+522.5
+524.5
+299.9
+J62.2
+415.4
+415.5
+417.8
+4 18.6
+417.0
+415.0
+414. 3
+414.3
+416.2
+419.8
+877.1
+858.9
+899.4
+845.1
+845.9
+852.1
+883.3
+901.7
+913.1
+924.6
+941.5
+953.5
+176.8
+207.6
+219.7
+212.1
+209.9
+210.6
+210.6
+213.1
+216.3
+218.2
+219.7
+221.1
+225.0
+231.1
+2J5.0
+64.1
+84.7
+87.2
+83.5
+82.1
+81.7
+83.8
+84.0
+81.3
+82.5
+89.5
+89.6
+94.4
+98.7
+97.4
 Term
 RPs
 NSA
@@ -428,24 +674,117 @@ nallion
 time
 deposits
 3
+433.9
+441.5
+479.2
+448.9
+454.0
+458.6
+460.2
+i62.4
+465.3
+472.3
+480.5
+484.7
+482.8
+489.7
+491.5
 Term
 Eurodollars
+77.6
+81.7
+92.2
+83.9
+86.7
+87.8
+84.4
+90.2
+94.4
+92.9
+92.8
+90.8
+85.1
+84.5
+87.6
 Savings
 bonds
+78.9
+89.7
+99.'
+98.8
+99.3
+101.4
+102.6
+103.5
 Short
 term
 Treasury
 securities
+257.6
+261.6
+259.6
+254.8
+258.9
+263. 7
+273.0
+270.9
+259.8
 Commer-
 cial paper
+201.6
+228.5
+255.2
+246.3
+253.7
+252.8
+251.8
+251.8
+256.6
+254.2
+252.5
+258.9
+269.0
+274.1
+279.2
 Bankers
 accep
 tances
+43.2
+37.8
+45.1
+40.9
+42.1
+43.1
+43.4
+43.5
+44.3
+44.5
+45.0
+45.7
+43.5
+40.9
+38.9
 i Il_ _l _l__I .. . ....._ I I 1L
 1/ INCLUDES RETAIL REPOBCHASE AGREERENTS. ALL IBA AND K6OGH ACCOUNTS AT COMMERCIAL BANKS AN THIFT INSTITTIUIONS AS t SUBTRACTED
 FROM 5lALL TIME DEPOSITS.
 2/ EXCLUDES 4IA AND KBOGH ACCOUNTS.
 3/ NET OF LARGE UENOMINATION TIME DEPOSITS HELD BI MONET MARKET MUTUAL FUNDS AND THHIFT INSTITUTIONS.
+62.7
+82.2
+94.4
+102.5
+107.4
+107.0
+107.5
+109.2
+106.2
+10U. 7
+105.4
+105.5
+100.8
+105.7
+10b. 1
+11 12 | 13 | 14 15
 STRICTLY CONFIDENTIAL (FR)
 CLASS II -FOMC
 Net Changes in System Holdings of Securities'
@@ -454,13 +793,135 @@ Treasury bills Treasury coupons Federal Net change
 Period Net purchases3 agencies outright Net RPsNet Redemp- within Redemp- N h redemptions holdings
 purchases tions (-) Net change in 1-5 -10 over 10 tions (-) t ange total
 1 -year
+1987--Q1
+02
+Q3
+Q4
+1987--Oct.
+Nov.
+Dec.
+1988--Jan.
+Feb.
+Mar.
+Apr.
 May 4
 11
 Memo: LEVEL (bil.$)
 May 11
+312
+484
+826
+1,349
+190
+1,797
+1,896
+1,938
+2,185
+893
+9,779
+-800 -175
+8,698
+15,468
+11,479
+18,096
+20,099
+12,933
+-1,914
+5,823
+4,690
+4,334
+795
+3,388
+3,000
+2,400
+7,700
+3,500
+1,000
+9,029
+5,698
+13,068
+3,779
+14,596
+19,099
+3,905
+-2,714
+5,823
+-3,539
+4,334
+795
+3,388
+-649
+-1,792
+560
+423
+515
+248
+41
+120
+51.9 15.4 26.5
+2,803
+3,566
+3,440
+4,185
+1,476
+-252
+8,948
+3,610
+5,059
+300
+650
 exhange for maturing bills. Excludes maturity shifts and rollovers of maturing coupon issues.
+8,312
+16,342
+6,964
+18,619
+20,178
+20,994
+-3,076
+14,735
+12
+9,323
+1,039
+4,038
+4,246
+-780
+-2,788
+557
+7,040
+1,461
+-5,445
+1,450
+3,001
+10,033
+-11,033
+-14,254
+2,121
+-1,433
+2,533
+7,493
+-3,331
+-1,629
+-4,807
+1,247
+45
+9,111
+336 309
+- -1,963
+515 5,776
+3,909 -4,972
+-59 5,917
+3,177 -4,191
 - -3,522
 - 7,529
 sale transactions (+).
 6. The levels of agency issues were as follows: withf in 1-
 -year 1-5 5-10 over 10 total
+300
+670
+479
+1,7
+1,
+50
+2,589
+600
+1,600

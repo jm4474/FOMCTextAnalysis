@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 DECEMBER 14,2000
 MONETARY POLICY ALTERNATIVES
@@ -48,11 +56,21 @@ Sep Jan May Sep Jan May Sep
 Vertical line indicates last FOMC date
 Selected Equity Indexes
 lndex(9/1/98) = 100
+350 14
+200 10
+9
+150
 Sep Jan May Sep Jan May Sep
 1998 1999 2000
 Vertical line indicates last FOMC date
 Selected Risk Spreads*
 Basis Points
+80C
+Daily
+50C
+High Yield 50C
+20C
+. ~BBB 10C
 Sep Jan May Sep Jan May Sep
 1998 1999 2000
 *The spreads compare the yields on the Mernll Lynch 175 and BBB indexes
@@ -86,6 +104,7 @@ lower-rated investment-grade issues were down somewhat less, bringing the total
 increase in their spreads over the highest-quality corporate rate to about 3/4 percentage
 point this year. Yields on junk bonds rose 20 basis points over the intermeeting
 period; their risk spreads widened 70 basis points, for a cumulative increase of nearly
+3 percentage points since year-end 1999. Wariness about credit risk also became
 much more apparent in money markets. In the commercial paper market, rate
 spreads between top- and second-tier issues jumped 20 to 85 basis points on balance.
 The largest increase occurred at the one-month maturity, reflecting the inclusion of a
@@ -106,6 +125,7 @@ banks for November do not suggest additional slowing. The decline in mortgage ra
 since the spring appeared to support residential mortgage growth. Federal debt
 continued to contract.
 (4) M2 growth sagged to a 2-3/4 percent annual rate in November, down from
+4-1/2 percent in October, but partial data for December suggest a bounceback
 (chart 2).3 Growth over October and November was much weaker than in the
 preceding two months, likely in response to the slower growth of income and
 spending since midyear. M2 growth may have received a boost going into December
@@ -144,6 +164,7 @@ Currencies
 MARA RJ
 M2 Growth
 Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+1999 2000
 and political uncertainties in Japan weighed on the yen, which depreciated 4 percent
 on net against the U.S. dollar.4
 (6) Vulnerabilities in several emerging markets contributed to a 1/2 percent
@@ -161,6 +182,8 @@ Still, global investors apparently distinguished among differing risks, and the 
 emerging market bond spread rose only slightly, on net, over the intermeeting period.
 MONEY AND CREDIT AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1999 Q4
+to
 Sep. 2000 Oct. 2000 Nov. 2000 Nov. 20001
 Money and Credit Aggregates
 Domestic nonfinancial debt 5.0 2.7 n.a. 5.2
@@ -222,6 +245,7 @@ on spending, combined with the tightening of conditions in financial markets and
 deteriorating consumer sentiment, may also signal that there is an increased downside
 asymmetry to the outlook for aggregate demand.
 (10) While financial market participants expect policy to be eased early in
+2001, they do not expect such an action at this meeting. They do anticipate that the
 Committee will move to a statement of balanced risks, which would be seen as
 opening up the possibility of a shift in the stance of policy in the near term. Given
 these expectations, the choice of alternative B with a statement of balanced risks
@@ -265,6 +289,7 @@ toward economic weakness, as investors came to expect a greater cumulative easin
 (13) If the Committee judges that core inflation already has moved above the
 range consistent with effective price stability, and that the prospects for a reversal
 given the current stance of policy are small, then it might be inclined to tighten policy
+25 basis points, as in alternative C. Such a move might appear more attractive if
 output growth were seen as unlikely to slow by as much as in the staff forecast,
 perhaps because the Committee believes that equity investors have already taken
 reduced earnings prospects into account, and so views equity prices as more likely to
@@ -292,6 +317,7 @@ surpluses result in further substantial paydowns of Treasury debt. All told, the
 domestic nonfinancial sectors is projected to advance at about a 4-3/4 percent annual
 rate through March of next year, a bit below the growth in nominal GDP.
 (16) From November through March, M2 is projected to expand at a
+4-1/2 percent annual rate, somewhat above the surprisingly slow pace of the last two
 months. The pickup brings growth in M2 close to that of spending, reflecting in part
 the waning of the effects of previous tightenings. M3 growth is expected to rebound
 from its lows in October and November as bank credit growth picks up. However,
@@ -435,6 +461,10 @@ M3 Velocity
 Ratio scale
 Domestic Nonfinancial Debt Velocity
 Ratio scale
+99 -- High
+-- Low
+00 -- High
+-- Low
 Monthly
 Dec 99
 Jan 00
@@ -491,8 +521,19 @@ nontransactions components
 M1 M2 M3 other' tota'Period In M2 In M3 only government other tota
 Levels (bhillions);
 Monthly 1104.9 4790.9 3686.0 2016.3 6807.2 3510.2 14429.7 17939.9
+2000-July 1101.5 4821.3 3719.8 2042.0 6863.3 3488.9 14510.2 17999.1
+Aug. 1096.7 4857.5 3760.8 2055.9 6913.4 3475.0 14599.5 18074.5
+Sep. 1100.8 4875.8 3775.1 2060.3 6936.2 3445.9 14669.2 18115.0
+Oct. 1090.7 4886.8 3796.0 2067.8 6954.6
+Nov. p
 Weekly 1088.1 4881.2 9793.1 2069.4 6950.6
 2000-Nov. 6 1076.6 4875.8 3799.3 2074.8 6950.6
+13 1092.2 4883.5 3791.2 2063.2 6946.7
+20 1103.8 4897.4 3793.6 2062.5 6959.9
+27p
+1089.5 4905.2 3815.7 2072.9 6978.1
+Dec. 4p
+1 Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been allusted to remove discontinuities
 p preliminary
 pe preliminary estimate
 Changes in System Holdings of Securities
@@ -504,8 +545,15 @@ T___reasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
 Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings4 Term6 Term 7 Change
+1999 Q0ll
+2000 QI
+2000 Apr
+May
+Jun
+Jul
 Oct
 Nov
+2000 Sep 20
 Sep 27
 Oct 4
 Oct 11
@@ -517,6 +565,7 @@ Nov 22
 Nov 29
 Dec 6
 Dec 13
+2000 Dec 14
 Intermeeting Penod
 Nov 15-Dec 14
 Memo' LEVEL (bil $)
@@ -526,19 +575,141 @@ Dec 14
 188 -4,188
 )02 -3,077
 138 -2,907
+198 -3,667
+156 -1,877
+)21 1,485
 '09 -3,670
 - 109
+189 39
+183
+156 -2,616
+--- 204
 - 184
 --- 2,181
 )21 -971
 - 75
 - 138
 --- 97
+145 -1,039
 --- 101
+517 1,145
+12,901
+19,731
+2,341 1,272
+2,414 4,528
 --- 900
+2,039 3,319
+4,770 7,152
+3,449 5,897
+2,294 4,884
+4,303 9,428
+1,298
+930
+1,996 32,979
+2,676 23,699
+1,429 43,928
+1,151
+500
+1,875
+1,284
+2,770
+716
+738 131.7
+7,398
+14,803
+2,085
+1,582
+3,732
+929
+1,642
+500
+734
+-305
+695
+510
+-780
 - 780 3,137
+3,550
+2,496
 - 2,496
+463 -6,779
+8,347 10,382
+-34 1,487 1,453
+553 29,921 30,474
+-1,886 -8,174 -10,060
+104 -9,709 -9,605
+-1,911 -2,025 -3,937
+5,549
+6,297
+-456
+599
+4,125
+418
+-1,622
+759
+39
+183
+-2,116
+938
+-122
+2,877
+-971
+1,292
+5a3 R
+1 Change from end-of-penod to end-of-penod.
+2. Outright purchases less outright sales (in market and with foreign accounts)
+3 Outright purchases less outnght sales (in market and with foreign accounts). Includes short-term notes
 acquired in exchange for maturing bills Excludes maturity shifts and rollovers of maturing issues
+4 Includes redemptions (-) of Treasury and agency securities
+5 RPs outstanding less matched sale-purchases
+6 Original matunty of 15 days or less
+7 Original maturiy of 16 to 90 days
+779
+2,507
+39
+109
+228
+183
+40
+2,181
+51
+75
+138
+46 1,221
+-4,445 -2,926
+3,013 -814
+389 139
+-4,380 -5,043
+-198 2,386
+64 -1,259
+5,068 6,440
+-26 5,076
+31 -4,683
+1 2,842
+11 -3,055
+62 2,830
+29 -2,052
 - 3,562
 1,986 -1,433
+1,432 3,122
+2,864 2,339
+2,151 4,859
+2,020 4,907
+566 -193
+5 -7,287
+7,020 8,757
+210 109
+7,263
+12,238
+1,519
+-3,827
+-1,323
+1,371
+5,102
+-4,713
+2,842
+-3,067
+3,562
+-3,419
+637 1.281
 MRA DHS

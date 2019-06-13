@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 August 17, 1990
 MONETARY POLICY ALTERNATIVES
@@ -37,10 +45,12 @@ unchanged on balance through the end of July. But the Iraqi invasion of
 Kuwait at the beginning of August and the prospect of higher energy prices
 propelled long-term rates upward in volatile trading. The rise in rates
 was spurred by concerns about inflation, in light of the experience of the
+1970s oil shocks, as well as by a heightened sense of uncertainty about
 the financial and economic outlook and pessimism about prospects for a
 budget accord. Bond yields are up as much as 1/2 percentage point since
 the end of July and broad measures of stock prices, some of which had
 reached record highs earlier in the intermeeting period, are down about
+8 percent over the same period. Short-term market interest rates, which
 dipped briefly when the events in the Middle East prompted an apparent
 increased preference for liquidity, have backed up recently, partly on
 disappointing inflation readings taken before the jump in oil prices. On
@@ -67,6 +77,8 @@ These purchases along with some made earlier enabled the Treasury to un-
 wind on July 31 a $2 billion warehousing operation with the System, leav-
 ing $7 billion outstanding on that facility.
 (4) Money growth remained sluggish in July. M2 increased at a
+1-1/4 percent rate last month and M3 hardly rose at all, below the 3 and
+1 percent rates, respectively, that the Committee had expected for the
 June-to-September period. Both aggregates remained in the lower portions
 of their annual ranges. M1 and M2 growth in July was held down--by
 about 3-1/2 and 1 percentage points, respectively--by the introduction of
@@ -181,9 +193,11 @@ argue for tempering any such policy response to the oil shock.
 (9) The three short-run monetary policy alternatives presented
 below embody unchanged, decreased, and increased pressures in the reserve
 market. Under alternative B, federal funds would continue to trade around
+8 percent in association with an initial specification for adjustment plus
 seasonal borrowing at the discount window of $500 million. Under alterna-
 tive A, the drop in the federal funds rate to 7-1/2 percent would accom-
 pany a reduction in borrowed reserves to roughly $450 million, while the
+8-1/2 percent federal funds rate under alternative C would correspond to
 about $550 million in borrowing. With adjustment borrowing likely to
 remain subdued, as generally has been the case this year, and with sea-
 sonal borrowing anticipated to begin its normal annual downtrend later in
@@ -228,6 +242,7 @@ June 3277.6 3277.6 3277.6 4066.7 4066.7 4066.7 809.4 809.4 809.4
 July 3280.8 3280.8 3280.8 4068.5 4068.5 4068.5 809.2 809.2 809.2
 August 3297.2 3296.9 3296.6 4084.5 4084.1 4083.7 814.1 814.0 813.9
 September 3313.4 3309.3 3305.2 4093.9 4092.2 4090.5 818.4 817.4 816.4
+3.0 to 7.0 1.0 to 5.01990 Target Ranges:
 over recent months. Even so, weak credit growth at depository institu-
 tions is likely to continue to foster lower offering rates on small time
 deposits and restrain growth of core deposits. Later in the quarter, the
@@ -237,6 +252,7 @@ brokered deposit contracts and more downward pressure on offering rates.
 Quarterly average growth of M2 would be held to only 2-1/2 percent, and M2
 velocity this quarter would increase at a 3 percent rate, the same as in
 the second quarter; the increases in velocity in both quarters are about
+2-1/2 percentage points larger than projected by M2 demand models.4
 (13) Under alternative B, M3 over August and September is pro-
 jected to expand at a 3-1/2 percent average rate, implying growth of 2-1/2
 percent from June to September. The pickup in M3 does not reflect a pro-
@@ -311,6 +327,10 @@ Short Term I Long Term
 S CDs ) money corporate I conventional home mortgages
 federal Treasury bills secondary I comm market bank US government constant A ulliy J municipal I secondary I
 funds secondary market marketl paper mutual prime malurtly yields recently Bond markel primary market
+89 -- High 9.95
+Low 8.38
+90 -- High 8.33
+Low 8.03
 Monthly
 Aug 89 8.99
 Sep 89 9.02
@@ -324,6 +344,47 @@ Apr 90 8.26
 May 90 8.18
 Jun 90 8.29
 Jul 90 8.15
+9.04
+7.54
+7.96
+7.35
+7.50
+7.35
+7.42
+7.40
+7.48
+7.47
+10.00
+10.00
+10.00
+8.96
+7.15
+7.97
+7.16
+7.24
+7.16
+7.17
+10.23
+8.24
+8.58
+7.86
+7.93
+7.86
+7.89
+9.77
+7.60
+9.09
+7.90
+8.09
+8.10
+8.10
+9.46
+7.78
+9.07
+7.94
+8.38
+8.62
+8.67
 p -- prelUmnary data
 Strictly Confidential (FR)
 Money and Credit Aggregate Measures Class II
@@ -335,8 +396,17 @@ INN. GROWTH RATES 1%) :
 ANNUALLY (Q4 TO Q4)
 LEVELS ($BILLIONS) :
 MONTHLY
+1990-MAR. 804.8 3270.6 2465.8 797.7 4068.3 4914.9 2623.8 2325.9 7621.2 9947.1
+APR. 807.3 3277.0 2469.6 795.3 4072.3 4927.1 2635.0 2340.9 7656.2 9997.1
+MAY 805.4 3270.6 2465.2 793.4 4064.0 4901.6 2642.2 2353.8 7690.0 10043.8
+JUNE 809.4 3277.6 2468.2 789.0 4066.7 4926.1 2657.9 2380.2 7725.2 10105.4
+JULY p 809.2 3280.8 2471.6 787.6 4068.5 2670.9
 MEEKLY
 1990-JULY 2 817.7 3285.4 2467.8 783.1 4068.5
+9 810.3 3283.0 2472.7 788.2 4071.2
+16 807.7 3282.8 2475.0 782.5 4065.3
+23 807.6 3278.0 2470.3 790.5 4068.5
+30 p 809.2 3278.1 2468.9 790.4 4068.6
 AUG. 6 p 813.0 3289.2 2476.2 789.2 4078.4
 Strictly Confidential (FR)-
 Class II FOMCComponents of Money Stock and Related Measures
@@ -356,10 +426,247 @@ SEP.
 OCT.
 NOV.
 DEC.
+1990-JAN.
+FEB.
+MAR.
 APR.
 MAY
 JUNE
 JULY p
+195.0 291.5
+210.7 287.6
+220.8 279.5
+217.8
+218.6
+219.3
+220.0
+220.4
+221.9
+224.6
+226.6
+228.4
+230.1
+231.6
+233.4
+279.6
+278.5
+278.1
+280.0
+278.8
+279.7
+277.3
+280.2
+279.3
+277.8
+274.5
+274.5
+260.5
+280.4
+283.1
+274.5
+276.0
+278.4
+280.8
+282.8
+285.7
+285.4
+287.0
+289.5
+291.8
+291.5
+293.8
+87.6
+83.3
+76.1
+81.0
+78.5
+75.2
+75.7
+75.3
+77.4
+81.9
+82.8
+82.4
+79.8
+83.7
+82.0
+529.3
+504.9
+479.9
+463.9
+468.2
+471.9
+475.3
+480.8
+483.7
+485.0
+489.4
+494.9
+498.8
+500.0
+501.2
+416.2 903.6
+428.2 1021.6
+407.7 1138.9
+403.3
+404.0
+405.5
+406.1
+407.9
+409.0
+410.2
+413.6
+414.6
+415.8
+415.0
+415.8
+1122.4
+1130.0
+1132.6
+1135.9
+1138.5
+1142.3
+1143.0
+1142.6
+1146.4
+1147.7
+1149.0
+1147.1
+220.5
+237.5
+308.0
+277.7
+287.8
+295.9
+302.7
+309.0
+312.4
+318.1
+324.5
+325.0
+324.8
+319.4
+321.0
+87.2
+86,7
+101.5
+99.0
+101.4
+101.6
+101.1
+101.1
+102.3
+103.2
+103.7
+105.4
+106.8
+107.3
+107.3
+482.3
+538.0
+560.7
+574.7
+570.5
+565.6
+562.7
+561.0
+558.3
+554.2
+549.6
+543.6
+537.7
+534.7
+531.9
+107.4
+123.2
+105.1
+124.1
+117.6
+113.9
+109.6
+108.9
+96.9
+93.6
+96.9
+95.2
+94.8
+95.6
+98.4
+92.4
+102.7
+80.4
+91.8
+89.8
+85.6
+80.2
+79.5
+81.4
+74.4
+68.8
+67.0
+65.9
+67.6
+64.4
+99.8
+108.8
+116.8
+114.3
+115.0
+115.7
+116.2
+116.8
+117.5
+117.7
+118.2
+119.1
+119.9
+120.7
+121.5
+261.9
+267.0
+322.3
+297.2
+300.3
+311.5
+317.6
+318.8
+330.6
+334.3
+330.2
+347.7
+341.7
+331.7
+352.3
+258.4
+326.2
+349.7
+349.5
+354.3
+350.3
+350.0
+351.3
+347.9
+343.3
+344.7
+342.7
+357.5
+349.9
+351.4
+44.5
+40.7
+40.6
+41.9
+42.6
+41.0
+40.0
+40.5
+41.2
+40.7
+38.3
+37.0
+35.7
+35.2
+34.3
 nstitutions are subtracted from small time deposits.
 ET CRUnGS IN g8Tra KDIMS or sa CRITIES1
 August 20, 1990 Millions of dollars, not seasonally adjusted
@@ -369,6 +676,22 @@ Treasury bills Treasury coupon.s Fedral Net change
 epu tont purchases ton ) agencies outright
 Period 2Nt 1 uduMp- Net within p Redemp- Net rdemptions holdins
 purchases tions (-) change 1-year | 1-5 5-10 ovr 10 tions (-) change (-) total Nat BPs
+1989--01
+Q2
+Q3
+04
+1990--01
+02
+1989--October
+Novaeber
+December
+1990--January
+February
+March
+April
+May
+June
+July
 August 1
 8
 15
@@ -379,13 +702,154 @@ Outright transactions in market and with foreign accounts.
 Outright transactions in market and with foreign accounts,
 short-term notes acquired in exchange for maturing bills.
 maturity shifts and rollovers of maturing coupon issues.
+826
+1,349
+190
+3,358
+2,177
+1,938
+2,185
+893
+9,779
+4,686
+-228
+1,361
+-163
+-24
+100
+100
+236
+358
+236
+2,441
+1,404
+441
+293
+158
+1,858
+1,398
+3,440
+4,185
+1,476
+17,366
+9,665
+1,315
+-248
+2,104
+-172
+-369
+200
+150
+-524
+155
 purchase sale transactions (+).
 6. The levels of agency issues were
 as follows:
 Aug. 15
+6,964
+18,619
+20,178
+20,994
+14,513
+1,450
+3,001
+10,033
+-11,033
+1,557
+-1,683
+11,479
+18,096
+20,099
+12,933
+7,635
+1,466
+-3,842
+2,496
+-6,450
+9,263
+-3,799
+10,892
+-1,414
+-8,794
+-1,883
+-1,065
+-3,277
+543
+5,796
+3,365
+1,732
+3,593
+11
+1,080
+413
 securities.
 (-), and matched
 within
 1-year 1-5 5-10 over 101 total
 2.4 2.8 I 1.1 I 0.2 1 6.4
+7,700
+3,500
+1,000
+9,029
+2,200
+2,200
+2,400
+3,200
+4,930
+1,400
+3,530
+1,000
+400
+0
+0
+3,779
+14,596
+19,099
+3,905
+5,435
+-6,042
+96
+-9,650
+4,333
+-5,199
+10,892
+-2,814
+5,264
+1,883
+-2,065
+-3,677
+543
+5,796
+3,365
+1,732
+3,593
+11
+1,080
+413
+68
+65
+-6,477 -5,591
+2,075 924
+-9,921 -893
+3,934 3,877
+-4,999 -4,061
+10,964 509
+-3,368 463
+5,419 -453
+-1,883 3,867
+-2,065 8,435
+-3,677 4,417
+742 -43
+5,818 -1,260
+3,533 -378
+1,782 2,146
+254 2,863
+278 2,234
+11 -408
+1,080 -1,921
+413 1,464
+-321
+-715 4,727
+68 -4,620
+33 2,483
 - - -

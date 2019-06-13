@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -131,13 +139,48 @@ Federal
 Nonfederal
 Bank credit
 Reserve measures
+1
+Nonborrowed reserves
 Total reserves
 Adjusted for OCD sweeps
 Monetary base
 Adjusted for OCD sweeps
 Memo: (Millions of dollars)
+-2.0
+5.2
+5.5
+6.1
+5.3
+-16.4
+-1.1
+-4.1
+-2.2
 Adjustment plus seasonal
 borrowing
+10.0
+15.8
+6.9
+13.1
+4.7
+19.2
+29.2
+8.8
+10.4
+1137Excess reserves
+-3.1
+4.8
+4.2
+1.3
+5.3
+-1.0
+7.7
+4.8
+3.6
+5.2
+-0.7
+1.4
+1.6
+4.0
 Policy Alternatives
 (6) Incoming data suggest both stronger demand and slightly
 higher resource utilization rates than were anticipated by the staff
@@ -149,6 +192,7 @@ produces around or a little beyond its potential. The high level of
 resource utilization, combined with the effects of rising food and
 energy prices, imparts a small upward tilt to inflation, with both
 core and total CPI projected to increase 3-1/4 percent in 1997. For
+1996, the staff forecasts for total CPI inflation and real GDP growth
 are above the upper ends of the central tendencies of the projections
 of Board members and Presidents last February.
 (7) In addition to the rise in food and energy prices,
@@ -317,11 +361,111 @@ Growth Rate
 From
 Dec-95
 Apr-96
+95 Q4
+95 Q4
+93 Q4
+94 Q4
+95 Q4
+95 Q4
+95 Q4
 To
 Apr-96
 Sep-96
 Apr-96
 Sep-96
+94 Q4
+95 Q4
+96 Q1
+96 Q2
+96 Q3
+1.0 to 5.0 2.0 to 6.0
+3724.8
+3730.6
+3727.2
+3738.7
+3752.7
+3766.7
+3780.8
+4681.0
+4689.6
+4693.9
+4709.1
+4727.6
+4746.9
+4766.2
+4681.0
+4689.6
+4693.5
+4707.5
+4724.4
+4742.3
+4760.7
+1126.6
+1123.7
+1117.1
+1113.9
+1112.5
+1111.3
+1110.0
+3724.8
+3730.6
+3727.9
+3741.2
+3757.7
+3774.0
+3790.1
+5.6
+3.9
+4.4
+5.8
+3.8
+5.6
+4.8
+11.2
+1.9
+5.6
+3.8
+3.7
+5.8
+3.2
+5.6
+4.5
+1126.6
+1123.7
+1116.9
+1113.0
+1110.4
+1107.9
+1105.3
+-2.7
+-1.1
+-3.5
+-0.3
+-3.9
+-1.0
+-2.5
+7.0
+4.9
+4.2
+7.6
+3.9
+6.8
+5.4
+7.0
+4.8
+3.9
+7.6
+3.6
+6.8
+5.3
+-2.7
+-1.0
+-2.5
+-0.3
+-2.9
+-1.0
+-2.0
+1996 Target Ranges:
 Directive Language
 (14) Presented below is draft wording for the operational
 paragraph that includes the usual options for Committee consideration.
@@ -344,6 +488,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+95 -- High
+-- Low
+96 -High
+-- Low
 Monthly
 May 95
 Jun 95
@@ -378,6 +526,10 @@ Daily
 May 10 96
 May 16 96
 May 17 96
+8.25
+8.25
+8.25
+7.35 7.02 5.37
 p - preliminary data
 Strictly Confidential (FR)-
 Class 11 FOMC
@@ -390,8 +542,17 @@ Period M1 M2 M3 L and U. S. other z  total=
 In M2 In M3 only investments' go0emment
 Levels (Sbillions).
 Monthly
+1995-DEC. 1124.9 3660.3 2535.4 913.2 4573.5 5684.2 3603.1 3644.6 10226.7 13871.3
+1996-JAN. 1119.2 3675.0 2555.8 927.3 4602.3 5704.0 3630.5 3634.7 10270.0 13904.6
+FEB. 1117.3 3690.4 2573.0 949.6 4640.0 5734.2 3640.4 3656.4 10316.0 13972.4
+MAR. 1126.6 3724.8 2598.2 956.2 4681.0 3631.7 3699.5 10356.6 14056.2
+APR. p 1123.7 3730.6 2607.0 958.9 4689.6 3650.1
 Weekly
 1996-APR. 1 1128.0 3726.7 2598.7 952.0 4678.7
+8 1125.4 3736.9 2611.5 953.7 4690.6
+15 1125.0 3740.7 2615.8 950.9 4691.7
+22 1125.1 3730.9 2605.7 959.3 4690.1
+29 p 1113.2 3709.6 2596.4 969.3 4678.8
 MAY 6 p 1123.2 3725.8 2602.7 977.0 4702.8
 p preliminary
 pe preliminary estimate
@@ -405,6 +566,9 @@ Other Smatll mutual funds Large Savings Short-term Comercial Bankers
 Period urrenc Demand chckabl avin dnoination denomination RP's" Eurodollars" * ns Treasury ommercial Bankers
 deposits depots ime depost Retail' Institution- time deposits bsecurities
 I only
+1993
+1994
+1995
 Monthly
 1995-APR.
 MAY
@@ -415,7 +579,216 @@ SEP.
 OCT.
 NOV.
 DEC.
+1996-JAN.
+FEB.
+MAR.
 APR. p
+320.0
+352.8
+371.9
+365.0
+367.6
+367.0
+367.3
+368.5
+369.5
+370.8
+371.6
+373.2
+373.6
+373.3
+375.2
+381.6
+383.3
+388.7
+382.1
+382.1
+386.5
+388.5
+389.3
+389.4
+388.1
+388.2
+389.8
+393.5
+397.4
+407.1
+412.1
+404.2
+359.2
+395.1
+387.4
+382.0
+380.8
+377.2
+372.4
+364.1
+360.4
+353.0
+343.2
+337.8
+335.4
+1215.1
+1162.7
+1123.8
+1091.2
+1089.5
+1097.0
+1096.2
+1101.6
+1108.4
+1116.1
+1120.6
+1134.6
+1151.7
+1164.5
+1183.0
+792.3
+812.2
+933.1
+893.4
+906.1
+913.7
+919.4
+923.7
+927.0
+929.8
+933.8
+935.7
+935.5
+933.8
+927.6
+356.5
+383.1
+460.1
+393.3
+401.6
+418.8
+431.7
+443.6
+450.3
+455.0
+460.1
+465.1
+468.6
+474.7
+487.6
+196.3
+182.9
+225.2
+199.4
+203.7
+213.2
+218.6
+218.5
+221.7
+223.7
+224.8
+227.2
+230.6
+243.9
+248.3
+334.8
+358.9
+414.3
+381.0
+384.5
+387.6
+393.9
+396.7
+400.5
+409.8
+415.5
+417.5
+416.6
+422.4
+429.7
+155.3
+175.9
+184.2
+192.1
+197.2
+191.7
+188.4
+192.9
+192.5
+190.0
+185.3
+177.4
+184.4
+186.2
+183.9
+66.1
+81.7
+91.6
+90.1
+91.1
+91.8
+92.6
+93.1
+93.7
+92.9
+90.7
+91.2
+95.8
+97.1
+94.3
+170.7
+179.8
+184.5
+181.2
+181.7
+182.4
+183.0
+183.5
+183.9
+184.2
+184.5
+184.8
+185.0
+185.0
+339.5
+381.2
+469.2
+412.0
+405.5
+414.7
+434.3
+437.5
+457.2
+465.8
+464.9
+476.9
+467.7
+456.7
+382.4
+401.5
+438.4
+430.6
+437.0
+428.9
+429.0
+433.3
+438.6
+440.7
+437.3
+437.1
+437.2
+442.3
+15.7
+13.8
+12.6
+13.4
+12.0
+11.0
+12.1
+12.4
+12.8
+13.4
+12.6
+11.9
+11.7
+10.2
 p preliminary
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
@@ -425,6 +798,27 @@ Treasury bills Treasurycoupons Federal Net change
 Netpurchases 3  agencies outright
 Period Net 2 Redemptions Net witp Redemptions Net redemptions holdings
 purchases (-) change 1 yea 1-5 5-10 over 10 () Change _ total
+4 Net RPs
+1993
+1994
+1995
+1995 ---Q1
+---02
+---Q3
+---Q4
+1996 ---Q1
+1995 May
+June
+July
+August
+September
+October
+November
+December
+1996 January
+February
+March
+April
 Weekly
 January 24
 May 1
@@ -432,11 +826,105 @@ May 1
 15
 Memo: LEVEL (bil. $) 6
 May 15
+17,484
+10,032
+4,470
+842
+433
+409
+450
+17,717
+17,484
+10,932
+1,223
+1,238
+390
+---
+4,168 3,457
+3,818 3,606
+1,239 3,122
+767
+2,337
+1,476
 - -- 621
 39 1,138 370
 --- 100 ---
 00 1,884 485
+10,350
+9,168
+4,966
+2,549
+100
 --- 1,228
+165 787
+32.9 38.7
+18,431
+15,493
+8,241
+-621
+4,156
+200
+4,506
+200
+-485
+400
+35,374
+31,975
+16,970
+-850
+8,314
+541
+8,965
+-30
+4,208
+-333
+311
+563
+-118
+4,551
+4,533
+-108
+2,697
+-45
+-50
+53
+2,691
+5,974
+-7,412
+-1,023
+-4,083
+10,395
+-15,979
+8,644
+2,474
+10,678
+-13,602
+-2,984
+608
+-427
+2,404
+6,666
+-12,623
+-1,689
+5,433
+-505
+-9,687
+5,695
+-6,148
+2,020
+1,625
+8,217
+-6,519
+11,648
+-10,669
+8,728
+-4,820
+3,357
+4,963
+6,289
+-15,158
+7,561
+394.5 -12.0
 May 15
 May 17.1996
 ~ - -~--

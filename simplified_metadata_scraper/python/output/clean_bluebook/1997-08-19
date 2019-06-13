@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 AUGUST 15, 1997
 MONETARY POLICY ALTERNATIVES
@@ -36,6 +44,8 @@ the July NAPM survey results, market participants seem to have been reassessing 
 they hadn't become a little too optimistic about structural changes damping cyclical inflation
 pressures. With less certainty about the inflation outlook, market reactions to incoming data
 have been especially pronounced, and volatility in financial markets has risen considerably.
+1 In contrast to private rates, Treasury bill rates rose over the intermeeting period, as
+the Treasury shifted from paying down to issuing bills, on net.
 Stock prices also have slipped in recent weeks and dropped sharply today, erasing most of the
 large advances registered earlier in the period.
 (2) The trade-weighted value of the dollar has gained about 3-1/2 percent on
@@ -77,6 +87,10 @@ substantially faster than the staff had anticipated.
 (4) Private debt growth appears to have slowed a little from its brisk pace earlier
 in the year, owing largely to a softening in household borrowing. Business borrowing has
 risen in recent months, reflecting strength in capital spending. Financing conditions for the
+2 Measured opportunity costs narrowed in the second quarter despite the Committee's
+policy firming in March, as the contracting supply of Treasury bills put downward pressure
+on their rates. Partly reflecting this rate decline, the runoff of outstanding bills obtained
+through noncompetitive tenders intensified.
 business sector remain quite favorable; indeed, quality spreads on junk bonds have edged
 lower recently, and in survey responses a sizable fraction of banks reported a further decrease
 in loan rate spreads from already narrow levels. Although banks, on balance, have continued
@@ -87,6 +101,8 @@ year through June, domestic nonfinancial debt grew at a 4-1/2 percent annual rat
 the middle of its annual range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 May June July July3
 Money and Credit Aggregates
 M1
@@ -105,10 +121,38 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess Reserves
+-2.7
+6.1
+3.9
+-3.9
+6.6
+-1.2
+3.1
 n.a.
 n.a.
 n.a.
+10.2
+6.2
+-5.3
+4.0
+7.5
+8.3
+-9.7
+8.8
+3.6
+5.7
 FASB 115).
+-2.5
+5.2
+4.5
+0.5
+5.9
+8.6
+8.1
+-9.3
+6.9
+4.9
+6.7
 Policy Alternatives
 (5) In the staff forecast, near-term growth has been revised down considerably
 because inventory investment is expected to downshift from its surprisingly fast pace in the
@@ -149,6 +193,9 @@ Federal Reserve, and selection of alternative B by the Committee should elicit l
 diate market reaction. Thus, short-term interest rates generally would remain close to current
 levels, as would the foreign exchange value of the dollar, though Treasury bill rates could
 continue to edge up as supply constraints ease further with the seasonal widening of the
+3 The relatively brisk advance of M3 seems to be driven primarily by the funding
+choices of depositories and well as shifts in business cash management practices favoring
+money funds, both of which bear little relationship to cyclical pressures.
 federal deficit. In longer-term markets, prices are likely to remain more volatile than over the
 spring and early summer as participants assess incoming data for clues about whether the
 recent exceptional confluence of strong growth, high levels of resource utilization, and low
@@ -234,6 +281,56 @@ Jul-97 Dec-97
 96 Q4 Dec-97
 95 Q4 96 Q4
 96 Q4 97 Q4
+1997 Annual Ranges: 1.0 to 5.0
+3919.8
+3934.2
+3951.5
+3964.6
+3977.5
+3990.6
+4003.8
+5095.9
+5141.4
+5164.9
+5193.4
+5221.9
+5250.6
+5279.5
+5095.9
+5141.4
+5164.7
+5192.5
+5220.2
+5248.1
+5276.4
+3919.8
+3934.2
+3951.9
+3966.0
+3980.2
+3994.5
+4008.8
+1063.2
+1062.1
+1060.6
+1050.0
+1049.2
+1048.3
+1047.4
+0.6
+-1.2
+-1.7
+1063.2
+1062.1
+1060.5
+1049.5
+1048.2
+1046.7
+1045.1
+0.6
+-1.2
+-1.8
+2.0 to 6.0
 Directive Language
 (12) Shown below is (1) standard draft wording for the operational paragraph of the
 directive that incorporates the usual options for Committee consideration and (2) possible
@@ -304,6 +401,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+96 -- High
+- Low
+97 -- High
+- Low
 Monthly
 Aug 96
 Sep 96
@@ -338,7 +439,35 @@ Daily
 Aug 8 97
 Aug 14 97
 Aug 15 97
+5.60 4.96
+5.56 --
+5.57
+5.56
+5.56
+8.50
+8.25
+8.50
+8.25
+8.50
+8.50
+8.50
+8.50
+8.50
 I ____________________________________________________________ I
+6.59 6.86 7.07
+8.23
+7.00
+8.27
+7.52
+7.71
+7.64
+6.34
+5.63
+6.14
+5.49
+5.62
+5.71
+8.25 8.01 5.84
 p - preliminary data
 Strictly Confidential (FR)-
 Class II FOMC
@@ -352,8 +481,16 @@ Period M1 M2 M3 L and U. S. other' total'
 In M2 In M3 only investments' government'
 Levels (9billions):
 Monthly
+1997-MAR. 1075.2 3885.4 2810.2 1141.2 5026.6 6198.9 3860.0 3799.1 10985.6 14784.7
+APR. 1065.1 3905.0 2839.9 1160.2 5065.2 6245.1 3893.8 3806.8 11051.1 14857.8
+MAY 1062.7 3904.7 2842.0 1167.1 5071.7 6250.3 3901.2 3794.3 11111.6 14905.9
+JUNE 1063.2 3919.8 2856.6 1176.0 5095.9 3923.7 3782.1 11155.7 14937.8
+JULY p 1062.1 3934.2 2872.1 1207.2 5141.4 3956.9
 Weekly
 1997-JULY 7 1066.6 3937.0 2870.5 1202.2 5139.2
+14 1058.3 3927.3 2869.0 1209.9 5137.3
+21 1059.1 3931.6 2872.5 1208.7 5140.3
+28 p 1061.9 3937.3 2875.4 1207.9 5145.2
 AUG. 4 p 1071.3 3945.8 2874.5 1208.0 5153.8
 p preliminary
 pe preliminary estimate
@@ -375,6 +512,9 @@ SEP. 387.6 404.9 292.2 1231.5 937.3 513.2 285.2 468.3 194.1 98.9 187.1 483.9 482
 OCT. 390.2 398.2 283.2 1246.3 941.0 520.5 288.1 480.9 195.5 105.1 187.1 476.7 479.6 12.1
 NOV. 392.5 402.1 276.8 1259.0 943.9 527.1 292.0 483.4 194.6 107.1 187.0 486.7 483.2 12.2
 DEC. 395.2 402.4 274.8 1271.0 945.7 536.6 299.3 491.5 193.0 113.9 187.0 471.0 495.5 12.2
+1997-JAN. 397.0 401.7 272.5 1282.5 946.9 542.4 296.3 493.3 196.1 117.5 186.7 450.1 509.1 11.9
+FEB. 400.5 404.2 267.3 1290.5 948.6 548.7 305.4 500.1 200.1 119.8 186.4 448.1 517.5 12.7
+MAR. 402.4 402.8 261.5 1304.3 948.1 557.8 311.8 509.2 198.3 121.9 186.3 446.6 525.9 13.5
 APR. 403.7 395.4 257.7 1321.1 949.6 569.2 311.6 522.2 200.2 126.1 186.2 443.1 537.8 12.8
 MAY 406.1 395.6 252.8 1320.9 953.9 567.2 311.6 523.7 199.7 132.0 186.2 435.4 543.9 13.1
 JUNE 407.7 397.3 250.1 1325.4 958.4 572.9 318.9 534.1 197.2 125.8
@@ -388,19 +528,169 @@ Treasury bills Treasurycoupons Federal Net change
 SNt prchass 3 agencies outright
 Peod Net Redemptions Net NepurcasesRedemptions Net redemptions holdings
 purchases (-) change 1 r 1-5 5-10 over 10 (-) Change total 4 Net RPs
+1994
+1995
+1996
+1996 ---01
+---02
+--- 03
+---04
+1997 ---01
+---02
+1996 August
+September
+October
+November
+December
+1997 January
+February
+March
+April
+May
+June
+July
 Weekly
 April 30
 May 7
+14
+21
+28
 August 6
 13
 Memo: LEVEL (bil. $)6
 August 13
+17,484
+10,032
 --- 3,399
 --- 6,502
 --- 4,602
+10,932
+9,901
+9,168 3,818 3,606
+5,366 1,432 2,529
+3,898 1,116 1,655
+15,493
+7,941
+5,179
+-1,228
+2,691
+3,716
+1,839
+2,060
+818 3,985
+877 5,823
+459 2,060
+383
+494
 --- 1,117
 1,233 10,050
+462 735
+1,125
+2,861
+1,924
+1,102
+2,797
 - 1,924
+183 1,102
+194 1,155
+--- 1,642
+988
+9,062
+607 5,314
+376 9,451
 --- 3,716
+-607
+1,943
+3,978
+1,548
+3,206
+4,696
+-598
+1,924
+988
+1,649
+1,642
+1,405
+942
+1,103
+108
+138
+79
+230
+498
+474
+27
+307
+67
+164
+15
+32,035
+16,870
+14,670
+-1,336
+5,952
+3,637
+6,417
+5,084
+13,555
+3,716
+-27
+-63
+6,492
+-12
+-793
+1,916
+3,961
+5,530
+3,206
+4,818
+-625
+1,910
+988
+-307
+-67
+1,549
+2,238
+1,405
+-164
+-15
+-7,412
+-1,023
+5,351
+-8,879
+2,959
+-2,454
+13,726
+-18.046
+12,811
+-9,267
+-304
+3,625
+584
+-10,151
+-7,371
+-524
+41,665
+-42,664
+13,811
+27,694
+-25,562
+-13,014
+-2,803
+-3,375
+10,757
+-4,583
+3,511
+4,393
+-9,119
+-1,390
+2,631
+-5,356
+6,303
+-3,773
+9,191
+424.3 -13.0
 August 13
 August 15, 1997
+596
+..-

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 NOVEMBER 7, 1997
 MONETARY POLICY ALTERNATIVES
@@ -38,11 +46,13 @@ to have left investors a little less confident about economic and financial pros
 expectations of lower inflation. U.S. equity price indexes fell 2-1/2 to 5-1/2 percent over the
 intermeeting period, leaving major indexes 18 to 26 percent above their levels at the
 beginning of the year. Yield spreads on private securities relative to Treasuries rose around
+15 to 25 basis points, but these spreads remain near the low end of the range of the past
 couple of years. Treasury coupon yields declined 10 to 25 basis points, with all of the
 decline registered after stock prices began to drop sharply.3 With consumer inflation
 continuing to run lower than investors had anticipated and international financial
 developments reinforcing perceptions of continued disinflation--or even, to some, incipient
 deflation--the spread between nominal and real yields at the ten-year maturity narrowed about
+15 basis points. In view of continued good inflation performance in the United States and of
 stresses in financial markets worldwide and their perceived feedback on the U.S. economy,
 investors evidently concluded that the possibility of any firming of U.S. monetary policy over
 coming months, already low, had vanished.
@@ -56,6 +66,7 @@ Indonesia--which includes a possible short-term loan of up to $3 billion through
 Treasury's Exchange Stabilization Fund--as well as coordinated intervention in support of the
 Indonesian rupiah by Japan, Singapore, and Indonesia contributed to partial recoveries of
 beleaguered financial markets in emerging-market economies. In Asia, equity prices dropped
+4 to 32 percent over the intermeeting period, and some currencies in that region depreciated
 significantly against the dollar. For the first time this year, stresses in Asia spilled over to
 financial markets in Latin America, and spreads on Brady bonds increased 2 to 3 percentage
 points.4 As speculative pressure against Brazilian assets mounted, one-month domestic
@@ -83,6 +94,7 @@ points, and equity indexes generally fell 5 to 10 percent.
 ; the
 Desk did not intervene.
 (5) The broad monetary aggregates decelerated further in October. M2 grew at a
+4 3/4 percent annual rate, in line with the projection in the previous bluebook, bringing its
 advance from the fourth quarter of 1996 to 5 percent, the upper end of its 1 to 5 percent
 annual range. 5 The slowing was attributable to money market mutual funds, whose growth
 was off considerably from their strong summer pace. Preliminary data suggest that flows into
@@ -121,6 +133,8 @@ expand at an underlying rate of less than 5 percent, leaving this aggregate in t
 its 3 to 7 percent annual range for the year.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 Aug. Sept. Oct. Oct.1
 Money and Credit Aggregates
 Adjusted for sweeps
@@ -139,10 +153,15 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+-18.9
+7.8
+7.5
+10.1
 (FIN 39 and FASB 115).
 Short-run Policy Alternatives
 (8) The staffs forecast again calls for real GDP growth to remain faster than the
 growth of potential for a while, reducing the unemployment rate to almost 4-1/2 percent by mid-
+1998--noticeably below the rate thought to be consistent with inflation staying stable. The
 staff has scaled back its projection of the underlying acceleration in core prices, owing to
 surprisingly placid incoming price readings, continued robust gains in labor productivity, and
 the likelihood of a lower trajectory for non-oil import prices as a consequence of the recent
@@ -230,6 +249,7 @@ faster than the 6 percent upper bound of its range.
 grow at a 5 percent average pace, near that of nominal spending. The expansion of federal
 debt, however, will be held far below this rate by the modest borrowing needs of the
 Treasury. Nonfederal debt growth, by contrast, is expected to pick up to a little more than a
+6 percent annual rate over the two quarters, led by business borrowing. Business credit
 demands should be boosted by the widening of the financing gap, restrained only minimally
 by the edging up of financing costs. The household sector's acquisition of debt should be
 well maintained through the first quarter of next year.
@@ -245,6 +265,7 @@ Dec-97 4006.4 4005.0 5296.6 5295.7 1059.6 1059.2
 Jan-98 4021.4 4018.7 5321.8 5320.0 1058.9 1058.0
 Feb-98 4036.5 4032.5 5351.1 5348.5 1058.3 1056.8
 Mar-98 4050.9 4045.9 5380.0 5376.9 1057.4 1055.2
+1.0 to 5.0 2.0 to 6.01997 Annual Ranges:
 Directive Language
 (14) Presented below is draft wording for the operational paragraph that includes the
 usual options for Committee consideration.
@@ -264,6 +285,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+96 -- High
+-- Low
+97 -- High
+-- Low
 Monthly
 Nov 96
 Dec 96
@@ -298,6 +323,9 @@ Daily
 Oct 31 97
 Nov 6 97
 Nov 7 97
+8.50
+8.50
+8.50
 p - preliminary data
 Strictly Confidential (FR)-
 Class II FOMC
@@ -309,8 +337,17 @@ nontransactions components total loans
 Period M1 M2 M3 L and U. . other' total'In M2 In M3 only investments' goverment'
 Levels (Sbillions):
 Monthly
+1997-MAY 1062.8 3880.9 2818.1 1173.3 5054.2 6249.2 3902.0 3789.7 10969.9 14759.6
+JUNE 1063.1 3894.4 2831.3 1179.4 5073.7 6271.5 3920.5 3776.5 11009.3 14785.8
+JULY 1062.1 3905.3 2843.2 1212.1 5117.4 6305.7 3948.8 3779.4 11058.7 14838.1
+AUG. 1069.6 3940.5 2870.9 1228.0 5168.5 6379.7 3958.7 3784.5 11110.8 14895.3
+SEP. 1060.8 3960.0 2899.3 1246.3 5206.4 3976.8
 Weekly
 1997-SEP. 1 1079.8 3961.0 2881.1 1239.3 5200.2
+8 1062.2 3949.4 2887.2 1245.1 5194.5
+15 1055.4 3955.8 2900.5 1247.8 5203.7
+22 1055.3 3964.4 2909.2 1243.5 5208.0
+29 1062.0 3967.8 2905.9 1250.2 5218.0
 OCT. 6 1067.5 3976.2 2908.7 1247.6 5223.8
 13 1051.4 3968.1 2916.7 1269.4 5237.5
 20 p 1056.5 3981.5 2925.0 1260.6 5242.1
@@ -333,6 +370,9 @@ OCT. 390.2 398.4 283.2 1246.3 941.0 512.0 288.1 480.9 196.0 105.1 187.1 476.8 47
 NOV. 392.5 402.2 276.8 1259.0 943.9 515.2 292.0 483.4 195.3 107.1 187.0 480.0 483.2 12.2
 DEC. 395.2 402.6 274.8 1271.0 945.7 521.5 299.3 491.5 194.1 113.9 187.0 456.5 495.5 12.2
 $ *
+1997-JAN. 397.0 401.6 272.5 1282.5 946.8 525.7 296.3 493.3 198.3 117.5 186.7 436.1 509.1 11.9
+FEB. 400.5 404.3 267.3 1290.5 948.2 530.6 305.4 500.1 202.2 119.7 186.4 437.6 517.5 12.7
+MAR. 402.4 403.1 261.5 1304.3 947.4 538.3 311.8 509.1 200.6 121.7 186.3 441.5 525.9 13.5
 APR. 403.7 395.6 257.7 1321.1 948.9 548.1 311.6 522.1 204.1 126.6 186.2 446.6 537.8 12.8
 MAY 406.1 395.7 252.8 1320.9 953.3 543.9 311.6 523.6 204.6 133.5 186.2 451.7 543.9 13.1
 JUNE 407.7 397.2 250.1 1325.4 957.9 548.0 318.9 533.0 198.8 128.8 186.3 442.9 555.9 12.6
@@ -349,16 +389,159 @@ Treasury bills Treasurycoupons Federal Net change
 SNet purhases 3 agencies outright
 Period Net 2 Redemptions Net witNet pur s Redemptions Net redemptions holdings
 purchases (-) change 1 1-5 5-10 over 10 (-) Change total
+4 Net RPs
+1994
+1995
+1996
+1996 ---01
+---02
+---03
+--- 04
+1997 ---Q1
+---02
+---03
+1996 November
+December
+1997 January
+February
+March
+April
+May
+June
+July
+August
+September
+October
 Weekly
 July 30
 November 5
 Memo: LEVEL (bil. $) 6
 November 5
+17,484
+10,932
+17,484
+10,032
+9.901
 - 3,399
 --- 6,502
 --- 4,602
 --- 6,502
 -- 596
+9,916 3,575 3,606
+5,366 1,432 2,529
+3,898 1,116 1,655
+1,839
+2,060
+3,985
+5,823
+1,042
 --- 1,117
 1,233 1,894
+1,125
+2,861
+1,924
+1,102
+2,797
+90.3 38.4 45.4
+2,337
+1,776
+2,015
+1,228
+787
+607
+376
+598
+416--..
+..- °
+15,493
+7,941
+5,179
+-1,228
+2,691
+3,716
+5,314
+9,451
+1,089
+-607
+1,943
+3,978
+1,548
+3,206
+4,696
+1,686
+1,002
+942
+1,003
+230
+498
+571
+10
+12
+164
+15
+70
+35
+521
+15
+35
+26
+32,035
+16,970
+14,670
+-1,336
+5,952
+3,637
+6,417
+5,084
+13,555
+6,492
+-12
+-793
+1,916
+3,961
+5,530
+3,206
+4,818
+-885
+-179
+1,581
+371
+-7,412
+-1,023
+5,351
+-8,879
+2,959
+-2,454
+13,726
+-18,046
+11,984
+45,997
+584
+9,518
+-10,151
+-7,371
+-524
+41,665
+-42,664
+12,984
+-11,565
+30,846
+26,716
+56,347
+7,178
+-3,773
+9,191
+1,954
+12,012
+6,012
+2,917
+7,566
+3,972
+19,288
+2,984
+-1,346
+39,422
+3,128
+429.4 -14.7
+1 year 1-5 5-10 over 10 total
 November 5

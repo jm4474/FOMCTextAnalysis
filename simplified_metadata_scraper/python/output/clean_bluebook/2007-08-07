@@ -92,6 +92,8 @@ funds rate unchanged at 5¼ percent was widely anticipated, but its assessment t
 Class I FOMC - Restricted Controlled (FR) Page 2 of 43
 Chart 1
 Asset Market Developments
+5000
+Basis Points
 BBB-   
 A
 Jan. Mar. May Jul.
@@ -103,6 +105,8 @@ Morgan’s prepayment model.
 June
 FOMC
 Last daily observation is for August 1, 2007.
+120
+Basis points
 June
 FOMC
 Investment Bank CDS Spreads*
@@ -117,6 +121,8 @@ FOMC
 Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Last daily observation is for August 2, 2007.
+170
+Index(12/31/00=100)
 Wilshire
 Dow Jones Financial
 June
@@ -131,6 +137,8 @@ Corporate Earnings Growth* Percent
 Source. I/B/E/S for S&P 500 EPS.
 Q2
 Q1 e
+100
+Percent
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -244,6 +252,10 @@ outstanding long-term RPs decreased by $1 billion, to $10 billion.
 Class I FOMC - Restricted Controlled (FR) Page 6 of 43
 Chart 2
 Interest Rate Developments
+2008
+4.0
+6.0
+Percent
 August 2, 2007
 June 27, 2007
 Expected Federal Funds Rates*
@@ -253,8 +265,12 @@ Implied Distribution of Federal Funds Rate Six
 Months Ahead*
 Recent:  08/02/2007 
 Last FOMC:  06/27/2007
+35
+Percent
 *Derived from options on Eurodollar futures contracts, with term premium 
 and other adjustments to estimate expectations for the federal funds rate.
+280
+Percent Basis points
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)*
 Implied Volatilities
@@ -262,6 +278,8 @@ Implied Volatilities
 structures for the expected federal funds rate and implied volatility.
 June
 FOMC
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
@@ -274,6 +292,8 @@ since Last FOMC Meeting*
 Years Ahead
 *Forward rates are the one-year rates maturing at the end of the year shown
 on the horizontal axis that are implied by the smoothed Treasury yield curve.
+90
+Percent $/barrel
 Next Five Years (left axis)
 Five-to-Ten Year Forward (left axis)
 Spot WTI (right axis)
@@ -294,6 +314,7 @@ unchanged, but the long-term measure increased slightly.
 heightened credit concerns.  The spread on the iTraxx Crossover index, a traded
 index of fifty of the most liquid CDS on mainly sub-investment-grade nonfinancial
 corporations in Europe, climbed about 165 basis points over the period to around
+400 basis points.  Amid noticeably higher volatility, share prices in most major foreign
 industrial countries dropped between 4 and 5 percent (Chart 3).  Yields on long-term
 sovereign securities in these countries fell 10 to 30 basis points, somewhat less than
 the declines recorded on comparable U.S. Treasury securities.  Policy expectations
@@ -380,6 +401,10 @@ businesses is estimated to have picked up to about a 10¾ percent rate last quar
 supported by substantial bond issuance, hefty growth in C&I loans, and a rise in
 commercial paper outstanding; borrowing continued to be spurred by a large volume
 of merger and acquisition activity.
+3 The increases in various spreads and implied volatilities were rapid and highly correlated in 
+recent weeks.  The recent movements in these measures are broadly comparable to those 
+seen during the summer of 2002, a time when markets were roiled by several high-profile 
+corporate defaults and scandals.
 Class I FOMC - Restricted Controlled (FR) Page 11 of 43
 Chart 4
 Debt and Money
@@ -389,6 +414,9 @@ Q1
 Q2
 Q3
 Q4
+10.0
+8.8
+7.0
 Growth of Debt of Household Sector
 Percent
 Quarterly, s.a.a.r.
@@ -406,12 +434,16 @@ Commercial Paper
 Bonds
 Changes in Selected Components of Debt of
 Nonfinancial Business*
+2005 H1 H2 Q1 Q2 July
+2006 2007
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 e Estimated.
 Growth of M2
 s.a.a.r.
 Percent
+2005 H1 H2 Q1 Q2 July
+2006 2007
 e Estimated.
 M2 Velocity and Opportunity Cost
 VelocityPercent
@@ -476,6 +508,8 @@ real funds rate will induce aggregate demand to grow a bit more slowly than pote
 Class I FOMC - Restricted Controlled (FR) Page 14 of 43
 Chart 5
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 Short-Run and Medium-Run Measures
 Actual real federal funds rate
@@ -523,17 +557,27 @@ a notch less than in June—reaching a peak of about 6 percent in mid-2008—and
 then declines gradually to about 3¾ percent over the following half-decade.  For
 each inflation goal, the outcomes for unemployment and core inflation are broadly
 unchanged from June.
+4 The actual real funds rate is constructed as the current nominal rate less the average core 
+PCE inflation rate over the past year. 
+5 The characteristics of the extension are described in the memo to the Committee  
+by Rochelle Edge, “The Extended Greenbook Forecast,” August 2, 2007. 
+6  In conducting these simulations, policymakers and participants in financial markets are 
+assumed to understand fully the forces shaping the economic outlook (as summarized by  
+the extended Greenbook projection), whereas households and firms form their expectations 
+using more limited information.
 Class I FOMC - Restricted Controlled (FR) Page 16 of 43
 (16) As shown in Chart 7, the outcome-based policy rule prescribes a funds rate
 path that remains close to 5 percent through the remainder of the decade and
 then declines to about 4¼ percent by the end of 2012, whereas forward contracts
 indicate that financial market participants expect the funds rate to decline to about
+4½ percent by late 2008 and then rise gradually to a plateau of about 5 percent.
 Confidence intervals derived from interest rate caps exhibit somewhat greater
 downward skewness than in the June Bluebook, and the upper bounds of these
 intervals are noticeably lower than those implied by stochastic simulations of the
 FRB/US model, especially over the next two years or so.  The simple policy rules
 proposed by Taylor (1993, 1999)—as well as a variant of the Taylor (1999) rule with
 a higher intercept—prescribe current settings of the funds rate that are about 10 to
+20 basis points higher than in June, reflecting the modest upward revision in the
 staff’s estimate of the current level of the output gap.  By contrast, the first-difference
 rule does not involve the staff’s assessment of the current level of the output gap
 but instead responds to the projected one-year change in the output gap at a
@@ -543,6 +587,7 @@ a bit more quickly.
 Short-Run Policy Alternatives
 (17) This Bluebook presents three options, summarized in Table 1, for the
 Committee’s consideration.  Alternative A would lower the target federal funds rate
+25 basis points to 5 percent.  Alternative B would maintain the target for the federal
 funds rate at 5¼ percent.  Alternative C envisions raising the target to 5½ percent.
 The draft language to characterize recent information on economic activity differs
 across the three options:  Alternatives A and B refer explicitly or implicitly to recent
@@ -822,12 +867,14 @@ news that suggested greater downside risk, the market reaction to a tightening m
 this time could well be unusually sharp.
 Money and Debt Forecasts
 (28) Under the Greenbook forecast, M2 is projected to expand about
+5¼ percent this year and 4½ percent next year.  Those growth rates are about ¼
 percentage point slower than in the June forecast, reflecting the downward revision in
 the Greenbook forecast for nominal GDP growth.  Opportunity costs of holding
 money are expected to edge down further over the remainder of this year, as deposit
 rates continue to catch up with earlier increases in short-term interest rates, and
 accordingly M2 grows a bit faster than nominal GDP.
 (29) Growth of domestic nonfinancial sector debt is projected to slow from
+8 percent in 2006 to 6½ percent this year and about 5¼ percent in 2008.  These
 projections are a shade below those in the June forecast, primarily reflecting the
 downward revisions to residential investment and business fixed investment in the
 staff forecast.  Growth of household debt is projected to slow from 8¾ percent
@@ -837,6 +884,7 @@ growth of mortgage debt this year and next.  As in June, the staff predicts that
 corporate borrowing will slow in the second half of this year, as the pace of funding
 for merger and acquisition activity and share repurchases moves down from its recent
 Class I FOMC - Restricted Controlled (FR) Page 27 of 43
+25 bp Easing
 No Change/
 Greenbook Forecast* 25 bp Tightening
 Monthly Growth Rates

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 August 14, 1987
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -21,6 +29,7 @@ MONETARY POLICY ALTERNATIVES
 Recent Developments
 (1) M2 growth picked up a little in July, although at a 2-3/4 per-
 cent annual rate, expansion of this aggregate was less than the Committee's
+5 percent path for June to September and fell further below the 5-1/2 percent
 lower bound of its 1987 target range. The strengthening of M2 was accounted
 for entirely by a turnaround in M1, which edged up at a 1-3/4 percent pace in
 July after the substantial runoff in June. Demand deposits declined in July
@@ -38,6 +47,7 @@ ably wider than in 1986 or early this year. Rates on short-term small time
 deposits already had moved into closer alignment with market rates in June,
 and yields on longer-term accounts continued to rise in July as the market
 yield curve steepened. In response, small time deposits increased at a
+12 percent clip in July, a little faster than in June, which ended 13 con-
 secutive months of outflows.
 KEY MONETARY AGGREGATES
 (Seasonally adjusted annual rates of growth)
@@ -60,6 +70,7 @@ pe-Preliminary estimate.
 (3) M3 expanded at only a 2 percent rate in July, considerably
 below the 7-1/2 percent path set at the last Committee meeting, placing this
 aggregate just above the bottom of the parallel band associated with its
+5-1/2 to 8-1/2 percent 1987 target range. Bank credit was flat last month;
 with their M2 deposits growing moderately, banks reduced their managed liabil-
 ities, including CDs and RPs in M3, and advanced a sizable volume of funds
 to their foreign branches, which probably contributed to less aggressive
@@ -143,6 +154,7 @@ funds rate range 3 to 7 4 to 8 5 to 9
 (9) Alternative B is based on retaining $500 million of adjust-
 ment plus seasonal borrowing as the assumption in constructing reserve paths.
 Federal funds would be likely to trade mainly in the lower portion of a
+6-1/2 to 6-3/4 percent range, except perhaps around the mid-September corpo-
 rate tax date, when unusually large payments may impart some temporary upward
 pressure to the funds rate. With no major changes in supply anticipated, at
 least until the time of the next expiration of the Treasury debt ceiling on
@@ -250,6 +262,7 @@ from its fourth-quarter base. While the easing contemplated under this
 alternative probably would have a pronounced effect on money growth in the
 fourth quarter, whether M2 could hit the 5-1/2 percent lower bound of its
 range without a further easing is uncertain. To make up the shortfall, a
+10-1/2 percent September-to-December growth rate would be needed (or 8-3/4
 percent to hit the bottom of the growth cone by December). For M3, the 7-1/2
 percent growth foreseen for August and September under alternative A would
 lift this aggregate to around the lower bound of its annual range. Prospects
@@ -327,6 +340,10 @@ money
 federal Treasury bills sondary pcommr market bank
 funds econdary market paper mutual prime
 - *1 I-
+1986--Righ
+Low
+1987--High
+Low
 Monthly
 1987 July
 Aug.
@@ -334,16 +351,56 @@ Sep.
 Oct.
 Nov.
 Dec.
+1987--Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
 Weekly
 May 6
+13
+20
+27
 July 1
 8
+15
+22
+29
 Aug. 5
 Aug. 12
 Daily
 Aug 7
 Aug. 13
 Aug. 14
+9.55
+5.75
+7.62
+5.95
+6.75
+6.58
+6.57
+6.67
+6.74p
+7.21
+5.09
+5.98
+5.33
+5.98
+5.88
+5.85
+5.96
+5.96
+7.30
+5.16
+6.20
+5.36
+6.13
+6.07
+6.08
+6.01
+6.04
 - 8.25
 - 8.25
 - 8.25
@@ -358,6 +415,48 @@ B d  market pr
 im
 ary m
 a rket
+8.60
+6.24
+8.19
+6.37
+8.01
+7.98
+7.99
+7.90
+7.86p
+9.38
+7.02
+8.78
+7.03
+8.72
+8.72
+8.70
+8.63
+8.57p
+9.52
+7.16
+8.95
+7.34
+8.95
+8.95
+8.93
+8.85
+8.77p
+10.83
+9.03
+10.45
+8.79
+10.05
+10.05
+10.17
+10.45
+10.24
+9.09
+7.62
+8.01
+7.47
+7.73
+7.78
 Donoghue's Money Fund Report. Columns 12 and 13 are 1-day quotes for Friday and Thursday, respectively, initial contract rate on new commitments for one-year, adjustable-rate mortgages (ARMs) at SALs offering both
 following the end of the statement week. Column 13 is the Bond Buyer revenue index. Column 14 1s the FNMA FRMs and ARMs with the same number of discount points.
 purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments on the Friday following the
@@ -369,6 +468,9 @@ Seasonally adjusted
 AUi. IJ7 1987
 PERCENT ANNUAL GBOWTI;
 ANMUALLI (0I1 TO UIV)
+1984
+1985
+1986
 QUAITERLI AVBBAGE
 380 UTH. 1986
 4TH QTH. 1986
@@ -397,14 +499,181 @@ Money stock measures and liquid assets
 nontransactions
 M1 M2 components M3 L
 in M n M3 only[;, M -7 i -Y
+5.4
+12.1
+15.3
+16.5
+17.0
+13.1
+11.0
+-0.5
+3.4
+17.5
+4.5
+-10.4
+739.5
+750.3
+753.1
+746.6
+747.7
+750.3
+743.5
+7.9
+8.
+8.9
+11.8
+11.0
+7.9
+10.7
+6.4
+9.5
+-0.3
+1.4
+5.7
+0.J
+1.0
+2.8
+2824.7
+2838.2
+2839.0
+2841.3
+2847.9
+3 r 4
+8.6
+7.8
+6.9
+8.6
+-0.3
+0.7
+1.6
+2085. 2
+2087. 9
+2085.9
+2094.7
+2100.2
+23.2
+3.4
+8.4
+6.2
+3.2
+6.4
+7.0
+6.9
+12.9
+-7.4
+5.5
+7.7
+22.6
+21.8
+-1.0
+698.4
+700.9
+714.1
+727. 1
+726.5
+5 i 6
+12.2
+8.5
+8.1
+9.6
+2.4
+4172.4
+4186.0
+4218.0
+4222.8
+3523. 1
+3539. 1
+3553.0
+3568.5
+3574. 4
 Bank credit
 Stoal loans
 and
 investments'
+11.2
+10.2
+9.8
+10.6
+8.8
+10.1
+7.0
+16.1
+0.9
+3.8
+2126.2
+2147.3
+2160.6
+2166b .
+2168.1
 Domestic nonfinancial debt 2
 US I- -
 government 2 other 2 Itotalz
+8--I 9-i1
+16.0
+15.3
+14.1
+14.7
+11.5
+9.7
+9.5
+13.8
+10.0
+10.8
+7.2
+14.4
+20.0
+15.1
+14.9
+1828.2
+1841.1
+1864.2
+I887.4
+1894.4
+13.4
+12.9
+12.7
+11.9
+12.3
+10.6
+10.2
+15.2
+14.3
+9.7
+11.0
+14.7
+11.2
+5.7
+9.0
+5952.5
+6004.0
+6050.3
+6092.1
+6137.9
+20 748.U
+27 P 749.2
 AUG. J P 751.8
+1/ ANNUAL BATES FOR UANK CREDIT ABE ADJUSTED POU A IMANSFER OF LOANS PFRO CONTIENNTAL ILLINOIS NATIONAL BANK TO THE FDIC
+BGINNING SEPTEMBUE 26, 19Y4.
+2/ DBUT DATA ARE ON A MONTHLY AVERAGE BASIS, UEBIVEDU l AVERAGING END-OF-HONTH LEVELS OF ADJACENT MONTHS, AND HAVE BEEN ADJUSTED
+TO BEHOVE DISCONTINUITIES.
+P-PBELININABY
+13.9
+1J.4
+13.2
+11.1
+14.0
+13.5
+9.1
+11.8
+16.0
+10.6
+9.8
+7.9
+7780.7
+7845.1
+7914.6
+7979.5
+8032.3
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 AUG. 17, 1987
@@ -416,43 +685,155 @@ NSA deposits' and broker only deposits 3  securities lances
 dealer 2
 ANNUALLI(4T8 QTR):
 JULI P 192.1 296.3 252.5 74.0 548.1 416.8 858.9 210.4 83.4 464.9 96.5 86.8
+1/ INCLUDES RETAIL BBPOURCASE AGRBIBEMTS. ALL IRA AND 1KOGr ACCOUNTS At CONHIBCIAL BANKS 1AN THRIFT INSTITUTIONS ANN SUBTRACTED
+P808 SSALL TIBE DEPOSITS.
+2/ EXCLUDBS IRA AND KBOGH ACCOONTS.
+3/ NIT OF LARGE DE10NINATION TIRE DEPOSITS RELD 1 O 80811 ARaKET IOTUAL FODS AND TIFIT INSTITUTIONS.
 P-PB1E18 IIMAB
 STRIC1LY CONFIDENTIAL IFH)
 Net Changes in System Holdings of Securities' CLASS II-FOMC
 Millions of dollars, not seasonally adjusted
+1986--QTR. I
+II
 III
 IV
+1987--QTR. I
+qrR. II
+1987--Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
 July 1
 8
+22
+29
 Aug. 5
 12
 LEVEL--Aug. 12
 ($ billions)
 Treasury bills
 net change'
+5,337
+5,698
+13,068
+3,779
+14,596
+19,099
+-2,821
+7,585
+4,668
+9,668
+-2,714
+5,823
+414
+-4,189
+1,062
+3,573
+1,697
+553
+-4,909
+1,427
+446
+141
 Treasury coupons net purchases'
+1,349
+190
+1,794
+1,896
+1,938
+2,185
+893
+-252
+5,036
+1,394
+-200
+535 1,394
 - -75
 - -125
 -- 5
+307 2,803
+383 3,653
+441 3,440
+293 4,185
+158 1,476
+158 1,476
 - -252
 920 8,948
 - -252
+669 6,457
+251 2,491
+- -200
+251 2,491
 -- -- -75
 -- -- -125
 -- -- 5
 Federal agencies net purchases'
 within 15 10 over t total
 1-year _ _ . _ L
+133 360 - - 494
 August 17, 1987
 Net change
 outright holdings Net RPs*
+8.491
+8,312
+16,342
+6,964
+18,619
+20,178
+-2,861
+7,535
+4,577
+-3,676
+14,735
+304
+-4,441
+1,062
+9,993
+1,697
+3,044
+1,427
+446
+141
+334
+185
+684
+1,461
+-5,445
+1,450
+3,001
+10,033
+-3,580
+-356
+4,044
+9,925
+-14,254
+2,121
+-10,701
+-4,723
+1,170
+15,801
+-16,634
+2,954
+906
+975
+78
 - 15,104
 11,595
 - 11,981
 2,247
 3,632
+-7,511
+857
+-2,249
+2,484
+604
+-1,392
 I. Change from end-ofperiod to end-of period. 5. In addition to the net purchase of securities, also reflects changes in System holdings of bankers' acceptances,
 2. Outright transactions In market and with foreign accounts, and redemptions (-) in bill auctions direct Treasury borrowing from the System and redemptions (-) ol agency and Treasury coupon issues
 3. Outright transactions in market and with foreign accounts, and short-term notes acquired in exchange for 6 Includes changes in RPs ( +), matched sale-purchase transactions (-), and matched purchase sale transactions ( )
 maturing bills Excludes redemptions, maturity shifts, rollovers of maturing coupon issues, and direct Treasury
 borrowing from the System.
+4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity shilts.

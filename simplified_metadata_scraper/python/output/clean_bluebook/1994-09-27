@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -274,6 +282,7 @@ Sep-94 3596.6 3596.6 4243.0 4243.0 1152.7 1152.7
 Oct-94 3599.6 3597.7 4246.6 4245.5 1154.5 1154.0
 Nov-94 3603.9 3598.8 4251.5 4248.8 1156.9 1155.2
 Dec-94 3609.5 3601.8 4256.2 4251.5 1159.6 1156.8
+1.0 to 5.0 0.0 to 4.01994 Target Ranges:
 In addition, declines in mortgage prepayments will continue to depress
 demand deposits. These factors will place a particular drag on liquid
 accounts, and M1 will expand at only a 2-1/2 percent rate over the
@@ -324,6 +333,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+93 -- High
+-- Low
+94 -- High
+-- Low
 Monthly
 Sep 93
 Oct 93
@@ -358,6 +371,16 @@ Daily
 Sep 16 94
 Sep 21 94
 Sep 22 94
+5.06
+4.07
+6.71
+4.44
+6.48
+6.62
+6.71
+6.72
+6.81
+6.80
 Table 1 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures C FOMC
 Seasonally adjusted SEPTEMBER 2. 1994
@@ -369,8 +392,17 @@ Period M1 M2 M3 L and U. S. other' total2
 In M2 In M3 only investments' government
 Levels ($Billions):
 Monthly
+1994-APR. 1141.1 3592.1 2451.0 635.8 4227.9 5163.0 3194.6 3390.6 9149.7 12540.2
+MAY 1142.9 3596.1 2453.3 630.2 4226.4 5163.2 3198.9 3402.5 9189.1 12591.5
+JUNE 1146.4 3589.4 2443.0 637.1 4226.4 5155.0 3207.5 3416.3 9211.4 12627.7
+JULY 1153.6 3603.0 2449.4 644.8 4247.8 5186.0 3241.6 3419.8 9234.5 12654.3
+AUG. p 1151.8 3596.8 2445.0 644.1 4240.9 3255.0
 Weekly
 1994-AUG. 1 1158.6 3608.2 2449.6 645.2 4253.4
+8 1147.7 3590.7 2443.0 644.6 4235.3
+15 1148.3 3596.9 2448.6 641.3 4238.2
+22 1154.2 3600.5 2446.4 645.1 4245.6
+29 1154.4 3597.5 2443.2 645.1 4242.6
 SEP.. 5 p 1155.4 3594.0 2438.6 644.6 4238.6
 12 p 1152.0 3595.4 2443.4 648.6 4243.9
 p preliminary
@@ -383,25 +415,193 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Spurs 3 agendes outrightPeriod Net Redeptions Net Ne purchases Redemptions Net redemptions holdings 5
 purchases (-) change w n 1-5 5-10 over 10 (.) Change total 4 Net RPs
+1994 ---Q1
+--- 02
+1993 September
+October
+November
+December
+1994 January
+February
+March
+April
+May
+June
+July
+August
 Weekly
 June 8
+15
+22
+29
 August 3
 10
 17
+24
+31
 September 7
 14
 21
 Memo: LEVEL (bil. $) 6
 September 21
+19,038
+11,486
+17,249
 --- 7,749
 --- 1,268
+168 8,232
 --- 2,164
 --- 6,639
+20,038
+13,086
+17,717
+7,749
+1,268
+8,700
+2,164
+6,639
+366
+1,396
+5,911
+1,394
+1,264
+900
+1,101
+1,395
+4,143
+246
+147
+3,043 6,583
+1,096 13,118
+1,223 10,350
+279 1,441
+244 2,490
+511 3,700
+189 2,719
+147 1,413
+364 2,817
+147
+209
 .. ~
 .. ~
 .. ~
+100
+2,619
+1,413
+2,817
+1,280
+2,818
+4,168
+716
+1,147
+1,297
+1,008
+1,103
+1,117
+1,103
+1,117
+375
+2,333
+3,457
+705
+1,110
+817
+826
+618
+896
+87.1 26.1 34.3
 --- 11,282
 --- 19,365
 --- 3,141
 --- 4,990
+6,326
+--- 4,742
+616 2,665
+440 4,754
+100
+4,642
+3,281
+4,599
+292
+632
+289
+91
+526
+166
+411
+307
+322
+63
+302
+20
+27,726
+30,219
+35,374
+2,851
+12,648
+7,067
+12,807
+4,418
+11,086
+4,656
+857
+5,996
+5,954
+-817
+1,163
+4,073
+5,520
+1,480
+4,085
+-322
+3,750
+-26
+214
+147
+-302
+-20
+4,459
+-20
+-1,614
+-13,215
+-461
+10,624
+-8,644
+4,455
+-11,663
+17,719
+1,262
+-6,723
+7,232
+3,947
+-7,757
+-3,946
+8,208
+5.441
+4,070
+-5,023
+3,335
+-5,396
+2,127
+435
+94
+2,042
+1,009
+-864
+-3,057
+2,321
+144
+-5,421
+4,056
+4,298
+-4,550
+-1,916
+-1,400
+900
+1,101
+246
+147
+409
+501
+1 year 1-5 5-10 over 10 total
 September 21

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (F.R.) June 22, 2001
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -22,6 +30,7 @@ of easing.  Since the meeting, news on econom ic activity and corporate earnings
 in the United S tates and abroad–has generally been weaker than market expecta tions.
 As a consequence, the trajectory for the expected funds rate shifted down further,
 triggering declines in other money market rates, which ended the intermeeting period
+30 to 50 basis points lower.  Market prices now embody at least a quarter-point easing
 at the upcoming meeting and a l ittle more than an even chance of a half-point  move.
 Yields on long-term Treasury and investment-grade corporate securities fell about 15
 to 35 basis points over the intermeeting period (chart 1).  Rates on speculative-grade
@@ -31,6 +40,8 @@ Chart 1
 Financial Market Indicators
 Jun Aug Oct Dec Feb Apr Jun Aug
 2001 2002
+4.75
+Percent
 May 14, 2001
 June 22, 2001
 Expected Federal Funds Rates Estimated from
@@ -39,9 +50,13 @@ Financial Futures*
 allowance for term premia and other adjustments.
 May Jul Sep Nov Jan Mar May
 2000 2001
+7.0
+Percent
 Selected Treasury Yields
 May Jul Sep Nov Jan Mar May
 2000 2001
+12
+Percent Percent
 High Yield
 (left scale)
 Ten-year BBB
@@ -51,6 +66,8 @@ Ten-year Swap
 Selected Private Long-Term Yields
 May Jul Sep Nov Jan Mar May
 2000 2001
+300
+Basis Points
 High Yield
 (left scale)
 Ten-year BBB
@@ -60,12 +77,16 @@ Selected Risk Spreads*
 175 and a ten-year BBB index versus rates on ten-year swaps.
 May Jul Sep Nov Jan Mar May
 2000 2001
+160
+Basis Points
 Spread of Low-Tier CP Rate
 over High-Tier CP Rate*
 Daily
 *30-day nonfinancial, A2/P2 rate less AA rate.
 May Jul Sep Nov Jan Mar May
 2000 2001
+140
+Index(5/31/00) = 100
 Wilshire 5000
 Selected Equity Indexes
 equity prices, which have declined about 1½  percent on net since the May meeting.
@@ -90,8 +111,12 @@ other industrial-country central banks did not act during the intermeeting perio
 Bank of Canada eased  by a quarter point near the end of M ay.
 Chart 2
 Exchange Rates and Financial Flows
+1999 2000
+J F M A M J
 Growth of Nonfederal Debt
 p - Preliminary.
+1999 2000
+J F M A M J
 Growth of Business Debt
 Sum of Selected Components*
 p
@@ -109,6 +134,8 @@ Trading Partners
 Index(5/31/00) = 100
 Nominal Trade-Weighted Dollar Exchange Rates
 Solid vertical line indicates last FOMC meeting.
+1999 2000
+J F M A M J
 Growth of M2
 p - Preliminary.
 (3)  The dollar’s value against the currencies of other important trading
@@ -138,6 +165,7 @@ huge amounts in the bond market in May, and data for early June suggest another
 strong month.  A portion of this issuance was used to repay bank loans and
 commercial paper, but much of it represented new financing as internal funds have
 dropped off.  Although the growth of household  debt is projected  to slow to about a
+7¼ percent annual rate for the second quarter as a whole, it remains higher than that
 of disposable income, pushing up  debt-servicing burdens despite declines in consumer
 loan rates.  Problems servicing debt continued to increase in certain market segments
 but restraint on  credit supplies has been quite lim ited.  State and local governments
@@ -224,6 +252,7 @@ achieve this outcome, the real funds rate needs to rise above its long-run equil
 level to induce slack in the economy.  In this exercise , the nomina l rate peaks at 6
 percent by the end of 2004, enough to push the unemployment rate above 6 percent
 and bring inflation down to its target level by 2006.  Policy, which begins to ease in
+2005 in anticipation of the completion of the d isinflation, would presumably ease
 further after 2006 to bring the unemployment rate back to the NAIRU.
 (8) The 2½ percentage point decline in the funds rate so far this year
 represents the swiftest monetary policy easing since the autumn of 1984.  To provide
@@ -234,6 +263,7 @@ baseline.  The blue dashed line shows the path predicted by a Taylor rule .  The
 employed here uses standard coefficients on the contemporaneous inflation and
 output gaps beginning in 2001:Q1, but incorporates the baseline’s time-varying
 equilibrium real funds rate and its inflation target of 1¾ percent.  In the first half of
+2001, policy eased considerably more than this  Taylor rule would have suggested.
 One possible explanation for this discrepancy is that policy choice was informed by
 more than the limited information used in the Taylor rule, especially forecasts of the
 economy.  To provide a perspective on this possibility, the red dotted line presents the
@@ -379,10 +409,14 @@ the equilibrium real federal funds rate presented in the previous bluebook.7  Th
 Chart 8
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5
+Percent
 Actual Real Funds Rate
 Historical Average: 2.81
   (1966Q1-2001Q1)
 Current Rate
+25 b.p. Easing
+50 b.p. Easing
 for the current equilibrium rate is roughly the same as that shown last time.8  The ½
 percentage po int policy easing a t the May meeting has put the estimated real funds rate
 noticeably below that range.  This gap provides a measure of the stimulus from the
@@ -547,8 +581,16 @@ Surprise
 (b. p.)
 Wilshire
  Index
+2-Year
+Treasury
 Yield
 (b. p.)
+10-Year
+Treasury
+Yield
+(b. p.)
+10-Year
+TIPS
 Yield
 (b. p.)
 Memo:
@@ -586,4 +628,9 @@ Growth Rate
     Dec-2000 Jun-2001     10.4     10.4     10.4              13.3     13.3     13.3              10.4     13.3      4.5
     May-2001 Dec-2001      6.9      6.3      5.8               8.6      8.3      8.0               5.8      8.0      4.9
     Jun-2001 Dec-2001      6.6      6.0      5.4               8.0      7.7      7.4               5.4      7.4      4.8
+2000 Q4 May-2001     10.3     10.3     10.3              13.2     13.2     13.2              10.3     13.2      4.5
+     2000 Q4 Jun-2001     10.0     10.0     10.0              13.0     13.0     13.0              10.0     13.0      4.7
+     2000 Q4 Dec-2001      8.6      8.3      8.0              11.0     10.8     10.7               8.0     10.7      4.8
+1999 Q4  2000 Q4      6.2      6.2      6.2               9.2      9.2      9.2               6.2      9.2      5.3
+     2000 Q4  2001 Q4      8.9      8.6      8.3              11.2     11.1     10.9               8.3     10.9      4.9
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.

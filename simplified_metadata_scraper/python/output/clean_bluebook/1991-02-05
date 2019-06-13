@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -49,6 +57,7 @@ average basis, the federal funds rate ranged only from a high of 7-1/4
 percent in the period ended December 26 to a low of about 6-3/4 percent in
 the subsequent period. So far in the current maintenance period, clearing
 demands for balances have pulled the funds rate up to an average of about
+7-1/4 percent.
 (3) The monetary policy easings and the passing of year-end
 were the dominant influences on other short-term credit markets over the
 intermeeting period. Treasury bill rates have fallen about 75 basis
@@ -71,6 +80,7 @@ because of Federal Reserve actions, the length and depth of the recession
 will be limited.
 (4) Dollar exchange rates fluctuated widely over the intermeet-
 ing period. The dollar's weighted average exchange value rose about
+3 percent from the December meeting through mid-January, primarily on the
 basis of safe-haven demands associated with developments in the Middle
 East and turmoil in the Soviet Union. In the flush of optimism generated
 by reports out of the Persian Gulf on the first day of the war, the dollar
@@ -98,9 +108,14 @@ privately insured banks and credit unions in Rhode Island and the failure
 of the Bank of New England. Noncompetitive tenders at Treasury auctions
 have been unusually strong in recent weeks, and, within M2 (as adjusted
 above), all the increase was accounted for by money funds, which grew at a
+30 percent pace. Core deposits remained stagnant last month, despite the
 downward movement in market interest rates.
 (6) Although bank credit edged lower in January, M3 growth
 picked up to a 4 percent rate. Over the last two months, M3 has grown at
+16-1/4 percent rate in January. The drop in transaction balances, how-
+ever, restrained M1 growth to a 1-1/4 percent pace and led to a 6 per-
+cent rate of decline in total reserves. (Reserves have been adjusted to
+remove the effects of the change in reserve requirements.)
 about a 2 percent average rate, compared with the Committee's expectation
 of 1 percent for the November-to-March period. The strength in M3 rela-
 tive to M2 resulted from a pickup in large CD issuance, reflecting a
@@ -160,6 +175,7 @@ the greenbook. For 1993-1995 the baseline strategy extends the logic of
 the greenbook forecast--the maintenance of a small margin of slack in the
 economy to achieve a gradual deceleration of prices--out for three more
 years. Strategy II embodies a tighter monetary policy, as indexed by
+1 percentage point slower M2 growth each year, while strategy III involves
 an easier policy, indexed by 1 percentage point faster M2 growth. The
 baseline forecast for years beyond 1992 is based on simulations using the
 Board's large-scale econometric model; the other strategies are derived
@@ -197,11 +213,59 @@ Unemployment rate
 I
 II
 III
+4-1/2
+3-1/2
+5-1/2
+4
+4
+4
 .3 2
 1-1/4
 2-1/2
+6
+6-1/4
+5-3/4
 (10) In the baseline strategy, the economy begins to recover
 by midyear, and by 1993 settles into a 2-1/4 percent growth rate, the
+4-1/2
+3-1/2
+5-1/2
+3-3/4
+3-1/4
+4-1/4
+2-1/2
+1-3/4
+3-1/4
+6
+6-1/2
+5-1/2
+3-1/2
+2-3/4
+4-1/4
+2-1/4
+1-3/4
+3
+6
+6-3/4
+5
+3-1/4
+2-1/4
+4-1/2
+2-1/4
+2
+2-1/2
+6
+7
+5
+3
+1-3/4
+4-3/4
+2-1/4
+2-1/2
+1-3/4
+6
+6-3/4
+5-1/4
 staff's estimated rate of growth of potential GNP. The modest amount of
 slack that accompanies this strategy, as indicated by the 6 percent
 unemployment rate--about a half percentage point above the estimated
@@ -351,6 +415,7 @@ an unexpectedly weak economy. At the same time, the reduced floors for
 money growth would indicate a willingness of the Committee to tolerate
 rather slow monetary expansion.
 (19) Alternative III reverts to the M2 and debt ranges used for
+1990, rather than affirming the 1/2 percentage point reductions agreed
 to in July, and contains an M3 range 1/2 percentage point higher than the
 range used last year and tentatively set for this year. This alternative
 would seem most appropriate if the Committee were primarily concerned
@@ -444,6 +509,11 @@ Levels in billions
 1990 October 3324.9 3324.9 4110.5 4110.5 821.2 821.2
 November 3325.7 3325.7 4111.0 4111.0 823.3 823.3
 December 3330.5 3330.5 4111.8 4111.8 825.3 825.3
+1991 January 3334.1 3334.1 4125.8 4125.8 826.2 826.2
+February 3347.4 3345.8 4141.7 4140.6 831.7 830.9
+March 3364.5 3360.0 4153.7 4151.0 837.4 835.3
+1990 Target Ranges: 3.0 to 7.0 1.0 to 5.0
+1991 Target Ranges: 2.5 to 6.5 1.0 to 5.0
 M2 in March only a little above the lower bound of its 2-1/2 to 6-1/2
 percent provisional target range. However, given the lags between changes
 in interest rates and money demand, the effects of the recent policy eas-
@@ -471,6 +541,7 @@ Directive Language
 (26) Presented below for Committee consideration is draft
 language relating to the Humphrey-Hawkins ranges for 1991 and to the
 operating paragraph for the intermeeting period.
+1991 RANGES
 The Federal Open Market Committee seeks monetary and
 financial conditions that will foster price stability,
 promote A RESUMPTION OF SUSTAINABLE growth in output on a
@@ -491,6 +562,7 @@ DEPRESS [DEL: had depressed] its growth relative to spending and
 total credit [DEL: more than anticipated. Taking account of the
 unexpectedly strong M3 velocity, the Committee decided in
 July to reduce the 1990 range to 1 to 5 percent. For
+1991, the Committee agreed on provisional ranges for
 monetary growth, measured from the fourth quarter of 1990
 to the fourth quarter of 1991, of 2-1/2 to 6-1/2 percent
 for M2 and 1 to 5 percent for M3. The Committee

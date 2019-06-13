@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
@@ -60,6 +68,7 @@ than they were at the end of June.
 balance, against a broad set of currencies; this performance averages an appreciation against
 the index of the currencies of important developing country trading partners and a
 depreciation against the index of the currencies of major industrial countries. The dollar fell
+8 percent versus the yen, 3 percent against the euro, and 2 percent in terms of sterling. The
 bulk of the dollar's decline against the major currencies started in mid-July amid data
 releases suggesting a pickup in activity in Europe and Japan. Although central banks in
 most industrial countries held their policy rates steady over the intermeeting period, longer-
@@ -78,6 +87,7 @@ markets appeared particularly sensitive to prospects for rising interest rates i
 States. Spreads were further boosted by the news very late in the period that Ecuador
 would seek to reschedule its next Brady debt payment. In total, Brady yield spreads over
 Treasuries widened appreciably, with the Emerging Market Bond Index spread increasing
+150 basis points. The Brazilian realdepreciated about 10 percent against the dollar, but the
 The Desk did not intervene during the period for the accounts of the
 System or the Treasury.
 Mexican peso was little changed on balance, perhaps supported by rising crude oil prices
@@ -114,6 +124,8 @@ out refinancing, while consumer credit has stayed on a slower trajectory relativ
 the year.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1998:Q4
+to
 May Jun. Jul. Jul. 2
 Money and Credit Aggregates
 M1
@@ -132,9 +144,36 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves
+8.8
+11.0
+10.4
+19.4
+13.9
+14.9
+-40.4
+-15.2
+6.2
+6.9
+-3.3
+2.7
 n.a.
 n.a.
 n.a.
+-1.2
+0.1
+-24.8
+-4.0
+7.9
+8.7
+1.4
+5.4
+5.8
+-2.6
+8.4
+-8.8
+2.7
+9.4
+10.0
 Policy Alternatives
 (7) In the staff forecast, bond yields and equity prices holding in their recent
 ranges foster growth of real GDP near that of its potential over the next year and a half,
@@ -303,11 +342,39 @@ Growth Rate
 From
 Jul-99
 Jul-99 1999 Q4
+1998 Q4
+1998 Q4
+1998 Q4
 Jun-99
 Jul-99
 Dec-99
+1998 Q4
+1999 Q2
+1999 Q4
+1999 Q4
+1.0 to 5.0 2.0 to 6.0
+6.2
+6.1
+6.3
+6.2
+6.1
+6.1
+6.2
+6.1
+6.5
+6.2
+6.1
+6.4
+5.8
+5.7
+5.5
+1999 Annual Ranges: 3.0 to 7.0
 SELECTED INTEREST RATES
 (percent)
+98 -- High
+- Low
+99 -- High
+-- Low
 Monthly
 Aug 98
 Sep 98
@@ -358,8 +425,16 @@ Annual arowth rates(M%)
 Annually (Q4 to Q4)
 Levels (Sbillionslt
 Monthly
+1999-Mar. 1102.0 4457.2 3355.2 1601.1 6058.3 3714.6 12552.4 16267.1
+Apr. 1108.4 4490.0 3381.6 1610.2 6100.3 3707.2 12649.4 16356.6
+May 1104.7 4507.4 3402.7 1616.6 6123.9 3690.8 12725.4 16416.2
+June 1101.0 4523.5 3422.4 1627.6 6151.1 3691.0 12787.8 16478.9
+July p 1098.0 4542.4 3444.4 1633.3 6175.7
 Weekly
 1999-July 5 1094.9 4511.0 3416.1 1631.2 6142.2
+12 1099.9 4541.3 3441.4 1640.6 6181.9
+19 1096.0 4545.4 3449.4 1635.7 6181.1
+26 1102.9 4558.8 3455.8 1629.8 6188.6
 Aug. 2p 1099.5 4552.6 3453.1 1626.1 6178.7
 9p 1096.8 4548.2 3451.3 1636.8 6184.9
 p preliminary
@@ -373,15 +448,188 @@ Treasury bills Treasurycoupons Federal Net change
 -- Net purchases 3 agencies outright
 Period Net Redemptions Net purchases Redemptions Net redemptions holdings
 purchases (-) change 1 ye 1-5 5-10 over 10 (-) Change 0 total 4 Net
+1996
+1997
+1998
+1998 ---Q1
+--- 02
+---Q3
+---Q4
+1999 ---01
+---Q2
+1998 August
+September
+October
+November
+December
+1999 January
+February
+March
+April
+May
+June
+July
 Weekly
 May 5
+12
+19
+26
 August 4
 11
 18
 Memo: LEVEL (bil. $) 6
 August 18
+9,901
+9,147
+3,550
+9,901
+9,147
+1,550
+-2,000
+3,550
+215.7 52.8 122.3
+1,116 1,655
+3,449 5,897
+1,877 4,864
+5,179
+32,479
+23,262
+1,769
+2,352
+524
+5,549
+6,297
+1,501
+1,369
+2,024
+1,403
+3,163
+3,978
+986
+1,038
+741
+662
+2,103
+1,060
+1,677
+1,421
+880
+951
+3,898
+19,580
+12,901
+2,262
+2,993
+4,524
+3,122
+5,180
+8,751
+535
+3,989
+725
+2,397
+2,752
+2,428
+3,362
+4,442
+1,217
+1,869
+1,221
+49.7 64.4
+492 11,551
+726 17,446
 --- 3,593
 - 5,377
+602 2,539
+- 4,182
+123
+5,190
+6,238
+5,520
+10,034
+1,893
+2,516
+3,405
+2,962
+1,151
+880
+1,013
+951
+-41
+14,670
+40,086
+24,465
+2,251
+8,022
+7,536
+6,656
+11,524
+17,394
+3,518
+5,329
+2,524
+4,162
+121
+5,190
+6,213
+5,520
+10,034
+1,841
+2,516
+3,405
+2,962
+1,151
+880
+965
+946
+-41
+-7,849
+-5,202
+-12,184
+-13,549
+-10,034
+-9,477
+-8,004
+-10,271
+-10,507
+-9,868
+-12,553
+-11,659
+-7,799
+-10,380
+-7,243
+-8,603
+-10,368
+-12,644
+-11,355
+-4,525
+-11,926
+-9,271
+-15,717
+-8,425
+-14,008
+-12,317
+-16,247
+-9,090
+-10,473
+-10,087
+-13,670
+-11,338
+-11,437
+-16,275
+-25,786
+504.5 -26.3
+1 year 1-5 5-10 over 10 total
 August 20, 1999
+681 3,019
+2,291 3,152
+303 1,769
+351 ---
 - 1,674
 445 678
+2,404
+262
+405
+1,536
+804
+145

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -50,6 +58,10 @@ M1 .3 -.2 3/4 1/4 4-1/4
 Domestic nonfinancial
 debt 8.7 8.9 - -8-1/2
 Bank credit 7.2 -.6 7-1/4 3-1/4 7-1/2
+1
+Reserve measures
+2
+Nonborrowed reserves 3.3 -5.6 1-1/2 -2 3
 Total reserves -2.9 -1.7 -2-1/4 -2 3-1/4
 Monetary base 2.5 5.6 5-1/4 5-1/2 7-1/4
 Memo: (Millions of dollars)
@@ -118,6 +130,7 @@ specified by the FOMC at its September meeting, and M3 has increased at
 about a 3 percent rate, compared with its 5 percent path. Since the
 fourth quarter of 1987, M2 has risen at a 5-1/4 pace, placing that ag-
 gregate below the middle of its target range, while M3 has expanded at a
+6-1/4 percent rate, leaving it a bit above the midpoint of its range.
 (5) Retail-type balances within M2 have grown at about a 3-1/2
 percent rate over the last two months, about in line with expectations
 at the last FOMC meeting. Issuance of consumer CDs has picked up sharp-
@@ -182,6 +195,7 @@ September 3034.8 3034.8 3034.8 3852.1 3852.1 3852.1 782.4 782.4 782.4
 October 3038.8 3038.8 3038.8 3867.1 3867.1 3867.1 782.9 782.9 782.9
 November 3048.7 3046.7 3044.7 3886.8 3885.8 3884.8 783.9 783.3 782.7
 December 3060.2 3054.5 3048.8 3911.4 3909.0 3906.6 784.6 782.6 780.6
+4.0 to 8.0 4.0 to 8.01988 Target Ranges:
 (9) Projections of M2 and M3 incorporate some allowance for
 the effects of a surge in merger and buyout activity that now seems
 likely in the fourth quarter. Banks are expected to provide a substan-
@@ -247,6 +261,7 @@ of M2 demand, which show the rise in interest rates from earlier this
 year damping M2 growth in the fourth quarter by about 3-1/2 percent, but
 within their usual margin of error. Under this alternative, M2 would
 enter the year at around the lower end of its provisional range for
+1989, and absent a significant subsequent change in policy, would
 strengthen only gradually next year, remaining well down in its range
 for some time.
 (12) M3 growth is expected to pick up to a 6-1/2 percent rate
@@ -344,6 +359,10 @@ SELECTED INTEREST RATES
 -- econdary mark-- ---- aturity yields------mortgage--
 money Sec mAt primary market
 cds com. market bank corp. A muni.
+87--High
+Low
+88--High
+Low
 Honthly
 OCT 87
 NOV 87
@@ -357,6 +376,17 @@ JUN 88
 JUL 88
 AUG 88
 SEP 88
+9.50
+9.50
+10.00
+10.00
+10.00
+10.00
+10.00
+10.00
+8.46
+8.35
+8.35p
 .83
 8.72
 8.69p
@@ -382,6 +412,10 @@ Daily
 OCT 21 88
 OCT 27 88
 OCT 28 88
+8.45
+7.47
+8.16
+7.49
 Strictly Confidential (FR)
 Money and Credit Aggregate Measures Class II FOMC
 Seasonally adjusted OCT. 31, 1988
@@ -391,8 +425,16 @@ Period Ml M2 components M3 L and government other' total'
 in M2 in M3 only investments
 LEVELS I(BILLIONS)
 MONTHLY
+1988-MAY 770.2 3002.2 2232.0 785.8 3788.0 4494.7 2328.S 2021.8 6539.7 8561.5
+JUNE 776.5 3016.5 2240.0 796.0 3812.5 4509.1 2348.4 2031.7 6587.9 8619.6
+JULY 782.3 3025.9 2243.5 809.0 3834.9 4552.2 2360.8 2040.8 6634.8 8675.6
+AUG. 782.5 3031.8 2249.3 815.3 3847.1 4572.4 2374.9 2057.7 6680.5 8738.2
+SEP. 782.4 3034.8 2252.4 817.3 3852.1 2373.7 2078.6 6724.1 8802.7
 MEEKLY
 1988-SEP. 5 783.0 3036.5 2253.5 813.4 3849.9
+12 782.3 3038.6 2256.3 815.0 3853.6
+19 784.7 3037.8 2253.1 818.4 3856.3
+26 784.1 3033.8 2249.7 816.1 3849.8
 OCT. 3 782.3 3030.7 2248.4 825.7 3856.3
 10 p 784.8 3036.1 2251.2 828.6 3864.7
 17 p 783.6 3043.1 2259.5 827.4 3870.5
@@ -414,12 +456,249 @@ MONTHLY
 OCT.
 NOV.
 DEC.
+1988-JAN.
+FEB.
+KAR.
 APR.
 HAY
 JUNE
 JULY
 AUG.
 SEP.
+166.9
+179.3
+194.9
+193.1
+195.0
+196.5
+198.4
+199.3
+200.9
+202.5
+203.6
+204.9
+206.3
+207.2
+208.5
+263.5
+294.6
+291.7
+295.9
+291.3
+288.0
+289.9
+287.8
+287.9
+290.2
+287.4
+289.9
+290.6
+290.0
+288.3
+176.8
+228.6
+259.7
+260.3
+259.5
+259.3
+263.3
+265.0
+266.9
+270.1
+271.9
+274.4
+278.3
+278.1
+278.3
+67.2
+77.9
+81.1
+85.9
+79.6
+77.9
+82.9
+78.3
+75.0
+76.1
+80.8
+81.0
+78.0
+80.4
+77.9
+509.9
+569.2
+528.9
+533.9
+527.7
+525.2
+524.1
+522.6
+524.7
+523.3
+519.6
+522.3
+521.1
+517.1
+510.9
+299.9
+362.2
+415.4
+417.0
+415.0
+414.3
+414.4
+416.2
+419.8
+422.7
+425.1
+429.0
+431.9
+433.9
+432.9
+877.1
+858.9
+899.4
+883.3
+901.7
+913.1
+924.6
+941.5
+953.5
+964.8
+972.0
+974.9
+978.5
+985.7
+997.8
+176.8
+207.6
+219.7
+218.2
+219.7
+221.1
+225.0
+231.0
+234.8
+235.8
+231.8
+228.9
+229.6
+230.8
+230.9
+64.1
+84.7
+87.2
+82.5
+89.5
+89.6
+94.4
+98.7
+97.4
+91.9
+90.0
+86.3
+84.8
+84.0
+83.7
+433.9
+441.5
+479.2
+472.3
+480.5
+484.7
+482.6
+488.6
+490.3
+492.1
+495.4
+501.7
+509.2
+514.8
+523.6
+62.7
+82.6
+108.7
+111.6
+108.7
+109.5
+113.7
+111.4
+113.8
+119.5
+122.2
+123.0
+121.0
+119.3
+77.6
+81.0
+92.2
+93.0
+92.8
+90.8
+85.3
+85.4
+89.7
+88.7
+91.5
+93.3
+96.8
+103.1
+101.8
+78.9
+89.7
+99.4
+98.8
+99.3
+101.4
+102.6
+103.5
+104.6
+105.4
+106.1
+106.9
+107.4
+292.3
+283.8
+266.8
+272.7
+269.7
+258.0
+259.9
+255.4
+249.6
+259.3
+259.2
+248.6
+258.3
+264.4
+201.6
+228.5
+255.2
+254.2
+252.5
+258.9
+269.0
+274.1
+280.3
+288.2
+301.1
+301.2
+311.5
+312.5
+43.2
+37.8
+45.1
+44.5
+45.0
+45.7
+43.6
+40.9
+40.6
+41.2
+40.9
+40.6
+40.6
+41.1
 nstitutions are subtracted from small time deposits.
 STRICTLY CONFIDENTIAL (FR)
 CLASS II--FOMC
@@ -429,15 +708,144 @@ Treasury bills Treasury coupons Federal Net chang
 Period Net purchases3  agencies outrightNet Redemp- Redemp- redemptions holdings
 purchases tions (-) Net change within 1-5 5-10 over 10 tions(-) Net change total
 1 -year
+1987--Q1
+Q2
+Q3
+04
+1988--Q1
+Q2
+93
+1988--Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
+August
+September
 Memo: LEVEL (bil.$)
 Oct. 26
+15,468
+11,479
+18,096
+20,099
+12,933
+-1,914
+5,823
+4,690
+4,334
+319
+423
+-49
+-192
+560
+423
+2,400 13,068
+7,700 3,779
+3,500 14,596
+1,000 19,099
+9,029 3,905
+800 -2,714
+- 5,823
+8,229 -3,539
+- 4,334
+2,200 -1,881
+-- 423
 - 1,795
+600
+1,600
+-649
+-1,792
+560
+423
 -- 17
+484
+826
+1,349
+190
+1,896
+1,938
+2,185
+893
+9,779
+1,767 5,036 1,226
+143 2,356 619
+1,449 2,639 596
 - -800 -175
 1,092 3,661 1,017
 exhange for maturing bills. Excludes maturity shifts and rollovers of maturing coupon issues.
 -OO
 3,661
 3,661
+920
+493
+445
+3,566
+3,440
+4,185
+1,476
+-252
+8,948
+3,610
+5,059
+-975
+6,737
+16,342
+6,964
+18,619
+20,178
+20,994
+-3,076
+14,735
+12
+9,323
+-3,011
+7,030
+1,717
+-780
+-2,788
+557
+7,040
+515
+-10
+104
+528
+648
+-5
+310
+-53
+-5,445
+1,450
+3,001
+10,033
+-11,033
+-14,254
+2,121
+-1,433
+2,533
+-3,514
+5,220
+1,393
+-4,807
+1,247
+45
+9,111
+-10,575
+6,683
+-5,941
+-1,655
+-2,825
+-876
+476
+-2,678
+-2,454
+5,272
+14,235
+-9,176
+-12,315
+6,033
+262
+-1,996
 sale transactions (+).
 6. The levels of agency issues were as follows: within tota

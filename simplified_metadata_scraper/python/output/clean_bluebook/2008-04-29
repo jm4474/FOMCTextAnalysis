@@ -64,6 +64,14 @@ under the normal practice of using the closing prices on the day before the prev
 meeting and on Bluebook publication day.  In cases for which sharp movements close to the 
 March FOMC meeting make this convention potentially misleading, we provide greater 
 detail on price developments.
+2 The effective federal funds rate averaged 2.24 percent over the intermeeting period.  
+Volatility of the funds rate remained elevated, comparable to that seen in recent months.  
+Over the period, the volume of long-term RPs increased $38 billion, primarily reflecting the 
+previously announced expansion of the single-tranche term RP program.  The Desk 
+redeemed $44 billion in Treasury bills and sold $91 billion of Treasury securities on an 
+outright basis to offset the provision of balances from other sources, including primary 
+credit, the Primary Dealer Credit Facility, the Term Auction Facility, the single-tranche term 
+RP program, and draws on foreign currency swap arrangements.
 (CMBS) remained close to nil.  Against this backdrop, market participants
 significantly revised upward the expected path for the federal funds rate and
 currently price in only a 10 percent chance of a cut of more than 25 basis points at
@@ -84,6 +92,9 @@ tail event in the near future.  Market participants now expect the federal funds
 to decline to about 1.95 percent by late summer, about 60 basis points higher than
 at the time of the March meeting, before rising to 3 percent by the end of 2009
 Class I FOMC - Restricted Controlled (FR) Page 2 of 38
+3 Strains in the Libor market are complicating the estimation of monetary policy expectations 
+based on longer-horizon Eurodollar futures, perhaps leading to an upward bias in the 
+expected future policy path.
 (Chart 1).3  Judging from options on federal funds futures, investors place about
 two-thirds odds on a 25 basis point cut at the upcoming FOMC meeting, with
 most of the remaining probability on no move.  Investors see high odds on rates
@@ -116,6 +127,8 @@ March 17, 2008
 Expected federal funds rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
  for term premiums and other adjustments.
+80
+Percent
 Futures market*
   Desk’s survey**
 <1.75_ 2.00 >2.25_
@@ -129,15 +142,25 @@ Recent: 4/24/2008
 Last FOMC: 3/17/2008
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
+2006 2007
+0
+7
+Percent
 Ten-year
 Two-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Mar.
 FOMC
+6
+Percent
 Index of inflation expectations and uncertainty*
 *Measured as the first principal component of fourteen forward-looking 
 inflation indicators.
+2006 2007
+1.5
+4.0
+$/barrel Percent
 Spot WTI (left scale)
 Next five years (right scale)
 Five-to-ten year forward (right scale)
@@ -147,6 +170,9 @@ Inflation compensation and oil prices*
 Mar.
 FOMC
 Class I FOMC - Restricted Controlled (FR) Page 4 of 38
+4 Five-year inflation compensation dropped 22 basis points the day before the March FOMC 
+meeting but bounced up 9 basis points by 2:00 p.m. on FOMC day.  The 2:00 p.m. rate is 
+used here for computing intermeeting movements.
 decrease in compensation from 5 to 10 years ahead.4  Compared to the levels
 prevailing earlier in March, both the 5-year and 5-to-10-year forward measures of
 inflation compensation have declined, as firmer policy expectations and reduced
@@ -174,11 +200,17 @@ Chart 2
 Asset Market Developments
 Jan. Mar. May July Oct. Dec. Feb. Apr.
 2007 2008
+140
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily Mar.
 FOMC
 Jan. Mar. May July Oct. Dec. Feb. Apr.
 2007 2008
+200
+Basis points
 ABCP
 A2/P2
 Spreads on thirty-day commercial paper
@@ -186,6 +218,8 @@ Mar.
 FOMC
 Jan. Mar. May July Oct. Dec. Feb. Apr.
 2007 2008
+8
+Percent
 Target federal funds rate
 Treasury
 MBS
@@ -195,6 +229,8 @@ Mar.
 FOMC
 Jan. Mar. May July Oct. Dec. Feb. Apr.
 2007 2008
+300
+Basis points
 Banks*
 Broker/dealers**
 *Median spread of 23 banking organizations.
@@ -203,6 +239,8 @@ Note. Last observation is for Apr. 23, 2008.
 CDS spreads at selected financial institutions
 Daily Mar.
 FOMC
+170
+Index(12/31/00=100)
 Wilshire
 Dow Jones Financial
 Equity prices
@@ -257,6 +295,11 @@ SNB auctioned $6 billion each on March 25 and April 22.  On March 28, the ECB an
 long-term refinancing operations (LTROs) with a six-month maturity; the first LTRO auction on 
 April 2 was met with high demand.
 Class I FOMC - Restricted Controlled (FR) Page 7 of 38
+5 There was a widespread belief in late March and early April that banks on the Libor panel 
+were understating their borrowing costs, particularly after the ninth TAF auction stopped 
+out at a rate above one-month Libor.  Libor-OIS spreads rose notably in mid-April after 
+reports that the British Bankers’ Association had admonished members of its panel not to 
+contribute deceptive or stale information.
 and they are approaching the highs reached last December.5  Term funding spreads
 also widened in sterling and euro despite several steps taken by foreign central
 banks to ease funding pressures.  The strains in these markets apparently reflect
@@ -311,9 +354,13 @@ Chart 3
 Asset Market Developments
 Jan. Mar. May July Sept. Nov. Jan. Mar.
 2007 2008
+102
+Percent of par
 Average bid price on most liquid leveraged loans
 Mar.
 FOMC
+2.0
+Ratio
 Twenty-year
 One-year
 Municipal bond yield ratios
@@ -324,11 +371,17 @@ Percent
 Quarterly, s.a.a.r.
 OFHEO Purchase-Only Index
 p Projected.
+450
+Basis points
 FRM
 One-Year ARM
 Mortgage rate spreads
 Mar.
 FOMC
+2006 2007
+  0
+240
+Basis points
 Fannie Mae
 Ginnie Mae
 Agency option-adjusted spreads
@@ -336,6 +389,8 @@ Mar.
 FOMC
 Jan. Mar. May July Sept. Nov. Jan. Mar.
 2007 2008
+2000
+Basis points
 AAA    
 BBB
 Ten-year investment grade CMBS spreads
@@ -367,9 +422,12 @@ label RMBS backed by nonconforming loans remained very light.  Likewise,
 issuance of commercial mortgage-backed securities (CMBS) continued to be
 negligible and spreads on CMBS over swaps remain at historically high levels.
 Class I FOMC - Restricted Controlled (FR) Page 11 of 38
+6 There were no foreign official purchases or sales of dollars by reporting central banks in 
+industrial countries during the intermeeting period.
 Foreign Developments
 (11) The trade-weighted index of the exchange value of the dollar against the
 major foreign currencies increased 2¼ percent over the intermeeting period (Chart
+4).  The dollar had fallen sharply immediately before the March FOMC meeting
 and rebounded soon afterward; it has been moving up in recent days.6  In line with
 improvements in market sentiment in the United States, major headline equity
 indexes in Europe and Japan ended the period up 6 to 13 percent on net.
@@ -458,6 +516,8 @@ Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business*
+2005 2006 Q1 Q2 Q3 Q4 Q1
+2007 2008
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 Growth of debt of household sector
@@ -475,6 +535,8 @@ Commercial real estate
 Growth of M2
 s.a.a.r.
 Percent
+2005 H1 H2 Q1 Q2 Q3 Q4 Q1
+2006 2007 2008
 M2 velocity and opportunity cost
 VelocityPercentage points
 Opportunity cost*
@@ -497,6 +559,7 @@ projection for both economic activity and inflation is little changed from March
 The staff forecast continues to be conditioned on the assumption that the target
 federal funds rate is reduced to 2 percent at the April FOMC meeting and to 1¾
 percent at the June meeting and is then maintained at that level through the end of
+2009.  Long-term Treasury yields edge up through this year and next as the
 influence of the particularly low short-term interest rates expected over this period
 wanes.  Equity prices start from a level about 5 percent higher than anticipated in
 the previous staff forecast but otherwise follow a similar contour, increasing at an
@@ -528,6 +591,7 @@ public’s long-term inflation expectations have moved up a little since the end
 last year.  However, the projected leveling-out of oil and other commodity prices,
 combined with an anticipated deceleration in import prices and increasing slack in
 labor and product markets, push headline inflation down to around 1¾ percent in
+2009.  The staff forecast for core PCE inflation follows a broadly similar pattern,
 slowing from an average of 2¼ percent in 2008 to 2 percent in 2009.
 (18) The Greenbook forecast has been extended beyond 2009 using the
 FRB/US model with adjustments to ensure consistency with the staff’s assessment
@@ -537,11 +601,16 @@ percent; trend multifactor productivity grows a bit faster than 1 percent per ye
 relative energy prices edge down; the real value of the dollar depreciates steadily at
 about 1 percent per year; and fiscal policy is essentially neutral.  With the
 unemployment rate notably above the NAIRU and core inflation running at about
+2 percent in 2009, these long-run assumptions are consistent with a very gradual
 tightening in monetary policy; the federal funds rate rises from less than 2 percent
 on average in 2010 to 4 percent by the end of 2012.  Policy is nonetheless
 sufficiently accommodative that the unemployment rate declines to 4¾ percent—
 the staff’s assessment of the NAIRU—by 2012.  Under the pressure of persistent
 Class I FOMC - Restricted Controlled (FR) Page 18 of 38
+7  In conducting these simulations, policymakers and participants in financial markets are 
+assumed to understand fully the forces shaping the economic outlook (as summarized by the 
+extended Greenbook projection), whereas households and firms form their expectations 
+using more limited information.
 slack, core PCE inflation edges down over time, while headline inflation stays
 close to 1¾ percent.
 Monetary Policy Strategies
@@ -560,6 +629,7 @@ keeping unemployment close to the long-run NAIRU, and on avoiding changes in
 the nominal federal funds rate.7  For an inflation goal of 1½ percent (the left-hand
 set of charts), the simulation prescribes a nominal federal funds rate that declines
 to around 2 percent by the end of next year and then rises toward 4 percent by late
+2012.  With an inflation goal of 2 percent (the right-hand set of charts), the
 optimal funds rate falls more sharply, dipping to near 1 percent by late 2009 before
 rising to about 4¼ percent by 2012.  Under either inflation goal, these
 prescriptions for the funds rate, as well as the associated outcomes for the
@@ -567,6 +637,8 @@ unemployment rate, are little changed from those shown in the previous
 Class I FOMC - Restricted Controlled (FR) Page 19 of 38
 Chart 6
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 Actual real federal funds rate
 Range of model-based estimates
@@ -580,11 +652,15 @@ Single-equation model (2.1 (2.0
 Small structural model -0.8 -1.1
 Large model (FRB/US) (0.3 -0.1
 Confidence intervals for three model-based estimates
+70 percent confidence interval -1.4 - 2.5
+90 percent confidence interval -2.4 - 3.7
 Greenbook-consistent measure -0.5 -0.5
 Medium-Run Measures
 Single-equation model (2.2 (2.2
 Small structural model (1.7 (1.7
 Confidence intervals for two model-based estimates
+70 percent confidence interval (1.0 - 2.9
+90 percent confidence interval (0.5 - 3.7
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate (0.1 (0.8
 Class I FOMC - Restricted Controlled (FR) Page 20 of 38
@@ -592,6 +668,7 @@ Bluebook, consistent with the small revisions to the Greenbook projection.
 However, the very near-term paths for the core inflation rate have been revised
 down because of the transitory effects of the favorable news on non-energy prices
 received since the close of the March Bluebook; core inflation is a touch higher in
+2009, though, as higher oil and import prices this year are projected to add a bit
 more to core prices through much of next year.
 (21) The outcome-based monetary policy rule prescribes a funds rate path
 that moves down to 2 percent by the fourth quarter of this year, rises gradually
@@ -613,12 +690,18 @@ relatively high because they do not include any role for policy inertia and do n
 take into account current financial market pressures and other forward-looking
 information captured by market expectations and the staff forecast.
 Class I FOMC - Restricted Controlled (FR) Page 22 of 38
+5
+Percent
 Federal funds rate
 Recession Scenario
 Taylor Rule
 Full Preemption
 Risk Management
+6.50
+Percent
 Civilian unemployment rate
+3.00
+Percent
 Core PCE inflation
 The Likelihood of Reaching Very Low Interest Rates 
  
@@ -662,10 +745,18 @@ if further reductions in the federal funds rate became infeasible because of the
 bound.
 Q3 Q4 Q1 Q2
 2007 2008
+30
+Percent
+1 Year Ahead
+2 Years Ahead
 Market-Based Probability
 Daily
 Q3 Q4 Q1 Q2
 2007 2008
+30
+Percent
+1 Year Ahead
+2 Years Ahead
 Model-Based Probability
 FOMC Intervals
 Class I FOMC - Restricted Controlled (FR) Page 24 of 38
@@ -679,6 +770,9 @@ provide considerable stimulus to real activity if needed through very low real s
 term interest rates and so do not need to act more aggressively.  Moreover, if 
 policymakers place relatively low odds on a very low funds rate, then a shift to more 
 aggressive policy adjustment may be less compelling.
+1 Reifschneider, David and John C. Williams (2000). “Three Lessons for Monetary Policy in a Low-
+Inflation Era.” Journal of Money, Credit and Banking, Vol. 32, No. 4, Part 2: Monetary Policy in a Low-
+Inflation Environment (Nov.), pp. 936-966.
 Class I FOMC - Restricted Controlled (FR) Page 25 of 38
 Short-Run Policy Alternatives
 (22) This Bluebook presents three policy alternatives for the Committee’s
@@ -991,6 +1085,7 @@ Class I FOMC - Restricted Controlled (FR) Page 33 of 38
 Table 2
 Alternative Growth Rates for M2
 (percent, annual rate)
+50 bp Ease 25 bp Ease No change Greenbook Forecast*
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates

@@ -93,6 +93,8 @@ Chart 1
 Financial Institutions
 Jan. Feb. Mar. Apr. May June July Aug.
 2008
+50
+Dollars
 Fannie Mae
 Freddie Mac
 Sept.
@@ -100,6 +102,8 @@ Sept.
 GSE common stock prices
 Aug.
 FOMC
+240
+Basis points
 Fannie Mae
 Ginnie Mae
 Sept.
@@ -109,6 +113,8 @@ Aug.
 FOMC
 Jan. Feb. Mar. Apr. May June July Aug.
 2008
+120
+Index(1/2/2008=100)
 Sept.
  11
 S&P 500 Investment Bank and Brokerage Index
@@ -117,6 +123,8 @@ Aug.
 FOMC
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+300
+Basis points
 Sept.
  10
 CDS spreads for investment banks
@@ -124,6 +132,8 @@ Aug.
 FOMC
 Jan. Feb. Mar. Apr. May June July Aug.
 2008
+70
+Basis points
 Sept.
  11
 Lehman Brothers stock price
@@ -257,6 +267,7 @@ suggest an expected path of the funds rate that is then flat at 2 percent throug
 least the middle of 2009, with a modest probability of easing through the end of this
 year.  Subsequently, the path rises to about 3 percent by the end of 2010, a level more
 than 60 basis points below that anticipated at the time of the August meeting (Chart
+2).  Judging from options on federal funds futures contracts, investors place high odds
 on an unchanged target at next week’s FOMC meeting, as do respondents to the
 Desk’s policy survey.  Option-implied measures of uncertainty about the federal funds
 rate six and twelve months ahead moved lower.
@@ -278,12 +289,17 @@ inflation forecasts in the Survey of Professional Forecasters declined a bit.
 Class I FOMC - Restricted Controlled (FR) Page 8 of 41
 Chart 2
 Interest Rate Developments
+100
+Percent
 Futures market*
   Desk’s survey**
+1.75 2.00 2.25
 Probability density for target funds rate
 after the September FOMC meeting
 *Derived from options on federal funds futures.
 **Survey of primary dealer economists on Sept 8, 2008.
+2009 2010
+1.75
 September 11, 2008
 August 4, 2008
 Expected federal funds rates*
@@ -295,6 +311,10 @@ Recent: 9/11/2008
 Last FOMC: 8/4/2008
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
+400
+Basis points
+12-month Eurodollar
+6-month Eurodollar*
 Sept.
  11
 Implied volatilities
@@ -302,12 +322,18 @@ Implied volatilities
 structures for the expected federal funds rate and implied volatility.
 Aug.
 FOMC
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Aug.
 FOMC
 Sept.
  11
+4.0
+$/barrel Percent
 Spot WTI (left scale)
 Next 5 years (right scale)
 5-to-10 year forward (right scale)
@@ -381,11 +407,17 @@ Chart 3
 Asset Market Developments
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+140
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily Aug.
 FOMC
 Sept.
  11
+170
+Index(12/31/2000=100)
 Wilshire 5000
 Dow Jones Financial
 Equity prices
@@ -394,12 +426,16 @@ FOMC
 Sept.
  11
 Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Aug.
 FOMC
 Sept.
  11
+50
+Percent
 Implied Volatility on S&P 500 (VIX)
 Weekly Friday*
 *Latest observation is for most recent business day.
@@ -410,6 +446,8 @@ Sept.
  11
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+104
+Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 Aug.
@@ -420,6 +458,8 @@ Bid-ask spread
 (left scale)
 Sept.
  10
+450
+Basis points
 FRM
 1-year ARM
 Residential mortgage rate spreads
@@ -501,6 +541,7 @@ Foreign Developments
 (14) The dollar appreciated broadly and sharply over the intermeeting period,
 chiefly reflecting the deterioration of the foreign economic outlook relative to that in
 the United States.  The major currencies index rose by 6 percent, with gains exceeding
+10 percent against both sterling and the euro offsetting a small decline against the yen
 (Chart 4).  Data on macroeconomic activity in Europe continued to point to a
 softening economic outlook, and the Bank of England (BoE), the European Central
 Class I FOMC - Restricted Controlled (FR) Page 15 of 41
@@ -556,6 +597,7 @@ several other central banks in emerging market countries reportedly intervened i
 foreign exchange markets to support their currencies in the face of sharp downward
 Debt and Money
 (16) The debt of domestic nonfinancial sectors is projected to expand at a
+4 percent annual rate in the current quarter, up a bit from the second quarter, but well
 below the 8½ percent rise posted in 2007 (Chart 5).  The pickup is attributable to
 increased borrowing by state and local governments and the federal government, as
 the rate of growth in the business and household sectors is estimated to be slowing.
@@ -574,12 +616,25 @@ Q4
 Q1
 Q2
 Q3 p
+5.4
+3.5
+3.9
+7.4
+5.7
+3.4
+3.3
+1.4
+0.8
+6.7
+4.3
 p Projected.
 C&I loans
 Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector*
+2006 H1 H2 Q1 Q2 July Aug
+2007 2008e Estimated.
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 Growth of debt of household sector
@@ -596,6 +651,8 @@ Annual rate, s.a.
 Source. Office of Housing Enterprise Oversight (OFHEO),
 Standard & Poor’s
 Growth of M2
+2006 H1 H2 Q1 Q2 Aug.
+2008
 M2 velocity and opportunity cost
 VelocityPercentage points
 Opportunity cost*
@@ -616,6 +673,7 @@ terms for borrowers and declining prices and slow activity in the housing market
 from liquid deposits and money funds more than offset robust growth in small time
 deposits.  Currency growth was moderate.  (See the box “Recent Behavior of the
 Components of M2.”)  Since April, M2 has advanced at an average annual rate of just
+1¼ percent.  Staff currently forecast a 5 percent increase for 2008 as a whole, only
 slightly faster than the growth of nominal GDP, despite a steep drop in the
 opportunity cost of holding M2 late last year and early this year.  Typically, the lagged
 effects of the decline in opportunity cost over the past year would have been expected
@@ -628,6 +686,7 @@ than in 2007.
 Economic Outlook
 (18) The staff forecast presented in the September Greenbook is conditioned on
 an assumption that the target federal funds rate is held at 2 percent until mid-year
+2009, six months longer than in the projection prepared for the August meeting, and
 Class I FOMC - Restricted Controlled (FR) Page 19 of 41
 Recent Behavior of the Components of M2 
  
@@ -672,6 +731,7 @@ mortgage rates have been marked down, in part to reflect the drop that occurred 
 response to the government’s takeover of Fannie Mae and Freddie Mac, bringing
 forward nearly all of the decline in rates that had previously been projected to take
 place over the next two years.  Stock prices, which start from a level that is
+3½ percent below that assumed in the previous forecast, increase at an average annual
 rate of 11½ percent, as the equity risk premium retraces about half of the widening
 that has occurred during the financial turmoil.  The real foreign exchange value of the
 dollar is again assumed to depreciate at an annual rate of 2½ percent, but from a level
@@ -690,11 +750,14 @@ growth is slightly weaker on average than forecasted last time, owing partly to 
 recent strength of the dollar.  The unemployment rate is projected to average 6¼
 percent in 2009 – ¼ percentage point higher than in the previous forecast and
 significantly above the staff’s estimate of the NAIRU – and then to edge down in
+2010.  Higher-than-expected readings on inflation for July led the staff to increase its
 Class I FOMC - Restricted Controlled (FR) Page 21 of 41
 forecast of overall PCE inflation in the current quarter nearly a percentage point to
+5½ percent, but the recent decline in crude oil prices is expected to pull headline
 inflation down to ½ percent in the fourth quarter.  The forecast for current-quarter
 core PCE inflation is 3 percent, but core inflation is projected to fall to 2½ percent in
 the fourth quarter.  Both total and core PCE inflation are projected to be a little over
+2 percent in 2009 and just under 2 percent in 2010.
 Update on Monetary Policy Strategies
 (19) As shown in Chart 6, the Greenbook-consistent measure of short-run r*
 now stands at -0.3 percent, about 40 basis points lower than in the previous
@@ -710,9 +773,16 @@ the long-run Greenbook forecast beyond 2010. In these simulations, policymakers
 place equal weight on keeping core PCE inflation close to a specified goal, on keeping
 unemployment close to the NAIRU, and on avoiding changes in the nominal federal
 funds rate.2  For an inflation goal of 1½ percent (the left-hand set of charts), the
+2  Consistent with the staff assumptions in the Greenbook, the value of the effective NAIRU 
+used in the loss function is boosted 20 basis points in the last quarter of 2008 and 15 basis 
+points in 2009 to control for the supply-side effects of recently enacted temporary extended 
+unemployment insurance benefits.  In these projections, policymakers and participants in 
+financial markets are assumed to understand fully the forces shaping the economic outlook
 Class I FOMC - Restricted Controlled (FR) Page 22 of 41
 Chart 6
 Equilibrium Real Federal Funds Rate
+9
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -777,6 +847,8 @@ by Jean-Philippe Laforte, Dave Reifschneider, John Roberts, and Tom Tallarini.  
 federal funds rate in this memo are based on the July/August Greenbook.
 Class I FOMC - Restricted Controlled (FR) Page 24 of 41
 optimal funds rate stays near 2¼ percent through early 2010; this trajectory is about
+20 to 50 basis points lower than in the previous Bluebook.  With an inflation target of
+2 percent (the right-hand set of charts), the funds rate declines to around 1 percent by
 late 2009 and then rises gradually to 4¾ percent by 2013.  These prescriptions mostly
 reflect the reduction in the Greenbook consistent measure of r*.  For either inflation
 goal, the optimal-control policy generates outcomes for the unemployment rate over
@@ -788,6 +860,7 @@ flattening out.  This trajectory is noticeably higher than currently embedded in
 financial market quotes, which imply a roughly unchanged funds rate until the middle
 of next year.  Stochastic simulations of the FRB/US model indicate a 70 percent
 probability that the prescriptions of the outcome-based rule will fall in a range of
+1¾ to 4¼ percent at the end of 2009; this confidence band is about 50 to 100 basis
 points higher than that implied by interest rate caps.  The near-term prescriptions
 from the Taylor (1993, 1999) rules are a notch higher than in the previous Bluebook,
 reflecting a modest increase in recent readings on core inflation.  As has been the case
@@ -795,6 +868,7 @@ for some time, the rates implied by these rules are relatively high because they
 take into account the effects of financial market pressures, the persisting weakness of
 the housing market, and other forward-looking information captured by market
 expectations and the staff forecast.  The first-difference rule under an inflation goal of
+1½ percent prescribes no change from the current target for 2008Q4 and a quarter-
 point tightening for 2009Q1.  In contrast, under an inflation goal of 2 percent, it calls
 for about one quarter percentage point of easing over the next two quarters.
 Class I FOMC - Restricted Controlled (FR) Page 26 of 41
@@ -991,6 +1065,7 @@ responding to the continued high levels of inflation and has fairly high confide
 the resilience of financial markets and economic activity, it may prefer to tighten
 policy by 25 basis points at this meeting as in Alternative C.  PCE inflation in the
 third quarter is projected to be its highest since the first quarter of 1990 – and above
+2 percent for its eleventh consecutive quarter – and some measures of longer-term
 inflation expectations remain above their levels of recent years.  Against this
 backdrop, the Committee may feel that failing to tighten policy could lead market
 participants and households to question its commitment to price stability, as in the

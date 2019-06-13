@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -55,6 +63,7 @@ a time and contributed to a strengthening of the yen. But a little of
 the weaker tone of the dollar has dissipated since April 27, when the
 Desk bought $200 million against yen for the accounts of the System and
 the ESF in an effort to calm the market before the G-7 meeting on April
+29, and key U.S. officials publicly clarified their position. The Bank
 of Japan purchased nearly $7 billion for its own account in April and
 early May. Japanese short-term rates were little changed. Other short-
 term interest rates continued to move lower, with three-month German
@@ -135,6 +144,7 @@ Federal 14.9 -- 10.0
 Nonfederal 3.7 -- 3.5
 Bank credit 5.4 5.0 3.0
 Reserve measures
+2Nonborrowed reserves 4.3 1.2
 Total reserves 5.3 0.8
 Monetary base 8.9 7.5
 Memo: (Millions of dollars)
@@ -218,6 +228,7 @@ summer. (More detailed data are presented in the table and charts on
 the following pages.) Under all the alternatives, M2 would be just a
 bit above its fourth-quarter level at midyear and would strengthen only
 marginally further by September, thus staying noticeably below its 2 to
+6 percent annual range. From its fourth-quarter base, M3 is projected
 to show a contraction through June but little change by September under
 all the alternatives, hence also remaining below its 1/2 to 4-1/2 per-
 cent range.
@@ -230,6 +241,13 @@ July
 August
 September
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+3472.4 3472.4 3472.4 4128.9 4128.9 4128.9 1035.4 1035.4 1035.4
+3472.8 3472.8 3472.8 4135.6 4135.6 4135.6 1043.2 1043.2 1043.2
+3496.0
+3507.6
+3520.6
+3526.0
+3530.9
 Monthly Growth Rates
 1993 March
 May
@@ -251,6 +269,96 @@ Q4 92 to Q3 93
 Q4 92 to Apr 93
 Q4 92 to Jun 93
 Q4 92 to Sep 93
+-1.0
+0.1
+-0.2
+1.2
+-1.6
+0.6
+1.2
+3495.7
+3505.9
+3517.0
+3520.8
+3524.6
+-1.0
+0.1
+3495.4
+3503.8
+3513.0
+3515.2
+3518.0
+-1.0
+0.1
+-0.3
+0.8
+-1.6
+0.4
+0.8
+4158.7
+4164.2
+4175.0
+4177.8
+4180.2
+-1.7
+1.9
+-1.1
+0.1
+-2.3
+-0.4
+0.2
+4158.0
+4162.2
+4171.2
+4172.6
+4174.0
+-1.7
+1.9
+4157.7
+4160.8
+4168.1
+4168.1
+4168.4
+-1.7
+1.9
+-0.2
+-3.8
+1.6
+1.6
+1064.8
+1075.5
+1085.8
+1092.1
+1098.2
+2.7
+9.0
+16.8
+6.6
+10.5
+11.6
+1064.6
+1074.7
+1083.9
+1089.3
+1094.8
+2.7
+9.0
+16.8
+6.6
+10.4
+10.8
+1064.3
+1073.7
+1082.1
+1086.8
+1091.8
+2.7
+9.0
+16.8
+6.6
+10.3
+10.0
+2.0 to 6.0 0.5 to 4.51993 Target Ranges:
 (13) Under alternative B, M2 is projected to increase at about
 a 5-3/4 percent average rate over May and June, a considerable pickup
 from recent months.6  Some of the strength in May, and to a lesser
@@ -269,6 +377,7 @@ tions of this alternative were maintained over the summer, M2 growth
 would be expected to move up still nearer to that of nominal GDP in the
 third quarter.
 (14) M3 under alternative B is seen as accelerating to about a
+4 percent rate over May and June. This speedup would stem solely from
 the pickup in M2, as managed liabilities in M3, including large time
 deposits, should resume running off over the two months. Bank credit
 expansion is expected to remain moderate, with loan growth quite weak,
@@ -325,6 +434,7 @@ monetary growth. M2 would expand at only a 5-1/2 percent rate over May
 and June, and M3 at a 3-3/4 percent pace. The moderate upward trajec-
 tory of M2 expected under unchanged interest rates later in the year
 would be trimmed, with growth from June to September likely at only a
+1-1/2 percent rate; and M2 would finish the year well below its target
 range. Maintenance of the money market conditions of alternative C
 probably would induce M3 to contract on the year.
 Directive language
@@ -350,6 +460,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+92 -- High
+-- Low
+93 -- High
+-- Low
 Monthly
 May 92
 Jun 92
@@ -384,6 +498,15 @@ Daily
 May 7 93
 May 13 93
 May 14 93
+6.32
+4.24
+5.06
+4.24
+4.26
+4.25
+4.25
+4.35
+4.38
 p - preliminary data
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures class rFOMC
@@ -393,6 +516,9 @@ nontransactions total loaln U.S.
 Period M1 M2 components M3 L and government' other' total'
 ANN. GROWTH RATES I()
 ANNUALLY (Q4 TO Q4)
+1990
+1991
+1992
 QUARTERLY AVERAGE
 1992-2nd QTR.
 1992-3rd QTR.
@@ -408,14 +534,151 @@ SEP.
 OCT.
 NOV.
 DEC.
+1993-JAN.
+FEB.
+MAR,
+APR. p
 LEVELS ($BILLIONS) :
 MONTHLY
+1993-JAN.
+FEB.
+MAR.
+APR. p
 HEEKLY
 1993-APR. 5
 MAY 3 p
+4.3
+8.0
+14.3
+1033.3
+1033.1
+1035.4
+1043.2
+1042.1
+1044.2
+1039.1
+1040.7
+4.0
+2.8
+1.8
+0.3
+0.8
+2.7
+-1.0
+0.9
+3487.0
+3475.3
+3472.4
+3472.8
+3476.0
+3476.1
+3466.2
+3468.8
 discontinuities.
 p-preliminary
 pe-preliminary estimate
+3.9
+1.1
+2453.7
+2442.2
+2437.1
+2429.6
+2433.9
+2431.9
+2427.2
+2428.0
+-6.5
+-6.2
+-6.6
+-4.9
+-3.5
+-14.4
+-13.4
+1.5
+-6.1
+-24.4
+-13.9
+-19.2
+-28.0
+9.9
+-5.1
+11.5
+653.9
+659.3
+656.5
+662.8
+652.8
+660.8
+661.7
+670.4
+1.8
+1.1
+0.3
+-0.6
+0.1
+-0.2
+-3.8
+-0.9
+-0.4
+-3.4
+4140.9
+4134.6
+4128.9
+4135.6
+4128.7
+4137.0
+4127.9
+4139.2
+2.0
+0.3
+1.4
+1.3
+1.1
+2.0
+-0.2
+0.5
+0.9
+-5.1
+-1.5
+5030.4
+5024.0
+5025.0
+5.6
+3.5
+3.7
+2933.8
+2937.5
+2950.6
+2962.8
+10.3
+11.0
+10.7
+-1.1
+10.5
+16.3
+2.9
+5.3
+3076.3
+3090.0
+3128.5
+5.9
+2.2
+3.0
+2.7
+3.9
+3.7
+8718.8
+8747.1
+8774.2
+6.9
+4.3
+4.9
+2.7
+4.3
+6.6
+11795.1
+11837.1
+11902.6
 averaging end-of-month levels of adjacent months, and have been adjusted to remove
 Strictly Conidential (FR).
 Components of Money Stock and Related Measures cla. l FOMC
@@ -439,12 +702,64 @@ Treasury bills Treasurycoupons Federal Net change
 Netpurchases 3 agencies outright
 Period Net Redemptions Net rNtpu s Redemptions Net redemptions holdings
 purchases (-)n 10 over Change total4 Net RPspurchases 2 change 1 year 1-5 5-10 over 10 Change total 4
+1990
+1991
+1992
+1992 ---Q1
+---Q2
+---Q3
+---Q4
+1993 ---Q1
+1992 May
+June
+July
+August
+September
+October
+November
+December
+1993 January
+February
+March
+April
 Weekly
 January 20
+27
+February 3
+10
+17
+24
 May 5
 12
 Memo: LEVEL (bil. $)6
 May 12
+13,048
+19,038
+11,486
+-2,600
+4,415
+867
+8,805
+4,110
+306
+271
+595
+4,072
+1,064
+3,669
+17,448
+20,038
+13,086
+-1,000
+4,415
+867
+8,805
+4,400
+1,000
+1,600
+-100 ---
+1,280 375
+2,818 2,333
 --- 375
 --- 11,282
 --- 19,365
@@ -460,9 +775,105 @@ May 12
 --- 200
 --- 6,756
 --- 300
+425
+3,043
+1,096
+285
+350
+461
+279
+244
+50
+6,583
+2,452
+2,193
+3,900
+4,572
+200
+1,993
+400
+3,500
+200
+4,172
+1,441
+2,490
+72.9 21.5 29.9
+13,240
+27,726
+30,219
+-233
+7,896
+6,617
+4,149
+3,796
+-85
+812
+5,890
+4,272
+7,820
+3,848
+-103
+-85
+3,039
+5,083
+-65
+-38
+-35
+-60
+3,141
+-41
+-28
+5,111
+11,128
+-1,614
+-14,636
+1,137
+14,195
+-13,912
+-1,203
+1,996
+-914
+5,371
+9,739
+-19,267
+2,425
+2,929
+-6,128
+4,788
+879
+-5,514
+10,941
+-10,279
+6,232
+-9,727
+6,075
+-228
+3,576
+-5,137
+-1,152
+-766
+6,344
+-52
+5,327
+-6,724
+-3,968
+-78
+7,936
+316.8 -6.1
 asury and agency securities.
 rchase transactions (-), and matched purchase sale transactions (+).
 May 12
 within
 1 year 1-5 5-10 over 10 total
 May 14, 1993
+716 705
+1,147 1,110
+3,141
+4,990-..
+4,110
+306
+271
+595
+4,072
+1,064
+3,669
