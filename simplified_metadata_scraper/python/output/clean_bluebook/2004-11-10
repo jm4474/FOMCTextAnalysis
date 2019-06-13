@@ -57,6 +57,36 @@ possible pause in the process of firming.  Futures quotes suggest that investors
 the funds rate to rise to about 2¾ percent by the end of 2005.
 (2) The shift in near-term policy expectations contributed to a flattening of the
 term structure of interest rates, with the yield on the two-year Treasury note rising
+Chart 1
+Interest Rate Developments
+Intermeeting Correlations of Oil Prices
+with Treasury Yields and Stock Prices*
+Jan-Mar Mar-May May-Jun Jun-Aug Aug-Sept Sept-Nov
+*Correlation of daily changes in the log WTI spot oil price and the ten-year
+Treasury yield (solid) and correlation of daily changes in the log WTI spot
+price and in the log S&P 500 index (shaded). Red denotes statistically
+significantly different from zero.
+*Spot WTI price.
+November 4, 2004
+September 20, 2004
+Expected Federal Funds Rates*
+*Estimates from federal funds and eurodollar futures, with an allowance
+ for term premia and other adjustments.
+Ten-Year
+Two-Year
+Nominal Treasury Yields*
+*Par yields from an estimated off-the-run Treasury yield curve.
+Inflation Compensation*
+*Based on a comparison of an estimated TIPS yield curve to an estimated
+nominal off-the-run Treasury yield curve.
+Twelve Months Ahead
+Six Months Ahead
+Policy Uncertainty*
+*Width of a 90 percent confidence interval for the federal funds rate
+computed from the term structures for both the expected federal funds
+rate and implied volatility.
+Daily
+FOMC
 oil prices seemed to heighten concerns about the near-term prospects for inflation
 and, at least at times, for output growth; both stock prices and bond yields often
 moved closely and inversely with oil prices from day to day.  Treasury inflation-
@@ -77,6 +107,56 @@ basket of other major currencies over the intermeeting period, amid heightened
 concerns about financing the deepening U.S. current account deficit (Chart 3).  At
 times, market participants pointed to statements of Federal Reserve officials about
 international financial developments as a factor contributing to such worries.  The
+Chart 2
+Capital Market Developments
+Wilshire
+Nasdaq
+Stock Prices
+S&P 500 EPS
+NIPA, economic
+profits before tax
+Corporate Earnings Growth Percent
+*Change from four quarters earlier.
+    Source. I/B/E/S for S&P 500 EPS.
+S&P 500 (left scale)
+Ten-Year Treasury Note (right scale)
+Implied Volatility
+Daily
+FOMC
+Long-run real Treasury yield*
+* Yield on synthetic Treasury perpetuity minus Philadelphia Fed 10-year
+     expected inflation.
+  + Denotes the latest observation using daily interest rates and stock prices
+     and latest earnings data from I/B/E/S.
+Nov.
+03
+Basis Points
+Ten-Year BBB (left scale)
+Five-Year high-yield (right scale)
+Lower-Tier Corporate Bond Spreads*
+*Measured relative to an estimated off-the-run Treasury yield curve.
+Ten-Year AA
+Ten-Year Swap
+Higher-Tier Corporate Bond Spreads*
+*AA spread measured relative to an estimated off-the-run Treasury yield
+curve. Swap spread measured relative to the on-the-run Treasury security.
+Chart 3
+International Financial Indicators
+Nominal Trade-Weighted Dollar
+Indexes Index(12/31/02=100)
+Broad
+Major Currencies
+Other Important Trading Partners
+FOMC  Daily
+Ten-Year Government Bond Yields
+Percent
+UK (left scale)
+Germany (left scale)
+Japan (right scale)
+EMBI+ Index
+Basis Points
+FOMC
+Daily
 dollar dropped most steeply against the Canadian dollar—about 6½ percent.  With
 signs of further strengthening of Canadian domestic demand and concerns building
 about inflation pressures, the Bank of Canada raised its official rate 25 basis points on
@@ -101,6 +181,51 @@ last month, and results from the October Senior Loan Officer Opinion Survey
 indicate that banks have continued to ease standards and terms on these loans.
 Household debt appears to have decelerated a little in the third quarter as mortgage
 borrowing, although remaining quite brisk, slowed somewhat while consumer debt
+Chart 4
+Debt and Money
+C&I Loans
+Commercial Paper
+Bonds
+Changes in Selected Components of
+Nonfinancial Business Debt $Billions
+Monthly rate
+Changes in C&I Loan Standards and Demand*
+*Fraction of respondents reporting (tighter standards / increased
+demand) less fraction reporting (looser standards / decreased
+demand) for large and medium-sized firms.
+Source. Senior Loan Officer Opinion Survey.
+Growth of Household Debt Percent
+Quarterly, s.a.a.r.
+e Estimated.
+Q3 e
+Q3 e
+Consumer
+Credit
+Home
+Mortgage
+Applications
+(left axis)
+Originations
+(right axis)
+Source. Staff estimates.
+Mortgage Refinancing Activity
+$BillionsIndex(3/16/90 = 100)
+Monthly, s.a. Monthly, s.a.
+Equity Funds
+Bond Funds*
+Net Inflows to Equity
+and Bond Mutual Funds
+Monthly rate, n.s.a.
+* Includes hybrid funds but excludes reinvested dividends.
+e Estimated.
+Velocity
+M2 Velocity and Opportunity Cost
+Percent
+Opportunity Cost*
+(left axis)
+Velocity
+(right axis)
+*Two-quarter moving average.
 continued to expand at a moderate pace.  After surging in the first half, federal sector
 debt advanced moderately in the third quarter.  In October, the Treasury reached the
 statutory debt limit and began using extraordinary accounting devices to continue
@@ -254,6 +379,15 @@ benchmarks:  Such a tightening would be consonant with the prescriptions from a
 battery of interest rate rules (Chart 5) and would boost the real federal funds rate
 nearer to the middle of the range of various measures of the equilibrium real interest
 rate (Chart 6).  The Committee’s desire to align the stance of policy more closely with
+Chart 5
+Actual and Assumed Federal Funds Rate and
+Range of Values from Policy Rules and Futures Markets
+Shaded region is the range of values from rules 1a, 2a, 4, 5, and 6, below
+Actual federal funds rate and Greenbook assumption
+Market expectations estimated from futures quotes
+Values of the Federal Funds Rate from Policy Rules and Futures Markets
+Q3 Q4 Q1 Q2 Q3
+** Computed using average TIPS and nominal Treasury yields to date.
 Rules Chart: Explanatory Notes
 In all of the rules below, it denotes the federal funds rate, Bt the staff estimate at date t of trailing four-
 quarter core PCE inflation, (yt-yt*) the staff estimate (at date t) of the output gap, B* policymakers’
@@ -280,6 +414,16 @@ it = 0.49it-2 + 0.51 [0.27
 it = 0.97it-1+ [-1.21 + 0.66Bcomp5|t] .43b .46
 a RMSE for rules with imposed coefficients is calculated setting B*=2.
 b RMSE for TIPS-based rule is calculated for 1999:1-2004:3.
+Chart 6
+Actual Real Federal Funds Rate and
+Range of Estimated Equilibrium Real Rates
+Actual Real Funds Rate
+Historical Average: 2.7 (1964Q1-2004Q3)
+TIPS-Based Estimate
+Equilibrium Real Funds Rate Estimates (Percent)
+*** Also employs the staff projection for the current and next quarters.
+*** Also employs the staff projection for the current quarter.
+*** Adjusts the five-year forward, five-year real rate by an assumed term premium of 75 basis points.
 such benchmarks might be heightened by the perceived need to be vigilant in
 response to the decline in the foreign exchange value of the dollar and the jump in
 some short-term measures of inflation compensation.  Looking forward, though, the
@@ -525,98 +669,8 @@ Buyer
 Conventional home
 mortgages
 primary market
-Appendix Table 1
-Selected Interest Rates
-(Percent)
-p - preliminary data
-Nov 
-Dec 
-    
-Jan 
-Feb 
-Mar  
-Apr  
-May  
-Jun  
-Jul  
-Aug  
-Sep  
-Oct
-Sep  
-Sep  
-Sep  
-Sep  
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Nov
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Oct  
-Nov  
-Nov  
-Nov  
-Nov
 Strictly Confidential (FR)-
 Class II FOMC
-Appendix Table 2
-Money Aggregates
-Seasonally adjusted
-nontransactions components
-Annual growth rates(%):
-Annually (Q4 to Q4)
-  2001            
-  2002            
-  2003
-Quarterly(average)
-  2003-Q4         
-  2004-Q1         
-       Q2         
-       Q3
-Monthly
-  2003-Oct.       
-       Nov.       
-       Dec.        
-                   
-  2004-Jan.        
-       Feb.        
-       Mar.        
-       Apr.        
-       May         
-       June        
-       July        
-       Aug.        
-       Sep.        
-       Oct. e
-Levels ($billions):
-Monthly
-  2004-May         
-       June        
-       July        
-       Aug.        
-       Sep.
-Weekly
-  2004-Sep.  6     
-            13     
-            20     
-            27     
-                   
-       Oct.  4     
-            11     
-            18p    
-            25p
-Period
-In M3 onlyIn M2
-p    prel iminary   
- e    est imated
 Changes in System Holdings of Securities 1 Strictly Confidential
 (Millions of dollars, not seasonally adjusted) Class II FOMC
 November 4, 2004
