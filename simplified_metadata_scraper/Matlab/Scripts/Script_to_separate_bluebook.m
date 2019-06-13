@@ -1,7 +1,21 @@
-%% Script to analyze bluebooks
-%PRELIMINARY
+%% Script to separate bluebooks paragraph by paragraph
+%  This version: June 12th, 2019
 
 Tbluebook   = readtable('../Output/Bluebook/CSV/Bluebook_anand.csv');
+
+%% Extract clean text
+tic
+
+Tbluebook.clean_file_text = strings(size(Tbluebook,1),1);              %Initialize file to save text. 
+
+for t_bbook = 1:size(Tbluebook,1)
+
+Tbluebook.clean_file_text(t_bbook,1) ...
+           = extractFileText(strcat('../Output/Bluebook/TXT/',string(Tbluebook.start_date(t_bbook))));
+                           
+end  
+
+toc         %Approximately 15 seconds
 
 %% Start date
 
@@ -11,7 +25,7 @@ ind_end     = find(strcmp(Tbluebook.start_date(:,1),'2009-03-17'));
 
 %% Get the text from the file
 
-data        = string(Tbluebook.file_text(ind_start:ind_end));
+data        = string(Tbluebook.clean_file_text(ind_start:ind_end));
 
 dates       = Tbluebook.start_date(ind_start:ind_end);
 
@@ -26,7 +40,9 @@ paragraphs  = strings(size(data,1),1);
 
 %% Separate the files into blocks, according to the bluebook structure
 
-expression  = '(\d{1,2}\)';               %Regular expresssion that looks for (#)
+expression  = '(?m)^\(\s?\d{1,2}\s?\)';               %Regular expresssion that looks for (#)
+
+tic
 
 for i_data      = [1:170,172:size(data,1)]
 
@@ -78,7 +94,9 @@ end
 
 header0     = extractBefore(data(i_data,1),'(1)');  
 
-header0     = header0(1,:);
+header0     = strtrim(header0(1,:));
+
+header0     = replace(header0,char(10),'.');
 
 header0_aux = splitSentences(header0);
 
@@ -89,13 +107,19 @@ header_aux(i_data,1) ...
 
 for i_para  = 1:size(AUX,2)-1
    
-    aux_para ...
-            = splitSentences(paragraphs(i_data,i_para));
+    aux_para_1...
+            = strtrim(paragraphs(i_data,i_para));
+            
+    aux_para_2 ...
+            = splitSentences(aux_para_1); clear aux_para_1
+        
+    aux_para_3 ...
+            = splitSentences(strtrim(replace(aux_para_2(end,1),char(10),' .'))); clear aux_para_2  %IMPORTANT LINE!
         
     header_aux(i_data,i_para+1) ...
-            = aux_para(end,1);
+            = aux_para_3(end,1);     
         
-    clear aux_para    
+    clear aux_para_3    
   
 end
 
@@ -112,10 +136,18 @@ aux_numbers = AUX(1,headers_dummy);
 
 % Eliminate headers if they contain numbers or do not start with caps
 
-dummy_title = ismissing(regexp(aux_titles,'[0-9]','match','once')) & ...
-              ~ismissing(regexp(aux_titles,'^[A-Z]','match','once'));
-              
-
+dummy_title = ismissing(regexp(aux_titles,'[0-9]','match','once')) & ...       %No Numbers
+              ismissing(regexp(aux_titles,'\n+','match','once'))&...           %No line breaks
+              ~ismissing(regexp(aux_titles,'^[A-Z]','match','once'))&...       %First Cap
+              ~ismissing(regexp(aux_titles,'\w{2}','match','once'))&...        %At least two consecutive words
+              ~ismissing(regexp(aux_titles,'^\w{2}','match','once'))&...       %At least two consecutive words at the beginning
+              ismissing(regexp(aux_titles,',','match','once'))&...             %No commas
+              ismissing(regexp(aux_titles,'(\w+\s\w+){7}','match','once'))&... %No titles with 8 words or more
+              ismissing(regexp(aux_titles,'(Paths? Actual)','match','once'))&...
+              ismissing(regexp(aux_titles,'(August Subsequent September)','match','once'))&...
+              ~ismissing(regexp(aux_titles,'(\w+\s\w+){1}','match','once'))&...
+              ismissing(regexp(aux_titles,'May|June|averaged|QI','match','once'));
+                   
 aux_titles  = aux_titles(dummy_title);
 
 aux_numbers = aux_numbers(dummy_title);
@@ -135,3 +167,133 @@ end
 clear aux AUX aux_numbers aux_titles 
   
 end
+
+toc             %Approximately 116 seconds
+%% Write paragraphs in .mat files
+
+Tpara    = table(Tbluebook.start_date(ind_start:ind_end),...
+                 Tbluebook.end_date(ind_start:ind_end)); 
+
+Tpara.Properties.VariableNames ...
+         = {'start_date','end_date'};
+
+for i_para = 1:size(paragraphs,2)     
+   
+    Tpara  = [Tpara,table(paragraphs(:,i_para))];
+    
+    Tpara.Properties.VariableNames{end} ...
+           = strcat('Paragraph',num2str(i_para));     
+end
+
+%writetable(Tpara,'../Output/Bluebook/CSV/Paragraphs.csv');
+
+save('../Output/Bluebook/MAT/Paragraphs.mat','Tpara'); 
+
+%% Write paragraphs in .mat files
+
+Tpara    = table(Tbluebook.start_date(ind_start:ind_end),...
+                 Tbluebook.end_date(ind_start:ind_end)); 
+
+Tpara.Properties.VariableNames ...
+         = {'start_date','end_date'};
+
+for i_para = 1:size(paragraphs,2)     
+   
+    Tpara  = [Tpara,table(paragraphs(:,i_para))];
+    
+    Tpara.Properties.VariableNames{end} ...
+           = strcat('Paragraph',num2str(i_para));     
+end
+
+clear i_para
+
+%writetable(Tpara,'../Output/Bluebook/CSV/Paragraphs.csv');
+
+save('../Output/Bluebook/MAT/Paragraphs.mat','Tpara'); 
+
+%% Write headers in .mat files
+
+Thead    = table(Tbluebook.start_date(ind_start:ind_end),...
+                 Tbluebook.end_date(ind_start:ind_end)); 
+
+Thead.Properties.VariableNames ...
+         = {'start_date','end_date'};
+
+for i_head = 1:size(header,2)     
+   
+    Thead  = [Thead,table(header(:,i_head))];
+    
+    Thead.Properties.VariableNames{end} ...
+           = strcat('Header',num2str(i_head));     
+end
+
+%writetable(Thead,'../Output/Bluebook/CSV/Headers.csv');
+
+save('../Output/Bluebook/MAT/Header.mat','Thead'); 
+
+%% Write header's paragraph number in .mat files
+
+Theadnum    = table(Tbluebook.start_date(ind_start:ind_end),...
+                 Tbluebook.end_date(ind_start:ind_end)); 
+
+Theadnum.Properties.VariableNames ...
+         = {'start_date','end_date'};
+
+for i_head = 1:size(header,2)     
+   
+    Theadnum  = [Theadnum,table(header_indicator(:,i_head))];
+    
+    Theadnum.Properties.VariableNames{end} ...
+           = strcat('HeaderNumber',num2str(i_head));     
+end
+
+%writetable(Theadnum,'../Output/Bluebook/CSV/HeaderParagraphNumbers.csv');
+
+save('../Output/Bluebook/MAT/Headernum.mat','Theadnum'); 
+
+%% Find mistakes in paragraph enumeration
+
+aux_check_order = strtok(paragraphs);
+
+aux_check_order  = regexp(aux_check_order,'\d{1,2}','match');
+
+%% Mistakes in paragraph enumeration
+
+tic
+
+for i_data = 1: size(aux_check_order,1)
+       
+    nonmissing ...
+           = string(aux_check_order(i_data,~cellfun(@isempty,aux_check_order(i_data,:))));
+       
+    aux_count ...
+           = size(nonmissing,2); 
+       
+    correct_aux(i_data,1) ...
+           = sum(1:1:aux_count==str2double(nonmissing),2)==aux_count;
+    
+end
+
+toc
+
+%% Generate an array with the mistakes
+
+mistakes  = paragraphs(~correct_aux,:);
+
+%% Write .mat file with the mistakes
+
+Tmistakes    = table(Tpara.start_date(~correct_aux),...
+                 Tpara.end_date(~correct_aux)); 
+
+Tmistakes.Properties.VariableNames ...
+         = {'start_date','end_date'};
+
+for i_mistake = 1:size(mistakes,2)     
+   
+    Tmistakes  = [Tmistakes,table(mistakes(:,i_mistake))];
+    
+    Tmistakes.Properties.VariableNames{end} ...
+           = strcat('Paragraph',num2str(i_mistake));     
+end
+
+save('../Output/Bluebook/MAT/mistakes.mat','Tmistakes'); 
