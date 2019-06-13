@@ -48,7 +48,7 @@ def download_pdf(file,download_clean):
     parsed = parser.from_file("../output/Bluebook/"+file['start_date'])
     document['file_text'] = parsed['content']
     clean_parser = parser.from_file("../output/Bluebook/"+file['start_date'],xmlContent=True)
-    clean_text = clean_pdf(clean_parser)
+    clean_text = clean_pdf(clean_parser,document['start_date'])
     if download_clean == True:
         with open("../output/clean_bluebook/"+document['start_date'],"w") as f:
             f.write(clean_text)
@@ -93,7 +93,8 @@ def write_statement_csv(statements,grouping):
         for statement in statements:
             writer.writerow(statement)
 
-def clean_pdf(clean_parser):
+def clean_pdf(clean_parser, start_date):
+    need_manual = ['1970-10-20','1973-06-18','1989-03-28','1995-11-15']
     soup = BeautifulSoup(clean_parser['content'], 'lxml')
     output = ""
 
@@ -123,6 +124,8 @@ def clean_pdf(clean_parser):
 
                 if reached_appendix or not valid_page:
                     break
+
+                #Line Specific Classifier
                 # Page Number
                 elif re.search("^(-)( ?)(\d{1,3})( ?)(-)$", p_text):
                     valid_line = False
@@ -141,10 +144,33 @@ def clean_pdf(clean_parser):
                     valid_line = False
                 elif len(p_text.split()) <= 1:
                     valid_line = False
+
+                if start_date in need_manual:
+                    result = manual_transformations(p_text, start_date)
+                    if result:
+                        if result == "ESCAPE":
+                            print("TERMINATED WRITING FOR FILE" + start_date)
+                            reached_appendix = True
+                            break
+                        print("doing manual transform of file from {} to {}"\
+                              .format(p_text, result)
+                              )
+                        p_text=result
                 if valid_line:
                     output+=p_text+"\n"
     return output
 
+def manual_transformations(p_text,start_date):
+    if '(7) "Moderate growth' in p_text and start_date=="1970-10-20":
+        return p_text.replace("\"Moderate","Moderate")
+    elif "(12)- M3 is" in p_text and start_date=="1989-03-28":
+        return p_text.replace("- M3"," M3")
+    elif "(1). Over the" in p_text and start_date=="1995-11-15":
+        return p_text.replace("(1).", "(1)")
+    elif "TABLE 1" in p_text and start_date=="1973-06-18":
+        return "ESCAPE"
+    else:
+        return None
 
 if __name__ == "__main__":
     main()
