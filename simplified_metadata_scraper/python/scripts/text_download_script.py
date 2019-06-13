@@ -94,7 +94,7 @@ def write_statement_csv(statements,grouping):
             writer.writerow(statement)
 
 def clean_pdf(clean_parser, start_date):
-    need_manual = ['1970-10-20','1973-06-18','1989-03-28','1995-11-15']
+    need_manual = ['1970-10-20','1973-06-18','1989-03-28','1995-11-15','1970-11-17','1970-12-15']
     soup = BeautifulSoup(clean_parser['content'], 'lxml')
     output = ""
 
@@ -167,10 +167,14 @@ def manual_transformations(p_text,start_date):
         return p_text.replace("- M3"," M3")
     elif "(1). Over the" in p_text and start_date=="1995-11-15":
         return p_text.replace("(1).", "(1)")
-    elif "TABLE 1" in p_text and start_date=="1973-06-18":
+    elif "STRICTLY CONFIDENTIAL (FR)" in p_text and start_date=="1973-06-18":
         return "ESCAPE"
+    elif "Policy alternative A. (12)" in p_text and start_date=="1970-11-17":
+        return p_text.replace("A. (","A\n(")
+    elif "(1) Deposit data" in p_text and start_date=="1970-12-15":
+        return p_text.replace("(1)","(18)")
     else:
-        return None
+         return None
 
 if __name__ == "__main__":
     main()
