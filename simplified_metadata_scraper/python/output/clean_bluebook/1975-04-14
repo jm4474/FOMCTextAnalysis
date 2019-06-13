@@ -46,6 +46,8 @@ first created electronic text from the document image.  Where the OCR results we
 staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
 tables were not reliably recognized by the OCR process and were not checked or corrected by staff.
 Content last modified 6/05/2009.
+Strictly Confidential (FR) Class I FOMC
+April 11 1975
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
 Prepared for the Federal Open Market Committee
@@ -70,10 +72,15 @@ Growth in Monetary Aggregates and RPD's
 over March-April Period
 Reserve and monetary aggregates Range of
 (Growth at SAAR in per cent) Tolerance Latest Estimates
+M1 5-7 9.9
+M2  8-10 10.6
 RPD 3½-5½ 1/ -0.6
 Memo:
 Federal funds rate 4-3/4-5-3/4 Avg. for statement
 (per cent per annum) week ending
+Mar. 26 5.53
+Apr. 2 5.59
+Apr. 9 5.28
 (2) Growth of the bank credit proxy resumed in March, following
 the slight February contraction. The proxy appears to be rising more
 rapidly in April, and may show an annual growth rate of around 8 per cent
@@ -139,6 +146,7 @@ Bank Credit
 Short-term Market Paper
 (Monthly average change
 in billions)
+Large CD's 2.2 1.8 .9 -. 1 -. 2
 Nonbank commercial paper .4 .6 -. 6 -. 4
 Prospective developments
 (8) The presentation of alternative policy specifications
@@ -154,6 +162,10 @@ for interim periods (shown for convenience as point estimates rather than
 ranges) under the three alternatives are included in the detailed table
 on the next page.
 M1  6-8½ 5-7½ 4-6½
+M2  10-12 8½-10½ 7-9
+M3  11½-13½ 10-12 8½-10½
+M4 7½-10½ 7-10 6-9
+M5  10-12 9½-11½ 8-10
 Bank credit proxy 7½-10½ 6½-9½ 5½-8½
 (9) Of the alternatives shown, alternative B most nearly
 corresponds to the longer-run objectives implied in Committee specifica-
@@ -164,10 +176,33 @@ Dec.'74-Sept.'75
 Mar. '75-Sept. '75
 Dec.'74-Sept.'75
 Mar.'75-Sept. '75
+Alt. A
+717.4
+721.8
+728.1
+734.5
+751.3
+767.9
+783.0
+Alt. B
+717.4
+721.7
+727.9
+734.0
+749.1
+764.3
+777.8
 Alt. C
 Alt. A Alt. B Alt. C
 Growth Rates
 Credit Proxy
+Ilt. A Alt. B Alt. C
+498.2 498.2 498.2
+502.2 502.0 502.0
+505.0 505.0 504.5
+508.3 508.3 507.7
+521.2 520.3 518.3
+532.2 529.8 526.2
 rate of growth for M 1 over the period from December 1974 to September
 a more rapid 6¾ per cent annual rate to make up for the first quarter
 shortfall. M 2 for this alternative shows about the same rate of growth
@@ -180,6 +215,9 @@ are shown in the table below for Committee consideration.
 Alt. A Alt. B Alt. C
 Range of tolerance
 for April-May
+M1  7-9 64-8k 6-8
+M2  9%-11 9k-11 9-11
+RPD 21-4k 1 -34 k-21
 Federal funds rate
 (intermeeting range) 4-5% 5k-6k 6-7
 (11) Various different short-run specifications could be
@@ -346,6 +384,11 @@ WEEKLY LEVELS-SMILLIONS
 f -5.5)
 ( 2.4) ( 4.2) ( 2.6) ( 10.4) ( -10.8)
 ( 1,983)
+FEB. 12
+19
+26
+APR. 2
+9
 ------- ------------------ ------ ---------------- -------------------- ^------------- -------------- ----------- ---- -- ------ ~----
 NOTE: RESERVE SERIES HAVE BEEN ADJUSTED TO REMOVE DISCONTINUITIES ASSOCIATED WITH CHANGES IN RESERVE REQUIREMENT RATIO.
 DATA SHOWN IN PARANTHESES ARE CURRENT PROJECTIONS. AT THE FOMC MEETING OF MARCH 18, 1975 THE COMMITTEE AGREED ON A RPD
@@ -367,6 +410,8 @@ f288. )
 ( 8.4)
 MAR.-APR. ( 9.91 ( 10.6) ( 7.9)
 WEEKLY LEVELS-$BILLIONS
+APR. 2 P 287.6
+9 PF 287.8
 ( 5.4) I 11.2) ( -15.6)
 - - -- -- - --- -- - --- ------- ------ ------ - --- ---- ----- ------ ------ ---- - ----- ------ ------ -- - - ----
 ( 89.8)
@@ -383,6 +428,8 @@ Bills Coupon Agency RP's Open Market A Member Other 4/ req. res. against availab
 & Accept. Issues Issues Net 3/ Total Operations Bank.Borrowing Factprs. U.S.G. and interb. (6)+(7)+(8)-(9) reserves 5/
 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
 April 495
+April 2 -282r 373r 208 -2,371 -2,072r -493 -104 
+9 06p 166p 14
 * Special certificate (Direct Treasury borrowing from F.R.) ** Reflects special certificate purchase.
 CONFIDENTIAL (FR)
 CLASS II - FOMC
@@ -399,6 +446,8 @@ Sept.
 Oct.
 Nov.
 Dec.
+Apr. 2
+9
 U.S. Govt. Security
 Dealer Positions
 Bills
@@ -421,6 +470,20 @@ Member Bank Reserve Positions
 - 9,555
 - 9,224
 - 8,250
+- 8,689
+- 9,715
+-10,169
+- 9,744
+- 9,533
+-10,302
+- 8,653
+- 9,074
+-10,184
+- 9,961
+- 9,828
+-11,297
+-10,899
+-10,024
 - 9,497p
 -11,415p
 - ~I I I . . . .,. .I. I. LL . I. -I __ __ __ 11 __ __ __ _ A _ _ _ _
@@ -454,6 +517,8 @@ Sept.
 Oct.
 Nov.
 Dec.
+Daily--Apr. 3
+10
 (2) (3)
 I * I . _ - L ~ L s ________________ -L
 Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5
@@ -493,8 +558,29 @@ NON- SUP PVT CREDIT LOAN E
 PERIOD TOTAL PORROW DEPOS PROXV INVEST Ml M2 M3 M4 MS M6 M7
 (1) (21 (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)
 ANNUALLY:
+FEP. 32,996 31.80w 30,920 4r4.4 652.4 273.1 580.9 932.5 649.1 1000.7 1113.7 1153.6
+MAR. 32,870 ?31,56 31.131 457.9 662.4 275.2 585.5 940.0 653.4 1007.9 1122.1 1162.8
+APR. 33,72A 31,992 31,628 469.2 672.3 276.6 580.4 045.9 663.3 1019.8 1136.3 1177.5
+MAY. 34.340 31.750 32,IQ4 475.9 679.1 '77.6 591.6 948.8 670.2 1027.3 1144.5 1186.1
+JUNF 34,5r6 31.550 32,616 481.2 682.9 280.0 597.1 959.9 678.9 1037.2 1155.2 1197.2
+JULY 35,180 31,879 32,850 484.9 692.0 280.5 599.7 959.9 683.3 1043.5 1162.9 1205.9
+AUG. 35.066 31,730 33,145 487.5 697.3 280.7 602.2 963.0 686.0 1046.7 1167.2 1211.5
+SEPT. '5,270 A1,988 33,360 4P9.2 692.3 281.1 603.8 965.5 688.7 1050.3 1171.7 1216.9
+OCT. 35,179 33,366 33.31P 488.3 692.3 282.2 608.1 971.2 604.3 1057.4 1180.5 1225.6
+NOV. 3
+c
+,128 33,876 33,241 491.2 693.4 783.8 613.0 978.3 698.5 1063.8 1187.1 1231.1
+DEC. 35,584 34,857 33,423 494.3 686.0 284.3 614.3 982.5 704.6 1072.8 1196.4 1239.1
+FEB. 39,006 34,8%8 33.196 405.7 692.2 283.8 621.0 996.0 713.2 1088.2 1213.6 1255.0
+MAR. P 34,857 4.751 33,06? 498.2 696.0 2R7.1 627.4 1007.6 717.4 1097.5 1223.6 1265.0
+MAR. 5 35,001 34,931 33,192 494.9 285.3 624.0 714.2
+12 34,809 34,749 33,077 498.5 288.1 628.0 717.2
+APR. 2P 35,056 35,005 33,233 500.0 287.6 629.5 720.0
 --------------- ----------- ------- ------------------------------------------------------ i------- -- --------------------- -----
 NOTES: RESERVE REQUIREMENTS ON EURODOLLAR BORROWINGS ARE INCLUDED BEGINNING OCTOBER 16, 1969, AND REQUIREMENTS ON BANK-RELATED
+COMMERCIAL PAPER ARE INCLUDED BEGINNING OCTOBER 1, 1970.
+1/ BASED ON DATA ADJUSTED FOR CHANGES IN RESERVE REQUIREMENTS.
+P - PRELIMINARY.
 ----------------------------------------- ------------ ------------ ------- ----------------------- -----------------------
 APRIL 11, 1975
 APPENDIX TABLE II-A
@@ -523,6 +609,11 @@ COM'L
 PAPERS
 ---------------------------------------- -------------------------------------------- -----------------
 NOTES: RESERVE REQUIREMENTS ON EURODOLLAR BORROWINGS ARE INCLUDED BEGINNING OCTOBER 16, 1969, AND REQUIREMENTS ON BANK-RELATED
+COMMERCIAL PAPER ARE INCLUDED BEGINNING OCTOBER 1, 1970.
+1/ GROWTH RATES ARE BASED ON ESTIMATED MONTHLY AVERAGE LEVELS DERIVED BY AVERAGING END OF CURRENT MONTH AND END OF
+PREVIOUS MONTH REPORTED DATA.
+P - PRELIMINARY.
+------------------------------------------------------------------------------------------------------------------
 - -- -- - -- -- - - - -- - -- - - - -- - - - - -- - - - -- -- - -- - -- -- -- - - - -- - - - - --- - - - -- - - -- - - - -- -- -- - -- - -- -- -- - -- - -- - -
 COMPONENTS OF
 APRIL 11, 1975
@@ -542,6 +633,7 @@ NON- US
 COM'L DEPOS GOV'T
 PAPERj/ FUNDS DEMAND
 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+APR. 2P 69.7 217.9 432.4 341.9
 --------------------------------------------------------- - ------- ---------- ------------
 APR.
 MAY

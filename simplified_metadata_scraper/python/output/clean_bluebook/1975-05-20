@@ -71,12 +71,15 @@ Growth in Monetary Aggregates and RPD's
 over April-May period 1/
 Reserve and monetary aggregates Range of
 (Growth at SAAR in per cent) Tolerance
+M1 6-1/2--9
 M2  9-1/2-11-3/4
 RPD 1-1/2--4-3/4
 Latest Estimates
 Memo:
 Federal funds rate
 (per cent per annum) 4-3/4--5-3/4 Avg. for statement
+week ending
+Apr. 23 5.54
 (2) The bank credit proxy appears to be expanding at an annual
 rate of about 4 per cent over the April-May period. With business demand
 for short-term credit remaining weak and the spread between commercial paper
@@ -136,11 +139,13 @@ Calendar Twelve Six Three Past
 Year Months Months Months Month
 Apr.'75 Apr.'75 Apr.'75 Apr.'75
 Apr.'74 Oct.'74 Jan.'75 Mar.'75
+Total reserves 8.6 4.0 -.5 -8.2 8.4
 Concepts of Money (Revised Series)
 Bank Credit
 Short-term Market Paper
 (Monthly average change
 in billions)
+Large CD's 2.2 1.2 .4 -1.4 -1.4
 Nonbank commercial paper .4 .4 .2 -- .1
 branches.
 NOTE: All items are based on average of daily figures, except for data on
@@ -159,6 +164,11 @@ for total reserves, nonborrowed reserves, and RPD's.
 Alt. A Alt. B Alt. C
 Ranges of tolerance
 for May-June
+M1  8-10 7½-9½ 7-9
+M2 10½-12½ 10-12 9-11
+RPD 3 -5 2¼-4¼ 1¼ -3¼
+Federal funds rate
+(intermeeting range) 4-5 4¾-5¾ 5½ -6½
 (9) The ranges of tolerance summarized above are generally
 consistent with the longer-run 12-month growth ranges adopted by the Committee
 at its last meeting. These growth ranges for the March '75-March '76 period
@@ -173,17 +183,62 @@ of course, imply different patterns of interest rate change and monetary
 Alternative Longer-Run Growth Rates for Key Monetary Aggregates
 M1
 Alt. A Alt. B
+Alt. A
+716.2
+718.8
+722.1
+727.6
+M4
+Alt. B
+716.2
+718.8
+721.9
+727.0
 Alt. C
+Alt. C
+716.2
+718.8
+721.8
+726.5
 Growth Rates for
 M 2
 Alt. A Alt. B
+M5
+Alt. A Alt B
+1097.0 1097.0
+1105.4 1105.4
+1114.1 1113.7
+1126.3 1124.7
 Key Monetary Aggregates
 M3
 Alt. C Alt. A Alt. B
+Alt. C
+1097.0
+1105.4
+1113.3
+1123.3
+Alt. A
+498.1
+500.1
+501.7
+506.
+S 12.9
+12.1
+12.7
 Credit Proxy
+S Alt. B
+1 498.1
+L 500.1
+S 501.5
+3 505.7
 S 518.0
 S 537.9
 Alt. C
+Alt. C
+498.1
+500.1
+501.4
+505.3
 aggregate growth as the year progresses. Alternative A, which contemplates
 a near-term easing of money market conditions, and an 8 per cent rate of growth
 in M1 over the second and third quarters, would imply a considerable
@@ -310,6 +365,8 @@ NARROW MONEY SUPPLY M1 BILLIONS OF DOLLARS
 -I 300
 I I I I I I I I I I I I I
 ER MONEY SUPPLY M2
+,260
+1-
 J F M
 1975
 CONFIDENTIAL (F.R.)
@@ -325,6 +382,8 @@ SA NSA Reserves Reserves Required Demand Deposits Nondeposits Interbank
 MONTHLY LEVELS-$MILLIONS
 PERCENT ANNUAL GROWTH
 WEEKLY LEVELS-$MILLIONS
+MAY 7
+14
 ( -1.8)
 I -7.1)
 ( -10.1)
@@ -367,9 +426,15 @@ NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1/
 - 497
 - 43
 - 280
+- 710
+- 404
+1,620
+- - 2 -- - 2 2,390
 - 293
 - 642
 - 612
+-- - - - 247 -2,827
+50 - -- -- - -- 476 - 698
 System, and redemptions (-) of Agency and Treasury coupon issues.
 5/ Includes changes in both RP's (+) and matched sale-purchase transactions (-).
 CONFIDENTIAL (FR)
@@ -392,6 +457,8 @@ MAY 16, 1975
 TABLE 6
 SELECTED INTEREST RATES
 (Per Cent)
+Short-Term Long-Term
+Treasury Bill 1 90-119 Day CD's New Issue-NYC Aaa Utility Municipal U.S. Government FNMA
 Federal Commercial New Recently Bond (10-yr. Constant Auctions
 Prlod funds 90-day -year Paper 60-89 Day 90-119 Day Issue Offered Buyer Maturity) Yields
 July
@@ -400,9 +467,17 @@ Sept.
 Oct.
 Nov.
 Dec.
+Apr. 2
+9
 Daily--May 8
 (1)
 13.55
+(5)
+12.25
+8.00
+(9)
+7.15
+5.16
 the weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for Thursday following 
 the end of
 the statement week. Column 11 gives FNMA auction data for the Monday preceeding the end of the statetment week. The FNMA auction yield is 

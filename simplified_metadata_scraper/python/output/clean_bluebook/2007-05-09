@@ -179,6 +179,8 @@ Five-Year High-Yield (right scale)
 March
 FOMC
 Corporate Bond Spreads*
+*Measured relative to an estimated off-the-run Treasury yield curve.
+2004 2005 2006
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -189,6 +191,8 @@ FOMC
 Investment Bank CDS Spreads*
 *Average of Lehman Brothers, Morgan Stanley, Goldman Sachs,
 Bear Stearns, and Merrill Lynch.
+Nov. Dec. Jan. Feb. Mar. Apr.
+2006 2007
 BBB-   
 A
 Spread on Subprime Mortgage CDS
@@ -367,6 +371,23 @@ Range of model-based estimates
 90 percent confidence interval
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 2.3 2.4
+   Small structural model 2.2 2.4
+   Large model (FRB/US) 2.3 2.4
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.8 - 3.7(
+      90 percent confidence interval (0.0 - 4.6(
+Greenbook-consistent measure 3.1 2.9
+Medium-Run Measures
+   Single-equation model 2.3 2.3
+   Small structural model 2.2 2.2
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.4 - 3.2(
+      90 percent confidence interval (0.8 - 3.9(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 3.2 3.0
 Class I FOMC - Restricted Controlled (FR) Page 12 of 36
 path that remains close to 5¼ percent through mid-2008 and then declines gradually
 to just above 4 percent by the end of 2012.  With an inflation goal of 1½ percent (the

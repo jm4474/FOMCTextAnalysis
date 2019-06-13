@@ -133,8 +133,14 @@ Money and credit aggregates
 Domestic nonfinancial debt 6.6 -- 5.2
 Federal 14.9 -- 10.0
 Nonfederal 3.7 -- 3.5
+Bank credit 5.4 5.0 3.0
 Reserve measures
+Total reserves 5.3 0.8
+Monetary base 8.9 7.5
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 91 73
+Excess reserves 1213 1101
 Policy alternatives
 (8) Three policy alternatives are presented below for con-
 sideration by the Committee. Under alternative B, federal funds would
@@ -197,7 +203,13 @@ term mutual funds, at least temporarily. The dollar would strengthen on
 foreign exchange markets.
 Alt. A Alt. B Alt. C
 Growth from April to June
+M2 6 5-3/4 5-1/2
+M3 4-1/4 4 3-3/4
+M1 18-1/2 18 17-1/2
 Growth from April to September
+M2 4 3-1/2 3
+M3 2-1/2 2-1/4 2
+M1 12-3/4 12 11-1/4
 (12) The table above presents monetary growth rates over May
 and June thought consistent with these three alternatives; projections
 for the April-to-September period also are shown, assuming the money
@@ -225,12 +237,20 @@ June
 July
 August
 September
+Quarterly Ave. Growth Rates
+1992 Q4
+1993 Q1
 Q2
 Q3
 Mar 93 to Jun 93
 Apr 93 to Jun 93
 Apr 93 to Sep 93
 Jun 93 to Sep 93
+Q4 92 to Q2 93
+Q4 92 to Q3 93
+Q4 92 to Apr 93
+Q4 92 to Jun 93
+Q4 92 to Sep 93
 (13) Under alternative B, M2 is projected to increase at about
 a 5-3/4 percent average rate over May and June, a considerable pickup
 from recent months.6  Some of the strength in May, and to a lesser
@@ -343,6 +363,27 @@ Jan 93
 Feb 93
 Mar 93
 Apr 93
+Weekly
+Jan 27 93
+Feb 3 93
+Feb 10 93
+Feb 17 93
+Feb 24 93
+Mar 3 93
+Mar 10 93
+Mar 17 93
+Mar 24 93
+Mar 31 93
+Apr 7 93
+Apr 14 93
+Apr 21 93
+Apr 28 93
+May 5 93
+May 12 93
+Daily
+May 7 93
+May 13 93
+May 14 93
 p - preliminary data
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures class rFOMC
@@ -389,14 +430,19 @@ NSA' deposlts' and broker/ only deposits' NSA' NSA' securities
 deal
 e
 r*
+APR. p 301.4 347.3 386.4 69.5 1181.4 843.6 331.7 200.4 343.1 88.8 48.3
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Netpurchases 3 agencies outright
+Period Net Redemptions Net rNtpu s Redemptions Net redemptions holdings
+purchases (-)n 10 over Change total4 Net RPspurchases 2 change 1 year 1-5 5-10 over 10 Change total 4
 Weekly
 January 20
+May 5
+12
 Memo: LEVEL (bil. $)6
 May 12
 --- 375
@@ -417,4 +463,6 @@ May 12
 asury and agency securities.
 rchase transactions (-), and matched purchase sale transactions (+).
 May 12
+within
+1 year 1-5 5-10 over 10 total
 May 14, 1993

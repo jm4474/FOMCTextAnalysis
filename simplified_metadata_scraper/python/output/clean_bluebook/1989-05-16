@@ -132,6 +132,9 @@ February March Aprilp  Aprilp
 Money and credit aggregates
 Reserve measures
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 437 478 582
+Excess reserves 1154 957 786
 p - preliminary.
 1. Includes "other extended credit" from the Federal Reserve.
 NOTE: Monthly reserve measures, including excess reserves and borrowing, are
@@ -170,8 +173,16 @@ rates. However, much of the drawdown of liquid balances appears to have
 Alt. A Alt. B Alt. C
 Growth from March
 to June
+M2 2-1/4 1-1/2 3/4
+M3 4-1/4 4 3-3/4
+M1 -3-3/4 -4-1/2 -5-1/4
 Growth from Q4'88
 to June
+M2 2-1/4 2 1-1/2
+M3 4-1/4 4-1/4 4
+M1 -1-3/4 -2 -2-1/2
+Associated federal
+funds rate range 7 to 11 8 to 12 8 to 12
 been unanticipated, judging from the absence of an unusual buildup before
 the tax season, as well as the normal behavior of recent quarterly decla-
 rations. As a consequence, the rebound in money growth is expected to
@@ -186,6 +197,13 @@ government deposits no longer serve as a source of new funds. Because the
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+Levels in billions
+1989 January 3065.6 3065.6 3065.6 3920.5 3920.5 3920.5 786.3 786.3 786.3
+February 3069.7 3069.7 3069.7 3929.9 3929.9 3929.9 787.4 787.4 787.4
+March 3079.5 3079.5 3079.5 3952.2 3952.2 3952.2 786.3 786.3 786.3
+April 3081.0 3081.0 3081.0 3961.4 3961.4 3961.4 782.9 782.9 782.9
+May 3078.8 3078.0 3077.2 3968.8 3968.4 3968.0 777.7 777.4 777.1
+June 3096.1 3090.6 3085.1 3994.0 3991.5 3989.0 779.1 777.6 776.1
 Actual Level
 ------ Estimated Level
 * Projected Level
@@ -351,6 +369,23 @@ JAN 89
 FEB 89
 MAR 89
 APR 89
+FEB 1 89
+FEB 8 89
+FEB 15 89
+FEB 22 89
+MAR 1 89
+MAR 8 89
+MAR 15 89
+MAR 22 89
+MAR 29 89
+APR 5 89
+APR 12 89
+APR 19 89
+APR 26 89
+Daily
+MAY 5 89
+MAY 11 89
+MAY 12 89
 Strictly Conlidential (FR)
 Bank Reserves, Money and Credit Aggregate Measures Cles.. ,
 FOMC
@@ -374,6 +409,7 @@ p-preliminary
 Strictly Conidenlial (FR)-
 Components of Money Stock and Related Measures cl... l FOMC
 seasonally adjusted unless otherwise noted MAY. 15, 1989
+S- - i r 1 *l - .. T -- T . I T 1 1- r
 Other
 checkable
 deposits
@@ -436,6 +472,13 @@ CLASS II-FOMC
 Treasury bills Treasury coupons Feceral Net change
 Net purchases agencies outright
 Period Net 2 Rdemp- Net within Redemp- Net redemptions holdings
+purchases tion (-) change 1-year 1-5 5-10 over tions (- change (-) total Net RP
+Feb. 1
+8
+Mar. 1
+8
+May 3
+10
 Memo: LEVEL (bil.$)6
 May 10
 -- 20
@@ -445,6 +488,8 @@ May 10
 -- 179
 short-term notes acquired in exchange for maturing bills.
 maturity shifts and rollovers of maturing coupon issues.
+-- -800
+1,092 3,661
 - -3
 -- 225
 --- 3

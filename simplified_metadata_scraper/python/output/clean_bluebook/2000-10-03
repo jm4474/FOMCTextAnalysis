@@ -37,7 +37,10 @@ Chart 1
 Financial Market Indicators
 Expected Federal Funds Rates Estimated from Selected Treasury Yields
 Financial Futures* Percent
+S-1 7.0 .. Two-vyar
 I I I I I I I I I I I I I I I I I I I I
+Sep Nov Jan Mar May Jul Sep Nov Jan Mar
+2000 2001 2002
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
 Selected Private Long-Term Yields
@@ -45,24 +48,35 @@ Percent Percent
 Daily Corporate BBB 
 FO M C
 High Yield (right scale)
+Sep Nov Jan Mar May Jul Sep
+1999 2000
 Selected Equity Indexes
 lndex(9/1/99) = 100
 FOMC -
+Sep Nov Jan Mar May Jul Sep
+1999 2000
 Selected Risk Spreads*
 Basis Points
 Daily FOMC
 High Yield
 BBB . .. ...'**--. ....
+Sep Nov Jan Mar May Jul Sep
+1999 2000
 *The spreads compare the yields on the Merrill Lynch 175 and BBB indexes
 with the ten-year swap rate.
 Nominal Trade-Weighted Dollar
 Exchange Rates lndex(9/1/99 = 100)
 1-" FOMC - 11C
+Sep Nov Jan Mar May Jul Sep
+1999 2000
+Sep Nov Jan Mar May Jul Sep
+1999 2000
 '' ''
 .5. ~
 Treasury market where some of the scarcity premiums at ten- and thirty-year maturities
 appeared to unwind. Meanwhile, equity prices have been depressed by a larger-than-usual
 number of warnings about corporate earnings and revenues.
+(2) The foreign exchange value of the dollar has appreciated 1 1/2 percent on net
 against a basket of major currencies over the intermeeting period; a gain of around 2 percent
 against the euro was offset only partially by a 1/2 percent depreciation against the Japanese
 yen. European interest rates changed little relative to U.S. interest rates, even though the
@@ -70,6 +84,7 @@ European Central Bank firmed policy 1/4 percentage point on August 31. Still, ov
 the period, the dollar steadily gained ground on the euro, reportedly supported by capital
 flows favoring U.S. assets and conflicting statements from European officials regarding their
 attitude toward a weak euro. The slide in the euro over the intermeeting period cumulated to
+about 5 1/2 percent by September 20, but it was rolled back some on September 22 by
 intervention in the exchange market that day, initiated by the ECB and joined by the U.S.
 monetary authorities and the central banks ofJapan, the United Kingdom, and Canada.
 . Purchases of euros against dollars aggregated to with
@@ -129,6 +144,9 @@ Dec. 1999
 to
 July Aug. Sep. Sep.1
 Money and Credit Aggregates
+Domestic nonfinancial debt 4.8 4.7 n.a. 5.5
+Federal -3.7 -7.3 n.a. -7.0
+Nonfederal 6.9 7.6 n.a. 8.9
 Policy Alternatives
 (6) In the staff forecast, the growth rate of aggregate demand is projected to
 remain below that of potential GDP through 2002, but core inflation still is seen to be on a
@@ -253,6 +271,12 @@ Dec-2000
 Jan-2001
 Feb-2001
 Mar-2001
+Quarterly Averages
+2000 Q1
+2000 Q2
+2000 Q3
+2000 Q4
+2001 Q1
 Growth Rate
 From To
 Dec-1999 Sep-2000
@@ -273,6 +297,31 @@ May 00
 Jun 00
 Jul 00
 Aug 00
+Weekly
+Jul 28 00
+Aug 4 00
+Aug 11 00
+Aug 18 00
+Aug 25 00
+Sep 1 00
+Sep 8 00
+Sep 15 00
+Sep 22 00
+Sep 29 00
+Daily
+Sep 13 00
+Sep 14 00
+Sep 15 00
+Sep 18 00
+Sep 19 00
+Sep 20 00
+Sep 21 00
+Sep 22 00
+Sep 25 00
+Sep 26 00
+Sep 27 00
+Sep 28 00
+Sep 29 00
 October 2, 2000
 p - preliminary data MFMA:JWR
 Strictly Confidential (FR)-
@@ -286,6 +335,11 @@ Annual arowth rates(%):
 Annually (Q4 to Q4)
 Levels (Sbillions):
 Monthly
+Weekly
+2000-Aug. 7 1088.9 4816.2 3727.3 2011.9 6828.1
+Sep. 4 1106.8 4846.4 3739.7 2023.6 6870.0
+llp 1089.3 4850.8 3761.5 2023.7 6874.5
+18p 1091.5 4869.2 3777.6 2038.7 6907.9
 p preliminary
 pe preliminaryestimate
 Changes in System Holdings of Securities
@@ -295,6 +349,8 @@ Class II FOMC
 September 29, 2000
 Treasury Bills Treasury Coupons Federal Net change Net RPs
 Agency total
+Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term
 Oill
 01VQIV
 May

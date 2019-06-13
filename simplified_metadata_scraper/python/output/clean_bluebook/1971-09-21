@@ -67,6 +67,8 @@ for the two money supply aggregates have continued to fall substantially
 short of expectations, whereas the proxy has moved somewhat above path.
 Recent Paths of the Key Monetary Aggregates
 (Seasonally adjusted, billions of dollars)
+M M
+1 2 Adjusted Proxy
 Aug. 24 Aug. 24 Aug. 24
 Path Actuals Path Actuals Path Actuals
 Annual Rates of
@@ -140,6 +142,11 @@ Week ending Actual Path Aug. 24
 path
 September 1
 September 8
+Total reserves 30,869 30,915 (30,807) - 46 (62)
+Nonborrowed reserves 30,104 30,115 (30,007) - 11 (97)
+Required reserves 30,645 30,690 (30,502) - 45 (63)
+Excess 224 225 - 1
+Borrowings 765 800 - 35
 September 15
 unanticipatedNOTE: Figures in parenthesis reflect adjustment of the path for
 changes in U.S. Government deposits.
@@ -155,11 +162,26 @@ August Subsequent September
 financial aggregates for selected recent periods:
 (March over (June over over
 Sept.) March) June
+Total Reserves 8.9 6.6 7.6
+Nonborrowed Reserves 10.3 5.3 1.5
 Concepts of Money
+M 1 (Currency plus demand
+deposits 1/) 6.2 11.3 6.6
+M2 (M1 plus time deposits
+at commercial banks
+other than large CD's) 13.7 12.6 6.0
+M3 (M2 plus deposits at
+thrift institutions) 14.6 14.8 8.7
 Bank Credit
+Total member bank deposits
+(Bank credit proxy adj.) 9.7 6.5 9.4
+Loans and investments of
+commercial banks 2/ 10.5 7.4 10.3
 Shcrt-term market paper
 (Actual $ change in billions)
 Large CD's $ 6.1 $ 0.7 $ 1.8
+Bank-related commercial
+paper N.S.A. - 2.9 0.0 n.a.
 Nonbank commercial paper - 0.4 - 0.9 n.a.
 branches.
 N.S.A. Not seasonally adjusted.
@@ -190,10 +212,17 @@ Alt. A (or B) Alt. C
 Federal funds rate 5--5-5/8% 4-1/2--5%
 Member bank borrowings $400-$700 million $200-$400 million
 Growth in M 1 (SAAR)
+September 1-1/2% 1-1/2%
+October 4-1/2 5-1/2
+3rd Qtr. 5 5
 Alternative Monthly and Quarterly
 Paths of Key Monetary Aggregates
 M1 M2
 Alt. A(B) Alt. C Alt. A(B) Alt. C
+September 228.4 228.4 458.0 458.0
+October 229.3 229.5 460.5 460.8
+November 229.9 230.4 462.4 463.4
+December 230.3 231.0 464.4 465.9
 Per Cent Annual Rates of Growth
 Adjusted Credit Proxy Total Reserve
 Alt. A(B) Alt. C Alt. A(B) Alt. C
@@ -326,6 +355,11 @@ Credit Proxy
 Alt. A(B) Alt. C
 Total Reserves
 Alt. A(B) Alt. C
+September 22
+29
+October 6
+13
+20
 Total and Nonborrowed Reserve Paths
 (Daily averages in millions of dollars, seasonally adjusted)
 Total Reserves
@@ -342,12 +376,18 @@ December
 Weekly Paths--Seasonally Adjusted
 Total Reserves
 Alt. A(B)
+October 6
+13
+20
 Alt. C
 Nonborrowed Reserves
 Alt. A(B)
 Weekly Paths--Not Seasonally Adjusted
 Total Reserves
 Alt. A(B)
+October 6
+13
+20
 Alt. C
 Nonborrowed Reserves
 Alt. A(B)
@@ -396,8 +436,14 @@ Sept.
 July
 Aug.
 Sept.
+Sept. 1
+8
 Annual Percentage Rates of Change-Quarterly and Monthly
 Weekly Pattern in Billions of Dollars
+i55.8
+i56.1
+456.0
+458.7)
 ( 8.0)
 (31.8)
 U - --- aaII ______________
@@ -417,6 +463,14 @@ Sept.
 July
 Aug.
 Sept.
+Sept. 1
+8
+( 6.2)
+258.2
+259.8
+Annual Percentage Rates of Change--Quarterly and Monthly
+27.3
+13.5
 Weekly Pattern in Billions of Dollars
 4.1
 .1 .
@@ -434,6 +488,14 @@ CONFIDENTIAL (FR)
 September 17, 1971
 _(Annual rates in percent)
 Reserve Aggregates 1  - -  Monetary Variables Addenda
+Deposits Deposits
+Annually
+1968
+1969
+1970
+Semi-anniallv
+Ist Half 1970
+2nd Half 1970
 Ist Qtr. 1
 ?nd Qtr. 1
 Julv
@@ -459,8 +521,19 @@ n.a.-Not Available
 + 9.4
 +11.0
 + 5.3
++25.4
+-19.0
++ 6.2
 + 4.4
 +22.8
++ 8.8
++15,1
++ 8.8
++ 9.7
++12.4
+- 6.2
+-13.1
++16.2
 + 9.0
 - 4.0
 +11.8
@@ -481,6 +554,9 @@ n.a.-Not Available
 +21.4
 +16.1
 +19.3
++14.9
+-112.2
+411.1
 n.a.
 + 8.3
 + 3.5
@@ -511,6 +587,8 @@ n.a.
 + 5.8
 + 6.1
 + 3.4
++ 8.9
++11. 9
 + 5.2
 + 2.3
 + 1.1
@@ -519,12 +597,16 @@ n.a.
 + 1.1
 +14.0
 +L1.6
+.4 9.3
++15.2
 + 9.1
 +10.1
 + 3.2
 + 7.4
 - 6.0
 + 6.3
++ 7.8
+4 4.6
 + 9.4
 + 6.1
 + 9.4
@@ -618,6 +700,7 @@ n.a.
 + 7.8
 + 4.7
 +10.6
++20. 8
 + 2.5
 + 7.0
 + 9.3
@@ -645,7 +728,19 @@ n.a.
 + 7.3
 +12.8
 - 1.7
++17.8
++ 7.5
+-16.2
++20.4
++18.9
+-30.0
++32.4
+-28.7
++58.1
 - 9.0
++21.3
+-13.9
++ 0,5
 + 6.0
 +23.3
 +27.5
@@ -685,6 +780,8 @@ July
 Aug. p
 Week enditg:
 1971: July 7
+Sept. I p
+8 0
 Aggregate Reserves
 -T o t a l -3 . .-
 Total Non red
@@ -721,10 +818,18 @@ in million of dollars, based on weekly averages of daily figures)
 Total Federal U.S. Government securities__ Federal
 Period Reserve credit Total Repurchase Agency Bankers' Member banks
 (Exc float) holdings _ Bills 1 Other . agreements Securities acceptances, borrowing
+Aug. 4
+11
+J8
+25
 Sept. I p
 8p
 +5,539
 +3,351
++ 155
+- 255
+4+ 149
++ 54
 + 305
 - 974
 + 362
@@ -746,6 +851,8 @@ Sept. I p
 + 272
 + 304
 + 144
+- 57
+- 418 2/
 + 373
 + 74
 + 562
@@ -764,9 +871,14 @@ F 4
 + 30
 + 11
 - 439
+- 463
++ 348
+41,151
 + 131
 + 208
 + 25
++ 101
+4 50
 S 25
 + 397
 + 282
@@ -855,10 +967,15 @@ S 73
 + 27
 + 68
 - 20
++ 35
+28
 + 243
 - 884
 $ +416 million of the week of June 16,
 p - Preliminary
+Sept. 1
+8
+15
 Table 6
 MAJOR SOURCES AND USES OF RESERVES
 Retrospective and Prospective Changes
@@ -873,6 +990,10 @@ floart 1/
 - 275
 + 348
 + 54
++ 771
++ 201
++ 503
+4- 115
 + 305
 - 974
 + 202
@@ -907,6 +1028,8 @@ effect on r e s e r ves)nd i c a t
 - 813
 + 773
 - 243
+- 131
+-384
 + 307
 - 248
 + 83
@@ -954,7 +1077,12 @@ reserves
 + 344
 -------------------- ------ - ------
 Sl
+- 898
+-1,655
 - 173
++ 21z
+4 187
+- 23
 - 72
 + 99
 - 315
@@ -991,6 +1119,8 @@ reserves reserves
 + 213 - 272
 + 401 + 277
 - 94 - 215
+- 179 + 450
+- 74 490
 + 78 + 197
 - 361 - 133
 + 166 + 254

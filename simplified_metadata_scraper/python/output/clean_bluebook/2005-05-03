@@ -83,6 +83,8 @@ contrast, the probability of a pause at the June meeting has roughly doubled to 
 Class I FOMC - Restricted Controlled (FR) Page 2 of 40
 Chart 1
 Interest Rate Developments
+Apr. June Aug. Oct. Dec. Feb. Apr.
+2005 2006
 April 28, 2005
 March 21, 2005
 Expected Federal Funds Rates*
@@ -92,10 +94,14 @@ Probability Density for Target Funds Rate after
 June FOMC Meeting
 Target Rate
      Note. Derived from options on July federal funds futures.
+Jan. May Sept. Jan. May Sept. Jan.
+2003 2004 2005
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. May Sept. Jan. May Sept. Jan.
+2003 2004 2005
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
@@ -103,6 +109,8 @@ Changes in Forward Rates of Inflation Compensation*
 Basis Points
 *Changes since March 21, 2005, based on inflation swap quotes.
 Adjusted for indexation lag and seasonality effects.
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 Ten-Year Treasury
 Long Bond
 Implied Volatilities*
@@ -141,11 +149,15 @@ Real Long-term Treasury yield*
 * Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
 prices and latest earnings data from I/B/E/S.
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 S&P 500
 Nasdaq
 Implied Volatility
 Daily
 FOMC
+Jan. May Sept. Jan. May Sept. Jan.
+2003 2004 2005
 GM Credit Default Swap Spread (left scale)
 GM Stock Price (right scale)
 GM Stock Price and Credit Default Swap Spread
@@ -229,23 +241,31 @@ currencies were modest, with the notable exception of the Brazilian real, agains
 Class I FOMC - Restricted Controlled (FR) Page 7 of 40
 Chart 3
 International Financial Indicators
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 Nominal Trade-Weighted Dollar Indexes
 Index(12/31/02=100)
 Broad
 Major Currencies
 Other Important Trading Partners
 FOMC Daily
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 Stock Price Indexes
 Index(12/31/02=100)
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 FOMC Daily
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2003 2004 2005
 EMBI+ Index
 Basis Points
 Overall
@@ -513,6 +533,23 @@ Range of model-based estimates
 90 percent confidence band
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Greenbook-consistent measure 1.5 2.2
+   Single-equation model 1.7 1.9
+   Small structural model 2.9 3.0
+   Large model (FRB/US) 2.0 2.1
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.6 - 3.7(
+      90 percent confidence interval -0.3 - 4.6(
+Medium-Run Measures
+   TIPS-consistent measure *1.8* *2.0*
+   Single-equation model 2.2 2.2
+   Small structural model 2.8 2.9
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.5 - 3.4(
+      90 percent confidence interval (0.7 - 3.9(
+Memo
+   Actual real federal funds rate 1.09 0.94
 Class I FOMC - Restricted Controlled (FR) Page 16 of 40
 Equilibrium Real Rate Chart: Explanatory Notes
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return 

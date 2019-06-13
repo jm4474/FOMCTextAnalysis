@@ -213,6 +213,9 @@ Alternative A Alternative B
 End of Quarter
 Level (Mo. Ave.)
 (Billions of $)
+December 214.6 214.6
+March 218.8 218.3
+June 222.1 222.1
 Quarterly Growth Rate
 (Per cent annual rate)
 (8) The table on the next page shows monthly levels and growth
@@ -292,6 +295,7 @@ Adj. Credit Proxy
 Alt.A Alt.B
 Total Reserves
 Alt.A Alt.B
+January 2 7p
 February 3e
 March 3
 p -- Preliminary
@@ -456,6 +460,8 @@ STRICTLYCONFIDENTIAL (FR)
 February 5, 1971
 L Adjusted
 Credit Proxy Money Supply S Governme TimeDepositsM S Demand Deposits Time Deposits Nondeposit
+TotalReservesSources of Funds T
+1 Path 2 3 Path 4 5 Path 6 7 Path 810 11 ath 12
 as of Current of Current as of Current as of Current of Current of Current
 Proi Prol. Prol Prol Prol Prol.
 Jan. 12 Jan.12 Jan. 12 Jan. 12 Jan. 12 Jan. 12
@@ -478,6 +484,13 @@ CONFIDENTIAL (FR)
 February 5, 1971
 RETROSPECTIVE CHANGES. SEASONALLY ADJUSTED
 _____ (Annual rates in per cent)
+AntaDally__
+1968
+1969
+1970
+Quarterlv
+3rd Qtr. 1969
+4th Qtr. 1969
 MOnth ly
 1969: Dec.
 April
@@ -503,6 +516,16 @@ Dec.
 +19.1
 + 6.6
 + 6.3
++ 3.1
+-12.0
++21.3
+-13.9
++ 0.5
++ 6.0
+-23.3
+- 1.9
++ 3.6
+1-18.4
 + 6.0
 - 3.0
 + 9.5
@@ -516,7 +539,12 @@ Dec.
 + 4.1
 +24.4
 + 9.4
++ 7.2
+-15.6
 + 7.5
++25.4
+-19.0
++ 6.2
 + 4.4
 +22.8
 + 9.0
@@ -685,6 +713,12 @@ n.a.
 +12.6
 +26.2
 +13.8
++34.4
++18.9
+-30.0
++32.3
+-28.7
++58.0
 have been adjusted to eliminate changes in percentage reserve requirements against deposits, but reserve requirements LL 712L E
 are included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning October 1, 1970.
 Table 3
@@ -727,6 +761,8 @@ r .~. .r~ -- - - r
 U,. Government securities
 Total
 -+--I oIatI noings niis L/ urner I agreements Securities acceptances borrowings
+Nov. 4
+11
 Feb. 3
 +5,539
 +3,351
@@ -812,6 +848,8 @@ Period Federal Reserve Currency Foreign Other nonmember in erei(el Gold Treasury
 float) / ock banks P and gold loans F.R. accounts reserves reserves reserves
 Teb. 3
 (Sig n in i ca t s
+- 813
++ 773+1,150 2/
 - 385 + 188
 - 63
 + 108
@@ -885,6 +923,9 @@ s erves )
 - 397
 - 187
 - 39
++ 75
++ 206
+-24
 - 50
 + 305
 - 26
@@ -908,6 +949,10 @@ s erves )
 + 336
 + 169
 + 322
++ 657
++ 144
++ 705
+-1,008
 - 186
 + 108
 - 94

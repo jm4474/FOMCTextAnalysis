@@ -99,6 +99,7 @@ Committee meeting. Most of this decline occurred shortly after the May
 meeting, as U.S. interest rates fell further and the credit control program
 was eased. When U.S. interest rates turned steady to firmer in the
 following weeks, the dollar steadied and traded in generally very quiet
+markets. In the intermeeting period, the United States purchased $1 1/2
 billion to support the dollar mainly with DM,
 (8) The table on the next page shows seasonally adjusted
 annual rates of change, in percent, for selected monetary and financial
@@ -190,7 +191,11 @@ credit growth is likely to be below the lower end of its present
 for M-1A and M-1B, as well as bank credit, but retains the present ranges
 for M-2 and M-3 in view of their performance thus far this year.
 Alt. I Alt. II
+M-1A 3½ to 6 3 to 5½
 M-1B 4 to 6½ 3½ to 6
+M-2 6 to 9 6 to 9
+M-3 6½ to 9½ 6½ to 9½
+Bank Credit 6 to 9 4½ to 7½
 (13) To assist the Committee in evaluating the proposed ranges
 for 1980 and in forming a preliminary view about monetary growth targets
 in 1981, specific alternative assumptions for money growth in 1980 and
@@ -257,6 +262,9 @@ contained in the tables on pp. 14 and 15.)
 Alt. A Alt. B Alt. C
 M-1A 10½ 8¼ 6
 M-1B 11½ 9¼ 7
+M-2 10 8½ 7-3/4
+Intermeeting range
+for funds rate 7½ to 13 8½ to 14 9 to 14½
 (16) Alternatives A and B are consistent with longer-run
 alternative I and are indexed by M-1A growth of 4½ percent from QIV '79
 to QIV '80. Alternative A assumes that such a 4½ percent growth line is
@@ -270,6 +278,9 @@ from QIV '79 to QIV '80, which would be more consistent with longer-run
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1A M-1B
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+July 375.2 374.7 374.5 395.0 394.5 394.3
+August 378.6 377.1 376.0 399.0 397.5 396.4
+September 381.9 379.6 377.5 402.9 400.6 398.5
 Growth Rates
 Monthly
 Quarterly Average
@@ -304,6 +315,7 @@ S9%
 \ ... I I I 1 -- 1480
 O N O J F M A M J J A S O N O
 M-3 Billions of dollars
+/*  .* 9 % 1 940-Longer-Run Range
 Short-Run Alternatives - 1920
 - 7 ,- 1900
 .0e . - 1880
@@ -312,6 +324,7 @@ ooe^
 - 1820
 -/ 1800
 - ^ - 1780
+- 0/ 0 0-- 1760
 *Note A.B. and C altematives are indistinguisaable on this scale.
 alternative II. Under alternative C, M-1A growth would be 6 percent from
 June to September, and growth would need to continue at that rate in the

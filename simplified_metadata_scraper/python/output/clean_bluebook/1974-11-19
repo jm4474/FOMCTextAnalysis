@@ -73,6 +73,7 @@ in October-November Period
 Reserve and Monetary Aggregates Range of
 (Growth at SAAR in per cent) Tolerance La
 M1  4¾-7¼
+M2 5¾-8¼
 RPD 5½-8
 Memo:
 Federal funds rate
@@ -83,6 +84,10 @@ No
 test Estimates
 for statement
 week ending
+t. 23 9.81
+t. 30 9.72
+v. 6 9.63
+Nov. 13 9.37
 (2) The adjusted credit proxy declined at about a 1.5 per cent
 annual rate in October, the first monthly decline in this series since
 early 1970. This reduction was largely attributable to a sharp decline in
@@ -143,6 +148,7 @@ of Past Three Twelve Six Three Past
 Calendar Years Month Month Month Months
 -- over over over over
 ... .. .. 1973 Oct. '73 Apr. '74 Jul, '74 Sept.'74
+Total teserves 8.6 8,2 8.7 .5 -1.2
 Concepts of Money
 Bank Credit
 Short-term Market Paper
@@ -159,8 +165,15 @@ seven-month period from August 1974 to March 1975, and the shorter-run
 ranges of tolerance cover the November-December period.
 Alt. A Alt. B Alt. C
 Targets (Aug. '74-Mar. '75)
+M1 6½ 5¾ 5
+M2  9 8 
+7
+Credit proxy 5½ 5 4
 Associated ranges of
 tolerance for Nov.-Dec.
+M1  7¾-9¾ 7-9 6½-8½
+M2  9-11 8¼-10¼ 7½-9½
+RPD 4½-6½ 3-5 2½-4½
 Federal funds rate 7½-9½ 8¼-10¼ 9-11
 (inter-meeting range)
 (8) Alternative B continues the 5¾ per cent annual growth rate
@@ -176,12 +189,18 @@ Alt. A Alt. B Alt. C
 M3
 Alt. A Alt. B
 Aug. '74--Mar. '75
+Quarters:
+1974 4th Q.
+1975 1st Q.
 Months:
 Nov.
 Dec.
 Adjusted Credit Proxy
 Alt. A Alt. B Alt. C
 Aug. '74--Mar. '75
+Quarters:
+1974 4th Q.
+1975 1st Q.
 Months:
 Nov.
 Dec.
@@ -196,6 +215,8 @@ Alt. C
 Alt. C
 MONEY SUPPLY AND LONGER RUN TARGET PATHS
 RATIO SCALE, BILLIONS OF DOLLARS
+RATE OF GROWTH
+DEC. '73 TO AUG. '74 5.0%
 J F M A M
 1974
 J A S O N D J F M
@@ -295,6 +316,8 @@ BILLIONS OF DOLLARS
 140
 I I I I I I i i I i I
 I I I I
+A S 0
+1974
 N D
 I I I i I I 1 I I I
 M J S D M J S D
@@ -302,6 +325,8 @@ M J S D M J S D
 STRICTLY CONFIDENTIAL (FR)
 11/15/74
 MONETARY AGGREGATES
+ADJUSTED CREDIT PROXY BILLIONS OF DOLLARS
+1 550
 TOTAL RESERVES
 *Break in series, Actual Level of Total Reserves After Changes in Reserve Requirements
 STRICTLY CONFIDENTIAL
@@ -313,6 +338,8 @@ PRIVATE NONVANK DEPOSITS It SEASONALLY ADJUSTED
 S----------------- -------------- ------- ------------------
 I--------------------- I TOTAL ONfBnRROWED I PRIVATE OTHER CD'S AND GOV'T AND
 PERIOD SEAS ADJ I NON SEAS ADJ If RESERVES RESERVES I DEMAND TIME DEP NON OEP INTERBANK
+SI 121---------- II (3 ( I (--------6) 7) (8)
+1l I 121 1I 131 (4) (41 (6) 17) (8)ONTHLY LEELS I
 MONTHLY LEVELS-sMILLIONSI
 --------------------- I
 ANNUAL RATES C
@@ -413,6 +440,9 @@ II
 492,6 II
 49 .3 II
 ( S,?)
+SO
+5.6
+5.3
 - - -- - -- - -- - - - - - - -- - -- - - - - - - - - - -- - -- - -- - - - - - - -- - -- - -- - - - - - -- - - -- - - -- - - - - - - - - - - -
 S------- ------------------------- ---------------
 STRICTLY CONFIDENTIAL
@@ -456,6 +486,14 @@ June
 July
 Aug.
 Sept.
+Daily- Nov. 7
+14
+(1)
+10.84
+5.61
+(11)
+9.37
+7.69
 Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are one-day Wednesday quotes. For columns 7, 8, and 10 the
 weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for Thursday following the end of the
 statement week. Column 11 gives FNMA auction data for the Monday preceding the end of the statement week. The FNMA auction yield is the average yield
@@ -467,6 +505,9 @@ OF OLD AND REVISED MONEY STOCK GROWTH RATES
 (Per cent Annual Rates of Change)
 M1
 Old Revised
+Annual:
+1972
+1973
 Half-year:
 1973 I
 II

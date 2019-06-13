@@ -235,8 +235,14 @@ funds--seem to be persisting.
 Alt. A Alt. B Alt. C
 Growth from March
 to June
+M2 1-1/4 1 3/4
+M3 1/4 0 -1/4
+M1 9-3/4 9-1/4 8-3/4
 Growth from April
 to June
+M2 3 2-1/2 2
+M3 2 1-3/4 1-1/2
+M1 12 11-1/4 10-1/2
 (13) Growth of M2 is projected to average 2-1/2 percent at an
 annual rate over May and June with the essentially stable money market
 interest rates of alternative B. Most of the pickup should stem from
@@ -272,9 +278,19 @@ Quarterly Ave. Growth Rates
 Q2
 Q3
 Q4
+Q4 91
+Q2 92
+Mar 92
+Apr 92
+June 92
 Dec
 Mar
 Apr
+Q4
+Q4 <
+Q4 i
+Q4 5
+Q4 i
 (14) Under alternative B, the projected turnaround in M2 over
 May and June should show through to M3, which is expected to register an
 annual growth rate of 1-3/4 percent; from March to June, M3 would be
@@ -358,6 +374,27 @@ Jan 92
 Feb 92
 Mar 92
 Apr 92
+Weekly
+Jan 29 92
+Feb 5 92
+Feb 12 92
+Feb 19 92
+Feb 26 92
+Mar 4 92
+Mar 11 92
+Mar 18 92
+Mar 25 92
+Apr 1 92
+Apr 8 92
+Apr 15 92
+Apr 22 92
+Apr 29 92
+May 6 92
+May 13 92
+Daily
+May 8 92
+May 14 92
+May 15 92
 - p - - - -
 p - preliminary data
 Strictly Confidential (FR)-
@@ -371,6 +408,9 @@ ANN. GROWTH RATES (%) :
 ANNUALLY (04 TO Q4)
 LEVELS SBILLIONS) :
 MONTHLY
+WEEKLY
+1992-APR. 6 941.2 3468.3 2527.1 702.5 4170.8
+MAY 4 p 951.7 3471.0 2519.4 707.7 4178.8
 Components of Money Stock and Related Measures
 seasonally adjusted unless otherwise noted
 Strictly Confidential (FR)-
@@ -384,12 +424,15 @@ NSA' deposits' and broker/ only deposits' NSA' NSA' securities
 dealer'
 LEVELS (SBILLIONS) :
 ANNUALLY (4TH QTR.)
+APR. p 273.6 311.2 350.2 71.2 1111.4 984.4 354.2 189.2 406.1 72.2 56.2
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Weekly
 January 22
+May6
+13
 Memo: LEVEL (bil. $) 6
 May 13
 - 3,411
@@ -401,6 +444,9 @@ May 13
 - 2,823
 - 837
 - 2,452
+i00 1,315
+- 375
+- 11,282
 - 4.150
 - 1,450
 - 1,815

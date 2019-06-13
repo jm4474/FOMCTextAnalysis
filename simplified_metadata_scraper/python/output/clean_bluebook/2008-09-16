@@ -115,6 +115,8 @@ S&P 500 Investment Bank and Brokerage Index
 Source. Bloomberg.
 Aug.
 FOMC
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Sept.
  10
 CDS spreads for investment banks
@@ -127,6 +129,8 @@ Sept.
 Lehman Brothers stock price
 Aug.
 FOMC
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Basis points
 Regional bank index
 Large bank index
@@ -375,6 +379,8 @@ including substantial increases in its haircuts on asset-backed securities.
 Class I FOMC - Restricted Controlled (FR) Page 11 of 41
 Chart 3
 Asset Market Developments
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Spreads of Libor over OIS
 Daily Aug.
 FOMC
@@ -402,6 +408,8 @@ Aug.
 FOMC
 Sept.
  11
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 Aug.
@@ -713,6 +721,23 @@ Range of model-based estimates
 Greenbook-consistent measure
 Short-Run and Medium-Run Measures
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model (2.0 (2.3
+   Small structural model -1.8 -0.7
+   Large model (FRB/US) -1.7 -0.1
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval -2.8 - 2.2
+      90 percent confidence interval -3.7 - 3.6
+   Greenbook-consistent measure -0.3 (0.1
+Medium-Run Measures
+   Single-equation model (2.1 (2.2
+   Small structural model (1.7 (1.7
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.0 - 2.9
+      90 percent confidence interval (0.4 - 3.7
+   TIPS-based factor model (2.0 2.0
+Memo
+   Actual real federal funds rate -0.4 -0.2
 Class I FOMC - Restricted Controlled (FR) Page 23 of 41
 (as summarized by the extended Greenbook projection), whereas households and firms are 
 assumed to form their expectations using more limited information.

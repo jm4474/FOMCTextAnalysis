@@ -59,6 +59,8 @@ before the May FOMC meeting.  All twenty-two primary dealers responding to the
 most recent survey by the Trading Desk predict a 25-basis-point rate increase at the
 Chart 1
 Interest Rate Developments
+June Oct. Jan. Apr. July Oct. Jan. Apr.
+2005 2006 2007
 June 23, 2005
 May 2, 2005
 Expected Federal Funds Rates*
@@ -69,19 +71,27 @@ Percent
 Probability of a Pause at Upcoming FOMC Meetings
 May 2, 2005 (red bars)
 June 23, 2005 (black bars)
+Jan. Apr. July Oct. Jan. Apr.
+2004 2005
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr.
+2004 2005
 TIPS Yields*
 Daily
 FOMC
 * Estimates are from a smoothed inflation-indexed yield curve. Yields shown
 are those on notional par Treasury inflation-indexed securities with
 semi-annual coupons.
+Jan. Apr. July Oct. Jan. Apr.
+2004 2005
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr.
+2004 2005
 Spot WTI
 Long-dated Oil Futures
 Daily
@@ -113,6 +123,8 @@ corporate credit quality generally remained favorable, implied volatility on equ
 Class I FOMC - Restricted Controlled (FR) 3 of 42
 Chart 2
 Capital Market Developments
+Jan. Apr. July Oct. Jan. Apr.
+2004 2005
 Basis Points Basis Points
 Ten-Year BBB (left scale)
 Five-Year High-Yield (right scale)
@@ -137,6 +149,8 @@ Real Long-term Treasury yield*
 * Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
 prices and latest earnings data from I/B/E/S.
+Jan. Mar. May July Oct. Dec. Feb. Apr. June
+2004 2005
 S&P 500
 Nasdaq
 Implied Volatility
@@ -208,23 +222,31 @@ Korean won, the Singapore dollar, and the Thai baht.
 Class I FOMC - Restricted Controlled (FR) 6 of 42
 Chart 3
 International Financial Indicators
+Jan. May Sept. Jan. May Sept. Jan. May
+2003 2004 2005
 Nominal Trade-Weighted Dollar Indexes
 Index(12/31/02=100)
 Broad
 Major Currencies
 Other Important Trading Partners
 FOMC Daily
+Jan. May Sept. Jan. May Sept. Jan. May
+2003 2004 2005
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
+Jan. May Sept. Jan. May Sept. Jan. May
+2003 2004 2005
 Stock Price Indexes
 Index(12/31/02=100)
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 FOMC Daily
+Jan. May Sept. Jan. May Sept. Jan. May
+2003 2004 2005
 EMBI+ Index
 Basis Points
 Overall
@@ -549,6 +571,23 @@ Range of model-based estimates
 90 percent confidence band
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Greenbook-consistent measure 1.4 1.5
+   Single-equation model 1.9 1.7
+   Small structural model 2.9 2.9
+   Large model (FRB/US) 2.2 2.0
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.8 - 3.9(
+      90 percent confidence interval -0.1 - 4.7(
+Medium-Run Measures
+   TIPS-consistent measure 1.7 1.8
+   Single-equation model 2.2 2.2
+   Small structural model 2.8 2.8
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.5 - 3.4(
+      90 percent confidence interval (0.7 - 3.9(
+Memo
+   Actual real federal funds rate 1.26 1.09
 Class I FOMC - Restricted Controlled (FR) 18 of 42
 Equilibrium Real Rate Chart: Explanatory Notes
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return 
@@ -978,8 +1017,25 @@ June 23, 2005
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net Redemptions Net Net Purchases 3 Redemptions Net Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QIII 4,508 --- 4,508 1,898 4,406 1,507 434 --- 8,244 --- 12,753 -1,787 782 -1,005
+QIV 4,167 --- 4,167 3,092 7,453 2,018 571 --- 13,134 --- 17,301 -5,956 1,728 -4,227
+Feb 35 --- 35 --- --- --- --- 333 -333 --- -298 2,163 -2,187 -24
+Mar --- --- --- --- --- --- --- 211 -211 --- -211 1,746 896 2,642
+May 1,760 --- 1,760 --- 2,295 898 --- --- 3,193 --- 4,953 -2,453 340 -2,113
+Apr 6 --- --- --- --- --- --- --- 211 -211 --- -211 -936 3,000 2,064
+Apr 13 --- --- --- --- --- --- --- --- --- --- --- -1,558 -1,000 -2,558
+Apr 20 --- --- --- --- --- --- --- --- --- --- --- 2,225 2,000 4,225
+Apr 27 --- --- --- --- 1,200 --- --- --- 1,200 --- 1,200 -2,868 1,000 -1,868
+May 4 --- --- --- --- --- 470 230 --- 700 --- 700 -40 -2,000 -2,040
+May 11 1,257 --- 1,257 --- 125 773 --- --- 898 --- 2,155 -1,901 -2,000 -3,901
+May 18 26 --- 26 --- --- --- --- --- --- --- 26 1,631 1,000 2,631
+May 25 227 --- 227 --- 1,048 50 --- --- 1,098 --- 1,325 -2,940 5,000 2,060
 Jun 8 --- --- --- --- --- --- --- --- --- --- --- -3,432 --- -3,432
+Jun 15 --- --- --- --- --- --- --- --- --- --- --- 1,866 -3,000 -1,134
+Jun 22 --- --- --- --- --- 340 85 --- 425 --- 425 1,845 -3,000 -1,155
 Intermeeting Period
+May 3-Jun 23 2,010 --- 2,010 --- 2,295 1,238 785 --- 4,318 --- 6,328 -2,558 --- -2,558
 Memo: LEVEL (bil. $)
 acquired in exchange for maturing bills.  Excludes maturity shifts and rollovers of maturing issues,
 except the rollover of inflation compensation.

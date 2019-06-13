@@ -76,6 +76,8 @@ Reserve
  the buck
 Net flows of taxable money market funds
 Source. iMoneyNet.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 Jan 03, 2007 = 1000
 Banks
 Insurance
@@ -84,6 +86,8 @@ Sept.
 FOMC
 Oct. 
  23
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 Morgan Stanley
 Goldman Sachs
 CDS spreads for selected institutions
@@ -92,6 +96,8 @@ Sept.
 FOMC
 Oct. 
  22
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 Basis points
 Regional bank index
 Large bank index
@@ -108,6 +114,8 @@ Sept.
 FOMC
 Oct. 
  22
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 Basis points
 CDS spreads for insurance companies*
 *Median spreads for 58 insurance companies.
@@ -194,6 +202,8 @@ most of the period amid heavy demand for safe investments.  Those low rates
 Class I FOMC - Restricted Controlled (FR) 6 of 45
 Chart 2
 Market Functioning
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 Spreads of Libor over OIS
 Daily Sept.
 FOMC
@@ -219,6 +229,8 @@ Weekly (Wed.)
 Source. FR2004.
 Oct. 
  15
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2007 2008
 AA ABCP
 A2/P2 nonfinancial
 AA financial
@@ -233,6 +245,13 @@ Level
 (Oct. 22)
 Change from
 Sept. 15
+Primary Credit 108 85
+TAF 263 113
+PDCF 102 61
+AMLF 108 108
+Loans to AIG 90 76
+Selected other Assets* 518 417
+Deposits of D.I.s 227 123
 Supplementary Financing
 Account
 Selected items from Federal Reserve balance sheet
@@ -797,11 +816,16 @@ Short-Run and Medium-Run Measures
 Current Estimate Previous Bluebook
 Short-Run Measures
 Single-equation model (1.6 (2.0
+Small structural model -2.9 -1.8
+Large model (FRB/US) -5.4 -1.7
 Confidence intervals for three model-based estimates
+Greenbook-consistent measure -3.1 -0.3
 Medium-Run Measures
 Single-equation model (2.0 (2.1
 Small structural model (1.0 (1.7
 Confidence intervals for two model-based estimates
+TIPS-based factor model (2.0 2.0
+Actual real federal funds rate -1.0 -0.4
 Class I FOMC - Restricted Controlled (FR) 26 of 45
 last Bluebook to around -3 percent.  By comparison, the estimate of short-run r* from
 the FRB/US model—which incorporates shifts in other risk premiums as well as the

@@ -87,6 +87,25 @@ Corporate Munici
 New pal
 Issues (Aaa)
 (Aaa)1/
++135
++299
++122
+-294
+(Seasonally Adjusted)
++159 + 2.3 + 0.2
++335 + 2.4 + 1.1
++154 + 2.1 + 0.8
+-122 + 0.2 + 0.3
++347 + 1.5 + 1.0
++265 + 2.3 + 0.4
++ 47 + 1.0 + 0.7
+-189 - 1.0 + 0.9
++ 88 + 0.4 + 1.8
++105 + 1.5 + 1.3
++107 + 2.1 + 2.0
++508 + 5.0 + 0.8
+- 36 + 2.1 + 0.9
++193 + 2.9 + 1.1
 + 1.4
 - 0.4
 + 0.1
@@ -256,6 +275,8 @@ Excess Member banks
 reserves borrowings
 Free reserves
 to date
+- 58
+-303
 As first
 published
 each week
@@ -305,6 +326,22 @@ Deposits banks) Deposits
 + 9.0
 + 0.8
 +11.5
++14.9
++15.2
++ 6.6
++14.5
++ 5.9
+-14.0
++16.7
++ 9.9
+-12.6
+- 9.4
++ 2.2
++ 6.6
++14.5
++23.3
++ 1.3
++10.0
 + 1.5
 +10.2
 +15.2
@@ -325,6 +362,22 @@ Deposits banks) Deposits
 + 8.5
 - 0.2
 + 7.0
++10.2
++18.7
++ 5.7
++13.5
++ 8.3
+-10.5
++15.3
++19.2
++ 0.1
+-11.1
++ 1.5
++12.2
++ 0.1
++21.8
+- 3.0
++ 4.0
 + 3.8
 +11.7
 +13.4
@@ -434,6 +487,8 @@ Oct. 2 p
 - 437
 - 627
 - 725
+- 152
+-2,067
 - 506
 + 805
 - 165
@@ -502,6 +557,12 @@ Year-to-date:
 (12/27/67 - 10/23/68) 2/ +1,232 + 7 +1,225 - 253 + 176 + 838 + 464
 Weekly:
 1968--Sept. 4 p - 13 - 227 + 214 + 159 - 6 + 25 + 36
+Oct. 2 p + 342 + 225 + 117 + 188 - 25 - 73 + 27
+9 p + 280 + 484 - 204 - 239 -- + 8 + 27
+Nov. 6 - 95 + 51 - 146 - 50 - 7 - 104 + 15
+13 + 350 + 290 + 60 + 25 -- + 15 + 20
+20 + 15 - 190 + 205 + 150 - 5 + 45 + 15
+27 - 145 - 170 + 25 -- - 15 + 25 + 15
 p - Preliminary.
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
@@ -567,12 +628,19 @@ Retrospective Changes
 Total Federal U.S. Government securities Federal Bankers' Member banks
 Period Reserve credit Total Bills O r Repurchase Agency
 (Excl. float) holdings B s agreements Securitiess borrowings
+Year:
+1 (12/29/65 - 12/28/66) +3,14.9 +3,069 +2,158 + 474 + .437 + 26 + 52 + 2
+19o7 (12/28/66 - 12/27/67) +4,718 +5,009 +4,433 +1,153 - 577 - 19 - 69 - 203
 Year-to-date:
 (12/28/66 - 10/25/67) +2,530 +3,177 +2,868 + 967 - 658 - 26 - 131 - 490
 (12/27/67 - 10/23/68) +4,286 +4,352 +3,207 +1,176 - 31 -- - 56 - 10
 Weekly:
 1968--July 3 - 122 + 274 + 263 + 157 - 146 - 66 - 16 - 314
+Aug. 7 + 490 + 352 + 76 -- + 276 + 13 - 10 + 135
+14 - 135 + 35 + 52 -- - 17 -- - 9 - 161
 Sept. 4 + 390 + 312 + 241 + 71 -- -- - 2 + 80
+Oct. 2 -+1,119 +1,048 + 889 + 96 + 63 + 1 + 5 + 65
+9 + 31 + 171 + 82 + 152 - 63 - 1 - 1 - 138
 Chart Reference Table C-1
 TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
@@ -589,6 +657,14 @@ Seasonally Adjusted
 Total member Private U.S. Gov't.
 Period bank deposits Time demand demand
 (credit) 1/ deposits deposits 2/ deposits
+Oct. 244.4 128.6 111.7 4.0
+Nov. 244.0 128.3 111.6 4.1
+Dec. 244.6 129.4 111.7 3.5
+June 278.8 151.8 123,2 3.9
+July 280.9 153.8 124.3 2.7
+Aug D 785.9 156.5 124.6 4.8
+Sept. p 288.0 159.0 123.7 5.3
+Oct. p e 290.9 161.4 124.4 5.1
 p - Preliminary. e - Estimated.
 TABLE C-2a
 DEPOSITS SUPPORTED BY REQUIRED RESERVES AT ALL MEMBER BANKS

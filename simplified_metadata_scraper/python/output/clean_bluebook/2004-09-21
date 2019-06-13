@@ -56,10 +56,14 @@ House Budget Committee apparently eased investors’ concerns.  According to a
 recent survey conducted by the Desk, dealers unanimously anticipate the upcoming
 Chart 1
 Interest Rate Developments
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 Ten-Year
 Two-Year
 Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 Twelve Months Ahead
 Six Months Ahead
 Policy Uncertainty*
@@ -68,14 +72,20 @@ computed from the term structures for both the expected federal funds
 rate and implied volatility.
 Daily
 FOMC
+Sept. Dec. Mar. June Sept. Dec. Mar.
+2004 2005 2006
 September 16, 2004
 August 9, 2004
 Expected Federal Funds Rates*
 *Estimates from federal funds and eurodollar futures, with an allowance
  for term premia and other adjustments.
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 One-Year Forward Rate Ending
 Ten Years Ahead*
 *Forward rate is the one-year rate maturing in ten years
@@ -104,12 +114,16 @@ broad indexes have advanced 5½ to 7¼ percent since the market close before the
 August FOMC meeting.
 Chart 2
 Capital Market Developments
+Jan. May Oct. Mar. Aug. Jan. May
+2002 2003 2004
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
 *AA spread measured relative to an estimated off-the-run Treasury yield
  curve. Swap spread measured relative to the on-the-run Treasury
  security.
+Jan. May Oct. Mar. Aug. Jan. May
+2002 2003 2004
 Basis Points
 Ten-Year BBB (left scale)
 Five-Year high-yield (right scale)
@@ -125,7 +139,11 @@ Sept.
 Wilshire
 Nasdaq
 Stock Prices
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 *Spot WTI price.
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 S&P 500 (left scale)
 Ten-Year Treasury Note (right scale)
 Implied Volatility
@@ -153,16 +171,24 @@ pace in the current quarter.  In the domestic nonfinancial business sector, debt
 continued to grow at a moderate pace in August.  Corporate bond issuance picked up,
 Chart 3
 International Financial Indicators
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 Nominal Trade-Weighted Dollar
 Indexes Index(12/31/02=100)
 Broad
 Major Currencies
 Other Important Trading Partners
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
+Jan. Apr. July Oct. Jan. Apr. July
+2003 2004
 EMBI+ Index
 Basis Points
 FOMC
@@ -215,6 +241,8 @@ Source. Staff estimates.
 Mortgage Refinancing Activity
 $BillionsIndex(3/16/90 = 100)
 Monthly, s.a. Monthly, s.a.
+Q2 Q3 Q4 Q1 Q2 Q3
+0.0
 Six-Month Treasury Bill
 Six-Month Bank CD*
 Deposit and Market Rates Percent
@@ -756,5 +784,23 @@ Class II FOMC
 September 16, 2004
 Treasury Bills Treasury Coupons Federal Net change Net RPs  5
 Agency total
+Net  Redemptions Net Net Purchases  3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases  2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings  4 Term  6 Term  7 Change
+QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+Apr 3,516 --- 3,516 --- --- --- --- --- --- --- 3,516 1,041 1,355 2,396
+Jun 3,831 --- 3,831 --- 1,760 275 --- --- 2,035 --- 5,866 -1,738 1,824 86
+Aug 83 --- 83 --- 428 568 --- --- 996 --- 1,078 -750 -1,323 -2,072
+Jun 30 2,202 --- 2,202 --- --- --- --- --- --- --- 2,202 -2,772 4,000 1,228
+Jul 7 480 --- 480 --- --- --- --- --- --- --- 480 1,465 -1,000 465
+Jul 21 69 --- 69 1,898 --- --- --- --- 1,898 --- 1,968 -1,831 --- -1,831
+Jul 28 --- --- --- --- 1,396 --- --- --- 1,396 --- 1,396 -2,004 -3,000 -5,004
+Aug 4 --- --- --- --- --- --- --- --- --- --- --- 4,693 -1,000 3,693
+Aug 11 --- --- --- --- --- --- --- --- --- --- --- -1,727 -1,000 -2,727
+Aug 18 7 --- 7 --- 428 568 --- --- 996 --- 1,003 -1,806 1,000 -806
+Aug 25 68 --- 68 --- --- --- --- --- --- --- 68 -990 4,000 3,010
+Sep 1 8 --- 8 --- --- --- --- --- --- --- 8 4,740 2,000 6,740
+Sep 8 18 --- 18 --- --- --- --- --- --- --- 18 -5,150 4,000 -1,150
+Sep 15 41 --- 41 --- 799 --- --- --- 799 --- 840 385 1,000 1,385
 Intermeeting Period
 Memo: LEVEL (bil. $)

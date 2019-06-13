@@ -239,6 +239,8 @@ J
 Monthly rate
 Changes in selected components of debt of the
 nonfinancial business sector
+Jan. Mar. May July Oct. Dec. Feb.
+2009 2010
 Jan.
 FOMC
 Selected interest rates
@@ -260,6 +262,8 @@ Note. Auto ABS include car loans and leases and financing for buyers
 of motorcycles.
 Source. Inside MBS & ABS, Merrill Lynch, Bloomberg, and the Federal
 Reserve.
+Sept. Dec. Mar. May July Oct. Jan.
+2008 2009 2010
 Jan.
 FOMC
 Libor over OIS spreads
@@ -390,6 +394,10 @@ Maximum
 level
 Date of 
 maximum
+level 
+Total assets 36 2,286 2,295 01/13/10
+Selected assets: 
+Liquidity programs for financial firms -25 30 1,247 11/06/08
 Market Desk committed to purchase, but has not settled, an additional $86.2 billion of MBS, on net.  Total MBS 
 purchases are about $1,226 billion.
 March 11, 2010 Class I FOMC - Restricted Controlled (FR) Page 13 of 68
@@ -666,12 +674,23 @@ Short-Run and Medium-Run Measures
 Current Estimate Previous Bluebook
    
 Short-Run Measures
+Single-equation model -1.6 -1.2
+Small structural model -1.4 -1.1
 EDO model (0.0 (0.6
+FRB/US model -1.7 -1.8
 Confidence intervals for four model-based estimates
 Greenbook-consistent measures
+EDO model -3.8 -2.3
+FRB/US model -1.9 -1.5
+   
+Medium-Run Measures
 Single-equation model (1.1 (1.2
 Small structural model (1.7 (1.9
 Confidence intervals for two model-based estimates
+TIPS-based factor model (2.0 2.0
+   
+Memo
+Actual real federal funds rate -1.2 -1.3
 March 11, 2010 Class I FOMC - Restricted Controlled (FR) Page 25 of 68
 Federal Reserve’s large-scale asset purchases, as a starting point.  Policymakers are
 assumed to place equal weight on keeping core PCE inflation close to a 2 percent
@@ -1293,9 +1312,28 @@ March 11, 2010 Class I FOMC - Restricted Controlled (FR) Page 53 of 68
 Growth Rates for M2
 (percent, annual rate)
 Monthly Growth Rates Greenbook Forecast*
+Jul-09 -0.8
+Aug-09 -3.3
+Sep-09 5.6
+Oct-09 4.1
+Nov-09 3.9
+Dec-09 2.2
+Jan-10 -8.6
+Feb-10 7.9
+Mar-10 3.1
+Apr-10 1.3
+May-10 1.3
+Jun-10 1.4
+Jul-10 3.0
+Aug-10 3.3
+Sep-10 3.3
+Oct-10 3.4
+Nov-10 3.5
+Dec-10 3.5
 Quarterly Growth Rates
 Annual Growth Rates
 Growth From To
+Dec-09 Jun-10 1.1
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook
 forecast.  Actual data through March 1, 2010; projections thereafter.
 March 11, 2010 Class I FOMC - Restricted Controlled (FR) Page 54 of 68

@@ -376,6 +376,9 @@ Period Federal Reserve Gold Currency Technical in Required ExcessPeriod Gold Exc
 credit (excl. outside factors total reserves
 float) tock net 2/ reserves 3/ reserves
 float) 1/ banks net 2/ reserves 3/
+Year:
+1965 (12/30/64
+1966 (12/29/65
 - 12/29/65)
 - 12/28/66)
 Year-to-date:
@@ -399,6 +402,8 @@ Weekly:
 + 32
 - 12
 + 155
++1,228
+-1,997
 +1,089
 +1,085
 - 904
@@ -411,6 +416,8 @@ Weekly:
 - 26
 PROJECTED 4/
 Apr. 5 + 200 -- - 135 - 190 - 125 - 100 - 25
+- 160 -- - 35 - 160 - 355 + 30 -385
+May 3y 3  - 110 -- - 575 - 110 - 795 - 75 -720
 For retrospective details see Table B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits, see Table B-2.
@@ -468,9 +475,22 @@ i * 1
 +125
 + 71
 - 29
+Apr. 5 - 100 -270 + 170 + 165 + 5 - 15 + 15
+12 + 105 -115 + 220 + 215 - 10 -- + 15
+19 + 190 - 95 + 285 + 345 - 15 - 60 + 15
+26 + 100 +255 - 155 - 150 - 5 - 15 + 15
+May 3 + 30 +180 - 150 - 195 -- + 30 + 15
+10 - 75 +145 - 220 - 275 -- +45 + 10
+17 - 105 - 30 - 75 - 180 + 5 + 90 + 10
+24 - 145 - 35 - 110 - 270 + 5 +145 + 10
+31 - 130 -165 + 35 - 20 -- +45 + 10
+./ Reflects reserve requirements changes in July and September 1966.
+2/ Includes effect of reduction of reserve requirements $425 million
 $5 million -- effective March 2, and March 16, 1967.
 p - Preliminary.
 on savings deposits and time deposits under
++ 677
++1,221 1/
 - 499
 ' Time
 Table B-3
@@ -482,8 +502,19 @@ Period facts Treasury t deposits nonmemberPeriod factors Float
 (net) operations and gold deposits and
 loans F. R. accounts
 ACTUAL (Sign indicates effect on reserves)
+Year:
+1965 (12/30/64 - 12/29/65) + 798 +294 - 171 + 77 +598
+1966 (12/29/65 - 12/28/66) + 805 +673 + 64 - 30 + 98
+Year-to-date:
+(12/29/65 - 3/30/66) -1,228 +157 - 972 - 2 -411
+(12/28/66 - 3/29/67) -1,997 -238 -1,200 + 9 -568
 Weekly:
 1967--Mar. 1 - 96 +119 - 179 + 1 - 37
+May 3 - 160 -- - 160
+10 - 110 -- - 110 --
+17 + 145 -- + 200 -- - 55
+24 - 125 -- + 90 -- -215
+31 - 350 -- - 350 --
 Table B-4
 SOURCE OF FEDERAL RESERVE CREDIT
 Retrospective Changes
@@ -492,6 +523,8 @@ Year:
 1965 (12/30/64 - 12/29/65:
 (12/29/65 - 3/30/66)
 (12/28/66 - 3/29/67)
+Mar. 1
+8
 Total Federal
 Reserve credit
 l f1 t -
@@ -540,6 +573,8 @@ borrowings
 + 42
 + 2
 - 38
++129
+-167
 * - Includes effect of change in special certificates of +$64 million in the week of March 15, 1967 and -$64
 million in the week of March 22, 1967.
 Chart Reference Table C-l

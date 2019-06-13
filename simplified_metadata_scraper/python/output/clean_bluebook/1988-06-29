@@ -81,6 +81,14 @@ Excess reserves
 -. 2
 -- 8.21
 -- 12.21
+.3 4.2
+pe--preliminary estimate based on partial data through June 20.
+1. March to May.
+2. 1987:Q4 to May.
+3. Reserve estimates incorporate assumptions of $550 million of adjustment plus
+seasonal borrowing and $950 million of excess reserves during the second half of
+June.
+4. Includes "other extended credit" from the Federal Reserve.
 (4) Expansion of the monetary aggregates slowed substantially in
 May, mainly reflecting the runoff of tax-related balances. Based on
 partial data through June 20, growth of the aggregates appears to have
@@ -167,12 +175,15 @@ M3 VELOCITY
 I I I I I I I I I I I I I I I I I I I I I I I I I Iittliiiliiiliiiliii
 Ratio scale
 Ratio scale
+I 1.6
+1.4
 Actual and Projected Velocity of M1 and Debt
 M1 VELOCITY
 Ratio scale
 DOMESTIC NONFINANCIAL DEBT VELOCITY
 Ratio scale
 - 1.2
+I I . 1 1 I I I I I I I I I I I I I I I I I I I Iitiliiliiirlrili
 - 0.8
 second half of the year, debt growth is still expected to exceed the pace
 of GNP by 2 percentage points as a widening corporate financing gap boosts
@@ -206,6 +217,9 @@ might be easier to make next February.
 Alternative 1989 Ranges
 Alt. I Alt. II Alt. III
 (Current Ranges)
+M2 4 to 8 3-1/2 to 7-1/2 3 to 7
+M3 4 to 8 3-1/2 to 7-1/2 3-1/2 to 7-1/2
+Debt 7 to 11 6-1/2 to 10-1/2 6-1/2 to 10-1/2
 (11) The monetary policy restraint embodied in the greenbook forecast
 is likely to involve a significant slowing of money growth next year. In
 this forecast, given the underlying strength in demands on the economy, a
@@ -308,6 +322,11 @@ through September. (More detailed data are shown on the table and charts
 on the following pages.)
 Growth from June
 to September
+M2 6-1/4 5-1/2 4
+M3 7-1/4 7 6-1/2
+M1 4-1/2 3-1/2 1-1/2
+Associated federal
+funds rate range 5 to 9 5 to 9 6 to 10
 (18) Market rates appear to have incorporated the recent firming of
 policy, which would be retained under alternative B, and most rates should
 remain near current levels over the near term. However, the prime rate may
@@ -328,6 +347,13 @@ rates, while small time deposits, whose rates adjust rather promptly, would
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+Levels in billions
+1988 April 2991.9 2991.9 2991.9 3766.7 3766.7 3766.7 770.2 770.2 770.2
+May 3003.7 3003.7 3003.7 3780.0 3780.0 3780.0 770.1 770.1 770.1
+June 3018.4 3018.4 3018.4 3801.7 3801.7 3801.7 774.6 774.6 774.6
+July 3034.7 3033.5 3031.0 3824.4 3823.9 3823.0 777.3 776.9 776.1
+August 3050.7 3047.6 3041.4 3847.5 3846.2 3843.7 780.1 779.0 776.8
+September 3065.8 3060.3 3049.2 3871.2 3868.6 3863.4 783.1 781.1 777.2
 strengthen a bit following their recent lull. In reflection of this
 pattern, M1 would slow to only a 3-1/2 percent pace under this alternative.
 (20) M3, under alternative B, is expected to pick up a little over June
@@ -508,6 +534,28 @@ FEB 88
 MAR 88
 APR 88
 MAY 88
+Meekly
+MAR 2 88
+MAR 9 8h
+MAR 16 88
+MAR 23 88
+MAR 30 88
+APR 6 88
+APR 13 88
+APR 20 88
+APR 27 88
+MAY 4 88
+MAY 11 88
+MAY 18 88
+MAY 25 88
+JUN 1 88
+JUN 8 88
+JUN 15 88
+JUN 22 88
+Daily
+JUN 17 88
+JUN 23 88
+JUN 24 88
 federal 3
 funds month
 cds
@@ -547,6 +595,11 @@ Period M1 M2 components M3 L and government 2 other2 total
 2
 PERCENT ANNUAL GROTBH:
 ANNUALLY (ulV TO UIV)
+QUARTERLY AVERAGE
+2ND UTR. 1987
+3BD QTB. 1987
+4TH QTR. 1987
+1ST QTR. 1988
 HONTUL
 1987--MHA
 JUNE
@@ -580,6 +633,8 @@ Demand checkable RPs and MMDAs Savings nation general Institu- nation RPs Eurodo
 Period Currency deposits deposits Eurodollars NSA deposits time purpose, tlons time NSA NSA bonds Treasury cial paper accep-
 NSA deposits 1 and brokerl only deposits 3  securities tances
 AIUALLT (4TH OQT):
+APi. 202.5 290.1 270.3 76.8 523.1 422.8 964.8 236.1 91.9 492.6 108.1 88.5 104.6 266.7 288.2 41.2
+nAI P 203.6 287.3 271.9 81.6 519.5 425.3 971.8 232.7 90.0 496.5 111.2 89.5
 P-PBBLIBI ABT
 STRICTLY CONFIDENTIAL (FR)
 CLASS II--FOMC
@@ -587,6 +642,10 @@ Net Changes in System Holdings of Securities'
 Millions of dollars, not seasonally adjustedJune 27, 1988
 Treasury bills Treasury coupons Federal Net change
 Period Net purchases3  agencies outright Net RPs SNet Redemp- Rch e w n Redemp- redemptions holdings
+purchases2  tions (-) N 1-5 5-10 over(-) Net change tota
+1-year 10
+June 1
+8
 Memo: LEVEL (bil.$)'
 June 22
 -- 515

@@ -73,6 +73,7 @@ Reserve and monetary aggregate Range of
 M 1  6½-9½ 8.5
 M2  9-12 
 12.7
+RPD 5-8 3.0
 Memo:
 Federal funds rate
 (per cent per annum)
@@ -137,12 +138,24 @@ last-month-of-quarter basis.
 Past Past
 Calendar Twelve Six Three Past
 Year Months Months Months Month
+June '75 June '75 June 75 June '75
+1974 over over over over
 June '74 Dec. '74 Mar. '75 May '75
+Nonborrowed reserves 10.8 10.1 - .7 -- 5.1
 Concepts of Money
 Bank Credit
 Short-term arket Paper
 (bnthly average change
 in billions)
+Nonbank commercial paper .4 .2 - .1 - .5 - .3
+1/ Other than interbank and U.S. Government.
+2/ Based on month-end figures. Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift insti-
+tutions--which are derived from either end-of-month or last Wednesday-of-month
+figures. Growth rates for reserve measures in this and subsequent tables are
+adjusted to remove the effect of discontinuities from breaks in the series when
+reserve requirements are changed.
 Prospective developments
 (7) Summarized below for Committee consideration are three
 alternative short-run operating specifications for policy. More detailed
@@ -153,10 +166,15 @@ measures, are shown in appendix table IV.
 Alt. A Alt. B Alt. C
 Ranges of tolerance
 for July-Aug.
+M1 4 to 6 3½ to 5½ 3 to 5
+M2  9 to 11 8½ to 10½ 8 to 10
 RPD -½ to 1½ -1½ to ½ -2½ to -½
+Federal funds rate 5 to 6 5 to 6½ 6¼ to 7¼
+(intermeeting range)
 Memorandum item:
 6-month annual growth rate
 (June '75- Dec. '75)
+M2  11 10 9
 (8) The short-run specifications of alternative B involve
 maintenance of prevailing money market conditions between now and the
 next Committee meeting. Thus, the Federal funds rate range shown is
@@ -379,6 +397,11 @@ SA NSA Reserves Reserves Required Demand Deposits Nondeposits InterbankSA I NS
 MONTHLY LEVELS-$MILLIONS
 PERCENT ANNUAL GROWTH
 WEEKLY LEVELS-$MILLIONS
+JUNE 4
+11
+8e
+JULY 2
+9
 ! 3.0)
 (34,888)
 135,003)
@@ -387,10 +410,14 @@ S 5.6)
 ( 6.91
 (19,799)
 S10,807)
+( 8,666)
+1 8,610)
 ( 4,330)
 I 4.311)
 ( 1,874)
 2,088)
+DATA SHOWN IN PARANTHESES ARE CURRENT PROJECTIONS. AT THE FOMC MEETING OF MAY 20, 1975 THE COMMITTEE AGREED ON A RPD
+RANGE OF 6.2 5 TO 8.25 PERCENT FOR THE JUNE-JULY PERI OD.
 Table 2 CONFIDENTIAL (F.R.)
 MONETARY AGGREGATES CLASS II FOMCJULY 11, 1975
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
@@ -416,6 +443,7 @@ Bills Coupon Agency RP' Open Market Member Other 4/ Req. res. against available 
 (1) (2) (3) (4) - (5) (6) (7) (8) (9) (10) (11)
 July 290
 Aug.
+June 4 -724 - -6 -4,652 -5,383 -1,364 -- -1,062 112 -2,538
 Target change for previous months reflects the bluebook patterns that are consistent with target ranges that were adopted during 
 the month.
 P - Preliminary.
@@ -435,10 +463,17 @@ Over
 Apr.
 May
 June
+- 490
+7,232
+1,280
 - 43
 - 358
 - 986
 - 238
+- - - - - -- -- -- -- 247 -2,827
+50 -- -- 50 - - - -- - 476 - 698
+- - - - - - - -- - -- 244 3,932
+S-- -- -- -- -162 -1,101
 the System, and redemptions (-) of Agency and Treasury coupon issues.
 5/ Includes changes in both RP's (+) and matched sale-purchase transactions (-).
 Period
@@ -447,6 +482,8 @@ Outright
 Holdings
 Total 4/Total
 Net 5/
+July 2
+9
 CONFIDENTIAL (FR)
 CLASS II - FOMC
 July 11, 1975
@@ -481,8 +518,13 @@ Dec.
 Apr.
 May
 June
+Daily--July 3
+10
 Federal
 Funds
+(1)
+13.55
+8.45
 Treasury Bills
 CD's New Issue-NYC
 Aaa Utility

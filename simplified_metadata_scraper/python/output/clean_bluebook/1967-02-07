@@ -84,9 +84,25 @@ July 6-Aug. 10
 Aug.10-Nov. 16
 Nov.16-Feb. 1
 I tt 4
+Averages
+5.41
+5.12
+5.74
 + 0.8
 + 3.0
 - 1.4
++173
++ 58
+- 88
++206
++ 1
+- 16*
++135*
+-302
++ 5
+-134
++108
++ 23
 (Seasonally Adjusted)
 +129 + 1.6 +
 + 78 + 0.7 +
@@ -117,6 +133,8 @@ of increase 3/
 + 8.4
 +10.3*
 + 6.1
+- 4.2 -13.4 +12.7
+- 2.7 + 0.4 + 1.4
 +11.1 + 1.4 +14.7
 February 3,1967.
 ..................... j
@@ -319,6 +337,9 @@ Re s e rve Ag r e g a t e s Monet a y Variables
 Required reserves Member Time Money Supply
 Total Against Deposits PrivateNonborrowed Bank DepositsReserves Total Demand Bank Deposits (comm. Total Demand
 Reserves Deposits (cr ) banks) Deposits
+Annually:
+1965 + 5.3 + 4.3 + 5.3 + 2.3 + 9.1 +16.0 + 4.7 + 4.4
+1966 + 1.2 + 0.8 + 1.5 - 0.2 + 3.7 + 8.4 + 1.9 + 0.9
 Monthly:
 1965--September - 1.2 - 3.9 - 2.2 - 6.8 + 3.6 +13.7 + 8.1 + 9.4
 October + 3.7 + 7.3 + 9.7 + 5.1 +12.5 +17.8 + 8.0 + 7.5
@@ -333,7 +354,16 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. outside factors total reserves
 float) 1/ stock banks net 2/ reserves 3/ reserves
+ACTUAL
+Year:
+1965 (12/30/64 - 12/29/65) +4,035 -1,602 -2,143 +798 +1,089 +1,188 - 99
+1966 (12/29/65 - 12/28/66) +3,149 -627 -2,232 +805 +1,096 +1,104 - 8
+Weekly:
+1967--Jan. 4 p +319 -- +440 -294 +462 +532 - 70
+Feb. 1 p -606 + 1 +164 +330 -111 + 59 -170
 PROJECTED 4/
+Mar. 1 - 15 -- + 95 - 50 + 30 + 30
+8 +565 -- -490 -100 - 25 - 25
 For retrospective details, see Table B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits, see Table B-2.
@@ -353,6 +383,8 @@ Year:
 Weekly:
 1967--Jan. 4 p +532 - 34 +566 +334 + 24 +190 + 18
 Feb. 1 p + 59 - 6 + 65 - 81 + 3 +105 + 38
+Mar. 1 + 30 - 70 +100 + 35 + 10 + 45 + 10
+8 - 25 -105 + 80 + 35 + 10 + 25 + 10
 July and September, 1966.
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
@@ -362,6 +394,10 @@ Prospective Changes
 on weekly averages of daily figures)
 Technical
 Period factors
+ACTUAL
+Year:
+1965 (12/30/64
+1966 (12/29/65
 - 12/29/65)
 - 12/28/66)
 Year-to-date:
@@ -374,6 +410,10 @@ Feb. 1
 +805
 +294
 +673
+- 27
+-107
+- 58
+-135
 Foreign
 deposits
 and gold
@@ -389,7 +429,13 @@ deposits and
 F. R. accounts
 +598
 + 98
++ 40
+-148
+- 69
+- 63
 - 58
+Mar. 1 - 50 - - 50 --
+8 -100 -- -100 --
 Table B-4
 SOURCE OF FEDERAL RESERVE CREDIT
 Retrospective Changes
@@ -408,14 +454,59 @@ Weekly!
 Feb. 1
 +4,035
 +3,149
++304
++509
++ 5
+-699
++775
++ 97
+- 19
+-231
++556
 +319
 +347
 +3,916
 +3,069
++225
++455
+- 59
+-438
++550
++256
+-202*
+-112*
++452
++282
++345
+-611
++ 3
 +3,145
 +2,158
++243
++323
+- 16
+-306
++212
++141
+-120
+- 69
++434
++303
+-203
++109
 +916
 +474
++ 28
+-658
+- 18
++132
+- 43
+-132
++338
++115
+-154
++ 26
++315
 - 34
 I _____________________ _____________ . ___________ . __________ I
 * - Includes effect of change in special
@@ -424,6 +515,8 @@ of the week of December 21, 1966.
 - 26
 + 77
 + 52
+- 21
+-109
 + 3
 + 2
 - 1
@@ -440,6 +533,15 @@ of the week of December 21, 1966.
 - 2
 + 42
 + 2
++ 76
++ 52
++ 65
+-272
++197
++ 17
++ 20
+-368
++321
 certificates of +$72 million of the week of December 14, 1966, and -$72 million
 Chart Reference Table C-1
 TOTAL, NONBORROWED AND REQUIRED RESERVES
@@ -459,6 +561,17 @@ Total member e Private U.S. Gov't.
 Time
 Monthly bank deposits demand demand
 (credit) / deposits deposits 2/ deposits
+February 220.4 107.6 107.3 5.5
+March 222.5 108.6 107.8 6.1
+April 224.6 109.9 108.1 6.7
+May 225.8 111.1 107.5 7.2
+June 227.7 112.2 108.4 7.1
+July 229.1 113.8 108.6 6.7
+August 230.4 115.5 108.6 6.3
+September 231.1 116.9 109.7 4.6
+October 233.5 118.7 110.2 4.5
+November 234.5 120.2 110.4 4.0
+December 236.4 121.2 111:2 4.0
 p - Preliminary.
 TABLE C-2a
 DEPOSITS SUPPORTED BY REQUIRED RESERVES AT ALL
@@ -488,6 +601,10 @@ Oct. 5*
 26*
 Nov. 2*
 9*
+Dec. 7*
+14 *
+21*
+2 8p*
 Jan. 4 p*
 lip*
 18p*
@@ -529,6 +646,8 @@ Federal Reserve Banks.
 * - Deposits have been adjusted for redefinition of time deposits effective
 June 9, 1966.
 p - Preliminary.
+E
+38.5 162.9*
 p
 p
 p

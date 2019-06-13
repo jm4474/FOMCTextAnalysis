@@ -49,6 +49,7 @@ April May JuneP JuneP QII'87P JuneP
 Money and credit aggregates
 Reserve measures
 Memo: (Millions of dollars)
+Excess reserves 827 1079 1219
 p--preliminary.
 pe-preliminary estimate.
 fall; over this period, the rise in short-term market rates has consider-
@@ -144,6 +145,9 @@ allow for that possibility by including a lower growth range for M2.
 Alternative 1987 Ranges
 Alt. I Alt. II
 (Current Ranges)
+M2 5-1/2 to 8-1/2 4-1/2 to 7-1/2
+M3 5-1/2 to 8-1/2 5-1/2 to 8-1/2
+Debt 8 to 11 8 to 11
 (10) With M2 now well below its growth cone, and a little below
 the lower end of its associated parallel band, growth at around a 7-1/2
 percent annual rate over the remainder of the year would be needed to
@@ -216,6 +220,9 @@ growth in money and credit in 1988. Alternative I would retain the current
 ranges; alternatives II and III would reduce the ranges by varying amounts.
 Alternative 1988 Ranges
 Alt. I Alt. II Alt. III
+M2 5-1/2 to 8-1/2 4-1/2 to 7-1/2 3-1/2 to 7
+M3 5-1/2 to 8-1/2 5 to 8 4-1/2 to 7-1/2
+Debt 8 to 11 7-1/2 to 10-1/2 7 to 10
 (15) Alternatives II and III both encompass rates of money growth
 the staff considers consistent with its economic forecast. As noted above,
 that forecast embodies an appreciable upward movement of interest rates by
@@ -300,11 +307,23 @@ that of the first half of the year.
 Alt. A Alt. B Alt. C
 Growth from June
 to September
+M2 6-1/2 5 3-1/2
+M3 8 7-1/2 7
+Ml 6 4 2
+Associated federal
+funds rate range 3 to 7 4 to 8 5 to 9
 (20) Alternative B assumes the current $500 million allowance
 for adjustment and seasonal borrowing. With such pressure on reserve
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+Levels in billions
+1987 April 2838.5 2838.5 2838.5 3541.0 3541.0 3541.0 750.4 750.4 750.4
+May 2839.9 2839.9 2839.9 3555.5 3555.5 3555.5 753.2 753.2 753.2
+June 2843.1 2843.1 2843.1 3572.3 3572.3 3572.3 747.0 747.0 747.0
+July 2855.7 2854.0 2852.3 3598.5 3597.9 3597.3 749.6 749.2 748.8
+August 2871.1 2866.6 2862.1 3622.8 3620.7 3618.6 753.3 751.7 750.1
+September 2890.3 2879.6 2869.0 3643.5 3639.0 3634.5 758.0 754.3 750.5
 Actual Li
 * Short Run Al
 positions, federal funds would be expected to trade in a 6-1/2 to 6-3/4
@@ -574,6 +593,16 @@ Pwiod Ml M2 compownts M3 L and governnrnt
 2  other total'
 PERCENT ANNUAL GROUTH:
 ANUOALL (UIV TO QIV)
+MON BLT IEVELS ($BILLIONS)
+1987--JAN. 737.7 2822.0 2084.3 692.5 3514.5 4174.1 2118.3 1818.1 5893.6 7711.7
+FEB. 737.4 2821.1 2083.6 697.4 3518.4 4181.3 2119.7 1825.9 5928.7 7754.6
+HAB. 7J9.5 2824.3 2084.7 699.3 3523.6 4170.9 2126.2 1831.6 5959.6 7791.3
+APB. 750.4 2838.5 2088.1 702.4 3541.0 4186.9 A147.3 1841.6 6007.1 7848.7
+IAi 753.2 2839.9 2086.7 715.6 3555.5 2160.6 1861.0 6053.3 7914.3
+wIDKLI LirELS ($BIJLLlOS)
+1987-MA1 4 749.2
+JUON 1 753.6
+6 745.8
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 JULY 6, 1987
@@ -589,6 +618,8 @@ Net Changes in System Holdings of Securities 1 CLASS II-FOMC
 Millions of dollars, not seasonally adjusted
 July 6, 1987
 Treasury coupons net purchases'
+withln 1-5 5-10 over 10 total
+1 -year I
 Apr. I
 8
 Jul. 1
@@ -596,10 +627,13 @@ LEVEL--July 1
 ($ billions)
 Period
 Federal agencies net purchases'
+t 1-5 5-10 over 10 total
 Treasury bills
 net change'
 Net change
 outright holdings Net RPs'
 maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon issues, and direct Treasury
 borrowing from the System.
+- -252
+920 8,948
 - -252

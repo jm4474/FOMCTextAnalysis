@@ -36,14 +36,20 @@ trimmed 25 to 35 basis points, with the funds rate now moving a little above 4 p
 by fall 2003 (charts). 1  Yields on nominal Treasury coupon securities were unchanged
 Chart 1
 Financial Market Indicators
+Jan Apr Jul Oct Jan Apr Jul Oct
+2002 2003
 December 10, 2001
 January 24, 2002
 Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
+Jan Apr Jul Oct Jan Apr Jul Oct Jan
+2000 2001
 Commercial Paper Quality Spread
 (30-Day A2/P2 to A1/P1)
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 Ten-Year TIPS
 Selected Treasury Yields*
 *Nominal Treasury yields are estimated from a smoothed yield curve based
@@ -55,6 +61,8 @@ Years Ahead
 Michigan Survey Measure of Long-Term Inflation
 Expectations*
 *Michigan median five-year to ten-year inflation expectations.
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 Long-term
 Treasury Bond
 (left scale)
@@ -64,6 +72,8 @@ Capital Market Volatility*
 *Implied volatilities calculated from options.
 Chart 2
 Financial Market Indicators
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 High Yield*
 (left scale)
 Ten-year BBB
@@ -72,6 +82,8 @@ Ten-year Swap
 (right scale)
 Selected Private Long-Term Yields
 *Source. Merrill Lynch. Median yield of B-rated corporate bonds.
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 High Yield*
 (left scale)
 Ten-year BBB
@@ -81,6 +93,8 @@ Ten-year Swap
 Spreads of Selected Private Long-Term Yields
 over Ten-Year Treasury
 *Source. Merrill Lynch. Median yield of B-rated corporate bonds.
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 Wilshire 5000
 Selected Equity Indexes
 *Aaa bond yield minus Philadelphia Fed 10-year expected inflation.
@@ -91,6 +105,8 @@ Major
 Currencies Index
 Nominal Trade-Weighted Dollar
 Exchange Rates
+Sep Nov Jan Mar May Jul Sep Nov Jan
+2000 2001
 Broad Index
 Major
 Currencies Index
@@ -168,17 +184,25 @@ Chart 3
       Growth of Money and Debt Aggregates
 Growth of Total Nonfinancial Debt
 p e
+Q1 Q2 J A S O N D
+2000 2001
 p - Preliminary.
 e - Estimate.
 Growth of Nonfederal Nonfinancial Debt
+Q1 Q2 J A S O N D
+2000 2001
 p - Preliminary.
 e - Estimate.
 Growth of M2
 Data incorporate the effects of the annual seasonal 
 review process.
+Q1 Q2 J A S O N D
+2000 2001
 Growth of M3
 Data incorporate the effects of the annual seasonal 
 review process.
+Q1 Q2 J A S O N D
+2000 2001
 MONEY AND CREDIT AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
 Sep 2001 Oct 2001 Nov 20012 Dec 20013
@@ -430,5 +454,24 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 January 24, 2002
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QII 3,097 7,476 -4,379 6,611 8,592 2,047 3,573 6,656 14,167 --- 9,788 639 -2,186 -1,547
+QIII 3,965 1,543 2,422 1,619 5,854 1,691 1,535 5,723 4,976 --- 7,398 3,775 2,587 6,362
+QIV 4,659 --- 4,659 5,761 2,577 982 1,632 473 10,479 --- 15,138 -4,167 10,847 6,681
+Jun 2,165 --- 2,165 1,410 1,428 --- 1,419 --- 4,257 --- 6,422 -2,781 -3 -2,783
+Sep 348 1,543 -1,195 --- 851 --- --- --- 851 --- -344 12,132 983 13,115
+Nov 3,075 --- 3,075 1,408 1,920 459 --- --- 3,787 --- 6,862 -4,236 3,360 -876
+Nov 7 188 --- 188 --- --- --- --- --- --- --- 188 -10,473 -429 -10,902
+Nov 14 169 --- 169 1,408 730 --- --- --- 2,138 --- 2,307 4,127 -286 3,842
+Nov 21 2,359 --- 2,359 --- 247 459 --- --- 705 --- 3,064 1,589 2,143 3,732
+Nov 28 201 --- 201 --- 944 --- --- --- 944 --- 1,145 -2,238 2,571 334
+Dec 5 416 --- 416 1,475 --- --- --- --- 1,475 --- 1,891 -1,021 --- -1,021
+Dec 12 228 --- 228 --- --- --- --- --- --- --- 228 -3,531 --- -3,531
+Dec 26 30 --- 30 --- --- 27 448 --- 475 --- 505 2,968 2,000 4,968
+Jan 9 143 --- 143 --- 1,799 --- --- --- 1,799 --- 1,942 -9,643 -2,714 -12,357
+Jan 16 334 --- 334 --- --- --- 582 --- 582 --- 916 -29 -3,000 -3,029
+Jan 23 159 --- 159 --- 1,073 --- --- --- 1,073 --- 1,232 3,835 -3,000 835
 Intermeeting Period
+Dec 11-Jan 24 1,114 --- 1,114 1,467 3,506 101 1,030 --- 6,104 --- 7,218 11,244 -7,000 4,244
 Memo: LEVEL (bil. $)

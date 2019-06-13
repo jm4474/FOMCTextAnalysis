@@ -66,19 +66,29 @@ Jan-Mar Mar-May May-Jun Jun-Aug Aug-Sept Sept-Nov
 Treasury yield (solid) and correlation of daily changes in the log WTI spot
 price and in the log S&P 500 index (shaded). Red denotes statistically
 significantly different from zero.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 *Spot WTI price.
+Nov. Feb. May July Oct. Jan. Apr.
+2004 2005 2006
 November 4, 2004
 September 20, 2004
 Expected Federal Funds Rates*
 *Estimates from federal funds and eurodollar futures, with an allowance
  for term premia and other adjustments.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 Twelve Months Ahead
 Six Months Ahead
 Policy Uncertainty*
@@ -109,6 +119,8 @@ times, market participants pointed to statements of Federal Reserve officials ab
 international financial developments as a factor contributing to such worries.  The
 Chart 2
 Capital Market Developments
+Jan. June Nov. Apr. Oct. Mar. Aug.
+2002 2003 2004
 Wilshire
 Nasdaq
 Stock Prices
@@ -118,6 +130,8 @@ profits before tax
 Corporate Earnings Growth Percent
 *Change from four quarters earlier.
     Source. I/B/E/S for S&P 500 EPS.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 S&P 500 (left scale)
 Ten-Year Treasury Note (right scale)
 Implied Volatility
@@ -130,11 +144,15 @@ Long-run real Treasury yield*
      and latest earnings data from I/B/E/S.
 Nov.
 03
+Jan. June Nov. Apr. Sept. Feb. July
+2002 2003 2004
 Basis Points
 Ten-Year BBB (left scale)
 Five-Year high-yield (right scale)
 Lower-Tier Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
+Jan. June Nov. Apr. Sept. Feb. July
+2002 2003 2004
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
@@ -142,17 +160,25 @@ Higher-Tier Corporate Bond Spreads*
 curve. Swap spread measured relative to the on-the-run Treasury security.
 Chart 3
 International Financial Indicators
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 Nominal Trade-Weighted Dollar
 Indexes Index(12/31/02=100)
 Broad
 Major Currencies
 Other Important Trading Partners
 FOMC  Daily
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2003 2004
 EMBI+ Index
 Basis Points
 FOMC
@@ -676,7 +702,26 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 November 4, 2004
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+QIII 4,508 --- 4,508 1,898 4,406 1,507 434 --- 8,244 --- 12,753 -1,787 782 -1,005
+Apr 3,516 --- 3,516 --- --- --- --- --- --- --- 3,516 1,041 1,355 2,396
+Jun 3,831 --- 3,831 --- 1,760 275 --- --- 2,035 --- 5,866 -1,738 1,824 86
+Aug 83 --- 83 --- 428 568 --- --- 996 --- 1,078 -750 -1,323 -2,072
+Oct 500 --- 500 1,593 2,765 1,225 400 --- 5,984 --- 6,484 -2,121 -4,443 -6,564
+Aug 18 7 --- 7 --- 428 568 --- --- 996 --- 1,003 -1,806 1,000 -806
+Aug 25 68 --- 68 --- --- --- --- --- --- --- 68 -990 4,000 3,010
+Sep 1 8 --- 8 --- --- --- --- --- --- --- 8 4,740 2,000 6,740
+Sep 8 18 --- 18 --- --- --- --- --- --- --- 18 -5,150 4,000 -1,150
+Sep 15 41 --- 41 --- 799 --- --- --- 799 --- 840 385 1,000 1,385
+Sep 22 1,664 --- 1,664 --- --- 400 400 --- 800 --- 2,464 -321 -2,000 -2,321
+Oct 6 1,770 --- 1,770 --- 1,198 --- --- --- 1,198 --- 2,968 296 -4,000 -3,704
+Oct 13 29 --- 29 --- --- --- --- --- --- --- 29 3,612 -1,000 2,612
+Oct 20 200 --- 200 --- 171 823 --- --- 994 --- 1,195 -656 --- -656
+Nov 3 192 --- 192 --- 1,086 118 --- --- 1,204 --- 1,396 1,739 -2,000 -261
 Intermeeting Period
+Sep 21-Nov 4 3,841 --- 3,841 1,593 3,951 1,973 491 --- 8,009 --- 11,849 -8,751 -7,000 -15,751
 Memo: LEVEL (bil. $)
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 NOVEMBER 5, 2004

@@ -189,6 +189,8 @@ As re v i sed
 Free reserves
 - 19
 - 123
+- 51
+-108
 - 85
 - 10
 - 47
@@ -210,6 +212,10 @@ operations
 - 69
 - 1
 - 50
+- 22
+-121
+- 99
+- 95
 p - Preliminary.
 Table A-2
 AGGREGATE RESERVES AND RESERVE RELATED MEASURES
@@ -219,6 +225,14 @@ Required reserves by type of deposit Reserve related measures
 Period Total Nonborrowed Demand -Total member oney
 reserves reserves Time Private + i bank deposits suly
 U. S. Gov't. Private (credit) 1/ supply
+Annually:
+1963
+1964
+1965
+Policy Period:
+8/64 - 1/65
+1/65 - 3/65
+3/65 - 11/65
 Monthly:
 1965--January
 February
@@ -289,11 +303,35 @@ December
 + 1.7
 + 3.1
 + 2.4
++ 0.2
++ 3.0
++ 9.0
++14.8
+- 1.3
++ 7.8
++ 0.7
+- 7.1
+-11.1
++ 8.1
+- 6.9
++11.2
 +12.0
 + 3.1
 + 2.4
 + 3.2
 + 3.5
+- 2.6
+- 2.0
++ 6.9
++ 5.0
+-14.0
++15.6
++ 1.4
+- 0.4
++14.0
++ 8.4
+- 1.7
++11.7
 + 4.1
 - 0.1
 + 7.5
@@ -344,7 +382,16 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. outside factors total reserves
 ________float) 1/ stock banks net 2/ reserves 3/ reserves
+ACTUAL
+Year:
+1963 (12/26/62 - 12/25/63) +3,125 -426 -1,950 - 76 +676 +763 - 87
+1964 (12/25/63 - 12/23/64) +3,219 -165 -1,847 -365 +840 +910 - 70
 PROJECTED 4/
+Mar. 2 + 200 -- - 90 - 60 + 50 + 50 --
+9 + 235 - 10 - 415 + 35 -155 -155
+Apr. 6 + 270 - 10 - 290 - 20 - 50 - 50
+13 - 65 - 10 - 110 + 130 - 55 - 55
+20 - 475 - 10 + 190 + 400 +105 +105
 For retrospective details, see Table B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits, see Table B-2.
@@ -355,6 +402,9 @@ Table B-2
 CHANGES IN REQUIRED RESERVE COMPONENTS
 Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
+.ear:
+1963 (12/26/62
+1964 (12/25/63
 - 12/25/63)
 - 12/23/64)
 Year-to-date:
@@ -371,6 +421,8 @@ Supporting
 U. S. Gov't.
 demand
 deposits
++ 8
+-115
 + 70
 - 50
 +245
@@ -381,6 +433,8 @@ deposits
 +144
 +755
 +1,025
++428
+-171
 Supporting private deposits
 Seasonal changes
 Other than
@@ -389,6 +443,12 @@ seasonal changes
 __________ V I. *I.Demand
 + 45
 + 16
++226
+-176
++269
+- 82
+- 21
+-267
 + 55
 + 54
 +239
@@ -401,12 +461,18 @@ __________ V I. *I.Demand
 - 56
 PROJECTED
 Mar. 2 + 50 - 50 +100 + 30 + 20 + 60 - 10
+Apr. 6 - 50 -190 +140 +150 - 10
+13 - 55 -330 +275 +265 + 10 -
+20 +105 -100 +205 +215 - 10 -
 released $780 million of reserves at the
 +471
 +467
 +137
 + 51
 Demand Time
+Year:
+1963 (12/26/62
+1964 (12/25/63
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
 Retrospective and Prospective Changes
@@ -423,6 +489,12 @@ Year-to-date:
 (12/29/65 - 2/23/66)
 Weekly:
 1965--Dec. 22
+Feb. 2
+9
+- 76
+-365
++812
+-114
 + 7
 + 58
 - 66
@@ -437,6 +509,8 @@ Weekly:
 +234
 +149
 - 84
++823
+-163
 + 88
 + 11
 + 96
@@ -453,6 +527,15 @@ F. R. accounts
 - 81
 + 1
 + 9
+- 63
+-173
+- 33
+-117
+PROJECTED
+Mar. 2 - 60 + 95 -150 - 10 + 5
+Apr. 6 - 20 -- - 50 -- + 30
+13 +130 -- + 50 -- + 80
+20 +400 -- +400
 (Dollar amounts in
 Table B-4
 SOURCES OF FEDERAL RESERVE CREDIT
@@ -480,6 +563,10 @@ Weekly:
 - 138
 + 325
 + 369
++ 247
++ 118
+-1,232
++ 45
 + 369
 + 657
 - 363
@@ -530,6 +617,13 @@ Weekly:
 - 48
 - 33
 +199
++202
+-101
+-322
++249
++160
+-142
+-267
 + 39
 - 61
 - 24
@@ -537,6 +631,17 @@ Weekly:
 - 60
 + 16
 - 26
++155
+-128
++173
+- 56
++ 8
+-268
++328
++ 16
++ 28
+-372
++134
 + 66
 + 85
 - 50
@@ -568,4 +673,6 @@ Seasonally Adjusted
 on monthly averages of daily figures)
 Period Money Supply emanCurrency/
 deposits 1/ Currency /
+Weekly
+1965--Dec. 1 165.7 129.6 36.2
 p - Preliminary.

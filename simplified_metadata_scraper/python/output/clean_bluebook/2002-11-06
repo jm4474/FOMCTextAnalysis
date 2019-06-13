@@ -46,6 +46,8 @@ S&P 500 Index
 (Left Scale)
 Ten-year Treasury
 (Right Scale)
+Oct Jan Apr Jul Oct Jan Apr Jul
+2002 2003 2004
 September 23, 2002
 October 31, 2002
 Expected Federal Funds Rates Estimated from
@@ -67,6 +69,8 @@ Basis points
 Change in Treasury Yield Curve Since
 September 23, 2002
 Maturity in Years
+Sep Dec Mar Jun Sep Dec Mar Jun Sep
+2000 2001 2002
 Long-Run Inflation Expectations
 Michigan Survey
 Philadelphia Fed Survey
@@ -105,10 +109,14 @@ Financial Market Indicators
 Jan Feb Mar May Jun Aug Sep
 2002
 Ten-year Corporate Yields less Ten-year Treasury
+Sep Dec Mar Jun Sep Dec Mar Jun Sep
+2000 2001 2002
 Ten-year AA
 Ten-year BBB
 Ten-year Swap
 Spreads of Selected Private Long-Term Yields
+Sep Dec Mar Jun Sep Dec Mar Jun Sep
+2000 2001 2002
 Broad Index
 Major
 Currencies Index
@@ -116,6 +124,8 @@ Other Important
 Trading Partners
 Nominal Trade-Weighted Dollar
 Exchange Rates
+Sep Dec Mar Jun Sep Dec Mar Jun Sep
+2000 2001 2002
 EMBI+ Index
 Market Liquidity
 Recent evidence on market perceptions of the health of major financial
@@ -149,6 +159,8 @@ Chart 3
 Market Liquidity and Credit Availability
 Treasury Liquidity Premiums*
 *Interpolated off-the-run yield minus the on-the-run yield, adjusted for time to next auction.
+Jul Sep Nov Jan Mar May Jul Sep
+2001 2002
 Commercial Banks*
 Credit Default Swap Spreads for Selected Financial Intermediaries
 Ford Motor Credit
@@ -212,8 +224,12 @@ Weekly, s.a.
 *  Four-week moving average.
 Note.  March 16, 1990 = 100 for n.s.a. series.
 Growth of Federal Debt
+Q1 Q2 Q3 Q4 J F M A M J J A S
+2001 2002
 Growth of M2
 e Estimated.
+Q1 Q2 Q3 Q4 J F M A M J J A S O
+2001 2002
 M2 Opportunity Cost*
 (right scale)
 M2 Velocity
@@ -578,7 +594,25 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 October 31, 2002
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QIV 4,659 --- 4,659 5,761 2,577 982 1,632 473 10,479 --- 15,138 -4,223 10,847 6,624
+QII 8,227 --- 8,227 5,535 2,580 2,471 210 --- 10,796 --- 19,023 -2,644 -4,563 -7,207
+QIII 6,117 --- 6,117 2,835 3,676 1,318 143 --- 7,972 --- 14,089 -3,067 -5,225 -8,291
+Apr 1,047 --- 1,047 2,709 1,142 1,670 210 --- 5,730 --- 6,777 1,211 -3,714 -2,503
+May 3,524 --- 3,524 2,826 1,439 259 --- --- 4,524 --- 8,048 -2,091 133 -1,958
+Sep 750 --- 750 1,286 --- 51 --- --- 1,337 --- 2,087 1,084 -1,026 59
+Aug 14 64 --- 64 --- --- --- --- --- --- --- 64 -3,630 -1,000 -4,630
+Aug 28 139 --- 139 --- 725 122 --- --- 847 --- 986 -5,686 --- -5,686
+Sep 4 185 --- 185 --- --- --- --- --- --- --- 185 9,085 --- 9,085
+Sep 11 236 --- 236 --- --- --- --- --- --- --- 236 -6,152 --- -6,152
+Sep 18 205 --- 205 1,286 --- 51 --- --- 1,337 --- 1,542 77 -1,000 -923
+Sep 25 200 --- 200 --- --- --- --- --- --- --- 200 -4,432 --- -4,432
+Oct 2 --- --- --- --- --- --- --- --- --- --- --- 6,518 -1,000 5,518
+Oct 9 --- --- --- --- --- --- --- --- --- --- --- -3,476 -3,000 -6,476
+Oct 16 --- --- --- --- --- --- --- --- --- --- --- 6,620 -1,000 5,620
 Oct 23 --- --- --- --- --- --- --- --- --- --- --- -3,764 --- -3,764
 Oct 30 --- --- --- --- --- --- --- --- --- --- --- 4,339 --- 4,339
 Intermeeting Period
+Sep 24-Oct 31 --- --- --- --- --- --- --- --- --- --- --- 12,040 -5,000 7,040
 Memo: LEVEL (bil. $)

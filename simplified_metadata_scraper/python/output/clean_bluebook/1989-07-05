@@ -96,8 +96,12 @@ to to
 April May Junep  Junep June
 p
 Money and credit aggregates
+Domestic nonfinancial debt 7.0 7.5 n.a. 7.11 7.92
 Reserve measures
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 582 523 569
+Excess reserves 776 1031 948
 p - preliminary.
 1. March to May.
 2. QIV'88 to May.
@@ -237,6 +241,9 @@ drop in 1992; under strategy III inflation does not change much through
 Prices: GNP fixed-
 weight deflator
 (Q4/Q4 % change)
+I (baseline M2) 4-1/2 4-1/2 4
+II 4-1/2 4-1/4 3-3/4
+III 4-1/2 4-1/2 4-1/2
 Long-Run Ranges
 (12) The table below gives the current ranges for the money and
 debt aggregates in 1989 along with the staff forecast for the growth of
@@ -247,6 +254,12 @@ the fourth quarter of the year, while M3 and debt come in somewhat below
 the midpoints of their ranges.
 Growth from QIV '88 Memo:
 to QIV '89 Current Ranges Staff Forecast
+M2 3 to 7 4
+M3 3-1/2 to 7-1/2 5
+Debt 6-1/2 to 10-1/2 7-3/4
+Memo:
+M1 -1-3/4
+Nominal GNP 6-1/2
 (13) An acceleration of M2 growth to 6 percent over the third and
 fourth quarters of the year is anticipated. In the greenbook forecast,
 nominal GNP growth of 5 percent over the second half of the year is
@@ -325,6 +338,15 @@ Alt. I Alt. II Alt. III Forecast Ranges
 Growth from
 Q4 '89 to
 Q4 '90
+M2 3-1/2 to 3 to 7 2-1/2 to 6-1/2 3 to 7
+7-1/2 6-1/2
+M3 3-1/2 to 3 to 7 3 to 7 6 3-1/2 to
+7-1/2 7-1/2
+Debt 6-1/2 to 6 to 10 5-1/2 to 7-1/2 6-1/2 to
+10-1/2 9-1/2 10-1/2
+Memo:
+M1 3
+Nominal GNP 6
 uncertainty about the appropriate path for short-term market rates, along
 with continuing questions about the evolution of deposit pricing strate-
 gies. In addition, the resolution of the thrift crisis may have an unex-
@@ -431,8 +453,16 @@ rebuild balances depleted by unexpectedly large final tax payments in
 Alt. A Alt. B Alt. C
 Growth from June
 to September
+M2 8 6-1/2 5
+M3 7-1/2 7 6-1/2
+M1 2 1/2 -1
 Growth from Q4 '88
 to September
+M2 3-3/4 3-1/4 2-3/4
+M3 4-3/4 4-1/2 4-1/2
+M1 -2 -2-1/2 -3
+Associated federal
+funds rate range 7 to 11 8 to 12 8 to 12
 (26) Money market rates currently have built in some further
 near-term easing of policy and would likely firm if federal funds con-
 tinued to trade around 9-1/2 to 9-5/8 percent. Short-term rates would
@@ -447,6 +477,13 @@ Refcorp bonds, should the legislation pass with off-budget financing. The
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+Levels in billions
+1989 April 3081.3 3081.3 3081.3 3957.6 3957.6 3957.6 783.2 783.2 783.2
+May 3072.8 3072.8 3072.8 3954.3 3954.3 3954.3 773.4 773.4 773.4
+June 3089.6 3089.6 3089.6 3975.0 3975.0 3975.0 769.6 769.6 769.6
+July 3107.5 3105.0 3102.5 3998.2 3997.2 3996.2 769.5 768.8 768.1
+August 3127.5 3121.1 3114.7 4021.8 4019.2 4016.6 771.3 769.6 767.9
+September 3150.6 3139.0 3127.4 4048.2 4043.2 4038.2 773.5 770.6 767.7
 higher level of U.S. interest rates could postpone the projected depreci-
 ation of the dollar for a time.
 (27) Under alternative B, M2 would grow at a 6-1/2 percent rate
@@ -645,6 +682,20 @@ FEB 89
 MAR 89
 APR 89
 MAY 89
+Meekly
+MAR 1 89
+MAR 8 89
+MAR 15 89
+MAR 22 89
+MAR 29 89
+APR 5 89
+APR 12 89
+APR 19 89
+APR 26 89
+JUN 7 89
+JUN 14 89
+JUN 21 89
+JUN 28 89
 Daily
 JUN
 JUN
@@ -668,6 +719,11 @@ Period MI M2 components M3 L and government' other' total'
 in M2 in M3 only investments
 LEVELS ($BILLIONS) :
 MONTHLY
+WEEKLY
+1989-MAY 1 781.5 3072.2 2290.6 879.4 3951.6
+JUNE 5 776.1 3080.0 2303.9 883.2 3963.2
+12 p 769.6 3088.6 2319.0 883.2 3971.8
+19 p 768.3 3092.9 2324.6 886.1 3979.0
 Strictly Confidential (FR)
 Components of Money Stock and Related Measures c
 la
@@ -705,6 +761,7 @@ CLASS II-FOMC
 Treasury bills Treasury couponsecral Net change
 Net purchases agencies outright
 Period Net 2 Redemp- Net within Redemp- Net redemptions holdings
+purchases tions (-) change 1-year 1-5 5-10 over 10 tions (-) change (-) total Net RPs
 Memo: LEVEL (bil.$)6
 June 28
 S 3,842
@@ -719,6 +776,11 @@ Excludes
 purchase sale transactions (+).
 6. The levels of agency issues were
 as follows:
+-- B
+-858
+-737
 I- or urasr an agnc securi- . s
 (-) or Treasury ana agency securlices.
 sale-purchase transactions (-), and matched
+within 1
+1-vear 1 1-5 5-10 over 10 total

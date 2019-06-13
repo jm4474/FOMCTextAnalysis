@@ -134,6 +134,10 @@ April Growth Rates in Key Monetary Aggregates
 (Per cent annual rates of changes)
 Desired at Previous
 FOMC Meeting Actual 1/
+M1  8.0 10.9
+M2 12.5 12.9
+Adjusted
+Proxy 11.5 5.6
 (7) The overshoot of M1 relative to the bluebook path was
 greatest in the first week of the month, as the following table shows,
 Thereafter, the level of M1 receded and by month-end was slightly
@@ -217,6 +221,8 @@ $ 1.9
 - 1.9
 - 2.1
 $ 0.5
+- 0.2 3/
+- 1.4 3/
 $ 6.1
 - 2.9
 - 0.4
@@ -344,6 +350,9 @@ Alternative B takes a middle course. The text table below shows money
 market conditions believed consistent with these alternatives.
 Fed Funds Member Bank M1
 Rate Borrowings 2nd Qtr 3rd Qtr
+Alternative A 4-1/4 100-200 9% 8-1/2%
+Alternative B 4-3/4 250-350 8-1/2% 7-1/2%
+Alternative C 6--8 450-700 5-1/2% 6%
 (15) Under alternative A, with a funds rate around 4-1/4 per
 cent, M1 is expected to continue growing relatively rapidly through the
 third quarter, although slowing somewhat on balance from the very rapid
@@ -530,6 +539,10 @@ Apr.
 May
 May 5 pe
 12
+Monthly Pattern in Billions of Dollars
+214.8
+217.3
+219.4
 I I I I
 Annual Percentage Rates of Change--Quarterly and Monthly
 Weekly Pattern in Billions of Dollars
@@ -545,6 +558,8 @@ Apr.
 May
 Apr.
 May
+May 5
+12
 Monthly Pattern in Billions of Dollars
 Annual Percentage Rates of Change--Quarterly and Monthly
 1.4
@@ -557,9 +572,23 @@ CONFIDENTIAL (FR)
 May 7, 1971
 RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
 _ _(Annual rates in percent)
+Reserve Aggregatesi Monetary Variables Addenda
+1  2 3 Total 4 MoneySupply 8 9 10
 Total Nonborrowed Member Adusted Time Thrift NonbankPeriod Nonborrowed Member Adusted Private Deposits Instit. Commercial
 Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
 Deposits Deposits
+Annually
+1968
+1969
+1970
+Semi-annually
+Ist Half 1969
+2nd Half 1969
+Quarterly
+1st Qtr. 1970
+2nd Qtr. 1970
+3rd Qtr. 1970
+4th Qtr. 1970
 Monthly
 1969: Dec.
 Apr.
@@ -583,6 +612,11 @@ Dec.
 +19.1
 + 6.6
 + 6.3
++ 3.1
+-12.0
++21.3
+-13.9
++ 0.5
 + 6.0
 +23.3
 +27.5
@@ -603,6 +637,12 @@ Dec.
 + 4.1
 +24.4
 + 9.4
++ 7.2
+-15.6
++ 7.5
++25.4
+-19.0
++ 6.2
 + 4.4
 +22.8
 + 8.8
@@ -619,6 +659,9 @@ Dec.
 + 6.0
 +24.1
 +15.1
+- 4.2
+-8.0
++14.0
 +16.8
 - 4.5
 + 5.8
@@ -657,6 +700,9 @@ n.a.
 +10.5
 +12.9
 + 8.9
++ 7.8
+4- 3.1
++ 5.4
 + 5.1
 + 1.2
 + 5,9
@@ -789,9 +835,22 @@ n.a.
 +28.3
 +12.8
 + 1.7
++17.8
++ 7.5
+-16.2
++20.4
 +12.6
 +26.2
 +13.8
++34.4
++18.9
+-30.0
++32.4
+-28.7
++58.1
+- 9.0
+-10.9
+-55.2
 - J.......,. I L aa.
 n.a. -- not available. m ~fl r
 Table 3
@@ -808,6 +867,8 @@ Sept.
 Oct.
 Nov.
 Dec.
+April 7
+14
 (In millions of dollars)
 (In billions of dollars)
 Table 4
@@ -827,6 +888,11 @@ w October
 0-
 ves weeks
 April p
+Dec. 2
+9
+Mar. 3
+10
+17
 May 5 p
 - 744
 - 995
@@ -849,6 +915,8 @@ S 84
 - 163
 - 166
 - 360
+- 114
+164
 - 380
 - 72
 S 46
@@ -911,6 +979,8 @@ May 5 p
 + 853
 - 145
 + 586
+- 35
+3
 + 722
 - 308
 - 153
@@ -1022,6 +1092,11 @@ Resure r
 e s
 erves
 float) 1/ banks oper oand gold loans F.R. accounts reserves rserves erv-- I.n acut rsre
+Year
+1969 (12/25/68 - 12/31/69
+1970 (12/31/69 - 12/30/70
+Dec 2
+9
 May 5
 +5,539
 +3,351
@@ -1055,6 +1130,9 @@ May 5
 Si g n i n
 S -2,676
 ,150- -3,122
+- + 46
+-353
+- 545
 Sc a t es e ffect on
 + 241
 + 667
@@ -1141,6 +1219,8 @@ Sc a t es e ffect on
 + 21
 + 1
 - 14
+- 898
+-1,655
 - 271
 - 86
 + 16
@@ -1181,6 +1261,10 @@ Sc a t es e ffect on
 + 336
 + 169
 + 322
++ 657
++ 144
++ 727
+-1,047
 - 168
 - 167
 + 350

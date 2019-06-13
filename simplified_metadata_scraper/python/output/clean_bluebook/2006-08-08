@@ -80,20 +80,28 @@ Employment
 report
 Probability of a 25 b.p. Firming at August FOMC meeting*
 *Estimated from federal funds futures, with an allowance for term premia.
+Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2006 2007 2008
 August 3, 2006
 June 28, 2006
 Expected Federal Funds Rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
  for term premiums and other adjustments.
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 Next Five Years
 Five-Year Forward, Five Years Ahead
 Inflation Compensation*
 *Estimates based on smoothed nominal and inflation-indexed
 Treasury yield curves, and adjusted for the indexation-lag (carry) effect.
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
@@ -127,6 +135,8 @@ risk premium rose slightly, and implied volatility of the S&P 500 remained somew
 Class I FOMC - Restricted Controlled (FR) Page 3 of 39
 Chart 2
 Asset Market Developments
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 Wilshire
 Dow Jones Technology
 Stock Prices
@@ -135,11 +145,15 @@ Real Long-Term Treasury Yield*
 Note. + Denotes the latest observation using daily interest rates and stock 
 prices and latest earnings data from I/B/E/S.
 Equity Valuation
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 S&P 500
 Nasdaq
 Implied Volatilities
 Daily
 FOMC
+Apr. Aug. Dec. Apr. Aug. Dec. Apr. Aug.
+2004 2005 2006
 Basis points Basis points
 Ten-Year BBB (left scale)
 Five-Year High-Yield (right scale)
@@ -215,19 +229,27 @@ loans, commercial paper, and corporate bonds all posted solid gains.  In July, b
 Class I FOMC - Restricted Controlled (FR) Page 6 of 39
 Chart 3
 International Financial Indicators
+Jan. May Sept. Jan. May Sept. Jan. May
+2004 2005 2006
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
 Ten-Year Government Bond Yields (Nominal)
+Jan. May Sept. Jan. May Sept. Jan. May
+2004 2005 2006
 Broad
 Major Currencies
 Other Important Trading Partners
 Nominal Trade-Weighted Dollar Indexes
+Jan. May Sept. Jan. May Sept. Jan. May
+2004 2005 2006
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 Stock Price Indexes
 Industrial Countries
+Jan. May Sept. Jan. May Sept. Jan. May
+2004 2005 2006
 Brazil (Bovespa)
 Korea (KOSPI)
 Mexico (Bolsa)
@@ -520,8 +542,32 @@ Four-quarter average
 Core PCE Inflation
 Class I FOMC - Restricted Controlled (FR) Page 17 of 39
 Policy Rule Charts: Explanatory Notes
+For the rules described below, it denotes the federal funds rate for quarter t, while the explanatory 
+variables include the staff’s estimate of trailing four-quarter core PCE inflation (πt), its forecasts  
+of inflation two and three quarters ahead (πt+2|t and πt+3|t), its assessment of the current output gap 
+( *t ty y− ), its one-quarter-ahead forecast of the output gap ( *1| 1|t t t ty y+ +− ), its three-quarter-ahead 
+forecast of annual average GDP growth relative to potential ( 4 4 *3| 3|t t t ty y+ +Δ − Δ ), and the assumed value 
+of policymakers’ long-run inflation objective ( *π ).    
+Rule prescriptions are computed using dynamic simulations of the FRB/US model, implemented as 
+though the rule is followed starting at this FOMC meeting.  This quarter’s prescription is a weighted 
+average of the actual value of the federal funds rate thus far this quarter and the value obtained from the 
+FRB/US model simulations using the timing of this meeting within the quarter to determine the weights.  
+Except for backward-looking rules, it should be noted that prescriptions near the end of the Greenbook 
+horizon also depend on extended baselines. 
+  
+Estimated Rules:  Estimation is performed using real-time data over the sample 1988:1-2005:4, and the 
+specifications are chosen according to the Bayesian information criterion.  Each rule incorporates a 75 
+basis point shift in the intercept, specified as a sequence of 25 basis point increments that occurred 
+during the first three quarters of 1998. Confidence intervals, shown only for the outcome-based rule, are 
+based on stochastic simulations of the FRB/US model.  The following table indicates the specification of 
+each rule used for dynamic simulations and its root mean squared error over the sample 1993:1-2005:4.  
+Outcome-based rule it =  1.17it-1 – 0.37it-2
++ 0.20 [1.04 + 1.77 πt + 3.32( *t ty y− ) – 2.37( *1 1t ty y− −− )] 
+.17
 Forecast-based rule
 it =  1.16it-1 – 0.36it-2
++ 0.20  [0.89 + 1.75 πt+2|t + 2.32( *1| 1|t t t ty y+ +− )  – 1.40( *1 1t ty y− −− )] 
+.16
 Market Expectations:  The expected funds rate path is based on quotes from fed funds and Eurodollar 
 futures, and the confidence intervals are obtained from options on those futures.  
   
@@ -531,6 +577,16 @@ Taylor (1999) rule it = 2 + πt + 0.5(πt – *π ) + ( *t ty y− )
 Taylor (1999) rule     
 with a higher r*
 it = 2.75 + πt + 0.5(πt – *π ) + ( *t ty y− )
+First-difference rule it = it-1 + 0.5(πt+3|t – *π ) + 0.5( 4 4 *3| 3|t t t ty y+ +Δ − Δ ) 
+ 
+Optimal-Control Policies:  Policymakers are assumed to minimize the weighted sum of squared 
+deviations in inflation from the long-run objective, squared deviations in the unemployment from its 
+natural rate, and squared changes in the federal funds rate.  Financial market participants are assumed to 
+understand fully the model of the economy, the baseline economic projection, and the policy 
+formulation process, implying model-consistent asset-price responses to policymaker actions.  In 
+contrast, households and firms are assumed to form their expectations using more limited information.  
+For further information, see the memo to the Committee, “Optimal-Control Monetary Policies” by 
+Michael Kiley, Thomas Laubach, and Robert Tetlow, June 20, 2006.
 Class I FOMC - Restricted Controlled (FR) Page 18 of 39
 Chart 8
 Equilibrium Real Federal Funds Rate
@@ -542,6 +598,23 @@ Range of model-based estimates
 90 percent confidence interval
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 2.4 2.1
+   Small structural model 2.1 2.4
+   Large model (FRB/US) 3.1 3.2
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (1.0 - 4.1(
+      90 percent confidence interval (0.1 - 4.9(
+Greenbook-consistent measure 2.7 2.6
+Medium-Run Measures
+   Single-equation model 2.2 2.2
+   Small structural model 2.2 2.5
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.3 - 3.1(
+      90 percent confidence interval (0.7 - 3.7(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 2.78 2.83
 Class I FOMC - Restricted Controlled (FR) Page 19 of 39
 Equilibrium Real Rate Chart: Explanatory Notes 
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return output to its 
@@ -773,6 +846,10 @@ Alternative Growth Rates for M2
 (percent, annual rate)
 No change/
 Greenbook* Raise 25 bp
+Monthly Growth Rates
+Apr-06 4.0 4.0
+Growth From To
+Jul-06 Dec-06 2.8 2.2
 * No change in the target federal funds rate at this meeting.  This forecast
 is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Class I FOMC - Restricted Controlled (FR) Page 27 of 39

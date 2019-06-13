@@ -73,6 +73,13 @@ Annual Rates of
 Growth, per cent
 Levels, billions
 of $
+September 227.6r 455.6r 353.3
+October 227.7r 458.3r 354.7
+November 227.1 227.8 460.4 460.9 356.5 358.3
+Week ending
+November 10 227.1 459.4 356.6
+December 1 226.5 227.8 460.3 462.5 355.4 359.8
+8p 226.9 228.4 460.9 463.1 357.2 360.4
 p - Preliminary
 r - Money stock measures have been revised, beginning in September 1971, to reflect
 (1) the formation of new banking institutions doing primarily an international
@@ -144,7 +151,17 @@ Actual less
 Nov. 16 November 16
 Actual Path Path
 November 24
+Total Reserves 30,759 30,935 (30,902) -176 (-143)
+Nonborrowed Reserves 30,220 30,635 (30,602) -415 (-382)
+Required Reserves 30,564 30,685 (30,652) -121 (- 88)
+Excess 195 250 - 55
+Borrowing 539 300 +239
 December 1
+Total Reserves 31,239 30,793 (30,776) +446 (+463)
+Nonborrowed Reserves 30,538 30,493 (30,476) + 45 (+ 62)
+Required Reserves 30,681 30,543 (30,526) +138 (+155)
+Excess 558 250 +308
+Borrowing 701 300 +401
 December 8
 Fourth and
 First Qtrs.
@@ -244,6 +261,8 @@ specifications are summarized below. (It might be noted that the growth rates
 would be considered as mid-points of ranges--about 1-1/2 percentage points on
 either side for monthly changes.)
 Alt. A Alt. B Alt. C
+Fed. funds rate 4-1/2--5-1/8 4--4-5/8 3-1/2--4-1/8
+Member bank borrowings 150--400 75--200 25--100
 Growth in (SAAR):
 M1 M2 M1 M2 M1 M2
 The more detailed monthly and quarterly paths for all the monetary aggregates
@@ -286,6 +305,16 @@ January
 February
 March
 Alt. A
+- 4.0
+10.0
+- 2.5
+11.5
+- 1.0
+12.5
+- 9.5
+7.0
+- 8.0
+8.5
 those prevailing most recently, with the funds rate, for example, moving up in
 a 4-1/2--5-1/8 per cent range. The funds rate is now below the mid-point of
 the range the staff earlier thought consistent with a 6 per cent first quarter
@@ -384,10 +413,16 @@ with that objective."
 Alternative Weekly Paths of Key Monetary Aggregates
 (Seasonally adjusted, billions of dollars)
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+December 15
+22
+29
 Adjusted Credit Proxy
 Alt. A Alt. B Alt. C
 Total Reserves
 Alt. A Alt. B Alt. C
+December 15
+22
+29
 Total and Nonborrowed Reserve Paths
 (Daily average in millions of dollars, seasonally adjusted)
 Total Reserves
@@ -399,15 +434,43 @@ December
 January
 February
 March
+- 1.0
+4.5
 Weekly Paths -- Seasonally Adjusted
 Total Reserves
 Alt. A Alt. B Alt. C
 Nonborrowed Reserves
 Alt. A Alt. B Alt. C
+December 15
+22
+29
+January 5
+12
+19
 Weekly Paths -- Not Seasonally Adjusted
+December 15
+22
+29
+January 5
+12
+19
 Alt. A
 Alt. B Alt. C
 Alt. A Alt. B Alt. C
+- 9.5
+7.0
+- 1.0
+5.5
+- 8.0
+8.5
+- 0.5
+7.0
+- 8.5
+4.5
+- 7.0
+6.0
+- 5.5
+7.5
 Table 1
 PATHS OF KEY MONETARY AGGREGATES
 STRICTLY CONFIDENTIAL (FR)
@@ -434,8 +497,13 @@ Period 1 Path as of 2 Actuals & 3 Path as of 4 Actuals & 5 Path as of 6 Actuals 
 Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj.
 Monthly Pattern in Billions of Dollars
 Annual Percentage Rates of Change--Quarterly and Monthly
+(235.5)
+32.2
+33.0
 Sept.
 Oct.
+Dec. 1
+8 pe
 Weekly Pattern in Billions of Dollars
 Data shown in parenthesis are current projections.
 FR 712-K
@@ -446,7 +514,19 @@ CONFIDENTIAL (FR)
 December 10, 1971
 RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
 (Annual rates in percent)
+Total Nonborrowed Member Adjusted Time Thrift Nonbank
+Period Total Nonborrowed Member Adjusted 6 7 Private Deposits Instit. Commercial
 Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits PaperDeposits Deposits
+Annually
+1968
+1969
+1970
+Semi-annually
+1st Half 1970
+2nd Half 1970
+Quarterly
+3rd Qtr. 1970
+4th Qtr. 1970
 Apr.
 May
 July
@@ -620,6 +700,8 @@ Nov. p
 + 9.4
 + 4.2
 +10.7
++17. 1
++ 9.6
 + 6.3
 + 3.4
 + 7.8
@@ -629,6 +711,7 @@ Nov. p
 +11.6
 +23.3
 +17.4
++12. 8
 +10.6
 + 9.4
 +14.5
@@ -646,6 +729,15 @@ Nov. p
 +12.8
 + 1.7
 - 1.0
++32.4
+-28.7
++58.1
+- 9.0
+-10.9
+-55.2
++ 4.4
+-15 .8
+-26.3
 + 1.9
 +17.1
 + 8.2
@@ -754,6 +846,11 @@ holdings
 + 272
 + 304
 + 144
+- 57
+- 418 2/
+- 4 7
+- 106 2 /
++1,059
 + 373
 + 74
 + 562
@@ -894,6 +991,8 @@ Table 6
 Year:
 1969 (12/25/68-12/31/69)
 1970 (12/31/69-13/30/70)
+Dec. 1
+8
 MAJOR SOURCES AND USES OF RESERVES
 Retrospective and Prospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
@@ -939,6 +1038,8 @@ float) 1/ stock banks and gold loans F.R. accounts
 + 732
 - 712
 (Sign i d
+-- 2 -2,676
++1,150 - -3,122
 -- - 257
 -- - 483
 -- - 414
@@ -1069,6 +1170,8 @@ ct on
 - 11
 - 37
 + 5
+- 7
+8
 - 10
 + 29
 + 26
@@ -1083,6 +1186,8 @@ ct on
 - 4
 - 46
 + 36
+- 898
+-1,655
 Change = Bank use of reserves
 in
 total Required Excess

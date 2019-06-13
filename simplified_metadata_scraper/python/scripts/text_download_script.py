@@ -135,7 +135,7 @@ def clean_pdf(clean_parser):
                     valid_line = False
 
                 #Handle table data such as 12.5 10.5
-                elif re.search("(-)?(\d{1,2})(\.)?(\d{1,2})?(\s)(-)?(\d{1,2})(\.)?(\d{1,2})?", p_text):
+                elif re.search("((-)?(\d{1,2})(\.)?(\d{1,2})?(\s)){3}", p_text):
                     valid_line = False
                 elif re.search("^NOTE", p_text, re.IGNORECASE):
                     valid_line = False
