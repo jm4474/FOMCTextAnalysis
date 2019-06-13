@@ -67,6 +67,8 @@ FOMC’s formal targets for several days but fluctuated around the new target la
 week (as seen in  the lower panel of Chart 1 ).
 Chart 2
 Financial Market Indicators
+Sep Nov Jan Mar May Jul Sep Nov
+2001 2002
 August 20, 2001
 September 27, 2001
 September 10, 2001
@@ -74,10 +76,14 @@ Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
+May Jul Sep Nov Jan Mar May Jul Sep
+2000 2001
 Ten-Year TIPS
 Selected Treasury Yields*
 *Nominal Treasury yields are estimated from a smoothed yield curve based
 on off-the-run securities.
+May Jul Sep Nov Jan Mar May Jul Sep
+2000 2001
 High Yield
 (left scale)
 Ten-year BBB
@@ -85,6 +91,8 @@ Ten-year BBB
 Ten-year Swap
 (right scale)
 Selected Private Long-Term Yields
+May Jul Sep Nov Jan Mar May Jul Sep
+2000 2001
 High Yield
 (left scale)
 Ten-year BBB
@@ -92,8 +100,12 @@ Ten-year BBB
 Selected Risk Spreads*
 *Computed as the spread of the yield on the Merrill Lynch 175 index and
 an estimated ten-year BBB yield over the ten-year swap rate.
+May Jul Sep Nov Jan Mar May Jul Sep
+2000 2001
 Wilshire 5000 DJIA
 Selected Equity Indexes
+May Jul Sep Nov Jan Mar May Jul Sep
+2000 2001
 Broad Index
 Major Currencies Index
 Other Important
@@ -176,15 +188,23 @@ of nonfedera l debt remained relatively low, as the liquidation of inventories l
 Chart 3
       Growth of Money and Selected Debt Aggregates
 Growth of Nonfederal Debt
+Q1 Q2 J A S
+2000 2001
 p - Preliminary.
 Growth of Business Debt
 Sum of Selected Components*
 p - Preliminary.
 *Bonds, commercial paper, and C&I loans.
+Q1 Q2 J A S
+2000 2001
 Growth of M2
 p - Preliminary.
+Q1 Q2 J A S
+2000 2001
 Growth of M3
 p - Preliminary.
+Q1 Q2 J A S
+2000 2001
 allowed firms to run off short-term debt.  With the Treasury raising funds to finance
 tax rebates, federal debt rose at around a 7½ percent annual rate in August, somewhat
 faster than in the previous month.
@@ -580,36 +600,70 @@ C
 h
 an
 g
+,9
+02
+,7
+79
 --
 -
 --
 -
 --
 -
+,7
+31
+,9
+28
+,3
+82
+,5
+22
+,4
+82
+,2
+15
+,3
+18
 Q
 II
+,7
+09
 Q
 III
+,2
+38
+,9
+11
+,9
+37
 Q
 IV
 --
 -
 Q
 I
+,3
+78
 Q
 II
 -
 9,
+,5
+47
 J
 an
 --
 -
 -
 37
+,3
+64
 F
 eb
 --
 -
+,3
+27
 M
 ar
 --
@@ -618,12 +672,18 @@ ar
 2,
 --
 -
+,0
+78
 A
 pr
+,2
+29
 -
 2,
 M
 ay
+,3
+15
 -
 1,
 Ju
@@ -636,6 +696,10 @@ n
 4,
 --
 -
+,7
+81
+,7
+83
 Ju
 l
 --
@@ -658,6 +722,8 @@ ul
 -
 --
 -
+,7
+61
 --
 -
 --
@@ -674,6 +740,8 @@ l 1
 94
 -
 99
+,4
+15
 --
 -
 Ju
@@ -688,6 +756,8 @@ l 1
 2,
 -
 -1
+,9
+47
 Ju
 l 2
 -
@@ -738,6 +808,8 @@ ug
 --
 -
 28
+,1
+25
 A
 ug
 -
@@ -756,6 +828,10 @@ ug
 -
 --
 -
+,8
+28
+,8
+28
 A
 ug
 --
@@ -810,6 +886,8 @@ ep
 -
 -
 -3
+,3
+79
 S
 ep
 -
@@ -826,6 +904,10 @@ ep
 --
 -
 -1
+,4
+75
+,8
+59
 S
 ep
 --
@@ -868,6 +950,8 @@ ep
 -
 --
 -
+,0
+00
 In
 te
 rm
@@ -900,6 +984,12 @@ $
 )
 S
 ep
+.6
+14
+.8
+18
+.0
+10
 ha
 ng
 e 
@@ -1064,6 +1154,8 @@ at
 ur
 ity
  o
+f 1
+5
 da
 ys
 o
@@ -1126,6 +1218,8 @@ at
 ur
 ity
  o
+f 1
+6
 to
  9
 ys

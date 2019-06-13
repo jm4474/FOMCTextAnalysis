@@ -60,6 +60,8 @@ the respondents to the Desk’s latest dealer survey expect the Committee to cha
 “measured pace” language in the upcoming statement, and most anticipate some
 Chart 1
 Interest Rate Developments
+Dec. Mar. May July Oct. Jan. Apr.
+2005 2006 2007
 December 8, 2005
 October 31, 2005
 Expected Federal Funds Rates*
@@ -71,19 +73,27 @@ at Upcoming FOMC Meetings*
 *Estimated from federal funds futures.
 October 31, 2005
 December 8, 2005
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
 Daily
 FOMC
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 Spot WTI (left scale) 
 Spot Unleaded Gasoline* (right scale)
 *Spot wholesale price of gasoline.
 Energy Prices
+Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 Five-to-Ten Years Ahead
 Next Five Years
 Inflation Compensation*
@@ -156,9 +166,13 @@ pages 49-67.
 Class I FOMC - Restricted Controlled (FR) Page 4 of 42
 Chart 2
 Asset Market Developments
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005
 Wilshire
 Nasdaq
 Stock Prices
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -181,6 +195,8 @@ C&I Loan Delinquency Rate
     (Call Report)
 Bond Default Rate*
 *Six-month moving average, from Moody’s Investors Service.
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005
 Basis points Basis points
 Ten-Year BBB (left scale)
 Five-Year High-Yield (right scale)
@@ -231,14 +247,20 @@ markets.
 Class I FOMC - Restricted Controlled (FR) Page 7 of 42
 Chart 3
 International Financial Indicators
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 Broad
 Major Currencies
 Other Important Trading Partners
 Nominal Trade-Weighted Dollar Indexes
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
 Ten-Year Government Bond Yields
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2004 2005
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
@@ -461,6 +483,23 @@ Range of model-based estimates
 90 percent confidence band
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 2.1 1.9
+   Small structural model 2.5 2.4
+   Large model (FRB/US) 3.5 *2.8*
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (1.1 - 4.2(
+      90 percent confidence interval (0.1 - 5.1(
+Greenbook-consistent measure 2.4 2.0
+Medium-Run Measures
+   Single-equation model 2.2 2.1
+   Small structural model 2.5 2.4
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.4 - 3.2(
+      90 percent confidence interval (0.7 - 3.8(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 2.17 1.85
 Class I FOMC - Restricted Controlled (FR) Page 16 of 42
 Equilibrium Real Rate Chart: Explanatory Notes
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return 
@@ -876,6 +915,18 @@ in M2 in M3 only
 M1 M2 M3
 Annual growth rates (%):
 Levels ($billions):
+Monthly
+2005-June 1374.4 6515.6 5141.2 3232.6 9748.2
+July 1354.3 6525.1 5170.8 3251.6 9776.8
+Aug. 1371.0 6554.4 5183.4 3324.4 9878.8
+Sep. 1363.4 6587.9 5224.5 3388.3 9976.2
+Oct. 1367.6 6627.2 5259.6 3430.9 10058.1
+Weekly
+2005-Oct. 3 1396.8 6622.5 5225.7 3408.2 10030.8
+Nov. 7 1356.3 6645.5 5289.2 3416.9 10062.4
+14 1356.8 6632.3 5275.5 3439.1 10071.4
+21p 1387.8 6657.5 5269.7 3459.9 10117.4
+28p 1380.5 6651.2 5270.6 3468.3 10119.5
 p preliminar y
 e estimated
 Class I FOMC - Restricted Controlled (FR) Page 36 of 42
@@ -885,6 +936,27 @@ Changes in System Holdings of Securities 1
 December 8, 2005
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QIV 4,167 --- 4,167 3,092 7,453 2,018 571 --- 13,134 --- 17,301 -5,956 1,728 -4,227
+QII 2,010 --- 2,010 --- 3,495 1,708 1,015 1,305 4,914 --- 6,923 1,082 1,361 2,443
+May 1,760 --- 1,760 --- 2,295 898 --- --- 3,193 --- 4,953 -2,453 340 -2,113
+Jun 250 --- 250 --- --- 340 785 1,305 -180 --- 70 1,371 -606 764
+Jul --- --- --- --- --- --- --- --- --- --- --- 671 2,413 3,084
+Oct 1,023 --- 1,023 500 1,693 --- 902 --- 3,095 --- 4,118 -1,468 -5,369 -6,837
+Nov 489 --- 489 1,096 1,096 800 --- 189 2,802 --- 3,292 -627 3,635 3,008
+Sep 21 96 --- 96 --- --- --- --- --- --- --- 96 4,279 -4,000 279
+Sep 28 1,565 --- 1,565 --- 1,104 --- --- --- 1,104 --- 2,669 1,009 -4,000 -2,991
+Oct 5 291 --- 291 --- 1,193 --- --- --- 1,193 --- 1,484 -2,432 --- -2,432
+Oct 12 54 --- 54 --- --- --- --- --- --- --- 54 -1,615 --- -1,615
+Oct 19 317 --- 317 --- --- --- --- --- --- --- 317 -874 --- -874
+Nov 2 132 --- 132 --- --- --- 902 --- 902 --- 1,034 1,336 -1,000 336
+Nov 9 237 --- 237 --- --- 800 --- --- 800 --- 1,037 -2,291 --- -2,291
+Nov 16 --- --- --- 1,096 --- --- --- --- 1,096 --- 1,096 2,153 5,000 7,153
+Nov 23 252 --- 252 --- 1,096 --- --- --- 1,096 --- 1,348 -3,835 3,429 -407
+Nov 30 --- --- --- --- --- --- --- 189 -189 --- -189 1,825 2,571 4,396
+Dec 7 --- --- --- --- --- --- --- --- --- --- --- -947 -1,000 -1,947
 Intermeeting Period
+Nov 1-Dec 8 489 --- 489 1,096 1,096 800 --- 189 2,802 --- 3,292 -11,467 9,000 -2,467
 Memo: LEVEL (bil. $)
 Class I FOMC - Restricted Controlled (FR) Page 37 of 42

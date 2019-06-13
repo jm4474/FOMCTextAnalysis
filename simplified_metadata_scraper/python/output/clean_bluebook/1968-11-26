@@ -97,6 +97,23 @@ borrowed Re-
 Reserves serves
 (In millions
 of dollars1
++299
++122
+-294
++335
++154
+-122
++347
++265
++ 47
+-189
++ 88
++105
++107
++508
+- 36
++215
++133
 Bank IBank Money
 Credit Supply
 Proxy
@@ -202,7 +219,15 @@ currency in circulation.
 deposit and reserve aggregates are shown below.
 May '67- Dec. '67- July '68-
 Nov. '67 June '68 Nov. '68P
+Total reserves 9.8 3.7 8.6
+Nonborrowed reserves 9.9 -0.1 10.5
 Bank credit, as measured by:
+Proxy 11.5 3.7 12.7
+Proxy plus Euro-dollars 12.3 4.7 13.1
+Money supply 8.4 6.1 5.8
+Time and savings deposits 14.2 5.8 17.1
+Savings accounts at 1/
+thrift institutions 9.0 6.1 6.4
 Prospective Developments.
 (11) Prevailing money market conditions might be taken to
 encompass a Federal funds rate fluctuating in the neighborhood of
@@ -326,6 +351,10 @@ Excess Member banks
 reserves borrowings
 As revi
 Free reserves
+to date
+1 1',
+- 30
+-277
 As first
 published
 each week
@@ -378,6 +407,23 @@ Deposits banks) ____ Deposits
 + 6.0
 + 0.8
 +11.5
++14.9
++15.2
++ 6.6
++14.5
++ 5.9
+-14.0
++16.7
++ 9.9
+-12.6
+- 9.4
++ 2.2
++ 6.6
++14.5
++23.3
++ 1.3
++12.2
++ 0.6
 + 1.5
 +10.2
 +15.2
@@ -397,6 +443,23 @@ Deposits banks) ____ Deposits
 + 4.8
 + 8.5
 + 8.8
++10.2
++18.7
++ 5.7
++13.5
++ 8.3
+-10.5
++15.3
++19.2
++ 0.1
+-11.1
++ 1.5
++12.2
++ 0.1
++21.8
+- 3.5
++ 3.8
++ 8.2
 + 3.8
 +11.7
 +13.4
@@ -482,6 +545,8 @@ for redefinition of time deposits
 Chart I
 MEMBER BANK RESERVES
 MONTHLY AVERAGES OF DAILY FIGURES
+FVT FTF- I 1 1I7
+BILLIONS OF DOLLARS, SEASONALLY ADJUSTEI
 NONBORROWED RESERVES
 BILLIONS OF DOLLARS. NOT SEASONALLY ADJUSTED
 EXCESS RESERVES
@@ -507,6 +572,8 @@ Nov. 6 p
 +4,678
 - 627
 - 725
+- 253
+-2,067
 + 805
 - 165
 - 777
@@ -556,6 +623,12 @@ S19b8--hov.
 - 130
 + 230
 + 200
+For retrospective details,see B-4. p - Preliminary.
+For factory included see,Table B-3.
+For required reserves by type of deposits, see Table B-2.
+See reverse side for explanation.
+Includes increase in reserve requirements of $360 million effective Jan. 11, 1968 and $190 million
+effective January 18 1978.
 Table B-2
 CHANGES IN REQUIRED RESERVE COMPONENTS
 Retrospective and Prospective Seasonal and Nonseasonal Changes
@@ -565,8 +638,17 @@ TU. S. Gov't. Other than
 Period required U.S. Gov't. Seasonal changes
 reere demand Total seasonal changes
 _______deposits Demand Time Demand Time
+Year:
+1966 (12/29/65 - 12/28/66) +1,111 - 87 +1,198 - 14 - 4 - 5 +1,221 1/
+1967 (12/28/66 - 12/27/67) +1,517 + 261 +1,256 + 59 + 6 +1,023 + 168 1/
+lear-to-date:
+(12/28/66 - 11/22/67) + 673 + 60 + 613 - 529 + 6 + 997 + 139
+(12/2'/67 - 11/20/68) 2/ +1 497 - 208 +1,705 - 111 + 170 +1,077 + 569
 Weekly:
 1968--Oct. 2 + 344 + 228 + 116 + 188 -- - 74 +
+Nov. 6 p* - 204 + 38 - 242 - 48 - 8 - 230 + 40
+13 p + 403 + 213 + 190 + 27 - 13 + 136 + 27
+20 p + 174 - 159 + 333 + 148 - 17 + 176 + 17
 Dec. 4 + 95 - 240 + 335 - 65 - 15 + 395 + 20
 effective January 18, 1968.
 p - Preliminary.
@@ -665,11 +747,15 @@ Year-to-date:
 (12/27/67 - 11/20/68)
 Weekly:
 1968--Aug. 7
+Oct. 2
+9
 Nov. 6
 +3,149
 +4,718
 +3,339
 +4,678
+,121
+31
 +3,069
 +5,009
 +3,913
@@ -707,6 +793,9 @@ Nov. 6
 - 19
 - 15
 - 2
+- I
+1
+1
 + 5
 - 1
 + 53
@@ -725,6 +814,7 @@ Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 Perid Total Nonborrowed Required reservese r i od  reserves Total Aainst private depositsreserves reserves Total
 Total Demand
+Nov. p e 26,743 26,225 26,537 25,739 18,883
 p - Preliminary. e - Estimated.
 1/ Break in series due to redefinition of time deposits effective June 9, 1966,
 which reduced required reserves by $34 million.
@@ -735,6 +825,12 @@ Seasonally Adjusted
 Total member Private U.S. Gov't.
 Period bank deposits Time demand demand
 (credit)I/ deposits deposits 2/ deposits
+June 278.8 151.8 123.2 3.9
+July 280.9 153.8 124.3 2.7
+Aug n 285.9 156.5 124.6 4.8
+Sept. p 288.0 158.9 123.6 5.3
+Oct. p 290.Q 161. 124. 4.9
+Nov. p e 293.5 163.2 125.4 4.9
 p - Preliminary. e - Estimated.
 TABLE C-2a
 DEPOSITS SUPPORTED BY REQUIRED RESERVES AT ALL MEMBER BANKS
@@ -743,6 +839,14 @@ Seasonally adjusted
 Total member Time Private U. S. Gov't.
 Week ending: bank deposits deposits demand demand
 (credit) I/ deposits 2/ deposits
+Nov. 6
+13
+20
+.i8.8
+278.0
+280.6
+282.4
+28 6
 p - Preliminary.
 l/ Includes all deposits subject to reserve requirements--i.e., the total
 of time, private demand, and U.S. Government demand deposits. Move-
@@ -770,6 +874,9 @@ of daily figures)
 Private . Time Deposits
 Week Ending Money Supply Currency 1/ Demand adj
 S Deposits 2/ adjusted
+Nov. 6
+13
+20
 I I £ I
 p - Preliminary.
 CONFIDENTIAL (FR) November 22, 1968.

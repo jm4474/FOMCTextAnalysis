@@ -69,14 +69,20 @@ high-profile traded mortgage fund and a medium-sized mortgage lender, were not.
 Class I FOMC - Restricted-Controlled (FR) 2 of 39
 Chart 1
 Asset Market Developments
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 Spreads of Libor over OIS
 Daily Jan.
 FOMC
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 ABCP
 A2/P2
 Spreads on thirty-day commercial paper
 Jan.
 FOMC
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 Target federal funds rate
 Treasury
 MBS
@@ -84,6 +90,8 @@ Overnight repo rates
 Source. Bloomberg
 Jan.
 FOMC
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 Banks*
 Broker/dealers**
 *Median spread of 26 banking organizations.
@@ -207,6 +215,8 @@ index) increased more than 60 basis points, on net.  In the CLO market, spreads 
 Class I FOMC - Restricted-Controlled (FR) 6 of 39
 Chart 2
 Asset Market Developments
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 Bid-asked spread (left scale)
 Bid price (right scale)
 Average bid-asked spread and average bid price
@@ -237,6 +247,8 @@ Ginnie Mae
 Agency option-adjusted spreads
 Jan.
 FOMC
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
 AAA    
 BBB
 Ten-year investment grade CMBS spreads
@@ -350,6 +362,7 @@ January 29, 2008
 Expected federal funds rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
  for term premiums and other adjustments.
+<2.25 2.50 >2.75
 Binary options*
 Desk’s survey
 _ _
@@ -619,6 +632,7 @@ Medium-Run Measures
 Single-equation model (2.2 (2.3
 Small structural model (1.7 (1.9
 Confidence intervals for two model-based estimates
+TIPS-based factor model (2.0 2.0
 Actual real federal funds rate (0.8 (1.4
 Class I FOMC - Restricted-Controlled (FR) 21 of 39
 positive and has shifted down only 30 basis points; this measure depends only on current

@@ -135,8 +135,12 @@ QIV'90
 pe to pe
 Aug. Sept. Oct. Oct.
 Money and credit aggregates
+Domestic nonfinancial debt 6.5 7.0 -- 4.71
 Reserve measures
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 464 344 251
+Excess reserves 1086 929 1093
 pe--preliminary estimate.
 1. QIV'90 to September.
 2. Includes "other extended credit" from the Federal Reserve.
@@ -175,6 +179,9 @@ by at least 7-1/2 percent this year, well in excess of nominal income.
 Alt. A Alt. B
 Growth from September
 to December
+M2 3-1/2 3
+M3 1-1/4 1
+M1 10 9
 Implied growth from 1990:Q4
 to December
 (9) The markets appear to have built in a high probability
@@ -193,6 +200,13 @@ change markets.
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. A Alt. B Alt. A Alt. B Alt. A Alt. B
+Levels in billions
+1991 July 3391.8 3391.8 4149.4 4149.4 859.6 859.6
+August 3392.6 3392.6 4146.8 4146.8 866.3 866.3
+September 3392.5 3392.5 4139.3 4139.3 870.3 870.3
+October 3401.0 3401.0 4143.1 4143.1 879.3 879.3
+November 3410.9 3409.5 4147.2 4146.5 885.2 884.4
+December 3422.3 3418.0 4151.4 4150.0 892.1 889.9
 (10) M2 would be expected to continue to expand at a 3 per-
 cent rate in the November and December period under alternative B, the
 same as expected at the October FOMC meeting. The negative impact on
@@ -308,6 +322,27 @@ Jul 91
 Aug 91
 Sep 91
 Oct 91
+Weekly
+Jul 17 91
+Jul 24 91
+Jul 31 91
+Aug 7 91
+Aug 14 91
+Aug 21 91
+Aug 28 91
+Sep 4 91
+Sep 11 91
+Sep 18 91
+Sep 25 91
+Oct 2 91
+Oct 9 91
+Oct 16 91
+Oct 23 91
+Oct 30 91
+Daily
+Oct 25 91
+Oct 31 91
+Nov 1 91
 p - preliminary data
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures Class II FOMC
@@ -320,6 +355,11 @@ ANN. GROWTH RATES (%) :
 ANNUALLY (Q4 TO Q4)
 LEVELS (SBILLIONS) :
 MONTHLY
+WEEKLY
+1991-SEP. 2 867.0 3388.9 2522.0 751.8 4140.7
+OCT. 7 876.1 3394.1 2518.0 744.1 4138.3
+14 p 873.0 3397.3 2524.3 743.7 4141.0
+21 p 882.6 3406.1 2523.5 742.0 4148.1
 Strictly Confidential (FR).
 Components of Money Stock and Related Measures Class II FOMC
 seasonally adjusted unless otherwise noted NOV. 4, 1991
@@ -357,5 +397,8 @@ holdings
 total 4
 Net RPs
 5
+- 1,027
+- -2,429
+-3 6.347
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not easonally adjusted

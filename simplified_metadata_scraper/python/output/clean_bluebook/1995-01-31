@@ -160,6 +160,9 @@ Federal 1.2 -- 5.7
 Nonfederal 5.3 -- 5.1
 Reserve measures 2
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 209 94
+Excess reserves 1147 1203
 Long-Run Scenarios
 (8) This section addresses several issues related to longer-
 run strategies for monetary policy and their interaction with underly-
@@ -292,6 +295,14 @@ alternative simulation based on a 150 basis point increase in the
 federal funds rate by the end of the third quarter. These also cor-
 respond to the baseline strategy and the tighter strategy in the pre-
 vious section of this bluebook.
+Staff Projections
+1995 1996
+Growth rates Actual Baseline Tighter Baseline Tighter
+(Q4 to 04 1994 Strategy Strategy Strategy Strategy
+Nonfederal
+component 5.1 5-1/4 5 5-1/4 4-1/4
+M1 2.3 1-1/2 0 3-1/2 1
+Nominal GDP 6.4 4-3/4 4-1/2 5 3-1/2
 (16) Under either strategy the growth in nominal GDP moder-
 ates substantially in 1995. The higher short-term rates of the
 tighter strategy are associated with an elevated path for long-term
@@ -390,6 +401,9 @@ Alt. I
 (provisional Memo: Staff
 ranges) Alt. IA Alt. II Projection
 Baseline Tighter
+M2 1 to 5 1 to 5 0 to 4 2-1/2 1-1/2
+M3 0 to 4 1 to 5 0 to 4 3 2-1/2
+Debt 3 to 7 3 to 7 3 to 7 5-1/4 5
 (22) Under alternative I, staff baseline projections for
 growth of M2 and debt are reasonably well centered. The staff projec-
 tion for M3, though, is in the upper end of its alternative I range.
@@ -521,8 +535,14 @@ low, along with implied growth from the fourth quarter of last year.
 Alt. B Alt. C
 Growth from January
 to June
+M2 2-1/4 1-1/2
+M3 2-1/2 2
+M1 1 -1/4
 Growth from 1994:Q4
 to June
+M2 2-1/2 2
+M3 3 2-3/4
+M1 1 1/4
 (31) Under the unchanged federal funds rate of alternative
 B, M2 growth would be supported by some narrowing of its opportunity
 cost, as offering rates on retail deposits rise further in partial
@@ -534,6 +554,15 @@ vestment outlets. The expected M2 growth of 2-1/4 percent from
 January to June would place this aggregate in the lower half of its
 M2 M3 M1
 Alt. B Alt. C Alt. B Alt. C Alt. B Alt. C
+Levels in Billions
+Nov-94 3609.7 3609.7 4290.8 4290.8 1147.4 1147.4
+Dec-94 3614.2 3614.2 4302.3 4302.3 1147.8 1147.8
+Jan-95 3628.6 3628.6 4325.2 4325.2 1149.8 1149.8
+Feb-95 3634.7 3633.2 4333.9 4333.0 1150.7 1150.2
+Mar-95 3640.7 3636.5 4342.6 4340.0 1151.7 1150.1
+Apr-95 3646.8 3640.2 4351.2 4347.3 1152.7 1149.9
+May-95 3654.1 3645.2 4360.0 4354.7 1153.6 1149.3
+Jun-95 3661.4 3650.6 4368.7 4362.2 1154.6 1148.9
 Growth Rate
 From To
 provisional 1 to 5 percent growth range for 1995. Growth in M3,

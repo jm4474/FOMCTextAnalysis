@@ -120,6 +120,8 @@ Jan.
  21
 Dec.
 FOMC
+Jan. May Sept. Jan. May Sept. Jan. May Sept. Jan.
+2007 2008 2009
 January 21, 2010 Class I FOMC - Restricted Controlled (FR) Page 3 of 72
 what was observed in the December survey.  Staff models suggest that term
 premiums were unchanged over the intermeeting period and are about in line with our
@@ -169,6 +171,8 @@ Dec.
 FOMC
 Jan. 
  21
+Jan. May Oct. Mar. Aug. Jan. May Oct.
+2007 2008 2009
 Bid-ask spread (left scale)
 Bid price (right scale)
 Source. LSTA/LPC Mark-to-Market Pricing.
@@ -272,12 +276,16 @@ Note. Auto ABS include car loans and leases and financing for buyers
 of motorcycles.
 Source. Inside MBS & ABS, Merrill Lynch, Bloomberg, and the Federal
 Reserve.
+Sept. Dec. Feb. Apr. June Aug. Oct. Dec.
+2008 2009
 Dec.
 FOMC
 Libor over OIS spreads
 Source. British Bankers’ Association and Prebon.
 Jan. 
  20
+July Nov. Mar. July Nov. Mar. July Nov.
+2007 2008 2009
 ABCP
 A2/P2
 Jan. 
@@ -285,6 +293,8 @@ Jan.
 Dec.
 FOMCDaily
 Spreads on 30-day commercial paper
+Jan. June Nov. Apr. Oct. Mar. Aug. Jan.
+2007 2008 2009
 Billions of dollars Billions of dollars
 Other facilities*
 (left scale)
@@ -421,6 +431,9 @@ Maximum
 level
 Date of 
 maximum
+Total assets 18 2,255 2,295 01/13/10
+Selected assets: 
+Liquidity programs for financial firms -64 56 1,247 11/06/08
 /08 
 /09
 /08 
@@ -437,6 +450,12 @@ maximum
 /10 
 /10 
 /08
+/09
+/09 
+/09
+/08 
+/09
+09
 Mutual Fund Liquidity Facility (AMLF) 0 
 Lending through other credit facilities -0
 Net portfolio holdings of Commercial Paper 
@@ -447,9 +466,19 @@ Credit extended to AIG, net 3
 Preferred interests in AIA Aurora LLC and ALICO
 Holdings LLC +0 
 Net portfolio holdings of Maiden Lane LLC, Maiden
+Lane II LLC, and Maiden Lane III LLC -0 
+Securities held outright* 78 1
 U.S. Treasury securities +0 
 Agency securities 5 
 Agency mortgage-backed securities** 74
+Memo: Term Securities Lending Facility (TSLF) 0 
+Total liabilities 19 2
+Selected liabilities: 
+Federal Reserve notes in circulation -3 
+Reserve balances of depository institutions -74 1
+U.S. Treasury, general account 127 
+U.S. Treasury, supplementary financing account -10 
+Other deposits -27
 Total capital -1 
 +0 (-0) denotes positive (negative) value rounded to zero.
 *   Par value. 
@@ -757,9 +786,13 @@ Short-Run and Medium-Run Measures
 Current Current Estimate Previous
 Estimate as of Previous Bluebook Estimate
 Short-Run Measures
+Single-equation model -1.2 -1.5 -1.9
+Small structural model -1.1 -1.3 -1.4
 EDO model (0.6 (0.8 (0.5
+FRB/US model -1.8 -1.9 -2.1
 Confidence intervals for four model-based estimates
 Greenbook-consistent measures
+EDO model -2.3 -2.5 -3.3
 Single-equation model (1.2 (1.2 (1.2
 Small structural model (1.9 (1.7 (1.8
 Confidence intervals for two model-based estimates
@@ -1438,9 +1471,28 @@ expected to pick up to a pace that is closer to that of nominal GDP.
 January 21, 2010 Class I FOMC - Restricted Controlled (FR) Page 57 of 72
 Greenbook Forecast*
 Monthly Growth Rates
+Jul-09 -0.8
+Aug-09 -3.3
+Sep-09 5.6
+Oct-09 4.1
+Nov-09 3.9
+Dec-09 2.1
+Jan-10 -5.2
+Feb-10 1.9
+Mar-10 2.0
+Apr-10 2.8
+May-10 3.4
+Jun-10 3.6
+Jul-10 3.6
+Aug-10 3.8
+Sep-10 3.9
+Oct-10 3.9
+Nov-10 4.0
+Dec-10 4.0
 Quarterly Growth Rates
 Annual Growth Rates
 Growth From To
+Dec-09 Jun-10 1.4
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Actual data through December 31, 2009; projections thereafter.
 Growth Rates for M2

@@ -102,6 +102,11 @@ M1 M2 Adjusted
 Credit Proxy
 Bluebook Bluebook Bluebook
 Path Actuals Path Actuals Path Actuals
+Month
+February 217.3 217.3 430.7 430.8 337.7 337.7
+March 218.3 219.0e 435.4 437.2e 341.1 340.1e
+Week ending
+Mar. 3 217.3 218.5 432.8 434.6 338.9 339.6
 (3) Even though the Desk has been aiming over most of the inter-
 meeting period at a Federal funds rate in the 3-1/2 to 3-3/4 per cent range,
 unforeseen technical factors have continued to push the funds rate to or
@@ -199,6 +204,7 @@ $ 4.3
 $ 1.9
 - 0.5
 $ 6.2
+- 1.5 4/
 Prospective developments
 (6) The table on the next page shows three alternative monthly
 paths for key monetary aggregates through the second quarter. Money
@@ -206,6 +212,9 @@ market conditions now estimated to be consistent with these paths are
 collection of aggregates.
 Federal funds Member Bank Net M1
 rate Borrowings Reserves
+Alternative A 3-3/4 250-350 +50 to -150 9%
+Alternative B 4 -- 4-3/4 400-500 -150 to -300 7%
+Alternative C 4-3/4--5-1/2 500-600 -250 to -400 6%
 (7) The money market specifications for alternative A include a
 Federal funds rate around 3-3/4 per cent, the most recent Desk operating
 target. The Federal funds rates assumed to be consistent with the various
@@ -447,10 +456,18 @@ CONFIDENTIAL(FR)
 April 2, 1971
 RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
 (Annual rates in percent)
+Reserve Aggregates Monetary Variables Addenda
+1  2 3 Total 4 Money Supply 8 9 10
 eod Total Nonborrowed Member Adjusted 5 T67 Private e Thrift NonbankPeriod7 Prvate Deposits Instit Commercial
 Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
 Deposits Deposits
 ninually
+Semi-annually
+1st Half 1969
+2nd Half 1969
+uarterly
+3rd Qtr. 1969
+4th Qtr. 1969
 April
 May
 June
@@ -460,6 +477,8 @@ Sept.
 Oct.
 Nov.
 Dec.
++ 0.7
+-3.9
 - 9.3
 + 1.4
 - 2.9
@@ -467,6 +486,11 @@ Dec.
 +19.1
 + 6.6
 + 6.3
++ 3.1
+-12.6
++21.3
+-13.9
++ 0.5
 + 6.0
 +23.3
 +27.5
@@ -488,6 +512,9 @@ Dec.
 + 4.1
 +24.4
 + 9.4
++25.4
+-19.0
++ 6.2
 + 4.4
 +22.8
 + 8.8
@@ -690,6 +717,14 @@ n.a.
 +12.6
 +26.2
 +13.8
++34.4
++18.9
+-30.0
++32.4
+-28.7
++58.1
+- 9.0
+-10.9
 Table 3
 AGGREGATE RESERVES AND MONETARY VARIABLES
 SEASONALLY ADJUSTED
@@ -729,6 +764,8 @@ Total Federal U.S. Government securities Federal
 Period Reserve credit Total Repurchase Agency Bankers' Member banks
 (Excl. float) holdings Bills 1/ Other agreements Securities acceptances borrowings
 Period s floar~it Tna ie purhas AgenwinyYear:
+Iec. 2
+9
 Feb. 3
 +5,539
 +3,351
@@ -861,6 +898,21 @@ credit (excl.
 o
 outside Float deposits deposits and total reserves reses
 floatanks operations and gold loans F.R. accounts reserves reserves
+( S i g n ind i c a t es e f e c t on r e e r v e s)
+Year.
+1969 (12/25/68 - 12/31/69 +5,539 -- -2,676 - 813 + 241 + 54 - 898 +1,448 +1,340 + 108
+1970 (12/31/69 - 12/30/7Q 43,351 +1,150 2/ -3,122 + 773 + 667 + 1 -1,655 +1,163 +1,257 - 94
+Oct. 7 - 482 -- - 260 + 214 + 20 - 10 + 271 - 248 - 328 + 80
+14 - 5 -- - 329 - 163 + 174 - 4 + 1 - 322 - 11 - 311
+21 + 224 -- - 549 - 63 + 576 + 9 + 230 + 426 + 278 + 148
+28 - 479 -- + 432 - 71 - 311 - 15 + 1 - 443 - 445 + 2
+Dec. 2 + 986 -- + 13 + 34 - 349 + 5 - 187 + 502 + 161 + 341
+9 - 303 -- - 85 + 103 + 174 - 8 - 39 - 157 + 124 - 281
 Feb. 3 + 8 -- + 3 + 289 - 402 + 16 - 130 - 213 - 168 - 45
+Mar. 3 + 279 - + 220 - 99 - 752 + 17 - 40 - 374 - 227 - 147
+10 - 275 -- + 92 - 105 + 185 + 2 - 37 - 138 - 50 - 88
+17 p + 761 -- - 628 + 508 - 392 - 5 + 280 + 523 + 371 + 152
+24 p - 516 -- - 177 - 186 + 348 + 20 + 85 - 426 - 255 - 171
+31 p + 506 -- + 421 - 60 - 337 -41 - 9 + 478 + 121 + 357
 _2 Includes $400 million in special drawing account.
 p - Preliminary.

@@ -68,6 +68,8 @@ the Desk, as reserve managers once again shifted their demand to earlier in the 
 period given the widespread anticipation of policy firming by the Committee.
 Chart 1
 Interest Rate Developments
+Mar. June Sept. Dec. Mar. June Sept.
+2006 2007
 March 23, 2006
 January 30, 2006
 Expected Federal Funds Rates*
@@ -77,15 +79,21 @@ Probability Density for Target Funds Rate
 after June 2006 FOMC Meeting
 Target Funds Rate
 As of March 23, 2006
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005 2006
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
 Daily
 FOMC
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005 2006
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005 2006
 Five-Year
 Ten-Year
 TIPS Yields*
@@ -93,6 +101,8 @@ Daily
 FOMC
 *Estimates are from a smoothed inflation-indexed Treasury yield
 curve, and adjusted for the indexation-lag (carry) effect.
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005 2006
 Next Five Years
 Five-to-Ten Years Ahead
 Inflation Compensation*
@@ -155,9 +165,13 @@ industrial loans has increased almost 3½ percentage points.
 Class I FOMC - Restricted Controlled (FR) Page 4 of 37
 Chart 2
 Asset Market Developments
+Apr. Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 Wilshire
 Nasdaq
 Stock Prices
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005 2006
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -181,6 +195,8 @@ and Corporate Bond Default Rate
 *Firm-level estimates of year-ahead defaults from KMV corporation, weighted
 by firm liabilities as a percent of total liabilities, excluding defaulted firms.
 **Six-month moving average, from Moody’s Investors Service
+Apr. Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 Basis points Basis points
 Ten-Year BBB (left scale)
 Five-Year High-Yield (right scale)
@@ -214,18 +230,26 @@ inexpensive yen financing.  Korean stock prices fell more than 6 percent over th
 Class I FOMC - Restricted Controlled (FR) Page 6 of 37
 Chart 3
 International Financial Indicators
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 Broad
 Major Currencies
 Other Important Trading Partners
 Nominal Trade-Weighted Dollar Indexes
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
 Ten-Year Government Bond Yields
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 Stock Price Indexes
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2004 2005 2006
 US
 UK
 Japan
@@ -437,6 +461,23 @@ Range of model-based estimates
 90 percent confidence interval
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 1.9 1.9
+   Small structural model 2.3 2.3
+   Large model (FRB/US) 3.1 3.5
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.9 - 3.9(
+      90 percent confidence interval -0.1 - 4.8(
+Greenbook-consistent measure 2.8 2.5
+Medium-Run Measures
+   Single-equation model 2.2 2.1
+   Small structural model 2.4 2.5
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.4 - 3.2(
+      90 percent confidence interval (0.7 - 3.7(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 2.74 2.51
 Class I FOMC - Restricted Controlled (FR) Page 13 of 37
 Equilibrium Real Rate Chart: Explanatory Notes 
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return output to its 
@@ -601,6 +642,12 @@ First-difference rule
 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 Class I FOMC - Restricted Controlled (FR) Page 19 of 37
 Policy Rule Charts: Explanatory Notes
+For the rules described below, it denotes the federal funds rate for quarter t, while the explanatory 
+variables include the staff’s estimate of trailing four-quarter core PCE inflation (πt), its forecasts  
+of inflation two and three quarters ahead (πt+2|t and πt+3|t), its assessment of the current output gap 
+( t ), its one-quarter-ahead forecast of the output gap (*ty y− *1| 1|t t t ty y+ +− ), its three-quarter-ahead 
+forecast of annual average GDP growth relative to potential ( 4 4 *3| 3|t t t ty y+ +Δ − Δ ), and the assumed value 
+f policymakers’ long-run inflation objective (o *π ).
 For periods prior to the current quarter, rule prescriptions are computed using the staff’s current 
 estimates of the output gap and inflation rate.  Prospective prescriptions are computed using dynamic 
 simulations of the FRB/US model, implemented as though the rule will be followed henceforth, starting 
@@ -621,8 +668,12 @@ period 1986-2004.  The following table indicates the specification of each rule 
 error (RMSE) over the sample 1993:1-2005:4.  
 Outcome-based Rule
 it = 0.27 + 1.14it-1 – 0.36it-2 + 0.32πt
++ 0.60( *ty yt− ) – 0.40( *1 1t ty y− −− )  
+.19
 Forecast-based Rule
 it = 0.24 + 1.14it-1 – 0.35it-2 + 0.31πt+2|t
++ 0.42( *1| 1|t t t ty y+ +− ) – 0.23( *1 1t ty y− −− )  
+.18
 Market Expectations:  The expected funds rate path is based on quotes from fed funds and Eurodollar 
 futures, and the confidence intervals are obtained from options on those futures.  
  
@@ -631,6 +682,7 @@ the sample 1993:1-2005:4 for two inflation objectives.
   π*=1.5 π*=2
 Baseline Taylor Rule it = 2 + πt + 0.5(πt – *π ) + 0.5( *t ty y− ) .99 .99
 Aggressive Taylor Rule it = 2 + πt + 0.5(πt – *π ) + ( *t ty y− )  .62 .63
+First-difference Rule it = it-1 + 0.5(πt+3|t – *π ) + 0.5( 4 4 *3| 3|t t t ty y+ +Δ − Δ ) .51 .44
 Class I FOMC - Restricted Controlled (FR) Page 20 of 37
 Time-varying Sensitivity of Interest Rates to Macroeconomic News
 The response of U.S. Treasury yields to new information is unlikely to be constant 

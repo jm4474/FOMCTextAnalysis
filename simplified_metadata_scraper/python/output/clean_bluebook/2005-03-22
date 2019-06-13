@@ -65,6 +65,8 @@ Desk redeemed $333 million of Treasury coupons and purchased no bills or coupon
 securities.  The volume of outstanding long-term RPs increased $1 billion, to $17 billion.
 Chart 1
 Interest Rate Developments
+Mar. May July Sept. Nov. Jan. Mar.
+2005 2006
 March 17, 2005
 February 1, 2005
 Expected Federal Funds Rates*
@@ -72,12 +74,18 @@ Expected Federal Funds Rates*
  for term premia and other adjustments.
 Probability Density for Funds Rate after June
 FOMC Meeting
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 *Spot WTI price.
 Oil Price*
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
@@ -130,6 +138,8 @@ Lower-Tier Corporate Bond Spreads*
 Wilshire
 Nasdaq
 Stock Prices
+Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
+2003 2004 2005
 S&P 500 (left scale)
 Ten-Year Treasury (right scale)
 Implied Volatility
@@ -140,6 +150,8 @@ Real Long-term Treasury yield*
 * Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
 prices and latest earnings data from I/B/E/S.
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 GM Credit Default Swap Rate(left scale)
 GM Stock Price (right scale)
 GM Stock Price and Credit Default Swap rate
@@ -196,23 +208,31 @@ muted market response to surprises.
 Class I FOMC - Restricted Controlled (FR) Page 6 of 37
 Chart 3
 International Financial Indicators
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 Nominal Trade-Weighted Dollar Indexes
 Index(12/31/02=100)
 Broad
 Major Currencies
 Other Important Trading Partners
 FOMC Daily
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 Stock Price Indexes
 Index(12/31/02=100)
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 FOMC Daily
+Jan. May Aug. Dec. Apr. Aug. Dec.
+2003 2004 2005
 EMBI+ Index
 Basis Points
 Overall
@@ -551,6 +571,21 @@ Range of model-based estimates
 90 percent confidence band
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Greenbook-consistent measure 2.0 1.8
+   Single-equation model 1.8 1.8
+   Small structural model 3.0 2.9
+   Large model (FRB/US) 2.4 2.1
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.9 - 3.9(
+      90 percent confidence interval -0.1 - 4.8(
+Medium-Run Measures
+   TIPS-consistent measure 1.6 1.6
+   Single-equation model 2.2 2.2
+   Small structural model 3.0 2.8
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.6 - 3.6(
+      90 percent confidence interval (0.7 - 4.1(
 Memo
    Actual real federal funds rate                                                 0.94                                     0.92
 Class I FOMC - Restricted Controlled (FR) Page 15 of 37

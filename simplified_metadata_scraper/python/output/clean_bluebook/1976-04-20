@@ -72,6 +72,12 @@ Growth in Monetary Aggregates and RPD's
 over March-April Period
 Reserve and monetary aggregates
 (Growth at SAAR, in per cent) Ranges Latest Estimates
+M1 4 to 8 7.3
+M2  7 to 11 9.9
+RPD -2 to 2 0.0
+Memo: Avg. for statement
+Federal funds rate 4¼ to 5¼ week ending
+(per cent per annum) March 24 4.79
 (2) During the intermeeting period, estimates of growth in M1
 and M2 for March-April fluctuated around the mid-point of the FOMC's ranges,
 and the Desk continued to aim for reserve availability consistent with
@@ -99,6 +105,10 @@ Year Year Months Months Month
 Mar. '76 Mar. '76 Mar. '76
 Sept,'75 Dec. '75 Feb. '76
 Concepts of Money
+M2 (M1 plus time deposits
+at commercial banks
+other than large
+CD's) 7.2 8,3 8,8 11.1 8.5
 Bank Credit
 Short-term Market Paper
 (Monthly average change in
@@ -116,6 +126,10 @@ aggregates are shown below for Committee consideration. They pertain to the
 one year period from QI '76 to QI '77. The ranges shown under alternative B
 are the same as those adopted in January for the QIV '75-QIV '76 period.
 Alt. A Alt. B Alt. C
+M1 5½-8½ 4½-7½ 3½-6½
+M2 9-12 7¾-10¾ 6-9
+M3  10-13 9-12 7½-10½
+Proxy 7-10 6-9 5-8
 (6) In considering these alternative longer-run targets, the
 Committee may be interested in their relationship to the QIV '76 levels for
 the monetary aggregates that were implied by the mid-points of the ranges
@@ -160,6 +174,8 @@ of alternative C.
 longer-run ranges are suggested below:
 Alt. A Alt. B Alt. C
 Ranges for April-May 1/
+M1  5½-9½ 5-9 4½-8½
+M2 9½-13½ 8½-12½ 8-12
 Federal funds rate 3¾-4¾ 4¼-¼ 4¾-5¾
 (intermeeting range)
 (8) The Federal funds rate range of alternative B is centered
@@ -183,6 +199,7 @@ the funds rate is expected to reach the 7 per cent level by early next
 alternative B range over the next four weeks, short- and longer-term interest
 rates are unlikely to change significantly. On April 28, the Treasury will
 be announcing its mid-May refunding of some $4 billion of publicly-held
+maturing debt. The Treasury may also raise about $1 -2 billion of new cash
 at the same time. It is possible that a longer-term bond as well as a note
 in the 7-10 year maturity area may be included in the offering. While the
 volume of corporate and municipal bond offerings appears to be dropping
@@ -275,7 +292,10 @@ RSERVES AVAILABLE AGGREGATE RESERVES REQUIRED RESERVESRESERVES AVAILABLE SEASONA
 Period NONBANK DEPOSITS Total Nonborrowed Total Private Total Time Gov't. and
 SA NSA Reserves Reserves Required Demand Deposits InterbankSA NSA
 PERCENT ANNUAL GROWTH
+MAR.-APR. ( 0.0) ( -0.5) ( 0.3) ( -0.3) 1 -0.5) 1 1.2)
 WEEKLY LEVELS-SMILLIONS
+APR. 7 31t621 31,383 33t858 33,834 33,727 19,576 11,914 2,237
+14 31,738 31,692 33,786 33,724 33,603 19,628 11,926 2,048
 Table 2 CONFIDENTIAL (FR)
 CLASS II-FOMC
 MONETARY AGGREGATES
@@ -285,7 +305,9 @@ Period Narrow Broad Credit Govt Total Other Than CD'S S Sources of
 (M1) (M2) Proxy Deposits Total Total Savings Other Funds
 MONTHLY LEVELS-SBILLIONS
 PERCENT ANNUAL GROWTH
+MAR.-APR. ( 7.3) I 9.9) ( 2.2) 1 6.5) 1 12.0) ( 23.6) ( 2.6) -21.5)
 WEEKLY LEVELS-SBILLIONS
+APR. 7 P 300.0 686.6 517.4 2.4 460.0 386.7 73.4 7.2
 - - I I h
 NOIEI DATA SHOWN IN PARENTHESES ARE CURRENT PROJECTIONS. P - PRELIMINARY
 CONFIDENTIAL (FR)
@@ -300,6 +322,10 @@ Bills Coupon Agency RP's Open Market A Member Other 4/ Req. res. against Availab
 Period & Accept. Issues Issues Net 3/ Total Operations Bank Borrowing factors U.S.G. and interb. (6)+(7)+(8)-(9) reserves 5/
 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
 Apr. 470
+Apr. 7 -1,608 -70 -- -7,764 -9,442 -4,396 -13 3,768p -61 -580p
+14 -521 - -- 5,064 4,543 -1,273 38 1,399p -146 310p
+21
+28
 meeting. Target change for previous months reflects the bluebook patterns that are consistent with target ranges that were adopted during
 the month.
 P - Preliminary.
@@ -311,6 +337,8 @@ NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1/
 ($ millions, not seasonally adjusted)
 Treasury Coupons Federal Agencies Net Change
 Net Purchases 3/ Net Purchases 4/ Outright
+Treasury Bills Within Over Within Over Holdings Net
+Period Net Change 2/ 1-year 1 - 5 5 - 10 10 Total 1-year I - 5 5 - 10 10 Total Total 5/ RP's 6/
 maturity shifts, rollovers of maturing coupon issues, and direct Treasury borrowings from the System.
 4/ Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity shifts.
 5/ In addition to net purchases of securities, also reflects changes in System holdings of bankers' acceptances, direct Treasury borrowings from the
@@ -326,6 +354,8 @@ U.S. Govt. Security Member Bank Reserve Position
 Dealer Positions Dealer Positions Borrowin at FRB** Basic Reserve Deficit
 Corporate Municipal Excess**
 Period Bills Coupon Issues Bonds Bonds Reserves Total Seasonal 8 New York 38 Others1I\
+*6,821
+4,294
 *6,725
 *6,821
 *809
@@ -369,6 +399,9 @@ Sept.
 Oct.
 Nov.
 Dec.
+(8)
+9.71
+9.06
 Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are one-day Wednesday quotes. For colmm 7 and 10, the
 weekly date is the mid-point of the calendar week over which data are averaged. Column 8 and 9 are one-day quotes for Friday and Thursday,
 respectively, following the end of the statement week. Column 11 gives FNMA auction data fo the Monay preceding the and of the statement week.

@@ -95,6 +95,15 @@ Reserves serves
 Bank
 Bank MoneyCredit MSSupply
 (In billions of
++206
++ 1
+- 16*
++135*
+-302
++ 5
+-134
++108
++ 21
 +492
 +359
 +537
@@ -323,6 +332,9 @@ Reserves Deposits edit) / banks) __Deposits
 Annually:
 Monthly:
 1966--January + 6.7 + 9.5 + 6.9 +11.3 + 8.1 + 7.4 + 5.7 + 4.6
+.1/ T J . . . 1 1
+Includes ai
+movements in
 ueposits subject to reserve requirements. movements in nlis aggregate correspona closely with
 total member bank credit.
 p - Preliminary.
@@ -337,9 +349,21 @@ Factors affecting supply of reserves= Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. outside factors total reserves
 float) 1/ stock banks net 2/ reserves 3/ reserves
+Year-to-date:
+(12/29/65 - 4/27/66) - 288 - 154 + 695 - 719 - 465 - 384 - 81
+(12/28/66 - 4/26/67) + 690 - 51 +1,010 -2,408 - 759 - 589 - 170
 Weekly:
 1967--Apr. 5 p + 402 -- - 87 - 255 + 62 - 2 + 64
 PROJECTED -
+May 3 + 150 -- - 45 - 110 - 5 - 5
+10 + 455 -- - 565 + 135 + 25 + 25
+17 - 390 -- + 175 + 125 - 90 - 90
+24 - 5 -- + 60 - 160 - 105 - 105
+31 + 220 -- + 5 - 350 - 125 - 125
+June 7 + 520 -- - 500 + 50 + 70 + 70
+14 - 105 -- - 15 + 125 + 5 + 5
+21 - 330 -- + 80 + 575 + 325 + 325
+28 -- -- + 210 - 240 - 30 - 30
 retrospective details,see Table B-4.
 factors included, see Table B-3.
 required reserves by type of deposits, see Table B-2.
@@ -354,6 +378,19 @@ U. S. Gov't. Other than
 Period required dmd Total Seasonal changes seasonal chan
 demand Total seasonal changes
 reservesrese s deposits Demand Time Demand Time
+ACTUAL
+Year:
+1965 (12/30164 - 12/29/65) +1,188 - 89 +1,277 +115 - 4 +499 + 677
+1966 (12/29/65 - 12/28/66) +1,111 - 87 +1,194 - 14 - 4 - 5 +1,221 1/
+Year-to-date:
+(12/29/65 - 4/27/66) - 382 -400 + 18 -478 + 91 +263 + 142
+(12/28/66 - 4/26/67) - 589 +100 - 689 -423 + 95 + 61 - 422
+Weekly:
+1967--Apr. 5 p - 2 -269 + 267 +164 + 4 + 84 + 15
+June 7 + 70 -185 + 255 +245 -- -- + 10
+14 + 5 -165 + 170 +205 -- - 45 + 10
+21 + 325 - 80 + 405 +280 - 5 +120 + 10
+28 - 30 +395 - 425 -460 + 5 + 20 + 10
 in July and September 1966.
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
@@ -371,12 +408,25 @@ Year-to-date:
 (12/28/66 - 4/26/67)
 Weekly:
 1967--Apr. 5
+June 7
+14
+21
+- 719
+-2,408
 +294
 +673
++285
+-670
++ 1
++ 48
+-191
+-290
 - 95
 +185
 - 171
 + 64
+- 725
+-1,284
 + 77
 - 30
 + 4
@@ -388,6 +438,8 @@ Weekly:
 +128
 - 9
 + 5
+- 75
+-250
 + 65
 + 75
 Table B-4
@@ -448,6 +500,10 @@ of the week of March 22, 1967.
 + 51
 + 21
 + 95
++113
+- 70
+-127
++ 1
 + 26
 - 23
 + 77
@@ -457,11 +513,18 @@ of the week of March 22, 1967.
 certificates of +$64 million of the week of March 15, 1967 and
 + 42
 + 2
++ 96
+-450
++129
+-157
 + 45
 - 35
 + 33
 - 80
 -$64 million
+lear:
+1966
+1966
 "~"-~'- ~--~ ---- I
 Chart Reference Table C-1
 TOTAL, NONBORROWED AMD REQUIRED RESERVES
@@ -490,6 +553,8 @@ of daily figures)
 Total member Time Private U. S. Govt.
 Week ending: bank deposits deposits demand demand
 (creditI1/2/ 2/ deposits 3/ deposits
+Feb. 1
+8
 p - Preliminary.
 1/ Includes all depositS subject to reserve requirements--i.e., the total
 of time, private demand, and U.S. Government demand deposits. Move-

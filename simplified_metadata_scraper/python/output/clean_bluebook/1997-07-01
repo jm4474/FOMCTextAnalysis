@@ -180,6 +180,9 @@ four-quarter rate of inflation, and Q-Q* is the output gap in percentage terms.
 Coefficients of the Alternative Policy Rules
 Henderson Target
 Taylor McKibbin Opportunism Zone
+Inflation2  0.5 1.0
+Inflation inside the zone -- - 0.0 0.0
+Inflation outside the zone 3  - -- 2.5 2.5
 (14) A second rule we examine was proposed by Henderson and McKibbin. 5 It
 has the same form as the Taylor rule, but adjusts the nominal interest rate by the full amount
 of the inflation gap and twice the output gap. Some previous research based on stochastic
@@ -231,6 +234,8 @@ Taylor
 2.4 - -......... Opportunism
 S .-- Zone
 2.2 - --- Henderson-McKibbin
+\-- .......1.6
+1.4 -
 Output Gap
 Percent
 0.2
@@ -345,6 +350,7 @@ Memo: Nominal GDP
 (28) As in the past couple of years, the Committee may wish to retain the alter-
 native I ranges, even though staff projections are around their upper ends, on the grounds that
 sufficient uncertainty persists regarding M2 and M3 velocity relationships to suggest that the
+best use for the ranges still is as benchmarks for noninflationary monetary growth.12 13
 Although the more predictable behavior of M2 demand has continued over the first half of the
 year, the Committee may view the re-established relationships as not adequately tested under
 a variety of circumstances to be confident in their persistence. For example, greater variation
@@ -493,6 +499,11 @@ Sep-97
 Oct-97
 Nov-97
 Dec-97
+Quarterly Averages
+97 Q1
+97 Q2
+97 Q3
+97 Q4
 Growth Rate
 From
 Dec-96
@@ -504,6 +515,7 @@ Dec-97
 Jun-97
 Sep-97
 Dec-97
+Jun-97 97 Q4
 Directive Language
 (38) Presented below for the members' consideration is draft wording relating to the
 Committee's ranges for the aggregates in 1997 and 1998 along with the standard and

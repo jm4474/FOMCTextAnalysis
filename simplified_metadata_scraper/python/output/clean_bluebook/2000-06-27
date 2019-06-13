@@ -77,15 +77,22 @@ Expected Federal Funds Rates Estimated from
 Financial Futures* Percent
 S- 7.4
 ........ 5/15/2000
+S6/23/2000 7.2
 ... .** ****.. - 7.0
 S .- - 6.8
+Jun Aug Oct Dec Feb Apr Jun Aug Oct Dec
+2000 2001
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
 Emerging Market Yield Spread*
 Basis points
+May Aug Nov Feb May Aug Nov Feb May
+1998 1999 2000
 *J.P. Morgan Emerging Market Bond Index Plus, a market-value-weighted
 average of spreads on dollar-denominated instruments over comparable
 Treasuries for sixteen emerging market countries. MFMA:MJG
+May Jul Sep Nov Jan Mar May
+1999 2000
 since the May FOMC meeting. Notable among the changes in the components of the
 major currencies index was a 2-1/2 percent drop in the dollar's value vis-a-vis the euro,
 abetted no doubt by the European Central Bank's decision to hike its policy rate 1/2
@@ -128,8 +135,12 @@ Chart 2
 Money and Credit Aggregates
 $Billions
 -- 4800
+O N D J F M A M J
+1999 2000
 $Billions
 -- 6800
+O N D J F M A M J
+1999 2000
 D J F M A M
 2000
 Ratio Scale
@@ -473,6 +484,14 @@ Sep-2000
 Oct-2000
 Nov-2000
 Dec-2000
+Quarterly Averages
+1999 Q2
+1999 Q3
+1999 Q4
+2000 Ql
+2000 Q2
+2000 Q3
+2000 Q4
 Growth Rate
 From To
 Sep-1999 Jun-2000

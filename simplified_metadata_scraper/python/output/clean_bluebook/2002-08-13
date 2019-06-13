@@ -63,6 +63,8 @@ Density
 --------- June 25, 2002
 August 7, 2002
 I I I I I I I I I I I I
+Sep Dec Mar Jun Sep Dec Mar Jun
+2000 2001 2002
 High-Yield Debt Spreads
 Basis Points Basis Points
 Telecom Sector
@@ -73,6 +75,8 @@ I I I I I I I l I l I
 Jul Sep Nov Jan Mar May Jul
 Subordinated Debt Spreads
 Basis Points
+July 22 August 8y5
+02
 Percent
 55
 profile defaults, reflected in increased yield spreads on subordinated debt and rates on
@@ -122,7 +126,11 @@ Nominal Trade-Weighted Dollar
 Exchange Rates
 [Daily Other Impor
 Index(8/31/00 = 100)
+Sep Dec Mar Jun Sep Dec Mar Jun
+2000 2002
 I I I I I I I I I I I I I I i I I
+Sep Dec Mar Jun Sep Dec Mar Jun
+2000 2001 2002
 "The inflation rate that equalizes the price of the January 2012 TIIS and
 the value of a portfolio of nominal securities with the same payments.
 Market Functioning and Liquidity
@@ -189,11 +197,18 @@ Percent
 * Seasonally adjusted.
 MBA Residential Mortgage Indexes
 Growth of M2
+Percent1 18
+s.a.a.r.
 Li~l~iL.ii
 2000
 e Estimated.
 Growth of Federal Debt
 Percent
+Q1 02 Q3 Q4 J FMAMJ J
+2000 2001 2002
+M2 Velocity and Opportunity Cost
+Ratio Scale Percentage Points
+r- -- 1 8
 M2 Opportunity Cost* -
 (right scale)
 .* M2 Velocity
@@ -284,6 +299,7 @@ Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
 Percent
 - 4
+Historical Average: 2.74 TIIS-Based EstimateS(1 9661-2002Q2) - 3
 - -1
 - Current Rate - 0
 * 25 b.p. Easing
@@ -393,6 +409,8 @@ Civilian Unemployment Rate
 - -- Perfect Foresight (1-1/2 percent inflation goal)
 S........... ......
 - - - - - --------------------------
+I . . .I I I . I . I . I . . I
+2003 2004 2005
 PCE Inflation (ex. food and energy)
 (Four-quarter percent change)
 - Baseline
@@ -479,6 +497,31 @@ Apr 02
 May 02
 Jun 02
 Jul 02
+Weekly
+Jun 7 02
+Jun 14 02
+Jun 21 02
+Jun 28 02
+Jul 5 02
+Jul 12 02
+Jul 19 02
+Jul 26 02
+Aug 2 02
+Aug 9 02
+Daily
+Jul 23 02
+Jul 24 02
+Jul 25 02
+Jul 26 02
+Jul 29 02
+Jul 30 02
+Jul 31 02
+Aug 1 02
+Aug 2 02
+Aug 5 02
+Aug 6 02
+Aug 7 02
+Aug 8 02
 Short-term Long-term
 -- P 1.67
 p - preliminary data MFMA
@@ -493,6 +536,10 @@ Period M
 In M2 In M3 only
 Levels (Sbillions):
 Monthly
+Weekly
+2002-June 3 1197.5 5548.1 4350.6 2582.9 8130.9
+July 1 1201.9 5609.8 4407.9 2570.0 8179.8
+8 1184.5 5605.9 4421.4 2565.7 8171.6
 p preliminary
 e estimated
 Changes in System Holdings of Securities ¹
@@ -502,6 +549,8 @@ Class II FOMC
 August 8, 2002
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
+Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
+Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term6 Term7 Change
 Apr
 May
 Jun
@@ -520,6 +569,9 @@ Intermeeting Period
 Jun 26-Aug 8
 Memo: LEVEL (bil. $)
 Ann a
+--- 582
+334 1,054
+637 291
 acquired in exchange for maturing bills. Excludes maturity shifts and rollovers of maturing issues.
 --- 13,401
 --- 10,796

@@ -62,6 +62,7 @@ rebalance portfolios contributed to the pivoting of the yield curve. Even with t
 widening of risk spreads, yields on investment grade corporate bonds rose less than Treasury
 yields, especially after market participants saw that the century date change had passed
 without serious dislocations. Most risk spreads have now more than reversed their runup
+last summer, though they generally remain well above their levels prior to autumn of 1998. 2
 Stock prices were quite volatile over the intermeeting period, with tech stocks and other
 shares often exhibiting disparate movements day-by-day. Reflecting the countervailing
 influences of stronger-than-expected earnings but generally rising interest rates, broad stock
@@ -238,6 +239,8 @@ Percentage points
 - Taylor Rule with Error
 -..... Realized-inflation Rule
 Percentage points
+2.0 2.0
+Percentage points
 - Taylor Rule with Error
 ...... Realized-Inflation Rule
 Percentage points
@@ -341,6 +344,12 @@ for 2000 are shown in the table below, along with those for nominal GDP. A discu
 alternative ranges for money and debt growth in 2000 begins in paragraph 25.
 Growth of Money and Debt
 (percent)
+M2 6.2 4-3/4 1 to 5
+M3 7.6 6-1/4 2 to 6
+Debt 6.6 5-1/4 3 to 7
+Memo:
+Nominal 6 6
+GDP
 (21) M2 grew 6-1/4 percent over 1999, and its velocity declined slightly. Although
 M2 velocity tracked the rise in its opportunity cost rather well over the second half of the
 year, as shown in chart 8, that conformance with historical relationships followed a period
@@ -418,6 +427,9 @@ Alternative Ranges for Money and Debt in 2000
 Memo:
 Alt. I Projected
 Provisional Alt. II Growth
+M2 1 to 5 2 to 6 4-3/4
+M3 2 to 6 3 to 7 6-1/4
+Debt 3 to 7 3 to 7 5-1/4
 (26) If, however, the faster productivity growth of recent years is expected to
 persist or even pick up further, the ranges in use since the mid-1990s would no longer be
 centered around money growth expected when prices were stable. In alternative II, the
@@ -604,6 +616,8 @@ Actual and Projected Debt
 Billions of Dollars
 SLevel
 S17800
+- 17600
+3%
 - 16800
 - 16600
 Aua Oct Dec r 15800

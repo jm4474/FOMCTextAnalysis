@@ -249,11 +249,19 @@ week's
 open
 market
 opeations
+- 22
+-121
+- 99
+- 95
 p - Preliminary
 TABLE A-2
 AGGREGATE RESERVES AND RELATED MEASURES
 Retrospective Changes, Seasonally Adjusted
 (In per cent, annual rates based on monthly averages of daily figures)
+Annually:
+1963
+1964
+1965
 Monthly:
 1965--January
 February
@@ -351,6 +359,24 @@ S+ 3.5
 + 2.4
 + 3.2
 + 3.6
+- 2.6
+- 2.0
++ 6.9
++ 5.0
+-14.0
++15.6
++ 1.4
+- 0.4
++13.9
++ 8.4
+- 1.7
++11.7
++ 4.1
+- 2.4
++12.1
++13.0
+-18.1
++17.6
 Includes all deposits subject to reserve requirements.
 + 7.5
 + 7.6
@@ -410,15 +436,34 @@ Money Supply
 + 9.5
 + 0.7
 +12.3
++ 7.2
+- 2.9
++ 8.6
++13.5
+-11.2
++12.7
 Private
 Demand
 + 3.2
 + 4.0
 + 4.6
++ 1.0
+- 3.8
++ 4.8
++ 7.6
+-12.3
++16.3
++ 4.7
 +13.2
 + 9.3
 - 0.9
 +14.8
++ 5.5
+- 5.5
++10.1
++15.4
+-16.1
++15.4
 Movements in this aggregate correspond closely with
 movements in total member bank credit.
 --
@@ -430,6 +475,12 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. o outside factors total reserves
 float) / tock banks net 2/ reserves 3/ reserves
+ACTUAL
+Year:
+1963 (12/26/62 - 12/25/63) +3,125 -426 -1,950 - 76 +676 +763 - 87
+1964 (12/25/63 - 12/23/64) +3,219 -165 -1,847 -365 +840 +910 - 70
+PROJECTED 4/
+June 29 +340 - 70 +115 -375 + 10 + 10 --
 For
 For
 For
@@ -447,6 +498,17 @@ Total Supporting _Supporting private deposits
 > *U. S. Gov't. Other thanPeriod required U. Gov't. Seasonal changes Other thandemand Total seasonal changes
 reser deposits Demand Time Demand Time
 ACTUAL
+Year:
+1963 (12/26/62 - 12/25/63) +763 + 8 +755 + 45 -- +239 +471
+1964 (12/25/63 - 12/23/64) +910 -115 +1,025 + 16 -- +542 +467
+June 1 p + 16 - 70 + 86 + 32 + 9 + 41 + 4
+8 p + 47 -196 +243 +120 - 9 +117 + 15
+July 6 +245 +215 + 30 + 85 + 10 - 75 + 10
+13 - 55 -280 +225 +165 - 20 + 70 + 10
+20 - 40 -205 +165 +115 + 10 + 30 + 10
+27 - 90 - 60 - 30 - 70 -- + 30 + 10
+Aug. 3 + 15 - 85 +100 + 80 - 20 + 30 + 10
+10 - 75 + 70 -145 - 95 - - 60 + 10
 deposits released $780 million of reserves at the
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
@@ -456,6 +518,17 @@ Technical Foreign Other
 Period factors Treasury Float deposits nonmember
 (net) operations and gold deposits and
 loans F. R. accounts
+ACTUAL (Sign indicates effect on reserves)
+Year:
+1963 (12/26/62 - 12/25/63) - 76 -216 +149 + 88 - 97
+1964 (12/25/63 - 12/23/64) -365 -470 - 84 + 11 +178
+Year-to-date:
+12/30/64 - 6/23/65) -986 - 48 -847 + 74 -165
+12/29/65 - 6/22/66 ) -814 - 1 -459 - 36 -318
+June 1 -327 + 17 -313 - 20 - 11
+8 +240 +125 + 95 + 3 + 17
+Aug. 3 -400 -- -400 -- -
+10 - 50 -- - 50
 Table B-4
 SOURCES OF FEDERAL RESERVE CREDIT
 Retrospective Changes
@@ -474,6 +547,14 @@ Weekly:
 +3,219
 +1,910
 +875
++369
++422
+-309
++ 99
++627
+- 6
++185
+-224
 +3,076
 +3,340
 +1,839
@@ -483,6 +564,14 @@ Weekly:
 - 26
 - 88
 +194
++391
++402
+-292
++ 68
++442
++225
+- 23
+-131
 +1,659
 +2,086
 +1,697
@@ -492,6 +581,14 @@ Weekly:
 - 84
 - 50
 +147
++274
++ 8
+-486
++120
++292
++185
+-128
++203
 +411
 +166
 - 73
@@ -508,6 +605,13 @@ Weekly:
 + 47
 + 13
 +232
++145
+-111
+- 34
++ 82
++217
+-164
+-135
 + 39
 - 61
 - 8
@@ -549,6 +653,10 @@ Weekly:
 + 63
 - 17
 - 10
++159
+-265
++241
+- 97
 Chart Reference Table C-1
 TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
@@ -563,6 +671,22 @@ Seasonally adjusted
 Total member Time Private U. S. Gov't.
 Monthly bank deposits deposits demand demand
 (credit) 1/ deposits 2/ deposits
+February 203,759 94,495 104,569 4,695
+March 205,068 95,011 104,749 5,308
+April 206,176 95,852 104,987 5,337
+May 206,613 96,677 104,609 5,327
+June 208,669 97,542 105,066 6,061
+July 209,312 98,273 105,783 5,256
+August 211,506 99,725 106,189 5,592
+September 212,906 100,670 106,868 5,368
+October 214,109 101,850 107,410 4,849
+November 215,849 103,090 107,259 5,500
+December 216,738 104,215 107,591 4,932
+February 239,024 122,401 111,562 5,061
+March 239,811 123,038 112,684 4,089
+April 243,398 124,898 113,905 4,595
+May p 243,877 125,950 112,188 5,739
+June proj.Y 244,867 126,731 113,833 4,303
 of time, private demand, and U.S. Government demand deposits. Movements
 in this aggregate correspond closely with movements in total member
 bank credit.
@@ -606,6 +730,8 @@ on monthly averages of daily figures)
 Private Time Deposits
 Week Ending Money Supply Currency 1/ Demand adjusted
 SDeposits / adjuste
+June 1
+8
 *15
 *22
 * Deposits have been adjusted for redefinition of time deposits effective June 9.

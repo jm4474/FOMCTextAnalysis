@@ -268,6 +268,8 @@ Q3 Q4
 Monthly rate
 Changes in selected components of debt of the
 nonfinancial business sector
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2009 2010
 Mar.
 FOMC
 Selected interest rates
@@ -291,6 +293,8 @@ Note. Auto ABS include car loans and leases and financing for buyers
 of motorcycles.
 Source. Inside MBS & ABS, Merrill Lynch, Bloomberg, and the Federal
 Reserve.
+Sept. Dec. Mar. June Sept. Dec. Mar.
+2008 2009 2010
 Mar.
 FOMC
 Libor over OIS spreads
@@ -441,6 +445,9 @@ Maximum
 level
 Date of 
 maximum
+Total assets 33 2,341 2,343 04/14/10
+Selected assets: 
+Liquidity programs for financial firms -9 7 1,247 11/06/08
 Market Desk committed to purchase an additional $25.8 billion of MBS, on net.  Total MBS purchases are about 
 $1.25 trillion.
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 15 of 59
@@ -664,6 +671,13 @@ Memo:
 Level
 March 31, 2010 
 ($billions)
+Total loans and leases 451 6,958
+Credit cards and related plans 322 662
+Other consumer loans 41 536 
+Commercial and industrial loans 33 1,267 
+Residential real estate loans* 27 2,122 
+All other loans 28 2,371
+Allowance for loan and lease losses 36 236
 * Includes closed-end residential mortgages and revolving home equity lines of credit.
 Source. Federal Reserve.
 the bank holding company.
@@ -794,6 +808,9 @@ Greenbook-consistent measure (FRB/US)
 Short-Run and Medium-Run Measures
 Current Current Estimate Previous 
 Estimate as of Previous Bluebook Estimate
+TIPS-based factor model 2.0 2.0
+Memo
+ Actual real federal funds rate -1.2 -1.2
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 28 of 59
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 29 of 59
 would stay appreciably below 2 percent through late 2014.  The chart also displays the
@@ -1312,6 +1329,8 @@ Growth Rates for M2 and Monetary Base
 (percent, annual rate)
 M2 Monetary Base 
 Growth* Growth**
+Monthly Growth Rates 
+Oct. 09 4.6 90.4
 *Seasonally adjusted. Forecasts are consistent with nominal GDP and interest rates in the Greenbook 
 forecast.
 **Seasonally adjusted, break adjusted. Forecasts are consistent with Greenbook baseline scenario in 
@@ -1460,6 +1479,9 @@ rate (current value)
 Average actual 
 real funds rate 
 (twelve‐quarter
+Lagged core inflation -1.2 -1.4 -0.5
+Lagged headline inflation -1.8 -1.7 -0.8
+Projected headline inflation -1.1 -1.6 -0.6
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 57 of 59
 Estimates of the real federal funds rate depend on the proxies for expected inflation used.  The table 
 below shows estimated real federal funds rates based on lagged core PCE inflation, the definition 
@@ -1468,6 +1490,9 @@ and projected four-quarter headline PCE inflation beginning with the next quarte
 estimate of the real rate, the table also provides the Greenbook-consistent FRB/US-based measure 
 of the short-run equilibrium real rate and the average actual real federal funds rate over the next 
 twelve quarters.
+=  1.18it-1–0.38it-2+0.20[0.98 +1.72 πt+2|t+2.29( *1| 1|t t t ty y+ +− )–1.37( *1 1t ty y− −− )]
 = 2 + πt + 0.5(πt – *π ) + 0.5( *t ty y− )
 = 2 + πt + 0.5(πt – *π ) + ( *t ty y− )
+= it-1 + 0.5(πt+3|t – *π ) + 0.5( 4 4 *3| 3|t t t ty y+ +∆ − ∆ )
 April 22, 2010 Class I FOMC - Restricted Controlled (FR) 58 of 59
+=  1.20it-1–0.39it-2+0.19[1.17  + 1.73 πt  + 3.66( *t ty y− )  – 2.72( *1 1t ty y− −− )]

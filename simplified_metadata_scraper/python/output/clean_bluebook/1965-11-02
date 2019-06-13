@@ -110,11 +110,31 @@ Re- .r ,, Supply
 - 38
 + 26
 +260
+- 25
++108
++ 95
++140
+- 21
++147
++ 32
+-115
+- 4
++123
 +3.3
 +1.0
 +5.8
 Time 2
 Deposits-
++ 300
+- 300
++ 600
++ 800
+-1,100
++1,800
++ 700
++ 200
++1,600
++1,200
 + 900
 +1,100
 - 600
@@ -261,6 +281,10 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gd Currency Technical in Required Excess
 credit (excl. Gold outside factors total reserves
 float) 1/ stock banks net 2/ reserves 3/ reserves
+ACTUAL
+Year:
+1963 (12/26/62
+1964 (12/25/63
 - 12/25/63)
 - 12/23/64)
 Year-to-date:
@@ -273,14 +297,28 @@ Re.ekly:
 +1,189
 +2,456
 + 54
+- 90
+-1,530
 -+- 1
 + 1
 - 1
 + 1
 . 1
++162
+-652
++235
++ 57
++ 55
+- 76
+-365
 +676
 +840
 + 5
++ 59
+-164
++170
++530
+-224
 +163
 ..- 347
 +567
@@ -290,6 +328,14 @@ _/. 1
 - 62
 +223
 - 73
++ 30
+-104.
++ 79
++561
+-125
++ 57
+-205
++381
 - 87
 - 70
 + 78
@@ -298,7 +344,14 @@ _/. 1
 + 91
 - 31
 - 99
++106
+-142
++186
 i hf 'm
+PROJECTED
+1965--Nov. 3 +560 - -115 -440 + 5 + 5
+Dec. 1 +365 - 10 - 40 -290 + 25 + 25
+8 +665 - 10 -300 - 60 +295 +295
 For
 For
 For
@@ -319,6 +372,11 @@ Rpriod required . dem Govt T l Seasonal changes seasonal chan
 resre demand Total seasonal chanaes
 reser deposits Demand Time Demand Time
 ACTUAL
+Year:
+.963 (12/26/62 - 12/25/63) +763 + 8 +755 + 45 -- +239 +471
+1964 (12/25/63 - 12/23/64) +910 -115 +1,025 + 16 -- +542 +467
+Dec. 1 + 25 - 30 + 55 + 45 + 10
+8 +295 +180 +115 +115 -- -
 p - Preliminary.
 deposits released $780 million of reserves at the
 Table B-3
@@ -329,6 +387,21 @@ Technical Foreign Other
 Period factors Treasury Float deposits nonmember
 (net) operations and gold deposits and
 loans F. R. accounts
+ACTUAL (Sign indicates effect on reserves)
+Year:
+1963 (12/26/62 - 12/25/63) - 76 -216 +149 + 88 - 97
+1964 (12/25/63 - 12/23/64) -365 -470 - 84 + 11 +178
+Year-to-date:
+(12/25/63 - 10/28/64) -753 - 52 -996 - 13 +308
+(12/23/64 - 10/27/65) -137 - 92 -991 - 17 +963
+Weekly:
+1965--Aug. 25 -219 - 57 - 78 + 16 -100
+Sept. 1 -128 - 21 -265 - 23 +181
+8 +198 + 69 +125 - 3 + 7
+PROJECTED
+1965--Nov. 3 -440 + 10 -380 + 10 - 80
+Dec. 1 -290 -- -290 - --
+8 - 60 -- - 60 -
 Table B-4
 SOURCES OF FEDERAL RESERVE CREDIT
 (Dollar amounts in
@@ -349,6 +422,10 @@ Reserve credit
 +3,219
 +1,189
 +2,456
++451
++324
+-641
++ 54
 Total
 holdins
 U. S. Government securities
@@ -365,11 +442,23 @@ h l _ ___ __ _ ________ - -------- I. _ __
 +3,340
 +1,325
 +2,366
++387
++251
+-515
+- 2
++776
+- 71
+-293
+-194
 +1,659
 +2,086
 + 444
 +1,716
 + 33
++104
++356
+-222
+- 82
 +1,404
 +1,022
 +915
@@ -380,6 +469,13 @@ h l _ ___ __ _ ________ - -------- I. _ __
 + 26
 + 13
 +232
+- 34
+-266
+- 85
++ 63
+-141
++ 87
+- 87
 +30
 + 32
 - 62
@@ -405,11 +501,19 @@ h l _ ___ __ _ ________ - -------- I. _ __
 - 87
 + 81
 + 54
++ 65
++ 72
+-125
++ 55
 - 9
 - 54
 + 75
 + 69
 - 74
+- 17
+- 41
++ 96
+-253
 _____________________ LL _________
 Chart Reference Table C-1
 TOTAL, NONBORROWED AND REQUIRED RESERVES

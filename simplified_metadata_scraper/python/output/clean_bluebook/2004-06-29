@@ -62,6 +62,8 @@ of the May meeting, placing the funds rate at about 2¼ percent by the end of th
 and 3¾ percent by the end of 2005.
 Chart 1
 Interest Rate Developments
+Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 Ten-Year Treasury
 Two-Year Treasury
 Treasury Yields*
@@ -74,6 +76,8 @@ computed from the term structures for both the expected federal funds
 rate and implied volatility.
 Daily
 FOMC
+June Oct. Jan. Apr. July Oct. Jan. Apr.
+2004 2005 2006
 June 24, 2004
 May 3, 2004
 Expected Federal Funds Rates*
@@ -105,6 +109,8 @@ Balanced
         78
 Similar Language
         30
+Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
@@ -178,12 +184,16 @@ about the stalling of Brazilian fiscal reforms and worries about the sustainabil
 debt position.
 Chart 2
 Financial Market Indicators
+Jan. May Sept. Feb. June Oct. Feb. June
+2002 2003 2004
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
 *AA spread measured relative to an estimated off-the-run Treasury yield
  curve. Swap spread measured relative to the on-the-run Treasury
  security.
+Jan. May Sept. Feb. June Oct. Feb. June
+2002 2003 2004
 Basis Points
 Ten-Year BBB (left scale)
 Five-Year high-yield (right scale)
@@ -193,6 +203,8 @@ Mid-
 June
 S&P 500 EPS Revisions Index
 Percent, Monthly Rate
+Jan. May Sept. Feb. June Oct. Feb. June
+2002 2003 2004
 Wilshire
 Nasdaq
 Stock Prices
@@ -204,10 +216,14 @@ Real Treasury Yield*
 *Yield on synthetic Treasury perpetuity minus Philadelphia Fed ten-year 
  expected inflation.
 + Denotes latest daily observation, June 23, 2004.
+Jan. May Sept. Jan. May Sept. Jan. May
+2002 2003 2004
 Daily
 FOMC
 Chart 3
 International Financial Indicators
+Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 Ten-year Government Bond Yields
 Percent
 UK (left scale)
@@ -215,6 +231,8 @@ Germany (left scale)
 Japan (right scale)
 FOMC
 Daily
+Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 Nominal Trade-weighted Dollar
 Indexes Index(12/31/02=100)
 Broad
@@ -222,6 +240,8 @@ Major Currencies
 Other Important Trading Partners
 FOMC
 Daily
+Jan. Apr. July Oct. Jan. Apr.
+2003 2004
 EMBI+ Index
 Basis Points
 Jan. Apr. July Oct. Jan. Apr.
@@ -837,5 +857,23 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 June 24, 2004
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QII 6,259 --- 6,259 2,209 1,790 234 --- --- 4,232 --- 10,491 -2,578 1,056 -1,522
+QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+Apr 3,516 --- 3,516 --- --- --- --- --- --- --- 3,516 1,041 1,355 2,396
+Apr 7 190 --- 190 --- --- --- --- --- --- --- 190 -3,727 --- -3,727
+Apr 14 403 --- 403 --- --- --- --- --- --- --- 403 5,420 --- 5,420
+Apr 21 200 --- 200 --- --- --- --- --- --- --- 200 -4,484 4,000 -484
+Apr 28 1,425 --- 1,425 --- --- --- --- --- --- --- 1,425 3,917 --- 3,917
+May 5 1,405 --- 1,405 --- --- --- --- --- --- --- 1,405 -4,038 -2,000 -6,038
+May 12 --- --- --- --- --- --- --- --- --- --- --- -721 1,000 279
+May 19 67 --- 67 1,693 --- --- --- --- 1,693 --- 1,760 849 -1,000 -151
+May 26 209 --- 209 --- 783 --- --- --- 783 --- 991 3,800 --- 3,800
+Jun 2 33 --- 33 --- --- 713 84 --- 797 --- 830 -564 3,000 2,436
+Jun 9 1,437 --- 1,437 --- 725 275 --- --- 1,000 --- 2,437 -6,834 2,000 -4,834
+Jun 16 14 --- 14 --- 1,035 --- --- --- 1,035 --- 1,049 248 -2,000 -1,752
+Jun 23 172 --- 172 --- --- --- --- --- --- --- 172 6,762 -4,000 2,762
 Intermeeting Period
 Memo: LEVEL (bil. $)

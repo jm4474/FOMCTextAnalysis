@@ -49,6 +49,7 @@ April May JuneP JuneP JuneP QII '86
 Money and credit aggregates
 Reserve measures
 Memo: (Millions of dollars)
+Excess reserves 801 838 964
 p - preliminary
 NOTE: Monthly reserve measures, including excess reserves and borrowing, are cal-
 culated by prorating averages for 2-week reserve maintenance periods that overlap
@@ -122,6 +123,10 @@ year or with the moderately stronger GNP growth projected by the staff in
 the second half of this year and 1987.
 Alternatives for 1986 Ranges
 Current Ranges Alt. I Alt. II
+Ml 3 to 8 5 to 10 6 to 11
+M2 6 to 9 6 to9 6 to 9
+M3 6 to 9 6 to 9 6 to 9
+Debt 8 to 11 8 to 11 9 to 12
 (8) Projections of the behavior of M1 are, of course, highly
 conjectural, given the uncertainties about the outlook for income and
 interest rates, as well as the relationship of M1 to these variables. The
@@ -227,6 +232,10 @@ policy implementation in 1987 might depend in part on the Committee's deci-
 sion concerning the treatment of this aggregate over the balance of 1986.
 Alternatives for 1987 Ranges
 Alt. I Alt. II
+Ml 3 to 8 3 to 8
+M2 6 to 9 5-1/2 to 8-1/2
+M3 6 to 9 5-1/2 to 8-1/2
+Debt 8 to 11 7-1/2 to 10-1/2
 (15) Both alternatives encompass growth rates in money and
 credit that appear consistent with the staff's GNP projection of a pickup
 in nominal GNP growth to 6-1/2 percent in 1987. Interest rates are not
@@ -297,6 +306,11 @@ annual ranges under all the alternatives.
 Alt. A Alt. B Alt. C
 Growth from
 June to September
+Ml 10 8 6
+M2 8-3/4 7-1/2 6-1/4
+M3 7-3/4 7 6-1/4
+Associated federal
+funds rate 4 to 8 5 to 9 6 to 10
 (19) M1 growth under alternative B, which assumes reserve pres-
 sures remain unchanged, would average 8 percent at an annual rate over the
 next three months. Adjustment plus seasonal borrowing at the discount
@@ -308,6 +322,13 @@ to ebb. Even if depository institutions do not reduce NOW account offering
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M1 M2 M3
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+Levels in billions
+1986-April 646.1 646.1 646.1 2620.8 2620.8 2620.8 3288.6 3288.6 3288.6
+May 658.6 658.6 658.6 2647.0 2647.0 2647.0 3307.2 3307.2 3307.2
+June 666.7 666.7 666.7 2666.9 2666.9 2666.9 3326.4 3326.4 3326.4
+July 672.1 671.7 671.3 2684.7 2683.6 2682.5 3346.9 3346.1 3345.2
+August 677.7 676.2 674.7 2704.6 2700.4 2696.1 3367.8 3365.1 3362.2
+September 683.4 680.1 676.7 2724.8 2716.9 2709.0 3391.2 3384.6 3378.0
 Chart 1
 ACTUAL AND TARGETED M1
 -- ACTUAL LEVEL
@@ -563,9 +584,15 @@ Sept.
 Oct.
 Nov.
 Dec.
+Jun. 4
+II
+18
+25
 July 2
 tlly--June 27
 July 3
+.
+1 8
 p
 0 S E D
 Money and Credit Aggregate Measures Class II FOMC
@@ -577,6 +604,14 @@ Perlod M1 M2 components M3 L and govrnment' 2  other 2 total 2
 n M2 I in M3 ogny I nvetment _
 PIUCEIT ANIAL GROT8:
 AiNUALLI (0QI To 0lr)
+BOIBLl LUELS (SBoLLIONS)
+1986-JAI. 627.2 2569.0 1941.8 653.9 3222.9 3859.0 1930.0 1608.0 5306.1 6914.1
+EEKLI LBVTLS (SBILLOIS)
+1986-MAY 5 654.6
+JU3O 2 663.1
+9 666.9
+16P 668.2
+23P 666.4
 I/ AMIUAL RATES FrO BANK CBED1T ABt AbJO390SI FU a T ISFBR OF LOI6 S Fno8 COBtlIri TIA ILLINOIS NATIONAL BANK TO THE FDIC
 BEGINNING SEPTEBBER db, 1984.
 Components of Money Stock and Related Measures
@@ -602,9 +637,13 @@ CLASS II-FOMC
 July 7, 1986
 y bs Treasury coupons net purchases' Federal agencies net purchases' Net change
 Period Treasury bills outright holdings Net RPs'
+___net change wh 1-5 5-10 over 10 total w1-5 5-10 over 10 total total
+year 1-5 5-1 over tota
 Apr.
 May
 June
+Apr. 2
+9
 July 2
 LEVEL--July 2
 maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon Issues, and direct Treasury

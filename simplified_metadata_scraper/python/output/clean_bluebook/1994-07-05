@@ -60,6 +60,8 @@ Treasury Security Yield Curves
 Percent
 -- May 16
 ........ May 17
+- June 14
+7.s- -- June 30 ,**
 had previously anticipated; these revisions in expectations can be
 seen in the federal funds futures rates in the first two columns of
 the upper right panel of the chart. Lessened uncertainty about the
@@ -174,8 +176,15 @@ QIV.
 to
 Apr. May June June
 Money and credit aggregates
+Domestic nonfinancial
+debt 4.5 4.5 -- 5.2
+Federal 2.9 4.2 -- 6.1
+Nonfederal 5.1 4.6 -- 4.9
 Reserve measures
 Memo: (Millions of dollars)
+Adjustment plus seasonal
+borrowing 124 200 269
+Excess reserves 1151 918 965
 QIV to May for debt aggregates.
 Includes "other extended credit" from the Federal Reserve.
 Alternative Long-Run Scenarios
@@ -239,6 +248,9 @@ Real GDP growth
 baseline
 tighter
 (fourth-quarter level, percent)
+Unemployment Rate (1994-survey basis)
+baseline 6.3 6.4
+tighter 6.3 6.6
 (QIV to QIV percent change)
 (fourth-quarter level, percent)
 Federal funds rate
@@ -299,6 +311,11 @@ Long-Run Ranges
 money and debt for 1994 and 1995, the table below presents the current
 ranges for 1994, as well as the growth rates of money and debt
 realized through June and projected for 1994 and 1995.10
+M3 0 to 4 -.2 0 1
+Nonfederal 4.91 4-3/4 4-1/2
+M1 4.0 3-1/2 1
+Memo:
+Nominal GDP 5-3/42 5-1/2 4-1/2
 (16) The staff projections of money and debt are intended to
 be consistent with the economic and financial market forecast describ-
 ed in the Greenbook. Growth in nominal GDP is seen as slowing over
@@ -389,6 +406,9 @@ Alternative Money and Debt Ranges for 1994
 Alt. I Memo:
 (current Staff
 ranges) Alt. II Projection
+M2 1 to 5 0 to 4 1
+M3 0 to 4 -1 to 3 0
+Debt 4 to 8 3 to 7 5
 (22) Alternative II might be chosen not on the technical
 grounds used last year of a shift in money demand, but rather to allow
 more comfortably for the effects on money growth of further increases
@@ -428,6 +448,9 @@ Alternative Money and Debt Ranges for 1995
 (percent)
 Memo:
 Alt. I. Alt. II Staff projection
+M2 1 to 5 0 to 4 2
+M3 0 to 4 -1 to 3 1
+Debt 4 to 8 3 to 7 5
 (25) Many of the same considerations relating to the choice
 of the ranges this year apply to the selection of provisional ranges
 for next year. To be sure, the staff's projected stepup in M2 and M3
@@ -513,6 +536,9 @@ the lower edge of its 0-to-4 percent range.
 Alt. B Alt. C Alt. D
 Growth from June
 to September
+M2 1-3/4 1-1/2 1-1/4
+M3 3/4 1/2 1/2
+M1 3-1/2 3 2-1/2
 (31) As noted in the previous section, M2 growth will be
 restrained by the slower pace of nominal income growth projected by
 the staff in the third quarter as well as by the effects of the pre-
@@ -520,6 +546,12 @@ vious and expected further widening of opportunity costs. Moreover,
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 M1
 Alt. B Alt. C Alt. D Alt. B Alt. C Alt. D Alt. B Alt. C Alt. D
+Levels in Billions
+May-94 3591.3 3591.3 3591.3 4215.4 4215.4 4215.4 1143.2 1143.2 1143.2
+Jun-94 3581.7 3581.7 3581.7 4211.7 4211.7 4211.7 1147.3 1147.3 1147.3
+Jul-94 3585.3 3585.1 3584.9 4216.8 4216.7 4216.6 1150.1 1149.9 1149.7
+Aug-94 3590.6 3589.9 3589.2 4218.1 4217.4 4216.7 1153.6 1153.0 1152.4
+Sep-94 3596.5 3595.0 3593.5 4218.9 4217.7 4216.5 1157.2 1156.0 1154.8
 the volume of flows into bond and stock funds is expected to pick up a
 little as concerns about capital losses in these markets diminish. 16
 Partly offsetting these influences should be the gradual levelling out

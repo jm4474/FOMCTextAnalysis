@@ -90,6 +90,24 @@ Bank
 Cret Money Time
 SSupply DepositsProxy 2
 (In billions of dollars)
++307
++135
++299
++122
+-294
++285
++159
++335
++154
+-122
++347
++265
++ 47
+-189
++ 88
++105
++107
++508
 - 0.2 + 0.1
 Ave-Iges Annual rates of increase 3/
 Includes issues carrying 5-year and 10-year call
@@ -138,7 +156,15 @@ and the desires of banks and other investors to build up investment
 portfolios in the expectation that interest rates would decline later.
 May '67 Dec. '67- July '68-
 Nov. '67 June '68 Aug. '68
+Total reserves 9.8 3.7 14.3
+Nonborrowed reserves 9.9 -0.1 19.0
 Bank credit, as measured by:
+Proxy 11.5 3.7 15.3
+Proxy plus Euro-dollars 12.3 4.7 16.2
+Money supply 8.4 5.8 9.9
+Time and savings deposits 14.2 5.8 17.5
+Savings accounts at
+thrift institutions 9.1 6.2 4.8p-'
 Prospective developments
 (7) Assuming no change from around levels prevailing since
 the discount rate cut in the cost of one day money, the 3-month Treasury
@@ -291,6 +317,20 @@ Deposits -- banks) Deposits
 +23.5
 + 0.8
 +11.5
++14.9
++15.2
++ 6.6
++14.5
++ 5.9
+-14.0
++16.7
++ 9.9
+-12.6
+- 9.4
++ 2.2
++ 6.6
++14.5
++23.3
 + 1.5
 +10.2
 +15.2
@@ -309,6 +349,20 @@ Deposits -- banks) Deposits
 +21.2
 - 0.2
 + 7.0
++10.2
++18.7
++ 5.7
++13.5
++ 8.3
+-10.5
++15.3
++19.2
++ 0.1
+-11.1
++ 1.5
++12.2
++ 0.1
++21.9
 + 3.8
 +11.7
 +13.4
@@ -384,6 +438,8 @@ MEMBER BANK RESERVES
 MONTHLY AVERAGES OF DAILY FIGURES
 I I I 1 I I I I i i i
 BILLIONS OF DOLLARS, SEASONALLY ADJUSTED
+TOTAL RESE
+25 5
 IT I I I- I
 REQUIRED RESERVES
 24.0 -
@@ -409,11 +465,23 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. outside factors total reserves
 float) I/ banks net 2/ reserves 3/serves
+Year:
+.966 (12/29/65 - 12/28/66) +3,149 - 627 -2,243 + 805 +1,085 +1,111 - 26
+1967 (12/28/66 - 12/27/67) +4,718 - 725 -2,305 - 165 +1,522 +1,517 + 5
+Year-to-date:
+(12/28/66 - 8/9/67) +2,158 - 151 - 552 -1,694 - 240 - 135 - 105
+(12/27/67 - 8/7/68) 5/ +4,083 -2,067 -1,130 - 770 + 115 + 342 - 227
 Weekly:
 1968--July 10 - 52 -- - 706 + 746 - 13 - 264 + 251
+Aug. 7 p + 490 -- - 518 + 89 + 60 + 50 + 10
+14 p - 135 -- - 378 + 152 - 361 - 309 - 52
+21 p + 294 -- + 126 - 79 + 340 + 153 + 187
+28 p - 385 -- + 218 - 279 - 443 - 107 - 336
 Sept. 4 p + 390 -- -395 + 27 + 20 - 28 + 48
 PROJECTED /
 1968--Sept. 11 - 470 -- - 340 + 825 + 15 + 15 --
+Oct. 2 + 875 -- + 325 -850 + 350 + 350
+9 + 615 -- - 210 - 60 + 345 + 345
 For retrospective details see Table B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits,
@@ -495,6 +563,8 @@ Sept. 4
 + 175
 - 60
 + 20
++1,221 1/
++ 168 1/
 + 38
 + 59
 + 46
@@ -504,6 +574,11 @@ Sept. 4
 + 45
 + 32
 + 24
+Sept. 11 + 15 - 225 + 240 + 295 - 15 - 60 + 20
+18 - 15 + 225 - 240 + 190 - 25 - 425 + 20
+25 + 15 - 225 + 240 - 240 -- + 460 + 20
+Oct. 2 + 350 + 80 + 270 + 145 -- - 105 + 20
+9 + 345 + 625 -280 + 50 + 5 - 355 + 20
 Weekly
 1968--
 effective January 18, 1968.
@@ -517,6 +592,9 @@ Period factors Treasury Float deposits
 (net) operations and gold
 loans
 ACTUAL (Sign indicates effect on reserves)
+Year:
+1966 (12/29/65
+1967 (12/28/66
 - 12/28/66)
 - 12/27/67)
 Year-to-date:
@@ -550,6 +628,8 @@ deposits and
 F. R. accounts
 - 104
 - 397
+Oct. 2 - 850 - 500 - 350
+9 - 60 -- - 60
 p - Preliminary.
 Table B-4
 SOURCE OF FEDERAL RESERVE CREDIT
@@ -676,6 +756,9 @@ Seasonally Adjusted
 Total member Private U.S. Gov't.
 Period bank deposits Time demand, demand
 (credit) 1/ deposits deposits 2/ deposits
+Oct. 244.4 128.6 111.7 4.0
+Nov. 244.0 128.3 111.6 4.1
+Dec. 244.6 129.4 111.7 3.5
 of time, private demand,and U.S. Government demand deposits. Movements
 in this aggregate correspond closely with movements in total member
 bank credit.

@@ -34,16 +34,22 @@ prompter and more substantial monetary policy tightening precipitated increases 
 over 70 basis points in nominal Treasury yields at maturities between two and ten
 Chart 1
 Interest Rate Developments
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 Ten-Year Treasury
 Five-Year Treasury
 Two-Year Treasury
 Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 Over Next Ten Years
 Over Next Five Years
 Inflation Compensation*
 *Based on a comparison of an estimated TIIS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+Apr. Aug. Dec. Apr. Aug. Dec. Apr.
+2004 2005 2006
 April 29, 2004
 March 15, 2004
 Expected Federal Funds Rates*
@@ -65,6 +71,8 @@ Maturity in Years
  coupon securities.  Yields shown are those on notional par  
  Treasury securities with semi-annual coupons.
 Nominal Treasury Yield Curve*
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 Ten-Year TIIS
 Five-Year TIIS
 Real Treasury Yields
@@ -115,12 +123,16 @@ the upward slope to inflation compensation may owe to inflation risk premiums, i
 seems likely that inflation is also expected to rise over the next few years.
 Chart 2
 Financial Market Indicators
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
 *AA spread measured relative to an estimated off-the-run Treasury yield
  curve. Swap spread measured relative to the on-the-run Treasury
  security.
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
 Basis Points
 Ten-Year BBB (left scale)
 Five-Year high-yield (right scale)
@@ -128,6 +140,8 @@ Lower-Tier Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 S&P 500 EPS Revisions Index
 Percent, monthly rate
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
 Wilshire
 Nasdaq
 Stock Prices
@@ -139,10 +153,14 @@ Real Treasury Yield*
 *Yield on synthetic Treasury perpetuity minus Philadelphia Fed ten-year 
  expected inflation.
 + Denotes latest daily observation, April 29, 2004.
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2002 2003 2004
 Daily
 FOMC
 Chart 3
 International Financial Indicators
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
@@ -150,6 +168,8 @@ Germany (left scale)
 Japan (right scale)
 FOMC
 Daily
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 Nominal Trade-Weighted Dollar
 Indexes Index(12/31/02=100)
 Broad
@@ -157,6 +177,8 @@ Major Currencies
 Other Important Trading Partners
 FOMC
 Daily
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
 EMBI+ Index
 Basis Points
 Jan. Mar. May July Oct. Dec. Feb. Apr.
@@ -771,5 +793,22 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 April 29, 2004
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QII 6,259 --- 6,259 2,209 1,790 234 --- --- 4,232 --- 10,491 -2,578 1,056 -1,522
+QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+Sep 780 --- 780 --- --- 1,232 150 --- 1,382 --- 2,162 -1,562 1,817 256
+Feb 18 209 --- 209 --- 730 --- --- --- 730 --- 939 3,757 5,000 8,757
+Feb 25 86 --- 86 --- --- 425 235 --- 660 --- 746 -5,018 2,000 -3,018
+Mar 3 99 --- 99 --- --- --- --- --- --- --- 99 7,103 -4,000 3,103
+Mar 17 96 --- 96 --- --- --- --- --- --- --- 96 6,403 --- 6,403
+Mar 24 --- --- --- --- 575 250 --- --- 824 --- 824 -5,536 -1,000 -6,536
+Mar 31 71 --- 71 --- --- --- --- --- --- --- 71 4,352 --- 4,352
+Apr 7 190 --- 190 --- --- --- --- --- --- --- 190 -3,727 --- -3,727
+Apr 14 403 --- 403 --- --- --- --- --- --- --- 403 5,420 --- 5,420
+Apr 21 200 --- 200 --- --- --- --- --- --- --- 200 -4,484 4,000 -484
+Apr 28 1,425 --- 1,425 --- --- --- --- --- --- --- 1,425 3,917 --- 3,917
 Intermeeting Period
+Mar 16-Apr 29 3,657 --- 3,657 --- 575 250 --- --- 824 --- 4,481 -17,331 1,000 -16,331
 Memo: LEVEL (bil. $)

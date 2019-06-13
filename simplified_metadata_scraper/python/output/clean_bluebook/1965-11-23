@@ -83,6 +83,16 @@ serves Proxy Supply
 - 38
 + 28
 +264
+- 30
++108
++ 95
++140
+- 21
++147
++ 32
+-115
+- 4
++ 98
 - 63
 + 84
 + 49
@@ -110,6 +120,16 @@ serves Proxy Supply
 +2,592
 Time
 Deposits
++ 300
+- 300
++ 600
++ 800
+-1,100
++1,800
++ 700
++ 200
++1,600
++1,300
 +1,200
 - 300
 - 100
@@ -227,6 +247,8 @@ As re
 v i s 'e d
 Free reserves
 date I
+- 19
+-148
 As first
 published
 each week
@@ -307,6 +329,13 @@ December
 + 0.2
 + 3.0
 + 9.0
++14.8
+- 1.3
++ 7.8
++ 0.7
+- 7.1
+-11.1
++ 8.1
 + 2.0
 + 3.2
 + 2.7
@@ -320,6 +349,13 @@ December
 - 2.6
 - 2.0
 + 6.9
++ 5.0
+-14.0
++15.6
++ 1.4
+- 0.4
++14.0
++ 8.4
 + 7.4
 + 7.7
 + 7.5
@@ -363,8 +399,17 @@ Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. k outside factors total reserves esstock reserves
 float) 1/ banks net 2/ reserves 3/
 ACTUAL
+-ear:
+1963 (12/26/62 - 12/25/63) +3,125 -426 -1,950 - 76 +676 +763 - 87
+1964 (12/25/63 - 12/23/64) +3,219 -165 -1,847 -365 +840 +910 - 70
+Year-to-date:
+(12/25/63 - 11/18/64) +2,550 - 90 -1,279 -868 +314 +197 +117
+(12/23/64 - 11/17/65) +3,349 -1,528 -1,500 -295 + 28 +141 -113
+Weekly: 1965--Sept. 15 - 353 - 1 + 235 +288 +170 + 79 + 91
 PROJECTED 4/
 1965--Nov. 24 - 380 -- - 95 +395 - 80 - 80
+Dec. 1 + 690 -- - 75 -320 +295 +295
+8 + 350 - 10 - 260 - 60 + 20 + 20
 For
 For
 For
@@ -385,6 +430,12 @@ Period required . S Gov'tSeasonal changeseriod required demand Total Seasonalsea
 reserve deposits Demand Time Demand Time
 ACTUAL
 r:
+Year-to-date:
+(12/25/63 -11/18/64) +197 -152 +349 -464 +14 +378 +421
+(12/23/64 -11/17/65) +134 -351 +485 -446 + 8 +288 +635
+Nov. 3 p + 87 - 71 +158 + 78 - 8 + 73 + 15
+10 p -256 -177 - 79 + 37 -- -118 + 2
+17 p +102 - 2 +104 + 15 -23 + 87 + 25
 released $780 million of reserves at the
 Table B-3
 TECHNICAL FACTORS AFFECTING RESERVES
@@ -394,8 +445,14 @@ Technical Foreign Other
 Period factors Treasury Float deposits nonmember
 (net) operations and gold deposits and
 __loans F. R. accounts
+ACTUAL (Sign indicates effect on reserves)
+Year:
+1963 (12/26/62 - 12/25/63) - 76 -216 +149 + 88 - 97
+1964 (12/25/63 - 12/23/64) -365 -470 - 84 + 11 +178
 PROJECTED
 1965--Nov. 24 +395 +165 +300 - 5 - 65
+Dec. 1 -320 - 25 -315 + 20 --
+8 - 60 -- - 60 -- --
 Table B-4
 SOURCES OF FEDERAL RESERVE CREDIT
 Retrospective Changes
@@ -403,6 +460,18 @@ Retrospective Changes
 Total Federal U. S. Government securities B ' M r
 Period Reserve credit Total Outri ht Repurchase a an e s Member ban
 (excl. float) holdings Bills Other agreements acceptances borrowings
+Year:
+1963 (12/26/62 - 12/25/63) +3,125 +3,076 +1,659 +1,404 + 13 + 39 + 10
+1964 (12/25/63 - 12/23/64) +3,219 +3,340 +2,086 +1,022 +232 - 61 - 60
+Year-to-date:
+(12/25/63 - 11/18/64) +2,550 +2,327 +1,231 + 915 +181 - 50 +273
+(12/23/64 - 11/17/65) +3,349 +3,122 +2,472 + 916 -266 - 5 +232
+Weekly:
+1965--Aug. 18 - 641 - 515 - 222 -- -293 - 1 -125
+Oct. 6 + 790 + 776 + 776 - -- + 31 - 17
+13 - 131 - 71 - 101 -- + 30 - 19 - 41
+20 - 215 - 293 - 325 -- + 32 - 18 + 96
+27 - 426 - 194 - 132 -- - 62 + 21 -253
 Chart Reference Table C-1
 TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
@@ -454,6 +523,8 @@ Seasonally Adjusted
 on monthly averages of daily figures)
 Period Money Supply Demand Currency 2/
 1/
+Sept. 1
+8
 Nov. 3 p
 10 p
 17 est

@@ -58,6 +58,8 @@ point hike in the federal funds target at the upcoming meeting and put roughly t
 thirds odds on a similar increase at the March meeting.  Against the backdrop of the
 Chart 1
 Interest Rate Developments
+Jan. Apr. July Oct. Jan. Apr. July Oct.
+2006 2007
 January 26, 2006
 December 12, 2005
 Expected Federal Funds Rates*
@@ -69,21 +71,29 @@ at Upcoming FOMC Meetings*
 *Estimated from federal funds futures.
 December 12, 2005
 January 26, 2006
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)
 Implied Volatilities
 Daily
 FOMC
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Five-Year
 Ten-Year
 TIPS Yields*
 Daily
 FOMC
 *Estimates are from a smoothed inflation-indexed Treasury yield curve.
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Five-to-Ten Years Ahead
 Next Five Years
 Inflation Compensation*
@@ -139,9 +149,13 @@ and their economies have continued to expand robustly.
 Class I FOMC - Restricted Controlled (FR) Page 4 of 42
 Chart 2
 Asset Market Developments
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Wilshire
 Nasdaq
 Stock Prices
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -165,6 +179,8 @@ and Bond Default Rate
 *Firm-level estimates of year-ahead defaults from KMV corporation, weighted
 by firm liabilities as a percent of total liabilities, excluding defaulted firms.
 **Six-month moving average, from Moody’s Investors Service
+Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Basis points Basis points
 Ten-Year BBB (left scale)
 Five-Year High-Yield (right scale)
@@ -173,20 +189,28 @@ Corporate Bond Spreads*
 Class I FOMC - Restricted Controlled (FR) Page 5 of 42
 Chart 3
 International Financial Indicators
+Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 Broad
 Major Currencies
 Other Important Trading Partners
 Nominal Trade-Weighted Dollar Indexes
+Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 UK (left scale)
 Germany (left scale)
 Japan (right scale)
 Ten-Year Government Bond Yields
+Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 UK (FTSE-350)
 Euro Area (DJ Euro)
 Japan (Topix)
 Stock Price Indexes
 Index(12/31/03=100)
 FOMC
+Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
+2004 2005
 US
 UK
 Japan
@@ -258,6 +282,8 @@ Household Bankruptcies
 Thousands of filings
 Weekly, n.s.a.
 *Source. Visa Bankruptcy Notification Service.
+Jan.21
+-40
 C&I Loans
 Commercial Paper
 Bonds
@@ -518,6 +544,23 @@ Range of model-based estimates
 90 percent confidence band
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 1.9 2.1
+   Small structural model 2.3 2.4
+   Large model (FRB/US) 3.5 3.7
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.9 - 4.2(
+      90 percent confidence interval (0.0 - 5.1(
+Greenbook-consistent measure 2.5 2.4
+Medium-Run Measures
+   Single-equation model 2.1 2.2
+   Small structural model 2.5 2.5
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.4 - 3.2(
+      90 percent confidence interval (0.7 - 3.8(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 2.51 2.17
 Class I FOMC - Restricted Controlled (FR) Page 19 of 42
 Equilibrium Real Rate Chart: Explanatory Notes
 The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return 

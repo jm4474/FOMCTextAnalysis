@@ -36,23 +36,35 @@ Chart 1
 Financial Market Indicators
 Expected Federal Funds Rates Estimated from Selected Treasury Yields
 Financial Futures* Percent
+Nov Feb May Aug Nov Feb May Aug
+2000 2001 2002
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
 Selected Private Long-Term Yields
 Percent Percent
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date.
 Selected Risk Spreads*
 Basis Points
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date.
 Selected Equity Indexes
 Index(9/1/98) = 100
 High Yield
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 *The spreads compare the yields on the Merrill Lynch 175 and BBB indexes
 with the ten-year swap rate. Vertical line indicates last FOMC date.
 Nominal Trade-Weighted Dollar
 Exchange Rates Index(9/1/98 = 100)
 Daily 10
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date.
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date.
 maturities. Market expectations for the path of future policy show little net change since the
 October meeting and continue to incorporate policy easing during the first half of next year.
@@ -126,6 +138,9 @@ Dec. 1999
 to
 Aug. 2000 Sep. 2000 Oct. 2000 Oct. 20001
 Money and Credit Aggregates
+Domestic nonfinancial debt 4.9 5.9 n.a. 5.6
+Federal -7.1 -4.6 n.a. -6.7
+Nonfederal 7.8 8.4 n.a. 8.9
 Policy Alternatives
 (6) The tightening of financial conditions over the intermeeting period, along with
 the slightly weaker cast to incoming data on spending, has led the staff to trim its forecast for
@@ -262,6 +277,13 @@ Alt. A Alt. B Alt. C
 Alt. A Alt. B Alt. C
 M2 M3 Debt
 Greenbook Forecast*
+Quarterly Averages
+1999 Q4
+2000 Q1
+2000 Q2
+2000 Q3
+2000 Q4
+2001 Q1
 Growth Rate
 From To
 Dec-1999 Oct-2000
@@ -287,6 +309,31 @@ Jul 00
 Aug 00
 Sep 00
 Oct 00
+Weekly
+Sep 8 00
+Sep 15 00
+Sep 22 00
+Sep 29 00
+Oct 6 00
+Oct 13 00
+Oct 20 00
+Oct 27 00
+Nov 3 00
+Nov 10 00
+Daily
+Oct 24 00
+Oct 25 00
+Oct 26 00
+Oct 27 00
+Oct 30 00
+Oct 31 00
+Nov 1 00
+Nov 2 00
+Nov 3 00
+Nov 6 00
+Nov 7 00
+Nov 8 00
+Nov 9 00
 p - preliminary data MFMA:JWR
 Strictly Confidential (FR)
 Class II FOMC
@@ -301,6 +348,10 @@ Annual arowth rate(m):i
 Annually (Q4 to Q4)
 Levels (billions)
 Monthly
+Weekly
+2000-Sep. 4 1106.4 4855.7 3749.3 2030.0 6885.7
+Oct. 2 1108.7 4888.0 3779.2 2040.0 6928.0
+9 1085.3 4883.4 3798.1 2036.3 6919.7
 p preliminary
 pe preliminary estimate
 Changes in System Holdings of Securities 1
@@ -310,6 +361,8 @@ Class II FOMC
 November 9,2000
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
+Net Redemptions Net Net Purchases 3 Redemptions Net Redemptions outright Short- Long- Net
+Purchases2 (-) Change < 1 1-5 5-10 _ ver10 (-) Change holdings 4 Term 6 Term 7 Change
 OilQIIl
 QIII
 May
@@ -333,6 +386,11 @@ Intermeeting Period
 Oct 3-Nov 9
 Memo: LEVEL (bil. $)
 Nov 9
+- 900
+2,039 3,319
+4,770 7,152
+--- 1,559
+568 2,085
 --- 1,582
 --- 3,732
 --- 4,095
@@ -344,3 +402,4 @@ Nov 9
 acquired in exchange for maturing bills. Excludes maturity shifts and rollovers of maturing issues.
 --- 2,496
 - 3,562
+- 982 787 1,624

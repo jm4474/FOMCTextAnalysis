@@ -36,25 +36,39 @@ Financial Market Indicators
 Expected Federal Funds Rates Estimated from Selected Treasury Yields
 Financial Futures* Percent
 F y7.00 -ly
+DaIly
+--.---. November 14, 2000 6.75
 S December 14, 2000
 - 6.50
 - 6.00
 I I I I I I I I I 5.00
 Dec Feb Apr Jun Aug Oct Dec Feb
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date
 Selected Equity Indexes
 lndex(9/1/98) = 100
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 Vertical line indicates last FOMC date
 Selected Risk Spreads*
 Basis Points
+Sep Jan May Sep Jan May Sep
+1998 1999 2000
 *The spreads compare the yields on the Mernll Lynch 175 and BBB indexes
 with the Mernll Lynch AAA index. Vertical line indicates last FOMC date
 Selected Private Long-Term Yields
 Percent Percent
+Sep Jan May Sep Jan May Sep
+1998 1999
 Vertical line indicates last FOMC date.
 2000
 Spread of Low-Tier CP Rate Percentage
 over High-Tier CP Rate* Points
+Daily
+2000 /
+1998-1999
+1995-1997 • .
 Oct Nov Dec
 *30-day nonfinancial, A2/P2 rate less A1/P1 rate
 about 10 basis points. The narrowing gap between nominal and indexed yields may in
@@ -149,6 +163,9 @@ MONEY AND CREDIT AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
 Sep. 2000 Oct. 2000 Nov. 2000 Nov. 20001
 Money and Credit Aggregates
+Domestic nonfinancial debt 5.0 2.7 n.a. 5.2
+Federal -4.8 -10.0 n.a. -6.6
+Nonfederal 7.4 5.7 n.a. 8.4
 Policy Alternatives
 (7) In light of weaker-than-expected economic data, a further tightening of
 financial conditions for riskier firms, and somewhat lower equity prices, the staff has
@@ -431,6 +448,31 @@ Aug 00
 Sep 00
 Oct 00
 Nov 00
+Weekly
+Oct 13 00
+Oct 20 00
+Oct 27 00
+Nov 3 00
+Nov 10 00
+Nov 17 00
+Nov 24 00
+Dec 1 00
+Dec 8 00
+Dec 15 00
+Daily
+Nov 28 00
+Nov 29 00
+Nov 30 00
+Dec 1 00
+Dec 4 00
+Dec 5 00
+Dec 6 00
+Dec 7 00
+Dec 8 00
+Dec 11 00
+Dec 12 00
+Dec 13 00
+Dec 14 00
 December 15, 2000
 SELECTED INTEREST RATES
 (percent)
@@ -447,6 +489,10 @@ Seasonally adjusted
 Money stock measures Domestic nonhnancial debt
 nontransactions components
 M1 M2 M3 other' tota'Period In M2 In M3 only government other tota
+Levels (bhillions);
+Monthly 1104.9 4790.9 3686.0 2016.3 6807.2 3510.2 14429.7 17939.9
+Weekly 1088.1 4881.2 9793.1 2069.4 6950.6
+2000-Nov. 6 1076.6 4875.8 3799.3 2074.8 6950.6
 p preliminary
 pe preliminary estimate
 Changes in System Holdings of Securities
@@ -457,6 +503,7 @@ December 14, 2000
 T___reasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
+Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings4 Term6 Term 7 Change
 Oct
 Nov
 Sep 27
@@ -474,12 +521,24 @@ Intermeeting Penod
 Nov 15-Dec 14
 Memo' LEVEL (bil $)
 Dec 14
+'79 1,515
+!97 -2,297
+188 -4,188
+)02 -3,077
+138 -2,907
+'09 -3,670
+- 109
 - 184
+--- 2,181
+)21 -971
 - 75
 - 138
 --- 97
 --- 101
 --- 900
+- 780 3,137
 - 2,496
 acquired in exchange for maturing bills Excludes maturity shifts and rollovers of maturing issues
+- 3,562
+1,986 -1,433
 MRA DHS

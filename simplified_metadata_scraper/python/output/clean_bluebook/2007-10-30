@@ -442,6 +442,23 @@ Range of model-based estimates
 90 percent confidence interval
 Greenbook-consistent measure
 Current Estimate Previous Bluebook
+Short-Run Measures
+   Single-equation model 2.6 2.5
+   Small structural model 1.6 1.8
+   Large model (FRB/US) 2.3 2.6
+   Confidence intervals for three model-based estimates
+      70 percent confidence interval (0.7 - 3.7(
+      90 percent confidence interval -0.2 - 4.6(
+Greenbook-consistent measure 2.9 2.8
+Medium-Run Measures
+   Single-equation model 2.4 2.3
+   Small structural model 1.9 1.9
+   Confidence intervals for two model-based estimates
+      70 percent confidence interval (1.2 - 3.1(
+      90 percent confidence interval (0.7 - 3.9(
+TIPS-based factor model 2.1 2.1
+Memo
+   Actual real federal funds rate 2.9 3.4
 Class I FOMC - Restricted Controlled (FR) 15 of 44
 policymakers place equal weights on keeping core PCE inflation close to a specified
 goal, on keeping unemployment close to the long-run NAIRU, and on avoiding
@@ -827,9 +844,22 @@ to finance LBOs and share repurchases abates.
 Class I FOMC - Restricted Controlled (FR) 29 of 44
 Greenbook Forecast*
 Monthly Growth Rates
+Apr-07 9.0 9.0
+May-07 3.2 3.2
+Jun-07 2.0 2.0
+Jul-07 4.1 4.1
+Aug-07 10.6 10.6
+Sep-07 5.2 5.2
+Oct-07 5.6 5.6
+Nov-07 5.3 4.9
+Dec-07 5.2 4.4
+Jan-08 6.2 5.4
+Feb-08 5.1 4.4
+Mar-08 5.1 4.6
 Quarterly Growth Rates
 Annual Growth Rates
 Growth From To
+Oct-07 Mar-08 5.4 4.8
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Table 2
 Alternative Growth Rates for M2

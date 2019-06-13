@@ -109,6 +109,8 @@ Mortgage Finance MBS database as of July 25 for the GSEs and Bloomberg as of Jul
 for Ginnie Mae.
    Source. Fannie Mae, Freddie Mac, Ginnie Mae, Inside Mortgage Finance MBS database,
 and Bloomberg.
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Regional bank index
 Large bank index
 July 
@@ -116,6 +118,8 @@ July
 CDS spreads for commercial banks
 June
 FOMC
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 July 
  30
 CDS spreads for investment banks
@@ -306,6 +310,8 @@ Interpreting Movements in TIPS based Inflation Compensation (cont’d)
 Class I FOMC - Restricted Controlled (FR) 10 of 36
 Chart 3
 Asset Market Developments
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Spreads of Libor over OIS
 Daily June
 FOMC
@@ -329,6 +335,8 @@ July
 Net percentage of banks tightening standards
 for business loans over the past three months Percent
 Commercial real estate
+Jan. Apr. July Oct. Jan. Apr. July
+2007 2008
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 June
@@ -600,13 +608,19 @@ Short-Run and Medium-Run Measures
 Current Estimate Previous Bluebook
 Short-Run Measures
 Single-equation model (2.3 (2.2
+Small structural model -0.7 -0.6
 Large model (FRB/US) -0.1 (0.4
 Confidence intervals for three model-based estimates
+Greenbook-consistent measure (0.1 -0.1
 Medium-Run Measures
 Single-equation model (2.2 (2.2
 Small structural model (1.7 (1.8
 Confidence intervals for two model-based estimates
+TIPS-based factor model (2.0 2.0
 Measures of Actual Real Federal Funds Rate
+Based on lagged core inflation -0.2 -0.2
+Based on lagged headline inflation -1.3 -1.3
+Based on Greenbook projection of headline inflation -1.1 -1.3
 Class I FOMC - Restricted Controlled (FR) 21 of 36
 expected inflation is measured on the same basis used for the various r* estimates—
 that is, by realized core PCE inflation over the past four quarters.4  The FRB/US

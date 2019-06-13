@@ -29,6 +29,8 @@ months, likely in  the expectation that the economy will be rebounding rather qu
 points over the intermeeting period, partly reflecting the weaker tone to the
 Chart 1
 Financial Market Indicators
+Nov Jan Mar May Jul Sep Nov Jan
+2001 2002 2003
 October 1, 2001
 November 1, 2001
 September 10, 2001
@@ -36,10 +38,14 @@ Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
+Sep Nov Jan Mar May Jul Sep Nov
+2000 2001
 Ten-Year TIPS
 Selected Treasury Yields*
 *Nominal Treasury yields are estimated from a smoothed yield curve based
 on off-the-run securities.
+Sep Nov Jan Mar May Jul Sep Nov
+2000 2001
 High Yield
 (left scale)
 Ten-year BBB
@@ -47,6 +53,8 @@ Ten-year BBB
 Ten-year Swap
 (right scale)
 Selected Private Long-Term Yields
+Sep Nov Jan Mar May Jul Sep Nov
+2000 2001
 Long-term
 Treasury Bond
 (left scale)
@@ -54,8 +62,12 @@ S&P 500
 (right scale)
 Capital Market Volatility*
 *Implied volatilities calculated from options.
+Sep Nov Jan Mar May Jul Sep Nov
+2000 2001
 Wilshire 5000
 Selected Equity Indexes
+Sep Nov Jan Mar May Jul Sep Nov
+2000 2001
 Broad Index
 Major
 Currencies Index
@@ -147,16 +159,27 @@ MONEY AND CREDIT AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
 Jul 2001 Aug 2001 Sep 2001 Oct 2001 (p)
 Money and Credit Aggregates
+Domestic nonfinancial debt 3.3 5.5 6.9(p) n.a.
+Federal 5.1 7.6 12.3(p) n.a.
+Nonfederal 2.9 5.1 5.8(p) n.a.
 Chart 2
       Growth of Money and Debt Aggregates
 Growth of Total Nonfinancial Debt
+Q1 Q2 J A S O
+2000 2001
 p - Preliminary.
 Growth of Nonfederal Nonfinancial Debt
+Q1 Q2 J A S O
+2000 2001
 p - Preliminary.
 Growth of M2
 p - Preliminary.
+Q1 Q2 J A S O
+2000 2001
 Growth of M3
 p - Preliminary.
+Q1 Q2 J A S O
+2000 2001
 Policy Alternatives
 (7) The staff has read incoming economic information as suggesting a more
 pronounced near-term contraction than projected in  the last Greenbook, owing to
@@ -587,24 +610,52 @@ C
 h
 an
 g
+,9
+02
+,7
+79
 --
 -
 --
 -
 --
 -
+,7
+31
+,9
+28
+,3
+82
+,5
+22
+,4
+82
+,2
+15
+,3
+18
 Q
 III
+,2
+38
+,9
+11
+,9
+37
 Q
 IV
 --
 -
 Q
 I
+,3
+78
 Q
 II
 -
 9,
+,5
+47
 Q
 III
 -
@@ -613,6 +664,8 @@ F
 eb
 --
 -
+,3
+27
 M
 ar
 --
@@ -621,12 +674,18 @@ ar
 2,
 --
 -
+,0
+78
 A
 pr
+,2
+29
 -
 2,
 M
 ay
+,3
+15
 -
 1,
 Ju
@@ -639,6 +698,10 @@ n
 4,
 --
 -
+,7
+81
+,7
+83
 Ju
 l
 --
@@ -653,6 +716,8 @@ ug
 5,
 S
 ep
+,1
+95
 --
 -
 --
@@ -663,6 +728,8 @@ ep
 -
 --
 -
+,1
+15
 A
 ug
 --
@@ -699,6 +766,10 @@ ug
 -
 --
 -
+,8
+28
+,8
+28
 A
 ug
 --
@@ -753,6 +824,8 @@ ep
 -
 -
 -3
+,3
+79
 S
 ep
 -
@@ -769,6 +842,10 @@ ep
 --
 -
 -1
+,4
+75
+,8
+59
 S
 ep
 --
@@ -823,6 +900,10 @@ ct
 -
 --
 -
+,8
+86
+,7
+43
 O
 ct
 --
@@ -831,6 +912,8 @@ ct
 -
 -
 2,
+,2
+86
 O
 ct
 --
@@ -905,6 +988,10 @@ ov
 3,
 --
 -
+,5
+49
+,5
+54
 M
 em
 o:
@@ -919,6 +1006,10 @@ $
 )
 N
 ov
+.2
+79
+.0
+12
 ha
 ng
 e 
@@ -1083,6 +1174,8 @@ at
 ur
 ity
  o
+f 1
+5
 da
 ys
 o
@@ -1145,6 +1238,8 @@ at
 ur
 ity
  o
+f 1
+6
 to
  9
 ys

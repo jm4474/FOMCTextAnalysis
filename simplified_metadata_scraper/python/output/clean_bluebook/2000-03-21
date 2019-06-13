@@ -64,8 +64,12 @@ Percent
 Selected Long-Term Interest Rates
 Percent Percent
 SBBB Corporate (left scale) FOMC
+Jun Aug Oct Dec Feb
+1999 2000
 Selected Stock Indexes
 lndex(6/1/99) = 100
+Jun Aug Oct Dec Feb
+1999 2000
 Implied Federal Funds Rates Derived from
 Financial Futures* Percent
 -- 7.0
@@ -74,6 +78,8 @@ Financial Futures* Percent
 I I I I I
 Apr Jun Aug
 I I I I
+Sept Dec Mar Jun
+2000 2001
 *Estimates from federal funds and eurodollar futures rates with an
 allowance for term premia and other adjustments.
 Nominal Trade-Weighted Dollar
@@ -88,6 +94,8 @@ Jun Aug
 1999
 Oct Dec Feb
 2000
+May Aug Nov Feb May Aug Nov Feb
+1998 1999 2000
 *J.P. Morgan Emerging Market Bond Index, an average of stripped Brady
 bond yields over comparable Treasuries for ten emerging market countries.
 Basis points
@@ -143,6 +151,8 @@ Weekly (adjusted for
 r mark-to-market effects)
 Index scale
 9/15/00 = 100
+S O N D J F
+1999 2000
 Ratio Scale
 funds.3 M2 growth, at an annual rate of only 2-1/4 percent in February, was slower than
 projected at the time of the Committee's last meeting. In contrast, growth of M3, at a 4-1/4
@@ -369,6 +379,31 @@ Nov 99
 Dec 99
 Jan 00
 Feb 00
+Weekly
+Jan 14 00
+Jan 21 00
+Jan 28 00
+Feb 4 00
+Feb 11 00
+Feb 18 00
+Feb 25 00
+Mar 3 00
+Mar 10 00
+Mar 17 00
+Daily
+Mar 1 00
+Mar 2 00
+Mar 3 00
+Mar 6 00
+Mar 7 00
+Mar 8 00
+Mar 9 00
+Mar 10 00
+Mar 13 00
+Mar 14 00
+Mar 15 00
+Mar 16 00
+Mar 17 00
 p - preliminary data MFMA:IXA
 Strictly Confidential (FR)-
 Money and Debt Aggregates Class II FOMC
@@ -379,19 +414,31 @@ Period M1 M2 M3 U.S. o t h e r  total
 In M2 In M3 only government'
 Levele (Mbillions):
 Monthly
+Weekly
+2000-Feb. 7 1106.3 4689.6 3583.3 1835.1 6524.7
+Mar. 6p 1106.9 4695.6 3588.7 1885.7 6581.3
 p preliminary
 March 17, 2000
 Weekly
 December 15
+March 1
+8
+15
 Memo: LEVEL (bil. $)
 March 15
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
 1
 Millions of dollars, not seasonally adjusted
 I Treasurycoupons
+- 2,000 -2,000
+3,550 --- 3,550
+)64 1,014
+150 3,514
 - 160
 - 10,337
 - 1,893
+-- 960
+170 -170
 --- 2,903
 --- 6,802
 ________________ ___________________________I _____________________________________________

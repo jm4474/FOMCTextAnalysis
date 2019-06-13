@@ -36,15 +36,21 @@ Holdings of U.S. Treasury Securities,” such effects are difficult to quantify.
 the period, the shortening duration of mortgages as prepayment risks picked up led to
 Chart 1
 Interest Rate Developments
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 Ten-Year Treasury
 Two-Year Treasury
 Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 Over Next Ten Years
 Over Next Five Years
 Inflation Compensation*
 *Based on a comparison of an estimated TIIS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
+Jan. May Sept. Jan. May Sept. Jan.
+2004 2005 2006
 March 11, 2004
 January 27, 2004
 January 28, 2004
@@ -127,12 +133,16 @@ sentiment.  Despite this talk, the ECB held policy steady throughout the period.
 Bank of England tightened policy 25 basis points in early February, citing concerns
 Chart 2
 Financial Market Indicators
+Jan. May Sept. Jan. May Sept. Jan.
+2002 2003 2004
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
 *AA spread measured relative to an estimated off-the-run Treasury yield
  curve. Swap spread measured relative to the on-the-run Treasury
  security.
+Jan. May Sept. Jan. May Sept. Jan.
+2002 2003 2004
 Basis Points
 Ten-Year BBB (left scale)
 Five-Year high-yield (right scale)
@@ -140,6 +150,8 @@ Lower-Tier Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 S&P 500 EPS Revisions Index
 Percent, monthly rate
+Jan. May Sept. Jan. May Sept. Jan.
+2002 2003 2004
 Wilshire
 Nasdaq
 Stock Prices
@@ -151,10 +163,14 @@ Real Treasury Yield*
 *Yield on synthetic Treasury perpetuity minus Philadelphia Fed ten-year 
  expected inflation.
 + Denotes latest daily observation, March 11, 2004 .
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 Daily
 FOMC
 Chart 3
 International Financial Indicators
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 Ten-Year Government Bond Yields
 Percent
 UK (left scale)
@@ -162,6 +178,8 @@ Germany (left scale)
 Japan (right scale)
 FOMC
 Daily
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 Nominal Trade-Weighted Dollar
 Indexes Index(12/31/02=100)
 Broad
@@ -169,6 +187,8 @@ Major Currencies
 Other Important Trading Partners
 FOMC
 Daily
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2003 2004
 EMBI+ Index
 Basis Points
 Jan. Mar. May July Sept. Nov. Jan. Mar.
@@ -549,6 +569,20 @@ stance of monetary policy has been quite accommodative for some time.
 Nonetheless, with inflation low and resource use slack, the Committee
 believes that it can still be patient in removing its policy accommodation.
 M2 Growth Rate*
+Monthly Growth Rates
+Jan-04 0.9
+Feb-04 10.3
+Mar-04 5.7
+Apr-04 4.0
+May-04 7.3
+Jun-04 4.6
+Jul-04 5.0
+Aug-04 5.0
+Sep-04 5.0
+Dec-03 Mar-04 5.7
+Dec-03 Jun-04 5.5
+Feb-04 Jun-04 5.4
+Jul-04 Dec-04 5.6
 * Forecasted M2 growth is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Rules Chart: Explanatory Notes
 In all of the rules below, it denotes the federal funds rate, Bt the staff estimate at date t of trailing four-
@@ -707,5 +741,22 @@ Changes in System Holdings of Securities 1 Strictly Confidential
 March 11, 2004
 Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
 Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+QII 6,259 --- 6,259 2,209 1,790 234 --- --- 4,232 --- 10,491 -2,578 1,056 -1,522
+QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+Aug 981 --- 981 --- --- --- --- --- --- --- 981 3,195 -935 2,259
+Sep 780 --- 780 --- --- 1,232 150 --- 1,382 --- 2,162 -1,562 1,817 256
+Dec 24 267 --- 267 --- --- --- --- --- --- --- 267 3,679 2,714 6,393
+Dec 31 452 --- 452 --- --- --- --- --- --- --- 452 724 2,571 3,295
+Jan 14 88 --- 88 --- --- --- --- --- --- --- 88 -5,930 -5,571 -11,502
+Jan 21 43 --- 43 --- --- --- --- --- --- --- 43 8,910 1,000 9,910
+Jan 28 238 --- 238 --- --- --- --- --- --- --- 238 -5,691 -6,000 -11,691
+Feb 4 239 --- 239 --- --- --- --- --- --- --- 239 3,715 --- 3,715
+Feb 18 209 --- 209 --- 730 --- --- --- 730 --- 939 3,757 5,000 8,757
+Feb 25 86 --- 86 --- --- 425 235 --- 660 --- 746 -5,018 2,000 -3,018
+Mar 3 99 --- 99 --- --- --- --- --- --- --- 99 7,103 -4,000 3,103
 Intermeeting Period
+Jan 28-Mar 11 1,109 --- 1,109 1,311 2,273 1,001 275 --- 4,860 --- 5,969 5,588 1,000 6,588
 Memo: LEVEL (bil. $)
