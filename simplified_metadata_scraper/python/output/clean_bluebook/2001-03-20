@@ -10,6 +10,20 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
+1  Over the intermeeting period, federal funds have traded at rates near the target
+level.  The Desk  redeemed $3.2  billion of Treasury securitie s, mostly coupon  issues, to
+continue bringing SOMA holdings into conformance with the per-issue limits.  To offset the
+resulting reserve drain and meet longer-term reserve needs, the Desk purchased $9.4 billion
+of Treasury securities in the market and $790 million of Treasury bills from foreign
+customers.  The volume of outstanding long-term RPs remained at $12 billion.
 Strictly Confidential (F.R.) March 15, 2001
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -36,6 +50,8 @@ Chart 1
 Financial Market Indicators
 Mar May Jul Sep Nov Jan Mar May Jul Sep Nov
 2001 2002
+5.75
+Percent
 January 30, 2001
 March 15, 2001
 Expected Federal Funds Rates Estimated from
@@ -44,9 +60,13 @@ Financial Futures*
 allowance for term premia and other adjustments.
 Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
 2000 2001
+7.00
+Percent
 Selected Treasury Yields
 Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
 2000 2001
+12
+Percent Percent
 High Yield
 (left scale)
 Corporate BBB
@@ -59,14 +79,23 @@ Ten-year Swap
 Selected Private Long-Term Yields
 Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
 2000 2001
+800
+Basis Points
 High Yield
 Selected Risk Spreads*
 *These spreads are the difference between the yields on the Merrill Lynch 
 175 and BBB indexes and that on the Merrill Lynch AAA index.
 Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
 2000 2001
+140
+Index(5/31/00) = 100
 Wilshire 5000
 Selected Equity Indexes
+200
+Basis Points
+2001
+1999-2000
+1996-1998
 Spread of Low-Tier CP Rate
 over High-Tier CP Rate*
 Daily
@@ -99,12 +128,30 @@ European Central Bank keeping its policy on hold.  Nonetheless, the dollar gaine
 percent against the euro.  Over the intermeeting period,
 Chart 2
 Financial Flows and Exchange Rates
+1999 2000
+H1
+2000
+Q3
+2000
+Q4 J F
 M2 Growth
 Percent
+1999 2000
+H1
+2000
+Q3
+2000
+Q4 J
 Total Debt
 Annualized
 Percent
 p - Preliminary.
+1999 2000
+H1
+2000
+Q3
+2000
+Q4 J F
 Business Debt
 Sum of Selected Components*
 Annualized
@@ -124,6 +171,7 @@ Index(5/31/00) = 100
 Nominal Trade-Weighted Dollar Exchange Rates
 Solid vertical line indicates last FOMC meeting.
 Dashed vertical line indicates January 3 cut in target federal funds rate.
+1999 2000
 * Yield on three-month Treasury bill minus average
 return on M2 assets.
 * Yield on three-month Treasury bill minus average
@@ -154,6 +202,7 @@ volatile equity markets and the yield advantage of money funds relative to longe
 investments.  M2 also was lifted somewhat last month by a pickup in mortgage loan
 prepayments, the proceeds of which are temporarily held in bank deposits, and by
 larger than usual tax refunds.  M3 growth, too, remained strong in February, at an
+11½ percent rate, supported by a surge in institutional money market funds, whose
 yields lagged the declines in money market rates.
 (6) Businesses have taken advantage of lower long-term interest rates and a
 receptive bond market since early in the year to issue a huge volume of bonds, a good
@@ -195,6 +244,7 @@ inflation in 2002 from this year’s projected 2 percent pace.
 (8) The Committee could select a 50 basis point reduction in the funds
 rate at this meeting if it thought an easing of at least this size  would prove necessary to
 promote a return of economic growth to an acceptable pace over time.  The resulting
+5 percent federal funds rate would imply a real rate of around 3 percent–assuming that
 inflation expectations are in line with  the staff forecast of core  PCE prices.  Even if
 this places the real rate  below its long-run equilibrium value, an undershoot m ay well
 be needed for a time to counter the effects of the declines in equity wealth, the
@@ -206,6 +256,7 @@ policy, aggregate demand and attitudes have deteriorated quickly.  The relativel
 lessening of pressures in labor markets now likely in train should counter any
 tendency for inflation to move higher.  If the Committee suspected that additional
 easing might be needed at some point, it might still prefer to move by no more than
+50 basis points a t this meeting so  that it could better assess the initial response to its
 previous actions, the underlying  strength of demand, and the extent of price pressures.
 In those circumstances, the Committee presumably would want to retain the current
 statement that the risks are weighted toward economic weakness.  The Committee
@@ -313,6 +364,9 @@ Growth Rates
        From       To
       Jan-2001 Jun-2001      8.5      8.1      7.7               8.2      8.0      7.8               8.1      8.0      5.5
       Feb-2001 Jun-2001      7.9      7.4      6.9               7.3      7.1      6.8               7.4      7.1      5.5
+1998 Q4  1999 Q4      6.3      6.3      6.3               7.7      7.7      7.7               6.3      7.7      6.8
+       1999 Q4  2000 Q4      6.3      6.3      6.3               9.2      9.2      9.2               6.3      9.2      5.4
+2000 Q4 Jun-2001      9.1      8.8      8.5               9.8      9.7      9.5               8.8      9.7      5.3
 *This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Directive and Balance-of-Risks Language
 (16) Presented below for the members' consideration is draft wording for (1)

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -159,6 +167,7 @@ borrowing of $325 million.7  Under alternative A, federal funds
 would tend to trade around 4-3/4 percent, which could be fostered
 either by lowering the borrowing specification by $50 million to $275
 million or by lowering the discount rate by a further 1/2 point to
+4-1/2 percent. The latter approach to alternative A would preserve
 the present spread of the funds rate over the discount rate and thus
 the current degree of cushioning of transitory shocks to the supply
 and demand for reserves.
@@ -236,6 +245,7 @@ September 3393.7 3393.7 4140.2 4140.2 870.3 870.3
 October 3403.6 3402.2 4144.8 4143.7 875.7 875.0
 November 3414.9 3410.7 4151.6 4148.8 881.9 879.8
 December 3427.7 3419.2 4160.9 4155.7 888.9 884.5
+1991 Target Ranges: 2.5 to 6.5 1.0 to 5.0
 long-run range. M1 is expected to grow at a 6-1/2 percent pace
 from September to December, producing a similar growth rate on a
 quarterly average basis and another decline in M1 velocity in reflec-
@@ -339,10 +349,19 @@ ANN. GRONTH RATES (I) :
 ANNUALLY (Q4 TO Q4)
 LEVELS ($BILLIONS) :
 MONTHLY
+1991-APR. 842.1 3384.3 2542.2 787.0 4171.3 4975.2 2751.8 2591.0 7968.7 10559.7
+MAY 851.6 3397.2 2545.5 776.7 4173.9 4953.9 2750.5 2613.7 7989.4 10603.1
+JUNE 858.4 3402.1 2543.7 764.8 4166.9 4978.2 2763.2 2646.1 8002.6 10648.6
+JULY 859.7 3391.1 2531.5 756.6 4147.7 4980.9 2763.3 2672.1 8017.6 10689.7
+AUG. 866.3 3391.4 2525.0 751.6 4142.9 2761.6 2707.9 8032.8 10740.7
 HEEKLY
 1991-AUG. 5 867.7 3390.8 2523.0 748.7 4139.5
+12 862.8 3387.9 2525.2 753.6 4141.6
+19 864.6 3391.0 2526.4 753.1 4144,0
+26 869.8 3397.5 2527.7 751.5 4149.0
 SEP. 2 867.0 3387.8 2520.7 749.6 4137.4
 9 p 867.3 3391.1 2523.8 746.5 4137.6
+16 p 869.7 3396.3 2526.5 747.9 4144.2
 Strictly Confidential (FR)-
 Class II FOMCComponents of Money Stock and Related Measures
 seasonally adjusted unless otherwise noted SEP. 27, 1991
@@ -362,6 +381,9 @@ SEP. 241.5 279.1 293.0 81.8 507.4 412.3 1160.1 339.3 116.2 521.
 OCT. 243.9 277.1 291.8 84.0 506.7 411.5 1161.4 341.6 119.6 515.
 NOV. 245.0 277.2 292.8 78.2 506.8 411.1 1161.8 341.9 120.5 512..
 DEC. 246.4 276.9 293.8 74.7 505.9 410.8 1164.2 345.4 125.7 507..
+1991-JAN. 251.6 272.9 293.9 72.0 505.2 412.0 1163.9 353.9 130.1 511.9
+FEB.' 255.1 276.1 296.9 71.0 511.5 415.4 1162.7 358.2 139.3 516.
+MAR. 256.7 277.1 301.0 70.1 519.2 420.5 1158.3 363.6 142.0 511.
 APR. 256.6 275.8 301.9 70.8 526.6 427.2 1150.2 364.2 145.6 507..
 MAY 256.8 278.7 308.1 69.7 536.1 433.1 1140.5 365.1 146.2 503.
 JUNE 257.6 281.0 312.0 69.3 542.1 438.9 1129.1 364.3 143.3 498.k
@@ -384,6 +406,27 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Period Net 2 Redemptions Net witNet purchases 3 Redemptions Net ee hldigh
 purchases (-) change 1-5 5-10 over 10 (.) Change total 4 Net RPs
+1988
+1989
+1990
+1990 -01
+-- 02
+-03
+-- 04
+1991 -01
+-02
+1990 September
+October
+November
+December
+1991 January
+February
+March
+April
+May
+June
+July
+August
 July
 July
 July
@@ -399,25 +442,112 @@ September
 September
 Memo: LEVEL (bil. $) 6
 September 25
+2.2
+12,7
+4,4
+2,176
+327
+425
+4,685
+946
+100 100
+- 150
+325 -200
+800 2,950
+900 550
+1,404 1,398
+258 284
+400 -
+9.665
+1,315
+200
+150
 - 4,150
 - 1,450
+7,635
+1,468
+-3,799
+10,892
+5,115
+5,241
+2,160
+4,356
+631
+933
+6,658
+-2,350
+-120
+1,967
+313
+908
+3,411
+37
+1,359
+5,776
+30.7 61.3
+100 -5,199
+- 10,892
+- 5,115
+00 2,241
+100 1,160
+- 4,356
 - 631
 - 933
 - 6,658
 )00 -5,350
+100 -1,120
+- 1,967
+- 313
+- 908
+- 3.411
+- 37
+- 1,359
+- 5,776
+150
+90
+100-
+175
+650
+130.013.8 24.2
+14,513 1,557
+-10,390 -1,683
+13,240 11,128
+-5,000 -4,061
+10.964 509
+5,045 -2,124
+2,230 16,805
+5,310 -16,864
+5,715 992
 - -1,120 -944
 - 2,417 -1,127
 - 4,013 -14,793
 91 2,067 1,370
 - 3,611 -1,153
 - 37 775
+55 1,929 71
+- 6,116 -2,134
 - 334 3.541
 - 558 -5,781
 - 1,060 3,627
 - 406 -1,679
 - 829 15,116
 - 25 -15,745
+269.0 -6.5
 September 25
 )00
 '30
 100
+5,435
+-11,263
+13.048
+450
+3,700
+1.250
+625
+340
+2,950
+550
+4:093
+15
+4,093
+15

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -41,12 +49,16 @@ M-2 6 to 10 8.9
 Memo: Federal funds Avg. for statement
 rate (per cent week ending
 per annum) July 19 7.94
+26 7.88
+Aug. 2 7.89
+9 7.83
 (2) Since the July FOMC meeting Federal funds have traded
 within a 7 to 8 per cent range, while projected growth in the mone-
 tary aggregates over the July-August period has also remained well
 within the Committee's ranges. Although the funds rate was slightly
 higher during the inter-meeting period than in preceding weeks, short-
 and long-term market interest rates declined by as much as 20 and
+30 basis points since the July FOMC meeting. The fall in rates
 developed in response to a shift in expectations, apparently induced
 by recent moderate growth in the monetary aggregates, failure of the
 Federal funds rate to move even higher, and signs of slowing in
@@ -91,6 +103,8 @@ time periods.
 Past Past Past
 Twelve Six Three Past
 Months Months Months Month
+1976 & July '78 July '78 July '78 July '78
+1977 over over over over
 Average July '77 Jan. '78 Apr. '78 June '78
 Concepts of Money
 Bank Credit
@@ -99,6 +113,13 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total loans
+and investments of commercial banks, commercial paper, and thrift institutions--which
+are derived from either end-of-month or Wednesday statement date figures. Growth rates
+for reserve measures in this and subsequent tables are adjusted to remove the effect of
+discontinuities from breaks in the series when reserve requirements are changed.
 Prospective developments
 (7) Tabulated below for Committee consideration are two
 alternative short-run specifications for the Federal funds rate and
@@ -129,15 +150,33 @@ annual rate (see Appendix II).
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1 M-2
 Alt. A Alt. B Alt. A Alt. B
+1978 July 351.8 351.8 846.4 846.4
+August 353.8 353.7 852.6 952.6
+September 356.2 355.9 859.2 858.5
+1978 QII 348.4 348.4 835.1 835.1
+QIII 353.9 353.8 852.8 852.5
+QIV 359.4 358.8 869.7 868.5
+1979 QI 364.7 364.4 885.8 885.1
+QII 370.2 370.2 902.4 902.2
 Growth Rates
 Monthly:
 Quarterly Average:
+6.3 6.3QII '78-QII '79 8.1 8.0
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M-3 Bank Credit
 Alt. A Alt. B Alt. A Alt. B
+1978 July 1441.6 1441.6 933.5 933.5
+August 1454.0 1453.6 941.4 941.4
+September 1465.0 1463.8 949.2 948.8
+1978 QII 1420.1 1420.1 916.5 916.5
+QIII 1453.5 1453.0 941.4 941.2
+QIV 1483.8 1481.6 966.5 965.9
+1979 QI 1511.6 1510.0 992.0 990.0
+QII 1539.5 1538.5 1016.3 1012.7
 Growth Rates
 Monthly
 Quarterly Average:
+10.9 10.5QII '78-QII '79 8.4 8.3
 (9) M-2 in the August-September period under alternative A
 is expected to grow in a 7 to 11 per cent annual rate range. The
 interest-bearing component of M-2 may expand at about a 10 per cent
@@ -194,6 +233,9 @@ tions for GNP growth--if M-1 growth over the one-year QII '78 to
 QII '79 period is to be around the upper limit1/ of the 4 to 6 per
 cent range adopted for that aggregate. Federal funds rate projections
 through the second quarter of next year are shown in appendix I.
+1/ Abstracting from shifts out of demand deposits of savings accounts
+occasioned by the automatic transfer regulation which goes into
+effect on November 1.
 Directive language
 (15) Given below are suggested operational paragraphs for
 the directive. The language of alternative A is consistent with the
@@ -201,6 +243,7 @@ specifications of alternative A discussed in the preceding section. Like
 the directive adopted at the last meeting, it places main emphasis on
 money market conditions and calls for operations directed at maintain-
 ing the weekly-average Federal funds rate within the range of 7-3/4 to
+8 per cent.
 (16) The language of alternative B is consistent with the
 specifications of the tightening alternative discussed in the preced-
 ing section; it calls for operations directed initially at attaining

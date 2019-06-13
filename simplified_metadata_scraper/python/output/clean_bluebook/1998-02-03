@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 JANUARY 30, 1998
 MONETARY POLICY ALTERNATIVES
@@ -102,6 +110,7 @@ financing needs associated with a spate of merger activity in recent months and 
 business inventories.
 (6) Total domestic nonfinancial debt advanced at about a 5 percent pace in
 December, putting its estimated annual growth over 1997 at about 4-1/2 percent--well within the
+3 to 7 percent annual range for the debt aggregate. Federal debt growth stayed low and
 nonfederal debt growth apparently remained elevated in December, bolstered by strong
 business borrowing. Credit supply conditions have changed little on balance of late. In
 securities markets, risk spreads have been about flat, except for a small firming of junk
@@ -112,6 +121,8 @@ terms and standards picked up. The survey results also suggested a continued mod
 tightening in standards on credit card and other consumer loans.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4 97:Q4
+to to
 Dec. Jan. 97:Q4 Jan.
 Money and Credit Aggregates
 M1
@@ -130,6 +141,14 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves 1683
+-19.2
+-3.5
+-1.6
+-0.2
+15.2
+11.6
+13.3
+11.2
 Longer-Term Scenarios
 (7) This section considers alternative longer-term scenarios for monetary policy
 and highlights some important risks over the Greenbook forecast horizon and beyond.
@@ -143,6 +162,7 @@ percent. Owing to the potential for an unsustainable widening of the current acc
 the baseline extension builds in a real depreciation of the dollar. Specifically, we have
 assumed a 1-1/2 percent real depreciation each year, which is sufficient to stabilize the current
 account deficit relative to GDP. Foreign real GDP growth picks up to an above-trend pace in
+2000 and 2001, as the economic difficulties in Asia unwind, and gradually returns to trend
 over the next several years.
 (9) In the baseline scenario, shown by solid lines in Chart 3, core PCE inflation
 remains below 2 percent through the end of the Greenbook projection period. By 2000,
@@ -150,12 +170,15 @@ however, the Committee faces some upward pressures on inflation: The unemploymen
 remains below the staff estimate of the NAIRU, and the dollar and foreign GDP swing from
 depressing to buoying U.S. GDP and inflation. The Committee can hold inflation to a little
 more than 2 percent by increasing the nominal federal funds rate from 5-1/2 to 6 percent in
+2000.4 This relatively modest increase in the funds rate is sufficient to contain inflation in
 large part because it is associated with a more pronounced rise in bond yields as the yield
 curve reverts to a more normal slope. The unemployment rate needs to move up to slightly
 above the NAIRU to offset the inflationary impacts of the continuing decline in the dollar.5
 Because the favorable supply shocks that have brought inflation down in recent years are
 assumed not to persist in the baseline, further disinflation requires that the unemployment rate
 exceed the NAIRU by even more for a time.6 To achieve virtual price stability--defined as
+1 percent PCE inflation--in around five years, the Committee could increase the funds rate by
+1 percentage point starting early next year in order to raise the unemployment rate
 temporarily above the NAIRU by a full percentage point.
 (10) Chart 4 presents a prolonged Asian shock scenario in which the difficulties in
 the economies of Asia unwind much more gradually than in the baseline, where they start to
@@ -188,6 +211,7 @@ Long-Run Ranges for 1998
 the table below presents staff projections for money and debt consistent with the Greenbook
 forecast, as well as three alternative sets of ranges for Committee consideration.
 Growth of Money and Debt and Alternative Ranges
+1997 1998 Alt. I Alt. II Alt. I
 (actual) (projected) (provisional)
 M2 5.1 3-1/2 1 to 5 1 to 5 1 to 5
 M3 8.3 6-3/4 2 to 6 3 to 7 2 to 6
@@ -378,6 +402,7 @@ Directive Language
 (26) Presented below for the members' consideration is draft wording relating
 to the Committee's ranges for the aggregates in 1998 and the operational paragraph for the
 intermeeting period.
+1998 RANGES
 The Federal Open Market Committee seeks monetary and financial conditions
 that will foster price stability and promote sustainable growth in output. In furtherance of
 these objectives, the Committee at THIS [DEL:its] meeting [DEL: in July reaffirmed the] ESTABLISHED
@@ -425,3 +450,42 @@ Quarterly Averages
 Growth Rate
 From To
 Jan-98 Jun-98
+97 Q4 Jan-98
+97 Q4 Jun-98
+95 Q4 96 Q4
+96 Q4 97 Q4
+8.4
+7.8
+10.7
+9.8
+6.8
+4.5
+4.6
+5.1
+6.8
+4.3
+4.6
+5.1
+6.9
+8.3
+1997 Annual Ranges: 1.0 to 5.0 2.0 to 6.0 3.0 to 7.0
+3.0 to 7.01.0 to 5.0 2.0 to 6.0
+8.4
+7.8
+10.7
+9.8
+10.2
+7.6
+8.4
+7.8
+10.7
+9.8
+10.2
+7.5
+6.9
+8.3
+10.2
+7.4
+5.1
+4.9
+1998 Provisional Ranges:

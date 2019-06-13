@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 12, 1980
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -32,6 +40,8 @@ monetary aggregates in December. M-1A growth for the year 1980, shown in the
 penultimate column of the table below, is likely to be just under the upper
 limit of its longer-run FOMC range, while growth rates for the other
 monetary aggregates will exceed the upper limits of their respective
+1/
+ranges.- Commercial bank credit posted another strong gain in November,
 Oct. to Dec.
 Growth Consistent Growth from
 Monetary with FOMC QIV '79 to Target Growt
@@ -39,6 +49,12 @@ Aggregates Oct. Nov. Short-run Target QIV '80 e/ for 1980
 Memo:
 Bank Credit 13.3 16.1
 e/ Estimated
+1/ In 1980 actual shifts into ATS accounts out of demand deposits and other
+assets were greater than anticipated in the point differential in the
+targets for M-1A and M-1B. With appropriate adjustment of the target
+ranges--raising the M-1B range and lowering the M-1A range--actual growth
+in M-1B would be only slightly above its range, as would M-1A.
+6 to 9
 as commercial and industrial loans continued to expand sharply, and bank
 credit growth for the year 1980 will be in the upper half of its longer-
 run range.
@@ -60,6 +76,7 @@ borrowing increased substantially further early in the intermeeting
 period, and the federal funds market continued to tighten. In the latest
 statement week, however, member bank borrowing declined to an average of
 $1.8 billion.
+1/ See Appendix I for the reserve targets and adjustments.
 Recent Growth in Reserve Aggregates
 (SAAR)
 Memo:
@@ -86,6 +103,11 @@ percent, respectively, above peaks reached in early spring. With bank
 credit demand strong, banks have pressed large CD offerings on the market.
 In addition, the Treasury raised more than $6 billion of new cash through
 short-term bills since the previous meeting. With business loan demands
+1/ At a telephone meeting on November 26, the Committee raised the upper
+end of the federal funds rate range adopted in November from 17 to 18
+percent. On December 5 and then again on December 12, the Committee
+agreed that open market operations would not be precisely constrained
+by the 18 percent limit.
 remaining quite strong and costs of loanable funds rising, banks raised
 their prime lending rates from 16 1/4 percent to 20 percent.
 (4) Bond yields have increased less than short rates, rising
@@ -110,11 +132,22 @@ Past
 Three Past
 Months Month
 QIII '80 Nov. '80 Nov. '80
+1/ 1/ over over over
+1978- 1979- QIV '79 Aug. '80 Oct. '80
 Concepts of Money
 Bank Credit
 Managed Liabilities of Banks
 (Monthly average change in
 billions)
+1/ QIV to QIV.
+2/ Other than interbank and U.S. Government.
+/ Includes loans sold to affiliates and branches.
+4/ Primarily federal funds purchases and securities sold under agreements to repurchase.
+NOTE: All items are based on averages of daily figures except for data on total loans and
+investments of commercial banks, commercial paper, and thrift institutions--which are derived
+from either end-of-month or Wednesday statement date figures. Growth rates for reserve
+measures in this and subsequent tables are adjusted to remove the effect of discontinuities
+from breaks in the series when reserve requirements are changed.
 Alternative longer-run monetary strategies
 (7) To aid the Committee in its preliminary assessment of monetary
 targets for next year, to be announced in February, the table on the following
@@ -125,6 +158,7 @@ and is the monetary premise for the greenbook GNP projection. It involves
 a reduction next year of ½ percentage point in target growth of M-1A and
 M-1B, abstracting from the distorting effects on these aggregates of shifts
 into NOW and related accounts. It further assumes similar reductions in
+1982 and 1983. Strategy II assumes continuation through 1981 and for two
 years thereafter of the FOMC's 1980 target for M-1A--that is, growth at
 the 4¾ percent midpoint of this year's range. The figures for strategies
 III and IV show impacts if instead growth over the next three years is
@@ -142,6 +176,7 @@ rate and to move it below its current level in 1983. However, there would
 be less progress in reducing inflation. Finally, strategy IV--which entails
 Economic Implications of Alternative
 Long-run Policy Strategies
+1980 1981
 Nominal GNP (percent change, Q4/Q4)
 Strategy I
 Strategy II
@@ -166,6 +201,14 @@ Strategy IV
 -. 8
 -.5
 .2
+8.4
+9.6
+11.4
+7.8
+7.8
+9.9
+12.3
+7.7
 a prompt, sizable reduction in money growth--would have the largest effect
 in reducing inflation over the projection period, but at the highest short-
 run cost in terms of real growth and unemployment.
@@ -191,6 +234,8 @@ of nationwide NOW accounts at the beginning of next year.1/ If such a down-
 ward shift does not occur, the proposed targets would be even more restraining
 in their impact on nominal GNP growth. For example, if the downward shift
 were not to occur, or to be significantly less than expected, then adoption
+1/ A brief discussion of money demand shifts implied by a few money
+demand equations is contained in appendix II.
 of the targets for 1981 involved in strategy I probably would yield an
 economic outcome for that year more restrictive than implied by strategy IV.
 (11) It should also be pointed out that the M-1 growth rates
@@ -263,30 +308,149 @@ given the likely reduction in demand for cash balances from the sharp
 increase in interest rates that has occurred over the past few months and
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 Alt. A Alt. B Alt. C
+1980--November
+December
+1981--January
+February
 Growth Rates Monthly
 December '80 -
 March '81
 Quarterly Average
+1979 QIV to
+1980 QIV
+389.0
+389.8
+391.4
+393.4
+4.9
+(-1.2)
+6.1
+( 0 )
+5.5
+(-0.2)
+5
+(1.0)
+389.0
+389.8
+391.1
+392.5
+4.0
+(-2.1)
+4.3
+(-1.9)
+4.2
+(-1.4)
+4
+(1/4)
+389.0
+389.8
+390.7
+391.2
 (-3.4)
 1.5
 (-4.6)
 2.0
+2-3/4
+(-1)
 Alt. A
+414.0
+415.7
+417.6
+419.8
+5.5
+(8.4)
+6.3
+(9.2)
+6.0
+6
+(8)
 Alt. B
+414.0
+415.7
+417.3
+418.9
 Alt. C
+414.0
+415.7
+416.9
+417.6
+4.6
+(7.5)
+4.6
+(7.5)
+4.7
+5-1/4
+(7-/4)
+3.5
+(6.4)
+2.0
 (4.9)
 2.6
+4
+(6)
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 Alt. A Alt. B Alt. C
 Alt. A Alt. B Alt. C
+1980--November
+December
+1981--January
+February
 Growth Rates
 Monthly
+1981--January
+February
 December '80 -
 March '8 1
 Quarterly Average
+1980--QIV
+19 8 1--QI
+1979 QIV to
+1980 QIV
 credit for the year and for the quarters
 8; 1980 QIV, 15; 1981 QI, 11. Only minor
 under alternatives A and C.
+1668.8
+1675.7
+1688.0
+1701.7
+1943.6
+1958.2
+1974.1
+1988.3
+1668.8
+1675.7
+1689.1
+1705.0
+5.0
+9.6
+11.3
+1668.8
+1675.7
+1688.7
+1703.7
+5.0
+9.3
+10.7
+1943.6
+1958.2
+1973.8
+1987.5
+9.0
+9.6
+8.3
+5.0
+8.8
+9.7
+1943.6
+1958.2
+1973.3
+1986.0
+9.0
+9.3
+7.7
+9.0
+9.7
+8.6
 from the substantial weakening of economic activity projected, growth of
 the narrow aggregates at the rates indicated for any of the alternatives
 probably would be accompanied by a decline in interest rates from their
@@ -296,6 +460,7 @@ over the whole of 1981, and thus interest rates may well stay at high
 levels on average next year.1/
 (15) Alternative B has been designed to place M-1A and M-1B
 in March near the midpoints of the FOMC's tentative long-range targets for
+1981 adopted last July. Thus, under this alternative the rate of growth
 over the first three months of next year would be 4¼ percent annual rate,
 assuming M-1A grows at the 2½ percent annual rate for December. Substantially
 lower growth rates are included in alternative C. This alternative would tend
@@ -312,6 +477,8 @@ negative after the turn of the year, on the assumption that the NOW account
 effect reduces M-1A growth by about 5½ percentage points over the first
 three months of the year. Measured M-1B growth may be around 7½ percent in
 the early months of next year on the assumption that shifts out of assets
+1/ Appendix IV displays quarterly interest rates in 1981 associated with
+alternative B.
 not contained in M-1B raise growth of that aggregate by about 2 percentage
 points. To achieve the monetary expansion indicated by alternative B,
 total reserves would have to increase at about a 1¾ percent annual rate
@@ -389,6 +556,7 @@ adopted at the November meeting are shown in strike-through form.
 In the short run, the Committee seeks behavior of reserve
 aggregates consistent with growth of M-1A, M-1B, and M-2 over the
 FOUR-MONTH period [DEL: from September to December] ENDING IN MARCH
+1981 at annual rates of about [DEL: 2½] ____ percent, [DEL: 5] ____ percent, and
 [DEL: 7¾] ____ percent respectively, [DEL: or somewhat less,] provided that in
 the period before the next regular meeting the weekly average
 federal funds rate remains within a range of [DEL: 13 to 18] ____ TO

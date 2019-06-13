@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 15, 1978
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
@@ -65,6 +73,8 @@ against the German mark and Swiss franc have more than offset a small
 rise against the Japanese yen.
 (4) Despite further increases in the Federal funds rate,
 private short-term interest rates have changed little, on balance,
+1/ Operations on behalf of Treasury and System accounts resulted in
+net purchases of about $2 billion
 from peak levels reached in the week preceding the November FOMC
 meeting. However, CD rates, as indicated by the highest offering
 quotes, are currently below their mid-November peaks, when banks
@@ -106,12 +116,25 @@ thrift institutions. In the face of this continued strong demand,
 and with deposit flows slowing, the average rates on new commitments
 for conventional mortgages at S&L's have risen 15 basis points to 10.35
 per cent since the FOMC meeting.
+1/ The Treasury did raise around $550 million of new money from
+foreign official accounts through sale of nonmarketable issues
+and add-ons to regular auctions. The Treasury also sold $1.6
+billion equivalent of M1-denominated securities on December 12.
+The proceeds of this issue are being warehoused with the Federal
+Reserve with the Treasury's dollar proceeds being added to its
+general balance. As the Treasury balance at the Federal Reserve
+is reduced, the Desk will, all other things equal, sell Treasury
+securities to the public to neutralize the reserve impacts--in
+effect substituting Federal Reserve sales of securities for
+Treasury issuance of securities in U.S. markets.
 (8) The table on the next page shows percentage annual
 rates of change in related monetary and financial flows over various
 time periods.
 Past Past Past
 Twelve Six Three Past
 Months Months Months Months
+1976 & Nov. '78 Nov. '78 Nov. '78 Nov. '78
+1977 over over over over
 Average Nov. '77 May '78 Aug. '78 Oct. '78
 Concepts of Money
 Bank Credit
@@ -120,6 +143,14 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift institu-
+tions--which are derived from either end-of-month or Wednesday statement date
+figures. Growth rates for reserve measures in this and subsequent tables are
+adjusted to remove the effect of discontinuities from breaks in the series when
+reserve requirements are changed.
 Prospective developments
 (9) Shown below for Committee consideration are two alternative
 specifications for the monetary aggregates and the Federal funds rate for
@@ -140,15 +171,41 @@ cent range. The staff projects that M-1 will increase only some-
 what in December, on a daily average basis, but the evident growth of
 income and expenditures suggests that a substantial increase in M-1 is
 likely in January. Consequently, growth in this aggregate over the
+1/ Ranges for the forthcoming short-run policy period expressed
+in the form recommended by the subcommittee on the directive in
+its report distributed to the FOMC are shown in appendix IV for
+comparison purposes.
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1 1/ M-1+ M-2
 Alt. A Alt. B Alt. A Alt. B Alt. A Alt. B
+1978 November 360.6 360.6 585.3 585.3 870.5 870.5
+December 361.2 361.1 584.9 584.6 874.6 874.3
+1979 January 363.5 363.2 588.4 587.8 881.8 881.1
+1978 QIII 357.3 357.3 582.6 582.6 854.0 854.0
+QIV 361.3 361.2 586.3 586.2 870.8 870.7
+1979 QI 364.3 363.9 591.5 590.7 887.2 886.3
+QII 366.4 366.0 600.8 599.9 903.1 902.0
+QIII 368.7 368.7 610.4 610.2 919.0 918.5
 Growth Rates
 Monthly:
 Quarterly Average:
+1/ The staff has assumed that over the longer-run policy period from QIII '78 to QIII '79
+M-l growth will be reduced 3 percentage points by ATS. In projecting GNP, monetary
+aggregates, and interest rates the staff has carried forward the assumption in most
+recent Bluebooks that M-l, in the absence of ATS, would increase at a 6k per cent annual
+rate over the longer-run. Thus, the observed growth of M-l is expected to be 3k per cent
+over the QIII '78 to QIII '79 period.
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M-3 Bank Credit
 Alt. A Alt. B Alt. A Alt. B
+1978 November 1492.8 1492.8 971.6 971.6
+December 1501.9 1501.5 977.3 977.3
+1979 January 1514.5 1513.5 985.4 984.8
+1978 QIII 1456.1 1456.1 944.9 944.9
+QIV 1493.0 1492.9 969.8 969.6
+1979 QI 1525.2 1523.9 993.6 992.4
+QII 1556.6 1554.8 1016.0 1014.2
+QIII 1587.7 1586.8 1038.9 1037.5
 Growth Rates
 Monthly:
 Quarterly Average:
@@ -175,6 +232,7 @@ be some continued downward drift in money demand.
 expand in a 1 to 5 per cent range over December-January, noticeably
 less than M-1, as weakness in non-ATS savings continues to limit
 growth in this aggregate. While the staff is projecting that regular
+1/ With the exception of the second quarter of 1978--when nominal GNP
 accelerated to over a 20 per cent annual rate as the economy
 rebounded from the adverse weather and coal strike during last
 winter--the implied V-1 for the current quarter will increase at
@@ -184,10 +242,12 @@ passbook accounts at commercial banks will begin to rise in December,
 following their unusually large recent contraction, the average level
 of such accounts is expected to grow only modestly, if at all, over the
 (13) Under alternative A, M-2 is projected to expand in a
+6 to 10 per cent annual rate range in December-January, a somewhat
 more rapid pace than in recent weeks. This acceleration reflects
 mainly the expected strengthening of M-1 and the anticipated end of
 the recent decline in outstanding savings deposits. Growth in the
 interest-bearing component of M-2 is expected to be at about a 9 to
+10 per cent annual rate, with growth almost wholly attributable to
 expansion in large time deposits that are not subject to interest
 rate ceilings.
 (14) Projected credit demands suggest that banks will be
@@ -220,6 +280,9 @@ prospect for the weeks immediately ahead. The relative movement of
 Treasury bill rates will, of course, be influenced by the level of
 foreign exchange market intervention and the portfolio policies of
 foreign official institutions.
+1/ The FHLBB has indicated that advances will not be liberally available
+to institutions that do not make reasonable efforts to roll over
+maturing 6-month certificates.
 (17) Yields on longer-term bonds are likely to remain
 basically stable into the early weeks of January, barring unexpected
 strength in the monetary aggregates or in current economic indicators.
@@ -237,10 +300,14 @@ may continue to edge higher.
 rise by mid-January to the midpoint of a 9¾ to 10½ per cent range.
 M-1 growth would likely be in a 2 to 7 per cent annual rate range over
 December-January, and M-1+ and M-2, respectively, in a ½ to 4½ and
+5½ to 9½ per cent range. The resulting increase in short-term market
 rates of interest would further slow the growth of deposits subject
 to fixed rate ceilings, induce more aggressive offerings of MMC's
 and large denomination time deposits, and a tightening of bank lending
 terms--with the prime loan rate moving up to 11¾ or 12 per cent.
+1/ The Treasury is also expected to issue Swiss franc denominated
+notes, amounting to about $1.2 billion equivalent, in the first
+part of January.
 Long-term yields would also probably move up, but the light financing
 calendar and further evidence of the System's determination to con-
 strain monetary growth would tend to limit such movement.
@@ -262,6 +329,12 @@ growth in the aggregates over the QIII '78 to QIII '79 period.
 However, if the expected downward drift in money demand does not occur,
 higher interest rates than indicated by either Federal funds path would
 be required to achieve the desired growth in the aggregates.
+1/ This assumes, as did previous Bluebooks, that, in the absence of
+ATS, the Committee would desire M-1 growth of 6¼ per cent over the
+QIII '78 to QIII '79 policy period. The staff has assumed ATS
+will reduce M-1 by 3 percentage points over this period and that
+therefore observed M-1 growth is expected to be 3¼ per cent over
+this QIII '78 to QIII '79 policy period.
 Directive language
 (20) Given below are suggested operational paragraphs
 for the directive. The language added last month "giving due

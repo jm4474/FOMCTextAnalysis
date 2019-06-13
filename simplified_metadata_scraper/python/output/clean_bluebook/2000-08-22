@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
@@ -30,10 +38,21 @@ by about 25 basis points (chart 1). Futures markets have priced in virtually no 
 tightening at the August meeting and little change in the federal funds rate over the next
 (2) The downward revision over the intermeeting period in investors' expectations
 for the path of the target funds rate contributed to a modest easing in domestic financial
+1 The federal funds rate averaged close to 6-1/2 percent over the intermeeting period. On
+July 5, the Desk announced new guidelines for its management of the System portfolio. The
+new procedures cap SOMA participation at each Treasury auction at a maximum percentage
+of the total amount issued, with the percentages declining as the maturity of securities being
+auctioned increases. The same schedule of percentage caps was established to guide SOMA
+secondary market purchases of securities. As a result of the auction caps, the Desk
+redeemed $10.4 billion of bills and $367 million of coupons over the intermeeting period.
+The Desk's outright purchases included $1.9 billion of bills, of which $93 million were
+bought directly from foreign accounts, and $9.8 billion of coupons, with the coupon
+purchases tilted toward shorter maturities, consistent with the new guidelines.
 Chart 1
 Financial Market Indicators
 Expected Federal Funds Rates Estimated from Selected Treasury Yields
 Financial Futures* Percent
+7 I
 I I I I I I I I I I I I I I I I I
 Aug Oct Dec Feb Apr Jun Aug Oct Dec Feb
 2000 2001
@@ -112,13 +131,24 @@ Annual
 Growth Rate Ratio Scale
 Ratio Scale
 Percentage Points
+1999 2000 A M J J A
+Q1
 p - Projected based on partial data.
+2.1 -
+2.0 M2 Velocity
+(left scale)
+1.9 -
 M2 Opportunity Cost*
 1.8 - (right scale)
+1.7 - . .
 * Two-quarter moving average.
 Debt of Domestic Nonfinancial Sectors
 Annual Nonfederal
 Growth Rate
+1999 2000
+01
+2000 A M J
+01
 Total Annual
 Growth Rate
 A M J
@@ -130,6 +160,7 @@ acquisitions. Partial data for July and early August from banks and securities m
 the pace of household and business borrowing may have moderated somewhat more
 recently, in part reflecting a reduced amount of equity retirements.
 (5) The growth of M2 has slowed on average in recent months. M2 expanded at a
+3-1/4 percent rate in June and July; partial data for August suggest some pickup in growth
 this month, but only to about a 5 percent pace. The stepdown in monetary expansion most
 likely reflects the widening opportunity costs of holding assets in M2 stemming from recent
 policy tightenings and perhaps also the slowdown in consumption growth. On average over
@@ -227,6 +258,7 @@ and stock prices would adjust downward. Conversely, a switch to a sentence conve
 balanced set of risks would foster a much greater sense of certainty in markets that the peak
 in short-term rates had been reached. In this case, the immediate price response in financial
 markets would be tempered, apart from an upward adjustment of short-term rates of around
+1/4 percentage point.
 (11) With no change in the funds rate over the rest of the year in the staff forecast,
 the growth of the debt of domestic nonfinancial sectors is projected to slow to a 4-1/2
 percent annual rate over the June-to-December period after its 5-1/2 percent pace over the
@@ -279,10 +311,43 @@ From To
 1999 Q4 Jul-2000
 Dec-1999 Jul-2000
 Jul-2000 Dec-2000
+1998 Q4 1999 Q4
+1999 Q4 2000 Q4
 *This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+5.0
+4.8
+6.1
+5.1
+10.1
+10.5
+7.8
+7.5
+6.1
+10.1
+10.5
+7.8
+7.5
+6.4
+10.1
+10.5
+7.8
+7.5
+6.4
+7.7
+6.6
+7.5
+8.3
+5.0
+4.8
+6.1
+5.1
 SELECTED INTEREST RATES
 (percent)
 August 21, 2000
+99 -- High
+-- Low
+00 -- High
+-- Low
 Monthly
 Aug 99
 Sep 99
@@ -324,6 +389,7 @@ Aug 18 00
 Short-term Long-term
 CDs Conventional home
 Federal Treasury bills secondary Comm. U.S. government constant Indexed yields Moody's Municipal mortgagesFederal secondary market market paper maturity yields Bond primary market
+3-month 6-month 1-year 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year BuyerFixed-rate ARM
 p - preliminary data MFMA:JWR
 Strictly Confidential (FR)
 Money and Debt Aggregates 
@@ -334,8 +400,17 @@ nontransactionscomponents
 U. S.Period M1 M2 M3 other' total'In M2 In M3 only government'
 Levels (Sbillions):
 Monthly
+2000-Mar. 1112.3 4728.3 3615.9 1883.9 6612.2 3618.8 14020.6 17639.4
+Apr. 1116.7 4769.2 3652.5 1889.8 6659.0 3602.3 14118.3 17720.6
+May 1105.7 4766.0 3660.4 1912.9 6679.0 3546.5 14230.5 17777.0
+June 1103.0 4778.8 3675.8 1937.3 6716.1 3520.0 14332.5 17852.5
+July p 1103.8 4791.9 3688.0 1975.0 6766.9
 Weekly
 2000-July 3 1124.6 4788.7 3664.1 1954.4 6743.1
+10 1099.5 4786.7 3687.2 1954.7 6741.5
+17 1096.7 4792.3 3695.6 1982.9 6775.2
+24 1103.9 4796.3 3692.4 1982.2 6778.5
+31p 1107.5 4795.2 3687.7 1990.3 6785.4
 Aug. 7p 1088.6 4810.5 3721.8 1995.9 6806.4
 p preliminary
 pe preliminary estimate
@@ -348,10 +423,15 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs ~
 Agency total
 Net Redemptions Net Net Purchases 3 Redemptions Net Redemptions outright Short- Long- Net
 _Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term Change
+1999 QII
+2000 Q
+1999 Dec
+2000 Jan
 Feb
 Mar
 Jun
 Jul
+2000 May 24
 May 31
 Jun 7
 Jun 14
@@ -364,20 +444,95 @@ Jul 26
 Aug 2
 Aug 9
 Aug 16
+2000 Aug 17
 Aug 18
 Intermeeting Period
 Jun 27-Aug 18
 Memo LEVEL (bll $)
 Auo 18
+198 -198
+7,263 -4,969
+1,515
+-2,297
+3,978 8,751
+2,341 1,272
+2,414 4,528
 --- 900
 2,039 3,319
+1,450 3,514
 --- 160
 --- 740
 --- 1,723
 164 890
+1,875 706
+1,284 2,259
+3,449 5,897
+2,294 4,884
+4,303 9,428
+1,298
+930
+1,075
+2,182
+2,683 5,472 1,253 1,138
 R7 R 131
+1 Change from end-of-penod to end-of-penod
+2 Outnght purchases less outright sales (in market and with foreign accounts)
+3 Outright purchases less outright sales (in market and with foreign accounts) Includes short-term notes
 acquired in exchange for maturing bills Excludes maturity shifts and rollovers of maturing issues
+1,996 32,979
+2,676 23,699
+1,429 43,928
+3,207
+7,398
 - 6,802
+367 10,179
 o A n c:617 I vI
+1,642
+-25
+3,590
+-715
+-2,079
+738
+2,021
+-408
 --- 2,393
+463 -6,779
+8,347 10,382
+-23 -2,103 -2 126
+-34 1,487 1,453
+553 29,921 30 474
+-1,886 -8,174 -10060
+-445 -9,709 -10,154
+-3,827
+-250
+-5,851
+7,884
+-5,996
+-812
+26,082 29 083
+-12,915 -18,970
+-29,095 -24,490
+3,250 -385
+46 -443
+4,445 -1,262
+1,886 -3,964
+2,557 10,442
+1,366 -4,629
+-105 917
+101 -136
+14 1,104
+2,009 7,109
+22 -5,523
+-2017 1,151
+-2,034 -2,681
+15 -1 637
+-20 3,953
+-4,879 -3,975 -8,854
+-169 100 -69
+4 Includes redemptions (-) of Treasury and agency securities
+5 RPs outstanding less matched sale-purchases
+6 Original matunty of 15 days or less
+7 Original matunty of 16 to 90 days
+4,188
+4,902
 om ~i

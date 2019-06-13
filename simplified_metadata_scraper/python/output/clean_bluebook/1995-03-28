@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -23,7 +31,9 @@ ther on February 1 to contain inflation pressures amid indications
 that the economy was continuing to advance at a substantial pace,
 boosting rates of resource utilization from already high levels. The
 Board approved a 1/2 percentage point hike in the discount rate, to
+5-1/4 percent, and the FOMC allowed that increase to show through
 fully to reserve markets, raising the intended federal funds rate to
+6 percent. Federal funds generally traded a little below the intended
 level during the intermeeting period.2 Unusually low demands for
 excess reserves appear to have contributed to softness in the federal
 funds rate at times during the intermeeting period.
@@ -82,8 +92,12 @@ its swap line with the ESF. At this time, Mexico has outstanding
 drawings of $4 billion on the ESF and $1 billion on the Federal
 (4) Following a burst of growth in January, M2 has been
 nearly flat on net over the past two months, falling short of the
+1-1/4 percent growth projected by the staff in the previous bluebook
 and leaving this aggregate a little above the lower bound of its 1-to-
+5 percent annual range. The weakness in M2, particularly in money
 market funds, was mirrored by strengthening demands for investments
+4
+outside of the monetary aggregates. Investors have resumed net
 purchases of shares in bond funds after a year of redemptions, and
 purchases of stock funds have been brisk.5 Also, noncompetitive
 tenders for Treasury securities have been heavy in recent months.
@@ -126,6 +140,8 @@ Domestic nonfinancial
 debt 7.4 -- 6.5 5.9
 Federal 10.7 -- 6.6 5.6
 Nonfederal 6.1 -- 6.4 6.0
+2
+Reserve measures
 Memo: (Millions of dollars)
 Adjustment plus seasonal
 borrowing 59 67
@@ -235,6 +251,8 @@ slow to a 3 percent pace. The projected strengthening in M2
 growth, despite the staff's forecast of weaker nominal GDP expansion,
 reflects both a continued rise in the offering rates on deposits and
 the reduced attractiveness of financial assets of longer maturities
+8
+owing to the lower bond yields. Diminishing M3 growth mirrors the
 (Footnote continues on next page)
 anticipated moderation in bank funding needs following the outsized
 burst in lending activity over the first quarter of the year. The
@@ -277,6 +295,7 @@ Jun-95 3655.1 3649.2 3643.3 4393.6 4389.9 4386.2 1150.2 1147.5 1144.8
 Jul-95 3665.4 3657.4 3649.4 4405.8 4400.8 4395.9 1152.4 1148.2 1144.0
 Aug-95 3675.1 3665.6 3656.1 4417.6 4411.8 4406.0 1154.6 1149.1 1143.6
 Sep-95 3684.7 3673.9 3663.1 4429.6 4422.9 4416.2 1156.7 1150.0 1143.3
+1.0 to 5.0 0.0 to 4.01994 Target Ranges:
 the growth of the broader aggregates be expected to breach the upper
 or lower bands of their annual ranges, although M3 is virtually at the
 upper end of its range under alternative A.
@@ -320,6 +339,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+94 -- High
+-- Low
+95 -- High
+-- Low
 Monthly
 Mar 94
 Apr 94
@@ -354,6 +377,9 @@ Daily
 Mar 17 95
 Mar 22 95
 Mar 23 95
+9.00
+9.00
+9.00
 Strictly Confidential (FR)-
 Class II FOMC
 Money and Credit Aggregate Measures
@@ -365,8 +391,16 @@ Period M1 M2 M3 L and U. S. other' total2
 In M2 In M3 only investments' government'
 Levels (Sbillions):
 Monthly
+1994-OCT. 1148.1 3606.1 2458.0 676.3 4282.4 5233.6 3290.7 3469.6 9386.9 12856.5
+NOV. 1147.5 3607.8 2460.3 681.5 4289.3 5249.5 3300.8 3494.1 9425.1 12919.2
+DEC. 1147.8 3611.9 2464.0 689.2 4301.1 5291.5 3320.3 3497.4 9467.6 12965.0
+1995-JAN. 1148.8 3625.0 2476.2 701.4 4326.4 5311.3 3351.7 3504.7 9520.5 13025.1
+FEB. p 1147.1 3621.5 2474.4 714.9 4336.4 3363.5
 Weekly
 1995-FEB. 6 1150.4 3626.8 2476.5 705.5 4332.4
+13 1146.8 3621.5 2474.8 710.4 4331.9
+20 1145.5 3618.6 2473.1 713.9 4332.5
+27 1146.2 3620.4 2474.2 726.7 4347.1
 MAR. 6 p 1147.2 3617.3 2470.1 727.8 4345.2
 13 p 1147.0 3625.3 2478.3 726.9 4352.2
 p preliminary
@@ -382,6 +416,9 @@ Other RPs and denomi- general denomi- Term Term Short-term Ban
 Period Currency Demand checkable Euro- Savings nation purpose nstitutions nation Ps Euro- avings Commercial Banker
 deposits deposits dollars deposits' time and time NSA' dollars bonds Treasury r ces
 NSA' deposits
+3  
+broker/ on deposits NSA securities ce
+dealer'
 Annual (Q4)
 1992
 1993
@@ -397,27 +434,381 @@ SEP.
 OCT.
 NOV.
 DEC.
+1995-JAN.
+FEB. p
+290.1
+319.8
+352.5
+328.9
+332.0
+334.5
+337.3
+340.0
+342.8
+345.1
+347.2
+350.0
+353.0
+354.5
+357.7
+358.8
+336.5
+381.2
+382.9
+388.6
+388.6
+388.1
+385.6
+386.3
+388.0
+386.6
+386.5
+384.4
+382.3
+382.0
+383.5
+384.1
+380.0
+412.6
+404.0
+411.6
+412.5
+412.0
+412.4
+412.5
+413.1
+410.8
+408.9
+405.4
+403.8
+402.9
+399.2
+395.7
+83.0
+95.1
+94.9
+100.0
+98.9
+102.5
+106.8
+109.3
+110.8
+111.7
+113.6
+112.7
+116.3
+124.5
+119.3
+1177.5
+1211.7
+1157.5
+1221.9
+1222.0
+1220.0
+1214.8
+1206.8
+1201.2
+1192.6
+1183.7
+1171.0
+1157.6
+1143.9
+1129.5
+1111.8
+882.2
+790.4
+806.5
+775.0
+772.0
+770.1
+770.8
+772.9
+775.4
+780.7
+786.5
+796.0
+806.8
+816.6
+832.0
+852.0
+359.2
+357.8
+384.5
+359.5
+361.9
+370.5
+373.5
+370.7
+375.8
+376.2
+376.6
+379.7
+384.2
+389.7
+392.6
+392.2
+205.8
+196.9
+180.7
+182.1
+183.8
+183.1
+177.5
+177.9
+178.7
+177.4
+176.3
+180.8
+180.5
+180.8
+186.3
+180.4
+358.4
+334.2
+357.7
+331.8
+330.3
+329.8
+332.4
+335.0
+338.2
+341.5
+347.3
+353.0
+357.7
+362.3
+363.2
+373.0
+81.8
+96.9
+92.3
+95.5
+99.0
+98.0
+102.5
+103.1
+101.3
+102.2
+102.3
+103.4
+105.4
+109.3
+112.5
+46.7
+46.5
+54.0
+47.9
+46.2
+46.5
+47.7
+50.3
+51.0
+51.2
+52.1
+53.0
+55.3
+53.7
+55.0
+57.8
+154.5
+170.8
+179.9
+173.2
+173.9
+174.8
+175.7
+176.7
+177.7
+178.5
+179.1
+179.5
+179.9
+180.3
 Net of money market mutual fund holdings of these items.
 Includes money market deposit accounts.
 Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small time deposits.
 Excludes IRA and Keogh accounts.
 Net of large denomination time deposits held by money market mutual funds, depository institutions, U.S. government, and foreign banks and official institutions.
+331.0
+330.2
+364.8
+341.7
+344.9
+354.7
+357.3
+348.8
+353.4
+357.7
+350.4
+355.7
+365.2
+373.6
+365.5
+383.8
+411.6
+401.2
+390.8
+387.1
+392.6
+392.7
+392.8
+387.7
+391.7
+404.2
+404.0
+426.5
+20.6
+15.5
+10.9
+14.9
+15.5
+14.0
+11.6
+10.8
+10.9
+11.4
+11.9
+11.7
+10.9
+10.1
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
+1992
+1993
+1994
+1993 ---Q1
+---02
+---Q3
+---04
+1994 ---Q1
+---Q2
+--- 03
+---04
+1994 March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+1995 January
+February
 Weekly
 December 21
+28
+January 4
+11
+18
+25
 Memo: LEVEL (bil. $) 6
 March 22
+13,086 1,600 11,486
+17,717 --- 17,717
+17,484 --- 17,484
+7,749
+1,268
+8,700
+2,164
+6,639
+1,610
+7,071
+900
+1,101
+1,395
+4,143
+518
+6,109
+7,749
+1,268
+8,700
+2,164
+6,639
+1,610
+7,071
+900
+1,101
+1,395
+4,143
+518
+6,109
 Treasury couons
+1,096 13,118
+1,223 10,350
+1,238 9,168
+1,441
+2,490
+3,700
+2,719
+1,413
+2,817
+2,530
+2,408
+2,818 2,333
+4,168 3,457
+3,818 3,606
+716
+1,147
+1,297
+1,008
+1,103
+1,117
+938
+660
 -- -- - ---
 -- 302
 --- --- --- --- ---
 --- 200 ...
+125 2,208 660 1,252 ---
+214.8 27.0 35.5
+19,365
+18,431
+15,493
+3,141
+4,990
+6,028
+4,273
+2,665
+4,754
+4,157
+3,916
+3,281
+4,599
+4,459
+-529
+200
+364.0
+364.0
 wtlnin
 1 year 1-5 5-10 over 10 total
 March 24, 1995
+35,374
+31,975
+2,851
+12,648
+7,067
+4,418
+11,086
+5,654
+10,818
+-13,215
+5,974
+-461
+10,624
+-8,644
+4,455
+-11,663
+4,179
+-8,530
+8,602
+1
+4
+6
+4
 ,073 40
 ,520 -5,332
 ,480 5,441
@@ -428,4 +819,21 @@ March 24, 1995
 -72 819
 .239 4,718
 ,652 3,066
+-712 -14,471
+-55 -686
+3,624
+1,419
+3,084
+-6,919
+3,849
+-10,071
+-2,855
+-4,452
+5,932
+-1,122
+-620
+-2,663
+10,858
+-5,732
+375.4 -14.1
 March 22

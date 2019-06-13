@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 NOVEMBER 13, 1998
 MONETARY POLICY ALTERNATIVES
@@ -75,9 +83,18 @@ operations as a guide.1 Often, the funds rate fell late in the day when banks at
 unneeded balances as reserve positions became clearer. In the event, the effective federal funds
 rate averaged very close to the intended level, but there were several instances of atypically large
 and persistent daily deviations from that level.
+1 To meet projected permanent needs to add reserves, the Desk arranged $4.6 billion of
+outright purchases of Treasury coupons in several tranches. In light of the illiquidity in the
+Treasury market, the Desk gave dealers extra time to afford them more opportunity to line up
+clients willing to sell Treasury securities. The Desk also split its outright operations into eight,
+rather than the usual four, tranches to reduce the number of issues in each purchase so as to keep
+processing time between submission and acceptance of offers to a minimum. In addition, for the
+first time, the Desk announced the specific securities it was not willing to purchase because the
+SOMA already had sufficient holdings relative to the total outstanding supply.
 (4) The dollar declined around 1 percent on balance against the major currencies
 during the intermeeting period, paced by a net depreciation of 8-1/2 percent against the yen. On
 October 7 and 8, the dollar-yen rate dropped by as much as 15 percent to an intraday trough of
+111.58 amid especially volatile and illiquid trading conditions. Market sources attributed much
 of the downward pressure to the efforts of hedge funds and other investors to reduce leverage and
 exchange-rate exposure embodied in speculative positions involving the funding of non-yen
 assets with low-interest yen borrowing (the so-called yen-carry trade). Over the most recent two
@@ -129,6 +146,8 @@ adjusted basis, has run off a little more rapidly in recent months, but, on net,
 nonfinancial debt growth appears to have slowed only a bit.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1997:Q4
+to
 Aug. Sept. Oct. Oct.2
 Money and Credit Aggregates
 M1
@@ -136,11 +155,28 @@ Adjusted for sweeps
 Domestic nonfinancial debt
 Federal
 Nonfederal
+-3.1
+2.5
+17.3
+17.0
 Bank Credit
 Adjusted1
+3.6
+7.6
+5.6
+-3.3
+15.9
+10.4
 n.a.
 n.a.
 n.a.
+27.0
+18.9
+6.2
+-1.1
+8.6
+11.5
+9.9
 Reserve Measures
 Nonborrowed Reserves
 Total Reserves
@@ -151,6 +187,14 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess Reserves
+4.9
+12.1
+-11.0
+2.2
+11.5
+12.1
+-4.5
+5.9
 Policy Alternatives
 (7) Although the staff forecast now foresees a somewhat less pronounced slowdown
 in output than in the September Greenbook, aggregate demand growth still is projected to
@@ -192,6 +236,9 @@ about even odds of such an action at this meeting. Consequently, rates on short-
 market instruments, such as commercial paper, likely would move a little lower following
 implementation of alternative A. With the easing perhaps fostering additional attenuation of
 concerns about private credit risks, the unusual recent safe-harbor demands for Treasuries would
+2 Alternative A could be implemented either through a 1/4 percentage point reduction in
+the discount rate to 4-1/2 percent, or through a slightly more generous provision of nonborrowed
+reserves, with no discount rate change, that eliminates the spread between the two rates.
 abate further, and Treasury bill yields probably would fall less than those on private instruments.
 Similarly, in longer-term markets, private rates also likely would decline, as would those on
 older, less-liquid Treasury notes and bonds, while yields for on-the-run Treasuries might be little
@@ -255,6 +302,9 @@ demands for liquid assets abate and households redeploy liquid assets previously
 money market mutual funds awaiting longer-term investment opportunities. M2 growth,
 however, is expected to exceed that of nominal GDP. M3 is forecast to outpace M2 as banks
 seek funding through instruments included in the broader aggregate to finance bank credit
+3 The projections of money growth under alternative B assume, consistent with the
+Greenbook forecast, that the stance of policy is left unchanged at the November meeting and
+eased 25 basis points at the December meeting.
 expansion and as institution-only money market funds remain attractive investments for
 corporate cash managers. Under alternative B, M2 and M3 are projected to expand over the
 October-to-March period at annual rates of 8 and 9-1/2 percent, respectively, leaving both
@@ -272,13 +322,90 @@ Jan-99
 Feb-99
 Mar-99
 Quarterly Averages
+1998 Q1
+1998 Q2
+1998 Q3
+1998 Q4
+1999 Q1
 Growth Rate
 From To
 Oct-98 Dec-98
 Oct-98 Mar-99
+1997
+1997
+1998
+1995
+1996
+1997
 Oct-98
 Dec-98
 Mar-99
+1996 Q4
+1997 Q4
+1998 Q4
+1998 Annual Ranges: 1.0 to 5.0 2.0 to 6.0
+4.9
+8.5
+4.9
+8.5
+8.0
+7.5
+6.7
+12.2
+8.2
+8.0
+7.5
+6.7
+12.1
+7.9
+11.0
+10.3
+7.1
+13.1
+9.4
+11.3
+8.2
+8.6
+9.1
+7.4
+4.6
+5.7
+8.9
+11.0
+10.3
+7.1
+13.0
+9.3
+11.3
+9.4
+10.6
+10.9
+8.8
+6.8
+8.8
+10.9
+8.0
+8.6
+9.1
+7.2
+4.6
+5.7
+8.9
+5.6
+5.1
+6.1
+6.1
+4.9
+5.3
+5.0
+6.1
+11.5
+9.5
+10.6
+10.9
+8.9
+6.8
+8.8
 Directive Language
 (14) Shown below are the two versions of the operational paragraph that were
 circulated in Mr. Lindsey's memo on November 5, 1998, and a third option proposed by
@@ -328,6 +455,10 @@ Short-Term Long-Term
 Treasury bills Cos corporate conventional home
 deral seC comm. U.S. government constant Indexed yields A-u municipal mortgagesfederal secondary market seonary paper maturity yields I mBond primary market
 funds recently BuOr
+97 -- High
+-- Low
+98 -- High
+-- Low
 Monthly
 Nov 97
 Dec 97
@@ -377,8 +508,16 @@ nontransactions components U.
 Period M1 M2 M3 other' total'In M2 In M3 only government' other
 Levels (Sbillions)s
 Monthly
+1998-June 1074.5 4196.1 3121.6 1449.8 5645.9 3775.7 11858.3 15634.0
+July 1071.8 4213.2 3141.4 1439.6 5652.8 3772.9 11941.4 15714.3
+Aug. 1069.0 4243.2 3174.2 1464.9 5708.0 3770.3 12020.6 15790.9
+Sep. 1072.2 4295.6 3223.4 1481.1 5776.7 3760.0 12104.3 15864.3
+Oct. p 1078.6 4339.8 3261.2 1502.3 5842.1
 Weekly
 1998-Oct. 5 1081.1 4317.6 3236.5 1479.3 5796.9
+12 1066.7 4319.7 3253.0 1493.9 5813.6
+19 1078.4 4344.1 3265.7 1500.8 5844.9
+26p 1086.1 4361.1 3275.0 1515.0 5876.1
 Nov. 2p 1092.5 4364.0 3271.5 1521.5 5885.5
 p preliminary
 pe preliminary estimate
@@ -391,21 +530,196 @@ Treasury bills Treasurycoupons Federal Net change
 Net purchases 3 agencies outright
 Period Net 2 Redemptions Net wRedemptions Net redemptions holdings 5
 purchases (-) change a 1-5 5-10 over 10 () Change total 4 Net RPs
+1995
+1996
+1997
+1997 ---01
+---02
+---Q3
+---04
+1998 ---Q1
+---Q2
+---Q3
+1997 November
+December
+1998 January
+February
+March
+April
+May
+June
+July
+August
+September
+October
 Weekly
 August 5
+12
+19
+26
 November 4
 11
 Memo: LEVEL (bil. $)6
 November 11
+10,932
+9,901
+9,147
 * -.
+10,032
+9,901
+9,147
+-2,000
+3,550
 --- 4,545
+2,000 -2,000
 --- 3,550
+390
+524
+619
+877
+644
+1,501
+1,369
+2,024
+1,462
+1,947
+1,501
+1,369
+986
+1,038
+5,366
+3,898
+3,366
+5,822
+2,697
+7,794
+2,262
+2,993
+4,524
+3,323
+4,471
+2,262
+2,993
+535
+3,989
+3,111
+878
+725
+1,178
+48.4 107.9
+1,432 2,529
+1,116 1,655
+3,849 5.897
+607
+376
+598
+416
+616
+.°.
+7,941
+5,179
+5,314
+9,451
+2,744
+478 4,311
+286 4,571
+1,311 7,659
 --- 6,224
 - 8,245
+478 -478
+4,789
+286 4,571
+1,311 -1,311
+--- 3,593
+- 5,377
+602 2,539
 - 1,049
 - 1,023
 - 1,521
 - 4,148
 - 1,229
 - 1,058
+602 -602
+741
+-- 1,341
+- 1,178
+42.0 55.6 253.9
+1,003
+409
+60
+99
+98
+10
+50
+74
+50
+48
+15
+16,970
+14,670
+40,586
+5,084
+13,554
+2,173
+19,775
+2,251
+8,022
+7,536
+6,198
+12,790
+-2,478
+-10
+4,739
+8,047
+-25
+-1,311
+3,518
+5,329
+2,524
+1,049
+-75
+1,023
+1,521
+-48
+4,148
+1,229
+1,058
+-617
+741
+1,326
+1,178
+-1,023
+5,351
+-11,149
+6,771
+-4,493
+8,807
+-15,409
+10,707
+-6,732
+5,519
+7,700
+-21,985
+4,262
+2,314
+9,405
+-14,806
+16,108
+-9,397
+1,409
+1,257
+-7,532
+9,774
+-6,976
+7,374
+-6,951
+8,405
+-5,832
+-377
+2,542
+-8,982
+-534
+3,930
+-4,692
+645
 November 11

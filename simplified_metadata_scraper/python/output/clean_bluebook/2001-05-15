@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (F.R.) May 10, 2001
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -43,9 +51,13 @@ Financial Futures*
 allowance for term premia and other adjustments.
 Jun Aug Oct Dec Feb Apr
 2000 2001
+7.00
+Percent
 Selected Treasury Yields
 Jun Aug Oct Dec Feb Apr
 2000 2001
+12
+Percent Percent
 High Yield
 (left scale)
 Corporate BBB
@@ -59,6 +71,8 @@ Selected Private Long-Term Yields
 Merrill Lynch BBB index is for maturities of seven to ten years.
 Jun Aug Oct Dec Feb Apr
 2000 2001
+300
+Basis Points
 High Yield
 (left scale)
 BBB
@@ -68,10 +82,14 @@ Selected Risk Spreads*
 175 and BBB indexes and that on ten-year swap rate.
 Jun Aug Oct Dec Feb Apr
 2000 2001
+140
+Index(5/31/00) = 100
 Wilshire 5000
 Selected Equity Indexes
 Jun Aug Oct Dec Feb Apr
 2000 2001
+160
+Basis Points
 Spread of Low-Tier CP Rate
 over High-Tier CP Rate*
 Daily
@@ -152,13 +170,19 @@ liquid balances to make nonwithheld tax payments, which increased by more than
 allowed for by seasonal factors.  In addition, portfo lio flows into safe, liqu id assets
 Chart 2
 Exchange Rates and Financial Flows
+1999 2000
+J F M A
 p - Preliminary.
 M2 Growth
 Percent
+1999 2000
+J F M A
 Growth of Nonfederal Debt
 p
 p
 p - Preliminary.
+1999 2000
+J F M A
 Growth of Business Debt
 Sum of Selected Components*
 p p
@@ -175,6 +199,8 @@ Trading Partners
 Index(5/31/00) = 100
 Nominal Trade-Weighted Dollar Exchange Rates
 Solid vertical line indicates last FOMC meeting; dotted vertical line indicates intermeeting policy easing.
+1999 2000
+0.0
 * Yield on three-month Treasury bill minus average
 return on M2 assets.
 * Yield on three-month Treasury bill minus average
@@ -191,6 +217,7 @@ included in M3 also increased in April, apparently to help finance a pickup in b
 credit growth and a shift in bank fund ing from foreign to U.S. sources.
 MONEY AND CREDIT AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+2000 Jan 2001 Feb 2001 Mar 2001 Apr 2001 (p)
 Money and Credit Aggregates
 Policy Alternatives
 (7) The staff forecast for this meeting embodies a weaker outlook for
@@ -212,6 +239,7 @@ spending over the forecast period.  In addition, fiscal stimulus spurs consumpti
 demand beginning later this year.  By the end of the projection period, economic
 growth rises back to a rate close to that of its potential.  With slack emerging in labor
 and product markets and energy prices declining, core PCE inflation slips back under
+2 percent in 2002.
 (8) In considering the appropriate stance of policy , it may be useful to
 compare the real federal funds rate with estimates of the current level of the
 equilibrium real federal funds  rate.  The equilibrium rate is defined here to be the rate
@@ -231,6 +259,7 @@ relationship between the real funds rate and the output gap  using a statistical
 separate permanent changes in that relationsh ip from temporary deviations.  In both
 of these approaches, one estimate is based on h istorical data while the other augments
 these data with  the staff forecast through 2002.  A fifth  estimate, which  begins in
+1998, is inferred from actual indexed debt yields.  As can be seen in the chart, the
 estimates imply some decline in the equilibrium rate over recent quarters, likely owing
 in part to the longer-term effects on demand of an increase in the equity premium,
 which reduces wealth, and of a slowing in the growth of potential output, which holds
@@ -245,6 +274,9 @@ Actual Real Funds Rate
 Historical Average: 2.81
   (1966Q1-2001Q1)
 Current Rate
+25 b.p. Easing
+50 b.p. Easing
+75 b.p. Easing
 (10) If the Committee, like the staff, anticipates a prolonged period of weak
 aggregate demand, it might choose the 50 basis point reduction in the target federal
 funds rate assumed in the staff forecast.  While such a reduction would leave the real
@@ -260,6 +292,7 @@ expectations.  Indeed, the Committee may view the resource gap likely to open up
 under this scenario as sizable enough to imply a margin in which spending could snap
 back faster than expected without producing a deterioration in the inflation
 environment.  Market participants already expect a substan tial reversal of policy in
+2002, suggesting that they would be prompter than usual in bringing forward in time
 and increasing the size of the anticipated tightening if evidence of such a snap-back
 emerged.  As long as the Committee reinforced such sentiment with its words and
 actions, the resulting increase in real interest rates would work to stabilize the
@@ -411,4 +444,9 @@ Growth Rate
       Dec-2000 Dec-2001      8.2      7.9      7.5               9.7      9.5      9.3               7.9      9.5      5.2
       Dec-2000 Apr-2001     12.2     12.2     12.2              13.6     13.6     13.6              12.2     13.6      5.5
       Apr-2001 Dec-2001      6.0      5.5      5.0               7.3      7.1      6.8               5.5      7.1      4.9
+2000 Q4 Apr-2001     11.4     11.4     11.4              13.2     13.2     13.2              11.4     13.2      5.6
+       2000 Q4 May-2001     10.0      9.9      9.9              12.2     12.2     12.2               9.9     12.2      5.3
+       2000 Q4 Dec-2001      8.3      7.9      7.6               9.8      9.7      9.5               7.9      9.7      5.3
+1999 Q4  2000 Q4      6.2      6.2      6.2               9.2      9.2      9.2               6.2      9.2      5.4
+       2000 Q4  2001 Q4      8.4      8.1      7.7              10.0      9.9      9.7               8.1      9.9      5.3
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.

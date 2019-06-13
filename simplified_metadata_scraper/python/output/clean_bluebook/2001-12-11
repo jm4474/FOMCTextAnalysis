@@ -10,6 +10,20 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
+1 The federal funds rate has averaged very close to its intended level of 2 percent over
+the intermeeting period.  The Desk purchased $8.6 billion of Treasury securities in outright
+operations over the period, including $3.3 billion of Treasury bills ($1.3 billion of which was
+from foreign official institutions) and $5.3 billion of coupon securities.  To accommodate the
+seasonal increase in currency demands, the outstanding volume of long-term System RPs
+was raised $5  billion to $28 b illion.
 Strictly Confidential (F.R.)       December 6, 2001
 Class II -- FOMC
 MONETARY POLICY ALTERNATIVES
@@ -35,6 +49,8 @@ Chart 1
 Financial Market Indicators
 Dec Mar Jun Sep Dec Mar Jun Sep
 2001 2002 2003
+5.0
+Percent
 November 5, 2001
 December 6, 2001
 Expected Federal Funds Rates Estimated from
@@ -43,12 +59,16 @@ Financial Futures*
 allowance for term premia and other adjustments.
 Sep Nov Jan Mar May Jul Sep Nov
 2000 2001
+7.0
+Percent
 Ten-Year TIPS
 Selected Treasury Yields*
 *Nominal Treasury yields are estimated from a smoothed yield curve based
 on off-the-run securities.
 Sep Nov Jan Mar May Jul Sep Nov
 2000 2001
+13
+Percent Percent
 High Yield
 (left scale)
 Ten-year BBB
@@ -58,6 +78,8 @@ Ten-year Swap
 Selected Private Long-Term Yields
 Sep Nov Jan Mar May Jul Sep Nov
 2000 2001
+50
+Percent Percent
 Long-term
 Treasury Bond
 (left scale)
@@ -67,10 +89,14 @@ Capital Market Volatility*
 *Implied volatilities calculated from options.
 Sep Nov Jan Mar May Jul Sep Nov
 2000 2001
+120
+Index(8/31/00) = 100
 Wilshire 5000
 Selected Equity Indexes
 Sep Nov Jan Mar May Jul Sep Nov
 2000 2001
+110
+Index(8/31/00) = 100
 Broad Index
 Major
 Currencies Index
@@ -78,6 +104,8 @@ Other Important
 Trading Partners
 Nominal Trade-Weighted Dollar
 Exchange Rates
+2 The political battle over the size and content of a possible stimulus package did not
+seem to have a significant effect on the Treasury market over the period .
 maturities (see the  box on “F inancial Market Cond itions” on the next page).2  Yields
 on Treasury inflation-indexed securities have moved up about 35 to 55 basis points,
 suggesting that much of the increase in nominal yields owed to their real  components.
@@ -129,13 +157,18 @@ been elevated since September, have increased noticeably for instrumen ts spanni
 end.
 Japanese officials about possible intervention to weaken the yen and reports that the
 Bank of Japan may consider purchasing foreign currency bonds contributed to a
+2½ percent net increase in the yen-dollar exchange rate.
 ; U .S. monetary
 authorities did not intervene.
 Chart 2
 Year-End Pressures
+250
+Basis Points
 One-month Eurodollar Rate
 One-month Federal Funds Rate
 Yield Spreads over One-month Treasury RP Rate
+250
+Basis PointsOne-month A2/P2 Commercial Paper Rate over One-month Treasury RP Rate
 (4) Deepening concerns over the Argentine government’s chances of
 staving off default apparently have had little spillover to other emerging market
 economies, and the dollar’s exchange value against the currencies of our other
@@ -235,6 +268,7 @@ help it gauge the effects of policy actions to date as well as the resolution of
 uncertainty on  the fiscal policy front.
 (9) Because market prices appear to incorporate high odds on a 25 basis
 point easing of monetary policy at this meeting, leaving the target federal funds rate at
+2 percent would prompt an appreciable increase in  money market interest rates.
 Longer-term yields could rise somewhat as well; the extent of the backup, however,
 would probably be lim ited as long as the Committee, as expected by investors,
 reiterated its assessment that the balance of risks is weighted toward economic
@@ -254,6 +288,8 @@ And, equity prices may be seen as embedding unrealistically high expectations fo
 Chart 4
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5
+Percent
 Actual Real Funds Rate
 Historical Average: 2.79
   (1966Q1-2001Q3)
@@ -261,6 +297,7 @@ Current Rate
 25 b.p. Easing
 50 b.p. Easing
 PercentEquilibrium Funds Rate Estimates
+2000 2001H1 2001Q3 2001Q4____ ______ ______ ______
 October Greenbook
 October Greenbook
 October Greenbook
@@ -301,6 +338,7 @@ rebound in economic activity.
 (12) The Committee might consider reducing the target federal funds rate 50
 basis points at this meeting if it thought an unacceptably large opening of slack in the
 economy was likely.  As discussed in the box “A ‘Perfect Foresight’ Policy” on page
+11, a “perfect foresigh t” rule that uses all the information  contained in the staff
 outlook to determine a path for the funds rate that minimizes squared output and
 inflation gaps over the entire forecast period calls for considerable additional near-
 term policy easing to counter the projected upward pressure on the unemployment
@@ -439,6 +477,13 @@ Growth Rate
                  Dec-2000    Nov-2001      10.5      10.5      10.5                10.5      13.8       5.6
                  Oct-2001    Mar-2002       8.1       8.6       9.1                 8.1      10.7       5.0
                  Nov-2001    Mar-2002       7.8       8.4       9.0                 7.8       9.3       5.1
+2000 Q4    Oct-2001      10.3      10.3      10.3                10.3      13.3       5.7
+                  2000 Q4    Nov-2001      10.3      10.3      10.3                10.3      13.7       5.6
+                  2001 Q4    Mar-2002       7.9       8.5       9.0                 7.9       9.7       5.0
+1999 Q4     2000 Q4       6.1       6.1       6.1                 6.1       9.4       5.3
+                  2000 Q4     2001 Q4      10.3      10.3      10.3                10.3      13.5       5.6
+    
+              * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Directive and Balance-of-Risks Language
 (16) Presented below for the members' consideration is draft wording for
 (1) the directive and (2) the “balance of risks” sentence to be included in the press
@@ -459,6 +504,8 @@ WEIGHTED MAINLY TOWARD CONDITIONS THAT MAY
 GENERATE HEIGHTENED INFLATION PRESSURES] [continue
 to be weighted mainly toward conditions that may generate economic
 weakness] in the foreseeable future.
+3  Annual growth figures are expressed as the change from the fourth quarter of the
+previous yea r to the fourth quarter of the curren t year using staff pro jections.
 Appendix:  Review of Debt and Money Growth in 2001
 The economic contraction and decline in interest rates this year left a noticeable
 imprint on the composition of financial flows.  In general, credit flows shifted toward
@@ -651,6 +698,10 @@ Opportunity Cost (ratio scale)
 •• • •
 •
 Fit from 1959:Q2 - 1989:Q4
+90:Q2
+90:Q491:Q4
+93:Q4 94:Q2
+01:Q4 p
 Intercept Fit from 1994:Q3 - 2001:Q4
 (slope taken from lower regression line)
 Ratio scale

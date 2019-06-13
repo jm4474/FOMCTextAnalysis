@@ -86,11 +86,17 @@ in growth
 - 779
 - 203
 - 849
+1,034 7.45 6.17
 + 6.0
 +10.2
 - 3.7
 +11.0
 - 3.4
+1/ Average of total number of days in period. P - P
+2/ Includes issues carring 5-year and 10-year call protection, * - issues carry a 10-year call 
+protection.
+3/ Time deposits adjusted at all commercial banks.
+4/ Base is change for month preceding specified period or in case of weekly periods, the first week shown.
 ** - Reflects $400 million reduction in member bank deposits resulting from withdrawal of a large country bank
 from System membership. Percentage annual rates are adjusted to eliminate this break in series.
 Annual rates of increase 4/
@@ -185,6 +191,7 @@ credit appears to be deviating significantly from current projections."
 credit markets might continue to be taken to encompass a Federal funds
 rate of about 8-1/2 - 9-1/2 per cent, member bank borrowings $1 - $1-1/2
 billion,and net borrowed reserves of $900 million - $1.2 billion. The
+3-month bill rate, however, is likely to be in a somewhat higher range
 than earlier--perhaps between 7 and 7-1/2 per cent. Seasonal pressures,
 including the forthcoming mid-December tax period, and the relatively
 high level of dealer bill positions before the current $2-1/2 billion
@@ -237,6 +244,7 @@ supply is anticipated in December, with possibly a small decline on average
 at an annual rate, as private demand deposits are absorbed in the process
 of distributing the recently offered Treasury tax bills to ultimate
 holders. Over the fourth quarter as a whole money supply may grow in a
+1 to 2 per cent annual rate range, compared with no change in the third
 (11) Projections of time and savings deposits have been
 particularly difficult because of uncertainties in forecasting the
 behavior pattern of the BIS and other foreign official institutions that
@@ -291,6 +299,7 @@ d Free Excess R eserve Ci ty
 reserves reserves Total Major banks Other Country
 8 N.Y. Outside N.Y.
 Monthly (reserves weeks
+19 p - 996 76 1,072 -- 390 262 420
 p - freliminary.
 Table 2
 AGGREGATE RESERVES AND MONETARY VARIABLES
@@ -301,6 +310,12 @@ Annually
 1968
 Quarterly
 Ist Quarter 1968
+2nd Quarter 1968
+3rd Quarter 1968
+4th Quarter 1968
+1st Quarter 1969
+2nd Quarter 1969
+3rd Quarter 1969
 Monthly:
 1968--April
 May
@@ -332,6 +347,15 @@ Reserves
 + 0.1
 + 1.2
 - 9.3
+-6.9
++ 2.5
++ 8.8
++ 7.6
++22.4
++ 4.3
++ 8.5
++ 7.9
++12.1
 + 7.5
 - 3.4
 - 3.8
@@ -349,6 +373,15 @@ Reserves
 - 2.8
 - 4.7
 - 4.8
+-6.9
++ 0.9
++12.3
++13.8
++22.4
++ 8.3
++ 9.2
++ 1.3
++ 5.3
 + 4.5
 - 4.9
 - 8.0
@@ -370,6 +403,15 @@ Reserves
 + 1.7
 + 0.2
 -8.6
+-5.2
+-0.6
++11.3
++ 9.4
++22.3
++ 2.6
++10.4
++ 8.4
++10.2
 +12.7
 - 3.0
 - 4.4
@@ -409,6 +451,10 @@ adjusted borrowings)
 + 4.9
 - 1.2
 -10.2
+-18.9
+-11.3
++ 1.7
+- 9.2
 + 6.6
 + 7.2
 + 5.5
@@ -508,6 +554,9 @@ adjusted borrowings)
 +18.3
 +16.2
 +16.6
+-10.0
+- 4.7
+- 0.6
 +11.7
 + 9.8
 + 7.6
@@ -558,6 +607,16 @@ September 27,311 26,860 26,951 289.0 158.9 124.8 5.3 191.4 42.7 148.8 196.4 296.
 October 27,504 27,066 27,185 292.2 161.5 125.7 5.0 191.8 42.8 149.1 199.4 299.3
 November 27,685 27,095 27,376 295.0 163.5 126.8 4.7 193.6 43.2 150.5 202.1 302.2
 December 27,964 27,215 27,609 298.2 165.8 128.2 4.2 194.8 43.4 151.4 204.9 305.1
+1969--January 28,139 27,318 27,902 297.0 163.2 128.4 5.4 195.8 43.5 152.3 203.2 304.8
+February 28,060 27,206 27,832 296.7 161.0 129.1 6.7 196.3 43.8 152.5 202.4 305.3
+March 27,972 27,024 27,729 294.2 160.5 128.9 4.8 196.8 44.1 152.7 202.3 303.6
+April 27,775 26,754 27,614 295.4 160.1 129.4 5.9 198.1 44.2 154.0 202.3 305.0
+May 28,235 26,888 27,942 295.1 159.3 130.0 5.9 198.3 44.5 153.8 201.7 305.0
+June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 304.7
+July 27,530 26,275 27,334 288.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 301.8
+August 27,401 26,214 27,161 285.3 152.5 129.9 2.9 199.0 45.3 153.8 194.5 299.4
+September 27,402 26,383 27,144 285.7 152.1 129.2 4.4 199.0 45.2 153.7 194.1 300
+October p 27,366 26,221 27,125 283.5 151.5 128.9 3.1 199.1 45.6 153.6 193.5 297
 d i-1 , i A A - A1..A1,t Af nrlividuals artnershins and cor orations and net interbhan denn-its
 Private ucmanu u puJl mLL eLuuc ei an
 Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial banks.
@@ -578,10 +637,23 @@ reseives depic 1eserves /deposs post ep s 1/ deposits ideposits 3 4/ borrowings
 Weeklv (In illions of dollars) (I n b i 1 i o n s o f d o I I a r s
 Apr. 2
 o
+16
+23
+30
 July 2
 9
+16
+23
+30
 Aug. 6
+13
+20
+27
 Oct. 1
+8
+15
+22
+29 p
 Nor 5 p
 12 p
 19 p
@@ -590,18 +662,338 @@ S27,879
 27,590
 27,848
 28 023
+28,217
+S27,506
+27,568
+27,703
+27,151
+27,538
+27,151
+27,433
+27,409
+27,325
+27,370
+27,236
+27,717
+27,233
+27,260
+27,560
+27,072
+27,535
+27 866
+26,689
+26,634
+26,838
+26,733
+26,830
+27,048
+26,980
+26,629
+26,920
+26,829
+27,028
+26.543
+26,588
+26,543
+26,461
+26,370
+26,274
+25,927
+26,309
+25,915
+26,259
+76,194
+26,687
+26,364
+26,199
+26,362
+26,291
+25,975
+76.533
+26,021
 S 27,570
 S 27,431
 27,515
 27,698
 27,823
+27.993
+27,888
+27,844
+28,091
+27,826
+27,800
+27,698
+27,701
+27,711
+27,462
+27,492
+27,307
+26,980
+27,216
+27,164
+27,135
+26,957
+27,059
+27,238
+26,982
+27.417
+27,044
+27,059
+27,263
+27,028
+27,347
+27,340
+27,720
+293.6
+294.9
+295.6
+295.9
+294.7
+294.7
+296.5
+295.2
+294.9
+293.7
+293.9
+293.1
+291.3
+290.6
+289.4
+286.7
+288.0
+287.1
+286.2
+285.9
+284.4
+285.1
+285.8
+283.7
+287.1
+285.0
+284.2
+283.7
+281.9
+284.1
+283.4
+285.9
+285.9
+286.4
+160.7
+160.6
+160.2
+160.1
+159.8
+159.6
+159.4
+159.3
+159.1
+158.8
+158.7
+158.2
+157.6
+157.0
+156.1
+155.3
+154.6
+154.1
+153.4
+152.9
+152.4
+152.1
+151.9
+151.9
+152.0
+152.2
+152.3
+151.9
+151.4
+151.3
+151.2
+151.0
+151.1
+130.0
+129.5
+130.0
+129.1
+128.3
+128.7
+129.8
+131.0
+130.6
+130.6
+130.6
+130.6
+130.3
+130.7
+130.2
+130.5
+130.5
+130.0
+129.9
+129.9
+130.3
+129.9
+130.7
+129.7
+129.8
+128.6
+128.1
+128.8
+127.8
+129.7
+129.1
+129.3
+129.0
+129.7
+2.9
+3.0
 .9
 3.0
 3.0
+197.6
+199.0
+198.7
+197.4
+196.9
+197.2
+197.8
 S199.5
 199.1
+198.8
+198.8
+198.2
+199.1
+199.2
+199.4
+199.3
+199.1
+199.1
+199.1
+199.1
+199.5
+198.9
+199.5
+199.3
+199.6
+198.3
+198.3
+1996
+198.7
+199.9
+194.8
+198.6
+199.7
+200.5
+45.6
+45.8
+46.0
+153.4
+154.7
+154.5
+153.2
+152.7
+152.9
+153.4
+155.1
+154.6
+154.0
+154.0
+153.5
+154.2
+154.4
+154.5
+154.3
+154.2
+154.1
+153.9
+154.0
+154.3
+153.7
+154.0
+154.2
+154.3
+153.0
+153.1
+154.3
+153.0
+154.3
+153.0
+153.9
+154.5
+202.6
+202.6
+202.4
+202.3
+202.0
+202.0
+201.8
+201.7
+201.7
+201.6
+201.5
+200.9
+200.1
+199.3
+198.8
+197.9
+197.2
+196.7
+195.6
+194.9
+194.4
+193.9
+194.0
+193.9
+194.2
+194.0
+194.3
+19J.9
+193.6
+193.3
+193.4
+193.1
+193.2
+193.3
+303.0
+304.2
+305.1
+305.7
+304.7
+304.5
+306.2
+305.0
+305.1
+303.6
+304.9
+305.6
+304.5
+303.8
+302.5
+300.7
+302.2
+301.3
+300.2
+299.8
+298.6
+299.4
+300.0
+298.1
+301.6
+299.2
+298.2
+297.5
+296.1
+298.5
+297.1
+299.4
+299.9
+300.6
+1/ Private demand deposits include demand deposits of individuals, partnerships, and corporations and net interbank deposits.
+2/ Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial banks.
+3/ Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial banks and the U S Government, less cash items in
 process of collection and Federal Reserve float, and (2) foreign demand balances at Federal Reserve Banks.
 / Excludes interbank and U S Government time deposits
+5/ Includes increases in required reserves due to changes in Regulations M and D of approximately $400 million since October 16, 1969.
 Table 5
 SOURCE OF FEDERAL RESERVE CREDIT
 Retrospective Changes
@@ -616,10 +1008,18 @@ Weekly:
 1969--Apr. 2
 July 2
 9
+16
+23
+30
 Sept. 3
+10
+17
+24
 Oct. 1
 8
 15
+22
+29 p
 Nov. 5 p
 12 p
 19 p
@@ -743,6 +1143,8 @@ S 33
 - 21
 - 203
 + 514
+1/ Figures in parenthesis reflect reserve effect of match sale-purchase agreement.
+* - Includes effect of changes in special certificates of $+96 million of the week of April 9, $+627 million of the week of April 16, $-723 million
 of the week of April 23 , $+507 million of the week of September 10, $+154 million of the week of September 17, and $-661 million of the week of
 September 24.
 p - Preliminary.
@@ -761,6 +1163,9 @@ Weekly:
 1969--April 2
 July 2
 9
+16
+23
+30
 Oct. 1
 8
 Nov. 5 p
@@ -798,6 +1203,8 @@ Nov. 5 p
 + 298
 + 563
 (Sig n in c a t % s
+-2,305
+-3,221
 - 725
 -2,067
 - 85
@@ -874,6 +1281,28 @@ e f ec t
 + 114
 + 532
 on re
+7
+67
+25
+15
+29
+5
+2
+40
+32
+4
+8
+18
+3
+19
+48
+48
+9
+14
+9
+27
+2
+11
 - 19
 serves )
 + 316
@@ -893,6 +1322,29 @@ serves )
 - 199
 +1,517
 +1,563
+80
+60
+98
+936
+164
+59
+162
+229
+43
+52
+317
+334
+149
+2
+132
+45
+353
+66
+147
+283 3/
+360
+269
+11
 + 41
 - 84
 S81
@@ -917,6 +1369,8 @@ S 87
 + 153
 + 190
 11
+-259
++ 72
 + 116
 - 181
 + 79
@@ -931,6 +1385,10 @@ Dec. 3 + 345 -- - 165 + 15 - 50 -- -- + 145 + 145
 10 - 70 -- 140 -- + 100 -- - 110 - 110 --
 17 - 150 -- - 235 -- + 500 -- + 160 + 275 + 275
 24 - 475 - 205 -- + 600 -- + 60 - 20 - 20 --
+1/ For retrospective details, see Table 5.
+2/ See reverse side for explanation.
+3/ Includes increases in required reserves due to changes in Regulations M and D) of approximately $400 million since October 16, 1969.
+p - Preliminary
 Explanation of Projections in Table 6
 whatever cyclical and growth demands for money and credit are expected in the projection period.
 Assumed Treasury financing operations include: $2.4 billion, November 26; $-0.7 billion, December 15;

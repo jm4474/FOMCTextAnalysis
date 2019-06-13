@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 DECEMBER 12, 1997
 MONETARY POLICY ALTERNATIVES
@@ -37,6 +45,7 @@ buoyed by demands for safe assets on occasions when foreign problems seemed to i
 Adjusting for estimated year-end effects, federal funds futures rates suggest that investors
 view the possibility of a change in monetary policy at this FOMC meeting as essentially nil.2
 (2) Over 1997, nominal yields on long-term Treasury securities have fallen about
+80 basis points; short-term Treasury bill rates have changed little, despite the March policy
 tightening, which raised the intended federal funds rate by 25 basis points.3 As a result, the
 Treasury yield curve has flattened considerably this year, with the spread between the yields
 on the ten-year note and three-month bill now at a level last seen in January 1996, when
@@ -122,11 +131,14 @@ by a pickup in mortgage refinancing activity and perhaps by robust income growth
 climbed at a 10-3/4 percent pace, well above the rate anticipated in the previous bluebook, as
 bank credit growth strengthened and a few banks greatly stepped up their RP borrowing.
 (6) From the fourth quarter of 1996 through November, M2 expanded at a
+5-1/4 percent annual rate, placing this aggregate just above the upper bound of its 1 to 5
 percent range.4 M2 growth was about 3/4 percentage point faster in 1997 than forecast by the
 staff in February, despite the March policy tightening, reflecting stronger-than-projected
 growth in nominal income. The staff had anticipated that M2 velocity would be unchanged in
+1997; however, the staff now estimates that M2 velocity will tick up 3/4 percent, reflecting
 the March policy firming and perhaps some ongoing portfolio allocations away from deposits
 and into capital market instruments. Through November, M3 grew at an 8-1/2 percent rate in
+1997, well above both the upper end of its 2 to 6 percent range and the staffs expectation in
 February. Depository credit grew more rapidly than anticipated, and banks increased their
 reliance on the liabilities in M3 and scaled back their borrowing from foreign offices to a
 greater extent than envisioned by the staff. Inflows into institution-only money funds were
@@ -137,6 +149,7 @@ zero, on a seasonally adjusted basis, as the favorable budget picture has contin
 down financing needs. Borrowing by the household sector appears to have increased recently,
 accounted for by a strengthening of consumer credit. Business borrowing has remained brisk
 against the backdrop of continued ample availability of credit. From the fourth quarter of
+1996 through October, domestic nonfinancial debt increased at a 4-1/2 percent pace, placing
 this aggregate somewhat below the midpoint of its 3 to 7 percent monitoring range. Debt
 growth was about 1/2 percentage point slower than forecast by the staff in February. The
 markedly weaker-than-projected expansion of federal debt was only partly offset by higher
@@ -144,6 +157,8 @@ than anticipated business borrowing. The slowing of household credit expansion w
 pronounced than anticipated.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 Sept. Oct. Nov. Nov.3
 Money and Credit Aggregates
 M1
@@ -163,6 +178,30 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+-18.9
+7.9
+7.5
+10.1
+5.1
+0.5
+6.6
+10.5
+10.5
+-5.5
+8.7
+6.8
+8.3
+-1.5
+5.9
+4.4
+0.6
+5.7
+8.9
+8.4
+-6.1
+9.0
+6.0
+7.7
 Short-run Policy Alternatives
 (8) The staff now reads the effect of intensifying strains in Asia and emerging
 markets elsewhere as shaving enough from aggregate demand to hold the growth of GDP
@@ -179,6 +218,7 @@ through recent dollar appreciation. In addition, a decline in oil prices resulti
 Asian demand and a higher level of OPEC production helps to hold down inflation over the
 next few quarters. By the second half of 1998, most of the effects of these favorable supply
 shocks wear off and reported CPI inflation edges up; during 1999, the CPI increases about
+2-1/4 percent-a little below the November forecast. (The acceleration relative to this year is
 damped a few tenths by technical changes to the index.)
 (9) While the economy continues to operate in the staff forecast at a level above
 estimates of its potential, inflation remains quiescent for some time with no change in the
@@ -263,6 +303,7 @@ rapid pace, as the expansion of nominal GDP slows in the first quarter. M2 growt
 projected at around a 4 percent annual pace over the November-to-March period under
 alternative B, leaving this aggregate near the upper end of its provisional 1998 range.
 Nonetheless, growth in M2 would again outpace that of nominal GDP in the first quarter of
+1998, and M2 velocity would edge lower. M3 should slow by more than M2 over the
 November-to-March period, as growth in bank credit ebbs and some of the shifting in the
 composition of bank managed liabilities diminishes. Nonetheless, growth in M3--at a 6-1/2
 percent rate--is expected to run above the upper end of its provisional range for 1998.
@@ -319,8 +360,78 @@ From To
 96 Q4 97 Q4
 96 Q4 Nov-97
 96 Q4 Dec-97
+97 Q4 Mar-98
+Nov-97 Mar-98
+Dec-97 Mar-98
+1997 Annual Ranges:
+4.2
+3.4
+4.4
+4.2
+4.0
+4.2
+3.4
+4.1
+3.9
+3.7
+4.2
+3.4
+3.8
+3.6
+3.3
+6.8
+6.7
+5.6
+6.6
+6.6
+5.4
+1.0 to 5.0 2.0 to 6.0
+6.5
+6.4
+5.2
+0.3
+-1.1
+8.5
+-9.9
+-3.8
+7.7
+-0.8
+0.6
+-0.2
+-0.4
+-0.7
+-5.5
+0.2
+-0.9
+0.8
+0.5
+-0.2
+0.0
+0.3
+-1.1
+8.5
+0.1
+-0.6
+-0.6
+0.3
+-1.1
+8.5
+-9.9
+-3.8
+-0.7
+-5.5
+0.2
+-0.9
+0.1
+-0.4
+-1.1
+-1.1
 December 15,1997SELECTED INTEREST RATES
 (percent)
+96 -- High
+-- Low
+97 -- High
+-- Low
 Monthly
 Dec 96
 Jan 97
@@ -362,6 +473,14 @@ Dec 12 97
 Short-Term Long-Term
 Treasury bills mm anCDsk U.S. gove corporate conventional homecomm. bank .S. government constant corpor municipal mortgagesfederal secondary market mar ppr pie rmaturity yields indexed yields A-e m i l opria me
 funds lnmarket loan ofer Buyer p
+3-month 6-month 1-year 3-month 1-month 3-year 10-year 30-year 5-year 10-year oere fixed-rate ARM
+5.29 4.91
+5.91 6.30 6.55
+5.77 5.86 '6.06 3.56 3.54
+6.01
+5.19
+5.91
+5.45
 p - preliminary data
 Strictly Confidential (FR)-
 Class II FOMC
@@ -375,8 +494,16 @@ Period MI M2 M3 L and U. S. other' total=
 In M2 In M3 only investments' government'
 Levels (Sbillions);
 Monthly
+1997-JULY 1062.1 3905.3 2843,2 1212.1 5117.4 6307.4 3957.4 3779.5 11059.5 14838.9
+AUG. 1069.6 3940.5 2871.0 1228.4 5168.9 6378.2 3970.9 3784.5 11106.6 14891.1
+SEP. 1060.8 3960.0 2899.3 1249.9 5209.9 6428.4 3995.8 3788.0 11156.9 14944.8
+OCT. 1057.4 3975.8 2918.4 1269.1 5244.9 4030.9 3789.6 11218.2 15007.8
+NOV. p 1064.2 3998.3 2934.1 1293.6 5291.8 4076.4
 Weekly
 1997-NOV. 3 1073.4 3990.4 2916.9 1287.7 5278.0
+10 1059.4 3985.4 2926.1 1283.9 5269.3
+17 1056.9 3993.8 2937.0 1292.6 5286.4
+24 p 1061.4 4001.2 2939.8 1297.0 5298.3
 DEC. 1 p 1073.4 4015.6 2942.2 1304.9 5320.5
 p preliminary
 pe preliminary estimate
@@ -393,6 +520,9 @@ deposits deposits time deposit Retai Institution- time deposits' securities' pap
 Monthly
 1996-NOV. 392.5 402.2 276.8 1259.0 943.9 515.2 292.0 483.4 195.3 107.1 187.0 480.0 483.2 12.2
 DEC. 395.2 402.6 274.8 1271.0 945.7 521.5 299.3 491.5 194.1 113.9 187.0 456.5 495.5 12.2
+1997-JAN. 397.0 401.6 272.5 1282.5 946.8 525.7 296.3 493.3 198.3 117.5 186.7 436.1 509.1 11.9
+FEB. 400.5 404.3 267.3 1290.5 948.2 530.6 305.4 500.1 202.1 119.7 186.4 437.6 517.5 12.7
+MAR. 402.4 403.1 261.5 1304.3 947.4 538.3 311.8 509.1 200.6 121.7 186.3 441.5 525.9 13.5
 APR. 403.7 395.6 257.7 1321.1 948.9 548.1 311.6 522.1 204.1 126.6 186.2 446.6 537.8 12.8
 MAY 406.1 395.7 252.8 1320.9 953.3 543.9 311.6 523.6 204.5 133.5 186.2 451.8 543.9 13.1
 JUNE 407.7 397.2 250.1 1325.4 957.9 548.0 318.9 533.0 198.7 128.8 186.3 443.0 555.9 12.6
@@ -411,14 +541,145 @@ Treasury bills Treasurycoupons Federal Net change
 Nt purch s 3 agencies outright
 Period Net Redemptions Net Net purchases Redemptions Net redemptions holdings
 purchases ( ) change 1 year 1-5 5-10 over 10 (-) Change total 4 Net RPs
+1994
+1995
+1996
+1996 ---Q1
+---02
+---03
+---04
+1997 ---Q1
+---02
+---03
+1996 December
+1997 January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
 Weekly
 September 3
+10
+17
+24
 December 3
 10
 Memo: LEVEL (bit. $) 6
 December 10
+10,932
+9,901
+17,484
+10,032
+9,901
+9,916 3,575 3,606
+5,366 1,432 2,529
+3,898 1,116 1,655
+65
+459
+818
+877
+644
+383
+494
+1,839
+2,060
+3,985
+5,823
+2,697
+1,125
+2,861
+1,924
+1,102
+2,797
+1,042
+-..
+1,890
+1,433
 S 1,117
 1,233 1,894
+2,337
+1,776
+2,015
+1.228
+787
+607
+376
+598
+93.6 40.9 48.3
+15,493
+7,941
+5,179
+-1,228
+2,691
+3,716
+5,314
+9,451
+2,744
+-607
+1,943
+3,978
+1,548
+3,206
+4,696
+3,341
+1,002
+6,224
+1,451
+1,890
+2,883
+942
+1,003
+409
+108
+138
+79
+85
+230
+498
+571
+70
+35
+32,035
+16.970
+14,670
+-1,336
+5,952
+3,637
+6,417
+5,1
+13,1
+1,
+3,!
+5,
+3,
+4,
+-I
+1,
+1 ,
+2,1
+-7,412
+-1,023
+5,351
 .8,879
 2,959
+-2,454
+13,726
+084 -18,046
+555 11,984
+173 44,096
+-12 9,518
+-70 7,113
+-35 2,583
+686 7,101
+3,496
+595 18,492
+19,108
+150 -17,351
+428.4 14,0
 December 10

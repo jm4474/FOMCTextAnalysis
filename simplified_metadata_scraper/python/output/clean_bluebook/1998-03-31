@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 MARCH 27, 1998
 MONETARY POLICY ALTERNATIVES
@@ -62,6 +70,7 @@ February and is estimated to have maintained that pace in March, putting its gro
 the fourth quarter of last year at 8-1/4 percent (chart 2). On a quarterly average basis, M2 is
 estimated to have increased at an 8 percent rate in the first quarter, suggesting a decline in
 velocity at around a 3-1/2 percent rate, based on current staff estimates of nominal GDP (chart
+2). This decline cannot be explained by the conventional measure of opportunity costs (based
 only on short-term market interest rates), which remained flat. The velocity drop would be
 considerably more rapid than those registered in the second half of 1997, which themselves
 reversed what appeared to be a slight upward trend in velocity that had persisted beyond the
@@ -85,14 +94,19 @@ Jul. Aug. Sept Oct Nov. Dec. Jan Feb. Mar.
 1997 1998
 *Two-quarter moving average.
 V2 (ratio scafe)
+97.04
+97:0Q2
+00 94:Q4
 Opportunity Cost (ratio scale)
 M2 Growth and Nominal GDP Growth(Q4 to Q4)
 Percent
 --- 2 16
 ....... Nominral GDP
 M2 Growth
+1998. Substantial run-offs of noncompetitive tenders at Treasury note auctions over the latter
 months of 1997 supported the hypothesis that some flows into liquid M2 were being diverted
 from securities markets as well. But an easing of the runoff in noncompetitive tenders in
+1998 and a strong pickup of flows into bond mutual funds have cast at least some doubt on
 this explanation for the acceleration in M2 this year.
 (5) To be sure, nominal GDP growth in the first quarter could be significantly
 more rapid than estimated in the Greenbook, given labor market indicators and a more
@@ -120,6 +134,8 @@ seasonally adjusted federal debt unchanged. Total debt has been growing at about
 rate in recent months, up about one percentage point from last year.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+97:Q4
+to
 Jan. Feb. Mar. Mar.
 Money and Credit Aggregates
 M1
@@ -138,6 +154,18 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves
+-3.0
+S2.6
+11.3
+11.2
+-21.2
+-4.6
+-14.2
+-2.0
+3.5
+4.3
+13.7
+14.0
 Policy Alternatives
 (7) The economy is facing a number of countervailing influences on inflation.
 Pressures on labor markets are intense and are anticipated to abate little in the staff forecast at
@@ -267,6 +295,7 @@ effects on liquid balances of the current heavy pace of mortgage refinancing, as
 high levels of tax refunds and anticipated April tax payments; in the third quarter, however,
 V2 is likely to rise somewhat, as those refinancing and tax effects on deposit levels are
 removed. The deceleration in M2 brings growth from the fourth quarter of 1997 to June to a
+6-1/2 percent pace, still above the 1 to 5 percent annual range for M2, and to a 5-1/4 percent pace
 by September.
 Directive Language
 (16) Presented below is draft wording for the operational paragraph that includes the
@@ -284,13 +313,26 @@ growth in M2 and M3 over coming months.
 Alternative Growth Rates for Key Money and Credit Aggregates
 M2 M3 Debt
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C All Alternatives
+1.0 to 5.0 2.0 to 6.01998 Annual Ranges: 3.0 to 7.0
 Actual and Projected Debt
 Billions of Dollars
+16400
+Actual Level
+7%
+* Projected Level
 - .." - 16200
 - 16000
 -- 15800
 *
+3% - 15600
 - .15400
+1 5000
+Oct Dec Feb Apr Jun Aug Oct Dec Feb
+1997 1998
+97 -- High
+Low
+98 -- High
+-- Low
 Monthly
 Mar 97
 Apr 97
@@ -336,6 +378,59 @@ Treasury bills econdasy cOmm. bank U.S. government consant Corporate conventiona
 d secondary marcondket m arket paper pime malu riy yields indexed yields A-utility municipal orgageslederal secondary market pape Matrkety pyieldBo
 fs loan re Buyer
 3-month 8-mtonth f-year 3-monlh i-month 3-year 10-year 30-year 5-year t10year et fixed-rate ARM
+5.56
+5.51
+5.04
+5.09
+5.03
+5,07
+4.98
+5.04
+5.54
+5.54
+5.90
+5.37
+5.71
+5.44
+5.46
+5.47
+8.50
+8.25
+8.50
+8.50
+8.50
+8.50
+6.64
+5.69
+5.70
+5.28
+5.38
+5.43
+5.54
+5.57
+5.81
+5,89
+3.67
+3.52
+3.82
+3.70
+3,64
+3.57
+3.613,60
+3.55
+3.63
+3.73
+3,72
+3.68
+3.66
+6.97
+7.02
+5.32
+5.33
+6,99
+7,04
+5.54
+5.60
 p - preliminary data
 Strictly Conridential (FR)-
 Class II FOMC
@@ -348,10 +443,19 @@ Annual arowth al rateia(l
 Annually (Q4 to Q4)
 Levels $billlions)t
 Monthly
+1997-Oct. 1061.9 3993.2 2931.3 1281.2 5274.4 3789.6 11204.1 14993.7
+Nov. 1069.2 4017.5 2948.3 1308.3 5325.8 3790.4 11284.6 15075.0
+Dec. 1076.0 4040.2 2964.2 1335.5 5375.7 3797.3 11356.2 15153.5
+1998-Jan. 1073.3 4064,6 2991.2 1359.1 5423.7 3797.4 11430.7 15228.1
+Feb. 1075,8 4096.1 3020.2 1366.1 5462.2
 Weekly
 1998-Feb. 2 1084.3 4079.0 2994.7 1360.2 5439.2
+9 1070.0 4083.0 3013.0 1362.3 5445.3
+16 1072.3 4090.9 3018.6 1366.5 5457.4
+23 1077.0 4106.6 3029.5 1362.5 5469.1
 Mar. 2 1085.1 4114.9 3029.7 1378.7 5493.5
 9p 1078.4 4118.9 3040.5 1389.2 5508.1
+16p 1081.5 4123.2 3041,7 1404.8 5528.0
 p preliminary
 pe preliminary estimate
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
@@ -360,19 +464,128 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Not _ purcases 3 agencies outrightPeriod Net 2 Redemptions Net Netpurchases Redemptions Net redemptions holdings 5
+1996 ---Q1
+--- 02
+--- 03
+--- 04
+1997 --- 01
+--- 02
+---03
+--- 04
+1997 March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+1998 January
+February
 Weekly
 December 24
+31
+January 7
+14
+21
+28
 Memo- LEVEL (bl. $) 6
 March 25
+10,932
+9,901
+9,147
+4,006 -
+596 -
+4,545 -
+2,000
+---.
+10,032
+9,901
+9,147
+390
+524
+5,366
+3,898
+1,839
+2,060
+818 3,985
+877 5,823
+644 2,697
+3,409 7,794
 - 2,861
 - 1,924
+383 1,102
+494 2,797
+644 2,697
+1,462 3,323
+1,947 4,471
+1,432 2,529
+1,116 1,655
+3,101 5,827
 - 1,117
 1,233 1,894
+1,868 2,816
 - 1,117
+7,941
+5,179
+-1,228
+2,691
+3,716
+5,314
+9,451
+2,744
+3,978
+1,548
+3,206
+4,696
+-598
+3,341
+1,002
+6,224
+8,245
+1,003
+409
+108
+138
+79
+85
+17
+24
 _____________________ C ___________________________________ A ±
+16,970 -1,023
+14,670 5,351
+40,586 -64
+-1,336 -8,879
+5,952 2,959
+3,637 -2,454
+6,417 13,726
+5,084 -11,149
+13,554 6,771
+2,173 -4,493
+19,775 8,807
+3,961 -524
+5,530 41,665
+3,206 -42,664
+4,818 7,771
+-885 -11,981
+-179 7,669
+6,198 5,519
+12,790 7,700
+-2,478 -20,726
+-10 4,251
+2,000 -2,758
+- 13,491
 --- 19,515
 -750 5,084
+-10 5,010
+- 838
 - 9,506
 -. 9,275
+3,713 5,512
+--- -5,952
+1,026 2,943
+4507 -160
 S1 year 1-5 5-10 over 10 total
 March 27, 19gg

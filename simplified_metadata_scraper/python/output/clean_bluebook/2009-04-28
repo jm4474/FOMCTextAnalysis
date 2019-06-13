@@ -68,6 +68,8 @@ Chart 1
 Financial Institutions
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+140
+Jan. 03, 2007 = 100
 Bank ETF
 Mar.
 FOMC
@@ -75,6 +77,8 @@ Apr.
  23
 Aug. Oct. Dec. Feb. Apr.
 2008 2009
+150
+Aug. 15, 2008 = 100
 Citigroup
 JPMorgan Chase
 Bank of America
@@ -97,6 +101,8 @@ Mar.
 FOMC
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+140
+Jan. 03, 2007 = 100
 Insurance ETF
 Mar.
 FOMC
@@ -142,6 +148,7 @@ changed on net.
 During the intermeeting period, the Treasury announced details regarding the
 public-private investment partnership (PPIP) program to purchase legacy assets from
 financial institutions.  This announcement was initially well received by market
+1 A white paper describing the assumptions underlying the stress tests and the methodology
 used to implement the tests will be released April 24.  
 2 The new fair value guidance for illiquid assets reduces the emphasis that should be placed
 on the “last transaction price” in valuing assets when markets are not active and 
@@ -208,11 +215,18 @@ diminished.  Financial CP outstanding edged up, on net, over the past several we
 Credit extended under the CPFF held steady over the intermeeting period at about
 $240 billion, while credit extended under the AMLF continued to decline, reaching a
 level of just $1 billion.5  Nonetheless, market participants reportedly continue to view
+4 Two dealers terminated TSLF loans early owing to concerns regarding political risks. 
+5 During the week starting April 27, about $150 billion in CP at the CPFF will mature.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 6 of 64
 Chart 2
 Market Functioning
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+400
+Basis points
+1-month
+3-month
+6-month
 Spreads of Libor over OIS
 Daily Mar.
 FOMC
@@ -220,6 +234,8 @@ Apr.
  23
 Jan. May Sept. Jan. May Sept. Jan.
 2007 2008 2009
+3000
+$Billions
 Apr. 
  8
 Mar.
@@ -228,6 +244,8 @@ Treasury fails to deliver
 Source. FR2004.
 July Oct. Jan. Apr. July Oct. Jan. Apr.
 2007 2008 2009
+700
+Basis points
 ABCP
 A2/P2
 Apr. 
@@ -236,10 +254,13 @@ Mar.
 FOMC
 Spreads on 30-day commercial paper
 Basis points
+10-year note
 Treasury on-the-run premium
 Monthly average
 Mar.
 FOMC
+7
+$Billions
 Trading volume (left scale)
 Turnover (right scale)
 On-the-run Treasury market volume and turnover
@@ -248,6 +269,8 @@ Mar.
 FOMC
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+105
+Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 Mar.
@@ -312,6 +335,7 @@ Treasury to preserve financial and monetary stability.  On April 6, the Federal 
 announced that it had entered into currency swap arrangements with several foreign central 
 banks that would enable the Federal Reserve to provide liquidity in foreign currencies.  
 Neither announcement appeared to prompt any market reaction.
+7 The effective federal funds rate averaged 0.15 percent over the intermeeting period.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 9 of 64
 Balance Sheet Developments During the Intermeeting Period
 Since the March FOMC meeting, the Federal Reserve’s total assets have 
@@ -346,6 +370,10 @@ depository institutions.  The U.S. Treasury’s General Account remained elevate
 and quite volatile during the intermeeting period due to inflows of corporate and 
 personal tax receipts, but it declined $15 billion, on net.  The Supplementary 
 Financing Account remained unchanged at $200 billion over the period.
+1 These data are through April 22, 2009. 
+2 The figures for MBS holdings reflect trades that have settled. 
+3 The amount of term auction credit and the amount of foreign central bank liquidity swaps are expected to 
+  decline $52 billion and $32 billion respectively, on April 23, 2009.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 10 of 64
 Federal Reserve Balance Sheet 
 Billions of dollars
@@ -362,6 +390,8 @@ Total assets 129 2,198 2,256 12/17/2008
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 11 of 64
 Chart 3
 Interest Rate Developments
+3.0
+Percent
 April 23, 2009
 March 17, 2009
 Expected federal funds rates
@@ -379,7 +409,14 @@ from the Desk’s Dealer Survey
 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
 Recent: 14 respondents
 Last FOMC: 14 respondents
+2010 2011 2012
 Source. Federal Reserve Bank of New York.
+2007 2008
+0
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields
 Mar.
 FOMC
@@ -392,6 +429,8 @@ Mar.
 FOMC
 Apr. 
  23
+6
+Percent
 Michigan Survey 1-year
 Michigan Survey 10-year
 Survey measures of inflation expectations
@@ -460,6 +499,8 @@ Mar.
 FOMC
 Apr. 
  23
+100
+Percent
 Implied volatility on S&P 500 (VIX)
 Weekly (Fri.*)
 *Latest observation is for most recent business day.
@@ -468,6 +509,10 @@ Mar.
 FOMC
 Apr. 
  23
+2000
+Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads
 Mar.
 FOMC
@@ -476,6 +521,8 @@ Apr.
 Jan. Mar. May July Sept. Nov. Jan. Mar.
 2008 2009
 Basis points
+10-year debt
+MBS spread
 Fannie Mae debt and MBS spreads
 Mar.
 FOMC
@@ -483,6 +530,8 @@ Apr.
  23
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+325
+Percent Basis points
 FRM rate (left scale)
 FRM spread (right scale)
 Residential mortgage rates and spreads
@@ -493,6 +542,9 @@ Apr.
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
 Basis points
+2-year credit card
+2-year auto
+3-year FFELP
 AAA ABS spreads
 Mar.
 FOMC
@@ -613,6 +665,16 @@ Chart 6
 Debt and Money
 Growth of debt of nonfinancial sectors
 Percent, s.a.a.r.
+2007
+2008
+8.6
+5.8
+13.1
+4.8
+6.6
+0.4
+6.1
+17.5
 Growth of debt of household sector
 Percent
 Quarterly, s.a.a.r.
@@ -632,11 +694,22 @@ Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector
+2006 2007 Q1 Q2 Q3 Q4 Q1
+2008 2009
 Monthly rate
 Jan. Apr. Jul. Oct. Jan. Apr. Jul. Oct. Jan. Apr.
+2007 2008 2009
 Bank credit
 Jan. 2008=100
 e Estimated.
+0
+2
+4
+6
+10
+12
+14
+16
 Growth of M2
 Source. Federal Reserve.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 20 of 64
@@ -712,6 +785,7 @@ drift in their spread to Treasuries and the projected rise in Treasury yields.  
 prices are projected to increase at an annual rate of 15 percent from a level about 18
 percent higher than at the time of the previous forecast, as the equity risk premium
 moderates gradually.8  The foreign exchange value of the dollar has declined by close
+8 Note that equity prices rose about 10 percent between the close of the March Greenbook
 and the March FOMC meeting.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 23 of 64
 to 3½ percent over the intermeeting period and is assumed to edge lower over the
@@ -741,6 +815,7 @@ estimate of the NAIRU) by late 2013.  Under the assumption that long-run inflati
 expectations remain relatively well anchored, the gradual recovery in real activity
 allows core PCE inflation first to stabilize and then begin to move up slowly to
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 24 of 64
+1.1 percent by 2013.  Beyond 2013, monetary policy fosters an extended period of
 modestly above-average resource utilization in order to bring inflation gradually back
 to the desired rate of 2 percent.  Once this is achieved, the real economy settles into a
 balanced growth path with trend expansion of about 2¾ percent per year, an
@@ -767,9 +842,17 @@ in line with the actual real rate.
 Chart 8 shows the result of optimal control simulations of the FRB/US model
 that were conducted using the long-run staff forecast as a starting point; in these
 simulations, the federal funds rate is the instrument of monetary policy.  Policymakers
+9  In the estimation of the small structural model, the real bond yield is now based on the
+10-year BBB corporate rate, replacing the Moody’s BAA corporate rate.  The Moody’s rate 
+was less affected by the financial crisis than the rates facing most BBB issuers.  If the 
+definition had been changed in March, the estimate of short-run r* from the small 
+structural model would have been 1½ percentage points lower than the value shown in the 
+March Bluebook.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 26 of 64
 Chart 7
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -783,11 +866,15 @@ Single-equation model -1.7 -2.0
 Small structural model -9.1 -10.0
 Large model (FRB/US) -6.7 -8.6
 Confidence intervals for three model-based estimates
+70 percent confidence interval -9.3 to -1.6
+90 percent confidence interval -10.5 to -0.2(
 Greenbook-consistent measure -3.2 -5.2
 Medium-Run Measures
 Single-equation model (1.5 (1.4
 Small structural model (1.2 (0.3
 Confidence intervals for two model-based estimates
+70 percent confidence interval (0.4 to 2.2
+90 percent confidence interval -0.2 to 2.9
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate -1.7 -1.4
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 27 of 64
@@ -811,6 +898,7 @@ prescription for the nominal funds rate in the current Bluebook is above the Mar
 path, reflecting the somewhat stronger outlook for aggregate demand now seen by the
 As depicted in Chart 9, the outcome-based policy rule prescribes a funds rate at its
 effective lower bound through the end of 2011.  (The midpoint of the Committee’s
+10 The paths of core PCE inflation under all three policies are markedly different from the
 ones shown in the previous Bluebook; these differences reflect methodological changes in 
 the specification used to simulate the behavior of long-run inflation expectations.  For 
 details, see the memo to the FOMC, “Large-scale Asset Purchases and Inflation 
@@ -854,6 +942,12 @@ The scale of purchases in this optimal control simulation of
 LSAPs is about twice as large as simulations shown in a box in 
 the March Bluebook,3 while the outcomes for unemployment 
 and inflation are broadly similar.  The main reason is a
+1 The memo “Optimal Paths for Large-scale Asset Purchases” by Eileen Mauskopf and Jae Sim, sent to the  
+  FOMC on April 20 2009, describes the simulations and underlying assumptions in more detail. 
+2 The LSAP simulation shown is the same as the “lower cost” path shown in the box “Large-Scale Asset  
+  Purchases and the Economic Outlook” in Part I of the Greenbook.   
+3 The simulations in the March Bluebook were based on a given scale of LSAPs of up to $2 trillion without  
+  concern for optimal control.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 30 of 64
 downward revision in the staff’s assessment of the likely effects of asset purchases on longer-
 term yields.4  In the LSAP simulation shown here, an announcement of purchases over the next 
@@ -894,7 +988,11 @@ least a portion of the expansionary effect of the LSAP.  Finally, the very large
 contemplated here expose the balance sheet of the Federal Reserve to considerable interest rate 
 risk, pointing to the possibility of significant capital losses, in particular if large and rapid sales of 
 securities proved necessary to regain control over the federal funds rate.
+4 The memo “A Preliminary Assessment of the Effects of The Federal Reserve’s Large-Scale Asset Purchases  
+  on Interest Rates” by Joseph Gagnon, sent to the FOMC on April 23 2009, describes the revised estimates  
+  in more detail.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 31 of 64
+0 to 25 basis point target range is taken as the effective lower bound.)  Given the
 somewhat less sluggish outlook, the federal funds rate begins to increase a couple of
 quarters earlier than in the March Bluebook.11  Financial market participants appear to
 anticipate that the funds rate will rise to 1½ percent by the end of 2010 and
@@ -910,6 +1008,7 @@ next quarter.  The Taylor (1999) rule prescribes a funds rate close to -3 percen
 quarter and -3¾ percent next quarter, reflecting the rule’s higher sensitivity to the
 output gap.  The estimated outcome-based and forecast-based rules also prescribe
 negative nominal federal funds rates for the next two quarters.
+11 The procedures used to generate confidence intervals with the FRB/US model have been
 substantially modified since the last Bluebook, and are now based on a longer and more 
 volatile sample period.  By itself, this change generates appreciably wider intervals for 
 forecasts of the federal funds rate.  However, this effect is offset for near-term interest rate 
@@ -917,6 +1016,12 @@ forecasts by another methodological change to the way the zero lower bound is im
 on the outcome-based policy rule.  For further details, see the memo to the FOMC, 
 “Changes in Macroeconomic Uncertainty” by Robert Tetlow and Peter Tulip (April 20, 
 2009).
+12 Given the uncertainty about the economic and financial outlook, reading policy 
+expectations from federal funds futures and options is not straightforward; in particular, 
+the term premium may be larger than usual.  The most recent dealer survey shows that no 
+respondent expects an increase in the target rate before the first quarter of 2010 and that 
+half of respondents anticipate the first rate increase to occur during or after the first quarter 
+of 2011.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 33 of 64
 POLICY ALTERNATIVES
 This Bluebook presents two policy alternatives and a variation on the language of
@@ -1048,6 +1153,7 @@ equivalent to an average monthly growth rate of around 20 percent from the end o
 March through the end of the year.13  This sentence adds information about the
 Committee's expectation for the growth of the securities portfolio over time to a
 statement that maintains the basic structure of those previously released by the
+13 As of the end of March, there were $782.5 billion of Treasuries, agency debt, and
 mortgage-backed securities on the Federal Reserve’s balance sheet.  Of those, $307.2 
 billion were securities acquired recently under the announced purchase programs.  
 Subtracting that amount from the announced $1.75 trillion of total planned purchases gives 
@@ -1166,11 +1272,14 @@ item.  The foreign central bank liquidity swap lines and the Term Auction Facili
 (TAF) are assumed to wind down by year-end 2010 and year-end 2011, respectively,
 as financial markets continue to improve.  The Section 13(3) facilities are assumed to
 be extended beyond October 30, 2009, but they are assumed to run off by the end of
+2010 in a fashion similar to the swaps.  The assets held by Maiden Lane, Maiden Lane
 II, and Maiden Lane III are assumed to be sold over time; they reach zero by 2015.
 In light of the slow initial uptake of the Term Asset-Backed Securities Loan Facility
 (TALF), the facility is assumed to peak at $500 billion—half of the announced
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 46 of 64
 $1 trillion limit—at the end of 2010:  The first phase of TALF makes $100 billion of
+3-year loans by the end of 2009; later phases are assumed to make $400 billion of
+3-year loans by the end of 2010.  For large-scale asset purchases, the baseline path of
 purchases matches the assumed path in the Greenbook whereas the expanded
 purchases scenario boosts Treasury purchases; both scenarios assume that the assets
 purchased are held to maturity.  We assume a slower-than-average path for the
@@ -1191,7 +1300,9 @@ balances for the rest of the projection period.
 Under both scenarios, the Federal Reserve’s balance sheet expands rapidly over
 the course of 2009.  For the baseline scenario, the size of the balance sheet reaches
 $3.4 trillion at the end of 2009 and then declines to a level just below $1.4 trillion in
+2015 before beginning to expand again.  The composition of assets differs notably
 from historical patterns.  U.S. Treasury securities account for less than one-quarter of
+14 More details on the assumptions are provided in Appendix C.
 April 23, 2009 Class I FOMC - Restricted Controlled (FR) Page 47 of 64
 total assets at the end of 2009, and less than half at the end of the projection period,
 whereas prior to August 2007, Treasuries accounted for about 90 percent of assets.
@@ -1284,6 +1395,7 @@ in 2010 as economic activity is anticipated to pick up.  C&I loans are projected
 grow only modestly over the remainder of this year and in 2010, reflecting a
 significant contraction in business fixed investment and weak inventory investment.
 Real estate loans are likely to run off slightly in 2009 but to grow about 3 percent in
+2010 amid a resumption of growth in residential investment.  Consumer loans are
 expected to be about flat in 2009 and to expand at about a 2¼ percent rate in 2010, as
 growth of personal consumption expenditures and nominal GDP picks up.
 Domestic nonfinancial sector debt is expected to expand 4¼ percent in the
@@ -1324,9 +1436,23 @@ Oct-09 -0.5
 Nov-09 -0.5
 Dec-09 -0.5
 Quarterly Growth Rates
+2008 Q1 8.1
+2008 Q2 5.4
+2008 Q3 4.3
+2008 Q4 14.3
+2009 Q1 13.1
+2009 Q2 2.0
+2009 Q3 -0.2
+2009 Q4 -0.6
 Annual Growth Rates
+2007 5.8
+2008 8.3
+2009 3.6
+2010 2.4
 Growth From To
 Mar-09 Sep-09 -0.7
+2009 Q1 Jun-09 1.5
+2009 Q1 Sep-09 0.7
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Actual data through March 2009; projections after.
 Growth Rates for M2

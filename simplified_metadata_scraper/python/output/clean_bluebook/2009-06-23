@@ -54,10 +54,12 @@ Investors’ concerns about the health of the largest U.S. financial institution
 somewhat over the intermeeting period as the announcement of the results of the
 SCAP stress tests and subsequent successful capital raising efforts were seen as key
 steps toward recovery of the financial system.  In particular, stock prices of banks rose
+11 percent and CDS spreads on debt of major bank holding companies narrowed
 considerably (Chart 1).1
 The results of the SCAP, released on May 7, were positively received in financial
 markets.  Implied volatility of bank share prices declined markedly after the results,
 apparently reflecting a reduction in uncertainty about prospects for these institutions.
+1 On June 17, Standard & Poor’s announced that it lowered its ratings for 18 U.S. banks,
 noting that operating conditions for the industry will become less favorable than they were 
 in the past.  The rating action included 7 banks that were included in the stress tests.  While 
 the announcement was reportedly not entirely unexpected, equity prices of the downgraded 
@@ -67,6 +69,8 @@ Chart 1
 Financial Institutions
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+140
+Jan. 03, 2007 = 100
 Bank ETF
 Apr.
 FOMC
@@ -82,6 +86,8 @@ June
 Bank CDS spreads
 Apr.
 FOMC
+40
+$Billions
 Bank of
 America
 Wells
@@ -96,6 +102,11 @@ Fifth
 Third
 Capital Required
   Capital Raised
+1 Source. Staff estimates.
+* Includes new common equity offering, exchange of preferred to common,
+and asset sales.
+** Morgan Stanley and PNC have raised more capital than required.
+Note. Chart excludes GMAC.
 SCAP Capital Buffer*
 Dec. Jan. Feb. Mar. Apr. May June
 2008 2009
@@ -112,6 +123,8 @@ FOMC
 Selected FDIC-guaranteed spreads
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+140
+Jan. 03, 2007 = 100
 Insurance ETF
 Apr.
 FOMC
@@ -171,6 +184,7 @@ reverse repurchase (repo) market saw slight improvement, with bid-asked spreads 
 most types of transactions ticking down and haircuts roughly unchanged.  Delivery
 fails on Treasury securities dropped after the May 1 implementation of the Treasury
 Market Practices Group’s fails charge.2  Nevertheless, the 10-year on-the-run Treasury
+2 On May 1, a “fails charge” recommended by the Treasury Market Practices Group was
 implemented.  The charge is incurred when a party to a repo or cash transaction fails to 
 deliver the contracted Treasury security to the other party by the date agreed upon by the 
 parties.  The charge is a share of the value of the securities, where the share is the greater of 
@@ -184,6 +198,11 @@ Chart 2
 Market Functioning
 Jan. May Sept. Jan. May Sept. Jan. May
 2007 2008 2009
+400
+Basis points
+1-month
+3-month
+6-month
 Spreads of Libor over OIS
 Daily Apr.
 FOMC
@@ -191,6 +210,8 @@ June
  18
 Jan. May Sept. Jan. May Sept. Jan. May
 2007 2008 2009
+3000
+$Billions
 June 
  3
 Apr.
@@ -199,6 +220,8 @@ Treasury fails to deliver
 Source. FR2004.
 July Oct. Jan. Apr. July Oct. Jan. Apr.
 2007 2008 2009
+700
+Basis points
 ABCP
 A2/P2
 June 
@@ -206,10 +229,15 @@ June
 Apr.
 FOMC
 Spreads on 30-day commercial paper
+70
+Basis points
+10-year note
 Treasury on-the-run premium
 Monthly average
 Apr.
 FOMC
+7
+$Billions
 Trading volume (left scale)
 Turnover (right scale)
 On-the-run Treasury market volume and turnover
@@ -218,6 +246,8 @@ Apr.
 FOMC
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+105
+Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 Apr.
@@ -249,6 +279,7 @@ Lending through the Commercial Paper Funding Facility (CPFF) dropped by
 $50 billion, as less than half of maturing commercial paper in the program was
 reissued to the CPFF.  Reportedly, many firms issued longer-term debt to pay down
 short-term borrowing financed through the facility.  Outside the CPFF, spreads on
+30-day asset-backed commercial paper and A2/P2 commercial paper edged down
 further to around the low end of their ranges recorded over the past 18 months.
 incentive to minimize fails.  The new practice of a fails charge ensures that the total cost of 
 a fail (opportunity cost plus the fails charge) is at least 3 percent.  Given the new rules, repo 
@@ -288,6 +319,8 @@ Lending Facility (TSLF), which do not affect assets because the Federal Reserve
 retains ownership of the securities lent, declined by $17 billion.  The decline in 
 TSLF lending reportedly reflects improvements in the repo market, particularly a 
 narrowing of risk spreads on term repo transactions.
+1 These data are through June 17, 2009. 
+2 The figures for MBS holdings reflect only trades that have settled.  Over the intermeeting period, the Open
 Market Desk committed to purchase $172 billion of MBS, on net. 
 3 The amount of term auction credit and the amount of foreign central bank liquidity swaps are expected to
 decline $54 billion and $27 billion respectively, on June 18, 2009.
@@ -359,11 +392,14 @@ methodology to evaluate credit quality of many senior CMBS tranches.  In additio
 commercial real estate fundamentals worsened as vacancy rates rose and prices
 declined, resulting in higher delinquency rates on commercial mortgages and
 construction loans.
+3 Some market participants suggested that two factors might have contributed to the increase
 in leveraged loan prices.  First, some issuers tapped the bond market and reportedly paid 
 down loans, leaving managers of collateralized loan obligations with excess cash to reinvest 
 in the loan market.  Second, many syndicated loan borrowers have reportedly reached 
 agreements with their creditors to extend the maturity and increase the size of their loan 
 facilities in exchange for significantly wider spreads.
+4 The first TALF subscription for new CMBS on June 16 received no submissions.  This 
+outcome was expected, given the time that it takes to arrange CMBS transactions.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 12 of 79
 MONETARY POLICY EXPECTATIONS AND TREASURY YIELDS
 The Committee’s decision at its April 28-29 meeting to leave the target range for
@@ -388,11 +424,14 @@ incorporated in our standard assumptions.  The option-implied distribution of th
 federal funds rate six months from now widened substantially over the period
 possibly pointing to a widening in the term premium.   And the Desk’s survey of
 primary dealers reported that all respondents continued to expect short-term policy
+5 The effective federal funds rate averaged 0.19 percent over the intermeeting period.
 Trading volumes declined somewhat toward the end of the period, and the intraday 
 standard deviation averaged 5 basis points.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 13 of 79
 Chart 3
 Interest Rate Developments
+3.0
+Percent
 June 18, 2009
 April 28, 2009
 Expected federal funds rates
@@ -410,7 +449,12 @@ from the Desk’s Dealer Survey
 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
 Recent: 14 respondents
 Last FOMC: 14 respondents
+2010 2011 2012
 Source. Federal Reserve Bank of New York.
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields
 Apr.
 FOMC
@@ -423,6 +467,8 @@ Apr.
 FOMC
 June 
  18
+6
+Percent
 Michigan Survey 1-year
 Michigan Survey 10-year
 Survey measures of inflation expectations
@@ -504,6 +550,8 @@ April meeting.  The model also points to an increase of about 20 basis points in
 inflation risk premium at both the five-year and five-year forward horizons.
 Changes over the intermeeting period 
 (in basis points)
+5-year 
+5-year, 5-year
 Change in inflation expectations +40 +37
 Change in inflation risk premium +17 +22
 Change in residuals +11 –25
@@ -529,6 +577,8 @@ Apr.
 FOMC
 June 
  18
+100
+Percent
 Implied volatility on S&P 500 (VIX)
 Weekly (Fri.*)
 *Latest observation is for most recent business day.
@@ -537,6 +587,10 @@ Apr.
 FOMC
 June 
  18
+2000
+Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads
 Apr.
 FOMC
@@ -544,6 +598,8 @@ June
  18
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2007 2008 2009
+330
+Percent Basis points
 FRM rate (left scale)
 FRM spread (right scale)
 Residential mortgage rates and spreads
@@ -551,6 +607,8 @@ Apr.
 FOMC
 June 
  17
+40
+$Billions
 H2 Q1
 A
 M
@@ -567,6 +625,9 @@ Reserve.
 Jan. May Sept. Jan. May Sept. Jan. May
 2007 2008 2009
 Basis points
+2-year credit card
+2-year auto
+3-year FFELP
 AAA ABS spreads
 Apr.
 FOMC
@@ -644,6 +705,10 @@ Dec. 29, 2005 = 100
 Source. Bloomberg.
 Apr.
 FOMC
+3.0
+UK (left scale)
+Germany (left scale)
+Japan (right scale)
 Nominal Ten-year government bond yields
 Source. Bloomberg.
 Apr.
@@ -721,12 +786,25 @@ Q1
 Q2p
 Total_____
 8.7
+4.1
+5.6
 Business__________
 13.5
+-0.3
+0.9
 Household__________
 6.6
+-1.1
+-1.3
 Government__________
 6.1
+17.5
+6.7
+4.4
+28.6
+26.7
+18.0
+22.1
 Growth of debt of household sector
 Percent
 Quarterly, s.a.a.r.
@@ -744,14 +822,19 @@ Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector
+2006 2007 Q1 Q2 Q3 Q4 Q1 Apr May
+2008 2009
 Monthly rate
 Feb May Aug Nov Feb May Aug Nov Feb May
+2007 2008 2009
 Bank credit
 Jan. 2008 = 100
 Monthly average
 Source. Federal Reserve.
 Growth of M2
 Source. Federal Reserve.
+2006 H1 H2 Q1 Q2 Q3 Q4 Q1 Apr May
+2007 2008 2009
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 25 of 79
 loan demand, and some shifts in funding from banks to long-term credit markets.
 Those trends in securities holdings and core loans continued, on balance, through
@@ -824,6 +907,7 @@ moderating to about 1 percent next year.
 Looking further ahead, the staff assumes that the federal funds rate will remain at
 its effective lower bound until 2012 and then move up to about 4 percent by the end
 of 2013.  The staff forecasts that real GDP will expand at an average rate of about
+4¾ percent from 2011 through 2013, outpacing a rise in potential output that
 averages nearly 2½ percent per year.  As a result, the unemployment rate declines
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 28 of 79
 steadily, falling to 4.9 percent by late 2013—a bit below the staff’s estimate of the
@@ -852,11 +936,14 @@ In addition to the three models that have been employed in the past to generate
 estimates of short-run r*, this Bluebook introduces new measures derived from the
 EDO model (see box “Measures of the Equilibrium Real Interest Rate from a DSGE
 Model”).  The current estimate of Greenbook-consistent r* from EDO is about
+-4 percent; this estimate is noticeably below the FRB/US Greenbook-consistent
 estimate of -2¾ percent because the estimated boost to real activity that results from a
 sustained period of low real rates is smaller in EDO than in FRB/US.  The EDO
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 30 of 79
 Chart 7
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -871,6 +958,8 @@ Small structural model -3.5 -9.1
 EDO model -3.8   ---
 FRB/US model -5.5 -6.7
 Confidence intervals for four model-based estimates
+70 percent confidence interval -5.7 to -1.4
+90 percent confidence interval -6.7 to -0.1
 Greenbook-consistent measures
 EDO model -3.9   ---
 FRB/US model -2.7 -3.2
@@ -878,6 +967,8 @@ Medium-Run Measures
 Single-equation model 1.5 (1.5
 Small structural model 1.5 (1.2
 Confidence intervals for two model-based estimates
+70 percent confidence interval (0.6 to 2.4
+90 percent confidence interval -0.1 to 3.0
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate -1.6 -1.7
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 31 of 79
@@ -899,6 +990,7 @@ dashed line) along with the actual real federal funds rate (the black line).  Fo
 early part of this year, the EDO model estimates r* to be quite low by historical 
 standards, but this measure has recently risen somewhat and is about -3¾ percent 
 as of 2009Q2.
+1 A detailed description of the model is contained in Rochelle M. Edge, Michael T. Kiley, and Jean-Philippe
 Laforte, 2007, “Documentation of the Research and Statistics Division’s Estimated DSGE Model of the 
 U.S. Economy: 2006 Version,” Finance and Economics Discussion Series 2007-53, Board of Governors of 
 the Federal Reserve System.  The forecast performance of the model is considered in Rochelle M. Edge, 
@@ -915,6 +1007,7 @@ of Greenbook-consistent r* from EDO is about -4 percent.  The EDO
 Greenbook-consistent estimate lies below the FRB/US Greenbook-consistent 
 estimate of around -2¾ percent because the boost to real activity from a sustained 
 period of low real interest rates is smaller in EDO than in FRB/US. 2
+2 A DSGE model can also be used to generate an alternative concept called the natural real interest rate.  This
 value corresponds to the real interest rate consistent with “efficient” economic fluctuations, or fluctuations 
 that would occur in the absence of economic distortions generated by the presence of nominal wage and 
 price rigidities.  This concept is less prevalent in policy discussion and relies to a considerable extent on 
@@ -937,6 +1030,7 @@ Bluebooks—reflecting the staff’s assessment that this recession’s very hig
 permanent job loss will raise the level of frictional unemployment.  As in recent
 Bluebooks, monetary policy remains severely constrained by the zero lower bound in
 these simulations, with the nominal funds rate remaining at the lower bound until late
+2012 (black solid lines).  Due to this constraint, the unemployment rate stays
 significantly above the NAIRU until 2012, and core PCE inflation remains noticeably
 below the 2 percent goal.
 Chart 8 also displays the optimal control results that would be obtained if the zero
@@ -967,10 +1061,12 @@ of about 4 percent.6  The expected funds rate path is significantly higher than 
 previous Bluebook, reflecting increased optimism on the part of market participants
 about the economic outlook.  The distribution of the anticipated federal funds rate is
 quite wide, with the 90 percent confidence interval ranging from 1½ to 7½ percent in
+2013, and is skewed to the upside.  The federal funds rate path anticipated by market
 participants appears to involve a much earlier start to tightening than implied by the
 outcome-based rule.  For example, in the second quarter of 2011, the outcome-based
 rule prescribes a funds rate at the lower bound, whereas the funds rate expected by
 financial markets appears to be about 2½ percent.
+6 The staff has incorporated some technical adjustments in the calculation of the expected
 federal funds rate path and the confidence intervals since the April Bluebook.  To facilitate 
 comparison, the upper right panel of Chart 9 displays the expected path and the confidence 
 intervals for the current and previous Bluebooks based on the revised estimation 
@@ -1057,6 +1153,7 @@ economic and financial conditions.  These adjustments to the statement language
 could be particularly appropriate if policymakers determine that some liquidity
 facilities should be discontinued in light of the recent improvements in financial
 market functioning.7
+7 See the memo “Proposal Regarding Credit and Liquidity Facilities” that was sent to the
 Board and the Committee on June 12, 2009.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 41 of 79
 Table 1:  Overview of Alternative Language  
@@ -1255,6 +1352,7 @@ strategy.8  First, stating that the Committee “may modify the timing and compo
 of these purchases in view of market conditions” could help signal that policymakers
 are prepared to be flexible in adjusting these aspects of the LSAP program.  As a case
 in point, if the recent rise in mortgage rates persists over coming months and induces
+8 As discussed in Appendix I of the memo “Large-Scale Asset Purchases:  Recent
 Experience and Some Policy Considerations” that was sent to the Committee on June 16, 
 2009, theoretical and empirical research generally confirms that policy communications can 
 significantly reduce the volatility of asset prices when market participants have imperfect 
@@ -1284,6 +1382,7 @@ $150 billion will be purchased during the fourth quarter.  Dealers expect that
 purchases of agency MBS and agency debt will reach the previously announced
 maximum amounts by December.  No additional LSAP purchases are anticipated
 beyond the end of this year.
+9 For further discussion of various exit strategies, see the memo “Reserve Management
 Tools to Target a Higher Policy Rate” that was sent to the Committee on June 12, 2009.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 50 of 79
 Nonetheless, the market reaction to a statement like that of Alternative B might
@@ -1361,6 +1460,7 @@ during the second half of this year and that laying the foundations for a gradua
 withdrawal of monetary stimulus would thus be appropriate under present
 circumstances, they may judge that the LSAP program should taper off this fall and
 that an increased funds rate might well be warranted at the end of this year or early
+10 See section IV of the memo “Large-Scale Asset Purchases:  Recent Experience and Some
 Policy Considerations” that was sent to the Committee on June 16, 2009.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 53 of 79
 next year, as in Alternative C.  Given the recent behavior of inflation expectations,
@@ -1418,9 +1518,11 @@ side of the balance sheet, the foreign central bank liquidity swap lines and the
 Auction Facility (TAF) are assumed to wind down by year-end 2010 as financial
 markets continue to improve.  The assets held by Maiden Lane LLC, Maiden Lane II
 LLC, and Maiden Lane III LLC are assumed to be sold over time; they reach zero by
+2015.  The Term Asset-Backed Securities Loan Facility (TALF) is assumed to reach its
 peak at $175 billion–well below the announced $1 trillion limit–at the end of 2010.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 56 of 79
 The first phase of the TALF makes $125 billion of three-year loans by the end of
+2010; later phases are assumed to make $50 billion of five-year loans by that date.
 Other Section 13(3) facilities are assumed to be extended beyond October 30, 2009,
 but are expected to run off by the end of 2010 in a similar fashion to the swap lines.
 For large-scale asset purchases, the baseline path of purchases matches the assumed
@@ -1485,6 +1587,7 @@ notably from historical patterns.  Prior to August 2007, U.S. Treasury securitie
 about 90 percent of assets and the Federal Reserve did not hold any agency mortgage-
 backed securities.  By contrast, under the baseline scenario, Treasuries are projected to
 account for only around one-fourth of total assets at the end of 2009 and rise to just
+40 percent of total assets at the end of the projection period.  Even under the
 expanded purchases scenario, Treasury securities account for only about one-third of
 assets at the end of 2009.
 Projections for the growth rates of the monetary base are derived from these
@@ -1494,6 +1597,7 @@ and into early 2010.  In the second quarter of 2010, however, as the liquidity f
 wind down and asset purchases cease, the monetary base begins to contract; the base
 continues to decline through the remainder of the projection period despite continued
 growth in currency.
+12 The calculated growth rates of the monetary base presented in the table are based on an
 approximation for month-average values.  In the April Bluebook, the calculation was based 
 on month-end values.  The April values shown in this table use the new methodology.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 59 of 79
@@ -1511,6 +1615,7 @@ assumes that alternative operating procedures can be put into place to achieve t
 path for the federal funds rate assumed in the Greenbook projection; such procedures
 might employ a range of tools such as reverse repurchase agreements, outright sales of
 securities, a term deposit facility, or other strategies.13
+13 A discussion of the issues surrounding tools to raise the federal funds rate can be found in
 a memorandum to the FOMC dated June 12, 2009 “Reserve Management Tools to Target 
 a Higher Policy Rate.”
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 60 of 79
@@ -1621,6 +1726,8 @@ Nov-09 -0.8
 Dec-09 -0.5
 Growth From To
 Jun-09 Sep-09 -1.8
+2009 Q1 Sep-09 1.1
+2009 Q1 Dec-09 0.6
 * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Actual data through May 2009; projections after.
 June 18, 2009 Class I FOMC - Restricted Controlled (FR) Page 66 of 79

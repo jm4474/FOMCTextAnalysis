@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -28,6 +36,7 @@ new expected level of 4 percent. Since then, the funds rate has aver-
 aged 4.07 percent, incorporating rather mild year-end pressures. Along
 with the discount rate cut, the allowance for adjustment plus seasonal
 borrowing was increased by $50 million to account for the emergence of a
+50 basis point spread between the funds rate and the discount rate. At
 the same time a partly offsetting downward technical adjustment of $25
 million recognized the ongoing downtrend in seasonal borrowing in early
 winter; another such adjustment was made later in the intermeeting
@@ -55,6 +64,7 @@ policy easing, as well as to heightened market concerns about outsized
 fiscal stimulus. In addition, a flood of issuance of corporate, mort-
 gage-backed, and agency debt has put upward pressure on intermediate-
 and long-term rates. On balance, 3-month rates are down about 1/4 to
+1/2 of a percentage point since the last FOMC meeting, and long rates
 are about unchanged. At intermediate-term maturities, where the effects
 of a cyclical rebound and fiscal stimulus might be expected to be most
 pronounced, Treasury rates are up as much as 25 basis points. A con-
@@ -197,18 +207,58 @@ Unemployment rate
 I
 II
 III
+3-1/2 4-1/2 4-1/4 4-1/4 4-1/4
+2-1/2 3-1/2 3-1/4 3-1/4 3-1/4
+4-1/2 5-1/2 5-1/4 5-1/4 5-1/4
+2.9 3-1/2
+3-3/8
+3-5/8
+2-3/4
+2-1/4
+3
 .2 2 3-1/2
 1-1/4 2-3/4
 2-1/2 4-1/2
+6.9 7-1/4 6-3/4
+7-1/2 7-1/4
+7 6-1/4
+2-1/4
+1-1/2
+3
+3
+2-1/2
+3-1/2
+6-1/4
+7
+5-1/2
+2
+1
+3-1/8
+2-3/4
+3
+2-1/2
+6
+6-3/4
+5-1/4
 (9) After strengthening through 1993 real output growth in
 the baseline strategy I slows to a 2-3/4 percent rate by 1995, or about
+1-7/8
+3/4
+2-3/4
+3-1/2
+2
+5-3/4
+6-1/4
+5-1/4
 one-half percentage point above potential real GDP growth. Although
 short-term nominal rates are flat over the entire forecast interval,
 real short-term interest rates rise from their current unsustainably low
 level, helping to slow output. By the end of the simulation, real
 short-term rates reach about 2 percent, their average level during the
+1950s and 1960s. Output growth also is held down by a mildly contrac-
 tionary overall fiscal position of federal, state and local governments.
 With the unemployment rate declining but remaining above the estimated
+5-3/4 percent natural rate for most of the period, inflation gradually
 slows to around 2 percent in 1995 and 1996.
 (10) The tighter policy of strategy II produces virtual price
 stability during the forecast period. The reduced rate of M2 expansion
@@ -259,6 +309,23 @@ velocity shifts
 I (baseline)
 II (tighter)
 III (easier)
+2.9 3 2-3/4
+3 2-1/2
+3-1/4 3-1/4
+2-3/4
+2-1/4
+3-1/2
+1/4
+-1-1/4
+1-3/4
+2-1/2
+1
+4
+-1/4
+-1-1/2
+2-3/4
+1-1/2
+3-3/4
 Long-Run Ranges
 (13) The table below presents three alternative sets of
 ranges for growth of money and credit over 1992. (Appendix B gives
@@ -277,6 +344,7 @@ ranges that define alternative III. An optional targeting approach,
 which involves linking this year's target ranges to last year's ranges
 rather than to the actual outcomes, also is discussed in this section.
 (14) The staff is projecting that 3-1/2 percent M2 growth in
+1992 will be consistent with the 5 percent increase of nominal GDP in
 the greenbook. The implied rise in velocity this year after no change
 in 1991, shown in chart 1, reflects the different behavior of interest
 rates expected for 1992. With nominal short-term interest rates assumed
@@ -291,6 +359,19 @@ Growth from
 QIV '91 to
 QIV '92
 Nominal GDP
+2-1/2 to
+6-1/2
+1 to 5
+4-1/2 to
+8-1/2
+2 to 6
+1/2 to
+4-1/2
+4 to 8
+3 to 7
+1-1/2 to
+5-1/2
+5 to 9
 widen substantially in 1992 given the aggressiveness with which institu-
 tions are reducing deposit offering rates. The widening opportunity
 costs and decreasing impetus provided by previous policy easings would
@@ -314,6 +395,7 @@ process of resolving thrifts and banks. Although depository credit is
 anticipated to fall this year, the decline is projected to be less than
 in 1991, reflecting some abatement in the shrinkage of the thrift
 industry. As a consequence, M3 is projected to rise 2 percent during
+1992, somewhat faster than the 1-1/4 percent increase registered last
 (15) The growth of domestic nonfinancial sector debt is ex-
 pected to strengthen a little to 5-1/2 percent in 1992 from 4-3/4 per-
 cent in 1991. All of the acceleration is due to faster growth of fed-
@@ -350,6 +432,7 @@ appraisal of spending propensities and money demand relationships,
 attaining the midpoint of the M2 range later this year implies a need
 for a prompt 3/4 percentage point easing in the federal funds rate,
 which would be expected to boost nominal GDP growth in 1992 from 5 to
+5-1/2 percent. Moreover, the provisional ranges provide considerable
 room for additional money growth should velocity not increase as much as
 projected by the staff. However, an even larger than projected short-
 fall in money demand, prompted say by especially aggressive reductions
@@ -357,6 +440,7 @@ in deposit rates, might tend to breach the lower bound of the range
 without necessarily signalling weakness in the economy.
 (17) If the Committee were concerned about this outcome, it
 might consider alternative II, which would reduce each of the ranges by
+1/2 percentage point. In comparison with alternative I, this alter-
 native would more nearly center expected growth of money and credit
 within the ranges. This alternative would allow more leeway for policy
 to be tightened, if necessary, during the year, and would emphasize the
@@ -472,6 +556,7 @@ flat economy in the near-term and further gains on inflation. If
 rates were to edge down, the dollar might come under some downward
 pressure, but it is not expected to change significantly under this
 (24) Short-term interest rates would fall by nearly the
+50 basis point decline in the federal funds rate under alternative A.
 With the funds rate around or perhaps a little below most assessments
 of the underlying inflation rate, market participants might see such a
 policy move as unsustainable, thereby limiting the decline in bond
@@ -487,8 +572,11 @@ Levels in billions
 1991 October 3420.8 3420.8 4162.8 4162.8 880.9 880.9
 November 3435.0 3435.0 4171.9 4171.9 891.4 891.4
 December 3442.9 3442.9 4178.3 4178.3 898.2 898.2
+1992 January 3450.5 3450.5 4180.0 4180.0 909.4 909.4
 February 3465.7 3464.3 4191.8 4190.8 923.6 922.8
 March 3474.3 3469.9 4197.1 4194.3 933.3 931.0
+1991 Target Ranges: 2.5 to 6.5 1.0 to 5.0
+1992 Target Ranges: 2.5 to 6.5 1.0 to 5.0
 (25) Even with a pickup over February and March, M2 would
 expand at only a 3 percent annual rate over the December-to-March
 period under alternative B, below the pace over the last three months
@@ -528,12 +616,14 @@ Directive Language
 (27) Presented below for Committee consideration is draft
 language relating to the Humphrey-Hawkins ranges for 1992 and to the
 operating paragraph for the intermeeting period.
+1992 RANGES
 The Federal Open Market Committee seeks monetary and
 financial conditions that will foster price stability and
 promote sustainable growth in output. In furtherance of
 these objectives, the Committee at THIS [DEL: its] meeting
 ESTABLISHED [DEL: in July reaffirmed the ranges it had established
 in February] for growth of M2 and M3 of ___ TO ____ [DEL: 2-1/2 to
+6-1/2] percent and ____ TO ____ [DEL: 1 to 5] percent, respectively,
 measured from the fourth quarter of 1991 [DEL: 1990] to the fourth
 quarter of 1992 [DEL: 1991]. The monitoring range for growth of
 total domestic nonfinancial debt [DEL: also] was SET [DEL: maintained] at

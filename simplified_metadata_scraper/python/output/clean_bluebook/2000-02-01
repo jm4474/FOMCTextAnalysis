@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
@@ -128,6 +136,8 @@ the past year. Responses to the January Senior Loan Officer Survey, however, pro
 some evidence of slowing demand for home mortgages.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1998:Q4 1999:Q4
+to to
 Dec. Jan. 1999:Q4 Jan.
 Money and Credit Aggregates
 Ml
@@ -144,8 +154,30 @@ Adjusted for sweeps
 Monetary base
 Adjusted for sweeps
 Memo: (millions of dollars)
+15.8
+14.2
+7.2 8.2
+20.2
+19.7
+7.4 54.0
+44.2
+42.1
+55.1
+30.7
+18.8
+17.9
 Adjustment plus seasonal plus SLF borrowing
 Excess reserves 1311
+10.0
+10.9
+-7.6
+2.3
+12.4
+12.6
+32.3
+20.0
+28.5
+27.1
 Longer-Term Strategies
 (7) This section considers alternative longer-term strategies for monetary policy
 and examines some aspects of conducting monetary policy in a setting of elevated
@@ -172,6 +204,7 @@ trading partners, the U.S. current account deficit would continue to widen witho
 significant dollar depreciation. As a result, portfolio balance considerations are assumed to
 lead to a modest secular depreciation of the real foreign exchange value of the dollar over
 the remainder of the decade, at about the same annual rate built into the Greenbook for
+2001. This depreciation damps but does not halt the widening of the deficit.
 (10) Although dollar depreciation and the decline in the federal budget surplus put
 upward pressure on equilibrium interest rates, those effects are more than offset by a rising
 personal saving rate and slowing productivity growth in the last half of the decade. Over
@@ -200,6 +233,7 @@ inflation down to 3/4 percent - close to the estimated measurement bias in this 
 To achieve price stability, the Committee is seen to start raising the nominal funds rate
 immediately, to a peak of about 7-3/4 percent by late next year. This policy yields a much
 steeper and higher trajectory of real interest rates, pushing the unemployment rate up to
+6-1/2 percent by the middle of the decade. Although GDP growth slows to below trend,
 the economy does not come close to falling into recession in this scenario; the faster growth
 of potential that has developed in recent years means that a substantial rise in the
 unemployment rate can occur even with a significantly positive pace of economic
@@ -240,6 +274,9 @@ Percentage points
 -..... Realized-inflation Rule
 Percentage points
 2.0 2.0
+1.5 1.5
+1.0 1.0
+0.5 0.5
 Percentage points
 - Taylor Rule with Error
 ...... Realized-Inflation Rule
@@ -257,6 +294,7 @@ Percentage points
 -I
 - Taylor Rule with Error
 ....... Realized-Inflation Rule
+-0.5 -
 IL l l l l l
 r. * .****"
 r
@@ -280,8 +318,12 @@ Percentage points
 i
 D
 Percentage points
+-1 1.0
 - Taylor Rule
 ....... Realized-inflation Rule
+0.4 [
+0.0-
+... . ............ . .. -
 Percentage points
 0.2 r-
 PCE Inflation (ex. food and energy)
@@ -344,6 +386,8 @@ for 2000 are shown in the table below, along with those for nominal GDP. A discu
 alternative ranges for money and debt growth in 2000 begins in paragraph 25.
 Growth of Money and Debt
 (percent)
+1999 2000 Memo:
+(Actual) (Projected) 1999 Ranges
 M2 6.2 4-3/4 1 to 5
 M3 7.6 6-1/4 2 to 6
 Debt 6.6 5-1/4 3 to 7
@@ -367,8 +411,16 @@ M2 Velocity
 ***...-O******o................... .
 Opportunity Cost
 M2 Velocity
+2.1 - , -
+Intercept fit from 1993:01 - 1999:Q4 *• 7 •
+(slope taken from lower regression line) 9904
+1.9 93Q1.
++ 92Q4 *
+90Q1 *
 • *--- *- • * " .• ----1.7 - . * 0
 + ++ S S.V
+1.7 . . ** ._-.r ..-..- ... -. * . * S
+.* * S S *
 Fit from 1959:Q2 - 1989:Q4
 Opportunity Cost (percentage points)
 noticeably, and M2 strengthened relative to income, perhaps reflecting some portfolio
@@ -385,6 +437,7 @@ historical relationships between opportunity costs and velocity; the forecast as
 support for M2 demand owing to disappointing returns for investors in the stock market
 this year, which could prompt some shifts to M2 assets.
 (23) M3 is expected to decelerate more than M2 and post 6-1/4 percent growth in
+2000, reflecting in part the unwinding of the Y2K effects on the broader aggregate. In
 particular, the growth of institutional money funds should slow substantially as the buildup
 of corporate liquidity in late 1999 dissipates and as investors find yields on market
 instruments to be more attractive than the lagging returns on such funds. Managed
@@ -470,6 +523,7 @@ Greenbook. These firming actions are assumed to occur a bit sooner than currentl
 into the yield curve and are expected to be accompanied by an edging higher of long-term
 yields and a plateauing of equity prices not much above current levels. The growth of real
 GDP is now projected at 4 percent in 2000 and 3-3/4 percent in 2001, compared with 3-
+3/4 percent for both years in the last Greenbook. The unemployment rate is seen as
 remaining around 4 percent over the forecast period. This degree of pressure on resources
 is expected to lead to a noticeable acceleration of core consumer prices, with the PCE chain
 price index excluding food and energy projected to be rising at a 2-1/4 percent rate in the
@@ -588,6 +642,7 @@ conditions that will foster price stability and promote sustainable growth in
 output. In furtherance of these objectives, the Committee at this meeting
 established ranges for growth of M2 and M3 of __ to __ [DEL: 4 to 5] percent and
 __ to __ [DEL: 2 to 6] percent respectively, measured from the fourth quarter of
+1999 to the fourth quarter of 2000. The range for growth of total domestic
 nonfinancial debt was set at __ to __ [DEL: 3 to 7] percent for the year. The
 behavior of the monetary aggregates will continue to be evaluated in the light
 of movements in their velocities and developments in prices, the economy,
@@ -608,12 +663,16 @@ weakness] in the foreseeable future.
 Alternative Growth Rates for Key Monetary and Credit Aggregates
 M2 M3 Debt
 Alt. B Alt. C Alt. D Alt. B Alt. C Alt. D All Alternatives
+1999 Annual Ranges: 1 to 5 2 to 6 3 to 7
+2000 Annual Ranges: 1 to 5 2 to 6 3 to 7
 - -Actual Le
 * Projected
 Feb Apr Jun
 Chart 12.
 Actual and Projected Debt
 Billions of Dollars
+7%
+- 18000
 SLevel
 S17800
 - 17600
@@ -622,3 +681,5 @@ S17800
 - 16600
 Aua Oct Dec r 15800
 Aua Oct Dec Feb Apr Jun
+1999 2000
+mara:mm

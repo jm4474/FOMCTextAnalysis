@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR)
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -122,6 +130,7 @@ borrowing has since picked up. Overall, domestic nonfinancial debt
 grew at a 4-3/4 percent pace in the second quarter. From the fourth
 quarter to June, debt of the nonfinancial sectors expanded a 4-3/4
 percent pace, putting the aggregate a tad below the midpoint of its
+3 to 7 percent annual range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
 QIV
@@ -135,6 +144,8 @@ Federal
 Nonfederal
 Bank credit
 Reserve measures
+2
+Nonborrowed reserves
 Total reserves
 Adjusted for retail sweeps
 Monetary base
@@ -143,6 +154,35 @@ Memo: (Millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+-6.8
+2.0
+3.7
+1.8
+4.4
+-20.8
+-2.2
+1.0
+3.2
+-0.5
+7.9
+3.8
+2.5
+4.3
+-2.5
+13.9
+5.7
+7.9
+-20.3
+-2.8
+7.6
+9.4
+4.7
+3.7
+5.0
+-8.8
+8.3
+2.8
+5.1
 Policy Alternatives
 (7) Reports since the last FOMC meeting have suggested that,
 on balance, aggregate measures of spending, production, and inflation
@@ -255,6 +295,7 @@ equity retirements and inventory restocking.
 (13) The staff has revised down its projection of the growth
 of M2 and M3 for this year under the unchanged funds rate of the
 greenbook forecast by 1/4 percentage point each to 4-3/4 percent and
+5-3/4 percent, respectively (see table). The slight downward revi-
 sions primarily reflect weaker than expected money growth in July.
 The recent lull in M2 growth is not expected to persist, however. For
 one thing, demand deposits should return to a more normal pace of
@@ -288,6 +329,7 @@ Sep-96 3785.1 3783.8 4780.2 4779.4 1100.4 1099.9
 Oct-96 3800.9 3798.3 4801.3 4799.7 1098.5 1097.5
 Nov-96 3817.0 3813.3 4822.9 4820.6 1096.6 1095.0
 Dec-96 3833.2 3828.6 4844.6 4841.8 1095.2 1092.8
+1996 Target Ranges: 1.0 to 5.0 2.0 to 6.0
 Directive Language
 (14) Presented below is draft wording for the operational
 paragraph that includes the usual options for Committee consideration.
@@ -311,6 +353,10 @@ Short-Term Long-Term
 COs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. govemment constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market marketS3-month 6-month -year 3-month 1-month fund loan -year 10-year 30-year offered Buyer fixed-rate fixed-rate ARM
+95 -- High
+-- Low
+96 -- High
+-- Low
 Monthly
 Aug 95
 Sep 95
@@ -345,6 +391,11 @@ Daily
 Aug 9 96
 Aug 13 96
 Aug 14 96
+8.25
+8.25
+8.25
+6.11 6.54 6.80
+6.14 6.56 6.77
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures class FOMC
 Sesonally adjusted AUGUST 19, 1996
@@ -355,8 +406,17 @@ Period M1 M2 M3 L and U. S. other= total'
 In M2 In M3 only investments' gove m ment2
 Levela (Sbillions).
 Monthly
+1996-MAR. 1126.6 3729.9 2603.3 956.3 4686.2 5785.4 3641.4 3696.0 10384.4 14080.4
+APR. 1123.6 3735.9 2612.3 957.5 4693.4 5807.2 3659.3 3707.0 10425.9 14132.9
+MAY 1117.2 3730.7 2613.5 974.4 4705.1 5802.5 3663.4 3712.6 10464.4 14177.0
+JONE 1116.7 3747.8 2631.2 975.6 4723.5 3668.1 3720.2 10502.1 14222.4
+JULY p 1108.5 3755.0 2646.5 983.2 4738.2 3671.3
 Weekly
 1996-JULY 1 1118.0 3749.4 2631.4 972.4 4721.8
+8 1106.0 3753.9 2647.9 983.2 4737.1
+15 1102.6 3747.5 2645.0 984.1 4731.6
+22 1107.1 3754.0 2646.9 984.1 4738.1
+29 p 1111.3 3756.3 2645.0 983.7 4740.0
 AUG. 5 p 1108.0 3766.2 2658.2 982.4 4748.6
 p preliminary
 pe preliminary estimate
@@ -381,10 +441,210 @@ SEP.
 OCT.
 NOV.
 DEC.
+1996-JAN.
+PEB.
+MAR.
 APR.
 MAY
 JUNE
 JULY p
+320.0
+352.8
+371.9
+367.3
+368.5
+369.5
+370.8
+371.6
+373.2
+373.6
+373.3
+375.2
+376.0
+377.1
+379.4
+381.6
+383.3
+388.7
+388.5
+389.3
+389.4
+388.1
+388.2
+389.8
+393.5
+397.4
+407.1
+406.3
+409.6
+413.7
+412.1
+404.2
+359.2
+380.8
+377.2
+372.4
+364.1
+360.4
+353.0
+343.2
+337.8
+335.4
+332.4
+321.7
+315.0
+1215.1
+1162.7
+1123.8
+1096.2
+1101.6
+1108.4
+1116.1
+1120.6
+1134.6
+1151.8
+1164.5
+1183.0
+1193.2
+1197.5
+1206.9
+792.3 356.5 196.3
+812.2 383.1 182.9
+934.6 460.1 225.2
+919.3
+923.6
+926.8
+930.2
+935.5
+938.1
+937.8
+937.4
+932.6
+930.4
+928.6
+928.2
+431.7
+443.6
+450.3
+455.0
+460.1
+465.1
+468.6
+474.7
+487.6
+488.7
+487.4
+496.0
+218.6
+218.5
+221.7
+223.7
+224.8
+227.2
+230.6
+243.9
+248.3
+245.6
+243.5
+249.4
+334.8
+358.9
+414.3
+393.9
+396.6
+400.5
+409.8
+415.5
+417.5
+416.6
+422.4
+429.7
+432.2
+437.6
+443.6
+155.3
+175.9
+184.3
+188.4
+192.9
+192.5
+190.0
+185.3
+177.6
+184.4
+186.2
+184.1
+182.9
+195.1
+183.6
+66.1
+81.7
+91.6
+92.6
+93.1
+93.7
+92.9
+90.7
+91.2
+95.6
+96.6
+94.2
+96.8
+98.2
+99.1
+170.7 339.5
+179.8 381.2
+184.5 468.7
+183.0
+183.5
+183.9
+184.2
+184.5
+184.8
+185.0
+185.0
+185.2
+185.6
+186.0
+434.0
+437.4
+457.1
+465.9
+464.5
+475.6
+466.0
+444.8
+459.1
+456.9
+427.7
+382.4
+401.5
+438.2
+429.0
+433.3
+438.6
+440.5
+437.1
+437.1
+437.2
+442.3
+445.1
+461.0
+473.0
+15.7
+13.8
+12.6
+12.1
+12.4
+12.8
+13.4
+12.6
+11.9
+11.7
+10.2
+9.8
+10.3
+10.7
 p preliminary
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
@@ -393,15 +653,145 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 SNet urchases 3 agencies outrightPeriod Net Redemptions Redemptions Net redemptions holdings
 purchases (-) change 1 | 1-5 5-10 over 10 (-) Change ( total RPs
+1993
+1994
+1995
+1995 ---Q1
+---02
+---Q3
+1996 ---Q1
+---02
+1995 August
+September
+October
+November
+December
+1996 January
+February
+March
+April
+May
+June
+July
 Weekly
 May 1
+8
+15
+22
+29
 June 5
 12
+19
+26
 August 7
 14
 Memo: LEVEL (bil. $)6
 August 14
+17,717
+17.484
+10,032
+4,470
+842
+17,717
+17.484
+10,932
+4,470
+842
+433
+409
+1,350
+4,271
+3,311
+--.
 -- _
+10,350
+9.168
+4,966
+2,549
+100
+35 1,899
+4,168 3,457
+3,818 3.606
+1,239 3,122
+1,138
+100
+479 1,065
+767
+2.337
+1,476
+621
+370
+1,228
+787
+34.1 39.5
+18,431
+15,493
+-621
+4,156
+200
+4,506
+-1,228
+2,691
+200
+-485
+400
+385.9
+___________________________ l'
+35,374
+31,975
+16.970
+-850
+8,314
+541
+8,965
+-1,336
+5,952
+311
+563
+-118
+4,551
+4,533
+-108
+2,697
+-16
+3,271
+5,974
+-7,412
+-1,023
+-4,083
+10,395
+-15,979
+8,644
+-8,879
+10,133
+-2,984
+608
+-427
+2,404
+6,666
+-12,623
+-1,689
+5,433
+-505
+4,174
+6,463
+7,118
+-15,158
+2,610
+-1,895
+5,194
+-4,427
+2,584
+-6,784
+17,726
+-8,919
+5,399
+476
+5,130
+-12,007
+12.371
+-9,379
+400.2 -12.1
 acquired 6. The levels of agency issues were as follows:
 August 14
 within
@@ -410,3 +800,5 @@ August 16, 1996
 --- 3,399
 --- 433
 --- 409
+900 450
+4,271

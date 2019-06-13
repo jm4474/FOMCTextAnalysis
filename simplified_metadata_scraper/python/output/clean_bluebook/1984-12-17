@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 14, 1984
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -32,6 +40,8 @@ crease at an annual rate of about 4 percent. For the year 1984, M1 likely
 will expand by about 5 percent on a fourth-quarter to fourth-quarter basis,
 in the lower half of its 4 to 8 percent longer-run range, as shown in the
 table below.
+1984 Growth Rates and Ranges
+(Measured QIV to QIV)
 M1 M2 M3 Debt
 e/ Estimated.
 (2) M2 surged in November at a 15 percent annual rate, reflecting
@@ -51,11 +61,18 @@ Reserve Measures 2
 Nonborrowed reserves 3
 Total reserves
 Monetary base
+14.9 10.5
+15.9 13.4
+14.2 12.9
+17.4 -0.5
+11.3 -0.6
+3.9 3.1
 Memo: (Millions of dollars)
 Adjustment and seasonal
 borrowing
 Excess reserves
 September-to-December period is likely to be well in excess of the FOMC's
+7-1/2 percent short-run path. For the year as a whole, the staff estimates
 that M2 will have increased by about 7-1/2 percent, at the middle of its
 longer-run range.
 (3) M3 grew at a 16 percent annual rate in November, spurred by
@@ -97,6 +114,7 @@ current reserve period borrowing has averaged under $300 million.
 count rate from 9 to 8-1/2 percent on November 21 led to a drop in the federal
 funds rate from about 9-3/4 percent at the time of the November FOMC meeting
 to around 8-3/4 percent recently, with trading in the last two days below
+8-1/2 percent. Other market interest rates also have continued to move
 down. Short-term interest rates have declined another 45 to 60 basis points.
 Declines were smaller in intermediate- and long-term credit markets, which
 have been affected by uncertainties about future federal budget deficits and
@@ -144,6 +162,12 @@ M1 M2 M3
 ------------------------------------ ------------------------- -------------------------
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
 Monthly Levels -- ---- ------ ------ -- --
+1984--October 545.5 545.5 545.5 2317.4 2317.4 2317.4 2916.3 2916.3 2916.3
+November 549.4 549.4 549.4 2346.2 2346.2 2346.2 2955.0 2955.0 2955.0
+December 552.6 552.6 552.6 2371.8 2371.8 2371.8 2983.7 2983.7 2983.7
+1985--January 556.1 555.6 555.1 2389.6 2386.6 2383.7 3005.6 3003.6 3001.6
+February 559.9 558.6 557.4 2405.9 2400.4 2395.0 3025.6 3022.1 3018.6
+March 564.1 561.7 559.5 2420.5 2412.7 2404.9 3043.7 3038.7 3033.8
 Growth Rates
 Monthly
 Growth Rates
@@ -230,6 +254,7 @@ the discount rate were reduced from the present 8-1/2 percent level,
 reserve growth consistent with this alternative could be accomplished
 with somewhat less expansion in nonborrowed reserves than otherwise.
 Under this alternative, the 3-month Treasury bill rate may drop to around
+7-1/2 percent, but yield declines in long-term markets may be more limited.
 The dollar probably would come under downward pressure in foreign exchange
 markets, although any depreciation would be moderated if foreign monetary
 authorities allowed their domestic rates to fall as well under the circum-
@@ -286,6 +311,109 @@ Shofrt Term
 Treaury bills CD comm m bank
 l secondary market secoMndacy market rie
 funds market PaPer mulual p
+9.64
+7.72
+10.76
+8.50
+8.93
+9.17
+9.02
+9.18
+9.66
+9.84
+10.31
+10.51
+10.52
+10.61
+10.47
+9.87
+8.81
+8.60
+8.55
+9.79
+7.82
+11.09
+8.72
+9.08
+9.24
+9.07
+9.20
+9.67
+9.95
+10.57
+10.93
+10.89
+10.71
+10.51
+9.93
+9.01
+8.84
+8.82
+9.93
+8.15
+11.71
+8.84
+9.36
+9.69
+9.42
+9.54
+10.41
+11.11
+11.34
+11.56
+11.47
+11.29
+10.38
+9.18
+8.87
+8.92
+9.85
+8.01
+11.35
+8.64
+9.10
+9.56
+9.23
+9.35
+9.81
+10.17
+10.38
+10.82
+11.06
+11.19
+I1.11
+10.05
+9.01
+8.64
+8.68
+8.79
+7.71
+10.72
+8.69
+8.55
+8.69
+8.80
+8.72
+8.91
+9.29
+9.52
+9.92
+10.30
+10.58
+10.62
+10.16
+9.41p
+8.85
+8.69
+1993--High
+Lov
+1984--Hgh
+Low
+1983--Nov.
+Dec.
+1984--Jan.
+Feb.
+Mar.
 Apr.
 Kay
 June
@@ -297,11 +425,61 @@ Nov.
 Daily--Dec. 7
 13
 14
+11.50
+10.50
+13.00
+11.00
+11.00
+11.00
+11.00
+11.00
+11.21
+11.93
+12.39
+12.60
+13.00
+13.00
+12.97
+12.58
+11.77
+11.25
+11.25
+11.25
+11.25
+11.25
 Long Term
 U.S. govemmmnt constant corporate munl homeot
 maturlty yields A ulillly cipal conven. FHu A FNMA
 recently Bond lional 1 yu
 3-year &yea 30-y olered Buyer at S&ALs ARM
+11.57
+9.40
+13.44
+10.60
+10.96
+11.13
+10.93
+11.05
+11.59
+11.98
+12.75
+13.18
+13.08
+12.50
+11.85
+10.90
+11.10
+10.88
+10.60
+10.85
+10.72
+10.5
+2
+p
+11.62 11.63 10.44
+11.70 11.70 --
+11.79 11.67 --
+11.57p 11.55p
 FR I"lli(44
 _L ^L - -- ---- , ---------- - . - ----- ,- -----^L
 Security Dealer Positions
@@ -309,6 +487,15 @@ Millions of dollars December 17, 1984
 Cash Positions Forward and Futures Positions
 Treasury coupon* I Treasury couponSPeirod ,Nel Treasuiy under over federal prlvate Tresury under ovr lederal private
 Total bills 1 yeu 1 year agency short-term bills 1 a 1 y1ar ayency short-ten
+1983--High
+Low
+1984--ltgh
+Low
+1983--Nov.
+Dec.
+1984--Jau.
+Feb.
+Mar.
 Apr.
 May
 June
@@ -317,10 +504,295 @@ Aug.
 Sept.
 Oct.
 Nov.
+20.858
+-296
+23,967
+5,107
+15,981
+18,172
+12,472
+9,287
+14,408
+14,163
+16,483
+12,353
+11.509
+17.985
+21,985
+19,219'
+23,354
+21,120
+20,270
+20,752
+24,205
+21,403
+20.233
+16,930*
+16.082*
+18,692*
+21,911*
+13,273
+-3,461
+13,695
+-8,251
+10,762
+8.653
+10,815
+9,658
+4,619
+2.929
+-7.105
+-2,631
+-2,382
+4,555
+11.673
+9,849*
+12.953
+11,501
+11.937
+10,281
+11.678
+8,901
+9,918
+10,040*
+10,238*
+11,400*
+13,9974
+1,579
+-687
+1,296
+71,038
+934
+1,165
+1,083
+949
+811
+-32
+-291
+-596
+-604
+-89
+310
+116
+-398*
+-36
+23
+-31
+188
+382
+427
+6
+-353*
+-6424
+-647*
+-244*
+8,778
+-3,148
+6.746
+-5.664
+325
+-831
+667
+-1,547
+-2,626
+-1,64'.
+-1,754
+-3,248
+-3,393
+-1,186
+2,668
+4,997*
+853
+690
+992
+4,340
+5.,694
+4,840
+6,170
+3,913*
+5,422*
+3.376*
+3,880*
+12,088
+4,013
+19,525
+11,086
+9,451
+11,568
+11.398
+12,532
+16,151
+16,649
+16,849
+15.999
+16.040
+16,098
+14,063
+13.168
+16,108
+11,693
+12,816
+13,254
+13,612
+13,645
+14,999
+14,719
+14,757*
+15,205
+17,526*
+18,500*
+17,005
+8,839
+18,737
+11.263
+15.302
+15,449
+12.788
+13,349
+12,764
+13.065
+12,525
+14,457
+14,751
+15.556
+17,699
+16,282
+17,942*
+17,197
+15,197
+15,616
+16.246
+17,170
+18,668
+18,085
+17,737*
+17,7420
+17.753*
+17,542*
 securltes.
 * StriVly confldOntlal
+1,654
+-11,307
+8,272
+-13,048
+-7.993
+-5,549
+-10,846
+-8.774
+-1,026
+-2,140
+5,511
+2,207
+-2,516
+-7,312
+-9,771
+-8,673
+-8,668
+-10,371
+-11,280
+-9,761
+-8,789
+-8,635
+-8,283*
+-8.624*
+-8,340*
+-9,767*
+14
+-95
+22
+-327
+-2
+-2
+-15
+-38
+-10
+-13
+-10
+-21
+-89
+-240
+-122
+-49
+-56
+-98*
+-96*
+68'
+131*
+1,516
+-3,270
+3.381
+-933
+-1,022
+669
+-116
+23
+476
+347
+2.797
+2.503
+2,156
+1,603
+2,249
+2,449
+3,029
+1,133
+1,516
+892
+317*
+116*
+-1,157*
+-221'
+-907
+-8,001
+-7,223
+-10,679
+-5.445
+-7,354
+-7,474
+-8.192
+-9,552
+-9,422
+-9,676
+-9.937
+-9,650
+-9,073
+-8,332
+-8,153
+-9,478
+-9,021
+-8.438
+-8,652
+-9.080
+-8,811
+-8,905*
 -,.182
 i
+-4,411
+-9,564
+-4
+-12,600k
+-6,331
+-5,596
+-5,829
+-8,673
+-6.236
+-5,462
+-2,233
+-1,195
+-2,599
+-9,304
+-8,960
+-4.025
+-3,156
+-4,479
+-7,148
+-7,188
+-10,030
+-12,055
+-12,195*
+-12.600*
+-13,105'
+-12,975*
 Net Changes in System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -328,10 +800,20 @@ CLASS II-FOMC
 December 17, 1984
 Treasury Treasury coupons net purchases
 3  Federal agencies noe purchases
+4  Net change
+Pero bills ntt 0 Outrig M Nt RPt
 heri
 o d
 within within 1-5 510 ooer 10 to tal
 Ich I 1-year 1-5 5-10 over 10 total 1-5 510 1over 10 total ot 1
+1983--qr . II
+111
+IV
+1984--qT . I
+II
+III
+1984 may
+June
 July
 Aug.
 Sept.
@@ -340,10 +822,114 @@ siPt.
 19
 26
 Level--Dec. 14
+6,243
+-3,052
+5.337
+5,698
+5,116
+4,617
+4.738
+-1,168
+491
+-3,593
+801
+-1,497
+-2,104
+3,178
+-431
+-1,078
+-1,146
+-615
+207
+15
+1,693
+110
+2,299
+173
+156
+155
+198
+600
+3,456
+2,138
+1,702
+1,794
+1,896
+595
+481
+820
+5,035
+4,564
+2,768
+2,803
+3,653
+1,203
+975
+-300
+1,484
+300 - -
+830 335
+36.9 14.1
+164 1,475
+20.2 88.C 2.4 4.3 1.2
+10,290
+2,035
+8,491
+8,312
+6,208
+5,439
+6,120
+-1,555
+1.918
+-3,633
+786
+-1.499
+-2.110
+3,777
+1,950
+588
+328
+-731
+-1,087
+-1,151
+-61S
+507
+15
+1,603
+1,585
+2,299
 .4 8.4 I 170.6
+-2.597
+2,462
+684
+1,461
+-793
+9,412
+-286
+70
+-3,643
+-3,572
+-656
+4,951
+-3 805
+3,612
+114
+2.228
+2,915
+-608
+-3,925
+4.133
+-1,926
+-165
+2,410
+814
+-503
+-1,319
 -. 2
 I Change from end-of-period to end of period. 6 In addition to the net purchases of securties. also reflects changes in System holdmg of bankers'
 2 Outright transactions in market and with foreign accounts, and redemptions I-) in bill auctions. acceptances, direct Treasury borrowing from the System and redemptions (- of agency and Trea-
 3 Outright transactions in market and with foreign accounts, and short-term notes acquired in ex sury coupon issues.
 change for maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon 6 Includes changes in RPs (+), matched sale purchase transactions (-), and matched purchas4ale
 ssues, and direct Treasury borrowing from the System. transactions (*).
+4 Outright transactions in market ad with foreign accounts only. Excludes redemptions and maturity
+shifts. FR i'(lA 1(71l

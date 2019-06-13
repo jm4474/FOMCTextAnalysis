@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -85,6 +93,8 @@ against the U.S. dollar.
 (5) The monetary data in this bluebook incorporate new
 benchmark and seasonal adjustments. These data confirm that M2
 grew 1.0 percent from 1993:Q4 to 1994:Q4, at the lower end of its
+4
+1-to-5 percent annual range. M3 expanded 1.4 percent last year,
 (Footnote continues on next page)
 a little more than previously estimated, leaving this aggregate well
 within its 0-to-4 percent annual range. With both aggregates continu-
@@ -152,6 +162,8 @@ cent, in the lower half of the 4-to-8 percent monitoring range for
 this aggregate.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+93:Q4 94:Q4
+to to
 Dec. Jan. 94:Q4 Jan.
 Money and credit aggregates 1
 Domestic nonfinancial
@@ -207,6 +219,7 @@ expectations. Thus, it does not allow for special effects from mone-
 tary or fiscal policy credibility. On the supply side of the model as
 well as in the baseline, the natural rate of unemployment is assumed
 to be 6 percent and the growth rate of potential GDP to be just under
+2-1/2 percent. For each year unemployment exceeds its natural rate by
 one percentage point, the slack in the labor market tends to reduce
 the inflation rate by about 1/2 percentage point.
 (11) Under the baseline strategy, the Committee maintains
@@ -228,16 +241,39 @@ Nominal GDP growth
 baseline 6.6
 tighter 6.6
 Real GDP growth
+4.8
+4.5
+5
+3.6
+3.4
+2.4
+4.7
+3
 (fourth-quarter level,
 (QIV to QIV percent
 baseline
 tighter
+3.6
+2
+4.8
+3.4
+2
+2.1
+5.9
+6.8
 (fourth-quarter level, percent)
 Federal funds rate
 baseline
 tighter
+5.5
+6.5
+5.5
+5.7
+5.3
+4.9
 output beyond its potential pushes the inflation rate to 3-1/2 percent
 late in the decade. The drop in real interest rates lowers the
+9foreign exchange value of the dollar, raising real net exports.
 Should financial market participants come to be convinced of the ul-
 timate scope of fiscal restraint more promptly than is assumed in the
 baseline, long-term interest rates could come under substantial down-
@@ -278,6 +314,7 @@ to make significant progress on inflation.
 unemployment rate has dropped to 5-1/2 percent, raises some question
 about whether the natural rate of unemployment is lower than 6 per-
 cent. Chart 4 considers the implications for monetary policy of a
+5-1/2 percent natural rate of unemployment. In these circumstances
 the Committee can maintain a 5-1/2 percent funds rate for some time
 and still make as much progress toward price stability as with much
 higher interest rates when the natural rate is 6 percent. The higher
@@ -307,12 +344,14 @@ Nominal GDP 6.4 4-3/4 4-1/2 5 3-1/2
 ates substantially in 1995. The higher short-term rates of the
 tighter strategy are associated with an elevated path for long-term
 rates as well, but much of their effects on spending is not felt until
+1996. The different projections for interest rates in 1995 do have
 relatively larger effects on the composition of financial flows this
 year, and hence on some of the monetary aggregates under the two
 (17) Despite the appreciable slowing in nominal GDP,
 aggregate measures of nonfinancial debt are expected to increase at
 roughly the same pace as in 1994 under the baseline forecast. Debt
 velocity would flatten after several years of small increases (chart
+5). On the supply side, although competition to extend credit should
 remain intense given healthy lender capitalization, banks and other
 institutional lenders are not likely to continue to ease standards and
 shave already thin lending margins much further. Moreover, many
@@ -368,6 +407,7 @@ short-term market rates in 1995 hold steady. In an environment of
 stable or declining long-term rates and a still-steep yield curve
 under the baseline case, bond mutual funds will again become attrac-
 tive investment options for some savers. After the experience of
+1994, however, the staff would not expect a major shift into these
 instruments. Consequently, projected growth of M2 would be below the
 rates from conventional money demand models--but only by about a per-
 centage point, far less than in the 1990-1993 period. The rising
@@ -565,9 +605,12 @@ May-95 3654.1 3645.2 4360.0 4354.7 1153.6 1149.3
 Jun-95 3661.4 3650.6 4368.7 4362.2 1154.6 1148.9
 Growth Rate
 From To
+1994 Target Ranges: 1.0 to 5.0 0.0 to 4.0
+1995 Target Ranges: 1.0 to 5.0 0.0 to 4.0
 provisional 1 to 5 percent growth range for 1995. Growth in M3,
 forecast at a 2-1/2 percent rate from January to June under alterna-
 tive B, would leave this aggregate above the midpoint of its tentative
+0 to 4 percent 1995 range. Managed liabilities in the broader ag-
 gregate again would help to finance bank credit expansion, which is
 projected at a 5 percent rate over the same period. Paced by federal
 debt growth of 5-1/2 percent from December to June, domestic nonfinan-
@@ -602,6 +645,7 @@ for growth of total domestic nonfinancial debt was SET
 (LOWERED TO) maintained at ____ TO ____ [DEL: 4 to 8] percent for the
 year. [DEL: For 1995, the Committee agreed on tentative ranges
 for monetary growth-, measured from the fourth quarter of
+1994 to the fourth quarter of 1995, of 1 to 5 percent for M2
 and 0 to 4 percent for M3. The Committee provisionally set
 the associated monitoring range for growth of domestic
 nonfinancial debt at 3 to 7 percent for 1995.] The behavior

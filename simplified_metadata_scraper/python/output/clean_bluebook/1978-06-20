@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 June 16, 1978
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
@@ -28,12 +36,23 @@ April. However, data available by mid-June suggested that M-1 growth
 may accelerate to an 8 per cent annual rate in June, bringing growth
 over the May-June period to an estimated 7½ per cent rate, just
 below the upper limit of the Committee's 3 to 8 per cent short-run
+1/
+operating range. Growth of M-2 in the May-June period is projected
 at a 7 per cent annual rate, as compared with the 4 to 9 per cent
 range adopted by the FOMC. Flows into savings deposits at banks slowed
 in May, but this decline was offset by a sharp rise in large-denomina-
 tion time deposits included in M-2. Although deposit inflows at thrift
 institutions accelerated somewhat in May, they remained substantially
 below the pace of last year.
+1/ These figures do not incorporate the benchmark revisions based on
+recently available December 1977 Call Report data for nonmember
+banks; the revised aggregates will be published on June 22. As
+shown in Appendix Table III, the benchmark revision increases the
+growth rates for M-1 and M-2 by an average of about three-tenths
+of a percentage point in the fourth quarter of 1977 and the first
+two quarters of 1978. All tables on subsequent pages of this
+report (with the exception of the first table following the
+appendices) are based on the revised series.
 Growth in Monetary Aggregates
 over May-June Period
 Ranges Latest Estimates
@@ -44,6 +63,7 @@ rate (per cent week ending
 per annum) 7¼ to 7¾ May 17 7.34
 (2) In accordance with the Committee's instructions, the
 Account Manager sought a slight firming in the Federal funds rate to
+7 per cent in the days immediately following the May meeting. The
 target rate for Federal funds has been maintained at this level in
 subsequent weeks as incoming data, until recently, suggested that
 growth in both M-1 and M-2 would be well below the upper limits of
@@ -56,6 +76,7 @@ raised in mid-May have increased member bank demand for nonborrowed
 reserves, which are expected to rise at a 9½ per cent annual rate over
 May and June.
 (3) Short-term interest rates generally have increased from
+15 to 60 basis points since the last meeting. The largest increases
 were on CD's and commercial paper, reflecting strong short-term
 business credit demands. In May, bank loans to businesses
 rose at a 33 per cent annual rate. Although bond issuance by
@@ -96,6 +117,8 @@ time periods.
 Past Past Past
 Twelve Six Three Past
 Months Months Months Month
+1976 & May '78 May '78 May '78 May '78
+1977 over over over over
 Average May '77 Nov. '77 Feb. '77 Apr. '77
 Concepts of Money
 Bank Credit
@@ -104,6 +127,14 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift institutions
+--which are derived from either end-of-month or Wednesday statement date figures.
+Growth rates for reserve measures in this and subsequent tables are adjusted to
+remove the effect of discontinuities from breaks in the series when reserve require-
+ments are changed.
 Prospective developments
 (7) The table below presents for Committee consideration
 two alternative sets of specifications for the monetary aggregates
@@ -125,18 +156,37 @@ and is expected to be associated with M-1 growth in a 7 to 11 per cent
 annual rate range over the forthcoming two-month period. The staff
 projection implies that growth in M-1 over the second quarter will
 be at a 9½ per cent annual rate, and that in July this aggregate
+1/ The ranges are based on the newly benchmarked series for the
+monetary aggregates. (See Appendix III.)
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1 M-2
 Alt. A Alt. B Alt. A Alt. B
+1978 May 348.2 348.2 834.7 834.7
+June 350.9 350.8 841.0 840.7
+July 353.4 353.1 847.0 846.3
+1978 QI 340.3 340.3 818.2 818.2
+QII 348.5 348.4 835.1 835.0
+QIII 354.0 353.7 851.1 850.3
+QIV 355.8 355.7 864.2 863.5
+1979 QI 358.1 358.1 878.1 877.6
 Growth Rates
 Monthly:
 Quarterly Average:
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M-3 Bank Credit
 Alt. A Alt. B Alt. A Alt. B
+1978 May 1419.3 1419.3 914.5 914.5
+June 1429.9 1429.4 922.1 922.1
+July 1440.2 1438.9 929.4 929.1
+1978 QI 1392.3 1392.3 891.7 891.7
+QII 1420.0 1419.9 915.0 915.0
+QIII 1448.5 1446.6 939.0 938.6
+QIV 1473.3 1470.4 960.1 959.2
+1979 QI 1498.1 1494.8 980.5 979.1
 Growth Rates
 Monthly:
 Quarterly Average:
+10.0 9.8QI '78-QI '79 7.6 7.4
 will remain well above the level implied by the upper end of the FOMC's
 longer-run range, as shown in Chart 1 on the following page.1/
 (9) Expansion in M-2 under Alternative A is also likely to
@@ -152,11 +202,13 @@ as negotiable CD's not included in M-2, are expected to be issued
 aggressively so that banks may accommodate continued substantial
 growth in credit demands. Both the expected level of market rates
 of interest and shifts from savings accounts to the newly authorized
+6-month money market certificate are likely to contribute to a
 contraction in savings accounts at both banks and thrift institutions.
 Commercial banks are expected to garner less new money from the new
 instrument than thrifts, and bank inflows of time deposits subject
 to rate ceilings are projected to moderate from their surprisingly
 well maintained pace of the last two or three months.
+1/ The QI '78 base level for the FOMC's current longer-run ranges,
 shown in the chart, has been raised to reflect the benchmark
 revision in the series. Thus, the longer-run ranges now imply
 higher levels for the aggregates over the QI '78 to QI '79 period.
@@ -212,6 +264,7 @@ inflows at around recent levels.
 (14) Alternative B calls for an increase in the Federal
 funds rate to around the mid-point of a 7½ to 8 per cent range
 between now and mid-July. M-1 growth would likely be in a 6½ to
+10½ per cent annual rate range over June and July and M-2 growth
 in a 6½ to 10½ per cent range. The additional firming of ¼ percentage
 point in the funds rate under this alternative would likely be
 associated with upward adjustments in short-term market rates of
@@ -249,13 +302,21 @@ the Federal funds rate might need to rise to 9 to 10 per cent by fall
 to restrain growth in the aggregates to within the longer-run ranges.
 Under Alternative B, restraint would be introduced earlier and, as a
 result, the level of the funds rate required in late 1978 and early
+1979 would be somewhat less. As noted in recent Bluebooks, these pro-
 jections assume a resumption of a downward shift in money demand.1/
 (18) With the projected increase in market rates of interest,
 the staff continues to believe that another adjustment in deposit
 interest rate ceilings will be needed to keep M-3 growth within its
+2/
+7½ to 10 per cent range over the QI '78 to QI '79 period. Even
 with such an adjustment, our projections of financial flows call for
 continued erosion of the liquidity positions of all depository
 institutions, which will be required to draw down liquid assets and
+1/ No allowance has been made in this projection for the effect on
+measured M-1 of automatic transfers from savings to demand deposits,
+scheduled to be authorized at commercial banks on November 1.
+2/ Staff projections assume a 25 basis point increase in longer-term
+time deposit ceilings this fall.
 increase their reliance on managed liabilities to meet credit demands.
 Consequently, as the year progresses, the banks and thrifts may be
 expected to become much less willing lenders.
@@ -281,6 +342,10 @@ Committee such growth rates are likely to be associated with a
 weekly-average Federal funds rate
 (A) AT ABOUT THE CURRENT LEVEL.
 (B) slightly (OR SOMEWHAT) above the current level.
+1/ In a memorandum dated June 7, the staff proposed modified
+language for these operational paragraphs and for the preceding
+paragraphs dealing with the Committee's general policy stance
+and longer-run ranges for the aggregates.
 If, giving approximately equal weight to M-1 and M-2, it
 appears that growth rates over the 2-month period will deviate
 significantly from the mid-points of the indicated ranges, the
@@ -304,6 +369,9 @@ the longer-run ranges for monetary aggregates cited in the
 preceding paragraph. Specifically, the Committee seeks (A) to
 maintain the weekly-average Federal funds rate at about the
 current level (or (B) to increase the weekly-average Federal
+1/ If the Committee adopts this formulation, it may wish to replace
+the clause "at approximately the rates currently expected" with
+"at rates within the ranges of tolerance cited below."
 funds rate slightly or somewhat from the current level), so long
 as M-1 and M-2 appear to be growing over the June-July period
 at annual rates within ranges of tolerance of ____ to ____ per

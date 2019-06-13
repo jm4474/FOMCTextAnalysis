@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -40,6 +48,8 @@ the next week and a half, market rates backed up, particularly after
 the release on April 1 of the strong March employment report:
 Chart 1
 Federal Funds Futures*
+5.0 h-
+4.5 -
 May 13
 April 19
 April 15 .
@@ -48,6 +58,7 @@ Months ahead
 *Observations are for the current, 1-, 2-, and
 5-month contracts
 Percent Darly close
+3/22 4/1 4/18 4/28 5/6
 Yield Curve Movements
 Percent
 '- -- I-
@@ -61,8 +72,15 @@ Employment
 - -. -
 Policy
 Move
+0 4
+4/28
+GDP
+Q1
 ~J5- % S
 Daily close
+30-yr T-bond
+10-yr T-note
+5-yr T-note -
 ' ' 2-yr T-note
 "-- 6-mo T-bill
 Intended
@@ -89,6 +107,7 @@ for more aggressive policy action.
 (4) On balance, since the day before the March meeting.
 while the funds rate has been raised 50 basis points, other short-term
 interest rates have risen 60 to 85 basis points, intermediate rates
+85 to 100 basis points, and long-term rates 60 to 75 basis points.
 The weakness in the dollar suggests that a portion of the increase in
 interest rates likely represents a market view that some of the
 developing price pressures will ultimately show through into higher
@@ -135,6 +154,7 @@ million against yen and marks, equally divided between System and
 Treasury accounts.
 (6) The broad monetary aggregates accelerated somewhat more
 than expected at the time of the March FOMC meeting. M2 rose at a
+4 percent rate and M3 at a 2-1/2 percent rate over March and April.
 compared with projected growth rates of 3-1/4 and 1-3/4 percent, re-
 spectively. These increases left M2 somewhat below the midpoint of
 its 1-to-5 percent range for 1994 and M3 somewhat above the lower end
@@ -171,6 +191,7 @@ financing and discouraged refinancing of outstanding obligations, it
 appears to have little affected nonfinancial debt growth. Debt of the
 nonfederal sectors has increased at a 4-1/2 percent rate in recent
 months, about in line with the more rapid pace of the second half of
+1993. Overall business borrowing has remained subdued. Consumer
 credit is growing briskly, but household mortgage indebtedness appears
 to be expanding only moderately. State and local governments have
 slowed their net debt issuance of late, owing to improved fiscal
@@ -341,6 +362,7 @@ Jun-94 3597.3 3594.6 4221.4 4210.5 1146.6 1145.1
 Jul-94 3602.1 3598.2 4226.3 4224.4 1150.1 1148.1
 Aug-94 3607.2 3602.4 4231.2 4227. 1154.1 1151.5
 Sep-94 3612.3 3606.'1 4236.5 4231.P 115Q.0 1155.0
+1 .) to 5.0 0.0 to 4.01994 Target Ranges:
 Billions of Dollars
 I
 Actual Level
@@ -351,6 +373,7 @@ SB
 S D
 I I I I I I I I I I I I I I 110oo
 O N D J F M A M J J A S O N D J
+1993 1994 1995
 to the growth of the broader aggregates, contributing to an appreci-
 able slowing from the stepped-up pace of March and April. Under both
 alternatives, growth from the fourth quarter of last year to September
@@ -386,6 +409,10 @@ Short Term Long Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm market bank US government constant A utility municipal secondary primary
 funds secondary market markel paper mutual prime maturity yields recently Bond marke market
+93 -- High
+Low
+94 -- High
+-- Low
 Monthly
 May 93
 Jun 93
@@ -420,6 +447,109 @@ Daily
 May 6 94
 May 12 94
 May 13 94
+3.24
+2.87
+3.76
+2.97
+3.76
+3.70
+3.12
+2.82
+4.18
+2.94
+3.95
+4.18
+3.27
+2.94
+4.68
+3.12
+4.37
+4.68
+348
+3.07
+5.14
+3.35
+4.86
+5.14
+3.36
+3.06
+4.61
+3.11
+4.22
+4.61
+344
+307
+429
+3.11
+3.95
+4.29
+2.92
+2.59
+3.24
+2.68
+3.15
+3.24
+6.00
+6.00
+6.75
+6.00
+6.75
+6.75
+6.75
+6.75
+6.75
+1 _______________________________________________________ .5
+5.06
+4.07
+6.50
+4.44
+621
+6.50
+650
+653
+6.43
+6 73
+5.24
+7.34
+5.70
+7.09
+7.34
+7.46
+5.83
+7.52
+6.25
+733
+752
+828
+6.79
+8.51
+7.16
+851
+846
+6.44
+5.41
+6.60
+5.49
+643
+6.60
+8.17
+6.72
+8.98
+7.02
+8.89
+898
+8.14
+6.74
+8.77
+6.97
+853
+877
+536
+414
+5.54
+4.12
+525
+554
 p preliminary data
 Strictly Confidential (FR)
 Class II FOMC
@@ -434,8 +564,16 @@ other' totaP
 In M2 In M3 only investments' government'
 Levels ($Billions):
 Monthly
+1993-DBC. 1128.4 3563.1 2434.7 661.7 4224.8 5122.3 3104.6 3327.9 8981.8 12309.6
+1994-JAM. 1133.5 3569.0 2435.5 659.9 4228.9 5142.7 3124.0 3335.6 9018.8 12354.4
+FEB. 1138.6 3564.7 2426.1 637.2 4201.9 5133.3 3138.3 3349.3 9050.9 12400.2
+MAR. 1142.4 3579.4 2437.0 631.2 4210.6 5140.4 3165.6 3374.7 9086.0 12460.6
+APR. p 1141.3 3587.8 2446.5 632.1 4220.0 3193.1
 Weekly
 1994-APR. 4 1148.0 3582.6 2434.6 631.9 4214.5
+11 1143.7 3595.3 2451.6 628.5 4223.7
+18 1137.6 3588.7 2451.1 639.6 4228.2
+25 p 1136.4 3582.9 2446.5 632.7 4215.6
 MAY 2 p 1138.7 3581.5 2442.8 626.4 4208.0
 p preliminary
 pe preliminary estimate
@@ -443,6 +581,9 @@ Components of Money Stock and Related Measures
 Seasonally adjusted unless otherwise noted
 Levele ($Billion-) s
 Annually (4th Qtr.)
+1991
+1992
+1993
 Monthly
 1993-APR.
 MAYt
@@ -453,6 +594,9 @@ SEP.
 OCT.
 NOV.
 DEC.
+1994-JAM.
+Feb.
+MAR.
 APR. p
 Currency Demand
 deposits
@@ -502,31 +646,363 @@ Commercial Bankers
 paper' aoceptan-
 Ces
 I ~ ~~ ~~ ~~~~ 4 I - I4II -
+265.6
+329.7
+319.5
+301.8
+304.4
+307.2
+309.7
+312.4
+315.4
+317.6
+319.5
+321.4
+325.2
+329.2
+332.4
+2386.3
+337.1
+382.1
+349.0
+358.8
+362.2
+366.4
+370.9
+375.4
+378.4
+383.2
+384.8
+388.3
+390.3
+390.0
+328.8
+380.1
+411.9
+388.2
+396.4
+399.2
+402.8
+404.2
+406.6
+409.5
+411.8
+414.3
+412.0
+411.2
+411.9
+77.5 1027.8
+81.2 1177.9
+89.2 1212.1
+77.2
+75.2
+78.5
+81.1
+82.1
+85.4
+08.1
+89.1
+90.3
+93.3
+90.8
+95.9
+1185.5
+1195.1
+1200.4
+1202.1
+1205.9
+1208.4
+1208.8
+1211.9
+1215.5
+1220.3
+1220.9
+1221.9
+1082.8
+883.0
+788.1
+839.4
+832.4
+823.9
+814.4
+806.2
+799.4
+793.5
+788.0
+782.8
+777.2
+772.4
+769.5
+369.7
+354.0
+346.7
+345.9
+348.5
+347.5
+346.6
+345.5
+345.0
+344.4
+347.0
+348.8
+347.8
+343.7
+348.6
+174.4
+206.5
+195.4
+196.3
+198.0
+194.7
+192.6
+190.1
+190.8
+194.3
+194.8
+197.0
+192.7
+176.9
+177.4
+433.1
+365.3
+340.0
+348.8
+348.2
+345.3
+341.8
+341.6
+340.4
+341.6
+339.4
+338.9
+341.1
+335.1
+332.4
+74.7
+80.9
+94.5
+88.9
+89.8
+92.8
+96.4
+96.0
+95.6
+94.2
+94.0
+95.3
+91.2
+89.3
+91.9
+137.0
+154.4
+170.9
+163.6
+164.7
+165.9
+167.1
+168.2
+169.2
+170.1
+170.8
+171.7
+172.7
+173-4
+174.1
+321.1
+327.7
+322.3
+341.8
+343.4
+344.2
+341.9
+341.7
+326.3
+321.5
+321.0
+324.3
+334.6
+339.7
+340.0
 p preliminary
+334.0
+366.3
+385.2
+367.1
+371.8
+370.9
+370.4
+379.5
+378.4
+384.7
+384.1
+386.8
+391.6
+403.0
+400.1
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
+1991
+1992
+1993
+1993 ---01
+---Q2
+---03
+--- 04
+1994 ---Q1
+1993 May
+June
+July
+August
+September
+October
+November
+December
+1994 January
+February
+March
+April
 Weekly
 January 19
+26
+February 2
+9
+16
+23
 May 4
 11
 Memo: LEVEL (bil. $)
 May 11
+20.038
+13,086
+17,717
+7,749
+1,268
+8.700
+349
+7.280
+902
+366
+1.396
+5.911
+1,394
+1,264
+900
+246
+1,197
+100
+55
+42
+19,038
+11.486
+17,249
+7.749
+1,268
+8.232
+349
+7,280
+902
+366
+927
+5,911
+1,394
+1,264
+900
+246
+1,197
+100
+55
+42
+3,043
+1,096
+1.223
+100
+411
+147
+209
+1.280
+2,818
+4,168
+716
+1.147
+1.297
+1.008
+500
+797
+375
+2,333
+3,457
+705
+1,110
+817
+826
+13.118
+10,350
+1.441
+2,490
+100
+2,619
 --- 11,282
 -- 19,365
 -- 3,141
 - 4,990
 - 6.326
 - 4,742
+616 2.665
+200
+1,800
+4,326
+100
+4,642
+3.281
+4,599
+616 -616
 --- 3281
+440 4.599
+25.0 33.6 342.9
 A <
+27.726
+30,219
+35,374
+2.851
+12,648
+7,067
+4,418 -11,663
+308 4.112
+7,258 12.027
+-166 -14.435
+2,577 4,528
+4,656 1.262
+857 -6.723
+5,996 7,232
+5.954 3.947
+-817 -7.757
+1,163 3,946
+4.073 40
+5,520 8,208
+-616 4.336
+-85 -6,244
+--- 11.046
 ---13,244
 -55 1.927
+246 4,096
+1,052 1.114
+100 -3,656
+55 4,446
+3.324 -4.258
+341 1.314
+320 8,695
+160 6.025
+5.264 2.333
+-51 3,059
 --- 3.490
 -25 2.299
 asury and agency securities.
 irchase transactions (-), and matched purchase sale transactions ().
 May 11
+16 1.8 o 00 40
 May 13, 1994
+1.103 618
+1,117 896

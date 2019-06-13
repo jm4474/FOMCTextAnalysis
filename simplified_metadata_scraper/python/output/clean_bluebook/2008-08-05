@@ -72,6 +72,8 @@ Chart 1
 Financial Institutions
 Jan. Feb. Mar. Apr. May June July Aug.
 2008
+50
+Dollars
 Fannie Mae
 Freddie Mac
 July 
@@ -90,6 +92,8 @@ CDS spreads for GSEs
 June
 FOMC
 Source. Markit.
+240
+Basis points
 Fannie Mae
 Ginnie Mae
 July 
@@ -97,6 +101,8 @@ July
 Agency option-adjusted spreads
 June
 FOMC
+300
+Billions of dollars
 GSEs
 Ginnie Mae
 Non-agency
@@ -111,6 +117,8 @@ for Ginnie Mae.
 and Bloomberg.
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+200
+Basis points
 Regional bank index
 Large bank index
 July 
@@ -120,6 +128,8 @@ June
 FOMC
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+300
+Basis points
 July 
  30
 CDS spreads for investment banks
@@ -197,6 +207,7 @@ from options on federal funds futures, investors attach very high odds to no cha
 the target rate at the upcoming FOMC meeting, as do respondents to the Desk’s
 survey of primary dealer economists (Chart 2).  Futures quotes suggest that investors
 currently expect the federal funds rate to reach 2¼ percent by early 2009 and about
+3½ percent by mid 2010, about 40 and 50 basis points lower than at the time of the
 June meeting, respectively.  Respondents to the Desk’s survey anticipated the federal
 funds rate would reach 2¾ percent by the end of 2009, about 25 basis points less than
 implied by futures rates.  The option-implied distributions of the federal funds rate six
@@ -205,11 +216,19 @@ uncertainty, as measured by the width of these distributions, decreased to about
 middle of its range since last August, but remained high by historical standards.
 (9) Two-year nominal Treasury yields declined about 30 basis points over the
 intermeeting period, in line with the revision to policy expectations, while ten-year
+2 The effective federal funds rate averaged 2.02 percent over the intermeeting period.  
+Volatility in the market, though elevated by historical standards, was lower than it had been 
+over the last several intermeeting periods. Over this intermeeting period, the volume of long-
+term repurchase agreements (RPs) was unchanged, and the Desk did not redeem any 
+Treasury securities.
 Class I FOMC - Restricted Controlled (FR) 6 of 36
 Chart 2
 Interest Rate Developments
+90
+Percent
 Futures market*
   Desk’s survey**
+1.75 2.00 2.25
 Probability density for target funds rate
 after the August FOMC meeting
 *Derived from options on federal funds futures.
@@ -225,6 +244,10 @@ Recent: 7/30/2008
 Last FOMC: 6/24/2008
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
+250
+Percent Basis points
+10-year Treasury (left scale)
+6-month Eurodollar (right scale)*
 July 
  30
 Implied volatilities
@@ -232,12 +255,18 @@ Implied volatilities
 structures for the expected federal funds rate and implied volatility.
 June
 FOMC
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 June
 FOMC
 July 
  31
+4.0
+$/barrel Percent
 Spot WTI (left scale)
 Next 5 years (right scale)
 5-to-10 year forward (right scale)
@@ -312,11 +341,17 @@ Chart 3
 Asset Market Developments
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+140
+Basis points
+1-month
+3-month
 Spreads of Libor over OIS
 Daily June
 FOMC
 July 
  31
+170
+Index(12/31/2000=100)
 Wilshire 5000
 Dow Jones Financial
 Equity prices
@@ -325,6 +360,8 @@ FOMC
 July 
  31
 Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 June
@@ -337,6 +374,8 @@ for business loans over the past three months Percent
 Commercial real estate
 Jan. Apr. July Oct. Jan. Apr. July
 2007 2008
+104
+Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
 June
@@ -347,6 +386,8 @@ Bid-ask spread
 (left scale)
 July 
  31
+450
+Basis points
 FRM
 1-year ARM
 Residential mortgage rate spreads
@@ -425,6 +466,7 @@ Foreign Developments
 but both rebounded in the wake of improved investor sentiment when the rescue plan
 for the GSEs was announced and U.S. financial-sector earnings reports generally
 came in above market expectations.  The major currencies index depreciated almost
+2 percent between July 7 and July 15, when worries about the GSEs were at their
 height, but recovered as investor sentiment improved and ended the period little
 changed on net (Chart 4).  Major foreign stock markets retraced some of their earlier
 declines as well but ended the period about 3 to 5 percent lower, on net, amid signs
@@ -468,6 +510,7 @@ reflecting declines in inflation compensation.
 (18) The dollar’s value against the currencies of our other important trading
 partners declined about 1 percent as the Chinese renminbi rose a further ½ percent
 against the dollar and the Korean won, Mexican peso, and Brazilian real all appreciated
+2 to 2½ percent against the dollar.  Central banks in many emerging market
 economies continued to tighten policy in response to rising food and energy prices.
 Emerging stock markets were mixed but generally down, some more than 10 percent,
 and several Asian countries intervened to prop up falling share prices.
@@ -499,11 +542,19 @@ Q3
 Q4
 Q1
 Q2
+6.1
+3.8
+8.1
+5.8
+3.3
+2.6
 C&I loans
 Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector*
+2005 2006 Q1 Q2 Q3 Q4 Q1 Q2 July
+2007 2008
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 p Preliminary.
@@ -516,8 +567,11 @@ Home
 mortgage
 Funded CLO issuance
 Source. JPMorgan.
+2007 2008
 Monthly Rate
 Growth of M2
+2005 2006 Q1 Q2 Q3 Q4 Q1 Q2
+2007 2008
 M2 velocity and opportunity cost
 VelocityPercentage points
 Opportunity cost*
@@ -541,6 +595,10 @@ monetary assets.  Currency expanded strongly in June and July, in contrast to th
 subdued pace earlier in the year.  The stronger growth of currency appears to have
 mainly reflected greater domestic demand, but some indicators suggest that foreign
 demand for dollars may also have picked up from its recent sluggish pace.
+3 In conjunction with the housing bill, the federal debt limit ceiling was raised by 
+$800 billion.  The Treasury’s August quarterly refunding statement indicated larger issuance 
+of ten- and thirty-year debt to meet the higher anticipated funding needs of the federal 
+government.
 Class I FOMC - Restricted Controlled (FR) 18 of 36
 Economic Outlook
 (21) The staff has not appreciably altered the outlook for real activity and
@@ -588,6 +646,7 @@ potential.  The unemployment rate declines to about 4¾ percent only at the end 
 the projection period, to a level about in line with the staff’s view of the NAIRU after
 the temporary effects of the extended unemployment compensation have ceased.
 Given the persistence of slack over most of the period, PCE inflation declines to
+1¾ percent by 2011.
 Update on Monetary Policy Strategies
 (23) As shown in Chart 6, estimates of the equilibrium real federal funds rate are
 changed from those presented in the June Bluebook.  The Greenbook-consistent
@@ -598,6 +657,8 @@ close to the actual real federal funds rate, which is currently -0.2 percent whe
 Class I FOMC - Restricted Controlled (FR) 20 of 36
 Chart 6
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -611,11 +672,15 @@ Single-equation model (2.3 (2.2
 Small structural model -0.7 -0.6
 Large model (FRB/US) -0.1 (0.4
 Confidence intervals for three model-based estimates
+70 percent confidence interval -1.4 - 2.6
+90 percent confidence interval -2.3 - 3.9
 Greenbook-consistent measure (0.1 -0.1
 Medium-Run Measures
 Single-equation model (2.2 (2.2
 Small structural model (1.7 (1.8
 Confidence intervals for two model-based estimates
+70 percent confidence interval (1.1 - 3.0
+90 percent confidence interval (0.5 - 3.7
 TIPS-based factor model (2.0 2.0
 Measures of Actual Real Federal Funds Rate
 Based on lagged core inflation -0.2 -0.2
@@ -634,6 +699,28 @@ the long-run Greenbook forecast beyond 2009.  In these simulations, policymakers
 place equal weight on keeping core PCE inflation close to a specified goal, on keeping
 unemployment close to the NAIRU, and on avoiding changes in the nominal federal
 funds rate.5  For an inflation goal of 1½ percent (the left-hand set of charts), the
+4 As shown in the lower panel of the table, alternative measures of the real funds rate that 
+use headline inflation rather than core inflation are about unchanged relative to the previous 
+Bluebook.  Care should be taken in comparing these alternative measures of the actual real 
+federal funds rate to the r* values shown.  Such a comparison would require that the same 
+measure of expected inflation be used to calculate both rates and comparing the value of r* 
+to an average value of the real federal funds rate over 12 quarters (the period used in the 
+calculation of the r* measures).  Using lagged core inflation as a proxy for inflation 
+expectations, as has generally been the case in the Bluebook, and the staff assumption for 
+the path of policy, the Greebook-consistent r* is 0.1 percent and the average value for the 
+real funds rate over the next twelve quarters is 0.5 percent.  In contrast, if one uses lagged 
+headline inflation to approximate expected inflation, the Greenbook-consistent rate is -0.4 
+percent and the average real funds rate over the next twelve quarters is 0.1 percent.  Finally, 
+if projected headline inflation is used as a proxy for inflation expectations, the Greenbook-
+consistent r* is 0.3 percent and the average real funds rate over the next twelve quarters is 
+0.7 percent.  Note that in all three cases the difference between the Greenbook-consistent r* 
+and the average real funds rate on the same basis is about ½ percentage point.  
+ 
+5  Consistent with the staff assumptions in the Greenbook, the effective value of the NAIRU 
+used in the loss function is boosted 20 basis points over the second half of 2008 and in 2009 
+to control for the temporary effects of increased extended unemployment insurance 
+benefits.  In these projections, policymakers and participants in financial markets are 
+assumed to understand fully the forces shaping the economic outlook (as summarized by the
 Class I FOMC - Restricted Controlled (FR) 22 of 36
 optimal funds rate climbs from just above 2¼ percent to about 4 percent by the end
 of 2012.  With an inflation goal of 2 percent (the right-hand set of charts), the funds
@@ -645,10 +732,12 @@ increased unemployment insurance benefits on the effective value of the NAIRU.
 (25)  As depicted in Chart 8, the outcome-based monetary policy rule prescribes
 a funds rate path nearly identical to that in the previous Bluebook; the federal funds
 rate remains near 2 percent through the fourth quarter of this year, rises gradually to
+3¼ percent by the fourth quarter of 2009, and then stays between 3½ and 3¾ percent
 through the end of 2012.  Stochastic simulations of the FRB/US model indicate a 70
 percent probability that the prescriptions of the outcome-based rule will fall in the
 range of 2 to 4½ percent at the end of 2009.  Financial market quotes imply that the
 funds rate will remain at 2 percent in the current quarter but rise steadily from around
+3 percent at the end of 2009 to around 4¼ percent by the end of 2012.  This path is
 between 25 and 70 basis points lower than at the time of the previous Bluebook.  The
 confidence intervals implied by interest rate caps indicate a decreased probability of
 tightening between now and 2012, and the probability distribution remains skewed to
@@ -901,6 +990,7 @@ Class I FOMC - Restricted Controlled (FR) 32 of 36
 Table 2
 Alternative Growth Rates for M2
 (percent, annual rate)
+25 bp Easing No Change 25 bp Tightening Greenbook Forecast*
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates

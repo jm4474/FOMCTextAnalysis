@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 August 15, 1986
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -72,6 +80,7 @@ growth remained sizable while consumer credit slackened. Bond issuance in
 the tax-exempt market surged in advance of a tax reform deadline scheduled
 for September 1.
 (4) Nonborrowed and total reserves increased in July at about
+23 and 25 percent annual rates, respectively, reflecting rapid growth of
 required reserves against transactions deposits. With the decline in the
 discount rate, reserve paths continued to be constructed assuming $300
 million of adjustment plus seasonal borrowing. In the two complete reserve
@@ -98,6 +107,7 @@ rates have declined an additional 1/8 of a percentage point or so.
 (6) The dollar has fallen a further 3-1/4 percent on a weighted-
 average basis since the last Committee meeting. Declines of 5 percent
 against the mark and 3-3/4 percent against the yen were partly offset by a
+2-1/4 percent rise against sterling. Indications that other central banks
 would not follow, at least immediately, the Federal Reserve's discount rate
 cut in July and various statements by U.S. officials suggesting the
 possibility that additional dollar declines might be needed to correct
@@ -140,6 +150,7 @@ June 2671.4 2671.4 2671.4 3333.5 3333.5 3333.5 666.7 666.7 666.7
 July 2699.7 2699.7 2699.7 3369.8 3369.8 3369.8 676.1 676.1 676.1
 August 2718.8 2718.2 2717.5 3389.5 3389.0 3388.4 684.6 684.3 684.1
 September 2740.5 2735.5 2730.5 3412.5 3408.3 3404.1 693.4 690.9 688.4
+6 to 9 6 to 91986 Ranges: [3 to 8]
 special situation credit). Federal funds would probably continue to trade
 in the 6-1/4 to 6-3/8 percent area. M2 growth would be expected to slow to
 around 8 percent over August and September, reflecting in large measure a
@@ -150,6 +161,7 @@ to moderate as offering yields come more in line with market rates around cur-
 rent levels. Fragmentary data for early August suggest that expansion of M2
 is indeed slowing from its rapid July pace. Even with the anticipated moder-
 ation in M2, growth would average 9-1/2 percent fran June to September and
+10-1/2 percent on a quarterly-average basis in the third quarter, implying
 an unusually large drop in its velocity (given the greenbook forecast for
 GNP) of 5-1/2 percent at an annual rate. The projected moderation in M3
 growth from its July bulge reflects less rapid expansion in its non-M2 compon-
@@ -175,6 +187,7 @@ moderately in the fourth quarter, while the effects of earlier declines in
 interest rates on money demand should continue to diminish. Under these
 circumstances, both M2 and M3 are likely to remain fairly high in their
 long-run ranges, growing perhaps around 8-1/2 percent from QIV 1985 to QIV
+1986. M1 expansion for the year might be about 13 percent, with its velocity
 registering a record postwar decline.
 (12) Total debt of domestic nonfinancial sectors is likely to ex-
 pand a little more rapidly over August and September than in recent months.
@@ -212,6 +225,7 @@ aggregate to just below the upper end of its long-run range. There is a risk
 that M2 growth could be even more rapid if institutions prove especially
 reluctant to reduce offering rates on conventional NOW and savings accounts
 as market rates drop closer to the previous regulatory ceilings of 5-1/4 and
+5-1/2 percent on these accounts. In any event, given the lagged effects of
 any near-term easing in market conditions, M2 growth in the fourth quarter
 could continue at a fairly rapid pace, absent a subsequent move toward more
 reserve restraint; this would leave the aggregate around the upper end or
@@ -291,19 +305,83 @@ rate persistently outside a range of ____ TO ____ [DEL: 4 to 8] percent.
 Selected Interest Rates
 Percent
 August 18, 1986
+1985--ig8h
+Low
+1986--lih8
+Law
 Aug.
 Sept.
 Oct.
 Nov.
 Dec.
+1986--Jan.
+Feb.
+Mar.
+Apr.
+may
+June
+July
 Aug. 6
 13
 Daily-Aug. 8
 14
 15
+8.98
+7.13
+9.55
+6.31
+7.90
+7.92
+7.99
+8.05
+8.28
+6.36
+6.31
+8.65
+6.77
+7.21
+5.65
+7.14
+7.10
+7.16
+7.24
+7.10
+5.74
+5.65
+5.70
+5.59
+5.56
 - 8.00
 - .00
 - 8.00
+11.19
+8.24
+8.60
+6.64
+9.31
+9.37
+9.25
+8.88
+8.40
+6.79
+6.64
+6.68
+6.51
+6.51p
+7.30 7.41 --
+7.16 7.29
+7.14p 7.29p
+10.31
+8.85
+8.72
+7.55
+9.44
+9.61
+9.54
+9.22
+8.96
+7.97
+7.64
 Money and Credit Aggregate Measures
 Seasonally adjusted
 AUG. 18, 1986
@@ -318,7 +396,17 @@ API. 646.1 2622.4 1976.3 670.8 3293.2 3916.2 1947.9 1638.8 5431.7 7070.5
 irA 658.7 2649.9 1991.3 661.9 3311.8 3949.5 1957.5 1656.2 5477.0 1133.3
 JUNE 666.7 2671.4 2004.7 662.1 3333.5 3967.6 1963.7 1677.5 5517.1 7194.6
 JULI P 676.1 2699.7 2023.7 670.0 3369.8 1984.2 1697.0 5559.6 7256.6
+13888t LEVELS (SBILLIOIS)
+1986-JU.T 7 674.1
+14 673.4
+21 677.5
+28P 676.9
 AOG. 4P 679.6
+1/ ANNUAL RATES FOR BANK CREDIT ARE ADJUSTED FOR A. TLANSFER OF LOANS nFlO CONTINENTAL ILLINOI S ATIONAL BANK TO THE FDIC
+BEGINNIIG SEPTE88EB 26, 1984.
+2/ DEBT DATA 8tB ON A iOITHLY AVERAGE BASIS, DEBITED Bt AVERAGING END-OF-NOWTH LEVELS Or ADJACENT lONTHS, AND HAVE E888 ADJUSTED
+TO 8EOTVE DISCONTIUOITIES.
+P-PRBELla II
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted AUG. 18, 1986
 Small Money market Large
@@ -328,8 +416,257 @@ Period Currency deposits depoits Eurodollars NSA deposits time purpose, tions ti
 NSA deposlts' and brokerl only deposilts securities tances
 dealer
 ANNUALLI(4TB QTE):
+1983
+1984
+1985
+1985-JOLI
+AUG.
+SEPT.,
+1986-JAN.
+FIB.
 JOL P
 JOLI P
+147.2
+157.8
+169.7
+168.7
+169.8
+170.6
+171.9
+172.9
+173.9
+174.4
+175.8
+176.6
+243.4
+247. 1
+268.4
+260.4
+263.
+266.4
+266.0
+267.8
+271.5
+268.9
+269.2
+273.2
+275.7
+281.6
+284.9
+130.2
+144.2
+176.3
+164.8
+169.0
+171.5
+173.7
+176.7
+178.6
+180.5
+183.1
+185.2
+189.9
+195.1
+199.0
+53.6
+56.1
+67.3
+60.8
+63.8
+64.5
+65.2
+66.4
+70.3
+68.8
+68.5
+67.5
+66.9
+69.1
+66.5
+376.2
+405.1
+508.5
+487.2
+495.2
+499.8
+504.1
+509.5
+512.0
+515.7
+516.J
+520.5
+525.2
+530.8
+540.4
+309.7
+291.0
+303.2
+296.7
+299.7
+300.3
+302.3
+303.7
+303.6
+304.0
+304.9
+306.9
+311.4
+318.5
+325.0
+775.0
+881.8
+877.3
+888.0
+880.9
+878.3
+875.7
+876.0
+880.3
+885.9
+891.0
+894.7
+896.2
+891.2
+885.9
+138.2
+161.7
+176.0
+175.8
+176.8
+176.7
+177.0
+176.8
+176.5
+177.7
+181.0
+186.2
+391.4
+193.4
+197.7
+43.2
+57.7
+64.1
+65.0
+63.6
+62.3
+63.3
+64.5
+64.6
+67.3
+67.7
+70.2
+74.1
+76.1
+75.0
+325.2
+409.6
+433.0
+418.2
+421.0
+425.6
+429.7
+432.9
+436.5
+447.9
+451.2
+450.5
+452.1
+446.3
+445.6
+48.0
+65.6
+63.0
+55.8
+57.3
+58.6
+59.8
+63.3
+66.0
+68.8
+70.5
+71.4
+71.2
+73.0
+73.4
+89.3
+81.8
+77.8
+77.6
+78.8
+78.9
+78.2
+78.4
+76.7
+76.0
+79.2
+82.7
+81.0
+78.3
+77.6
+70.9
+74.0
+79.0
+76.7
+77.2
+78.0
+78.5
+79.0
+79.5
+79.9
+80.5
+81.1
+81.8
+82.6
+83.4
+211.1
+268. 5
+295.8
+279.2
+277.3
+280.6
+280.9
+299.5
+307.1
+304.1
+305.8
+298.0
+297.2
+308.3
+304.
+127.5
+158.7
+199.5
+171.6
+182.9
+187.2
+192.5
+196.4
+209.5
+210.6
+209.2
+209.5
+203.0
+206.7
+206.3
+44.0
+44.5
+42.7
+43.7
+43.6
+43.2
+43.9
+43.1
+41.1
+41.5
+42.1
+41.6
+41.0
+40.1
+40.0
+1/ INCLUDES BETAIL BBPORCBASE AGIQBEE8 TS. ALL I A AND KEOGH ACCOUNTS AT CONE88CIAL BANKS AND HBIlFT INSTITUTIONS ABR SUBBtRACBD
+FPRO SHALL TIlE DEPOSITS.
+2/ EXCLUDES IRA AND IEOGH ACCOUNTS.
+3/ NET OF LARGE DEROHINATION TIHE DEPOSITS HELD B1X ONEI BAERKST UTUAL FUNDS AID THRIFT INSTITUTIONS.
 P-PRBLII NARY
 STRICTLY CONFIDENTIAL (FR)
 Net Changes in System Holdings of Securities4 CLASS II-FOMC
@@ -339,6 +676,12 @@ Treasury coupons not purchases Federal agencies net purchases' Net change
 Treasury bills T r or outright holdings Nt RPs'Period net change' within within 1N
 nyt chang within 1-5 S-10 over 10 total wt1ye 1-5 5-10 over 10 total totald
 __ _II_ ____________-_______ __ _ 1-ear I_-_year 1
+1985--qTR. I
+1986--QTR. I
+II
+1986-Jan.
+Feb.
+Mar.
 Apr.
 May
 June
@@ -346,6 +689,111 @@ Aug. 6
 13
 LEVEL-Aug. 13
 (S billions)
+-3,052
+5,337
+5,698
+13,068
+3,779
+-2,044
+7,183
+4,027
+5,431
+-2,821
+7,585
+61
+-3,277
+2,988
+3,196
+1,402
+84
+305
+208
+128
+531
+168
+126
+961
+245
+2,138
+1,702
+1,794
+1,896
+1,938
+2,185
+465
+846-
+6
+-100
+108
+6
+345
+4,564
+2,768
+2,803
+3,653
+3,440
+4,185
+1,326
+1,295
+12
+1,552
+2,035
+8,491
+8,312
+16,342
+6,964
+-735
+8,409
+3,962
+6,983
+-2,861
+7,535
+61
+-3,318
+2,988
+3,146
+1,402
+135
+-50
+84
+305
+208
+128
+531
+168
+36
+2,462
+684
+1,461
+-5,445
+1,450
+3,001
+462
+-350
+-3,446
+6,336
+-3,580
+-356
+-3,466
+198
+3,659
+-4,470
+-2,041
+-2,491
+5,469
+-1,788
+-1,837
+3,908
+545
+1,630
+5,527
+-6,570
+-169
+-341
+425
 -~ ________________________________ j i __________________
+1 Change from end-of-perlod to end-of-perlod.
+2. Outright transactions In market and with foreign accounts, and redemptions (-) In bill auctions.
+3. Outright transactions in market and with foreign accounts, and short-term notes acquired In exchange for
 maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon Issues, and direct Treasury
 borrowing from the System.

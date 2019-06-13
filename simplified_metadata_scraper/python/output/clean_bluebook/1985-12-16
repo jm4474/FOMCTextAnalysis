@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 13, 1985
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -103,6 +111,7 @@ for reductions in the federal deficit, more favorable attitudes about infla-
 tion stemming from the situation in oil and certain other commodity markets,
 and changing sentiments about the outlook for monetary policy. Bond rates
 have generally dropped 40 to 65 basis points, bringing long-term yields to
+6-year lows, and home mortgage rates have fallen about 1/2 of a percentage
 point. Broad stock price measures have risen substantially since the last
 (6) The weighted average foreign exchange value of the dollar
 depreciated a further 2-1/2 percent during the intermeeting period, bringing
@@ -146,6 +155,9 @@ Levels in billions
 1985-October 611.1 611.1 611.1 2533.4 2533.4 2533.4 3177.3 3177.3 3177.3
 November 617.7 617.7 617.7 2547.3 2547.3 2547.3 3190.6 3190.6 3190.6
 December 625.2 625.2 625.2 2567.8 2567.5 2567.2 3214.4 3214.1 3213.8
+1986-January 629.6 629.1 628.7 2585.0 2582.9 2581.6 3231.6 3229.7 3228.4
+February 633.6 632.3 631.3 2600.8 2596.5 2593.9 3246.0 3242.2 3239.8
+March 637.5 635.4 633.8 2615.0 2608.4 2604.6 3259.7 3254.0 3250.6
 Tentative 1986
 Target Ranges: 4 to 7 6 to 9 6 to 9
 ACTUAL AND TARGETED M3
@@ -272,8 +284,15 @@ a federal funds rate persistently outside a range of [DEL:6 to 10]
 ____ TO ____ percent.
 Selected Interest Rates
 Percent
+1984--High
+Low
+1985--High
+Low
 -- Nov.
 Dec.
+1985--Jan.
+Feb.
+Mar.
 Apr.
 May
 June
@@ -286,12 +305,120 @@ Aug. 28
 Oct. 2
 9
 16
+23
+30
 Dec. 4
 11
 Daily--Dec. 6
 12
 13
+10.72
+8.38
+8.31
+7.00
+9.34
+8.55
+8.00
+7.80
+7.97
+7.97
+7.71
+7.21
+7.03
+7.08
+7.10
+7.22
+7.25
+13.00
+11.00
+10.75
+9.50
+10.61
+10.50
+10.50
+10.50
+10.31
+9.78
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+13.44
+10.39
+11.19
+8.58
+10.90
+10.56
+10.43
+10.55
+11.05
+10.49
+9.75
+9.05
+9.18
+9.31
+9.37
+9.25
+8.88
+8.74
+8.58
+8.75
+8.38
+8.26p
 Donoghue's Money Fund Report Columns 12 and 13 are 1-day quotes for Friday and Thursday, respectively, Initial contract rate on new commitments for one-year, adjustable-rate mortgages (ARMs) at S&Ls offering both
+10.14 10.42 11.73
+11.44
+9.86
+10.31
+8.96
+10.69
+10.40
+9.96
+10.07
+10.23
+9.85
+9.46
+9.18
+9.20
+9.44
+9.61
+9.54
+9.22
+9.14
+8.96
+13.57 13.29
+11.27 11.64
+11.92 12.11
+12.31
+10.81
+11.14
+9.30
+11.54
+11.01
+10.84
+10.63
+10.92
+10.83
+10.56
+9.89
+9.68
+9.52
+9.52
+9.50
+9.38
+9.30
+9.13
 December 16, 1985
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures Class II FOMC
@@ -310,7 +437,15 @@ OCT. 611.1 2533.4 1922.3 643.9 3177.3 1844.4 1516.6 5025.3 6541.9
 iOV. P 617.7 2547.3 1929.5 643.3 3190.6 1869.4 1548.0 5081.8 6629.8
 WlEKLr LEVELS (IBILLIONS)
 1985--OV. 4 612.2
+11 613.8
+18 616.6
+25P 620.8
 DEC. 2P 626.1
+1/ ANIUAL RATES FOR BANK CREDIT ARE ADJUSTED FOB A TRAISFER OF LOANS FRON CONTINBETAL ILLINOIS I*TIOIML BANK TO TBB FDIC
+BEGINNING SEPTERBER 2b, 1984.
+2/ DEBT DATA ARE ON A HONTHLY AVEBAGR BASIS, nRBITED R8 AVEBAGING END-OF-MONTH LETELS OF ADJACENT HORT85. AND HAVE 88H8 ADJUSTED
+TO REHOVE DISCONTINUITIES.
+P-PRELIHINAI
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted DEC. 16, 1985
 Other Ovmnght . denomi- mutual funds, NSA denomi- bim Tkm Short-
@@ -319,6 +454,14 @@ Period Curency deposits deposits Eurodollar NSA depoits time purpose, tions time
 NSA deposits' ind broker only deposits securltils tfnce
 dealerf
 AWNnALLT(4Tf QTR):
+1982
+1983
+1984
+1984-0W.
+DEC.
+1985-JAW.
+FEB.
+NAB.
 APR.
 NAT
 JOLT
@@ -326,9 +469,251 @@ AUG.
 SEPT.
 OCT.
 NOT. P
+133.4
+147.3
+157.9
+157.9
+158.7
+159.4
+160.5
+161.3
+161.7
+163.1
+164.5
+165.4
+167.1
+167.9
+168.8
+169.9
+237.5
+243.8
+246.6
+246.8
+248.6
+249.1
+251.7
+251.9
+252.5
+255.8
+260.7
+260.9
+264.1
+266.0
+264.0
+266.2
+101.3
+130.2
+143.9
+143.9
+146.0
+149.0
+151.8
+153.6
+155.3
+157.3
+160.3
+163.6
+168.9
+171.3
+172.4
+175.7
+40.7 14.4 359.4 863.1
+53.6 376.2 310.3 774.1
+57.5 403.2 290.6 878.9
+58.1
+57.6
+62.9
+69.6
+68.2
+62.5
+66.1
+66.6
+67.6
+69.5
+402.4
+415.1
+433.7
+448.3
+457.9
+460.3
+463.8
+475.1
+484.1
+492.1
+496.7
+501.1
+506.4
+290.7
+288.6
+288.6
+289.4
+288.6
+287.8
+289.3
+292.1
+296.0
+300.3
+301.7
+304.4
+305.7
+878.5
+885.6
+881.9
+877.6
+878.6
+885.3
+892.0
+894.2
+888.5
+878.4
+874.4
+871.6
+871.5
+187.6
+138.2
+161.7
+162.0
+167.5
+171.9
+175.1
+177.6
+176.2
+172.2
+175.4
+175.8
+176.8
+176.7
+176.9
+176.4
+51.8
+43.2
+57.7
+58.3
+62.7
+65.0
+62.2
+59.5
+59.6
+63.5
+67.1
+65.0
+63.6
+62.3
+63.3
+64.5
+332.8
+326.0
+410.7
+410.7
+416.2
+416.9
+419.3
+423.6
+427.3
+428.2
+024.1
+420.0
+421.3
+428.5
+433.3
+437.5
+34.5
+48.0
+69.9
+70.7
+69.7
+65.0
+65.7
+68.9
+65.0
+67.4
+70.3
+70.3
+72.9
+82.5
+89.3
+81.9
+81.9
+83.2
+81.1
+81.3
+84.7
+80.7
+80.8
+78.3
+77.4
+78.3
+78.8
+78.0
+77.0
+67.8 182.7
+70.9 213.5
+73.9 269.4
+73.9
+74.1
+74.4
+74.9
+75.3
+75.8
+76.2
+76.6
+76.7
+77.2
+78.1
+268.0
+267.2
+266.7
+270.3
+275.9
+277.8
+276.8
+284.6
+284.4
+285.5
+287.1
+107.8
+127.5
+158.7
+157.6
+161.8
+159.6
+164.8
+169.8
+168.9
+168.6
+164.7
+171.1
+182.0
+184.2
+43.4
+43.7
+43-86
+03.04
+43.2
+42.8
+44.6
+46.4
+46.1
+44.8
+42.8
+42.7
+42.9
+42.8
+1/ INCLUDES RETAIL REPURCHASE AGREEM88 TS. ALL IBA AND KBOGH ACCOUNTS AT COHMERCIAL BARKS AND THRIPr ZISTTUTZONS ARE SUBTRACTED
+FRO7 SHALL TIRE DEPOSITS.
+2/ EXCLUDES IRA AHD KEOGH ACCOUNTS.
+3/ NET OF LARGE DENOHINATION TIME DEPOSITS HELD dl RONEB MARKET MUTUAL FUNDS AND THRIFT INSTITUTIONS.
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMCNet Changes in System Holdings of Securities
 Millions of dollars, not seasonally adjusted
+1984-QTR. II
+III
+IV
+1985--QTR. I
+II
+III
+1985--May
+June
 July
 Aug.
 Sept.
@@ -336,24 +721,127 @@ Oct.
 Nov.
 Oct. 2
 9
+16
+23
+30
 Dec. 4
 11
 LEVEL--Dec. 12
 Treasury bills
 net change'
+5,337
+5,698
+13,068
+3,779
+491
+-424
+7.183
+4,377
+-942
+2,099
+-200
+3,056
+1,521
+-265
+830
+2,615
+10
+307
+510
+185
+551
+615
+3,384
+442
 Treasury coupons net purchases'
 within
 1-vear
+2,138
+1,702
+1,794
+1,896
+1,938
+465
+846
+5-10 over 10 total
+200 277 1,484
+- - 600
+335 164 1,657
+6 -- -339
+6 6 -
+650 184 131
 - 300
 -- - 184
+143 868 345
 Federal agencies net purchases'
 weinin
 1-year S 5-10 over 10 total
+217
+133
+12
+-350
+-615
+300
 December 16, 1985
 Net change
 outright holdings Net RPs'
+2,035
+8,491
+8,312
+16,342
+6,964
+1,918
+169
+8,409
+3,962
+3,038
+1,171
+2,615
+10
+307
+510
+535
+551
 IRQ1 7
+2,462
+684
+1,461
+-5,445
+1,450
+70
+1,982
+-316
+462
+-350
+-9,257
+2,766
+-1,815
+-53
+-732
+-718
+813
+1,207
+-5,192
+4,785
+-5,445
+1,970
+-1,563
+1,977
+9,939
+-646
+-8,688
+4,227
+12,098
+-6,194
+-7 1
+1 Change from end of period to end of period
+2 Outright transactions in market and with foreign accounts, and redemptions (-) in bill auctions
+3 Outright transactions in market and with foreign accounts, and short-term notes acquired in exchange for
 maturing bills Excludes redemptions, maturity shifts, rollovers of maturing coupon issues, and direct Treasury
 borrowing from the System
+4 Outright transactions in market and with foreign accounts only Excludes redemptions and maturity shifts
+5 In addition to the net purchase of securities, also reflects changes in System holdings of bankers' acceptances,
+direct Treasury borrowing from the System and redemptions (-) of agency and Treasury coupon issues
+6 Includes changes In RPs(+), matched sale purchase transactions(-) and matched purchase sale transactions(+)
 -- 1 -- -
 = I 1-5

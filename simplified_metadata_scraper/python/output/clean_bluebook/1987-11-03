@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 October 30, 1987
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -75,6 +83,7 @@ participants apparently reassessing the outlook for the economy, inflation,
 and monetary policy, bond markets generally have retained their earlier gains
 despite some stock market recovery and a sharp drop in the dollar in recent
 days. In short-term markets, Treasury bill rates have shown net declines of
+1-1/2 to 1-3/4 percentage points since October 16, in association with actual
 and anticipated easing of monetary policy as well as increased demands for
 safe and liquid instruments, while rates on many private money market instru-
 ments have fallen somewhat less. Although securities markets have been less
@@ -119,6 +128,7 @@ the broader aggregates over September and October averaged about 6 percent,
 as compared with the Committee's short-run paths of 4 percent and 6 percent
 for M2 and M3, respectively. By October, M2 had increased at a 4-1/2 percent
 rate from the fourth-quarter 1986 base of its longer-run range and M3 at a
+5-1/2 percent rate.
 (7) Growth of the aggregates had slackened in September from
 their relatively strong August pace. Flows into liquid deposits generally
 were subdued, extending the pattern since this spring of substitution into
@@ -258,17 +268,148 @@ Sep. 87
 Oct. 87
 Dec. 87
 Q4 87
+5.5 to 8.5 5.5 to 8.5
+2847.7
+2862.1
+2874.5
+2890.6
+2908.4
+2921.8
+2.6
+6.1
+5.2
+2847.7
+2862.1
+2874.5
+2890.6
+2905.8
+2915.5
+2.6
+6.1
+5.2
+6.7
+6.3
+4.0
+3583.5
+3605.2
+3621.7
+3643.3
+3668.2
+3687.8
+2.3
+7.3
+5.5
+7.2
+8.2
+6.4
+3583.5
+3605.2
+3621.7
+3643.3
+3667.6
+3685.1
+2.3
+7.3
+5.5
+7.2
+8.0
+5.7
+2847.7
+2862.1
+2874.5
+2890.6
+2906.7
+2917.6
+2.6
+6.1
+5.2
+6.7
+6.7
+4.5
+5.8
+6.0
+3583.5
+3605.2
+3621.7
+3643.3
+3667.3
+3683.7
+2.3
+7.3
+5.5
+7.2
+7.9
+5.4
+747.6
+750.9
+751.2
+760.7
+767.0
+768.1
+1.6
+5.3
+0.5
+15.2
+10.0
+17.0
+13.1
+6.4
+-0.1
+747.6
+750.9
+751.2
+760.7
+766.2
+766.2
+1.6
+5.3
+0.5
+15.2
+8.7
+0.0
+17.0
+13.1
+6.4
+-0.1
+6.1
+8.0
+747.6
+750.9
+751.2
+760.7
+765.8
+765.3
+1.6
+5.3
+0.5
+15.2
+8.1
+-0.9
+5.7
+7.5
+5.6
+5.7
+6.6
+7.0
+6.9
+9.0
+1987 Target Ranges:
 Chart 1
 ACTUAL AND TARGETED M2
 Billions of dollars
 - Actual Level
 -- Estimted Level
 * Short-Run Alternatives
+4 3050
+8.5 -4 3000
+-4 2950
 .1 2900
 - 2900
 - 2880
 -- 2800
 i I I I I I i I I I I I I I
+0 N D J F M A M J J A 8 0 N D
+2700
 added liquidity preference in bolstering inflows to the liquid deposit and
 money market fund components of the aggregates. At the same time, however,
 a return toward more normal volumes of financial transactions would tend to
@@ -288,6 +429,7 @@ strong, however, despite somewhat greater issuance of investment-grade
 bonds, as inventory accumulation boosts financing needs and planned funding
 with junk bonds of loans for leveraged buyouts is postponed. Overall, the
 debt of domestic nonfinancial sectors is projected to grow at around an
+8 percent rate from September to December, implying growth of 9 percent
 from the fourth quarter of 1986 to the fourth quarter of 1987.
 (15) Under the reserve market conditions of alternative B, most
 bond yields might edge higher as the increased preference for fixed-income
@@ -315,6 +457,7 @@ But the sharply narrower spreads of market over deposit rates would seem
 likely to encourage large inflows into liquid accounts. Growth in OCDs
 would be especially affected, with expansion in M1 likely to average 9 per-
 cent over September to December. M2 would be expected to increase at a
+6-1/2 percent rate over this interval as its nontransaction components
 picked up noticeably from September when inflows had been damped by pre-
 vious increases in interest rates.
 (17) Under alternative A, long-term bond yields would likely
@@ -416,33 +559,65 @@ persistently outside a range of [DEL: 5 to 9] ___ to ___ percent.
 Short-Term
 --- Treasury bills--
 -- secondary market--
+3
+month
+7.21
+5.09
+6
+month
+7.30
+5.16
+12
+month
+7.35
+5.32
 cds
 sec mkt
 3-month
+7.94
+5.47
 paper
 1-month
+7.91
+5.60
 SELECTED INTEREST RATES
 (percent)
 money
 market
 mutual
 fund
+7.21
+5.17
 -U.S. Gov't. constant--
 --- maturity yields--
 bank
 prime
 loan
+9.50
+7.50
+8.60
+6.24
+9.38
+7.02
+9.52
+7.16
 corp. A
 utility
 rec off
+10.83
+9.03
 Bond
 Buyer
+8.72
+7.15
 November 2, 1987
 -- conventional home-
 m-or tgages-
 sec mkt primary market
 fixed- fixed-
 rate rate ARM
+87--High
+Low
 Monthly
 OCT 86
 NOV 86
@@ -474,8 +649,27 @@ Daily
 OCT
 OCT
 OCT
+7.00
+6.76
+6.93p
+5.29
+5.03
+5.27
+8.98
+8.89
+8.87p
+11.65
+11.98
+11.08
+9.11
+9.08
+9.0
+2
+p
 federal
 funds
+9.55
+5.75
 __ -W
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures 
@@ -495,9 +689,18 @@ AUGO 750.9 2862.1 2311.2 743.1 3605.2 4248.3 2189.0 1902.5 6113.9 8016.4
 SEiT. 751.2 2874.5 2123.3 747.3 3621.7 2206.7 1912.9 6155.7 8068.7
 IERKLI LEULS ($SILLIONS)
 1987-SPt. 7 746.4
+14 750.3
+21 755.1
+28 751.4
 OCT. 5 757.5
 12 P 753.9
 19 P 759.5
+1/ ANNUAL SATES FOR BAfN CREDIT AiS ADJUSTED FOR A TRANSFER OF LOANS o08 COIIZINETAL ILLINOIS JIATIOAL BANx TOo TriE rIC
+BBGIMNING SEPTEIBBU 26, 1984.
+2/ DEBT DATA ARE 0 A BONTBLI AVERAGE BASIS. DERIVED BI AVERAGING EID-OPF-HOTH LEVELS OF ADJACENT MOUTHS. AND HAVE 8BE ADJUSTED
+TO REOVf0 DISCONTINUITIES.
+P-PR BLIINA I
+PB-PRBLIMLART ESTIMATE
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 NOV. 2, 1987
@@ -508,32 +711,137 @@ Period Currency deposits deposits Eurodollara NSA deposits time purpose, lions t
 NSA deposits1  nd broker/ only deposits 3  securities lances
 dealer
 AlOUALLI (4T11 QTR):
+1/ INCLUDES lETAIL REBBPCBASE AGEBBIlTS. ALL IRA AID KEOGr ACCOUNTS AT COIEiBCIAL BANKS AND TH1IFT INSTITUTIONS ABR SBTBACTED
+Rnon SBAL.L t8 DEPOSITS.
+2/ BICLODBS IRA AND KIOGH ACCOUNTS.
+3/ lBT OF LARBG DBMOIIATION TIEf DEPOSITS HELD B1 ROBI lABRKBT UOTUAL FUNDS AND THRIFT INSTITSTIONS.
 Net Changes in System Holdings of Securities1
 Million of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 November 2, 1987
+1986--Q1
+Q2
+Q3
+04
+1987--01
+02
+Q3
+1987--Apr.
+May
+June
+July
+Aug.
+Sept.
 July 1
 8
+15
+22
+29
 Oct. 7
 "14
 21
 28
 Treasury bills
 net change'
+5,337
+5,698
+13,068
+3,779
+14,596
+19,099
+-2,821
+7,585
+4,668
+9,668
+-2,714
+5,823
+3,573
+1,697
+553
+-4,909
+499
+871
+157
+46
+804
+2,994
+309
+245
+-50
+285
 Treasury coupons nol purchases'
 within I 0 o. 0 I total
 1 ear 1-5 _5-10
+312
+484
+826
+1,349
+190
+1,702
+1,794
+1,896
+1,938
+2,185
 - -252
 1,767 5,036
+143 2,356
+1,232 3,642
+535 1,394
+- -200
 -- 5
+143 2,551
 - -75
 - -125
+1,226
+619
+2,768
+2,803
+3,653
+3,440
+4,185
+1,476
+-252
+8,948
+3,610
+2,491
+-200
+5
+3,805
+-75
+-125
 _ _ I
 Federal agencies net purchases'
+1-5 5-10 over 10
 within
 1-year 1
 maturing bils. Excludes redemptions, maturity shifts, follovers of maturing coupon issues, and direct Treasury
 borrowing Ifrm the System.
 Net change
 outright holdings Net RPs'
+8,491 684
+8,312 1,461
+16,342 -5,445
+6,964 1,450
+18,619 3,001
+20,178 10,033
+-2,861 -3,580
+7,535 -356
+4,577 4,044
+10,927 9,925
+-3,075 -14,254
+14,735 2,121
+12 -1,433
+9,993 15,801
+1,697 -16,634
+3,044 2,954
+4,676 26,295
+-3,512 578
+181 604
+- -1,392
+-3,546 -19,561
+26 -1,025
+- 1,152
+194 2,600
+285 8,557
+222.4 8.91.4 .2

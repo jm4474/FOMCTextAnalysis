@@ -46,6 +46,12 @@ first created electronic text from the document image.  Where the OCR results we
 staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
 tables were not reliably recognized by the OCR process and were not checked or corrected by staff.
 Content last modified 5/26/2009.
+1  See the box on page 2 on the effects of war-related news on Treasury yields.
+2  These changes in Treasury yields and equity prices followed sharp increases
+in the run-up to the March meeting after questions about the timing of the onset of
+the war were largely resolved.  Since March 12 (the day the previous Greenbook
+closed) broad equity indexes have gained about 14 percent and Treasury coupon yields
+have risen 6 to 24 basis points.
 Strictly Confidential (F.R.) May 1, 2003
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -69,9 +75,13 @@ Chart 1
 Financial Market Indicators
 Mar. May July Sept. Nov. Jan. Mar.
 2002 2003
+40
+$US
 Gold (Left Scale)
 Oil (Right Scale)
 Commodity Prices
+400
+Basis Points
 Six Months Ahead
 Twelve Months Ahead
 Market Uncertainty Regarding the
@@ -80,6 +90,8 @@ Federal Funds Rate*
 and implied volatility.  Data are through April 30, 2003.
 June Aug. Oct. Dec. Feb. Apr.
 2002 2003
+5.6
+Index Percent
 S&P 500 Index
 (Left Scale)
 Ten-year Treasury
@@ -89,6 +101,8 @@ Basis points
 Change in One-Year Treasury Forward Rates
 Since 3/17/03
 Years Ahead
+3.5
+Percent
 Long-Run Inflation Expectations
 Michigan Survey
 Philadelphia Fed Survey
@@ -96,6 +110,8 @@ TIIS Inflation
 Compensation*
 *The inflation rate that equalizes the price of the January 2012 TIIS and
 the value of a portfolio of nominal securities with the same payments.
+200
+Basis Points
 One-year Rate
 Ten-year Rate
 Market Uncertainty Regarding Swap Rates
@@ -137,6 +153,11 @@ reporters, at least, were focusing on the war, with the most dramatic move
 occurring in the run-up to the March 18th FOMC meeting.  Over the intermeeting
 period itself, a diminution of war effects apparently offset some, but not all, of the
 drag on yields associated with mostly softer economic data.
+3 Over the intermeeting period, the federal funds rate averaged close to its
+1¼ percent target.  The Desk has purchased $7.6 billion of Treasury securities in
+outright operations: $5.3 billion of Treasury coupon securities and bills in the market
+and $2.3 billion of bills from foreign official institutions.  The outstanding volume of
+long-term System RPs was unchanged, on net, at $16 billion.
 (2) The abatement of war-related risks has been reflected in sizable declines
 in forward-looking measures of uncertainty in short- and long-term interest rates,
 exchange rates, and oil and equity prices (Charts 1 and 3).  Risk spreads on corporate
@@ -163,29 +184,45 @@ Chart 3
 Financial Market Indicators
 Jan. Feb. Mar. Apr.
 2003
+65
+Percent
 Market Uncertainty Regarding Crude Oil Prices*
 *Implied by options on West Texas Intermediate Crude Oil futures contracts expiring
 in June 2003.
 May Sept. Feb. June Oct. Feb. June Oct.
 2003 2004 2005
+4.0
+Percent
 May 1, 2003
 March 17, 2003
 Expected Federal Funds Rates*
 *Estimates from federal funds and eurodollar futures
+55
+Percent
 S&P 100 Implied Volatility (VIX)
+350
+Basis points
 Ten-year AA
 Ten-year BBB
 Ten-year Swap
 Spreads of Selected Private Long-Term Yields
 July Oct. Jan. Apr. July Oct. Jan. Apr.
 2001 2002 2003
+1500
+Basis Points Basis Points
 High-Yield Debt Spreads
 Telecom Sector
+9
+Percent
+12-Month Forward Earnings-Price Ratio
+for S&P 500 and 10-Year Treasury
 Monthly
 E/P ratio
 Real 10-year Treasury yield*
 * 10-year Treasury yield minus Philadelphia Fed 10-year expected
 inflation.
+4              
+     .  The Desk did not intervene during the period for
 the account of the System or Treasury.
 now place about one-in-three odds on a 25-basis-point cut in the target federal funds
 rate at the upcoming meeting and that the expected amount of policy tightening by
@@ -209,8 +246,11 @@ contrast, the ten-year government bond yield slumped to a record low of 57 basis
 points, stock prices moved essentially sideways, and the yen was unchanged against
 the dollar over the period.
 (5) Since the March FOMC meeting, the dollar has depreciated
+2¾ percent against the currencies of our other important trading partners.  The
 Chart 4
 Financial Market Indicators
+120
+Index(8/31/00 = 100)
 Broad Index
 Major
 Currencies Index
@@ -218,6 +258,8 @@ Other Important
 Trading Partners
 Nominal Trade-Weighted Dollar
 Exchange Rates
+3000
+Basis Points
 EMBI+ Index
 Net New Cash Inflows to Mutual Funds
 ($ billions, at monthly rates, NSA)
@@ -226,6 +268,12 @@ Govt. Other
 Memo:
 Money
 Funds*
+2002 Q3
+2002 Q4
+2003 Jan.
+2003 Feb.
+2003 Mar.
+2003 Apr.
 * Net change. April number is actual.
 e = estimate.
 Commercial paper
@@ -242,6 +290,7 @@ near the end of March.  Favorable developments in Brazil, including an
 announcement that the primary budget surplus in 2002 exceeded its target and some
 progress on fiscal and pension reform, buoyed financial markets there.  Extending
 recent trends, the real appreciated almost 17 percent, Brazilian stocks moved up
+15 percent, and Brazil’s EMBI+ spread narrowed 230 basis points.  Markets in some
 Asian countries were buffeted noticeably by news about the SARS epidemic and
 menacing rhetoric from North Korea.  The most visible market reaction to SARS was
 in Hong Kong, where stock prices declined sharply midway through the period but
@@ -308,6 +357,7 @@ weaker in the near term in light of generally disappointing economic data releas
 the past seven weeks and slightly stronger next year, given a higher track for wealth
 and more fiscal stimulus than anticipated in March.  The projection is again premised
 on the assumption that the FOMC keeps the target federal funds rate flat at
+1¼ percent through the end of next year.  While yields on longer-term Treasuries are
 expected to edge up slightly over the next few quarters, those on lower-tier
 investment-grade and speculative-grade securities fall further as the expansion gains
 firmer footing.  Equity prices again are anticipated to rise steadily, but from a base that
@@ -351,11 +401,15 @@ undesirable, it might choose to ease monetary policy at this meeting.  In partic
 concerns about a protracted output gap may be especially pressing in the current
 Chart 5
 Inflation and Real Federal Funds Rates
+12
+Four-quarter percent change
 Core PCE
 Total PCE
 Market-Based PCE
 GDP Deflator
 Price Indexes
+10
+Percent
 Federal Funds Rate minus Core PCE
 Federal Funds Rate minus Total PCE
 Federal Funds Rate minus Market-Based PCE
@@ -376,6 +430,7 @@ Total PCE
 Market-based PCE
 GDP Deflator
 Average Most Recent1 2
+1960 - present
 circumstances of surprisingly low inflation.  Indeed, as shown in Chart 6, the real
 short-term federal funds rate does not differ much from the level prevailing before
 the Committee’s November 6th policy easing.  Cutting the nominal funds rate at this
@@ -405,6 +460,8 @@ of risks following an easing move would depend partly on the Committee’s econo
 Chart 6
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5.5
+Percent
 Actual Real Funds Rate
 TIIS-Based Estimate
 Historical Average: 2.68
@@ -413,6 +470,7 @@ Current Rate
 25 b.p. Easing
 50 b.p. Easing
 Equilibrium Real Funds Rate Estimates (Percent)
+2001     2002    2003Q1    2003Q2    ____     ____    ______    ______
 March Bluebook
 March Bluebook
 March Bluebook
@@ -435,6 +493,7 @@ outlook and perhaps partly on the forcefulness of its action.  Particularly if m
 basic outlook was more pessimistic than that of the Greenbook or the cost of a
 downside surprise to that outlook loomed especially large, the risks might be viewed
 as weighted toward economic weakness—especially if the easing action was limited to
+25 basis points.  A 25-basis-point easing coupled with a more sanguine outlook for the
 economy, however, or a 50-basis-point action, by providing appreciably more
 stimulus, arguably could equalize the risks, especially if the “foreseeable future” was
 interpreted as extending well into next year.
@@ -466,6 +525,7 @@ relatively rapid growth primarily reflects federal debt, which at 10 percent thi
 expands a bit faster than forecasted in the March Greenbook because of wider
 projected budget deficits.  Business sector debt is forecast to accelerate gradually to
 finance a widening financing gap, but debt growth in this sector still is only
+4¼ percent in 2003.  While business borrowing is expected to remain concentrated in
 bond and mortgage markets, the acceleration is accounted for entirely by a sizable
 swing from runoffs to increases in shorter-term debt such as bank loans and
 commercial paper.  Household sector debt growth should slow somewhat as stimulus
@@ -518,6 +578,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 SELECTED INTEREST RATES
 (percent)
 p - preliminary data
@@ -557,6 +618,12 @@ Apr
 Apr  
 Apr  
 May
+28
+7
+02   -- High
+-- Low
+03   -- High
+-- Low
 Strictly Confidential (FR)-
 Class II FOMC
 Money Aggregates
@@ -604,6 +671,181 @@ Weekly
        Apr.  7     
             14p    
             21p
+-1.7
+     6.8
+     3.2
+-0.6
+     3.1
+     4.5
+     7.1
+-14.5
+    10.9
+      5.9
+      7.3
+    -11.1
+      6.3
+     11.2
+     -0.9
+      7.8
+         
+      2.1
+     19.8
+      3.2
+     -2.4
+1202.7
+   1210.5
+   1212.6
+   1232.6
+   1235.9
+1249.5
+   1230.4
+   1229.9
+   1235.7
+   1241.4
+         
+   1222.7
+   1222.2
+   1240.5
+6.0
+    10.2
+     6.9
+4.1
+     9.1
+     7.1
+     6.7
+-2.6
+    14.4
+6.9
+     10.5
+      8.3
+      5.5
+      8.3
+      8.1
+      3.2
+         
+      6.4
+     11.6
+      3.1
+      3.4
+5781.4
+   5796.6
+   5827.3
+   5883.5
+   5898.7
+5898.8
+   5895.2
+   5910.8
+   5897.6
+   5894.0
+         
+   5890.2
+   5894.2
+   5910.2
+8.5
+    11.2
+     8.0
+5.4
+    10.8
+     7.8
+     6.6
+0.7
+    15.3
+7.1
+     11.4
+     13.5
+      5.3
+      7.5
+     10.5
+      2.0
+         
+      7.5
+      9.4
+      3.1
+      4.9
+4578.6
+   4586.1
+   4614.7
+   4650.9
+   4662.8
+4649.3
+   4664.8
+   4680.9
+   4661.9
+   4652.6
+         
+   4667.5
+   4672.0
+   4669.7
+17.4
+    18.3
+     5.4
+4.3
+     4.5
+     8.6
+     3.1
+6.9
+    -0.9
+2.1
+      0.3
+     14.3
+      7.5
+    -14.7
+     37.4
+     17.9
+         
+    -14.6
+     -1.1
+      2.3
+     -9.5
+2680.9
+   2720.8
+   2687.7
+   2685.3
+   2690.4
+2674.1
+   2670.3
+   2705.1
+   2695.7
+   2699.0
+         
+   2665.7
+   2664.2
+   2673.0
+9.2
+    12.7
+     6.4
+4.1
+     7.7
+     7.6
+     5.5
+0.4
+     9.5
+5.4
+      7.3
+     10.2
+      6.1
+      1.0
+     17.3
+      7.8
+         
+     -0.4
+      7.6
+      2.8
+     -0.6
+8462.3
+   8517.5
+   8515.0
+   8568.8
+   8589.1
+8572.9
+   8565.5
+   8615.8
+   8593.3
+   8592.9
+         
+   8555.8
+   8558.4
+   8583.2
 Period
 In M3 onlyIn M2
 p    prel iminary   
@@ -678,6 +920,10 @@ M
 C
 M
 ay
+1
+, 2
+00
+3
 T
 re
 as
@@ -792,6 +1038,10 @@ g
 e
 < 
 1
+1-
+5
+5-
+10
 O
 ve
 r 
@@ -822,120 +1072,390 @@ C
 h
 an
 g
+20
+00
+8,
+67
+6
+24
 ,5
 22
+-1
+5,
+84
+6
+8,
+80
+9
+14
 ,4
 82
+5,
+87
+1
+5,
+83
+3
+3,
+77
+9
+31
 ,2
+15
+51
 15
 ,3
 18
+-2
+,1
+63
+7,
+13
+3
+4,
+97
+20
+01
+15
+,5
+03
+10
 ,0
 95
+5,
+40
+8
+15
 ,6
 63
+22
+,8
+14
+6,
+00
+3
+8,
+53
+1
+16
 ,8
 02
+36
+,2
+08
+12
+0
+41
 ,4
 96
+3,
+49
+2
+63
+6
+4,
+12
+8
+20
+02
+21
+,4
+21
+--
 -
 21
 ,4
 21
+12
+,7
+20
+12
 ,7
 48
+5,
+07
+4
+2,
+28
+0
 --
 -
+32
+,8
+22
+--
 -
 54
 ,2
 42
+-5
+,3
+66
+51
+7
+-4
 ,8
 50
+20
+02
 Q
 I
+6,
+82
+7
+--
 -
 6,
+82
+7
+4,
+34
+9
+6,
+15
+3
+97
+1
+1,
+92
+7
+--
 -
 13
 ,4
 01
 --
 -
+20
+,2
+28
+-1
 ,9
 61
+-2
+,1
+91
+-4
 ,1
 52
 Q
 II
+8,
+22
+7
+--
 -
 8,
+22
+7
+5,
+53
+5
+2,
+58
+0
+2,
+47
+1
+21
+0
+--
 -
 10
 ,7
 96
 --
 -
+19
+,0
+23
+-2
 ,6
 44
+-4
+,5
+63
+-7
 ,2
 07
 Q
 III
--
 6,
--
-7,
+11
+7
 --
 -
+6,
+11
+7
+2,
+83
+5
+3,
+67
+6
+1,
+31
+8
+14
+3
+--
+-
+7,
+97
+2
+--
+-
+14
+,0
+89
+-3
 ,0
 67
+-5
+,2
+25
+-8
 ,2
 91
 Q
 IV
+25
+0
+--
+-
+25
+0
+--
+-
+33
+9
+31
+4
 --
 -
 --
 -
+65
+3
 --
 -
---
--
---
--
+90
+3
+4,
+89
+2
+-3
+04
+4,
+58
+8
+20
+03
 Q
 I
--
 6,
+02
+4
 --
 -
+6,
+02
+4
+1,
+79
+6
+2,
+83
+7
+1,
+29
+1
+50
+--
+-
+5,
+97
+4
+--
 -
 11
 ,9
 98
+1,
+95
+7
+3,
+77
+0
+5,
+72
+20
+02
 A
 ug
+52
+9
 --
 -
+52
+9
+44
+5
+1,
+92
+1
+69
+0
+80
 --
--
 -
 3,
+13
+6
+--
+-
+3,
+66
+5
+-5
+27
+-4
+,6
+45
+-5
 ,1
 72
 S
 ep
+75
+0
 --
 -
+75
+0
+1,
+28
+6
+--
 -
 51
 --
 -
 --
 -
+1,
+33
+7
+--
 -
 2,
+08
+7
+1,
+08
+4
+-1
 ,0
 26
 O
@@ -962,10 +1482,22 @@ ct
 -
 --
 -
+2,
+77
+9
+-4
 ,7
 16
+-1
+,9
 N
 ov
+25
+0
+--
+-
+25
+0
 --
 -
 --
@@ -980,8 +1512,16 @@ ov
 -
 --
 -
---
--
+25
+0
+2,
+91
+0
+4,
+61
+6
+7,
+52
 D
 ec
 --
@@ -992,14 +1532,30 @@ ec
 -
 --
 -
+33
+9
+31
+4
 --
 -
 --
 -
+65
+3
 --
 -
+65
+3
+-1
+,0
+97
+10
 ,7
 06
+9,
+61
+20
+03
 J
 an
 --
@@ -1024,28 +1580,88 @@ an
 -
 --
 -
+1,
+34
+2
+-3
 ,5
 81
+-2
+,2
 F
 eb
+4,
+16
+1
+--
 -
 4,
+16
+1
+47
+8
+2,
+12
+7
+76
+9
+--
 -
 --
 -
 3,
+37
+4
 --
 -
+7,
+53
+4
+1,
+73
+6
+-2
+,2
+62
+-5
 M
 ar
+1,
+86
+3
+--
 -
 1,
+86
+3
+1,
+31
+8
+71
+0
+52
+2
+50
 --
 -
+2,
+60
+0
+--
 -
 4,
+46
+3
+-2
+,2
+54
+52
+0
+-1
 ,7
 34
+20
+03
 F
 eb
 --
@@ -1069,27 +1685,61 @@ eb
 --
 -
 --
--
 -
 4,
+16
+3
+--
+-
+4,
+16
+3
 F
 eb
+1
+2
+55
+6
+--
+-
+55
+6
+47
+8
+52
+0
 --
 -
 --
 -
 --
 -
+99
+8
 --
 -
---
--
+1,
+55
+4
+-7
 ,5
 74
+2,
+00
+0
+-5
 ,5
 74
 F
 eb
+1
+9
+32
+3
+--
+-
+32
+3
 --
 -
 --
@@ -1104,42 +1754,100 @@ eb
 -
 --
 -
+32
+3
+11
+,8
+07
 --
--
 -
 11
 ,8
 07
 F
 eb
+2
+6
+3,
+04
+5
+--
 -
 3,
+04
+5
+--
+-
+99
+5
+70
+1
 --
 -
 --
 -
+1,
+69
+6
 --
--
 -
 4,
+74
+0
+-7
+,5
+59
+1,
+00
+0
+-6
+,5
 M
 ar
+5
+45
+5
+--
 -
 45
+5
+--
 -
 61
+2
+68
 --
 -
 --
 -
+68
+0
 --
 -
+1,
+13
+5
+3,
+47
+4
 --
 -
+3,
+47
 M
 ar
+1
+2
+24
+4
 --
 -
+24
+4
+1,
+31
+8
+--
 -
 --
 -
@@ -1148,84 +1856,172 @@ ar
 --
 -
 1,
+31
+8
 --
 -
+1,
+56
+2
+-7
 ,1
 76
+-1
+,0
+00
+-8
 ,1
 76
 M
 ar
+1
+9
+45
+1
+--
+-
+45
+1
+--
+-
+71
+0
 --
 -
 --
 -
 --
 -
+71
+0
 --
 -
+1,
+16
+1
+5,
+81
+6
 --
 -
---
--
---
--
+5,
+81
 M
 ar
+2
+6
+38
+7
+--
+-
+38
+7
 --
 -
 --
 -
+52
+2
+50
 --
--
 -
 57
+2
+--
 -
 95
+9
+-5
 ,7
 33
 --
 -
+-5
+,7
 A
 pr
--
+2
 56
--
---
--
---
--
---
--
---
--
---
--
+4
 --
 -
 56
+4
+--
+-
+--
+-
+--
+-
+--
+-
+--
+-
+--
+-
+--
+-
+56
+4
+6,
+20
+7
+2,
+00
+0
+8,
+20
+7
 A
 pr
+9
+2,
+84
+3
 --
 -
+2,
+84
+3
+--
 -
 73
+3
+--
 -
 --
 -
 --
 -
 73
+3
+--
 -
 3,
+57
+6
+-7
+,9
+33
+--
 -
 -7
 ,9
 33
 A
 pr
+1
+6
+26
+4
 --
 -
+26
+4
+1,
+42
+2
+--
 -
 --
 -
@@ -1234,12 +2030,26 @@ pr
 --
 -
 1,
+42
+2
 --
 -
+1,
+68
+6
+4,
+83
+6
 --
 -
+4,
+83
 A
 pr
+2
+3
+81
+--
 -
 81
 --
@@ -1256,12 +2066,26 @@ pr
 -
 --
 -
+81
+-1
 ,7
 35
+-1
+,0
+00
+-2
 ,7
 35
 A
 pr
+3
+0
+35
+4
+--
+-
+35
+4
 --
 -
 --
@@ -1276,10 +2100,22 @@ pr
 -
 --
 -
---
--
+35
+4
+5,
+46
+0
+-9
+99
+4,
+46
+1
+20
+03
 M
 ay
+45
+--
 -
 45
 --
@@ -1296,8 +2132,16 @@ ay
 -
 --
 -
+45
+-1
+2,
+76
+8
+--
 -
 -1
+2,
+76
 In
 te
 rm
@@ -1310,16 +2154,42 @@ io
 d
 M
 ar
+1
+8-
 M
 ay
+1
+4,
+86
+6
 --
 -
+4,
+86
+6
+1,
+42
+2
+73
+3
+52
+2
+50
+--
 -
 2,
+72
+7
 --
 -
+7,
+59
+3
+-6
 ,6
 96
+1
+-6
 ,6
 95
 M
@@ -1336,10 +2206,32 @@ $
 )
 M
 ay
+6.
+3
+99
+.0
+18
+0.
+5
+51
 .5
 80
+41
+1.
+0
+0.
+0
+64
+7.
+3
+-1
+2.
+1
+16
 .0
 3.
+1.
+  C
 ha
 ng
 e 
@@ -1386,6 +2278,8 @@ fe
 ct
 s 
 of
+4.
+  I
 nc
 lu
 de
@@ -1460,6 +2354,8 @@ se
  R
 P
 s.
+2.
+  O
 ut
 rig
 ht
@@ -1506,12 +2402,16 @@ ur
 ity
 o
 f 1
+5 
+da
 ys
  o
 r 
 le
 ss
 .
+3.
+  O
 ut
 rig
 ht
@@ -1560,6 +2460,8 @@ rm
  n
 ot
 es
+7.
+  O
 rig
 in
 al
@@ -1572,6 +2474,8 @@ f 1
 6
 to
  9
+0 
+da
 ys
 .
 cq

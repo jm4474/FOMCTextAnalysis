@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 May 15, 1998
 MONETARY POLICY ALTERNATIVES
@@ -110,6 +118,8 @@ However, robust tax inflows have allowed the Treasury to pay down federal debt, 
 seasonally adjusted basis, holding total debt growth to around 6 percent over March and
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+97:Q4
+to
 Feb. Mar. Apr. Apr.
 Money and Credit Aggregates
 M1
@@ -128,6 +138,8 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves
+-20.1
+-5.8
 Policy Alternatives
 (7) In light of incoming data indicating robust domestic demand, the Greenbook
 projection for real GDP growth over the first half of this year has been strengthened
@@ -151,6 +163,7 @@ a 2 percent pace, and inflation expectations should continue to edge lower.
 might be inclined to maintain its current 5-1/2 percent intended federal funds rate, as under
 alternative B. Although that forecast has an underlying upward tilt to inflation in 1999 as
 labor markets remain quite tight, that tilt is gradual and starts from a lower inflation rate in
+1998 than the Committee had anticipated only a few months ago, judging from the central
 tendencies of members' CPI projections in February.2 Even if the Committee were troubled
 by the underlying uptrend of inflation in the staff forecast, it might still be willing to adopt
 the unchanged federal funds rate of alternative B. The vulnerable state of many financial
@@ -161,6 +174,7 @@ somewhat more than those here. In addition, the Committee may feel that a small 
 underlying inflation, should it unfold as in the staff forecast, would generate only minimal
 costs in potential resource distortions and could be readily countered in the future. If so, the
 Committee may be willing to accept the significant probability of such an uptick through
+1999 because recent experience has led it to place greater weight on the possibility that the
 economy will prove able to sustain the high operating rate built into the staff forecast without
 a rise in underlying inflation.
 (9) In that regard, maintaining the current stance of policy might simply be based
@@ -227,6 +241,7 @@ negative impacts on financial conditions in Asian, and perhaps other, emerging m
 economies, the Committee would need to weigh those effects against the possibility that delay
 would necessitate more substantial actions later.
 (13) Under the stable money market conditions of alternative B, the staffs projected
+2-1/2 percentage point moderation in the pace of nominal GDP from the first to the third quarter
 of this year should be associated with a noticeable slowdown in the expansion of the debt and
 monetary aggregates. Household borrowing should slow along with spending on consumer
 durables and houses, and business demand for credit should subside as inventory investment
@@ -246,8 +261,10 @@ the slowdown from the first four months of 1998 representing the projected unwin
 previous artificial boost related to special tax and mortgage-refinancing factors. Even so, over
 the second and third quarters, M2 growth averaging 5 percent on a quarterly average basis is
 projected to exceed the 4 percent average rate of nominal GDP expansion, implying a further
+1 percent rate of decline in M2's velocity. From the fourth quarter through September,
 implied M2 growth would be at a 5-3/4 percent rate. Looking a little further out, the staff now
 envisions growth of this aggregate for the year at a 5-1/2 percent rate, putting it above the 1 to
+5 percent annual range judged by the FOMC to be consistent with conditions of price stability
 and stable velocity behavior; this projection embodies a 1 percent decline in velocity in 1998.
 (15) Projected M3 growth under alternative B would dip to a 5-1/2 percent rate from
 April through September, reflecting some expected reduction in the growth of depository
@@ -274,6 +291,7 @@ M2 and M3 over coming months.
 Alternative Growth Rates for Key Money and Credit Aggregates
 M2 M3 Debt
 Alt. B Alt. C Alt. B Alt. C All Alternatives
+1.0 to 5.0 2.0 to 6.01998 Annual Ranges:
 Appendix: Equity Prices and Monetary Policy
 (17) The capital appreciation on major equity markets of late has pushed prices
 further beyond the predictions of conventional models of equity-price fundamentals. Rising
@@ -329,6 +347,10 @@ burst at a later date.
 SELECTED INTEREST RATES
 (percent)
 May 18, 1998
+97 -- High
+-- Low
+98 -- High
+-- Low
 Monthly
 May 97
 Jun 97
@@ -371,6 +393,26 @@ Short-Term Long-Term
 corporate conventional home
 Treasurybills se da comm bank U.S. govemmenl constant indexed yelds ule mortgagesfederal secondary market Se pa prime maturity yields recen BOd primary marketfunds market prime recen mrketytloan recere Buyer
 3-month 6-monh Iyear 3-month 1-monlh 3-year 10-year 30-year 5-year 10-year offler fixed-rate ARM
+5.80
+5.05
+5.68
+5.32
+5.54
+5,57
+5.65
+5.64
+5.81
+5.89
+5,95
+5.92
+3.73
+3.72
+3,79
+3.86
+3.68
+3,66
+3.71
+3.75
 p - preliminary data
 Strictly Confidential (FR)-
 Class l1 FOMC
@@ -391,6 +433,9 @@ Mar. 1081.0 4126.6 3045.6 1409.7 5536.3 3800.5 11605.1 15405.6
 Apr, p 1079.4 4159.6 3080.2 1423.7 5583.3
 Weekly
 1998-Apr. 6 1083.5 4150.2 3066.7 1430.8 5581.0
+13 1075.0 4151.0 3076.0 1436.1 5587.1
+20 1084,8 4173.1 3088.3 1413.3 5586.4
+27p 1076.9 4164.9 3088.1 1412.0 5576.9
 May 4p 1081.7 4161.6 3080.0 1432.7 5594.3
 ________________________________--------I--------___I---------__----L----I---------I---------L'---------I -------
 .1 Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove discontinuities.
@@ -400,24 +445,116 @@ NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (PR)
 CLASS II-FOMC
+1995
+1996
+1997
+1997 ---01
+-- Q2
+---OS
+--Q4
+1998 --Q1t
+1997 May
+June
+July
+August
+September
+October
+November
+December
+1998 January
+February
+March
+April
 Weekly
 January 21
+28
+February 4
+11
+18
+25
 May 6
 13
 Memo: LEVEL (bi. $ 6
 May 13
+10,932
+9,901
+9,147
+3,550
+*--
+-o
+2,000
+--.o
+10,032
+9,901
+9,147
+390 5,366
+524 3,898
+5,748 20,299
+818 3,985
+877 5,823
+644 2,697
+3,409 7,794
+1,432 2,529
+1,116 1,655
+3,101 5,827
 - 1,117
 1,233 1,894
+1,868 2,816
+283 743
+1,102
+2,797
+3,323
+4,471
 - 3,783
 1,369 2,993
+7,941
+5,179
+5,314
+9,451
+2,744
+478 4,311
+3,208
+4,696
+598 -598
+3,341
+416 1,002
 - 6,224
 - 8,245
+478 -478
+286 4,571
+1,3221,680**.
+.°
+52.3 98,8 40.6 50,8
+16.970 -1,023
+14,670 5,351
+40,586 -64
+5,084 -11,149
+13,554 6,771
+2,173 -4,493
+19,775 8,807
+2,251 -15,420
+3,206 -42,664
+4,818 7,771
+-885 -11,981
+-179 7,669
+6,198 5,519
+12,790 7,700
 .2,478 -21,985
 -10 4,251
+4,739 2,314
+8.047 -8,427
+-10 5,010
+--- 838
+• 9,506
 -. 9,275
 3,713 5,512
+-5,952
+1,026 2,943
 - -3,213
 1,369 -1.551
 4,812 -14,879
 1,880 7,454
+-14 15,594
+-32,580
+458.8 -38.4
 May 15, 1998

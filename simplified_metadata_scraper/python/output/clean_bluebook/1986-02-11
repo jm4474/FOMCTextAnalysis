@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 February 7, 1986
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -47,6 +55,19 @@ Nov. Dec. Jan.P Jan.P QIV '85
 Money and credit aggregates
 Domestic nonfinancial debt
 Bank credit
+11.3 12.4 1.3
+5.5 6.8 1.7
+4.7 5.8 7.8
+15.7 20.4 n.a.
+16.4 16.6 15.0
+12.7 2
+(3 to 8)2
+8.6
+(6 to 9)
+7.4
+(6 to 9-1/2)
+13.4
+(9 to 12)
 Reserve measures
 Nonborrowed reserves 3
 Total reserves
@@ -55,7 +76,17 @@ Memo: (Millions of dollars)
 Adjustment and seasonal
 borrowing
 Excess reserves
+20.0 21.9 4.0
+1210
+(672)4
+9.3 5.5
+819 284
+928 1058 1094
 p - Preliminary.
+26.2
+(18.5)4
+15.4
+(15.9) 4
 of Treasury balances. Hwever, M3 growth picked up, as banks' funding needs
 remained sizable, and their CD issuance accelerated.
 (3) The total debt of domestic nonfinancial sectors continued to
@@ -251,6 +282,7 @@ funds rate range 5 to 9 6 to 10 6-1/2 to 10-1/2
 (17) Given recent behavior of the aggregates, alternatives A and
 B are reasonably consistent with the short-run ranges from November to March
 adopted at the last meeting-7 to 9 percent annual rate of growth for M1 and
+6 to 8 percent for M2 and M3--although the aggregates of B are somewhat lower
 than A relative to those ranges. The differences in the alternatives in
 that context would be reflected in the degree of near-term bank reserve
 pressures--with alternative B assuming unchanged pressures and alternative A
@@ -267,11 +299,15 @@ Levels in billions
 1985-October 614.0 614.0 614.0 2537.9 2537.9 2537.9 3163.2 3163.2 3163.2
 November 619.8 619.8 619.8 2549.6 2549.6 2549.6 3175.5 3175.5 3175.5
 December 626.2 626.2 626.2 2564.0 2564.0 2564.0 3190.8 3190.8 3190.8
+1986-January 626.9 626.9 626.9 2567.6 2567.6 2567.6 3211.5 3211.5 3211.5
+February 630.4 629.7 629.3 2580.9 2579.6 2578.5 3229.4 3228.4 3227.6
+March 635.7 634.1 633.1 2601.0 2598.0 2595.6 3248.3 3245.9 3244.3
 Tentative 1986
 Target Ranges: 4 to 7 6 to 9 6 to 9
 Growth in M1 would be expected to pick up to near a 7 percent annual rate in
 February and March, about the same as its December-January average. By March
 M1 would be a little under the upper bound of its tentative 4 to 7 percent
+1986 range.
 (19) A pickup in M2 growth is expected under alternative B in
 February and March, after its sluggish performance in January, as RP behavior
 ceases to be a drag and core deposits advance more in line with income.
@@ -341,6 +377,7 @@ would probably continue to some degree into the spring, assuming the higher
 interest rates were sustained. Thus, this alternative might be viewed as
 most consistent with the long-run ranges of alternative III.
 Directive language
+1986 Ranges
 (26) Shown below is draft directive language relating to the
 Committee's decisions on the longer-run ranges (draft language for the
 operating paragraph is shown in (27) below). Suggested deletions from the
@@ -353,6 +390,7 @@ further, promote growth in output on a sustainable basis, and
 contribute to an improved pattern of international transactions.
 [DEL: In furtherance of these objectives the Committee at the July-meet-
 ing reaffirmed ranges for the year of 6 to 9-percent for M2 and
+6 to 9-1/2 percent for M3. The associated range for total domestic
 nonfinancial debt was reaffirmed at 9 to 12 percent. With respect
 te M1, the base was moved forward to the second quarter of 1985
 and a range was established at an annual growth rate of 3 to 8
@@ -367,6 +405,7 @@ More generally, the Committee agreed that growth in the aggregates
 may be in the upper parts of their ranges, depending on continuing
 developments with respect to velocity and provided that inflationary
 pressures remain subdued.] In furtherance of these objectives [DEL: for
+1986] the Committee agreed [DEL: on tentative] TO ESTABLISH ranges [DEL:of] FOR
 monetary growth, measured from the fourth quarter of 1985 to the
 fourth quarter of 1986, of [DEL: 4 to 7] ____ TO ____ percent for M1, [DEL:6 to 9]
 ____ TO ____ percent for M2, and [DEL: 6 to 9] ____ TO ____ percent for M3. The

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -29,6 +37,7 @@ auction on October 23, the Desk did elect to run off $900 million of
 maturing issues from the System Open Market Account in that week,
 adding to reserve needs during the intermeeting period.
 (2) Yields on intermediate- and longer-term Treasuries fell
+25 to 30 basis points in the period since the September FOMC meeting,
 extending the rally that began about a year ago and bringing rates on
 long bonds to their lowest levels since early 1994. In part, the
 decline in rates may have reflected further reductions in inflation
@@ -55,6 +64,7 @@ to 2 percent to new records over the intermeeting period.
 fairly narrow range over most of the intermeeting period, but softened
 somewhat in recent days, in part on concerns about a U.S. default and
 about the unsettled Mexican situation. It ended the period about
+1-1/4 percent lower, on balance. Interest rates in major foreign
 countries, on average, moved down somewhat, but by less than in the
 United States. The Canadian dollar was volatile over the period but
 strengthened against the U.S. dollar in the wake of the defeat of
@@ -93,6 +103,7 @@ from the fourth quarter of 1994 to 6-1/2 percent, leaving it only a
 little above the upper end of its 2 to 6 percent annual range. Con-
 tinuing the sharp deceleration from its rapid summer pace, M2 was
 about unchanged last month, and its growth from the fourth quarter was
+4-1/2 percent, in the upper half of its 1 to 5 percent range. The
 expansion of. instruments in M2 held primarily by households (NOW
 accounts, MMDAs, money funds, and small time deposits) has fallen off
 sharply over the past two months. Although total flows into bond and
@@ -135,6 +146,39 @@ Memo: (Millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+-1.6
+3.1
+3.8
+1.9
+4.4
+-2.9
+6.0
+3.3
+4.7
+-3.9
+2.3
+3.1
+0.7
+4.0
+-3.1
+10.0
+1.1
+2.5
+-10.6
+-2.4
+-11.8
+4.0
+2.1
+4.4
+-1.7
+1.2
+5.4
+4.7
+5.7
+-4.8
+0.9
+4.1
+4.9
 Policy Alternatives
 (7) Recent GDP and labor market data have been stronger than
 anticipated by the staff at the time of the September FOMC meeting,
@@ -277,6 +321,7 @@ household demand for M2, helping to return growth in this aggregate to
 the 4-1/2 percent area over the October-to-March period under alterna-
 tive B. The rebound in M2 growth, combined with still-brisk issuance
 of large time deposits to fund bank credit, would result in about
+5-1/2 percent M3 growth under alternative B. As a consequence, M3
 velocity would continue to decline over the fourth quarter of this
 year and the first quarter of next year, albeit at a slower pace. The
 velocity of M2, in contrast, should edge up over these two quarters,
@@ -355,6 +400,7 @@ Dec-95 3785.2 3782.7 3780.2 4588.5 4587.0 4585.5 1127.2 1126.2 1125.2
 Jan-96 3801.0 3795.9 3790.9 4611.1 4608.0 4605.0 1126.6 1124.4 1122.3
 Feb-96 3818.4 3810.8 3803.2 4634.1 4629.5 4624.9 1126.6 1123.1 1119.7
 Mar-96 3835.6 3826.0 3816.5 4656.5 4650.8 4645.0 1127.2 1122.3 1117.3
+1.0 to 5.0 2.0 to 6.01995 Target Ranges:
 Directive Language
 (20) Presented below is draft wording for the operational
 paragraph that includes the usual options for Committee consideration.
@@ -380,6 +426,8 @@ CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime -maturity yields recently Bond market market
 !hill-- High
+-- Low
+95 -- High
 -- Low
 Monthly
 Nov 94
@@ -415,6 +463,29 @@ Daily
 Nov 3 95
 Nov 7 95
 Nov 8 95
+8.50
+6.00
+9.00
+8.50
+8.15
+8.50
+8.75
+8.75
+8.75
+7.37
+5.49
+6.94
+5.93
+7.27
+7.07
+9.57
+7.02
+9.57
+7.73
+9.43
+9.51
+7.79 5.86
+7.44 5.67
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ __-- -- L-- -- ---__ _-__ _ _ _ _ _ _-__ _ _ _-_--_-----_- - ----- - --------------- -----_--------
 Strictly Confidential (FR)-
 Class II FOMC
@@ -426,10 +497,21 @@ Period M1 M2 M3 L and U. S. other total'
 In M2 In M3 only investments' governmen
 Levels Sbillions)z
 Monthly
+1995-MAY 1143.0 3662.1 2519.1 750.2 4412.3 5433.9 3483.1 3577.0 9742.2 13319.2
+JUNE 1143.9 3698.3 2554.4 761.2 4459.4 5471.6 3498.7 3602.0 9772.9 13374.8
+JULY 1144.9 3717.5 2572.6 773.0 4490.5 5524.2 3515.7 3614.4 9797.0 13411.4
+AUG. 1143.4 3743.1 2599.8 776.0 4519.1 5559.0 3530.8 3620.0 9830.9 13450.9
+SEP. 1139.7 3757.9 2618.2 777.6 4535.5 3551.8
 Weekly
 1995-SEP. 4 1142.0 3753.6 2611.6 777.7 4531.3
+11 1142.3 3754.2 2611.9 776.8 4531.0
+18 1139.7 3759.3 2619.6 776.2 4535.5
+25 1140.5 3760.4 2619.8 775.5 4535.8
 OCT. 2 1132.2 3759.4 2627.2 783.8 4543.1
 9 1128.4 3753.6 2625.2 790.0 4543.6
+16 1130.8 3758.1 2627.3 792.2 4550.3
+23 p 1129.1 3755.6 2626.5 795.0 4550.6
+30 p 1128.9 3758.3 2629.4 791. 1 4549.4
 p preliminary
 pe preliminary estimate
 Components of Money Stock and Related Measures
@@ -451,13 +533,235 @@ Monthly
 OCT.
 NOV.
 DEC.
+1995-JAN.
+FEB.
+MAR.
 APR.
 MAY
 JUNE
 JULY
 AUG.
 SEP.
+290.1
+319.8
+352.5
+350.0
+353.0
+354.5
+357.7
+358.8
+362.5
+365.7
+368.1
+367.4
+367.1
+368.3
+369.1
+336.5
+381.2
+383.1
+384.5
+382.5
+382.2
+383.6
+384.1
+383.3
+381.2
+380.6
+386.8
+389.5
+390.0
+389.7
+380.0
+412.6
+404.0
+405.4
+403.8
+402.9
+399.3
+395.9
+393.3
+393.6
+385.0
+380.7
+379.4
+376.2
+372.0
+83.0
+95.1
+114.0
+113.4
+117.1
+123.9
+118.3
+118.2
+115.7
+116.5
+117.3
+114.3
+118.4
+121.4
+1177.5
+1211.7
+1157.7
+1171.0
+1157.8
+1144.2
+1129.8
+1111.9
+1094.9
+1082.4
+1081.4
+1091.1
+1091.4
+1098.1
+1105.2
+882.2
+790.4
+810.5
+799.7
+810.8
+820.9
+836.5
+856.5
+879.5
+898.5
+912.7
+919.7
+924.3
+927.2
+929.5
+359.2
+357.8
+383.9
+379.5
+383.3
+389.0
+392.1
+391.5
+390.9
+396.0
+405.4
+426.2
+442.0
+455.9
+462.6
+205.8
+196.9
+180.7
+180.8
+180.5
+180.8
+186.3
+180.4
+189.0
+192.9
+194.8
+205.6
+212.4
+210.8
+213.5
+358.4
+334.2
+357.5
+353.6
+357.4
+361.4
+361.9
+371.2
+378.6
+380.2
+385.5
+389.3
+396.3
+398.4
+401.1
+81.8
+96.7
+101.9
+103.1
+105.6
+109.4
+113.4
+113.4
+116.5
+121.7
+119.8
+115.3
+117.6
+115.4
 .3 I.3 L........-IL I.3-
+46.7
+46.5
+53.2
+52.7
+54.5
+52.4
+53.1
+56.3
+58.3
+59.9
+61.1
+62.4
+63.3
+62.6
+61.4
+154.5
+170.8
+179.9
+179.5
+179.9
+180.3
+180.5
+180.4
+180.5
+180.9
+181.6
+182.3
+183.0
+183.7
+329.2
+328.9
+363.6
+358.6
+361.9
+370.2
+371.4
+389.9
+402.0
+396.9
+383.9
+391.0
+410.9
+408.8
+365.5
+381.8
+400.9
+399.9
+401.4
+401.3
+402.8
+414.7
+421.7
+430.8
+443.8
+427.5
+428.0
+435.3
+20.6
+15.5
+13.5
+13.1
+13.5
+14.0
+13.4
+13.4
+14.1
+13.9
+12.3
+11.3
+11.7
+12.2
 p preliminary
 November 10, 1995
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES1
@@ -467,21 +771,139 @@ CLASS II-FOMC
 . . Treasury bills Treasurycoupons Federal Net change
 Net purchases 3 agencies outrightPeriod Net Redemptions Ne Redempons Ne redemptions holdings
 ___________purchases (-) change 1 ear 1-5 5-10 over 10 (-) Change () total 4 Net RPs
+1992
+1993
+1994
+1994 ---Q1
+---Q2
+---03
+---0Q4
+1995 ---Q1
+---02
+---03
+1994 November
+December
+1995 January
+February
+March
+April
+May
+June
+July
+August
+September
+October
 Weekly
 August 2
 November 1
 8
 Memo: LEVEL (bil. $) 6
 November 8
+11,486
+17,717
+17,484
+2,164
+6,639
+1,610
+7,071
+13,086
+17,717
+17,484
+2,164
+6,639
+1,610
+7,071
+4,470
+842
+6,109
+444
+433
+409
+1,350
+241
 --- 6,109
 -- 444
+1,096
+1,223
+1,238
+13,118
+10,350
+9,168
+1,413
+2,817
+2,530
+2,408
 -- 2549
 100
 - 200
 125 2,208
 -- 2,549
+2,818 2,333
+4,168 3,457
+3,818 3,606
+1,103 618
+1,117 896
+767
+2,337
+621
+370
+19,365
+18,431
+15,493
+2,665
+4,754
+4,157
+3,916
+-621
+4,156
 --- 200
 -- 4,245660 1,252
+200
+...
+632
+774
+229
+312
+501
+70
+37
+30,219
+35,374
+31,975
+-13,215
+5,974
+4,418 -11,663
+11,086 4,179
+5,654 -8,530
+10,818 8.602
+-850 -4,083
+8,314 10,395
+541 -15,979
+6,239 4,718
+4,652 3,066
+4,136 -2,758
+-30 2,474
+4,208 10,678
+-333 -13,602
+311 -2,984
+563 608
+-118 -427
+4,411
+-161
+1,827
+-2,512
+1,445
+1,556
+5,466
+2,526
+-7,724
+-2,054
+2,916
+-1,282
+3,436
+-4,808
+2,783
+384.7 -10.3
 asury and agency securities.
 irchase transactions (-), and matched purchase sale transactions (+).
 November 8

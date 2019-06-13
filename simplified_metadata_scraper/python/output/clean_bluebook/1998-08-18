@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 AUGUST 14, 1998
 MONETARY POLICY ALTERNATIVES
@@ -36,6 +44,8 @@ Concerns about the profit outlook, especially in light of continuing turmoil in 
 private securities markets in the United States. Equity prices, as gauged by the Wilshire 5000,
 were down about 7-1/2 percent over the intermeeting period, and risk spreads on junk bonds rose
 appreciably further. These developments apparently strengthened the conviction that monetary
+1 The switch to lagged reserve requirements in the maintenance period beginning July 30
+went smoothly for both depository institutions and the Federal Reserve System.
 policy would be on hold for longer than previously anticipated and encouraged a minority view
 that the next move could well be toward ease. On balance over the intermeeting period, Treasury
 yields fell as much as 1/4 percentage point, with declines greatest in the intermediate-term
@@ -85,8 +95,13 @@ changed over the past three months and terms on business loans were eased slight
 net.2 The federal government has continued to pay down debt on a seasonally adjusted basis.
 Growth of total domestic nonfinancial debt has slowed to the 5 percent area in recent months,
 leaving its growth from the fourth quarter of last year through June at a 6 percent rate.
+2 The slight narrowing of spreads reported in the survey is somewhat at odds with
+anecdotal information from market sources that spreads have stabilized or ticked up for broadly
+syndicated business loans.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+1997:Q4
+to
 May June July July2
 Money and Credit Aggregates
 M1
@@ -94,9 +109,16 @@ Adjusted for sweeps
 Domestic nonfinancial debt
 Federal
 Nonfederal
+-3.1
+4.7
 n.a.
 n.a.
 n.a.
+0.5
+5.3
+6.0
+-0.9
+8.3
 Bank Credit
 Adjusted1
 Reserve Measures
@@ -109,6 +131,16 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess Reserves
+-9.6
+-0.3
+-15.2
+3.8
+5.0
+6.6
+-4.8
+5.9
+5.5
+6.5
 Policy Alternatives
 (5) Compared with the forecast prepared for the July Greenbook, the staff projection
 now calls for slightly less core inflation, reflecting in part a higher foreign exchange value of the
@@ -225,6 +257,10 @@ the first, reflecting a slowing pace of securities acquisitions as well as some 
 growth, damping banks' needs for funding through M3-type instruments. Despite the slowing in
 M2 and M3 growth during the second half, both aggregates are expected to overshoot their
 annual ranges for the year as a whole.3
+3 According to elasticities based on staff econometric models, a rise in the federal funds
+rate on the order of 1-1/2 percentage points at this meeting would be necessary to restrain M2 to its
+annual range by the end of this year. Of course, this calculation does not capture any unusual
+reactions that might arise in current circumstances from a tightening of this magnitude.
 Alternative Growth Rates for Key Money and Credit Aggregates
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
 All Alternatives
@@ -243,11 +279,64 @@ Quarterly Averages
 Growth Rat
 From
 Jul-98
+1997
+1997
+1997
+1995
+1996
+1997
 To
 Dec-98
 Jul-98
 Dec-98
 Sep-98
+1996 Q4
+1997 Q4
+1998 Q4
+1.0 to 5.0 2.0 to 6.0
+7.0
+6.6
+6.8
+4.6
+5.7
+6.7
+7.0
+6.3
+6.7
+4.6
+5.7
+6.5
+7.0
+6.1
+6.6
+4.6
+5.7
+6.3
+8.6
+8.6
+8.7
+6.8
+8.8
+8.7
+8.6
+8.5
+8.7
+6.8
+8.8
+8.6
+8.6
+8.4
+8.6
+6.8
+8.8
+8.5
+6.0
+5.7
+5.7
+5.3
+5.0
+5.7
+1998 Annual Ranges:
 Directive Language
 (13) Presented below is draft wording for the operational paragraph that includes the
 usual options for Committee consideration.
@@ -263,6 +352,10 @@ contemplated reserve conditions are expected to be consistent with moderate grow
 M3 over coming months.
 August 17, 1998SELECTED INTEREST RATES
 (percent)
+97 -- High
+-- Low
+98 -- High
+-- Low
 Monthly
 Aug 97
 Sep 97
@@ -304,6 +397,7 @@ Aug 14 98
 Short-Term Long-Term
 Treasury bills CDs m U.S. gormt constant n y corporate micia onventional home
 federal secondarymarke nda comm. aturity yields indexed yields -utiity municipal mortgagesfunds secondary maet maret paper maturity yields ond primary marketrecently Buyer
+3-month 6-month 1-year 3-month 1-month 3-year 5-year 10-year 30-year -year 10-year offered fixed-rate ARM
 the average contract rate on new commitments for fixed-rate mortgages (FRMs) with 80 percent loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-
 year, adjustable-rate mortgages (ARMs) at major institutional lenders offering both FRMs and ARMs with the same number of discount points.
 p - preliminary data
@@ -317,6 +411,9 @@ nontransactions components
 Period M1 M2 I o 3onyM3 U.S.P e r io d  M 1  M 2  In M2 In M3 only M government' other' total'
 Annual growth rates( Mt
 Annually (Q4 to Q4)
+1995
+1996
+1997
 Quarterly(average)
 1997-Q3
 Q4
@@ -328,11 +425,127 @@ Sep.
 Oct.
 Nov.
 Dec.
+1998-Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July p
 Levels (Sbillions)i
 Monthly
+1998-Mar.
+Apr.
+May
+June
+July p
 Weekly
 1998-July
 Aug. 3p
+-1.6
+-4.5
+-1.2
+-2.6
+3.1
+5.1
+1081.1
+1080.8
+1078.0
+1075.1
+1072.3
+1084.7
+1061.6
+1070.1
+1073.0
+3.9
+4.6
+5.7
+4132.3
+4165.1
+4174.9
+4193.0
+4210.1
+4214.6
+4202.3
+4208.8
+4212.9
+6.6
+8.7
+8.4
+11.3
+11.9
+9.4
+3051.2
+3084.3
+3096.9
+3117.9
+3137.8
+3129.9
+3140.7
+3138.8
+3139.9
+15.4
+15.3
+19.6
+19.1
+6.8
+1394.8
+1409.2
+1427.9
+1435.2
+1419.9
+1406.4
+1417.5
+1416.2
+1426.5
+6.1
+6.8
+8.8
+11.8
+11.5
+10.4
+8.9
+5527.1
+5574.3
+5602.8
+5628.1
+5630.0
+5621.0
+5619.8
+5625.0
+5639.4
+4.4
+3.8
+0.7
+0.0
+0.4
+0.0
+-0.4
+1.5
+-0.5
+-1.2
+1.4
+-1.8
+-4.0
+-1.0
+3797.
+3791.
+3778.
+3775.
+5.8
+5.9
+6.5
+11619.5
+11701.8
+11778.4
+11847.7
+5.4
+5.3
+5.0
+15416.8
+15493.4
+15557.2
+15623.5
 p preliminary
 pe preliminary estimate
 Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove discontinuities.
@@ -344,13 +557,155 @@ Treasury bills Treasurycoupons Federal Net change
 Net purchases 3 agencies outright
 Period Net 2 Redemptions Net with Redemptions Net redmtions holdings
 purchases (-) change 1 year 15 5-10 over 10 () Change _total 4 Net RPs
+1995
+1996
+1997
+1997 ---01
+---02
+---03
+---Q4
+1998 ---Q1
+---02
+1997 August
+September
+October
+November
+December
+1998 January
+February
+March
+April
+May
+June
+July
 Weekly
 April 29
 May 6
+13
+20
+27
 August 5
 12
 Memo: LEVEL (bil. $) 6
 August 12
+10,932
+9,901
+9,147
+390
+524
+619
+877
+644
+1,501
+1,369
+10,032
+9,901
+9,147
+-2,000
+3,550
+1,432 2,529
+1,116 1,655
+3,849 5,897
+698 1,237
+1,233 1,894
+1,918 2,766
+5,366
+3,898
+3,366
+5,822
+2,697
+7,794
+2,262
+2,993
+3,323
+4,471
+2,262
+2,993
+1,776
+2,015
+1,996
+7,941
+5,179
+5,314
+9,451
+2,744
+478 4,311
+286 4,571
+3,341
+1,002
+6,224
+8,245
+4,789
+4,571
+1,003
+409
+60
+99
+179
+105
+215
+10
+50
+74
 L __________
+16,970
+14,670
+40,586
+5,084
+13,554
+2,173
+19,775
+2,251
+8,022
+-179
+3,236
+787
+6,198
+-2,478
+-10
+4,739
+8,047
+-25
+-1,311
+1,049
+-50
+-1,023
+5,351
+-11,149
+6,771
+-4,493
+8,807
+-15,409
+10,707
+7,669
+-181
+-4,412
+5,519
+7,700
+-21,985
+4,262
+2,314
+9,405
+-14,806
+16,108
+-9,397
+15,594
+-32,580
+-38
+9,170
+-4,173
+4,462
+-7,867
+10,838
+4,090
+-1,629
+-5,872
+8,421
+-10,085
+8,153
+-7,552
+9,774
+458.4 -15.7
 August 12
 August 14, 1998
+43.0 52.2

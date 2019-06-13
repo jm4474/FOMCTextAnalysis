@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 May 15, 1987
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -94,6 +102,7 @@ intermeeting period. In these circumstances, the federal funds rate spiked
 to well over 7 percent late in April, before dropping back to around 6-3/4
 percent. The reserve shortages and higher funds rate prompted a considerable
 rise in discount window borrowing to $689 million in the period ended April
+22 and $1,111 million in the following period. Thus far in the current
 period, borrowing has averaged $490 million.
 (5) Most other interest rates also have risen, with long-term
 rates climbing particularly steeply. International developments--the
@@ -118,6 +127,7 @@ steps to correct underlying domestic and international imbalances. The
 dollar has tended to stabilize recently, in part reflecting actions to firm
 monetary conditions in the United States and in to ease conditions in
 Japan, Germany, and the United Kingdom. The differential between rates on
+3-month bank liabilities in the United States and in these three countries
 rose by about 120 basis points in favor of the dollar, while the diffe-
 rential in longer-term instruments rose by more than 160 basis points.
 . The Desk
@@ -159,6 +169,7 @@ March 2825.7 2825.7 2825.7 3524.4 3524.4 3524.4 739.2 739.2 739.2
 April 2839.6 2839.6 2839.6 3541.3 3541.3 3541.3 750.2 750.2 750.2
 May 2840.9 2840.4 2839.9 3552.5 3551.9 3551.3 749.9 749.7 749.5
 June 2857.4 2853.9 2850.4 3578.6 3576.8 3575.1 756.2 754.9 753.6
+5.5 to 8.5 5.5 to 8.51987 Ranges:
 partly reflected market perceptions that the System is, or soon would be,
 seeking firmer reserve conditions than those assumed in this alternative.
 Under normal circumstances, attainment of the alternative B borrowing path
@@ -250,6 +261,7 @@ assets implied by alternative C would further depress demands for core
 deposits, with M2 growth from April to June likely slowing to a 2-1/4 percent
 pace. Growth at this rate would leave M2 at the lower end of the parallel
 band associated with its longer-run range. The implied expansion--of around
+7 percent--in the second half of the year needed to attain the lower end of
 the long-run range would seem to require a considerable easing of policy later
 in the year. Transactions deposits would be especially affected by an upward
 movement of market rates, which would substantially boost opportunity costs
@@ -353,6 +365,10 @@ Short-term .e. Long-Term
 Iv conventional home mortgage
 Treasury bills CD com. y bank U.S. government constant coporte municipal co tonal hom mora
 Peiod eds secondary market o t mpaper prime maturity yields rutility Bond mdt rt market
+1986--Hi gh
+Low
+1987--High
+Law
 Monthly
 1966--May
 June
@@ -362,14 +378,70 @@ Sep.
 Oct.
 Nov.
 Dec.
+1987--Jan.
+Feb.
+Mar.
+Apr.
 Weekly
 1987--Feb. 4
+11
+18
+25
 Apr. 1
 8
+15
+22
+29
 May 6
 13
 Dally
 Hay 8
+14
+15
+7.30
+5.16
+6.02
+5.36
+5.97
+5.84
+9.50
+7.50
+8.00
+7.50
+7.96
+8.00
+8.00
+8.00
+8.25
+10.83
+9.03
+9.96
+8.79
+9.87
+10.10
+8.72
+7.15
+8.28
+6.92
+8.20
+8.20
+10.97
+9.31
+10.73
+8.97
+10.39
+10.73
+10.99
+9.30
+10.52
+9.07
+9.26
+9.43
+10.27
+10.37
+10.47
+10.52
+10.48
 Strictly Confidential (FR)-
 Money and Credit Aggregate Measures Class 
 II FOMC
@@ -388,7 +460,15 @@ NALB 739.2 2825.7 2086.4 698.7 3524.4 4174.4 2126.2 1830.7 5978.9 7809.6
 APS. P 750.2 2839.6 2089.4 701.7 J541.3 2147.2 1840.0 6031.2 7871.2
 BEBKLY LEVELS ($BILLIONS)
 1987-&P9. 6 740.0
+13 742.3
+20 756.7
+27 P 758.1
 NAY 4 P 748.8
+1/ ANNUAL BATES FOR BANK CHEDIT ABE ADJUSTED FOR A TBAMSFEB OF LOANS f9O8 CONTINENTAL ILLMNOIS NATIONAL BANK TO THm FDIC
+BEGINNING SEPTEDBEB 26, 1984.
+2/ DBdT DATA ABE ON A HONTllLT AVEAGE BASIS, DLBEIVD UI AVEAGING IED-OP-RONTH LEVELS OP LUJAILENT OIITUS, AND HASV 88E1 ADJUSTED
+TO BEROVi DISCONTiNUITIES.
+P-PBE LIfIIABI
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted
 MAY 18, 1987
@@ -402,25 +482,149 @@ AIIUALLI (lT4 QTB):
 AWR. P 188.9 303.9 250.6 77.1 565.3 406.2 842.6 211.8 83.1 454.6 87.6 88.3
 I/ INCLODES RETAIL REPURCHASE AGIREMENTS. ALL IRA AND KEOGH ACCOUNTS AT CONIIERCIAL BANKS AMD THRIFT INSTITUTIONS ABE SUBTRACTED
 rBOn SHALL T1IA DEPOSITS.
+2/ BICLODES IRA AND KBOGi ACCOUNTS.
+3/ NET OF LABGB DEMOHXIBAIALU T7181 DEPOSITS HELD B Sl O£ t MARKET SUTUAL PONDS AMD THRIFT INSTITUTIONS.
+1986--QTR. I
+II
+[II
+IV
+1987--QTR. I
+1986--Oct.
+Nov.
+Dec.
+1987--Jan.
+Feb.
+Har.
+Apr.
 Hay 6
 13
 LEVEL--May 13
 ($ billions)
 Treasury bills
 net changes
+-3,052
+5,337
+5,698
+13,068
+3,779
+14,596
+19,099
+-2,821
+7,585
+4,668
+9,668
+928
+3,318
+5,422
+414
+-4,189
+1,062
+3,573
+-704
+-3,538
+348
+313
+1.422
+1,308
+1,427
+446
 Treasury coupons net purchases' Federal agencies net purchases'
+190 893 236
 - -252
+893 236
+3,642 914
+465 1,244 290
+378 1,135 318
+389 1,263 307
+18.4 41.2 16.5
+811 4,564
+379 2,768
+307 2,803
+383 3,653
+441 3,440
+293 4,185
+158 1,476
+158 1,476
 - -252
+217
+133
+476 |
+-- I -
 - -252
+669 6,457
 -- 2
 -- -250
+196 2,195
+247 2,078
+227 2,186
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Hay 18, 1987
 Net change
 outright holdings Net RPs'
+2,035
+8,491
+8,312
+16,342
+6,964
+18,619
+20,178
+-2,861
+7,535
+4,577
+10,927
+835
+4,670
+5,422
+304
+-4,441
+1,062
+9,993
+-707
+-3,788
+2,542
+308
+3,500
+1,276
+2,338
+1,427
+446
+2,462
+684
+1,461
+-5,445
+1,450
+3,001
+-3,580
+-356
+4,044
+9,925
+-3,493
+1,852
+-10,701
+-4,723
+1,170
+-6,611
+92
+1,802
+-5,252
+4,110
+5,155
+-5,445
+-145
+-73
+8,914
+-5,341
+6,616
+1,915
+975
+78
+1 Change from end of-period to end of period 5 In addition to the net purchase of securities, also reflects changes in System holdings of bankers' acceptances,
+2 Outright transactions in market and with foreign accounts, and redemptions (-) In bill auctions direct Treasury borrowing from the System and redemptions (-) of agency and Treasury coupon issues
+3. Outright transactions in market and with foreign accounts, and short term notes acquired in exchange for 6 Includes changes in RPs (+), matched sale purchase transactions (-), and matched purchase sale transactions (+)
 maturing bills Excludes redemptions, maturity shifts, rollovers of maturing coupon issues, and direct Treasury
 borrowing from the System
+4 Outright transactions in market and with foreign accounts only Excludes redemptions and maturity shifts
 Net Changes in System Holdings of Securities
 Millions of dollars, not seasonally adjusted
 I I I

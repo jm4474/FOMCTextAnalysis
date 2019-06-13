@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 January 13, 1978
 Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
@@ -46,6 +54,7 @@ funds rate 6¼ to 6¾ week ending
 (per cent per From Jan. 7: Dec. 21 6.54
 annum) 6½ to 7 28 6.65
 (2) Total reserves are projected to be increasing at about a
+14 per cent annual rate over December and January, reflecting the pick-
 up in growth of demand deposits and continued strong expansion in large
 denomination time deposits. Growth in nonborrowed reserves is expected
 to be even more rapid over this period, as member bank borrowing has
@@ -56,6 +65,7 @@ continued to aim for a Federal funds rate of around 6½ per cent in the
 last weeks of December and first week of January. However, reflecting
 technical factors,including usual window-dressing pressures around year-end
 Federal funds generally traded at rates above this level. On January
+6, the Board approved an increase in the discount rate from 6 to 6½
 per cent. On that day, the FOMC also concurred in the Chairman's
 recommendation to raise the Federal funds rate range to 6½ to 7 per
 cent and to instruct the Account Manager to raise the funds rate to
@@ -75,6 +85,8 @@ flows over various time periods.
 Past Past Past
 Twelve Six Three Past
 Months Months Months Month
+1975 & Dec. '77 Dec. '77 Dec. '77 Dec. '77
+1976 over over over over
 Average Dec. '76 June '77 Sept. '77 Nov. '77
 Concepts of Money
 Bank Credit
@@ -83,6 +95,10 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift institutions
 --which are derived from either end-of-month or Wednesday statement date figures.
 Growth rates for reserve measures in this and subsequent tables are adjusted to
 remove the effect of discontinuities from breaks in the series when reserve require-
@@ -107,6 +123,15 @@ range would--given associated projections for time deposit flows into
 banks and thrift institutions--lead to growth in M-2 and M-3 at rates
 near or below the lower ends of the ranges shown.1 / Alternatives A
 and C represent, respectively, somewhat more and somewhat less expansive
+1/ Without an adjustment in deposit ceiling rates, the ranges for M-2
+and M-3 for the QIV '77-QIV '78 period consistent with a 4 to 6
+per cent growth in M-1 would be 5 to 8 and 6 to 9 per cent,
+respectively. Projections of the interest-bearing components of
+M-2 and M-3, with and without an adjustment in ceiling rates, are
+shown in Appendix V. (Should the Committee wished to retain the
+existing M-2 and M-3 ranges without an adjustment in deposit ceil-
+ing rates, the staff believes that consistency would require an M-1
+range of 5 to 8 per cent and associated lower short-term market
 policy alternatives; both also assume the upward adjustment in ceiling
 (8) The table below provides perspective on the relationship
 between growth rates proposed for the QIV '77-QIV '78 period and for 5-
@@ -121,12 +146,15 @@ the third quarter of last year and the slight overshoot in the fourth.
 M-1 growth at the mid-point of the proposed 4-6 per cent alternative C
 range would virtually compensate for the slight fourth quarter overshoot,
 since this would lead to a 5.4 per annual rate of expansion over the
+15-month QIII '77-QIV '78 period.1/
 Growth Rates in Monetary Aggregates Assuming
 Growth Over QIV '77-QIV '78 Period at Near
 Mid-Point of Alternative Ranges
 (Annual rate, compounded quarterly)
 Period Alt. A Alt. B Alt. C
 M-1
+1/ Implications of the proposed alternatives for the monetary aggregates
+for growth over even more extended periods than those shown in the
 text table are shown in connection with the growth triangles in
 Appendix IV.
 (9) Shorter-run specifications for monetary aggregates and
@@ -140,6 +168,7 @@ M-2 5½ to 9 5 to 9 4½ to 8½
 Federal funds rate
 (Intermeeting period) 6 to 6½ 6½ to 7 7 to 7½
 (10) A Federal funds rate centered on the recently prevailing
+6¾ per cent, as encompassed under alternative B, is likely to be
 associated with M-1 growth over January-February in a 2½ to 8½ per cent
 annual rate range. However, the staff expects that further increases
 in market interest rates will be required relatively soon in order to
@@ -157,11 +186,25 @@ additional downward shift in the demand for money over 1978. Thus, in
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1 M-2
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1977 December 335.4 335.4 335.4 806.5 806.5 806.5
+1978 January 337.3 337.2 337.1 811.2 810.9 810.6
 February 338.8 338.5 338.2 816.6 815.7 815.4
+1977 QIV 334.1 334.1 334.1 802.9 802.9 802.9
+1978 QI 338.9 338.6 338.4 816.6 816.2 816.2
+QII 343.6 342.8 342.2 834.0 834.2 833.0
+QIII 348,1 347.1 346.4 853.9 852.1 849.3
+QIV 352.6 351.6 350.9 872.9 869.4 865.9
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M-3 Bank Credit
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1977 December 1373.9 1373.9 1373.9 868.7 868.7 868.7
+1978 January 1382.9 1382.7 1382.1 875.2 875.2 875.2
 February 1392.8 1391.6 1389.8 882.7 882.5 882.3
+1977 QIV 1365.5 1365.5 1365.5 865.0 865.0 865.0
+1978 QI 1392.8 1392.1 1391.6 883.4 882.9 882.3
+QII 1424.1 1423.2 1420.3 904.4 903.0 901.9
+QIII 1459.2 1454.8 1448.5 924.5 922.0 920.2
+QIV 1493.9 1485.9 1477.0 944.1 940.9 938.4
 order to constrain M-1 growth, the Federal funds rate under alternative
 B begins to rise next month and reaches an average of 8 per cent in the
 fourth quarter, as shown in Appendix I.1/
@@ -185,7 +228,10 @@ With outstanding commitments at record levels, it seems likely that S&L's
 will not only be forced to reduce their liquidity and to maintain a high
 rate of borrowing from the FHLBanks, but also to slow their new commit-
 ment activity in early 1978.
+1/ The implied increases in the velocity of M-1 and M-2 over 1978 are
+displayed in Appendix II.
 (13) If the Federal Funds rate remains near its present
+6¾ per cent level over the intermeeting period, as envisioned under
 alternative B, short-term market interest rates will probably remain
 near current higher levels. And given their increases since November,
 bond yields may be fully adjusted to the current level of short-term
@@ -242,6 +288,7 @@ gates to rates within the somewhat lower ranges proposed for alterna-
 tive C. However, further interest rate increases appear necessary as
 the year progresses, given the underlying strength of money demand.
 The staff would expect the funds rate under this alternative to average
+7-3/4 per cent by the second quarter of 1978 and 8-1/4 per cent in the
 (18) An easing in money market conditions over the next few
 weeks under alternative A, which calls for a Federal funds rate of
 about 6-1/4 per cent, would come as a considerable surprise so soon

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 December 17, 1982
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -45,11 +53,26 @@ percent drop in M2 velocity over the year, the largest four-quarter decline
 in the postwar period. As for M1, growth from QIV '81 to QIV '82 will
 KEY MONETARY POLICY AGGREGATES
 (Seasonally adjusted, annual rates of growth)
+1982 Year 1982 Year 19S2
+Sept. Q4 Year Q4 Year
 Oc to to over to over
 Oct. Nov. Dec. Dec. 04 Year Q4 Year
 Money and Credit Aggregates
+6/7/ 7/
+Bank Credit 6.8 1.5 n.a. n.a. 7.1- /- / 8.2- 8.8 9.6
+1/
+Reserve Measures-
 Nonborrowed Reserves- 24.4 15.0 n.a. n.a. n.a. n.a. 6.8 6.9
 Memo: (Millions of dollars)
+3/ 8/
+Adjustment borrowing-  337 433 387z  - -- -
+1/ Growth rates of reserve measuies are adjusted to remove the effects of discontinuities
+resulting from phased changes in reserve ratios under the Monetary Control Act.
+2/ Nonborrowed reserves include special borrowing and other extended credit from the
+Federal Reserve.
+3/ Includes seasonal borrowing.
+4/ Projected from partial data.
+5/ Tax exempt money market mutual funds, which are not now included in the money stock,
 began expanding rapidly early this year. If such balances were to be included in
 the money stock, growth in M2 and M) would be boosted in 1982 by .4 and .5 percentage
 points, respectively, on a Q4 to Q4 basis.
@@ -58,6 +81,7 @@ points, respectively, on a Q4 to Q4 basis.
 6/ Through the first two statement weeks of December.
 probably be about 8-1/2 percent, well above the Committee's longer-run
 range of 2-1/2 to 5-1/2 percent. The income velocity of M1 declined by
+4-1/2 percent over the year, also a postwar record.
 (4) Bank credit growth weakened further in November, when out-
 standing business loans (and also total loans) contracted. With core deposit
 flows more than adequate relative to credit demands, banks have let large
@@ -80,7 +104,9 @@ strong bank demand for excess reserves led to over $3 billion of borrowing
 on Wednesday.
 (6) Reflecting two further 1/2 percentage point cuts in the
 discount rate to a level of 8-1/2 percent, the federal funds rate has
+1/ See Appendix I for intermeeting reserve path adjustments.
 fallen to the 8-1/2 to 9 percent area in recent days compared to around
+9-1/2 percent through the previous intermeeting period. Other short-term
 interest rates generally have dropped 35 to 75 basis points on balance
 since mid-November. Bond yields, however, are a little higher on balance
 over the intermeeting period, reflecting unusually heavy borrowing by
@@ -118,6 +144,9 @@ of M2. However, M2 is by no means free of uncertainties in the transition
 because of the unknown degree to which funds will shift out of market
 instruments into the newly authorized deposits. We have assumed that such
 shifts in the first quarter (when much of the adjustment to the new accounts
+1/ A detailed discussion of possible effects on the various monetary
+aggregates over the first three months of 1983 and for the year as
+a whole are given in Appendix III.
 may take place) will increase M2 growth on the order of 3 percentage points
 at an annual rate and that the impact for the year may be on the order
 of 1-1/2 percentage points--with relatively wide margins of error around
@@ -146,12 +175,21 @@ such growth, given our preliminary estimate of shifts from market instruments,
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M2 M3 _Ml- '
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1982--October 1967.7 1967.7 1967.7 2381.6 2381.6 2381.6 468.4 468.4 468.4
+November 1986.9 1986.9 1986.9 2399.9 2399.9 2399.9 475.0 475.0 475.0
+December 1994.3 1994.3 1994.3 2400.3 2400.3 2400.3 479.3 479.3 479.3
+1983--January 2016.7 2014.5 2012.6 2417.0 2415.6 2414.2 485.9 485.1 484.3
+February 2035.4 2031.7 2028.4 2434.1 2432.0 2429.7 488.9 487.3 485.7
 March 2054.1 2048.8 2044.2 2451.3 2448.3 2445.3 491.3 488.9 486.5
 Growth Rates
 Monthly
 Growth Rates
 Quarterly
 Average
+1/ For purposes of constructing this tablewe have assumed that growth of M1 will be boosted by 3 per-
+centage points at an annual rate in the December to March period as a result of shifts related to the
+new money market accounts. As discussed in Appendix III, the staff believes that the actual shifts
+could have an effect on M1 growth of from -4 to +10 percentage points at an annual rate over this period.
 CONFIDENTIAL (FR)
 Class II -FOMCActual and Targeted M2
 M2 Billions of dollars
@@ -169,6 +207,7 @@ M3 Billions of dollars
 --- 2540
 - ACTUAL LEVEL*
 .." SHORT-RUN ALTERNATIVES
+9 .%*o
 il ~~I I
 -- 2300
 *December 1982 level s proected
@@ -233,6 +272,7 @@ approach may make it a bit more difficult than under alternative B to
 keep M2 growth over the year as a whole within its longer-run target range.
 Since alternative A would probably be associated with a drop in short-term
 rates over the near-term--typified by federal funds falling to around
+7-1/2 percent and a 3-month Treasury bill to around 6-3/4--it is possible
 that a fairly substantial reversal of interest rates as the year 1983
 progresses may be required under this alternative to restrain M2 growth
 to its longer-term range (assuming that economic activity improved in the

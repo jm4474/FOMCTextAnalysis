@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
@@ -22,6 +30,7 @@ Recent Developments
 period.' Most short- and intermediate-term interest rates have declined as many as 30 basis
 points, but most long-term yields have been about unchanged to 15 basis points higher,
 major equity price indexes have shed 2-1/2 to 7 percent, and the dollar has appreciated
+1-1/4 percent against a broad basket of foreign currencies (chart 1). Market participants'
 expectations about the near-term course of interest rates have been revised down in light of
 the Committee's statement following its August meeting, which was read as indicating that
 the Federal Reserve was more confident that the growth rates of aggregate demand and
@@ -33,6 +42,11 @@ action being an easing rather than a tightening. The contrary movement of a numb
 long-term yields seemed to owe in part to increased uncertainty associated with volatility in
 oil prices and to heavy corporate bond issuance. Heightened skepticism about the political
 will to preserve projected budget surpluses also pushed up bond yields, particularly in the
+1 The effective federal funds rate averaged close to the 6-1/2 percent target over the
+intermeeting period. The Desk redeemed $4.9 billion of securities, mostly Treasury bills, to avoid
+exceeding its per-issue limits on holdings. It purchased $6.2 billion of Treasury coupon issues in the
+market and $669 million of Treasury bills from foreign customers. The volume of outstanding long-
+term RPs was unchanged at $9.9 billion.
 Chart 1
 Financial Market Indicators
 Expected Federal Funds Rates Estimated from Selected Treasury Yields
@@ -117,6 +131,12 @@ Money and Credit Aggregates
 Ratio Scale
 Percentage PointsRatio Scale
 p - Projected based on partial data.
+2.0
+8
+1.9
+6
+4 1.8
+2 1.7
 M2 Velocity
 (left scale)
 M2 Opportunity Cost*
@@ -155,6 +175,7 @@ effects of previous monetary tightening actions, the influence of some additiona
 steps assumed for late 2001 and 2002, and a falling wealth-to-income ratio stemming from a
 flat stock market. Restraint from these sources is only partly offset by a projected decline in
 the foreign exchange value of the dollar. Although the unemployment rate edges up to
+4-1/2 percent by the end of 2002, the path of resource utilization is foreseen to be inconsistent
 with stable underlying inflation. Core PCE prices are projected to accelerate about 1/2
 percentage point through 2002 from their pace over the past twelve months. The projected
 path of oil prices is about $2 per barrel above that in the August forecast. The higher track
@@ -281,9 +302,25 @@ Growth Rate
 From To
 Dec-1999 Sep-2000
 Sep-2000 Mar-2001
+1999 Q4 Sep-2000
+1998 Q4 1999 Q4
+1999 Q4 2000 Q4
+1999 Q4 Aug-2000
 *This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+5.9
+5.0
+8.3
+6.8
+8.3
+6.8
+7.7
+8.9
 SELECTED INTEREST RATES
 (percent)
+99 -- High
+-- Low
+00 -- High
+-- Low
 Monthly
 Sep 99
 Oct 99
@@ -335,8 +372,16 @@ Annual arowth rates(%):
 Annually (Q4 to Q4)
 Levels (Sbillions):
 Monthly
+2000-Apr. 1115.1 4770.8 3655.7 1903.8 6674.6 3600.2 14119.3 17719.6
+May 1105.0 4768.8 3663.9 1926.1 6694.9 3546.0 14249.1 17795.1
+June 1103.4 4783.8 3680.4 1952.6 6736.4 3521.2 14356.1 17877.4
+July 1104.6 4798.2 3693.5 1990.9 6789.1 3510.2 14438.8 17948.9
+Aug. 1101.5 4827.5 3726.0 2019.9 6847.3
 Weekly
 2000-Aug. 7 1088.9 4816.2 3727.3 2011.9 6828.1
+14 1090.8 4812.2 3721.4 2023.6 6835.8
+21 1105.5 4832.5 3727.0 2024.0 6856.5
+28 1113.1 4838.8 3725.6 2017.9 6856.7
 Sep. 4 1106.8 4846.4 3739.7 2023.6 6870.0
 llp 1089.3 4850.8 3761.5 2023.7 6874.5
 18p 1091.5 4869.2 3777.6 2038.7 6907.9
@@ -351,12 +396,20 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs
 Agency total
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
 Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term
+6 Term 7 Change
+1999 OQI
 Oill
 01VQIV
+2000 QI
+QII
+2000 Jan
+Feb
+Mar
 May
 Jun
 Jul
 Aug
+2000 Jul 5
 Jul 12
 Jul 19
 Jul26
@@ -369,13 +422,133 @@ Sep 6
 Sep 13
 Sep 20
 Sep 27
+2000 Sep 28
 Sep 29
 Intermeeting Period
 Aug 22-Sep 29
 Memo: LEVEL (bil. $)
 Sen 29
+3,550 2,000
+9,147
+1,550
+198 -198
+779 1,515
+2,297 -2,297
+4,188 -4,188
+4,902 -3,077
+3,438 -2,907
+2,079 -2,079
+3,517 -1,692
+1,385 -1,385
 -- 93
+3,376 -3,318
+62 69
+3,709 -3,670
+- 109
+189 -184
 - 55
+669 3,959
+5,549
+6,297
+3,978 8,751
+2,341 1,272
+2,414 4,528
+2,039 3,319
+1,284
+2,770
+740
+1,723
+2,259
+2,508
+898
+837
+3,449 5,897
+2,294 4,884
+4,303 9,428
+2,594
+447
+489
+930
+693
+661
+2,088 2,385 1,109
+70.4 132.0
+1,996 32,979
+2,676 23,699
+1,429 43,928
+3,152
+1,075
+1,399
+1,679
+500
+727
+170
+468
+3,207
+7,398
+636 887 5,330
+53.5 71.2 327.1
+40,586
+24,902
+5,073
+9,478
+2,978
+2,419
+1,642
+-25
+1,361
+3,590
+599
+4,167
+2,021
+-408
+-980
+2,947
+2,213
+1,441
+-132
+905
+-1,622
+2,496
+-7,242
+-23
+-34
+-1,886
+104
+-3,635
+1,175
+-5,545
+-2,759
+1,484
+867
 - 2,496
+463 -6,779
+8,347 10,382
+-2,103 -2,126
+1,487 1,453
+29,921 30,474
+-8,174 -10,060
+-9,709 -9,605
+-12,915 -18,970
+-29,095 -24,490
+-4,445 -2,926
+3,013 -814
+389 139
+-4,380 -5,043
+2,009 7,109
+22 -5,523
+-1,994 -4,753
+20 1,504
+-2,017 -1,151
+-2,034 -2,681
+15 -1,637
+-51 3,792
+-49 -1,901
+24 6,162
+-36 -6,577
+-26 5,076
+31 -4,683
 --- -271
+15 1,176
+-9.1 9.9 0.8
 acquired in exchange for maturing bills. Excludes maturity shifts and rollovers of maturing issues.

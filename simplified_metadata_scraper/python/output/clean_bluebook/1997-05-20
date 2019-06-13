@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 May 16, 1997
 Monetary Policy Alternatives
@@ -79,6 +87,12 @@ M3 in March and April was associated in part with the need to fund a brisk expan
 bank credit. Banks acquired large volumes of securities on balance over the two months,
 likely as temporary outlets for the buildup of tax-related deposit balances, and business and
 real estate lending remained robust.
+1 The buildup was mainly in savings accounts (including MMDAs) and money market
+mutual funds. M1 declined steeply in April, reflecting the effects of new retail sweep
+activity. (From 1994 through April, depository institutions have implemented more than $200
+billion of such sweeps, reducing required reserve balances cumulatively by about $17 billion.)
+In addition to sweep accounts, moderate growth in currency restrained M1 and contributed to
+weakness in the monetary base, which rose only slightly in April.
 (5) Growth of domestic nonfinancial sector debt so far in 1997 has been somewhat
 slower than in 1996, mainly owing to the reduced pace of federal borrowing. In March, this
 aggregate was a little below the midpoint of its annual range. Among private borrowers,
@@ -91,6 +105,8 @@ been tightening standards and terms on consumer credit, however, as households h
 continued to experience debt servicing problems.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 Feb. Mar. Apr. Apr.1
 Money and Credit Aggregates
 M1
@@ -110,6 +126,33 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess reserves
+6.8
+10.3
+-12.3
+3.4
+-17.0
+7.1
+3.5
+6.2
+-11.4
+0.4
+-3.4
+5.4
+4.5
+2.3
+5.3
+10.2
+8.5
+11.2
+11.4
+-21.7
+3.4
+1.7
+4.3
+-12.2
+6.5
+4.6
+6.6
 Policy Alternatives
 (6) Given the Committee's recent tightening, the staff now assumes a slightly
 higher real federal funds rate for a time than in its last forecast, but has not appreciably
@@ -260,11 +303,89 @@ Growth Rate
 From
 Apr-97
 May-97
+96 Q4
+96 Q4
+96 Q4
+95 Q4
 Sep-97
 Sep-97
 Apr-97
 May-97
 Sep-97
+96 Q4
+1.0 to 5.0 2.0 to 6.0
+3903.9
+3901.7
+3914.6
+3926.7
+3939.0
+3951.8
+5052.6
+5065.3
+5091.0
+5116.9
+5142.9
+5168.6
+3903.9
+3902.3
+3917.2
+3931.9
+3946.7
+3961.5
+3.5
+4.6
+5.9
+4.8
+4.8
+5052.6
+5064.9
+5089.4
+5113.6
+5138.0
+5162.7
+5.2
+5.8
+8.0
+7.1
+6.7
+2.9
+3.9
+5.9
+4.8
+4.5
+1065.0
+1060.3
+1056.2
+1053.1
+1050.3
+1048.0
+-1.4
+1.0
+-6.0
+-3.8
+-3.5
+-3.4
+-3.7
+-3.6
+1065.0
+1060.1
+1055.3
+1051.1
+1047.1
+1043.5
+-1.4
+1.0
+-4.8
+-4.7
+-3.4
+-3.8
+-4.1
+5.5
+6.1
+8.0
+7.2
+6.8
+1997 Annual Ranges:
 Directive Language
 (15) Presented below is draft wording for the operational paragraph that includes
 the usual options for Committee consideration.
@@ -286,6 +407,10 @@ Short-Term Lonc-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+96 -- High
+- Low
+97 -- High
+-- Low
 Monthly
 May 96
 Jun 96
@@ -320,6 +445,18 @@ Daily
 May 9 97
 May 15 97
 May 16 97
+8.50
+8.50
+8.50
+6.21 6.64
+7.16
+5.97
+7.13
+6.56
+6.92
+6.90
+7.92 6.02
+8.15 7.88 5.55
 p - preliminary data
 Strictly confidential (FR)-Money and Credit Aggregate Measures tric ass I FOM
 Seasonally adjusted MAY 19, 1997
@@ -331,8 +468,16 @@ In M2 In M3 only investments' government
 2
 Levels (billions),
 Monthly
+1996-DEC. 1081.0 3833.0 2752.0 1094.6 4927.7 6057.7 3772.6 3780.4 10841.6 14622.0
+1997-JAN. 1079.7 3849.7 2769.9 1100.4 4950.1 6073.2 3807.7 3778.6 10884.7 14663.3
+FEB. 1080.6 3866.0 2785.4 1121.3 4987.3 6123.9 3846.8 3784.2 10938.7 14722.9
+MAR. 1075.2 3882.4 2807.2 1133.3 5015.7 3868.6 3799.1 10987.2 14786.3
+APR. p 1065.0 3903.9 2838.9 1148.7 5052.6 3904.7
 Weekly
 1997-APR. 7 1065.9 3897.2 2831.3 1136.9 5034.1
+14 1056.9 3895.8 2838.9 1151.5 5047.4
+21 1071.0 3916.6 2845.6 1148.1 5064.6
+28 p 1064.8 3907.0 2842.3 1156.9 5063.9
 MAY 5 p 1064.1 3894.4 2830.3 1153.8 5048.1
 p preliminary
 pe preliminary estimate
@@ -359,8 +504,215 @@ SEP.
 OCT.
 NOV.
 DEC.
+1997-JAN.
+FEB.
+MAR.
 APR. p
+352.4
+371.4
+392.6
+376.4
+377.7
+379.9
+382.8
+385.2
+387.6
+390.2
+392.5
+395.2
+397.0
+400.5
+402.4
+384.9
+390.3
+400.9
+404.5
+407.1
+410.6
+408.7
+405.8
+404.9
+398.2
+402.1
+402.4
+401.7
+404.2
+402.8
+404.8
+362.1
+278.3
+333.9
+323.5
+316.4
+308.7
+300.4
+292.2
+283.2
+276.8
+274.8
+272.5
+267.3
+261.6
+1164.0
+1127.3
+1258.8
+1190.1
+1195.6
+1204.1
+1211.0
+1222.7
+1231.5
+1246.3
+1259.0
+1271.0
+1282.5
+1290.5
+1304.3
+806.5
+930.4
+942.8
+929.5
+928.4
+928.8
+930.5
+934.1
+937.5
+940.8
+943.2
+944.4
+945.0
+946.2
+945.1
+379.8
+451.0
+528.1
+481.4
+484.5
+493.6
+499.6
+506.1
+513.2
+520.5
+527.1
+536.6
+542.4
+548.7
+557.8
+197.4
+244.7
+293.1
+263.4
+263.6
+269.7
+274.0
+278.8
+285.2
+288.1
+292.0
+299.3
+296.3
+305.4
+311.8
+358.7
+416.3
+483.5
+435.4
+442.5
+448.9
+455.2
+459.3
+466.8
+479.2
+481.7
+489.6
+491.4
+497.9
+506.7
+176.6
+186.7
+194.4
+188.9
+202.7
+195.3
+194.1
+192.3
+194.1
+195.5
+194.6
+193.0
+196.4
+200.3
+198.7
+81.8
+91.8
+96.5
+97.0
+97.8
+97.9
+98.4
+107.1
+107.6
+112.7
+116.4
+117.8
+116.1
+179.7
+184.4
+187.0
+185.8
+186.1
+186.4
+186.7
+186.9
+187.1
+187.1
+187.0
+187.0
+186.7
+186.4
+378.8
+465.5
+445.9
+460.0
+439.6
+448.5
+447.6
+452.4
+457.7
+447.6
+454.3
+435.7
+415.8
+420.6
 p preliminary
+402.2
+439.3
+486.1
+459.3
+468.0
+470.1
+473.0
+477.7
+482.0
+479.6
+483.2
+495.5
+509.1
+517.5
+13.6
+12.4
+11.6
+10.4
+11.0
+11.5
+11.6
+11.4
+11.3
+11.3
+11.6
+11.8
+11.5
+12.1
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -368,11 +720,141 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Net purchases 3 agencies outrightPeriod Net 2 Redemptions Net - aRedemptions Net redemptions holdings 5
 purchases (-) change 1 yer 1-5 5-10 over 10 (-) Change total 4 Net RPs
+1994
+1995
+1996
+1996 ---Q1
+---Q2
+---Q3
+---Q4
+1997 ---Q1
+1996 May
+June
+July
+August
+September
+October
+November
+December
+1997 January
+February
+March
+April
 Weekly
 January 22
+29
+February 5
+12
+19
+26
 May 7
 14
 Memo: LEVEL (bil. $) 6
 May 14
+17,484
+10,932
+9,901
+17,484
+10,032
+9,168
+4,966
+3,177
+35 1,899
+1,240 1,279
+818 3,985
+3,818 3,606
+1,239 3,122
+776 1,965
+2,337
+1,476
+15,493
+8,241
+6,407
+2,691
+3,716
+607 5,314
+125 ---
+138 ---
+23 ---
+-607
+1,943
+3,978
+1,548
+1,125
+818
+2,555
+1,423
+1,924
+988
+406.437.7 43.1
+1,002
+1,303
+1,637
+16
+40
+52
+31,975
+16,970
+14,670
+-1,336
+5,952
+3,637
+6,417
+-16
+3,271
+-52
+3,716
+-27
+-63
+6,492
+-12
+-793
+1,916
+3,961
+5,530
+1,125
+791
+2,555
+1,423
+4,006
+-386
+1,910
+988
+-7,412
+-1,023
+5,351
+-8,879
+2,959
+-2,454
+13,726
+6,594
+-711
+7,118
+-9,267
+-304
+3,625
+584
+9,518
+-10,151
+-7,371
+-524
+66,091
+-9,269
+10,721
+-12,348
+7,645
+-9,546
+7,579
+-9,508
+7,457
+-4,186
+2,699
+-4,002
+2,933
+7,077
+9,245
+46,494
+-25,641
+420.9 -13.2
 May 14
 May 16, 1997

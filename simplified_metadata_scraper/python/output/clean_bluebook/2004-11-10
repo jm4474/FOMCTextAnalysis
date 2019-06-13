@@ -57,6 +57,11 @@ possible pause in the process of firming.  Futures quotes suggest that investors
 the funds rate to rise to about 2¾ percent by the end of 2005.
 (2) The shift in near-term policy expectations contributed to a flattening of the
 term structure of interest rates, with the yield on the two-year Treasury note rising
+1 The effective federal funds rate averaged 1.76 percent over the intermeeting period.  The 
+Desk expanded the System’s outright holdings of securities by about $11.0 billion, with 
+purchases of $0.6 billion of Treasury bills from foreign official customers and $3.2 billion of 
+Treasury bills and $7.2 billion of Treasury coupon securities from the market.  The volume 
+of outstanding long-term RPs decreased $7.0 billion, to $15.0 billion.
 Chart 1
 Interest Rate Developments
 Intermeeting Correlations of Oil Prices
@@ -68,9 +73,13 @@ price and in the log S&P 500 index (shaded). Red denotes statistically
 significantly different from zero.
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+65
+Oil Price* $/barrel
 *Spot WTI price.
 Nov. Feb. May July Oct. Jan. Apr.
 2004 2005 2006
+4.5
+Percent
 November 4, 2004
 September 20, 2004
 Expected Federal Funds Rates*
@@ -78,17 +87,23 @@ Expected Federal Funds Rates*
  for term premia and other adjustments.
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+5 to 10 Years Ahead
+Next 5 Years
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+400
+Basis Points
 Twelve Months Ahead
 Six Months Ahead
 Policy Uncertainty*
@@ -97,6 +112,7 @@ computed from the term structures for both the expected federal funds
 rate and implied volatility.
 Daily
 FOMC
+20 basis points while the yield on the ten-year note was about unchanged.2  Increasing
 oil prices seemed to heighten concerns about the near-term prospects for inflation
 and, at least at times, for output growth; both stock prices and bond yields often
 moved closely and inversely with oil prices from day to day.  Treasury inflation-
@@ -117,10 +133,21 @@ basket of other major currencies over the intermeeting period, amid heightened
 concerns about financing the deepening U.S. current account deficit (Chart 3).  At
 times, market participants pointed to statements of Federal Reserve officials about
 international financial developments as a factor contributing to such worries.  The
+2 Under the expectations approach to the term structure, a long-term yield represents a 
+weighted average of the current and expected future short-term rates over the life of the 
+instrument plus, potentially, a term premium.  During periods when policy is expected to 
+tighten, the average of expected future short rates will tend to rise over time.  The result can 
+be a sizable expected increase in yields on short- and intermediate-term securities.  About 
+half of the rise in the two-year yield over this intermeeting period can be attributed solely to 
+this effect. 
+3 Judging from spreads on ninety-day commercial paper, year-end pressures in money 
+markets seem to be rather subdued this year.
 Chart 2
 Capital Market Developments
 Jan. June Nov. Apr. Oct. Mar. Aug.
 2002 2003 2004
+130
+Index(09/21/04=100)
 Wilshire
 Nasdaq
 Stock Prices
@@ -132,16 +159,22 @@ Corporate Earnings Growth Percent
     Source. I/B/E/S for S&P 500 EPS.
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+14
+Percent
 S&P 500 (left scale)
 Ten-Year Treasury Note (right scale)
 Implied Volatility
 Daily
 FOMC
+12-month forward
+E/P ratio
 Long-run real Treasury yield*
 * Yield on synthetic Treasury perpetuity minus Philadelphia Fed 10-year
      expected inflation.
   + Denotes the latest observation using daily interest rates and stock prices
      and latest earnings data from I/B/E/S.
+12-Month Forward Earnings-Price Ratio
+for S&P 500 and Long-Run Treasury
 Nov.
 03
 Jan. June Nov. Apr. Sept. Feb. July
@@ -153,6 +186,8 @@ Lower-Tier Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Jan. June Nov. Apr. Sept. Feb. July
 2002 2003 2004
+200
+Basis Points
 Ten-Year AA
 Ten-Year Swap
 Higher-Tier Corporate Bond Spreads*
@@ -162,6 +197,8 @@ Chart 3
 International Financial Indicators
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
+450
+Gold Price $/ounce
 Jan. Apr. July Oct. Jan. Apr. July Oct.
 2003 2004
 Nominal Trade-Weighted Dollar
@@ -201,6 +238,7 @@ uncertainties about the future pace of China’s economic expansion and prompted
 speculation about possible changes in China’s fixed-exchange-rate regime.
 (5) Domestic nonfinancial debt grew at a robust annual rate of about 7 percent
 in the third quarter.  In the nonfinancial business sector, debt growth stepped up to
+5¼ percent last quarter.  Available data point to even faster growth in October, owing
 in part to the financing of a large merger transaction in the bond and commercial
 paper markets (Chart 4).  Business loans at commercial banks continued to advance
 last month, and results from the October Senior Loan Officer Opinion Survey
@@ -214,6 +252,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2002 2003 Q2 Q3 Oct
+  2004
 Monthly rate
 Changes in C&I Loan Standards and Demand*
 *Fraction of respondents reporting (tighter standards / increased
@@ -288,6 +328,7 @@ Policy Alternatives
 first quarter of next year, but the broad outline of the forecast through 2006 is
 otherwise similar to that prepared for the September FOMC meeting.  The staff
 forecast assumes that the Committee will raise the target federal funds rate to
+2 percent before year-end, hold it steady at that level for much of the next year, and
 tighten in late 2005 and into 2006.  This trajectory for the federal funds rate runs well
 below the path embedded in market yields.  In the Greenbook projection, the outlook
 of investors is assumed to align gradually with that of the staff, and the resultant
@@ -297,6 +338,7 @@ and, as in prior Greenbooks, provides investors a risk-adjusted return comparabl
 that on fixed-income securities.  The staff continues to assume about a 2 percent rate
 of depreciation in the foreign exchange value of the dollar, albeit from its current
 lower level.  Against this financial backdrop, real GDP growth averages about
+3¼ percent this quarter and next, in line with the growth rate of potential output, and
 about 4 percent thereafter.  Accordingly, resource slack is gradually taken up after the
 first quarter of next year, bringing the unemployment rate close to the staff’s
 estimated NAIRU of 5 percent by the end of the forecast period.  Although
@@ -388,8 +430,11 @@ tomorrow, but, as a placeholder, the entry in the table describes conditions as 
 improved modestly.  If economic circumstances diverge significantly from this
 characterization, staff will circulate alternative language in advance of Wednesday’s
 meeting.  Under Alternative A, the federal funds rate target would be maintained at
+1¾ percent at this meeting.  Alternative B would raise the target 25 basis points to
+2 percent, but the language of the announcement would signal that the Committee
 might now be more inclined to pause in the process of removing policy
 accommodation.  Under Alternative C, the funds rate would also be raised to
+2 percent, but the language of the announcement would be consistent with a firming
 of policy at least as rapid as currently embodied in market expectations.  Under all
 three alternatives, it seems likely that the Committee would view the risks to growth
 and price stability as about balanced after the policy announcement.
@@ -398,6 +443,7 @@ embodies the expectation of tightening at this meeting followed by a brief pause
 the Committee regarded the outlook for economic activity and inflation given these
 financial conditions as striking an appropriate balance between reducing slack and
 limiting inflation risks, it might wish to validate those expectations by tightening
+25 basis points and issuing a statement similar to that of Alternative B in the table,
 which includes language intended to signal a possible pause in the removal of policy
 accommodation.  The Committee might view a further quarter-point tightening at this
 meeting as an appropriate step in the direction suggested by standard policy
@@ -408,10 +454,13 @@ rate (Chart 6).  The Committee’s desire to align the stance of policy more clo
 Chart 5
 Actual and Assumed Federal Funds Rate and
 Range of Values from Policy Rules and Futures Markets
+10
+Percent
 Shaded region is the range of values from rules 1a, 2a, 4, 5, and 6, below
 Actual federal funds rate and Greenbook assumption
 Market expectations estimated from futures quotes
 Values of the Federal Funds Rate from Policy Rules and Futures Markets
+2004 2005
 Q3 Q4 Q1 Q2 Q3
 ** Computed using average TIPS and nominal Treasury yields to date.
 Rules Chart: Explanatory Notes
@@ -426,6 +475,10 @@ closest to the middle of each quarter, unless otherwise noted.
 Rule Specification
 Root-mean-
 square error
+1988:1-
+2004:3
+2001:1-
+2004:3
 Rules with Imposed Coefficients
 .83a .32a
 Rules with Estimated Coefficients
@@ -443,10 +496,15 @@ b RMSE for TIPS-based rule is calculated for 1999:1-2004:3.
 Chart 6
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+6
+Percent
+25 b.p. Tightening
+Current Rate
 Actual Real Funds Rate
 Historical Average: 2.7 (1964Q1-2004Q3)
 TIPS-Based Estimate
 Equilibrium Real Funds Rate Estimates (Percent)
+2003 2004H1 2004Q3 2004Q4
 *** Also employs the staff projection for the current and next quarters.
 *** Also employs the staff projection for the current quarter.
 *** Adjusts the five-year forward, five-year real rate by an assumed term premium of 75 basis points.
@@ -525,6 +583,7 @@ accommodation at this meeting and choose to keep the funds rate at 1¾ percent a
 issue a statement like that shown in Alternative A.  Even if the Committee judged the
 staff forecast as likely, it might consider the projected progress in working down slack
 as too slow to be acceptable, especially given that core PCE inflation runs at
+1½ percent—only a shade above the level prevailing in the summer of 2003 when
 concerns about disinflation were acute.  The Committee might also be concerned
 about possible downside risks to the forecast from high oil prices and the potential
 for a deceleration in consumer spending similar to that in the “faltering expansion”
@@ -546,6 +605,7 @@ this year is currently projected at about 5 percent.  Under the staff forecast, 
 growth steps down to about 2½ percent next year, owing largely to the lagged effects
 of the policy tightening undertaken in recent months on opportunity costs.  Stronger
 nominal income growth in 2006 contributes to a projected acceleration in M2 to a
+3½ percent pace that year.  Domestic nonfinancial debt is expected to decelerate over
 the forecast period, primarily reflecting a decline in household debt growth as slowing
 home price appreciation trims the pace of mortgage borrowing.  Growth of the debt
 of nonfinancial businesses is anticipated to pick up over the forecast period as capital
@@ -589,6 +649,8 @@ Committee will respond to changes in economic prospects as needed to
 fulfill its obligation to maintain price stability.
 Appendix Chart 1
 The Yield Curve
+4
+Percentage Points
 + Denotes most recent weekly value.
 Spread Between Ten−year Treasury Yield and Federal Funds Rate
 November 4, 2004   
@@ -611,12 +673,16 @@ Currencies
 Other Important
 Appendix Chart 3
 Stock Indexes
+45
+Ratio
 Ratio Scale
 1941−43=10
 * Based on trailing four−quarter earnings.
 + Denotes most recent weekly value.
 P/E Ratio*
 S&P 500
+140
+160
 Ratio Scale
 1941−43=10
 * Deflated by the CPI.
@@ -624,16 +690,24 @@ Ratio Scale
 S&P 500*
 Appendix Chart 4
 One−Year Real Interest Rates
+8
+Percent
 * Mean value of respondents.
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Michigan Survey)*
+8
+Percent
 * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters
 thereafter.  Median value of respondents.
 GDP Deflator
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Philadelphia Fed)*
+8
+Percent
 + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
 One−Year Treasury Constant Maturity Yield Less Change in the Core CPI from Three Months Prior
 Appendix Chart 5
 Long−Term Real Interest Rates*
+10
+Percent
 +
 +
 Real Ten−Year Treasury Yields
@@ -642,6 +716,8 @@ Philadelphia Fed Survey
 Real rate using
 Michigan Survey
 Ten−year TIPS yield
+14
+Percent
 +
 +
 Nominal and Real Corporate Bond Rates
@@ -659,16 +735,33 @@ Michigan Survey
                 the most recent weekly nominal yield less the most recent inflation expectation.
 Appendix Chart 6
 Commodity Price Measures
+130
+140
 Ratio scale, index (1980=100)
 Journal of Commerce Index
+340
+360
+380
 Ratio scale, index (1967=100)
 CRB Spot Industrials
+300
+Ratio scale, index (1967=100)
 CRB Futures
 Appendix Chart 7
 Growth of Real M2 and M3
+10
+Percent
+10
+Percent
+15
+Percent
+15
+Percent
 Appendix Chart 8
 Inflation Indicator Based on M2 and Two
 Estimates of V*
+140
+Ratio ScalePrice Level
 GDP implicit
 price deflator (P)
 Long-run equilibrium
@@ -677,8 +770,14 @@ current M2 and constant V*
 Long-run equilibrium
 price level (P*) given
 current M2 and V* with shift
+140
+Ratio Scale
+12
+PercentInflation*
 Constant V*
 V* with shift
+12
+Percent
 * Change in GDP implicit price deflator over the previous four quarters.
 Short-term Long-term
 Federal
@@ -695,6 +794,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 20-year 5-year 10-year Fixed-rate ARM
 Strictly Confidential (FR)-
 Class II FOMC
 Changes in System Holdings of Securities 1 Strictly Confidential
@@ -704,12 +804,18 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
 Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2002 21,421 --- 21,421 12,720 12,748 5,074 2,280 --- 32,822 --- 54,242 -5,366 517 -4,850
+2003 18,150 --- 18,150 6,565 7,814 4,107 220 --- 18,706 10 36,846 2,223 1,036 3,259
+2003 QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
 QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+2004 QI 1,707 --- 1,707 1,311 2,848 1,251 275 --- 5,685 --- 7,391 -772 -3,515 -4,286
 QIII 4,508 --- 4,508 1,898 4,406 1,507 434 --- 8,244 --- 12,753 -1,787 782 -1,005
 Apr 3,516 --- 3,516 --- --- --- --- --- --- --- 3,516 1,041 1,355 2,396
 Jun 3,831 --- 3,831 --- 1,760 275 --- --- 2,035 --- 5,866 -1,738 1,824 86
 Aug 83 --- 83 --- 428 568 --- --- 996 --- 1,078 -750 -1,323 -2,072
 Oct 500 --- 500 1,593 2,765 1,225 400 --- 5,984 --- 6,484 -2,121 -4,443 -6,564
+2004 Aug 11 --- --- --- --- --- --- --- --- --- --- --- -1,727 -1,000 -2,727
 Aug 18 7 --- 7 --- 428 568 --- --- 996 --- 1,003 -1,806 1,000 -806
 Aug 25 68 --- 68 --- --- --- --- --- --- --- 68 -990 4,000 3,010
 Sep 1 8 --- 8 --- --- --- --- --- --- --- 8 4,740 2,000 6,740
@@ -720,6 +826,7 @@ Oct 6 1,770 --- 1,770 --- 1,198 --- --- --- 1,198 --- 2,968 296 -4,000 -3,704
 Oct 13 29 --- 29 --- --- --- --- --- --- --- 29 3,612 -1,000 2,612
 Oct 20 200 --- 200 --- 171 823 --- --- 994 --- 1,195 -656 --- -656
 Nov 3 192 --- 192 --- 1,086 118 --- --- 1,204 --- 1,396 1,739 -2,000 -261
+2004 Nov 4 --- --- --- --- --- 335 86 --- 421 --- 421 2,792 -2,000 792
 Intermeeting Period
 Sep 21-Nov 4 3,841 --- 3,841 1,593 3,951 1,973 491 --- 8,009 --- 11,849 -8,751 -7,000 -15,751
 Memo: LEVEL (bil. $)
@@ -757,6 +864,7 @@ Attached is an exhibit that details the market reaction to this morning’s
 employment report and a revised version of table 1 from the Bluebook.  As shown in
 the top panel of the market reaction exhibit, interest rates and policy expectations
 registered substantial increases following the release of the employment report.  As of
+10 a.m., Treasury coupon yields were up 12 to 15 basis points across the maturity
 structure.  Treasury inflation-indexed yields rose nearly as much as comparable-
 maturity nominal yields, suggesting that much of the market response was attributable
 to an upward revision in the market’s outlook for real economic activity.  The
@@ -768,6 +876,7 @@ accompanied by more rapid policy tightening than they had previously expected.
 The bottom left panel of the exhibit displays the option-implied probability
 distribution for the employment report outcome based on the economic derivatives
 auction held at 8:00 a.m. today.  As noted by the vertical line, the reported increase of
+337,000 was well into the upper tail of this distribution, which helps to explain the
 sizable market reaction.  But, as noted at the right, the market reaction was sizable
 even controlling for the magnitude of the surprise.  For example, the response of the
 ten-year Treasury yield—denoted by the blue square—was larger than would have

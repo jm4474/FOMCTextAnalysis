@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 JUNE 25, 1999
 MONETARY POLICY ALTERNATIVES
@@ -36,6 +44,8 @@ have increased about 25 to 40 basis points, perhaps pressured as well by a crowd
 of upcoming agency and corporate issuance. The advance in nominal Treasury yields
 primarily reflected increases in forward rates at two- to five-year horizons, while longer-term
 forward rates rose much less. This configuration suggests that Federal Reserve policy is
+1 The federal funds rate has averaged a shade under the intended rate over the
+intermeeting period in trading that has been somewhat less volatile than earlier this year.
 expected to push real interest rates higher over the next few years than had been expected
 prior to the May meeting, but perhaps not by enough to contain pressures on prices entirely.
 This view is supported by the fact that yields on indexed Treasury securities have gained
@@ -93,6 +103,7 @@ deposits and RPs. Institution-only money market funds also contributed to the sl
 M3: These funds pay rates that are averages of recent short-term market rates, and so their
 relative attractiveness has diminished with the backup in market interest rates in recent
 months. From the fourth quarter of last year through June, M3 has grown at a rate of about
+6 percent, leaving that aggregate at the upper end of its annual range.
 (6) The expansion of domestic nonfinancial sector debt also has moderated a bit
 recently. Business borrowing appears to have fallen back a bit from its very rapid pace earlier
 in the year. Moreover, the uptick in rates following the May meeting appeared to redirect
@@ -108,6 +119,8 @@ fourth quarter of 1998 through May at 6 percent--about the same pace as last yea
 upper half of its annual range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual percentage rates of growth)
+1998:Q4
+to
 Apr. May. Jun. Jun.
 Money and Credit Aggregates
 Ml
@@ -126,9 +139,25 @@ Adjusted for sweeps
 Memo: (millions of dollars)
 Adjustment plus seasonal borrowing
 Excess reserves
+-5.0
+-0.7
 n.a.
 n.a.
 n.a.
+8.4
+10.4
+7.2
+10.8
+10.3
+10.6
+10.5
+19.4
+13.8
+14.9
+-41.9
+-17.8
+2.1
+2.7
 Long-Term Strategies
 (7) This section uses the staff quarterly econometric model of the U.S. economy
 to extend the Greenbook forecast and to consider alternative monetary policies: The base-
@@ -143,6 +172,18 @@ equity prices, consumers have boosted their spending to levels that are unusuall
 to current income (although not to perceived permanent income). This low rate of saving,
 which implies little direct addition to wealth, together with the projection that equity prices
 rise less rapidly than nominal income, implies that the ratio of household net worth to GDP
+3 The price stability alternative was obtained by using a Taylor rule with the target for
+the inflation rate assumed to be 3/4 percent rather than the 2-1/2 percent implied in the
+baseline. The rule was modified from the standard version by having a considerably higher
+response to inflation (so that inflation in the simulation is brought to the target in about
+seven years) and by phasing in the lower inflation target over two years to make the policy
+shift less abrupt. The numerical target of this "price stability" strategy approximates true
+stability after allowance is made for the biases produced by measurement problems.
+4 In the version of the model used for these simulations, expectations of inflation and
+other variables are formed in a forward-looking manner, but with incomplete knowledge of
+the structure of the economy and the intent of the policymakers. Over an intermediate term,
+the sacrifice ratio--the cumulative percentage point increase in the unemployment rate
+required to cut inflation 1 percentage point--is 2-1/2.
 falls gradually over the next decade. As current income moves higher in line with the
 public's anticipations, saving out of that income is likely to rise gradually over time, to a level
 more in line with historical norms, moderating the decline in the ratio of wealth to GDP.
@@ -157,12 +198,24 @@ increasingly dominated by dollar-denominated assets. The extended forecast assum
 the discomfort implied by burgeoning dollar asset holdings in foreign portfolios, together
 with the downward movement of U.S. real interest rates as domestic saving increases, leads
 to a secular decline in the real foreign exchange value of the dollar.
+5 Also helping to reduce the equilibrium real interest rate in the long run is a
+moderation in the pace of business investment. Capital formation in recent years has been,
+and for a time going forward is likely to continue to be, boosted above its long-run trend by
+the desire of businesses to raise the capital-output ratio in response to a faster pace of
+technological progress. As this adjustment of the capital stock is completed, however,
+investment growth slows. In addition to lowering the equilibrium real interest rate, the
+slower pace of investment implies that in the later part of the extended outlook capital will
+grow less rapidly relative to labor (reducing the pace of capital deepening), which will in turn
+restrain labor productivity growth. As a result, the growth rate of potential GDP, which
+remains at its currently assumed rate of 3-1/4 percent per annum until the middle of the next
+decade, edges down a few tenths of a percent in subsequent years.
 (10) Another imbalance occurs in the labor market, which in the Greenbook
 remains tight through the end of next year. As a consequence, inflation picks up and is
 poised to rise further in 2001 and beyond. In the absence of additional increases in
 productivity growth or of declines in relative import and commodity prices, consumer price
 inflation would continue to move up until the economy returns to a sustainable level of
 resource utilization, which for labor markets in the model is represented by a NAIRU of
+5-1/4 percent.
 (11) Under the baseline strategy, policy is assumed to tighten sufficiently to raise
 the unemployment rate gradually to 5-1/4 percent, thereby capping inflation at a moderate
 rate (shown by the solid lines in Chart 3). This action requires 100 basis points of tightening
@@ -199,6 +252,7 @@ in the last two years. Much of the recent decline in velocity could reflect the 
 in wealth relative to income in recent years: Investors may have been attempting to
 rebalance their portfolios by reallocating some of their wealth from equities to assets
 included in M2. The staff projects that velocity will continue to fall over the balance of
+1999 and during 2000, albeit only marginally, as the presumed effects on money demand of
 the previous build-up in wealth begin to fade and as M2's opportunity cost increases in
 response to the monetary policy tightening assumed for this year. M2 growth is projected
 to slow to 5-1/4 percent over the balance of 1999, bringing growth for the year to 6
@@ -208,6 +262,14 @@ nominal income slows. 6
 and well below the nearly 11 percent advance posted in 1998. The non-M2 component of
 M3 should decelerate sharply from last year's rate, partly owing to reduced funding needs of
 depository institutions. Adjusted for mark-to-market effects, bank credit growth is
+6 The public, concerned about the century date change, is projected to shift funds into
+currency and deposits from obligations that are not federally insured, thereby boosting the
+growth of M2 and M3 by 1/4 percentage point on balance this year relative to nominal
+income. As noted in the Greenbook, income growth is also expected to be lifted slightly by
+inventory-building and purchases of consumer goods in advance of the century date change,
+which should also buoy money demand. Any fillip to monetary growth associated with the
+century date change would be reversed next year. Obviously, substantial uncertainty attends
+these assumptions.
 projected to plunge to 3-1/4 percent this year from 10-1/4 percent in 1998, largely
 reflecting an unwinding of the bulge related to the market turmoil in the latter part of 1998.
 The slack demands for bank credit this year translate into very subdued issuance by banks of
@@ -247,7 +309,10 @@ policy actions in the second half of the year. As noted above, the velocity of M
 continued to decline in 1999, albeit at a slower pace than in 1998, and, based on the
 Greenbook GDP forecast, the rate of decline in velocity over the first half of this year
 appears to have been about 1-1/2 percentage points less than forecast by the staff this
+7 The February Humphrey-Hawkins report noted the possibility that the aggregates
+could overshoot their ranges this year.
 (17) The table below displays two sets of ranges for money and debt for 1999 and
+2000, along with staff projections. Given the continued uncertainty regarding appropriate
 rates of money growth and relatively small errors in forecasting debt growth in recent years,
 the alternatives are constructed under the presumption that the Committee will continue
 with its current approach to the ranges--that is, ranges for money keyed to the Federal
@@ -273,6 +338,7 @@ in 2000.
 significantly, price stability and historically typical velocity trends would involve more rapid
 rates of monetary growth than implied by the midpoint of the existing ranges. For example,
 allowing for the 3-1/4 percent growth in potential real GDP in the Greenbook forecast, the
+1/2 percentage point bias in inflation measured by the GDP deflator, and a very low rate
 (1/4 percent) of true inflation would call for M2 and M3 ranges centered on 4 and 5
 percent, respectively, 1 percentage point higher than their current ranges. Alternative II
 gives such ranges.8
@@ -358,17 +424,20 @@ suggested serious concern about inflation risks, market participants could expec
 rapid or protracted subsequent series of moves. In this case, interest rates and the foreign
 exchange value of the dollar could rise a good bit, and stocks and emerging market debt
 could come under selling pressure. While market talk that the Committee might tighten by
+50 basis points at this meeting has recently surfaced, such an action would nonetheless
 come as a considerable surprise. Price movements would likely be outsized, though a clear
 indication that the Committee would be on hold for some time could limit the response.
 Directive Language
 (26) Presented below for the members' consideration is draft wording relating to
 the Committee's ranges for the aggregates in 1999 and 2000 and the operational paragraph
 for the intermeeting period.
+1999-2000 RANGES
 The Federal Open Market Committee seeks monetary and financial
 conditions that will foster price stability and promote sustainable growth in output. In
 furtherance of these objectives, the Committee REAFFIRMED at THIS its meeting THE
 RANGES IT HAD ESTABLISHED in February [DEL: established ranges] for growth of M2 and
 M3 of 1 to 5 percent and 2 to 6 percent respectively, measured from the fourth quarter of
+1998 to the fourth quarter of 1999. [IN FURTHERANCE OF THESE OBJECTIVES,
 THE COMMITTEE AT THIS MEETING RAISED/LOWERED THE RANGES IT
 HAD ESTABLISHED IN FEBRUARY FOR GROWTH OF M2 AND M3 TO RANGES
 OF ____ TO ____PERCENT AND ____ TO ____ PERCENT RESPECTIVELY,
@@ -379,11 +448,13 @@ PERCENT) for the year.
 FOR 2000, THE COMMITTEE AGREED ON A TENTATIVE BASIS
 TO SET THE SAME RANGES FOR GROWTH OF THE MONETARY
 AGGREGATES AND DEBT, MEASURED FROM THE FOURTH QUARTER OF
+1999 TO THE FOURTH QUARTER OF 2000. [FOR 2000, THE COMMITTEE
 AGREED ON TENTATIVE RANGES FOR MONETARY GROWTH, MEASURED
 FROM THE FOURTH QUARTER OF 1999 TO THE FOURTH QUARTER OF 2000,
 OF ____ TO ____ PERCENT FOR M2 AND ____ TO ____ PERCENT FOR M3. THE
 COMMITTEE PROVISIONALLY SET THE ASSOCIATED RANGE FOR GROWTH
 OF TOTAL DOMESTIC NONFINANCIAL DEBT AT ____ TO ____ PERCENT FOR
+2000.] The behavior of the monetary aggregates will continue to be evaluated in the light of
 progress toward price level stability, movements in their velocities, and developments in the
 economy and financial markets.
 OPERATIONAL PARAGRAPH
@@ -417,6 +488,28 @@ Growth Rate
 From
 Jun-99
 Jun-99 1999 Q4
+1998 Q4
+1998 Q4
+1998 Q4
+1997 Q4
+1998 Q4
+1999 Q2
+1998 Q4
 May-99
 Jun-99
 Dec-99
+1998 Q4
+1999 Q2
+1999 Q4
+1999 Q4
+1.0 to 5.0 2.0 to 6.0
+6.1
+5.9
+6.3
+6.0
+5.8
+5.4
+6.1
+6.3
+6.3
+1999 Annual Ranges: 3.0 to 7.0

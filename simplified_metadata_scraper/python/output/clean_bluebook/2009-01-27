@@ -97,17 +97,23 @@ Jan.
  22
 Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+80
+Basis points
 Dec.
 FOMC
 Jan. 
  21
 CDS spread for GMAC
 Source. Markit.
+1500
+March 31, 2003 = 1000
 Dec.
 FOMC
 Jan. 
  20
 Global Hedge Fund Index values
+100
+Billions of dollars
 Sept. Oct. Nov. Dec. Jan.
 2008
 Government funds
@@ -212,11 +218,19 @@ and spreads over comparable-maturity overnight index swap (OIS) rates narrowed
 further on net.  The one-month Libor-OIS spread declined to its lowest level since
 late 2007; however, the three- and six-month spreads as well as forward one-month
 spreads remained high (Chart 2).  Market reports indicated that banks became more
+1 On January 16, the FDIC announced that it would propose a rule change to the TLGP to 
+extend the maturity limit of the guarantee up to 10 years where the debt is supported by 
+collateral and the issuance supports new household lending.
 Class I FOMC--Restricted Controlled (FR) 8 of 52
 Chart 2
 Market Functioning
 Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008 2009
+400
+Basis points
+1-month
+3-month
+6-month
 Spreads of Libor over OIS
 Daily Dec.
 FOMC
@@ -224,6 +238,8 @@ Jan.
  22
 July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+700
+Basis points
 ABCP
 A2/P2
 Jan. 
@@ -232,14 +248,19 @@ Dec.
 FOMC
 Spreads on 30-day commercial paper
 Basis points
+10-year note
 Treasury on-the-run premium
 Monthly average
 Dec.
 FOMC
+300
+Volume ($billions)
 Daily on-the-run Treasury market volume
 Monthly average
 Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+1000
+Basis points
 Dec.
 FOMC
 Jan. 
@@ -247,6 +268,20 @@ Jan.
 AAA CMBX Index
 Jan. Apr. July Oct. Jan. Apr. July Oct. Jan.
 2007 2008
+50
+ 54
+ 58
+ 62
+ 66
+ 70
+ 74
+ 78
+ 82
+ 86
+ 90
+ 94
+ 98
+102
 Basis points Percent of par value
 Source. LSTA/LPC Mark-to-Market Pricing.
 Pricing in the secondary market for leveraged loans
@@ -306,6 +341,15 @@ January 21.  To date, the Money Market Investor Funding Facility (MMIFF) program
 has registered no activity.2  The low demand for credit from the AMLF and the
 MMIFF probably reflects continued net flows into money market mutual funds, the
 institutions that these two facilities were primarily designed to support.
+2 There was no activity even though on January 7, the Federal Reserve Board announced two 
+changes to the MMIFF, expanding the set of institutions eligible to participate in the 
+MMIFF and adjusting several of its economic parameters to enable the program to remain a 
+viable source of backup liquidity for investors even at very low levels of short-term interest 
+rates.  Specifically, the set of eligible institutions was expanded to include securities lenders 
+and U.S.-based investment funds that operate in a manner similar to money market mutual 
+funds, such as some local government investment pools, common trust funds, and collective 
+investment funds.  Second, the minimum yield on eligible assets was reduced to 60 basis 
+points above the primary credit rate at the time of purchase of the asset.
 Class I FOMC--Restricted Controlled (FR) 11 of 52
 (13) Functioning in the market for Treasury coupon securities continued to
 show signs of impairment.  The on-the-run premium for the ten-year nominal
@@ -354,8 +398,13 @@ $133 billion as of January 21.  Use of the Primary Dealer Credit Facility (PDCF)
 declined further over the intermeeting period, with the amount outstanding falling to
 $33 billion on January 21 from $52 billion on December 10.
 (16) The effective federal funds rate stayed within the new target range of 0 to
+0.25 percent established at the December FOMC meeting throughout the
 intermeeting period, and trading volumes in the funds market were generally quite
 low.  Very recently, however, trading volume has picked up some and federal funds
+3 Starting with the January 12 auction, the minimum bid rate was adjusted to be equal to the 
+interest rate paid on excess reserve balances rather than the OIS rate for the term of the 
+auction at the date of the announcement.  This adjustment was made to remove an arbitrage 
+opportunity at this time of very low interest rates.
 Class I FOMC--Restricted Controlled (FR) 13 of 52
 have traded closer to the upper end of the target range, particularly during the
 morning hours.
@@ -386,15 +435,22 @@ forecasts.  Consistent with either of these distortionary factors, the primary d
 Class I FOMC--Restricted Controlled (FR) 14 of 52
 Chart 3
 Interest Rate Developments
+2009 2010
+0.0
+3.0
+Percent
 January 22, 2009
 December 15, 2008
 Expected federal funds rates*
 *Estimates from federal funds and Eurodollar futures, with an allowance
 for term premiums and other adjustments.
 Source. Chicago Mercantile Exchange and CBOT.
+35
+Percent
 Q1 Q2 Q3 Q4 Q1 Q2
 Distribution of expected quarter of first rate increase
 from the Desk’s Dealer Survey
+2010 2011
 Source. Federal Reserve Bank of New York.
   Note. There were 15 respondents.
 Implied distribution of federal funds rate six 
@@ -405,6 +461,10 @@ Percent
 *Derived from options on Eurodollar futures contracts, with term premium 
  and other adjustments to estimate expectations for the federal funds rate.
 Source. CBOT.
+7
+Percent
+10-year
+2-year
 Nominal Treasury yields*
 *Par yields from a smoothed nominal off-the-run Treasury yield curve.
 Source. Board staff estimates.
@@ -422,6 +482,8 @@ Dec.
 FOMC
 Jan. 
  22
+6
+Percent
 Michigan Survey 1-year
 Michigan Survey 10-year
 Survey measures of inflation expectations
@@ -518,6 +580,7 @@ investment-grade corporate bonds also declined over the intermeeting period.  Gr
 issuance of bonds by investment-grade nonfinancial corporations remained fairly
 solid, while issuance by speculative-grade firms continued to be limited.  Issuance of
 leveraged syndicated loans was extraordinarily weak in the fourth quarter, down about
+97 percent from the year–earlier quarter.
 Class I FOMC--Restricted Controlled (FR) 19 of 52
 Chart 4
 Asset Market Developments
@@ -529,6 +592,8 @@ Dec.
 FOMC
 Jan. 
  22
+100
+Percent
 Implied volatility on S&P 500 (VIX)
 Weekly (Fri.*)
 *Latest observation is for most recent business day.
@@ -537,6 +602,10 @@ Dec.
 FOMC
 Jan. 
  22
+2000
+Basis points Basis points
+10-year BBB (left scale)
+10-year High-Yield (right scale)
 Corporate bond spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Source. Merrill Lynch and Board staff estimates.
@@ -547,6 +616,8 @@ Jan.
 Jan. Mar. May July Sept. Nov. Jan.
 2008
 Basis points
+10-year agency debt
+MBS spread
 Fannie Mae 10-year debt and MBS spreads
 Dec.
 FOMC
@@ -564,10 +635,13 @@ Jan.
  21
 Jan. May Aug. Dec. Apr. Aug. Dec.
 2007 2008
+2500
+Basis points
 AAA    
 A
 BBB
 Source. Citigroup.
+2-year credit card ABS spreads over swaps
 Jan. 
  16
 Dec.
@@ -652,6 +726,13 @@ also moved to implement some nontraditional policy measures.6  Several central b
 in emerging market economies also eased policy.  Market participants expect that
 many foreign central banks will ease policy further in 2009.  Long-term nominal
 sovereign bond yields in most major industrial countries declined during the
+5 Notably, the United Kingdom authorities introduced an Asset Protection Scheme, in which 
+the government would assume exposure to losses on some bank assets.  For additional 
+details on this and other measures by the governments in the United Kingdom and other 
+countries, see the International Developments section of Greenbook Part II. 
+6 These measures include increased outright purchases of Japanese government bonds, the 
+establishment of a commercial paper facility, and plans to examine the purchase of corporate 
+bonds with less than one year remaining maturity.
 Class I FOMC--Restricted Controlled (FR) 23 of 52
 Chart 5
 International Financial Indicators
@@ -724,6 +805,14 @@ Q1
 Q2
 Q3
 Q4p
+3.2
+0.6
+-0.7
+-2.7
+6.7
+4.4
+28.5
+27.0
 p Projected.
 Source. Flow of Funds.
 C&I loans
@@ -731,6 +820,8 @@ Commercial paper
 Bonds
 Changes in selected components of debt of
 nonfinancial business sector*
+2006 2007 Q1 Q2 Q3 Q4
+2008
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 Source. Securities Data Company, Depository Trust & Clearing Corporation
@@ -756,6 +847,8 @@ Quarterly, s.a.a.r.
 Source. Senior Loan Officer Opinion Survey.
 Growth of M2
 Source. Federal Reserve.
+2006 H1 H2 Q1 Q2 Q3 Q4
+2007 2008
 Class I FOMC--Restricted Controlled (FR) 26 of 52
 credit supply and reduced loan demand.  In contrast, commercial real estate loans
 retained on bank balance sheets continued to increase moderately; however, their
@@ -811,8 +904,10 @@ next two years as economic conditions eventually improve and risk aversion abate
 Boosted by an assumed decline in the equity risk premium, equity prices rise at an
 annual rate of about 12 percent from a level that is around 4 percent lower than in the
 December projection.  The real foreign exchange value of the dollar is roughly flat in
+2009 and declines about 3 percent in 2010.  Oil prices have dropped about $5 per
 barrel since the December meeting, but they are projected to rise markedly over the
 forecast period, in line with futures quotes, to just under $60 per barrel by the end of
+2010, $6 per barrel below their level in the previous forecast.  The staff assumes that a
 large fiscal stimulus program, amounting to about $800 billion over two years, will be
 approved by the Congress before the end of the current quarter.  The assumed fiscal
 stimulus is about $300 billion larger than in the December forecast.
@@ -846,6 +941,8 @@ Finally, the estimate from the FRB/US model is now -6.8 percent, about 50 basis
 Class I FOMC--Restricted Controlled (FR) 30 of 52
 Chart 7
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 The actual real funds rate based on lagged core inflation
 Range of model-based estimates
@@ -859,11 +956,15 @@ Single-equation model -0.1 (0.0
 Small structural model -6.2 -6.7
 Large model (FRB/US) -6.8 -6.3
 Confidence intervals for three model-based estimates
+70 percent confidence interval -7.5 - 0.1
+90 percent confidence interval -8.4 - 1.5
 Greenbook-consistent measure -3.0 -3.4
 Medium-Run Measures
 Single-equation model (1.7 (1.7
 Small structural model (0.7 (1.2
 Confidence intervals for two model-based estimates
+70 percent confidence interval (0.2 - 2.4
+90 percent confidence interval -0.3 - 3.2
 TIPS-based factor model (2.0 2.0
 Actual real federal funds rate -1.7 -1.0
 Class I FOMC--Restricted Controlled (FR) 31 of 52
@@ -889,6 +990,13 @@ provided by the implementation of nontraditional policy actions beyond those alr
 announced, such as purchases of $500 billion in long-term Treasury securities and the
 $500 billion increase in purchases of agency MBS contemplated in the Greenbook
 alternative scenario, “Large-scale Asset Purchases.”  In this scenario, these actions are
+7 In these simulations, policymakers place equal weight on keeping core PCE inflation close 
+to a specified goal, on keeping unemployment close to the NAIRU, and on avoiding changes 
+in the nominal federal funds rate.  
+8 These simulations, as well as the prescriptions of the policy rules shown in Chart 9, now 
+impose a lower bound for the policy rate of 12.5 basis points, the midpoint of the FOMC’s 
+current target range of 0 to ¼ percent. This value for the lower bound differs slightly from 
+that in the previous Bluebook, where it was set at 25 basis points.
 Class I FOMC--Restricted Controlled (FR) 32 of 52
 Class I FOMC--Restricted Controlled (FR) 33 of 52
 assumed to induce reductions in long-term interest rates and changes in other
@@ -908,6 +1016,18 @@ by FRB/US simulations under the outcome-based rule.  As shown in the bottom
 panel of Chart 9, the near-term prescriptions from both the Taylor (1999) rule and the
 first-difference rule have now fallen to the effective lower bound, reflecting the
 current weakness of both economic activity and inflation.  By contrast, the policy path
+9 A similar exercise was presented in the December Bluebook Box “Implications of 
+Unconventional Policies for Optimal Monetary Policy” reflecting part of Note 21 included 
+in the material on the zero bound that was sent to the Committee on December 5.  
+10 In the simulation, long-run inflation expectations respond to actual inflation and to any 
+unexpected movements in the federal funds rate, but not to the asset purchases.  If wage and 
+price setters took some signal for the likely long-run trend in inflation from the asset 
+purchases as well, then actual inflation would decline even less.  
+11 The confidence intervals shown in the top right panel of Chart 9 are computed from 
+interest rate caps and basis swaps with adjustments for term premiums.  The effects of 
+alternative assumptions about term premiums on measures of expectations of future federal 
+funds rates are presented in the Bluebook Box “Gauging Investor Expectations for Future 
+Interest Rate Policy.”
 Class I FOMC--Restricted Controlled (FR) 34 of 52
 Class I FOMC--Restricted Controlled (FR) 35 of 52
 prescribed by the Taylor (1993) rule—which is less sensitive to the current output
@@ -1102,10 +1222,21 @@ Oct-09 1.0
 Nov-09 2.0
 Dec-09 3.2
 Quarterly Growth Rates
+2008 Q3 4.8
+2008 Q4 14.9
+2009 Q1 12.0
+2009 Q2 1.1
+2009 Q3 -1.3
+2009 Q4 0.8
 Annual Growth Rates
+2008 8.5
+2009 3.1
+2010 3.7
 Growth From To
 Dec-08 Mar-09 5.7
 Dec-08 Jun-09 3.0
+2008 Q4 Mar-09 9.6
+2008 Q4 Jun-09 5.6
 * This forecast is consistent with nominal GDP and
 interest rates in the Greenbook forecast.
 Table 1

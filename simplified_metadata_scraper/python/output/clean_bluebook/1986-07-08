@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 July 3, 1986
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
@@ -79,6 +87,7 @@ quarter. Net mortgage borrowing is estimated to have rebounded sharply in
 the second quarter, reflecting strong residential construction and a higher
 volume of existing home sales.
 (4) Both total and nonborrowed reserves increased at around a
+28 percent annual rate from April to June, mirroring the rapid growth in
 required reserves behind transactions deposits. Excess reserves averaged
 around $830 million in the first two maintenance periods following the May
 FOMC meeting, before rising to $1.3 billion in the most recent period
@@ -150,6 +159,9 @@ Implied for Implied for
 1985:QIV 1986:QII June 1986
 to to to
 1986: QIV 1986: QIV Dec. 1986
+10 7-3/4 5-1/2
+11 9-1/2 7-3/4
+12 11-1/2 10
 (9) In light of the behavior of M1 so far this year and uncer-
 tainties surrounding the outlook for velocity over the second half of the
 year, the Committee could simply indicate that M1 growth is expected to
@@ -163,7 +175,9 @@ weight in policy implementation.
 (10) Alternatively, the Committee could choose a new range for
 Ml that it thought would encompass growth consistent with its objectives
 for the broader aggregates in 1986 and for the economy and inflation in
+1986 and into 1987. This approach is embodied in alternatives I and II.
 The 10 percent upper end of the alternative I range would allow around
+7-3/4 percent growth over the second half (and 5-1/2 percent from June to
 December), implying a further decline in velocity of around 2-1/2 percent
 at an annual rate, given the staff's GNP forecast. While such a slowing in
 M1, or even somewhat lower growth, seems quite possible at around current
@@ -197,6 +211,7 @@ relationships were expected to re-emerge. All the alternatives assume
 slower growth over the second half, and therefore imply lower growth rates
 from a second-quarter base than from a fourth-quarter base. For example,
 the 10 and 11 percent upper ends of the alternative I and II ranges imply
+7-3/4 and 9-1/2 percent growth, respectively, from the second to the fourth
 quarters of 1986.1
 (12) The current ranges for M2 and M3 of 6 to 9 percent for 1986
 would be retained under all the alternatives. Both M2 and M3 are now around
@@ -224,6 +239,7 @@ around the top of, or even a bit above, this higher range.
 (14) The table below presents for Committee consideration two
 alternatives for tentative growth ranges for money and credit for 1987.
 Under alternative I the current 1986 ranges would be carried over into
+1987. Alternative II specifies reductions of one half of a percentage
 point in both the upper and lower bounds of the ranges for the broad money
 aggregates and debt. The current M1 range, which already embodies a con-
 siderable slowing from growth anticipated this year, would also be retained
@@ -255,6 +271,7 @@ or perhaps less, now that a larger portion of this aggregate pays returns
 close to market yields, reducing incentives to innovate. If this trend
 should begin to emerge over 1987, with interest rates moving in a relatively
 narrow band and given the staff's GNP forecast, M1 growth could be around
+7 percent. In light of the various uncertainties, both alternatives would
 retain the current wide, 5 percentage point range for M1.
 (16) The choice between the two alternatives in these circum-
 stances depends on an assessment of the risks to velocity behavior and to
@@ -329,14 +346,21 @@ June 666.7 666.7 666.7 2666.9 2666.9 2666.9 3326.4 3326.4 3326.4
 July 672.1 671.7 671.3 2684.7 2683.6 2682.5 3346.9 3346.1 3345.2
 August 677.7 676.2 674.7 2704.6 2700.4 2696.1 3367.8 3365.1 3362.2
 September 683.4 680.1 676.7 2724.8 2716.9 2709.0 3391.2 3384.6 3378.0
+3 to 8 6 to 91986 Target Ranges: 6 to 9
 Chart 1
 ACTUAL AND TARGETED M1
+8I I lone of dol lar
+1700
 -- ACTUAL LEVEL
 -- PROJECTED LEVEL
 * SHORT RUN ALTERNATIVES
 - 620
 I I I I I I I I I I I I I I
 D J F M A M J J
+1986
+A S 0 N D
+0 N
+1985
 rates further, inflows to other checkable deposits should tail off toward
 more normal levels as adjustments to the current structure of interest
 rates and opportunity costs wind down. M1 growth on a quarterly average
@@ -363,6 +387,7 @@ could be expected, especially should economic activity begin to show signs
 of the moderate strengthening as anticipated in the greenbook forecast.
 The 3-month Treasury bill rate might well end the quarter closer to 6-1/4
 percent than to its current quote of a little below 6 percent, and the
+30-year Treasury bond rate also would tend to back up a little from its
 most recent level around 7-1/4 percent. Given the unusually wide spread
 between Treasury and private long-term rates, the latter might increase
 by somewhat less, especially if volume in bond and mortgage markets drops
@@ -578,12 +603,22 @@ federal secondary market A utility secondaryPeriod fdsecondary market ar paper m
 funds market paper mutual recently market
 i-month loan
 3-month I month I-year 3-month lund 3-year I -year 30-year offered fixed-rate fixed-rate ARM
+1985--tigh
+Low
+1986--High
+Low
 July
 Aug.
 Sept.
 Oct.
 Nov.
 Dec.
+1986--Jan.
+Feb.
+Mar.
+Apr.
+May
+June
 Jun. 4
 II
 18
@@ -591,10 +626,87 @@ II
 July 2
 tlly--June 27
 July 3
+8.98
+7.13
+9.55
+6.82
+7.88
+7.90
+7.92
+7.99
+8.05
+8.28
+6.82
+6.85p
+H
+7.27 7.44
+6.05 6.55
+8.31
+7.00
+7.22
+6.15
+7.03
+7.08
+7.10
+7.15
+7.21
+7.23
+7.15
+7.11
+10.75
+9.50
+9.50
+8.50
+9.50
+9.50
+9.50
+9.50
+9.50
+9.50
+8.50
+8.50
+11.19
+8.24
+8.60
+6.66
+9.18
+9.31
+9.37
+9.25
+8.88
+8.40
+7.06
+6.
+92
+p
+11.95
+9.07
+9.38
+7.15
+10.31
+10.33
+10.37
+10.24
+9.78
+9.26
+7.38
+7.32p
+7.29
+7
 .
 1 8
 p
 0 S E D
+11.14
+9.17
+9.09
+8.41
+9.68
+9.52
+9.52
+9.50
+9.38
+9.19
 Money and Credit Aggregate Measures Class II FOMC
 Seasonally adjusted
 JULY 7, 1986
@@ -606,14 +718,25 @@ PIUCEIT ANIAL GROT8:
 AiNUALLI (0QI To 0lr)
 BOIBLl LUELS (SBoLLIONS)
 1986-JAI. 627.2 2569.0 1941.8 653.9 3222.9 3859.0 1930.0 1608.0 5306.1 6914.1
+1ra. 631.0 2576.6 1945.6 663.0 3239.6 3877.2 1935.5 1621.1 5343.5 6964.5
+aAi. 638.4 2591.2 1952.8 668.3 3259.5 3889.7 1944.6 1628.2 5384.4 7012.6
+AP. b646.1 2620.8 1974.7 667.8 3288.6 3915.4 1947.9 1638.8 5430.6 7069.5
+RAT 658.6 2647.0 1988.5 660.2 3307.2 1956.7 1656.2 5472.4 7128.6
 EEKLI LBVTLS (SBILLOIS)
 1986-MAY 5 654.6
+12 656.1
+19 658.8
+26 660.6
 JU3O 2 663.1
 9 666.9
 16P 668.2
 23P 666.4
 I/ AMIUAL RATES FrO BANK CBED1T ABt AbJO390SI FU a T ISFBR OF LOI6 S Fno8 COBtlIri TIA ILLINOIS NATIONAL BANK TO THE FDIC
 BEGINNING SEPTEBBER db, 1984.
+2/ D0 IE UATA ARE 0o A ONTMiL AVEMAGE BASIS. DERIVE& it AVERAGING END-orF-HOMTM LEVELS OF ADJACENT HUNTHS, AND HAVE BEEN ADJUSTED
+TO HEfNUVE DISCOMTIlNUITIES.
+P-Ph BLHI!ARl
+Pk-PBEIHIiA81 ESTINATE
 Components of Money Stock and Related Measures
 Billions of dollars, seasonally adjusted unless otherwise noted JULY 7, 1986
 Small Money market Large
@@ -623,13 +746,261 @@ Period Currency deposits deposits Eurodollars NSA deposits time purpose, lions t
 NSA deposits' nd brokerl only deposits3  securities tances
 dealer'
 ANOUALLI (4T QTR):
+1983
+1984
+1985
+1985-BAT
+JUNE
 JOLTJULI
 AUG.
 SEPT.
 APR.
 NAI
+147.2
+157.8
+169.7
+163.2
+164.4
+165.3
+166.9
+167.7
+168.7
+169.8
+170.6
+171.9
+172.9
+173.9
+174.4
+175. a
+243.4
+247.1
+268.4
+255.4
+259.0
+260.4
+263.1
+266.4
+266.0
+267.8
+271.5
+268.9
+269.2
+273.2
+275.7
+281.6
+130.2
+144.2
+176.3
+158.4
+161.8
+164.8
+169.0
+171.5
+173.7
+176.7
+178.6
+180.5
+183.1
+185.2
+189.9
+195.1
+53.6
+56.1
+66.7
+61.3
+60.8
+60.7
+63.6
+64.1
+64.7
+65.8
+69.6
+68.0
+67.5
+66.3
+66.9
+66.3
+376.2
+405.1
+508.5
+466.4
+478.1
+487.2
+495.2
+499.8
+504.1
+509.5
+512.0
+515.7
+536.3
+520.5
+309.7
+291.0
+303.2
+290.8
+293..6
+296.7
+299.7
+300.3
+302.3
+303.7
+303.6
+304.0
+304.9
+306.9
+311.5
+318.6
+775.0
+881.8
+877.3
+138.2
+161.7
+176.8
+889.5 172.2
+890.3 175.
+888.0
+880.9
+878.3
+875.7
+876.0
+880.3
+885.9
+891.0
+894.7
+896.2
+891.2
+175.8
+176.8
+176.7
+177.0
+176.8
+176.5
+177.7
+181.0
+186.2
+191.4
+193.4
+43.2
+57.7
+64.1
+63.5
+67.1
+65.0
+63.6
+62.3
+63.3
+64.5
+64.6
+67.3
+67.7
+70.2
+74.1
+76.1
+325.2
+409.8
+433.0
+425.0
+422.7
+418.3
+421.0
+425.6
+429.7
+432.9
+436.5
+447.9
+451.2
+450.4
+452.0
+446.2
+48.0
+65.6
+62.6
+57.7
+57.1
+59.4
+62.8
+65.5
+68.2
+69.8
+70.6
+68.7
+b8.4
+89.3
+81.8
+77.8
+80.8
+78.2
+77.6
+78.8
+78.9
+78.2
+78.4
+76.7
+76.0
+79.2
+81.9
+80.7
+79.9
+70.9
+74.0
+79.0
+7b. 1
+76.5
+76.7
+77.2
+78.0
+78.5
+79.0
+79.5
+79.9
+80.5
+81.1
+211.1
+268.6
+295.8
+276.8
+281.9
+279.2
+277.3
+280.6
+280.9
+299.5
+307.1
+304.1
+305.9
+298.0
+127.5
+158.7
+199.5
+168.6
+165.7
+171.6
+182.9
+187.2
+192.5
+196.4
+209.5
+210.6
+209.2
+209.5
+44.0
+44.5
+42.7
+46.3
+44.5
+43.7
+43.6
+43.2
+43.9
+43.1
+41,1
+41.5
+42.
+41.6
 I/ INCLUDES RETAIL REPDBCBASE AGREEBEITS. ALL IRA AND KEOGH ACCOUNTS AT COMMERCIAL BANKS AND THRIFT IISTITUTIOS ARE SUBTRACTED
 FRO SMALL TIB DEPOSITS.
+2/ EXCLUDES IRA AND KOGH ACCOUNTS.
+3/ NET OF LARGE DEBOHINATION TIME DBPOSITI HELD BY HONEY HABKET HUTUAL OUNDS AND THRIFT INSTITUTIONS.
 Net Changes in System Holdings of Securities'
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -639,12 +1010,125 @@ y bs Treasury coupons net purchases' Federal agencies net purchases' Net change
 Period Treasury bills outright holdings Net RPs'
 ___net change wh 1-5 5-10 over 10 total w1-5 5-10 over 10 total total
 year 1-5 5-1 over tota
+1985--QTR. I
+II
+III
+IV
+1986--QTR. I
+II
+1986--Jan.
+Feb.
+Mar.
 Apr.
 May
 June
 Apr. 2
 9
+16
+23
+30
 July 2
 LEVEL--July 2
+-3,052
+5,337
+5,698
+13,068
+3,779
+-2,044
+7,183
+4,027
+5,431
+-2,821
+7,585
+61
+-3,277
+2,988
+3,196
+1,402
+320
+2,132
+251
+389
+153
+84
+305
+961
+245
+2,138
+1,702
+1,794
+1,896
+1,938
+2,185
+465
+846
+6
+868
+21.2 33.6 15.3
+4,564
+2,768
+2,803
+3,653
+3,440
+4,185
+1,326
+1,295
+12
+1,552
+2,035
+8,491
+8,312
+16,342
+6,964
+-735
+8,409
+3,962
+6,983
+-2,861
+7,535
+61
+-3,318
+2,988
+3,146
+1,402
+320
+2,132
+251
+389
+153
+135
+-50
+84
+2,462
+684
+1,461
+-5,445
+1,450
+3,001
+462
+-350
+-3,446
+6,336
+-3,580
+-356
+-3,466
+198
+3,659
+-4,470
+-1,308
+4,809
+-5,405
+3,644
+-1,925
+-3,357
+4,724
+311
+-2,041
+-2,491
+5,469
+-3,228
+-1,788
+-1,837
+3,908
 maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon Issues, and direct Treasury
 borrowing from the System.

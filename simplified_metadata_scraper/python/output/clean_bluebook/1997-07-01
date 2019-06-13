@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS I FOMC
 JUNE 27, 1997
 MONETARY POLICY ALTERNATIVES
@@ -84,6 +92,8 @@ at a 4-3/4 percent annual rate from the fourth quarter of last year through May,
 middle of its annual range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+96:Q4
+to
 April May June June3
 Money and Credit Aeregates
 Adjusted for sweeps
@@ -92,6 +102,10 @@ Federal
 Nonfederal
 Bank Credit
 Adjusted'
+-11.3
+.5
+11.3
+13.4
 Reserve Measures
 Nonborrowed Reserves2
 Total Reserves
@@ -102,6 +116,12 @@ Memo: (millions of dollars)
 Adjustment plus seasonal
 borrowing
 Excess Reserves
+-21.9
+3.3
+-11.0
+5.0
+4.7
+6.5
 Longer-Term Strategies
 (6) This section provides a longer-term perspective on several strategic issues
 confronting the Committee. With the Greenbook forecast of unemployment throughout 1998
@@ -115,6 +135,7 @@ assessment. Third, we use the staff model to gauge four specific rules for condu
 monetary policy, each of which embeds a long-run inflation objective in a monetary policy
 reaction function that also pays attention to variations in output.
 (7) The first and second exercises are based on Greenbook assumptions through
+1998 and judgmental extensions beyond. Specifically, we assume that the federal budget
 comes into balance by early in the next decade and that the chronic current account deficit
 puts downward pressure on the dollar. In addition, except in the scenario where we adjust it
 lower, we assume that the NAIRU is 5.6 percent. In the staff model, the sacrifice ratio over
@@ -138,6 +159,15 @@ Greenbook forecast and ultimately brings it back to near its currently prevailin
 scenario--which is plotted by the dotted lines and extends the "tighter" alternative in the
 Greenbook--entails raising the federal funds rate to about 6-3/4 percent by the middle of 1998
 and maintaining that level for a little more than a year. While the unemployment rate
+1 In the charts, inflation is measured by the core PCE chain-weight price index, and
+past movements in this index are used to proxy for inflation expectations in converting
+nominal to real interest rates. Core PCE inflation increases a few tenths more than broader
+GDP measures of inflation over the next several years. We feel core PCE gives a reasonably
+clear view of the underlying inflation tendencies, though it may not accurately depict inflation
+expectations and thus may tend to distort the profile of real rates shown in the charts. In
+particular, core PCE inflation has a more pronounced increase over the next several years than
+do broader GDP measures of inflation. In the simulation results, the model relies on a more
+complex calculation of expected inflation to derive real rates.
 remains below the NAIRU for a time, inflation is damped in the near term both by the
 strengthening foreign exchange value of the dollar and by falling inflation expectations
 over the short run associated with slower economic growth and tighter monetary policy.
@@ -157,6 +187,10 @@ simulation period.3
 considerably below the current staff estimate of 5.6 percent. Chart 3 compares the baseline
 discussed above (the solid lines) with a situation in which the NAIRU has been and will
 remain at 4-3/4 percent (the dotted lines). In that circumstance, the equilibrium real federal
+2 See "Toward a Working Definition of Price Stability," by David E. Lebow, Deborah
+J. Lindner, Daniel E. Sichel, and Robert J. Tetlow, mimeo, Federal Reserve Board, June 1997.
+3 As in past model simulations, we have not assumed any feedback from lower
+inflation on to the level or growth of potential output.
 funds rate would be lower than in the baseline because the economy could support a higher
 level of production and spending on a sustained basis. Under this reading of labor-market
 conditions, the recent level of the real funds rate is near its equilibrium, and holding the
@@ -174,6 +208,7 @@ funds rate is calculated as the sum of an estimated equilibrium real federal fun
 the most recent four-quarter rate of inflation, plus half the difference between the actual
 inflation rate over the most recent four quarters and the long-run inflation target (1 percent in
 our exercise), plus half the percentage difference between actual and potential output.4
+4 In algebraic terms, the rule is given by:
 i = r+ nt- + 0.5[it-I - ' ] + .5(t-Q )'
 where i is the nominal federal funds rate, r* is the equilibrium real funds rate, it is the
 four-quarter rate of inflation, and Q-Q* is the output gap in percentage terms.
@@ -188,6 +223,10 @@ has the same form as the Taylor rule, but adjusts the nominal interest rate by t
 of the inflation gap and twice the output gap. Some previous research based on stochastic
 simulations like those presented here has suggested that this rule may yield better macro-
 economic performance than the Taylor rule.
+5 See "A Comparison of Some Basic Monetary Policy Regimes for Open Economies:
+Implications of Different Degrees of Instrument Adjustment and Wage Persistence," by Dale
+Henderson and Warwick J. McKibbin, Carnegie-Rochester Conference Series on Public Policy
+(39) 221-318.
 (15) A third rule we consider attempts to capture the main features of the
 "opportunistic" approach to monetary policy. This approach resembles the Henderson-
 McKibbin rule in the strength of its response to the output gap, but in reaction to inflation
@@ -200,6 +239,7 @@ This specification implies that, in the course of a disinflation, the opportunis
 will become more dissatisfied with any given rate of inflation above the long-run target as
 the prevailing rate comes down. For example, an inflation outcome of 3 percent may look
 desirable when the prevailing rate is 4 percent, but undesirable when the prevailing rate is
+2 percent. A conventional policymaker would be equally dissatisfied with a 3 percent
 inflation outcome regardless of the recently prevailing inflation rate.
 (16) The second distinctive feature of the opportunistic approach is the "zone of
 opportunism": When actual inflation is close to the intermediate target (within 1 percentage
@@ -224,7 +264,14 @@ econometric model 1,000 times under each rule. In each simulation, we started wi
 at 2-1/2 percent and the economy producing at its potential. We then hit the model with a
 sequence of random shocks and allowed the policymaker to react to the resulting situation
 according to the four rules. For each rule, the chart displays the average of the resulting
+1,000 inflation trajectories (top panel) and the average of the resulting 1,000 output-gap
 trajectories (bottom panel). These averages allow us to gauge how quickly the disinflation
+6 For more information about the four rules, see "A Quantitative Exploration of the
+Opportunistic Approach to Disinflation," by Athanasios Orphanides, David Small, Volker
+Wieland, and David Wilcox, June 1997, Board of Governors of the Federal Reserve System.
+7 Along these transition paths to 1 percent inflation, we assume the public does not
+have full confidence that the rules will be followed exactly. Its expectation of the long-term
+trend to inflation falls only gradually in light of realized gains in lowering inflation.
 Chart 4
 Expected Paths for Output and Inflation Under Alternative Policy Strategies
 Based on Stochastic Simulations of FRB/US
@@ -239,6 +286,9 @@ S .-- Zone
 Output Gap
 Percent
 0.2
+-0.2 - . .*
+-0.6 - Taylor
+S.........Opportunism
 Zone
 -0.8 Henderson-McKibbin
 might be expected to unfold if the economy retains the same structure and experiences the
@@ -247,9 +297,20 @@ same type of shocks as in the past.
 the long-run target of 1 percent. Because under some of the rules the long-run target is
 achieved on average only in the indefinite future, we assess the speed of convergence under
 each rule by measuring the length of time until the average inflation trajectory crosses the
+1-1/2 percent level. As can be seen in the chart, the Taylor-type policymaker is first to arrive
 at this mark, the inflation zone targeter and the Henderson-McKibbin policymaker are next,
 and the opportunistic policymaker is last.8 Not surprisingly, given the inflation results, the
 Taylor policymaker, on average, imposes the deepest recession in the early going, while the
+8 The Taylor policymaker arrives at 1-1/2 percent inflation more quickly than does the
+Henderson-McKibbin policymaker because the latter assigns a higher relative priority to
+stabilizing output. This means that if both policymakers strive to lower inflation, the resulting
+output shortfall prompts the Henderson-McKibbin policymaker to ease off a bit more than it
+does the Taylor policymaker. The zone targeter beats the opportunist to 1-1/2 percent
+inflation because the former calculates the inflation response relative to the long-run target
+whereas the opportunist calculates it relative to the intermediate target. The zone targeter also
+beats the Henderson-McKibbin policymaker (albeit by a narrow margin); evidently, the zone
+targeter makes up for tolerance of low, positive, inflation by applying a relatively stiff penalty
+to inflation outside the zone.
 opportunist keeps output closest to potential.9 The ultimate cost in terms of cumulative out-
 put loss to get to 1 percent inflation is approximately the same under all four rules. The
 time to disinflate for the opportunist depends on the size and nature of the shocks hitting the
@@ -263,6 +324,17 @@ the rules for the variability of output and inflation. In studying this issue of
 abstract from any initial period of disinflation, and focus instead on the properties that the
 model economy would exhibit once the rule in question has been in effect for a very long
 time. Consistent with that focus on the steady state, in these simulations we assume that
+9 Later in the scenario, the relative positions switch: Having achieved the long-run
+inflation objective (indeed, having overshot it slightly), the Taylor policymaker runs output at
+the highest level, on average. By contrast, the opportunist still runs the economy with a small
+amount of slack on average, even twenty years into the simulation. The shortfall of output
+from potential under the opportunistic rule is greatest early in the simulations, when inflation
+is close to the upper bound of the opportunistic region. In such circumstances, the
+opportunistic policymaker reacts asymmetrically to shocks; those that put upward pressure on
+inflation are offset aggressively and therefore result in output shortfalls. Later in the
+simulations when the opportunistic policymaker is more comfortably within the opportunistic
+zone, shocks push inflation outside the opportunistic zone less frequently, so the asymmetric
+policy responses and their effects on output are less prevalent.
 private-sector agents fully understand the rule that the Federal Reserve is using to guide
 policy. 10
 (21) The top panel in Chart 5 displays the distribution of inflation under each
@@ -280,6 +352,14 @@ the Taylor rule and the opportunistic rule. The opportunistic rule produces a mo
 distribution of inflation because the policymaker's target zone shifts over time. Both of the
 winners feature relatively vigorous responses to deviations of output from potential and
 deviations of inflation from the long-run target. In practice, policymakers must solve
+10 This assumption of model-consistent expectations differs from that used in the dis-
+inflation analysis, where the public was assumed to have only an approximate understanding
+of the nature of monetary policy and the economy as a whole. To be exact, in the earlier
+analysis expectations were derived from a small-scale VAR model that approximates the
+average historical behavior of the economy (including monetary policy). This assumption was
+deemed more appropriate for analyzing how the economy might respond-particularly in the
+first few years-to a program of disinflation carried out under policy rules not previously
+employed by the FOMC.
 considerably more difficult problems than the ones addressed in these simulations: Among
 other things, they confront substantial uncertainty about the actual structure of the economy,
 and they face the real possibility of structural change. These and other factors might counsel
@@ -303,6 +383,7 @@ as one of the many indicators relevant for policymaking.
 (24) Because the economy is not expected to be at price stability, the staff again is
 projecting money growth associated with the Greenbook forecast to be near, or above, the
 upper ends of the current money growth ranges. In the Greenbook, nominal GDP increases
+5-1/2 percent this year before slowing to 4-1/4 percent in 1998 when the expansion of real
 output is restrained, in part, by slightly less accommodative financial conditions. The
 projections of M2 in 1997 and 1998 assume a continuation of the recent experience in which
 demand for that aggregate has been broadly consistent with its historical relationship with
@@ -346,7 +427,11 @@ point of that range, there would seem to be no need for an upward adjustment.
 same as the ranges for 1996.
 Growth of Money and Debt and Alternative Ranges
 (percent)
+1997
+(projected)
 Memo: Nominal GDP
+1998
+(projected)
 (28) As in the past couple of years, the Committee may wish to retain the alter-
 native I ranges, even though staff projections are around their upper ends, on the grounds that
 sufficient uncertainty persists regarding M2 and M3 velocity relationships to suggest that the
@@ -355,9 +440,27 @@ Although the more predictable behavior of M2 demand has continued over the first
 year, the Committee may view the re-established relationships as not adequately tested under
 a variety of circumstances to be confident in their persistence. For example, greater variation
 in interest rates and nominal income could provoke substantial shifting between M2 assets
+12 If the Committee retains this rationale, it might want to consider whether it should
+lower the range for debt. This aggregate, like M2, has tended to grow over time at about the
+same pace as nominal GDP, suggesting that a 1 to 5 percent range for debt would be more
+consistent with the benchmark money growth ranges.
+13 Note also that the current range for M2 appears most consistent with steady state
+nominal GDP growth of around 3 percent. This would seem to imply that the Committee was
+seeking true price stability--assuming trend real growth of 2 percent or so and around 3/4 per-
+centage point of measurement bias in the deflator. If the Committee thought that output
+growth might be greater going forward because of more favorable productivity trends or was
+concerned that nominal rigidities argued for inflation a bit above true price stability, these
+ranges might need to be higher to reflect the Committee's long-run expectations.
 Alt. I
+1 to 5
+2 to 6
+3 to 7
 Alt. II
+2 to 6
+4 to 8
+3 to 7
 and mutual funds, since the latter are now much more readily available than in the 1970s and
+1980s. Moreover, even if money demand remains reasonably predictable, the Committee may
 value the ranges primarily as a means of signifying long-term goals, a role that they began to
 take on in the second half of the 1980s. Although the Committee used M2 growth as one of
 its indicators at that time, the emphasis was more on longer-term trends than on recent
@@ -405,6 +508,7 @@ under these circumstances, at least for a time.
 Short-run Policy Alternatives
 (32) Two short-run policy alternatives are presented below for Committee consider-
 ation. Under alternative B, the intended federal funds rate would be maintained at its current
+5-1/2 percent level. Under alternative C, it would be raised 1/4 percentage point to 5-3/4
 percent. (A variant of the standard wording of the operational paragraph of the directive that
 includes a specific reference to the federal funds rate appears on page 30.)
 (33) Incoming information since the last Greenbook has led the staff to strengthen
@@ -450,6 +554,7 @@ appreciation of the exchange value of the dollar, which has induced outright dec
 import prices. Judging by the relationships incorporated in the "Longer-Term Strategies"
 section of this document, a 25 basis point rise in the funds rate represents only a small down
 payment on the increase that would be needed to contain inflation permanently at about a
+2-1/2 percent rate. Should the Committee want to improve the prospects of holding inflation
 down to such a rate, it might consider a 50 basis point firming at this FOMC meeting. Even
 if the tradeoff between resource use and inflation through the end of next year proves to be
 still more favorable than is now incorporated in the staff forecast or in those model exercises,
@@ -509,6 +614,39 @@ From
 Dec-96
 Jun-97
 Jun-97
+96 Q4
+96 Q4
+96 04
+3901.8
+3901.4
+3915.1
+3928.8
+3942.9
+3957.3
+3971.7
+3986.2
+4000.9
+6.0
+-0.1
+3901.8
+3901.4
+3915.1
+3928.3
+3941.2
+3954.3
+3967.5
+3981.1
+3995.0
+5061.6
+5068.0
+5082.4
+5106.6
+5131.4
+5156.0
+5180.8
+5205.3
+5230.0
+-2.0 -2.6
 Jun-97
 Sep-97
 Dec-97
@@ -516,10 +654,64 @@ Jun-97
 Sep-97
 Dec-97
 Jun-97 97 Q4
+4.1 5.8
+94 Q4
+95 Q4
+96 Q4
+97 Q2
+97 Q4
+1997 Annual Ranges: 1.0 to 5.0
+5061.6
+5068.0
+5082.4
+5106.3
+5130.3
+5154.1
+5178.1
+5202.1
+5226.4
+1065.1
+1062.7
+1060.9
+1057.8
+1055.0
+1052.7
+1051.1
+1049.8
+1049.2
+1065.1
+1062.7
+1060.9
+1057.7
+1054.4
+1051.6
+1049.4
+1047.4
+1046.2
+-0.7
+-5.8
+-3.1
+-0.7
+-5.8
+-2.9
+-3.7
+-3.1
+-2.2
+-3.1
+-3.1
+-2.7
+-3.7
+-3.5
+-2.8
+-3.1
+-3.2
+-2.9
+2.0 to 6.0
 Directive Language
 (38) Presented below for the members' consideration is draft wording relating to the
 Committee's ranges for the aggregates in 1997 and 1998 along with the standard and
 alternative language for the operational paragraph for the intermeeting period.
+1997 and 1998 Ranges
 The paragraph that follows includes the usual options and updating changes. In
 addition, staff suggests deleting the term "monitoring" in the reference to the growth of total
 domestic nonfinancial debt. The deletion would seem to avoid any inference that the
@@ -541,6 +733,7 @@ of total domestic nonfinancial debt was MAINTAINED [DEL: set] at 3 to 7 percent
 (RAISED/LOWERED TO ___ TO ___ PERCENT) for the year. FOR 1998,
 THE COMMITTEE AGREED ON TENTATIVE RANGES FOR MONE-
 TARY GROWTH, MEASURED FROM THE FOURTH QUARTER OF
+1997 TO THE FOURTH QUARTER OF 1998, OF ___ TO ___ PERCENT
 FOR M2 AND ____ TO ____ PERCENT FOR M3. THE COMMITTEE
 PROVISIONALLY SET THE ASSOCIATED RANGE FOR GROWTH OF
 TOTAL DOMESTIC NONFINANCIAL DEBT AT ___TO ___ PERCENT

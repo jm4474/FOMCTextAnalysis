@@ -59,6 +59,12 @@ as suggesting that the Committee perceived less upside risk to inflation than
 investors had earlier surmised.  Market participants took particular note of the
 statement in those minutes that members believed that an accelerated path of policy
 tightening did not appear necessary at the time.  Despite the subsequent publication
+1 The effective federal funds rate averaged 2.77 percent over the intermeeting period amid 
+pressures from quarter-end flows and the April tax date.  Late in the period, participants again bid 
+up the funds rate in anticipation of tightening at this meeting.  The Desk purchased $1.9 billion of 
+Treasury coupon securities in the market and redeemed $211 million of two-year notes at an 
+auction to comply with its per-issue portfolio guidelines.  The volume of outstanding long-term 
+RPs remained unchanged on balance at $17 billion.
 of higher-than-expected consumer prices for March, the expected policy path
 rotated down on net over the intermeeting period (Chart 1).  Options on federal
 funds futures indicate that investors are certain of a 25 basis point tightening at this
@@ -85,6 +91,8 @@ Chart 1
 Interest Rate Developments
 Apr. June Aug. Oct. Dec. Feb. Apr.
 2005 2006
+4.5
+Percent
 April 28, 2005
 March 21, 2005
 Expected Federal Funds Rates*
@@ -92,25 +100,38 @@ Expected Federal Funds Rates*
  for term premia and other adjustments.
 Probability Density for Target Funds Rate after
 June FOMC Meeting
+4/28/2005
+3/21/2005
+70
+Percent
 Target Rate
      Note. Derived from options on July federal funds futures.
 Jan. May Sept. Jan. May Sept. Jan.
 2003 2004 2005
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
 *Par yields from an estimated off-the-run Treasury yield curve.
 Jan. May Sept. Jan. May Sept. Jan.
 2003 2004 2005
+4.0
+Percent
+5 to 10 Years Ahead
+Next 5 Years
 Inflation Compensation*
 *Based on a comparison of an estimated TIPS yield curve to an estimated
 nominal off-the-run Treasury yield curve.
 Changes in Forward Rates of Inflation Compensation*
+0-2 2-3 3-4 4-5
 Basis Points
 *Changes since March 21, 2005, based on inflation swap quotes.
 Adjusted for indexation lag and seasonality effects.
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2003 2004 2005
+120
+Basis Points
 Ten-Year Treasury
 Long Bond
 Implied Volatilities*
@@ -120,9 +141,11 @@ at the time of the last meeting.  According to a recent survey by the Desk, prim
 dealers do not expect changes to the balance-of-risk sentence at this meeting,
 although some predict that the “measured pace” language will be dropped.
 (3) The downward revision in policy expectations showed through to a
+15 basis point decline in two-year nominal Treasury yields over the intermeeting
 period, while longer-term nominal yields moved down about 35 basis points.
 Judging from TIPS, a drop in real yields accounted for about half of the decline in
 longer-term nominal interest rates, implying that inflation compensation fell about
+15 basis points.  Model-based estimates of term premiums have fallen further over
 the intermeeting period, consistent with the decline in the volatility of long-term
 Treasury securities inferred from options prices and perhaps indicative of
 heightened safe-haven demands prompted by the downturn in equity markets.
@@ -141,6 +164,8 @@ corporate credit quality have remained strong on balance. Although General Motor
 Class I FOMC - Restricted Controlled (FR) Page 4 of 40
 Chart 2
 Capital Market Developments
+130
+Index(09/21/04=100)
 Wilshire
 Nasdaq
 Stock Prices
@@ -149,8 +174,12 @@ Real Long-term Treasury yield*
 * Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation.
 Note. + Denotes the latest observation using daily interest rates and stock 
 prices and latest earnings data from I/B/E/S.
+12-Month Forward Trend Earnings-Price Ratio for
+S&P 500 and Perpetuity Treasury Yield
 Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
 2003 2004 2005
+60
+Percent
 S&P 500
 Nasdaq
 Implied Volatility
@@ -158,6 +187,8 @@ Daily
 FOMC
 Jan. May Sept. Jan. May Sept. Jan.
 2003 2004 2005
+70
+Basis Points Dollars
 GM Credit Default Swap Spread (left scale)
 GM Stock Price (right scale)
 GM Stock Price and Credit Default Swap Spread
@@ -166,11 +197,35 @@ Ten-Year AA (left scale)
 Five-Year High-Yield (right scale)
 Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
+0
+ 1
+ 2
+3
+ 4
+ 5
+ 6
+ 7
+ 8
+9
+10
+11
 Decomposition of High-Yield Bond Spread
 Percentage points
 Compensation for Expected Loss
 Compensation
 for Risk
+0
+ 1
+ 2
+3
+ 4
+ 5
+ 6
+ 7
+ 8
+9
+10
+11
 Class I FOMC - Restricted Controlled (FR) Page 5 of 40
 Credit Market Conditions
 The softer economic outlook, concerns about the 
@@ -229,6 +284,8 @@ expected Canadian output and employment data, political uncertainties, and a
 decline of oil prices from their recent peak weighed on that currency.  Euro-area
 data were also disappointing and suggested to market participants a less-robust
 outlook for growth there.  For the period as a whole, the dollar has appreciated
+4 percent versus the Canadian dollar, 2¼ percent versus the euro, and about
+1 percent versus the yen.2  Ten-year sovereign yields in most major foreign industrial
 countries declined 15 to 30 basis points, a bit less than comparable U.S. yields.
 Declines in foreign share prices outstripped those in the United States amid
 concerns about the strength of the global recovery.  Turmoil in Chinese-Japanese
@@ -274,6 +331,8 @@ Class I FOMC - Restricted Controlled (FR) Page 8 of 40
 which the dollar fell almost 7 percent.  Despite signs of slower growth in Brazil, the
 central bank ceased its operations in currency swaps in mid-March, which had been
 viewed as part of an official effort to weaken the real, and raised its main policy rate
+25 basis points in mid-April to counter inflationary pressure.  Brazilian stocks fell
+10 percent over the intermeeting period, and stock prices in other Latin American
 countries also registered significant declines.  Spreads on dollar-denominated
 sovereign bonds widened slightly over the intermeeting period.  Various comments
 by G-7 officials emphasizing the need for China to modify its foreign exchange
@@ -306,6 +365,8 @@ Commercial Paper
 Bonds
 Changes in Selected Components of
 Nonfinancial Business Debt $Billions
+2002 2003 H1 H2 Jan Feb Mar
+  2004   2005
 Monthly rate
 Growth of Household Debt Percent
 Quarterly, s.a.a.r.
@@ -319,8 +380,12 @@ Credit
 Home
 Mortgage
 Growth of Federal Debt
+2002 2003 H1 Q3 Q4 Q1
+  2004 2005
 Growth of M2
 e Estimated.
+2003 H1 Q3 Q4 Jan Feb Mar Apr
+2004 2005
 Velocity
 M2 Velocity and Opportunity Cost
 Percent
@@ -493,6 +558,7 @@ from more than one of these alternatives in constructing its statement.
 (11) Although recent economic data have pointed to noticeably less strength in
 spending and output in the first half of 2005 than anticipated at the time of the
 March meeting, the Committee may still be inclined to tighten policy another
+25-basis-point notch at this meeting, as in Alternative B.  The Committee might
 share the view of the staff that, even after additional policy firming, growth in
 economic activity will exceed, albeit only slightly, the rate of expansion of potential
 output in coming quarters.  Such an outlook accords with staff estimates of the
@@ -522,9 +588,18 @@ core consumer prices.”  (The Committee’s consideration of such a change, how
 could depend on the March reading on PCE prices, which will be released on the
 Friday before the meeting.)  If the Committee drops that sentence, it might wish to
 reverse the order of the thoughts in the first sentence on inflation that appeared in
+3 Starting with this Bluebook, the TIPS-based measure of the equilibrium real interest rate 
+incorporates an upward adjustment of 40 basis points to account for the anticipated average 
+difference between total CPI inflation (the basis for TIPS indexation) and core PCE inflation (the 
+basis for computing inflation expectations in the other measures).
 Class I FOMC - Restricted Controlled (FR) Page 15 of 40
 Chart 5
 Equilibrium Real Federal Funds Rate
+8
+Percent
+50 b.p. Tightening
+25 b.p. Tightening
+Current Rate
 Short-Run Estimates with Confidence Bands
 Short-Run and Medium-Run Measures
 Actual real federal funds rate
@@ -624,6 +699,16 @@ suspect that the market reaction to the adoption of Alternative B would be
 (14) If the Committee is reasonably sure that inflation will be well contained
 but is concerned that spending and output growth may have lost significant
 momentum of late and that progress in reducing resource slack may have stalled, it
+4 Members might interpret the adverse news over the intermeeting period as raising the 
+probabilities of outsized deviations of spending growth below that which is sustainable and 
+inflation above that consistent with price stability.  Such skewed risks might be expected to remain 
+even after policy is set appropriately, implying that the Committee would view the risks to its two 
+objectives individually as unbalanced—and in a manner that has offsetting implications for policy.  
+However, much was made in markets of the Committee’s explicit conditioning of the risk 
+assessment on appropriate policy and the conclusion generally drawn was that it was close to 
+tautological.  While the selection of unbalanced risks is logically possible in the presence of 
+significantly skewed probabilities, another change on the heels of the introduction of an explicit 
+reference to appropriate policy would likely bewilder market participants.
 Class I FOMC - Restricted Controlled (FR) Page 18 of 40
 may wish to combine a 25-basis-point firming of policy at this meeting with
 statement language that strongly suggests the possibility of a pause in firming at the
@@ -641,6 +726,7 @@ funds rate would be less than ¼ percentage point below its estimated equilibriu
 value after implementation of this alternative.  In addition, a 3 percent nominal
 federal funds rate would sit high in the range of policy recommendations from
 simple policy rules provided in Chart 6—and especially so if members viewed
+2 percent inflation in the core PCE index as an acceptable outcome.  A gloomy view
 of the risks to the outlook for spending would presumably also incline the
 Committee to signal a pause.  For instance, economic activity could be weaker in
 coming quarters than in the staff forecast for the reasons explored in the “sentiment
@@ -649,14 +735,20 @@ As another possibility, members may be of the view that the slowing in spending
 and activity of late owes less to elevated energy prices and more to the cumulative
 monetary policy restraint put in place since June of last year than is implicit in the
 Greenbook. 5   Pausing to assess the effects already in the pipeline from cumulative
+5 While most longer-term yields remain below their levels just before tightening commenced, 
+short- and intermediate-term yields are now much higher.  Those latter increases may be crimping 
+spending more than the staff has allowed for, either because the economy is now more sensitive to
 Class I FOMC - Restricted Controlled (FR) Page 19 of 40
 Chart 6
 Actual and Assumed Federal Funds Rate and
 Range of Values from Policy Rules and Futures Markets
+10
+Percent
 Shaded region is the range of values from rules 1a, 2a, 4, 5, and 6 below
 Actual federal funds rate and Greenbook assumption
 Market expectations estimated from futures quotes
 Values of the Federal Funds Rate from Policy Rules and Futures Markets
+2005 2006
 Q1 Q2 Q3 Q4 Q1
 Class I FOMC - Restricted Controlled (FR) Page 20 of 40
 Policy Rules Chart: Explanatory Notes 
@@ -673,6 +765,8 @@ Root-mean-
 square error
 Rule Specification 
 1988:1-
+2005:1
+2001:1-
 2005:1
 Rules with Imposed Coefficients
 a 1.08a
@@ -794,6 +888,7 @@ Money and Debt Forecasts
 expected to be accompanied by increasing opportunity costs of holding monetary
 assets as deposit interest rates, particularly those on liquid deposits, lag increases in
 market yields.  As a result, growth of M2 is projected to remain weak, averaging just
+2¾ percent for 2005 as a whole and 4 percent in 2006.  Over the forecast period,
 the debt of nonfinancial corporations is projected to expand at a moderate rate.
 External financing needs are expected to be held down this year by inflows from
 abroad in response to temporary favorable tax treatment of repatriated earnings and
@@ -813,6 +908,7 @@ Monthly Growth Rates
 *** This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
 Class I FOMC - Restricted Controlled (FR) Page 26 of 40
 of 2004.  Overall, the debt of domestic nonfinancial sectors is projected to expand
+7½ percent in 2005 and 6½ percent in 2006.
 Class I FOMC - Restricted Controlled (FR) Page 27 of 40
 Directive and Balance of  Risks Statement
 (21) Draft language for the directive and draft risk assessments identical to
@@ -846,9 +942,13 @@ sustainable economic growth and price stability.
 Class I FOMC - Restricted Controlled (FR) Page 29 of 40
 Appendix Chart 1
 Treasury Yield Curve
+4
+Percentage Points
 + Denotes most recent weekly value.
 Note. Blue shaded regions denote NBER−dated recessions.
 Spread Between Ten−year Treasury Yield and Federal Funds Rate
+7
+Percent
 April 28, 2005   
 March 21, 2005
 Treasury Yield Curve*
@@ -871,12 +971,16 @@ Other Important
 Class I FOMC - Restricted Controlled (FR) Page 31 of 40
 Appendix Chart 3
 Stock Indexes
+45
+Ratio
 Ratio Scale
 1941−43=10
 * Based on trailing four−quarter earnings.
 + Denotes most recent weekly value.
 P/E Ratio*
 S&P 500
+140
+160
 Ratio Scale
 1941−43=10
 * Deflated by the CPI.
@@ -886,18 +990,26 @@ S&P 500*
 Class I FOMC - Restricted Controlled (FR) Page 32 of 40
 Appendix Chart 4
 One−Year Real Interest Rates
+8
+Percent
 * Mean value of respondents.
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Michigan Survey)*
+8
+Percent
 * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters
 thereafter.  Median value of respondents.
 GDP Deflator
 One−Year Treasury Constant Maturity Yield Less One−Year Inflation Expectations (Philadelphia Fed)*
+8
+Percent
 + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
 Note. Blue shaded regions denote NBER−dated recessions.
 One−Year Treasury Constant Maturity Yield Less Change in the Core CPI from Three Months Prior
 Class I FOMC - Restricted Controlled (FR) Page 33 of 40
 Appendix Chart 5
 Long−Term Real Interest Rates*
+10
+Percent
 +
 +
 Real Ten−Year Treasury Yields
@@ -906,6 +1018,8 @@ Philadelphia Fed Survey
 Real rate using
 Michigan Survey
 Ten−year TIPS yield
+14
+Percent
 +
 +
 Nominal and Real Corporate Bond Rates
@@ -925,18 +1039,35 @@ Michigan Survey
 Class I FOMC - Restricted Controlled (FR) Page 34 of 40
 Appendix Chart 6
 Commodity Price Measures
+130
+140
 Ratio scale, index (1980=100)
 Journal of Commerce Index
+340
+360
+380
 Ratio scale, index (1967=100)
 CRB Spot Industrials
+340
+Ratio scale, index (1967=100)
 CRB Futures
 Class I FOMC - Restricted Controlled (FR) Page 35 of 40
 Appendix Chart 7
 Growth of Real M2 and M3
+10
+Percent
+10
+Percent
+15
+Percent
+15
+Percent
 Class I FOMC - Restricted Controlled (FR) Page 36 of 40
 Appendix Chart 8
 Inflation Indicator Based on M2 and Two
 Estimates of V*
+140
+Ratio ScalePrice Level
 GDP implicit
 price deflator (P)
 Long-run equilibrium
@@ -945,8 +1076,14 @@ current M2 and constant V*
 Long-run equilibrium
 price level (P*) given
 current M2 and V* with shift
+140
+Ratio Scale
+12
+PercentInflation*
 Constant V*
 V* with shift
+12
+Percent
 * Change in GDP implicit price deflator over the previous four quarters.
 Class I FOMC - Restricted Controlled (FR) Page 37 of 40
 Short-term Long-term
@@ -964,4 +1101,5 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 20-year 5-year 10-year Fixed-rate ARM
 Class I FOMC - Restricted Controlled (FR) Page 40 of 40

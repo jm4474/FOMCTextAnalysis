@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -58,6 +66,7 @@ positive corporate earnings surprises, have kept quality spreads on
 private debt instruments narrow and have boosted broad indexes of
 share prices to new records.
 (3) The dollar's weighted average exchange value rose
+1-1/4 percent, on balance, over the intermeeting period. The dollar
 appreciated about 3-1/2 percent, net, against the mark, while depreci-
 ating by lesser amounts against the yen and the Canadian dollar. The
 dollar had continued to drop over the first half of the period, how-
@@ -118,11 +127,15 @@ a 5-1/2 percent pace through March, a bit above the midpoint of its
 monitoring range.
 MONEY, CREDIT, AND RESERVE AGGREGATES
 (Seasonally adjusted annual rates of growth)
+94:Q4
+to
 Feb. Mar. Apr. Apr.
 Money and credit aggregates
 Domestic nonfinancial debt 6.9 5.3 -- 5.6
 Federal 10.7 7.3 -- 6.1
 Nonfederal 5.5 4.6 -- 5.4
+2
+Reserve measures
 Memo: (Millions of dollars)
 Excess reserves 946 794 752
 are calculated by prorating averages for two-week reserve main-
@@ -276,10 +289,13 @@ Jun-95 3656.8 3655.6 3654.4 4406.3 4405.6 4404.9 1143.9 1143.3 1142.7
 Jul-95 3667.4 3663.8 3660.2 4421.8 4419.6 4417.4 1145.6 1144.0 1142.4
 Aug-95 3678.2 3672.1 3666.0 4437.3 4433.6 4429.9 1147.5 1144.8 1142.1
 Sep-95 3688.5 3680.3 3672.1 4452.6 4447.6 4442.6 1150.0 1145.8 1141.6
+1.0 to 5.0 0.0 to 4.01994 Target Ranges:
 (16) M3 is projected to decelerate appreciably to a 3-3/4
 percent pace over the April-September period. With business and
 household credit growth running a bit slower than over the first few
 months of the year and shifting toward longer-term markets, the growth
+8
+of bank loans should fall off some. Reduced funding needs will
 likely prompt a slackened pace of issuance of managed liabilities,
 including large time deposits, repurchase agreements, and borrowings
 from foreign offices. Nonetheless, M3 is projected to remain above
@@ -337,6 +353,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+94 -- High
+- Low
+95 -- High
+- Low
 Monthly
 May 94
 Jun 94
@@ -371,6 +391,107 @@ Daily
 May 12 95
 May 17 95
 May 18 95
+5.85
+2.97
+6.20
+5.40
+6.05
+6.00
+6.02
+5.70
+2.94
+5.81
+5.57
+5.69
+5.60
+5.68
+6.26
+3.12
+6.31
+5.63
+5.78
+5.63
+5.67
+6.73
+3.35
+6.75
+5.64
+6.31
+3.11
+6.39
+6.02
+6.11
+3.11
+6.10
+5.73
+6.07
+6.03
+6.05
+8.50
+6.00
+9.00
+8.50
+9.00
+9.00
+9.00
+9.00
+9.00
+9.00
+7.79
+4.44
+7.80
+6.26
+6.67
+6.29
+6.26
+8.00
+5.70
+7.85
+6.61
+7.04
+6.70
+6.61
+8.13
+6.25
+7.89
+6.93
+7.32
+7.02
+6.93
+9.05
+7.16
+8.81
+7.95
+7.97
+7.95
+7.37
+5.49
+6.94
+6.15
+6.30
+6.18
+6.15
+9.57
+7.02
+9.57
+8.32
+8.36
+8.45
+8.32
+9.25
+6.97
+9.22
+7.83
+8.27
+7.87
+7.83
+6.79
+4.12
+6.87
+6.10
+6.26
+6.12
+6.10
 Strictly Confidential (FR)-
 Class II FOMC
 Money and Credit Aggregate Measures
@@ -382,8 +503,16 @@ Period M1 M2 M3 L and U. S. other' total'
 In M2 In M3 only Investments' government'
 Levels tSbillions)
 Monthly
+1994-DEC. 1147.8 3615.0 2467.1 689.5 4304.4 5293.9 3316.1 3497.4 9467.6 12965.0
+1995-JAN. 1148.8 3626.5 2477.7 700.9 4327.4 5326.6 3349.1 3504.7 9517.2 13021.9
+FEB. 1147.1 3622.3 2475.2 712.8 4335.2 5375.1 3362.2 3535.8 9561.0 13096.8
+MAR. 1147.9 3630.1 2482.3 726.1 4356.2 5425.5 3385.1 3557.5 9597.4 13154.9
+APR. p 1149.7 3642.6 2492.9 736.0 4378.6 3424.5
 Weekly
 1995-APR. 3 1144.7 3633.2 2488.4 722.5 4355.7
+10 1150.2 3640.5 2490.3 727.4 4367.9
+17 1150.0 3635.7 2485.7 741.6 4377.3
+24 1149.7 3646.9 2497.2 740.0 4386.9
 MAY 1 p 1149.4 3650.9 2501.5 741.5 4392.4
 8 p 1142.9 3648.4 2505.5 745.9 4394.3
 p preliminary
@@ -413,8 +542,233 @@ SEP.
 OCT.
 NOV.
 DEC.
+1995-JAN.
+FEB.
+MAR.
 APR. p
+290.1
+319.8
+352.5
+334.5
+337.3
+340.0
+342.8
+345.1
+347.2
+350.0
+353.0
+354.5
+357.7
+358.8
+362.5
+336.5
+381.2
+382.9
+388.1
+385.6
+386.3
+388.0
+386.6
+386.5
+384.4
+382.3
+382.0
+383.4
+384.0
+383.2
+380.0
+412.6
+404.0
+412.0
+412.4
+412.5
+413.1
+410.8
+408.9
+405.4
+403.8
+402.9
+399.3
+395.9
+393.3
+83.0
+95.1
+98.9
+102.5
+106.8
+109.5
+110.9
+111.8
+113.7
+113.0
+116.7
+123.2
+117.7
+117.6
+1177.5
+1211.7
+1157.7
+1220.0
+1214.8
+1206.8
+1201.2
+1192.6
+1183.7
+1171.0
+1157.8
+1144.2
+1129.8
+1111.9
+1094.9
+882.2
+790.4
+809.5
+770.1
+770.8
+772.9
+776.0
+782.2
+789.0
+799.0
+809.8
+819.7
+835.0
+854.7
+877.5
+359.2
+357.8
+383.9
+370.5
+373.5
+370.7
+376.1
+377.0
+377.4
+379.5
+383.3
+389.0
+392.2
+391.8
+391.4
+205.8
+196.9
+180.7
+183.1
+177.5
+177.9
+178.7
+177.4
+176.3
+180.8
+180.5
+180.8
+186.3
+180.4
+189.0
+358.4
+334.2
+357.8
+329.8
+332.4
+335.0
+338.2
+341.5
+347.3
+353.0
+357.7
+362.7
+363.0
+371.1
+377.4
+81.8
+96.9
+98.9
+98.0
+102.5
+103.0
+101.2
+101.9
+101.9
+102.9
+105.2
+109.1
+112.8
+112.5
+46.7
+46.5
+54.0
+46.5
+47.7
+50.3
+51.0
+51.2
+52.1
+53.0
+55.3
+53.8
+54.9
+57.7
+58.8
+154.5
+170.8
+179.9
+174.8
+175.7
+176.7
+177.7
+178.5
+179.1
+179.5
+179.9
+180.3
+180.5
+180.4
+180.5
 p preliminary
+331.0
+330.2
+360.8
+354.6
+357.1
+348.4
+353.2
+357.7
+350.7
+351.1
+358.6
+372.6
+380.3
+404.0
+424.5
+365.5
+383.8
+411.6
+387.1
+392.6
+392.7
+392.8
+387.7
+391.7
+404.2
+404.0
+426.5
+428.6
+445.7
+453.9
+20.6
+15.5
+11.0
+14.0
+11.6
+10.8
+10.9
+11.4
+11.9
+11.8
+11.0
+10.2
+9.8
+9.9
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -423,6 +777,26 @@ Treasury bills Treasurycoupons Federal Net change
 Si Netpurhass agencies outright
 Period Redemptions Net purcases Redemptions Net redemptions holdings
 purchases (-) change 1 year 1-5 5-10 over 10 (-) Change ( total 4 Net RPs
+1992
+1993
+1994
+1994 ---Q1
+---Q2
+---Q3
+---04
+1995 ---Q1
+1994 May
+June
+July
+August
+September
+October
+November
+December
+1995 January
+February
+March
+April
 Weekly
 January 25
 May 3
@@ -437,10 +811,114 @@ i00 11,486
 --- 6,639
 --- 1,610
 --- 7,071
+1,096
+1,223
+1,238
 -- _
+13,086
+17,717
+17,484
+2,164
+6,639
+1,610
+7,071
+1,395
+4.143
+518
+6,109
+13,118
+10,350
+9,168
+1,413
+2,817
+2,530
+2,408
+200
+2,208
+2,818
+4,168
+3,818
+1,103
+1,117
+938
+660
+839
+---.
+2,333
+3,457
+3,606
+618
+896
+840
+86.4 28.3 35.0
+767
+2,337
+19,365
+18,431
+15,493
+2,665
+4,754
+4,157
+3,916
+4,459
+-529
+200
+4,526
+-370
+30
+3!
+31
+0,219 -13,215
+5,374 5,974
+1,975 -7,412
+4,418 -11,663
+1,086 4,179
+5,654 -8,530
+0,818 8,602
+-850 -10,383
+1,480 5,441
+1,085 4,070
+-322 -5,023
+1,547 2,793
+4,428 -6,301
+-72 819
+6,239 4,718
+4,652 3,066
+632
+774
+70
+37
+-14,471
+-686
+4,774
+-2,758
+-10,071
+-2,855
+-4,452
+5,932
+-1,122
+-620
+-2,663
+10,858
+-5,732
+3,566
+-1,170
+-224
+504
+6,168
+-7,413
+112
+1,102
+379.5 -13.5
+__________________________.5. .. I
 asury and agency securities.
 rchase transactions (-), and matched purchase sale transactions (+).
 May 17
 within
 1 year 1-5 5-10 over 10 total
 May 19, 1995
+-712
+-55
+-83
+4,526
+-370

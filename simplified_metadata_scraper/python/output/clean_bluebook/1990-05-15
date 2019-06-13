@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -37,6 +45,7 @@ late April and then to the current level of $300 million.
 economy, inflation prospects, and the likelihood of a near-term tightening
 of monetary policy, other market interest rates first rose in the inter-
 meeting period and then fell sharply. On balance, bond yields have risen
+15 to 25 basis points, while short-term rates are down a like amount.
 The largest decreases were registered by Treasury bills; despite this
 widening, quality spreads remain low by historical standards. The struc-
 ture of short-term rates had suggested strong expectations of a near-term
@@ -213,6 +222,7 @@ March 3266.2 3266.2 3266.2 4064.4 4064.4 4064.4 804.8 804.8 804.8
 April 3271.7 3271.7 3271.7 4068.5 4068.5 4068.5 807.1 807.1 807.1
 May 3283.4 3282.6 3281.8 4076.6 4076.3 4076.0 808.7 808.4 808.1
 June 3303.0 3298.9 3294.8 4096.5 4093.9 4091.3 814.3 812.8 811.3
+3.0 to 7.0 2.5 to 6.51990 Target Ranges:
 (9) Even with the projected strengthening in money, growth of
 both M2 and M3 over the March-to-June period would be noticeably below
 expectations at the time of the last meeting. Moreover, growth of M2
@@ -320,6 +330,10 @@ associated with a federal funds rate persistently outside a
 range of ____ TO ____ [DEL: 6 to 10] percent.
 May 14, 1990
 SELECTED INTEREST RATES
+89-- High
+Low
+90-- High
+Low
 Monthly
 May 89
 Jun 89
@@ -352,6 +366,25 @@ Daily
 May 4 90
 May 10 90
 May 11 90
+10.23
+8.24
+8.58
+8.11
+10.00
+10.00
+10.00
+9.93
+9.96
+10.25
+10.32
+10.16
+10.12
+8.84
+8.82
+8.63p
+8.83
+8.81
+8.61p
 p -- pramnwy daa
 Strictly Confidential (FR)
 Money and Credit Aggregate Measures Class II FOMC
@@ -363,8 +396,17 @@ ANN. GROWTH RATES (%) :
 ANNUALLY 14 TO Q4)
 LEVELS (SBILLIONS) :
 MONTHLY
+1989-DEC. 794.8 3221.0 2426.2 820.6 4041.6 4868.3 2582.6 2265.4 7497.5 9762.9
+1990-JAN. 794.8 3229.3 2434.6 816.7 4046,1 4870.6 2585.8 2275.4 7533.0 9808.5
+FEB. 801.4 3252.6 2451.2 809.2 4061.7 4879.5 2603.8 2295.4 7575.5 9871.0
+MAR. 804.8 3266.2 2461.4 798.1 4064.4 4899.9 2623.8 2323.8 7608.6 9932.5
+APR. p 807.1 3271.7 2464.6 796.9 4068.5 2632.8 2338.0 7648.8 9986.8
 WEEKLY
 1990-APR. 2 808.2 3266.8 2458.6 792.5 4059.3
+9 806.3 3272.4 2466.1 798.5 4070.9
+16 810.6 3273.2 2462.5 804.3 4077.5
+23 p 805.7 3273.7 2468.0 794.7 4068.4
+30 p 805.4 3268.7 2463.3 791.3 4060.0
 Strictly Confidential (FR)
 Components of Money Stock and Related Measures Class II FOMC
 seasonally adjusted unless otherwise noted MAY 15, 1990
@@ -389,30 +431,452 @@ SEP.
 OCT.
 NOV.
 DEC.
+1990-JAN.
+FEB.
+MAR,
 APR. p
+195.0 291.5
+210.7 287.6
+220.8 279.5
+215.7
+216.6
+217.2
+217.8
+218.6
+219.3
+220.0
+220.4
+221.9
+224.6
+226.6
+228.4
+281.3
+279.6
+276.3
+279.6
+278.5
+278.1
+280.0
+278.8
+279.7
+277.3
+280.2
+279.3
+260.5
+280.4
+283.1
+277.9
+272.8
+273.0
+274.5
+276.0
+278.4
+280.8
+282.8
+285.7
+285.4
+287.0
+289.5
+87.6
+83.3
+75.6
+78.5
+77.8
+79.6
+81.0
+78.3
+74.9
+75.3
+74.8
+76.8
+80.8
+81.5
+80.7
+529.3
+504.9
+479.9
+473.2
+463.1
+460.9
+463.9
+468.2
+471.9
+475.3
+480.8
+483.7
+484.9
+489.4
+494.9
+416.2 903.6
+428.2 1021.6
+407.7 1138.9
+412.0
+405.4
+403.4
+403.3
+404.0
+405.5
+406.1
+407.9
+409.0
+410.3
+413.6
+414.6
+1084.1
+1103.0
+1114.0
+1122.4
+1130.0
+1132.6
+1135.9
+1138.5
+1142.3
+1142.5
+1141.2
+1143.8
+220.5
+237.5
+308.0
+257.8
+261.2
+268.3
+277.7
+287.8
+295.9
+302.7
+309.0
+312.4
+318.1
+324.5
+325.0
+87.2 482.3
+86.7 538.0
+101.5 560.7
+88.3
+92.1
+96.3
+99.0
+101.4
+101.6
+101.1
+101.1
+102.3
+103.2
+103.7
+105.4
+568.3
+573.1
+574.9
+574.7
+570.5
+565.6
+562.7
+561.0
+558.3
+554.1
+549.4
+544.0
+107.4
+123.2
+103.4
+126.3
+127.5
+128.4
+123.8
+116.9
+112.9
+108.3
+107.2
+91.4
+94.8
+92.9
+92.4
+102.7
+80.1
+100.3
+97.2
+93.4
+91.8
+89.6
+85.3
+80.0
+79.2
+81.1
+75.9
+71.8
+69.7
+99.8
+108.8
+116.8
+112.2
+112.8
+113.6
+114.3
+115.0
+115.7
+116.2
+116.8
+117.5
+117.7
+118.2
+119.1
+261.9
+267.0
+312.7
+280.0
+288.1
+289.6
+290.9
+293.3
+303.7
+308.8
+309.3
+320.0
+322.8
+316.6
+337.2
+258.4 44.5
+326.2 I40.7
+349.7 40.6
+358.2
+348.8
+349.4
+349.5
+354.3
+350.3
+350.0
+351.3
+347.9
+343.3
+344.7
+342.9
+41.5
+41.2
+41.2
+41.9
+42.6
+41.0
+40.0
+40.5
+41.2
+40.7
+38.3
+36.4
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1
 Millions of dollars, not seasonally adjustedMay 14, 1990
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 Treasury bills Treasury coupons Federal Net change
 e Net pu chases
+3  agencies outright
 Period Net Rdep- Net within Redemp- Net redemptions holdins
 purchae tions (-) change 1-year 1-5 5-10 over 10 tions (-) change (-) total Net RPs
+1988--Q1
+Q2
+Q3
+Q4
+1989--June
+July
+August
+September
+October
+November
+December
+1990--January
+February
+March
+April
 Apr. 4
 11
 May 2
 9
 Memo: LEVEL (bil.$)6
 May 9
+11,479
+18,096
+20,099
+12,933
+7,635
+1,466
+319
+423
+1,795
+5,098
+-3,842
+2,496
+-6,450
+9,263
+-571
+-5,516
+-1,414
+8,794
+1,883
+-1,065
+-3,277
+543
+5,796
+7,700
+3,500
+1,000
+9,029
+2,200
+2,200
+2,400
+3,200
+4,930
+1,200
+2,400
+1,000
+400
+0
+0
+3,779
+14,596
+19,099
+3,905
+5,435
+-1,881
+423
+1,795
+5,098
+-6,042
+96
+-9,650
+4,333
+-1,771
+-7,916
+-1,734
+-2,814
+5,264
+1,883
+-2,065
+-3,677
+543
+5,796
+200 -- 200
+4,833 - 4,833
+290 -- 290
+181 -- 181
+347 -- 347
 - 107.2
 short-term notes acquired in exchange for maturing bills.
 maturity shifts and rollovers of maturing coupon issues.
+826
+1,349
+190
+3,358
+2,177
+1,938
+2,185
+893
+9,779
+4,686
+-800
+3,661
+-228
+1,361
+-163
+-24
+236
+358
+236
+2,441
+1,404
+258
+-175
+1,017
+-20
+287
+-9
+441
+293
+158
+1,858
+1,398
+284
+966 -
+284 -
 -- 500
+58.1 12.6 26.3
 and
 Excludes
+3,440
+4,185
+1,476
+17,366
+9,665
+1,315
+-975
+6,737
+-248
+2,104
+-172
+-369
 purchase sale transactions (+).
 6. The levels of agency issues were
 as follows:
+6,964
+18,619
+20,178
+20,994
+14,513
+-3,011
+7,030
+1,717
+8,776
+-6,477
+2,075
+-9,921
+3,934
+-1,771
+-7,983
+-1,884
+54
+-3,368
+5,419
+1,883
+-2,065
+-3,677
+742
+5,818
+200
+4,933
+290
+103
+1,450
+3,001
+10,033
+-11,033
+1,557
+-1,683
+-3,514
+5,220
+1,393
+-5,591
+924
+-893
+3,877
+10,002
+-5,152
+617
+3,641
+463
+-453
+3,867
+-8,435
+4,417
+-43
+-1,260
+4,201
+-5,353
+3,112
+-1,253
+-29
+-2,362
+7,661
+-7,458
+-84
+-97
 (-) of Treasury and agency securities.
 sale-purchase transactions (-), and matched
 within | 0 |

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC February 2, 1979
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -33,10 +41,20 @@ NOW's, and the usual lagged effect of higher interest rates, demand
 deposits may be declining as a result of greatly increased public
 awareness of options for holding precautionary and transactions
 balances in various interest-bearing forms in the wake of recent
+2/
+publicity associated with ATS and similar accounts.
+1/ These figures do not incorporate the benchmark revisions based on
+recently available June 1978 Call Report data for nonmember banks;
+the revised aggregates will be published on February 8. As
+shown in Appendix III, the benchmark revision was negligible
+for M-1; however, the benchmark revision increased M-2 growth
+by 0.5 per cent, with most of the increase occurring in the
+second half of the year. The revision in the aggregates for the
 June benchmark will also incorporate revised seasonal factors.
 All tables on subsequent pages of the Bluebook (with the excep-
 tion of the first two tables following the appendices) are based on
 the revised series.
+2/ In December and January, for example, money market funds--both
 open- and closed-end--increased by about $2.5 billion per month
 on average, following average increases of about $950 million a
 month in the preceding two months.
@@ -106,6 +124,8 @@ weeks immediately following the December FOMC meeting, these increases
 have been generally more than offset by declines in January. Interest
 rates on short-term private obligations, in particular, have fallen
 considerably on balance since the December meeting--generally about
+40 to 50 basis points.1/ Mortgage yields have edged up slightly,
+1/ The largest declines in short-term yields were those on CD's
 which, despite large offerings of these instruments, fell 60 basis
 points in the primary market since the December FOMC meeting. CD
 rates had increased sharply just before the meeting and the recent
@@ -129,6 +149,8 @@ shift by foreign official institutions from purchases to sales of
 (8) The table on the next page shows percentage annual
 rates of change in related monetary and financial flows over various
 time periods.
+1976 &
+1977
 Nonborrowed reserves
 Total reserves
 Monetary base
@@ -166,6 +188,18 @@ Months
 Jan.'79
 over
 1978 Jan.'78
+10.9 -3/
+2.1
+13/
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+3/ Dec. '78 over Dec. '77. 4/ Dec. '78 over June '78. 5/ Dec. '78 over Sept
+NOTE: All items are based on averages of daily figures, except for data on total
+loans and investments of commercial banks, commercial paper, and thrift institu-
+tions--which are derived from either end-of-month or Wednesday statement date
+figures. Growth rates for reserve measures in this and subsequent tables are
+adjusted to remove the effect of discontinuities from breaks in the series when
+reserve requirements are changed.
 :.'78.
 L
 Past
@@ -183,6 +217,9 @@ Past
 Months
 Jan.'79
 over
+5.95/
+57.47.4;1/
+2.3 5 /
 Prospective developments: long-run
 (9) Alternative longer-run growth ranges for the monetary
 aggregates and bank credit over the one-year QIV '78 to QIV '79
@@ -208,6 +245,8 @@ wise would have been by 3 to 3-1/2 percentage points. Given
 that assumption, alternative B proposes a 1-1/2 to 4-1/2 per cent
 range for M-1; this range assumes--unlike recent M-1 ranges--that
 the more likely growth of M-1 is at the mid-point rather than near
+1/ Including a small allowance for introduction of POA accounts
+at S&L's this spring.
 the upper end.1/ The range is narrower than that adopted in October
 but remains a little wider than earlier M-1 ranges to reflect some
 continued uncertainty about ATS effects. Alternatives A and C are
@@ -216,12 +255,14 @@ broader aggregates have been lowered, for reasons discussed in
 paragraphs (13) and (14) below.
 (11) Expansion of nominal GNP over the longer-run policy
 period, while projected to moderate, is still expected to be around
+10 per cent, and M-1 growth is likely to resume as the public brings
 its cash balances back into line with growing transactions needs.
 However, the staff expects that the demand for M-1 will not be so
 strong over the year, on average, as to require a significant change
 in the prevailing Federal funds rate if M-1 growth at the midpoint of
 the alternative B range is to be achieved over the year 1979. With
 nominal GNP projected to expand more rapidly in the first half of
+1979 than in the second, short-term rates could edge higher over the
 next few months and then recede later in the year. Alternative C, on the
 other hand, would probably involve an increase in the funds rate from
 current levels to nearly 11 per cent in the course of the year. By contrast,
@@ -229,6 +270,12 @@ alternative A would imply a reduction in the funds rate, reaching
 year-end levels about ¾ of a percentage point below the current level.
 The staff projection of the quarterly pattern of the funds rate for
 each alternative is shown in Appendix I.
+1/ A return to this more usual interpretation of the M-1 range may be
+a desirable simplification as reporting under the Humphrey-Hawkins
+Act is initiated. The 3 per cent midpoint of this range,plus allowance
+for a 3 to 3½ per cent effect on M-1 from ATS and similar accounts,
+yields the 6¼ per cent rate of growth that has been the FOMC's
+basic assumption.
 (12) The specifications imply further rapid increase
 in the velocity of M-1, even abstracting from ATS effects, as shown in
 Appendix II. The recent weakness in M-1 at a time of strong economic
@@ -244,6 +291,7 @@ growth (and thus increase V-l) by about 2 percentage points over
 the longer-run policy period.
 (13) Under alternative B, M-2 growth for the year ahead
 is expected to be in a 4½ to 7 per cent range and M-3 growth in a
+6 to 8½ per cent range, 2½ percentage points lower, respectively,
 than their current longer-run ranges for the QIII '78 to QIII '79
 period. This reduction reflects the slower rate of growth in the
 time and savings deposit component of these two aggregates that
@@ -299,9 +347,21 @@ lower to reach the low end of the alternative B range of growth,
 and 3 points higher to reach the upper end. Over the five months
 from January to June, M-1 would have to expand at a 5 per cent annual
 rate and M-2 at a 7 per cent annual rate to reach midpoint paths.
+1/ Ranges for the forthcoming short-run policy period expressed as
+three-month growth ranges are shown in Appendix V for comparison
+purposes.
+2/ Similar information for alternatives A and C are shown in Appendix
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-11 /  M-2
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1979 January 360.0 360.0 360.0 875.5 875.5 875.5
+February 361.9 361.8 361.7 880.2 880.0 879.7
+March 364.5 364.2 363.9 886.0 885.3 884.7
+1978 QIV 361.4 361.4 361.4 873.8 873.8 873.8
+1979 QI 362.1 362.0 361.9 880.6 880.3 880.0
+QII 368.0 367.0 366.1 896.6 894.9 893.5
+QIII 371.8 369.4 367.3 912.4 908.6 905.6
+QIV 374.7 372.2 368.6 929.7 924.2 919.1
 Growth Rates
 Monthly:
 Quarterly Average:
@@ -314,6 +374,14 @@ over the QIV '78 to QIV '79 period.
 Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 M-3 Bank Credit1/
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1979 January 1505.5 1505.5 1505.5 n.a. n.a. n.a.
+February 1515.5 1515.0 1514.5 n.a. n.a. n.a.
+March 1526.2 1525.0 1523.6 n.a. n.a. n.a.
+1978 QIV 1493.5 1493.5 1493.5 967.2 967.2 967.2
+1979 QI 1515.7 1515.2 1514.5 988.0 987.8 987.5
+QII 1547.0 1543.5 1540.4 1010.5 1009.7 1008.9
+QIII 1578.2 1570.8 1564.6 1034.0 1032.4 1030.8
+QIV 1611.4 1600.5 1590.7 1057.1 1055.2 1053.3
 Growth Rates
 Monthly:
 Quarterly Average:
@@ -338,7 +406,12 @@ annual rate, and would imply another substantial increase in V-1,
 at about a 12 per cent annual rate, as shown in Appendix II.
 (18) Under alternative II, M-2 is expected to expand at
 a 5 to 9 per cent annual rate range in February-March, considerably
+1/ This, of course, represents the end-point of the long-run policy
+period.
+2/ Adjusted for the retarding effects of ATS on M-1, the velocity
+increase would be 8 per cent annual rate.
 more rapidly than in the previous three months, but growth at the
+7 per cent midpoint would be a little less than needed to bring
 M-2 up to the low end of the range specified under alternative B.
 The acceleration of this aggregate reflects the expected strengthening
 of both M-1 and the interest-bearing component of M-2, with much of

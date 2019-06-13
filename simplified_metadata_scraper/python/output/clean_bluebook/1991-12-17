@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -80,6 +88,7 @@ month period. Both monetary aggregates remain right around the lower
 bounds of their target ranges.
 (5) The narrowing of opportunity costs has been most pro-
 nounced for liquid deposits. Transactions deposits expanded at about a
+20 percent rate last month, lifting Ml growth to 15-1/4 percent, despite
 a slowing in currency. Savings deposits (including MMDAs) also rose
 rapidly, but small time deposits and money fund shares continued to run
 off. Much of this runoff no doubt represented a redirection toward
@@ -125,6 +134,7 @@ percent rate in 1991, with Treasury borrowing to finance the acquisition
 of assets by deposit insurance funds adding 1/2 percentage point to
 total debt growth. Excluding the federal government, debt increased at
 a 3 percent rate over this period; in contrast to the pattern over the
+1980s, this was about in line with nominal income. In addition to
 slower growth of spending, borrowing has been held down by efforts to
 reduce debt burdens--for example, by issuing equity and drawing down
 monetary assets to finance spending. An additional factor restraining
@@ -256,15 +266,22 @@ Levels in billions
 1991 October
 November
 December
+1992 January
+February
+March
 Monthly Growth Rates
 1991 October
 November
 December
+1992 January
+February
+March
 Quarterly Ave. Growth Rates
 1991 Q1
 Q2
 Q3
 Q4
+1992 Q1
 Sep 91 to Dec 91
 Nov 91 to Mar 92
 Dec 91 to Mar 92
@@ -273,6 +290,136 @@ Q4 90 to Dec 91
 Q4 91 to Jan 92
 Q4 91 to Feb 92
 Q4 91 to Mar 92
+1992 Target Ranges:
+3395.6
+3408.2
+3416.5
+3426.5
+3438.0
+3451.2
+2.3
+4.5
+2.9
+3.5
+4.1
+4.6
+3.4
+4.7
+-0.5
+2.1
+3.7
+3.2
+3.8
+4.1
+3395.6
+3408.2
+3416.5
+3425.0
+3433.9
+3443.0
+2.3
+4.5
+2.9
+3.0
+3.1
+3.2
+3.4
+4.7
+-0.5
+2.1
+3.2
+3.2
+3.1
+3.1
+4141.0
+4150.7
+4159.9
+4164.4
+4170.0
+4176.6
+1.1
+2.8
+2.7
+1.3
+1.6
+1.9
+4.0
+1.8
+-2.5
+0.7
+1.9
+2.2
+1.9
+1.6
+4141.0
+4150.7
+4159.9
+4163.4
+4167.2
+4171.4
+1.1
+2.8
+2.7
+1.0
+1.1
+1.2
+4.0
+1.8
+-2.5
+0.7
+1.6
+2.2
+1.5
+1.1
+879.1
+890.2
+897.1
+905.7
+915.1
+925.8
+12.6
+15.2
+11.5
+12.5
+14.0
+5.9
+7.3
+6.8
+10.9
+12.0
+12.5
+12.0
+12.8
+8.0
+8.3
+11.4
+11.9
+12.5
+879.1
+890.2
+897.1
+904.9
+912.9
+921.2
+12.6
+15.2
+10.5
+10.5
+11.0
+5.9
+7.3
+6.8
+10.9
+10.9
+12.5
+10.5
+10.8
+8.0
+8.3
+10.9
+10.8
+10.9
+2.5 to 6.5 1.0 to 5.0
 between longer-term market rates and returns on M2 balances still would
 remain unusually wide, and any capital gains on market instruments could
 augment their appeal to retail investors by boosting their reported
@@ -318,6 +465,7 @@ middle portion of its range later in 1992. This impetus would be
 supplied in the first months of the year by lower opportunity costs of
 holding money, and later by the boost to income flows from the decline
 in interest rates. From November to March, M2 is projected to turn in a
+3-3/4 percent growth rate under alternative A. The acceleration would
 be wholly concentrated in liquid deposits, which should respond to the
 narrowing of their opportunity costs. While deposit rates will be
 reduced further--perhaps appreciably at some institutions, if lower
@@ -424,6 +572,10 @@ Short-Term Long-Term
 CDs money corpoate convntonal home mortgage
 federal Treasury blle eeconday comm. market bank U.S. government constant A-utlty municipal co y primaryhm eondavuk market pper mutual prim maturty ylI recntly Bond martoat market
 -monh -month I 1-year 3-month 1-month fund loka 3-year 10-year 30-year ffered Buyer Ifixed-rate fIad-iae RM
+90 -High
+- Low
+91 -High
+- Low
 Monthly
 Dec 90
 Jan 91
@@ -434,6 +586,8 @@ Jun 91
 Jul 91
 Aug 91
 Sep 91
+91
+Nov 91
 Weekly
 Aug 28 91
 Sep 4 91
@@ -455,6 +609,74 @@ Daily
 Dec 6 91
 Dec 12 91
 Dec 13 91
+8.33
+7.16
+7.46
+4.54
+4.79
+4.54
+6.74 6.70
+5.36 5.40
+7.97
+6.51
+6.43
+4.27
+4.42
+427
+4.30
+4.24
+4.22
+8.58
+7.63
+7.75
+4.57
+4.84
+4.57
+8.60
+7.80
+8.49
+4.90
+5.10
+5.00
+720 10.00
+4.66
+4.63
+7.50
+7.50
+9.09
+7.42
+7.47
+5.52
+5.68
+5.52
+5.58
+5.43
+5.46
+9.07
+7.94
+8.35
+7.22
+729
+7.22
+7.90
+7.80
+8.80
+8.76
+7.40
+6.86
+6.96
+6.90
+9.91 9.56
+8.62
+8.53
+8.71
+8.67
+8.63
+7.86
+7.78
+623
+6.29
+6.23
 p - preliminary data
 Strictly Confidential (FR)
 Money and Credit Aggregate Measures Class II FOMC
@@ -465,6 +687,9 @@ Period Ml M2 components M3 L and government' other' total'
 in M2 in M3 only iivestments
 ANN. GROHTH RATES (%)
 ANNUALLY (04 TO 04)
+1988
+1989
+1990
 QUARTERLY AVERAGE
 1990-4th QTR.
 1991-1st QTR.
@@ -472,12 +697,190 @@ QUARTERLY AVERAGE
 1991-3rd QTR.
 MONTHLY
 1990-NOV.
+1991-JAN.
+FEB.
+MAR.
+APR.
+MAY
+JUNE
+JULY
+AUG.
+SEP.
+OCT.
+NOV. p
 LEVELS ISBILLIONS) :
 MONTHLY
+1991-JULY
+AUG.
+SEP.
+OCT.
+NOV. p
 NEEKLY
 1991-NOV. 4
 DEC. 2 p
+4.2
+0.6
+4.2
+3.1
+3.1
+1.9
+14.1
+9.5
+-1.3
+13.5
+12.6
+15.2
+859.5
+866.1
+870.0
+879.1
+890.2
+883.8
+885.4
+888.9
+890.4
+5.2
+4.7
+3.8
+-0.3
+1.5
+3389.2
+3389.0
+3389.0
+3395.6
+3408.2
+3398.1
+3403.8
+3409.4
+3411.4
+5.5
+6.1
+3.7
+1.5
+2.6
+3.9
+-1.4
+1.0
+2529.7
+2522.9
+2518.9
+2516.6
+2518.0
+2514.2
+2518.4
+2520.5
+2521.0
+10.7
+-0.6
+-6.4
+-3.6
+6.4
+-10.5
+-11.3
+0.3
+-2.0
+14.2
+18.6
+-18.2
+-9.2
+-11.0
+-4.7
+-4.5
+758.1
+755.1
+748.2
+745.3
+742.5
+741.4
+743.2
+741.8
+744.0
+6.3
+3.6
+1.7
+0.9
+4.0
+1.8
+-0.2
+0.8
+1.1
+2.8
+4147.3
+4144.2
+4137.2
+4141.0
+4150.7
+4139.5
+4147.1
+4151.2
+4155.4
+7.2
+4.8
+1.9
+1.8
+3.3
+-2.4
+0.2
+1.3
+1.5
+4.0
+6.5
+0.1
+-2.1
+-2.5
+4983.3
+4974.5
+4964.2
+4978.9
+7.7
+7.5
+5.4
+1.3
+3.1
+-0.6
+5.5
+0.0
+2763.3
+2761.6
+2768.9
+2784.5
+2799.1
+8.0
+7.5
+11.6
+11.9
+5.6
+13.7
+16.2
+12.9
+10.2
+14.3
+2671.9
+2707.0
+2738.1
+2770.8
+2797.2
+9.5
+7.8
+5.3
+2.7
+1.7
+8032.1
+8048.8
+8071.5
+8092.8
+8112.1
 by averaging end-of-month levels of adjacent months, and have been adjusted to remove
+9.2
+7.7
+6.6
+5.9
+4.4
+10704.0
+10755.8
+10809.6
+10863.6
+10909.3
 Strictly Confidential (FR)
 Components of Money Stock and Related Measures Class II FOMC
 seasonally adjusted unless otherwise noted DEC. 16, 1991
@@ -493,6 +896,228 @@ ANNUALLY (4TH QTR.
 1990
 MONTHLY
 1990-NOV.
+210.8 287.3 280.1
+220.9 278.9 282.9
+245.1 277.1 292.8
+245.0
+246.4
+251.6
+255.1
+256.7
+256.6
+256.8
+257.6
+258.9
+260.8
+262.4
+264.4
+265.3
+277.2
+276.9
+272.9
+276.1
+277.1
+275.8
+278.7
+281.0
+278.9
+279.8
+279.3
+282.6
+287.5
+292.8
+293.8
+293.9
+296.9
+301.0
+301.9
+308.1
+311.9
+314.1
+317.9
+320.5
+324.1
+329.4
+83.4
+76.1
+78.6
+77.8
+74.3
+71.5
+70.4
+69.5
+70.1
+68.9
+68.5
+65.3
+67.9
+67.1
+69.3
+71.4
+930.3 1022.4
+884.9 1142.4
+917.6 1162.5
+917.8 1161.8
+916.7 1164.2
+917.1
+926.9
+939.7
+953.8
+969.2
+981.0
+990.0
+996.2
+1013.2
+1025.0
+1163.8
+1162.5
+1158.0
+1149.4
+1138.9
+1126.6
+1115.3
+1106.6
+1098.3
+1085.2
+1071.1
+237.5
+308.9
+343.0
+341.9
+345.4
+354.0
+358.4
+364.0
+365.1
+366.5
+366.3
+361.4
+355.0
+351.6
+350.3
+348.8
+86.7
+101.4
+121.9
+120.5
+125.7
+130.1
+139.3
+142.0
+145.6
+146.2
+143.3
+141.8
+144.8
+149.3
+155.4
+161.0
+538.8
+565.0
+511.6
+512.5
+507.1
+511.9
+516.0
+511.5
+507.3
+503.9
+498.7
+491.2
+484.7
+476.7
+467.0
+460.0
+123.2
+106.6
+95.1
+89.4
+87.3
+85.8
+82.0
+80.8
+79.5
+77.0
+78.2
+78.2
+77.1
+75.9
+75.5
+102.8
+80.2
+70.5
+70.0
+71.4
+71.9
+72.6
+71.1
+68.2
+65.4
+64.8
+65.8
+66.4
+63.9
+62.8
+61.5
+108.8
+116.8
+125.2
+125.2
+126.0
+126.7
+127.8
+128.9
+130.1
+131.4
+132.5
+133.5
+134.4
+135.3
+266.8
+321.5
+333.2
+333.8
+335.4
+333.2
+331.4
+327.8
+307.6
+299.6
+326.8
+337.5
+335.1
+329.7
+326.6
+350.4
+359.1
+359.0
+359.4
+363.2
+355.9
+353.0
+338.6
+323.7
+327.3
+337.2
+333.8
+337.0
+40.5
+40.4
+33.8
+34.0
+34.7
+36.0
+35.2
+32.4
+30.7
+28.8
+27.7
+27.8
+27.0
+25.0
+1991-JAN.
+FEB.
+MAR.
 APR.
 MAY
 JUNE
@@ -502,19 +1127,186 @@ SEP.
 OCT.
 NOV. p
 December 13,1991
+1991 --Q1
+-02---Q2
+-03
+1990 December
+1991 January
+February
+March
+April
+May
+June
+Jul
+August
+September
+October
+November
 Weekly
 September 4
+11
+18
+25
 December 4
 11
 Memo: LEVEL (b $)6
 December 11
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Mllilonr of dollar, not mesonally adjualed
+7,635 2,200
+1,468 12.730
+17,448 4,400
+-3,790 1.400
+10,82 -
+5.115 -
+5.241 3,000
+2,160
+4,356
+7.664
+-120
+1,967
+313
+908
+3,411
+37
+1.308
+5,776
+529
+2196
+3.023
+4,003
+15
+2438
+626
+671
+187
+593
+444
+5,435
+-11263
+13.048
+-5.199
+10.882
+5.115
+2241
+1.160
+4.356
+7,664
+-1,120
+1,967
+313
+908
+3,411
+37
+1,309
+5,776
+529
+2198
+3.023
+4,083
+15
+2438
+626
+671
+1,287
+593
+444
+2,176
+327
+425
+4,685
+946
+100
+150
+2,950
+560
+650
+1,404 1,396
 - -200 -100 -
+2,950
+550
+175
+450
+400
+1,166
+31.1 63.5
 - 9,665
 500 1,315
 - 375
+4,150
+1,450
+1,815
+450
+3,700
+1,250
+625
+340
+850
+14.5 24.5 133.6
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
+14,513
+-10,390
+13.240
+-5.000
+10.964
+5.045
+2,230
+1,557
+-1.683
+-4.061
+509
+-2,124
+16,805
+5,310 -16.864
+5,715 992
+9.419 152
+-1,120
+2,417
+4,013
+2.067
+3,611
+37
+1.929
+6,116
+1,374
+2,185
+5,972
+4,093
+185
+829
+-3
+-10
+2,538
+977
+1,071
+1,637
+2.342
+-944
+-1,127
+-14.793
+1.370
+-1,153
+775
+71
+-2,134
+2,216
+6.942
+10,301
+-11.492
+15.116
+-15,745
+1,027
+-2,429
+6,347
+-5.179
+914
+2.650
+9,016
+-11.969
+1,550
+535
+1,985
+278.6 -2.8
 - -- ---------- - --- ------ -- ---
 Decewber 11

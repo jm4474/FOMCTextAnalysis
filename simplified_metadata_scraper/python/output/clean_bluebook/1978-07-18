@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 July 14, 1978Strictly Confidential (FR) Class I FOMC
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -44,6 +52,9 @@ M-2 6 to 10 9.1
 Memo: Federal funds Avg. for statement
 rate (per cent week ending
 per annum) 7 to 8 June 21 7.53
+28 7.78
+July 5 7.72
+12 7.72
 (2) Following the June meeting the Account Management,
 in accordance with the Committee's instructions, adopted operating
 policies to raise the Federal funds rate by a ¼ of a percentage
@@ -57,6 +68,7 @@ mid-year increase in the discount rate to 7-1/4 per cent. Reflecting
 in part the decrease in member bank borrowing and a rise in reserves
 required to support Government deposits after the mid-June tax date,
 growth in nonborrowed reserves is expected to accelerate to around a
+20 per cent annual rate over the June-July period.
 (3) Both long- and short-term interest rates generally
 have risen 1/8 to 3/8 of a percentage point since the June FOMC
 meeting, reflecting for the most part the somewhat tighter monetary
@@ -88,6 +100,8 @@ time periods.
 Past Past Past
 Twelve Six Three Past
 Months Months Months Month
+1976 & June '78 June '78 June '78 June '78
+1977 over over over over
 Average June '77 Dec. '77 Mar. '78 May '78
 Concepts of Money
 M-1 (Currency plus demand
@@ -97,6 +111,13 @@ all commercial banks 2/
 Short-term Market Paper
 (Monthly average change
 in billions)
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total loans
+and investments of commercial banks, commercial paper, and thrift institutions--which
+are derived from either end-of-month or Wednesday statement date figures. Growth rates
+for reserve measures in this and subsequent tables are adjusted to remove the effect
+of discontinuities from breaks in the series when reserve requirements are changed.
 Prospective developments
 (6) Alternative longer-run growth ranges for the monetary
 aggregates over the QII '78 to QII '79 period are shown below for
@@ -145,6 +166,7 @@ rates rise would contribute to an increase in velocity, but--given
 the interest rates assumed--the 4 per cent rise that is projected
 also presupposes a further modest downward shift in the demand
 for money. Such a shift could develop as higher interest rates
+1/ Projected velocity changes are shown in Appendix II.
 induce more intensive marketing of earlier innovations and cash
 management services. Over recent quarters, however, the demand
 for money has been about as strong as would be expected from historical
@@ -167,6 +189,8 @@ increase in deposit rate ceilings this fall;1/ without such an
 increase, M-2 growth would be near the low end of its longer-run
 (11) In view of the persistent tendency for M-1 to
 grow above its longer-run ranges over the past several quarters on
+1/ We have assumed a 25 basis point increase in ceiling rates on
+all deposits with maturities of four years or more.
 average, a considerable moderation of M-1 growth over the next year
 would be required to compensate for such overshoots and bring
 M-1 growth to within a 4 to 6¼ per cent range over periods longer
@@ -181,12 +205,16 @@ periods beginning with the second quarter of 1977. As shown in the
 lower panels of appendix tables III-2 and III-3, under all alternatives
 M-2 and M-3 would grow within their current 6½ to 9 and 7½ to 10 per
 cent longer-run ranges for periods starting with the fourth quarter of
+1976 and ending in QII '79.
 (12) If the regulation authorizing automatic transfers
 from savings to demand deposits for commercial banks becomes
 effective as scheduled on November 1, measured M-1 growth may be
 reduced by 1 to 3 percentage points over the QII '78 to QII '79
 period.1/ However, there is great uncertainty about such estimates
 since we do not know the pricing policies that commercial banks will
+1/ A suit to delay the effective date of the regulation, brought
+by the Savings and Loan League, is now before the courts. No
+decision is likely before October.
 adopt; these policies, of course, will affect the attractiveness
 of the service to households and the willingness of individuals
 to transfer demand balances to savings accounts. A lower growth of
@@ -214,6 +242,14 @@ term data are shown in the tables on pp. 10 and 11.)
 Alternative Levels and Growth Rates for Key Monetary Aggregates
 M-1 M-2
 Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+1978 June 350.4 350.4 350.4 840.6 840.6 840.6
+July 353.0 353.0 352.9 847.6 847.6 847.3
+August 354.6 354.5 354.2 853.2 853.0 852.3
+1978 QII 348.4 348.4 348.4 835.1 835.1 835.1
+QIII 354.9 354.7 354.3 853.5 853.1 852.3
+QIV 361.5 359.6 358.3 872.2 869.2 866.9
+1979 QI 367.8 364.7 362.1 890.5 885.4 880.9
+QII 373.8 370.2 366.7 908.6 902.2 895.9
 Growth Rates
 Monthly:
 Quarterly Average:
@@ -221,12 +257,110 @@ Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
 Alt. A Alt. B Alt. C
 Bank Credit
 Alt. A Alt. B Alt. C
+1978 June
+July
+August
+1978 QII
+QIII
+QIV
+1979 QI
+QII
+1429.6
+1441.3
+1451.5
+1420.1
+1451.7
+1483.8
+1514.7 1506.7 1499.5
+1545.3 1534.7 1524.4
 Growth Rates
 Monthly:
+1978 July
+August
 Quarterly Average:
+1978 QIII
+QIV
+1979 QI
+QII
 QII '78-QIV '78
 QIV '78-QII '79
 QII '78-QII '79
+8.9
+8.8
+8.3
+8.1
+9.0
+8.3
+8.7
+7.8
+7.4
+7.4
+8.3
+7.5
+9.4
+7.6
+8.4
+7.1
+6.5
+6.6
+7.8
+6.6
+10.9
+9.4
+10.5
+9.6
+9.1
+8.9
+10.2
+9.1
+10.9
+8.8
+10.2
+9.0
+10.6
+8.2
+9.8
+8.4
+9.2
+8.2
+8.8 8.1 7.3
+1429.6
+1441.2
+1450.9
+1420.1
+1450.9
+1479.3
+1429.6
+1440.8
+1449.9
+1420.1
+1449.9
+1475.7
+924.0
+932.4
+939.7
+916.3
+940.4
+963.0
+985.0
+1007.0
+924.0
+932.4
+939.2
+916.3
+939.7
+960.8
+981.7
+1002.8
+924.0
+932.2
+938.6
+916.3
+938.8
+958.5
+978.2
+997.9
+9.9 9.4 8.9
 Alt. A or B Alt. C
 Ranges for July-August
 M-1 5 to 9 4½ to 8½

@@ -93,6 +93,8 @@ Chart 1
 Asset Market Developments
 Jan. Mar. May June Aug.
 2007
+1400
+Billions of dollars
 ABCP
 Unsecured
 Weekly (Wed., s.a.)
@@ -101,6 +103,8 @@ Aug. FOMC
 Last weekly observation is for September 12, 2007.
 June July Aug. Sept.
 2007
+5.8
+Percent
 Overnight
 One-month
 Fed Funds Rates
@@ -114,6 +118,8 @@ FOMC
 Corporate Bond Spreads*
 *Measured relative to an estimated off-the-run Treasury yield curve.
 Last daily observation is for September 13, 2007.
+170
+Index(12/31/00=100)
 Wilshire
 Dow Jones Financial
 Aug.
@@ -128,6 +134,8 @@ Corporate Earnings Growth* Percent
 Source. I/B/E/S for S&P 500 EPS.
 Q3
 Q2 e
+100
+Percent
 S&P 500
 Nasdaq
 Implied Volatilities
@@ -278,6 +286,10 @@ appeared to solidify market expectations for a near-term policy easing.
 Class I FOMC - Restricted Controlled (FR) Page 8 of 49
 Chart 2
 Interest Rate Developments
+2008
+3.5
+6.0
+Percent
 September 13, 2007
 August 6, 2007
 Expected Federal Funds Rates*
@@ -287,8 +299,12 @@ Implied Distribution of Federal Funds Rate Six
 Months Ahead*
 Recent:  09/13/2007
 Last FOMC:  08/06/2007
+30
+Percent
 *Derived from options on Eurodollar futures contracts, with term premium 
 and other adjustments to estimate expectations for the federal funds rate.
+280
+Percent Basis points
 Ten-Year Treasury (left scale)
 Six-Month Eurodollar (right scale)*
 Implied Volatilities
@@ -296,6 +312,8 @@ Implied Volatilities
 structures for the expected federal funds rate and implied volatility.
 Aug.
 FOMC
+7
+Percent
 Ten-Year
 Two-Year
 Nominal Treasury Yields*
@@ -308,6 +326,8 @@ since Last FOMC Meeting*
 Years Ahead
 *Forward rates are the one-year rates maturing at the end of the year shown
 on the horizontal axis that are implied by the smoothed Treasury yield curve.
+90
+Percent $/barrel
 Next Five Years (left axis)
 Five-to-Ten Year Forward (left axis)
 Spot WTI (right axis)
@@ -430,6 +450,18 @@ Q4
 Q1
 Q2
 Q3p
+7.9
+7.1
+6.7
+10.3
+8.5
+6.9
+8.9
+10.6
+8.3
+7.1
+7.1
+5.1
 Growth of Debt of Household Sector
 Percent
 Quarterly, s.a.a.r.
@@ -449,12 +481,16 @@ Commercial Paper
 Bonds
 Changes in Selected Components of Debt of
 Nonfinancial Business*
+2005 H1 H2 Q1 Q2 Aug.
+2006 2007
 Monthly rate
 *Commercial paper and C&I loans are seasonally adjusted, bonds are not.
 e Estimated.
 Growth of M2
 s.a.a.r.
 Percent
+2005 H1 H2 Q1 Q2 Aug.
+2006 2007
 e Estimated.
 M2 Velocity and Opportunity Cost
 VelocityPercent
@@ -482,6 +518,7 @@ depreciate a little less than 2 percent per year.  Spot oil prices are expected 
 lower, in line with futures market quotes.  Against this backdrop, real GDP is forecast
 to expand at a 2½ percent annual rate in the current quarter, but to slow to an annual
 rate of 1 percent in the fourth quarter before picking up to around 1¾ percent in
+2008.  This outlook is a good bit weaker than in the previous forecast and envisions
 actual GDP growing more slowly than potential on average.  This Greenbook extends
 the forecast through 2009; in that year real GDP growth is projected to pick up to a
 pace slightly above that of potential GDP.  In this forecast, the staff has revised down
@@ -497,9 +534,11 @@ down its inflation forecast a bit.  Core PCE inflation is forecast to average 2 
 in the second half of this year before edging down to just under 2 percent in the next
 two years.  With energy prices decelerating, total PCE inflation is projected to average
 close to 2 percent in the second half of this year and to fall to around 1¾ percent in
+2008 and 2009.
 Update on Medium-Term Strategies
 (16) This section provides an update of the materials on medium-term strategies
 for monetary policy that were presented in the August Bluebook.  As shown in Chart
+5, the Greenbook-consistent measure of short-run r* has been revised downward by
 about 50 basis points and now stands at 2.8 percent, about 60 basis points below the
 actual real federal funds rate.2  This downward revision largely reflects the staff’s
 assessment of the implications for aggregate demand of the recent financial
@@ -509,10 +548,16 @@ prices, contributed to a fall in consumer confidence, and worsened the prospects
 foreign real activity.  In addition, anecdotal information and some of the statistical
 data that pertain directly to the period since the onset of financial turbulence have
 been downbeat.  The three model-based estimates of short-run r* range from 1.8 to
+2.6 percent, about the same range as in the August Bluebook; it should be noted
 that these three measures do not incorporate current-quarter information or
+2  For the current quarter, the actual real rate is constructed as the difference between the 
+nominal funds rate target as of the Bluebook publication date and the average core PCE 
+inflation rate over the past year.
 Class I FOMC - Restricted Controlled (FR) Page 16 of 49
 Chart 5
 Equilibrium Real Federal Funds Rate
+8
+Percent
 Short-Run Estimates with Confidence Intervals
 Short-Run and Medium-Run Measures
 Actual real federal funds rate
@@ -556,11 +601,27 @@ both specifications of the inflation goal, the prescriptions for policy through 
 revision to aggregate demand.  The path of the unemployment rate over the next
 several years in each simulation is little changed from the previous Bluebook, while
 the subsequent decline reflects the downward revision of the staff’s assessment of the
+3  The characteristics of the extension are described in the memo to the Committee by Jean-
+Philippe Laforte, “The Extended Greenbook Forecast,” September 12, 2007. 
+4  The FRB/US model is specified at a quarterly frequency and utilizes the quarterly average 
+value of the federal funds rate.  Therefore, in representing the interest rate smoothing 
+motive in optimal policy simulations, it is necessary to account for the timing of the FOMC 
+meeting within the initial quarter of the simulation (2007Q3 in the current Bluebook) 
+because a funds rate change late in the quarter has a smaller effect on the average funds  
+rate than if the same change had occurred earlier in the quarter.  Starting with this Bluebook, 
+this consideration is captured in the optimal policy simulations by assigning a greater penalty 
+to an interest rate change in the initial quarter of the simulation compared with the penalty 
+on interest rate changes in subsequent quarters; the increase in the penalty depends on the 
+relative timing of the FOMC meeting within the quarter.  The paths shown in Chart 6 for 
+the August Bluebook are those actually shown in the previous Bluebook and were computed 
+under the previous procedure, which did not impose any increased penalty for interest rate 
+changes in the initial quarter of each simulation.
 Class I FOMC - Restricted Controlled (FR) Page 18 of 49
 NAIRU.  The paths for core PCE inflation through 2010 are slightly lower than in
 (18) As shown in Chart 7, the outcome-based monetary policy rule prescribes a
 funds rate path that declines to about 4¼ percent in the second half of 2008—about
 ¾ percentage point lower than in the August Bluebook—and then rises about
+50 basis points through the rest of the decade.  Stochastic simulations of the FRB/US
 model indicate a 70 percent probability that the funds rate will be in a range of 3 to 6
 percent at the end of next year.5  Financial market participants’ expectations regarding
 the funds rate path from 2008 through 2012 appear to have declined about
@@ -579,6 +640,8 @@ consideration, summarized in Table 1.  Language that was not shown in the either
 the Committee’s August FOMC statements is shown in red, while wording from the
 unscheduled August 17 statement is colored blue.  The statements from the August 7
 and 17 FOMC meetings are shown on page 23.  Under Alternatives A and B, the
+5  The width of these confidence intervals is determined by the past two decades of 
+estimated model residuals and hence does not change in response to incoming data.
 Class I FOMC - Restricted Controlled (FR) Page 20 of 49
 Table 1: Alternative Language for the September 2007 FOMC Announcement
 Alternative A Alternative B Alternative C Alternative D
@@ -743,6 +806,7 @@ Greenbook-consistent equilibrium value (Chart 5) and is also above the range of
 model-based equilibrium estimates, suggesting that a half-point easing in policy is
 unlikely to lead to unacceptable pressures on resources.  A 50 basis point rate cut is
 also consistent with the prescriptions of a number of simple policy rules, even with a
+1½ percent inflation objective (Chart 7).  A relatively aggressive easing of policy might
 also be viewed as valuable insurance against the risk of a further slide in investor and
 consumer confidence or a possible further deterioration in financial market
 conditions.  Should such fears ultimately prove to be unfounded, and financial
@@ -936,6 +1000,7 @@ policy to be eased at the next meeting, if such a move appears necessary at that
 Members may be particularly attracted to this alternative if they see a risk that a
 premature easing of policy could cause long-run inflation expectations to drift
 upwards.  Indeed, optimal policy simulations with a 1½ percent inflation goal (Chart
+6) suggest that policy should actually be tightened further at some point this year.
 (30) The draft statement accompanying Alternative D retains the observation
 that economic growth was moderate during the first half of the year.  It adopts
 language from the August 17 statement about recent financial developments and
@@ -956,6 +1021,7 @@ market participants marked up the odds of slow growth or a recession in light of
 decision to leave policy unchanged.
 Money and Debt Forecasts
 (32) Under the Greenbook forecast, M2 growth is projected to average about
+4½ percent at an annualized rate over the second half of 2007 and to continue to
 expand at roughly that rate in 2008 and 2009.  The projected growth rate of M2
 through the end of this year is a bit faster than in the August Greenbook, reflecting
 the easier path of policy now assumed.
@@ -971,6 +1037,7 @@ Table 2
 Alternative Growth Rates for M2
 (percent, annual rate)
 M2 M2
+50 bp Easing 25 bp Easing No change Greenbook Forecast*
 Monthly Growth Rates
 Quarterly Growth Rates
 Annual Growth Rates

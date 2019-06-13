@@ -10,11 +10,24 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 DECEMBER5, 2002
 MONETARY POLICY ALTERNATIVES
 PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
 BYTHE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+1 The federal funds rate averaged close to 1-1/4 percent over the intermeeting
+period.  To counteract reserve drains from the year-end increase in currency, the Desk
+expanded outstanding long-term RPs from $6 billion to $18 billion.  The Desk also
+purchased $653 million of Treasury coupon issues in the market and $250 million of
+Treasury bills from foreign central banks.
 Strictly Confidential (F.R.) December 5, 2002
 Class II – FOMC
 MONETARY POLICY ALTERNATIVES
@@ -41,12 +54,16 @@ Chart 1
 Financial Market Indicators
 Dec Mar Jun Sep Dec Mar Jun Sep
 2002 2003 2004
+4
+Percent
 November 5, 2002
 December 5, 2002
 Expected Federal Funds Rates Estimated from
 Financial Futures*
 *Estimates from federal funds and eurodollar futures rates with an
  allowance for term premia and other adjustments.
+6
+ Percent
 November 5, 2002
 December 5, 2002
 Treasury Yield Curve*
@@ -56,6 +73,8 @@ securities.  Yields shown are those on notional par Treasury securities
 with semi-annual coupons.
 Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
 2000 2001 2002
+3.5
+Percent
 Long-Run Inflation Expectations
 Michigan Survey
 Philadelphia Fed Survey
@@ -65,11 +84,17 @@ Compensation*
 the value of a portfolio of nominal securities with the same payments.
 Jun Jul Aug Sep Oct Nov Dec
 2002
+5.6
+Index Percent
 S&P 500 Index
 (Left Scale)
 Ten-year Treasury
 (Right Scale)
 S&P 500 and the Ten-year Treasury
+9
+Percent
+12-Month Forward Earnings-Price Ratio
+for S&P 500 and 10-Year Treasury
 Monthly
 E/P ratio
 Real 10-year Treasury yield*
@@ -79,6 +104,8 @@ inflation.
 data from I/B/E/S.
 Apr May Jun Jul Aug Sep Oct Nov
 2002
+55
+Percent
 S&P 100 (VIX)
 Stock Market Volatility
 The FOMC’s decision to lowerthe target rate to1-1/4 percent at its November
@@ -120,6 +147,7 @@ market conditions generally improved in the weeks prior to the November FOMC
 meeting and have improved somewhat further over the intermeeting period, helping
 to keep year-end pressures subdued thus far (see the box on page 4).
 (3) The dollar’s value against major foreign currencies strengthened about
+3/4 percent on a trade-weighted basis over the intermeeting period.  In the euro area,
 signs of increasing economic weakness prompted the European Central Bank to lower
 policy rates 50 basis points today, somewhat more than had been built into market
 prices.  For the period as a whole, yields on long-term government debt in the Euro
@@ -130,16 +158,23 @@ Chart 2
 Financial Market Indicators
 Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
 2000 2001 2002
+350
+Basis points
 Ten-year AA
 Ten-year BBB
 Ten-year Swap
 Spreads of Selected Private Long-Term Yields
 Jul Sep Nov Jan Mar May Jul Sep Nov
 2001 2002
+1500
+Basis Points Basis Points
+High-Yield Debt Spreads
 Telecom Sector
 Master II
 Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
 2000 2001 2002
+114
+Index(8/31/00 = 100)
 Broad Index
 Major
 Currencies Index
@@ -149,6 +184,8 @@ Nominal Trade-Weighted Dollar
 Exchange Rates
 Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
 2000 2001 2002
+3000
+Basis Points
 EMBI+ Index
 Year-end Pressures and Credit Market Conditions
 As shown in thebottom-left panel, term funding pressuresover year-end in the
@@ -171,6 +208,8 @@ improved considerably in the investment-grade corporate bond market. Liquidity i
 the junkbond market reportedly remainssub-par,but some market participantshave
 noted an improved tone of late accompanying the sizable inflows to junk bond mutual
 funds.
+2             
+     .  The Desk did not intervene for the accounts of the
 System or the Treasury.
 The announcement of reforms in late November omitted some key details, but
 market participants judged that the full plan will be inadequate to the task.  After the
@@ -265,12 +304,15 @@ have been unnecessary, the likely persistence of some economic slack for at leas
 Chart 3
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
+5
+Percent
 Actual Real Funds Rate
 TIIS-Based EstimateHistorical Average: 2.72
   (1966Q1-2002Q3)
 Current Rate
 25 b.p. Easing
 Equilibrium Real Funds Rate Estimates (Percent)
+2001 2002H1 2002Q3 2002Q4    ____ ______ ______ ______
 November Bluebook
 November Bluebook
 November Bluebook
@@ -526,6 +568,8 @@ Bonds
 Growth of Components of
 Nonfinancial Business Debt
 Billions of dollars
+2001 2002
+H1 H2 J F M A M J J A S O N
 Monthly rate
 * Seasonally adjusted.
 e Estimated.
@@ -560,6 +604,7 @@ Buyer
 Conventional home
 mortgages
 primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 SELECTED INTEREST RATES
 (percent)
 p - preliminary data
@@ -599,6 +644,10 @@ Dec
 Dec  
 Dec  
 Dec
+01   -- High
+-- Low
+02   -- High
+-- Low
 Strictly Confidential (FR)-
 Class II FOMC
 December 9, 2002
@@ -648,6 +697,177 @@ Weekly
             11     
             18p    
             25p
+1.9
+    -1.7
+     6.8
+2.1
+     5.9
+    -0.6
+     2.4
+2.9
+    16.0
+         
+      3.7
+      1.9
+      3.0
+    -11.2
+      6.8
+      6.9
+      7.3
+    -14.2
+      8.1
+      8.5
+     -3.8
+1190.2
+   1197.4
+   1183.2
+   1191.2
+   1199.6
+1174.9
+   1193.4
+   1197.9
+   1217.8
+         
+   1200.4
+   1191.2
+   1195.8
+   1202.7
+6.3
+     6.1
+    10.3
+9.5
+     5.4
+     3.3
+    10.3
+10.4
+     9.8
+2.1
+      6.7
+     -1.3
+     -3.6
+     14.4
+      7.4
+     12.7
+      9.5
+      5.3
+     10.2
+      8.8
+5576.4
+   5635.5
+   5680.2
+   5705.3
+   5753.8
+5716.4
+   5746.0
+   5754.4
+   5777.0
+         
+   5777.0
+   5790.4
+   5817.9
+   5799.7
+7.8
+     8.6
+    11.3
+11.5
+     5.3
+     4.4
+    12.4
+12.5
+     8.1
+1.7
+      8.0
+     -2.4
+     -1.5
+     16.5
+      7.4
+     14.2
+     16.0
+      4.5
+     10.7
+     12.1
+4386.1
+   4438.1
+   4497.1
+   4514.1
+   4554.2
+4541.4
+   4552.5
+   4556.5
+   4559.2
+         
+   4576.7
+   4599.2
+   4622.1
+   4597.1
+11.2
+    17.4
+    18.5
+18.3
+     3.1
+     2.8
+     3.5
+20.7
+    12.4
+-8.3
+      3.6
+      0.3
+      1.6
+      6.5
+      3.1
+     -1.8
+     11.3
+      1.8
+    -13.9
+     43.1
+2582.7
+   2578.9
+   2603.2
+   2607.1
+   2576.9
+2572.2
+   2569.0
+   2569.4
+   2583.2
+         
+   2591.1
+   2618.3
+   2687.0
+   2725.3
+7.7
+     9.3
+    12.8
+12.2
+     4.6
+     3.1
+     8.1
+13.7
+    10.6
+-1.2
+      5.7
+     -0.8
+     -2.0
+     11.9
+      6.0
+      8.1
+     10.1
+      4.2
+      2.6
+     19.4
+8159.1
+   8214.4
+   8283.4
+   8312.5
+   8330.7
+8288.6
+   8315.0
+   8323.8
+   8360.3
+         
+   8368.1
+   8408.8
+   8504.9
+   8525.1
 Period
 In M3 onlyIn M2
 p    preliminary       
@@ -659,13 +879,20 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
 Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+1999 --- --- --- 11,895 19,731 4,303 9,428 1,429 43,928 157 43,771 2,035 8,347 10,382
+2000 8,676 24,522 -15,846 8,809 14,482 5,871 5,833 3,779 31,215 51 15,318 -2,163 7,133 4,970
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2001 QIII 3,965 1,543 2,422 1,619 5,854 1,691 1,535 5,723 4,976 --- 7,398 3,832 2,587 6,419
 QIV 4,659 --- 4,659 5,761 2,577 982 1,632 473 10,479 --- 15,138 -4,223 10,847 6,624
+2002 QI 6,827 --- 6,827 4,349 6,153 971 1,927 --- 13,401 --- 20,228 -1,961 -2,191 -4,152
 QII 8,227 --- 8,227 5,535 2,580 2,471 210 --- 10,796 --- 19,023 -2,644 -4,563 -7,207
 QIII 6,117 --- 6,117 2,835 3,676 1,318 143 --- 7,972 --- 14,089 -3,067 -5,225 -8,291
+2002 Apr 1,047 --- 1,047 2,709 1,142 1,670 210 --- 5,730 --- 6,777 1,211 -3,714 -2,503
 May 3,524 --- 3,524 2,826 1,439 259 --- --- 4,524 --- 8,048 -2,091 133 -1,958
 Sep 750 --- 750 1,286 --- 51 --- --- 1,337 --- 2,087 1,084 -1,026 59
 Oct --- --- --- --- --- --- --- --- --- --- --- 2,779 -4,716 -1,937
 Nov 250 --- 250 --- --- --- --- --- --- --- 250 2,910 4,616 7,526
+2002 Sep 11 236 --- 236 --- --- --- --- --- --- --- 236 -6,152 --- -6,152
 Sep 18 205 --- 205 1,286 --- 51 --- --- 1,337 --- 1,542 77 -1,000 -923
 Sep 25 200 --- 200 --- --- --- --- --- --- --- 200 -4,432 --- -4,432
 Oct 2 --- --- --- --- --- --- --- --- --- --- --- 6,518 -1,000 5,518
@@ -678,6 +905,7 @@ Nov 13 --- --- --- --- --- --- --- --- --- --- --- 1,608 3,000 4,608
 Nov 20 --- --- --- --- --- --- --- --- --- --- --- 675 3,000 3,675
 Nov 27 250 --- 250 --- --- --- --- --- --- --- 250 1,516 1,714 3,230
 Dec 4 --- --- --- --- 339 314 --- --- 653 --- 653 -1,408 4,286 2,878
+2002 Dec 5 --- --- --- --- --- --- --- --- --- --- --- -1,916 --- -1,916
 Intermeeting Period
 Nov 6-Dec 5 250 --- 250 --- 339 314 --- --- 653 --- 903 -4,852 12,000 7,148
 Memo: LEVEL (bil. $)

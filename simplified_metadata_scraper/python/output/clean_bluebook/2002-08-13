@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
 AUGUST 8, 2002
 MONETARY POLICY ALTERNATIVES
@@ -50,12 +58,14 @@ ndex(8/31/00 = 100) Implied Volatility of the
 S&P 100 (VIX)
 Index(8/31/00 =100)
 Sep Dec Mar Jun Sep Dec Mar Jun
+2000 2001 2002
 Spreads of Selected Private Long-Term Yields
 Basis Points
 - -
 .. j,,S. Ten-year AA
 Ten-year Swap ... ' -...".. "
 Sep Dec Mar Jun Sep Dec Mar Jun
+2000 2001 2002
 Distribution of Risk Spreads on High-Yield Debt
 Density
 - - 0
@@ -73,6 +83,7 @@ rI'- JA
 Other Sectors.. .... ... "
 I I I I I I I l I l I
 Jul Sep Nov Jan Mar May Jul
+2001 2002
 Subordinated Debt Spreads
 Basis Points
 July 22 August 8y5
@@ -115,6 +126,7 @@ June 25, 2002
 C_
 Basis points
 -1
+20 30
 Long-Run Inflation Expectations
 Percent
 Michigan Survey
@@ -169,6 +181,7 @@ in the foreign exchange market for their own accounts.
 (5) Financial market conditions in Latin America worsened further during
 the intermeeting period. In Brazil, the real declined nearly 4 percent, on net, against
 the dollar, and sovereign bond yield spreads over Treasuries moved up about
+150 basis points. Conditions had been more severe at times, largely on concerns
 about the policies of the leading candidates in the October presidential election, but
 the successful negotiation of an extension and enlargement of Brazil's IMF program
 prompted some rebound in the currency and narrowing of spreads. Pressures
@@ -194,6 +207,7 @@ Growth of Components of
 Nonfinancial Business Debt
 Growth of Household Debt
 Percent
+1999 2000
 * Seasonally adjusted.
 MBA Residential Mortgage Indexes
 Growth of M2
@@ -209,6 +223,11 @@ Q1 02 Q3 Q4 J FMAMJ J
 M2 Velocity and Opportunity Cost
 Ratio Scale Percentage Points
 r- -- 1 8
+2.3 I-
+-2 1.9
+-6
+Q1 Q2 03 Q4 J FMAM J J
+2001 2002
 M2 Opportunity Cost* -
 (right scale)
 .* M2 Velocity
@@ -255,6 +274,7 @@ risk spreads. Share prices are seen as climbing moderately to provide investors 
 typical equity return. The projected slack in the economy offsets the price pressure
 from an assumed depreciation of the dollar and a diminished benefit from the
 passthrough of lower energy prices to core inflation, so that core PCE inflation runs
+1-1/2 percent this year and next, unchanged from the June Greenbook.
 (9) The economic outcomes forecasted by the staff may well be less
 appealing to the Committee than those presented seven weeks ago. However, the
 Committee might still view the projected near-term weakness as unlikely to be
@@ -298,6 +318,8 @@ Chart 5
 Actual Real Federal Funds Rate and
 Range of Estimated Equilibrium Real Rates
 Percent
+5
+Quarterly Actual Real Funds Rate
 - 4
 Historical Average: 2.74 TIIS-Based EstimateS(1 9661-2002Q2) - 3
 - -1
@@ -305,6 +327,7 @@ Historical Average: 2.74 TIIS-Based EstimateS(1 9661-2002Q2) - 3
 * 25 b.p. Easing
 Equilibrium Real Funds Rate Estimates
 Percent
+2000 2001 2002H1 200203
 FRB/US Model
 - Two-sided:
 * Also employs the staff projection for the current and next quarters.
@@ -398,6 +421,12 @@ Percent Percen
 ......... erfect Foresight (1 percent inflation goal)
 S -- - Perfect Foresight (1-1/2 percent inflation goal) -
 Real Federal Funds Rate 1
+6 5
+5 4
+4 3
+3 2
+2 1
+1 0
 Percent Percent
 - Baseline - 6
 ----......... Perfect Foresight (1 percent inflation goal)
@@ -420,6 +449,8 @@ Percent
 6.5
 Percent
 r-
+1.8 
+[
 -n 6.5
 | I
 the Committee may believe that any additional disinflation could put economic
@@ -449,6 +480,7 @@ individuals tap accumulated home equity to finance spending. As in the business
 sector, apart from the shakier borrowers, household spending should not be materially
 constrained by financial conditions beyond the substantial loss of equity wealth.
 Paced by the household component, nonfederal debt is projected to grow at a
+5-1/2 percent clip over the second half of this year, about the same as in the first half.
 Total debt of nonfinancial sectors is forecast to grow at a similar rate over the second
 half, significantly faster than nominal GDP. As conditions in domestic financial
 markets tend to stabilize in coming months and safe-haven demands for money
@@ -484,6 +516,10 @@ ECONOMIC WEAKNESS] in the foreseeable future.
 August 9, 2002
 SELECTED INTEREST RATES
 (percent)
+01 -- High
+-- Low
+02 -- High
+-- Low
 Monthly
 Aug 01
 Sep 01
@@ -536,10 +572,21 @@ Period M
 In M2 In M3 only
 Levels (Sbillions):
 Monthly
+2002-Feb. 1184.4 5500.7 4316.3 2562.1 8062.8
+Mar. 1187.4 5497.4 4310.0 2564.6 8061.9
+Apr. 1176.3 5480.8 4304.6 2566.0 8046.8
+May 1182.7 5545.1 4362.4 2579.6 8124.7
+June 1189.7 5579.3 4389.6 2585.9 8165.2
 Weekly
 2002-June 3 1197.5 5548.1 4350.6 2582.9 8130.9
+10 1177.7 5556.4 4378.7 2574.2 8130.6
+17 1181.7 5583.9 4402.2 2585.0 8168.9
+24 1198.6 5595.0 4396.4 2614.4 8209.4
 July 1 1201.9 5609.8 4407.9 2570.0 8179.8
 8 1184.5 5605.9 4421.4 2565.7 8171.6
+15 1188.3 5623.4 4435.1 2561.8 8185.2
+22p 1200.6 5638.7 4438.2 2580.3 8219.1
+29p 1213.4 5667.1 4453.7 2596.3 8263.4
 p preliminary
 e estimated
 Changes in System Holdings of Securities ¹
@@ -551,9 +598,17 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
 Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term6 Term7 Change
+2001 QIl
+2002 Q01
+QIIl
+2001 Dec
+2002 Jan
+Feb
 Apr
 May
 Jun
+2002 May 15
+May 22
 May 29
 Jun 5
 Jun 12
@@ -565,14 +620,134 @@ Jul 17
 Jul 24
 Jul 31
 Aug 7
+2002 Aug 8
 Intermeeting Period
 Jun 26-Aug 8
 Memo: LEVEL (bil. $)
 Ann a
+5,408
+8,676
+3,097
+3,965
+4,659
+6,827
+8,227
+2,772
+1,042
+3,013
+1,047
+3,524
+3,656
+4,838
+3,046
+12
+52
+100
+510
+608
+367
+24,522
+10,095
+11,895
+8,809
+6,611
+1,619
+5,761
+2,894
+1,455
+2,709
+2,826
+1,549 2,230
+90.7 172.1
+4,303 9,428
+5,871 5,833
+6,003 8,531
+2,047 3,573
+1,691 1,535
+982 1,632
+971 1,927
+2,471 210
+101 448
 --- 582
 334 1,054
 637 291
+467 173
+1,429
+3,779
+43,928
+31,215
+36,208
+19,731
+14,482
+8,592
+5,854
+6,153
+2,580
+2,872
+1,101
+2,181
+1,142
+1,439
+1,039
+716
+467 173
+54.0 81.6 398.4
+43,771
+15,318
+41,496
+9,788
+7,398
+20,228
+19,023
+6,226
+6,425
+7,577
+6,777
+8,048
+4,198
+8,336
+989
+1,388
+1,337
+510
+3,016
+1,460
+1,324
+477
+5,206
+2,035 8,347 10,382
+-2,163 7,133 4,970
+3,492 636 4,128
+639 -2,186 -1,547
+3,832 2,587 6,419
+-4,223 10,847 6,624
+-1,961 -2,191 -4,152
+-2,644 -4,563 -7,207
+2,088 3,862 5,951
+1,115 -4,871 -3,756
+-3,647 -1,401 -5,048
+-1,866 -276 -2,142
+1,211 -3,714 -2,503
+-2,434 -1,296 -3,730
+1,443 --- 1,443
+-376 --- -376
+8,618 --- 8,618
+-5,336 --- -5,336
+-1,177 -1,000 -2,177
+-2,620 --- -2,620
+3,832 --- 3,832
+2,985 --- 2,985
+-3,895 --- -3,895
+-2,565 --- -2,565
+-154 -1,000 -1,154
+-2,731 -3,000 -5,731
+2,667 -1,000 1,667
+-7,867 -1,000 -8,867
+9,3871 -7,786 -6,000 -13,786
 acquired in exchange for maturing bills. Excludes maturity shifts and rollovers of maturing issues.
+6,656 14,167
+5,723 4,976
+473 10,479
 --- 13,401
 --- 10,796
 --- 4,125
@@ -583,12 +758,19 @@ acquired in exchange for maturing bills. Excludes maturity shifts and rollovers 
 --- 4,524
 --- 542
 --- 3,499
+7,476 -4,379
+1,543 2,422
 --- 4,659
 --- 6,827
 --- 8,227
 --- 812
 --- 2,772
 --- 1,042
+3,013
+--- 1,047
+--- 3,524
+--- 3,656
+--- 4,838
 --. 3,046
 --- 12
 --- 52

@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -75,6 +83,7 @@ last month, leaving these aggregates slightly above the lower ends of
 their annual ranges. Despite the likely depressing effects of declin-
 ing mortgage refinancings and compensating balances, demand deposits
 expanded at a rapid pace last month, helping to boost M1 growth to a
+7-1/2 percent rate.4 In addition, a jump in overnight Eurodollars
 buoyed the nontransaction components of M2 and M3. Even aside from
 these volatile components, however, M2 accelerated in July, perhaps
 owing partly to a resumption of runoffs in bond mutual funds.5
@@ -291,6 +300,92 @@ Jul-94
 To
 Jul-94
 Dec-94
+93 Q4 Jul-94
+91 Q4
+92 Q4
+93 Q4
+92 Q4
+93 Q4
+94 Q4
+1994 Target Ranges:
+3590.9
+3581.3
+3595.9
+3599.2
+3604.6
+3609.7
+3614.5
+3618.7
+1.4
+1.5
+1.9
+1.4
+1.6
+3590.9
+3581.3
+3595.9
+3598.6
+3601.6
+3604.0
+3606.4
+3608.8
+1.4
+0.9
+1.9
+1.4
+1.3
+4216.3
+4212.5
+4233.4
+4237.3
+4239.4
+4241.4
+4243.5
+4245.6
+0.1
+0.7
+0.5
+0.6
+0.6
+4216.3
+4212.5
+4233.4
+4236.6
+4237.3
+4237.5
+4238.6
+4239.6
+0.1
+0.4
+0.5
+0.6
+0.5
+1142.9
+1146.4
+1153.7
+1155.5
+1158.8
+1162.1
+1165.0
+1167.9
+3.8
+3.0
+14.3
+10.5
+3.9
+1142.9
+1146.4
+1153.7
+1155.2
+1157.5
+1159.6
+1161.8
+1164.1
+3.8
+2.2
+14.3
+10.5
+1 to 5 0 to 4
 have fluctuated around levels attained in the spring, suggest that
 households may continue to rebalance portfolios in a way that might
 also impart some upward tilt to growth of the broader aggregates.
@@ -313,6 +408,7 @@ this alternative, particularly damping M1 and savings deposits. How-
 ever, if bond yields backed up under this alternative, the additional
 capital losses might accentuate a redirection of savings back into M2,
 offsetting some of this restraining effect. M3 would grow at only a
+1/2 percent rate from July to December, as institution-only money
 funds ran off appreciably owing to their lagging yields.
 Directive Language
 (17) Presented below is draft wording for the operational
@@ -337,6 +433,10 @@ Short-Term Long-Term
 CDs money corporate conventional home mortgages
 federal Treasury bills secondary comm. market bank U.S. government constant A-utility municipal secondary primary
 funds secondary market market paper mutual prime maturity yields recently Bond market market
+93 -- High
+-- Low
+94 -- High
+-- Low
 Monthly
 Aug 93
 Sep 93
@@ -371,6 +471,37 @@ Daily
 Aug 5 94
 Aug 11 94
 Aug 12 94
+3.24
+2.87
+4.38
+2.97
+4.28
+4.26
+3.12
+2.82
+4.42
+2.94
+4.33
+4.42
+3.36
+3.06
+4.79
+3.11
+3.27
+2.94
+4.87
+3.12
+4.74
+4.87
+7.25
+7.25
+7.25
+3.48
+3.07
+5.24
+3.35
+5.12
+5.24
 p - preliminary data
 Strictly Confidential (FR)-
 Class II FOMC
@@ -384,8 +515,16 @@ Period M1 M2 M3 L and U. S. other' total2
 In M2 In M3 only investments' government'
 Levels ($Billion) :
 Monthly
+1994-MAR. 1142.4 3582.9 2440.5 631.8 4214.7 5139.8 3165.6 3375.4 9107.7 12483.2
+APR. 1141.1 3589.9 2448.7 632.9 4222.8 5157.9 3191.4 3383.6 9150.6 12534.2
+KAY 1142.9 3590.9 2448.0 625.4 4216.3 5153.2 3195.9 3395.4 9189.3 12584.6
+JUNE 1146.4 3581.3 2434.9 631.1 4212.5 5141.1 3204.3 3414.5 9225.1 12639.6
+JULY p 1153.7 3595.9 2442.2 637.6 4233.4 3237.9
 Weekly
 1994-JULY 4 1145.4 3589.8 2444.4 631.6 4221.4
+11 1149.9 3590.5 2440.6 635.0 4225.5
+18 1152.5 3594.8 2442.3 637.5 4232.3
+25 p 1158.2 3600.7 2442.5 643.3 4244.1
 AUG. 1 p 1159.2 3601.3 2442.2 637.9 4239.2
 p preliminary
 pe preliminary estimate
@@ -400,6 +539,9 @@ Other RPs and denomi- general denomi- Term Term Short-term ank
 P o Currency e checkable uro- Sain nation purpose Institutions ntion AP' Euro- Savings er Commercal B e
 LevelsJ ( Bi.L.ons) :
 Annually (4th Qtr.)
+1991
+1992
+1993
 Monthly
 1993-JULY
 AUG.
@@ -407,10 +549,214 @@ SEP.
 OCT.
 NOV.
 DEC.
+1994-JAN.
+FEB.
+MAR.
 APR.
 MAY
 JUNE
 JULY p
+265.6
+289.7
+319.5
+309.7
+312.4
+315.4
+317.6
+319.5
+321.4
+325.2
+329.2
+332.4
+334.8
+337.6
+340.3
+286.3
+337.1
+382.1
+366.4
+370.9
+375.4
+378.4
+383.2
+384.8
+388.3
+390.3
+390.0
+388.9
+385.8
+386.6
+328.8
+380.1
+411.9
+402.8
+404.2
+406.6
+409.5
+411.8
+414.3
+412.0
+411.2
+411.9
+409.3
+411.2
+411.4
+77.5
+81.2
+90.6
+81.1
+82.1
+85.4
+89.4
+90.4
+92.1
+94.8
+93.0
+97.9
+94.6
+94.6
+96.3
+1027.8
+1177.9
+1212.1
+1202.1
+1205.9
+1208.4
+1208.8
+1211.9
+1215.5
+1220.3
+1220.9
+1221.9
+1220.7
+1215.9
+1207.2
+1082.8 369.7 174.4 433.1
+883.0 354.0 206.5 365.3
+790.4 346.7 195.4 340.0
+814.5
+806.6
+799.9
+794.9
+790.6
+785.6
+779.5
+774.5
+771.1
+768.6
+769.1
+770.4
+346.6
+345.5
+345.0
+344.4
+347.0
+348.8
+347.8
+343.7
+348.4
+361.5
+365.1
+359.3
+192.6
+190.1
+190.8
+194.3
+194.8
+197.0
+192.7
+176.9
+177.4
+177.0
+169.3
+169.5
+341.8
+341.6
+340.4
+341.6
+339.4
+339.0
+341.5
+335.7
+330.9
+330.6
+333.5
+333.8
+74.7
+80.9
+94.5
+96.4
+96.0
+95.6
+94.2
+94.0
+95.3
+91.3
+89.3
+91.2
+94.2
+91.7
+95.3
+137.0
+154.4
+170.9
+167.1
+168.2
+169.2
+170.1
+170.8
+171.7
+172.7
+173.4
+174.1
+174.8
+175.7
+176.6
+321.1
+327.7
+325.9
+344.3
+343.8
+328.0
+323.7
+324.6
+329.3
+339.1
+341.6
+345.8
+361.3
+358.8
+349.0
+334.0
+366.3
+385.2
+370.4
+379.5
+378.4
+384.7
+384.1
+386.8
+391.6
+403.0
+389.6
+384.9
+391.0
+392.6
+24.5
+20.5
+15.4
+17.4
+16.5
+16.4
+16.4
+15.3
+14.6
+14.9
+15.3
+15.7
+14.1
+11.4
+10.5
 p preliminary
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
 Millions of dollars, not seasonally adjusted
@@ -420,19 +766,178 @@ Treasury bills Treasurycoupons Federal Net change
 eNet urchases 3 agencies outright
 Period Net 2 Redemptions Net wi t hin e pwithi nRedemptions Net redemptions holdings g
 purchases (-) I change year 1-5 5-10 | over 10 (-) Change total 4 Net RPs
+1994 ---Q1
+---02
+1993 August
+September
+October
+November
+December
+1994 January
+February
+March
+April
+May
+June
+July
 Weekly
 April 27
 May 4
+11
+18
+25
 August 3
 10
 Memo: LEVEL (bil. $)6
 August 10
+19,038
+11,486
+17,249
 --- 7,749
 1,268
+468 8,232
 --- 2,164
 --- 6,639
 --- 902
 --- 366
+468 927
+5,911
 - 1,394
+20,038
+13,086
+17,717
+7,749
+1,268
+8,700
+2,164
+6,639
+902
+366
+1,396
+5,911
+1,394
+1,264
+900
+1,101
+1,395
+4,143
+350
+1,045
+3,750
+246
+147
+3,043 6,583
+1,096 13,118
+1,223 10,350
+279 1,441
+244 2,490
+511 3,700
+189 2,719
+147 1,413
+364 2,817
+100 1,100
+411 2,400
+100
+189 2,619
+147
+209
+155
+5
+150203.9~--
+375
+2,333
+3,457
+705
+1,110
+817
+826
+1,103 618
+1,117 896
+11,282
+19,365
+19,198
+3,141
+4,990
+6,326
+4,742
+616 2,665
+440 4,754
+1,800
+4,326
+100
+4,642
+3,281
+4,599
+155
+--_~
+1,000
+1,600
+27,726
+30,219
+35,374
+2,851
+12,648
+7,067
+4,418
+11,086
+2,577
+4,656
+857
+5,996
+5,954
+-817
+1,163
+4,073
+5,520
+1,480
+4,085
+-322
+310
+1,195
+3,750
+214
+147
+-302
+-20
+359.6 6.4
 August 10
 August 12, 1994
+-1,614
+-13,215
+-461
+10,624
+-8,644
+4,455
+-11,663
+17,719
+4,528
+1,262
+-6,723
+7,232
+3,947
+-7,757
+-3,946
+40
+8,208
+5,441
+4,070
+3,059
+3,490
+-3,849
+2,682
+2,161
+1,471
+-5,396
+2,127
+435
+94
+2,042
+1,009
+-864
+-3,057
+2,321
+350
+1,045
+3,750
+246
+147

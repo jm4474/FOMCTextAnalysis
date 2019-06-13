@@ -10,6 +10,14 @@ Please note that this document may contain occasional gaps in the text.  These
 gaps are the result of a redaction process that removed information obtained on a 
 confidential basis.  All redacted passages are exempt from disclosure under applicable 
 provisions of the Freedom of Information Act.
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff.
 Strictly Confidential (FR) Class I FOMC
 MONETARY POLICY ALTERNATIVES
 Prepared for the Federal Open Market Committee
@@ -58,6 +66,7 @@ March-to-June period, fell short of the 4 percent pace specified by the
 Committee at the May meeting. Although the bounceback in May from the
 tax-related weakness in money in April turned out to be stronger than had
 been expected, renewed weakness appeared in June, with M2 growth at just a
+2 percent rate. The rebound in May was most evident in transaction depos-
 its, lifting M1 to a 13-3/4 percent annual rate of growth for the month.2
 A slowdown in M1 in June showed through to M2, and its effect on the
 broader aggregate was reinforced by the ongoing deceleration of that
@@ -158,9 +167,11 @@ the aggregates. Strategy I, the baseline, assumes that policy seeks to
 make gradual progress toward price stability by promoting a moderate pace
 of output growth over the next several years, maintaining a small degree
 of slack in resource utilization. It adopts the greenbook forecast for
+1991 and 1992 and extends that forecast through 1995 using the staff's
 macro-econometric model. The economic outcomes for strategies II, III,
 and IV are derived from the baseline using the econometric model.4
 Strategy II contemplates a tighter policy, indexed by M2 growth slower by
+1 percentage point at an annual rate than in the baseline, designed to
 make more progress toward price stability. Strategy III is more stimula-
 tive than the baseline policy, with money growth faster by 1 percentage
 point at an annual rate, in order to assure a more robust economic expan-
@@ -187,6 +198,74 @@ I
 II
 III
 IV
+5
+4-1/2
+5-1/2
+5-1/2
+1-1/2
+1-1/2
+1-3/4
+1-3/4
+6-1/2
+6-3/4
+6-1/2
+6-1/2
+5-1/2
+4-1/2
+6-1/2
+5-3/4
+3-1/2
+3-1/4
+3-3/4
+3-1/2
+2-3/4
+2
+3-1/2
+3-1/4
+6-1/4
+6-1/2
+6
+6
+5-1/2
+4-1/2
+6-1/2
+5
+3-1/4
+2-3/4
+3-3/4
+3-1/2
+2-1/2
+1-1/2
+3-1/2
+2-1/4
+6
+6-3/4
+5-1/4
+5-3/4
+5-1/2
+4-1/2
+6-1/2
+5-1/4
+2-1/2
+1-3/4
+3-1/2
+2
+5-1/2
+4-1/2
+6-1/2
+5-1/2
+2-3/4
+1-1/4
+4-1/4
+3
+2-1/2
+2
+2-3/4
+2
+6
+7-1/4
+4-3/4
+6-1/4
 (9) Under the baseline strategy, M2 would expand at a 5-1/2
 percent rate throughout the forecast period. The assumed growth of money
 is consistent with some monetary restraint. Indeed, over the next few
@@ -220,6 +299,7 @@ point to get the higher money growth, and would remain below the baseline
 through 1993. The implied lower real interest rates and more rapid money
 growth of this strategy result in a steep decline of the unemployment rate
 over the projection period, bringing it below the natural rate by late
+1993. Inflation increases only moderately within the simulation period,
 but would be on an upward trend, boosted a little by a declining dollar.
 (12) Strategy IV has the basic tenor of policy under the base-
 line, but it is more activist, with changes in money growth and interest
@@ -274,11 +354,51 @@ IV
 (tighter)
 (easier)
 (easier/tighter)
+3-1/2
+3-1/2
+3-1/2
+3-1/2
+2-1/2
+2-1/2
+2-1/2
+2-1/2
+2
+1-3/4
+2-1/2
+2-1/4
+2
+1-1/2
+2-3/4
+2-1/4
+2-1/4
+1-1/4
+3-1/2
+2-1/2
 With adjustment for
 velocity shifts
 II
 III
 IV
+3-1/2
+3-1/2
+3-1/2
+3-1/2
+3-1/4
+3-1/4
+3-1/2
+3-1/2
+3-1/4
+3
+3-3/4
+3-1/2
+3-3/4
+3
+4-1/2
+3-3/4
+3-3/4
+2-3/4
+5
+4
 velocity in 1990, 1 percent
 in 1993. No shifts are
 Long-Run Ranges
@@ -290,6 +410,7 @@ Money and Debt Growth
 (Percent change, annual rate)
 Actual
 Current QIV 1990
+1991 Range to June
 M2 2-1/2 to 6-1/2 4
 M3 1 to 5 2-1/2
 Debt 4-1/2 to 8-1/2 4-1/2
@@ -297,6 +418,8 @@ M1 7-1/4
 Memo: Nominal GNP 2-3/4
 Staff
 Projections
+1
+1991 1992
 Projections for 1991 and 1992
 (15) M2 is expected to accelerate to a 5-1/2 percent rate over
 the second half of 1991, bringing growth for the year to about 5 percent.
@@ -352,6 +475,7 @@ slightly. As an offset, federal debt growth ebbs with a slackening in RTC
 funding needs, but remains in double digits.
 Ranges for 1991
 (18) This bluebook does not present alternatives to the current
+1991 ranges for money and debt. In the past, the FOMC has altered the
 ranges for the current year at the midyear meeting only when the aggre-
 gates have shown signs of markedly diverging from the established annual
 ranges owing to special factors thought to be unrelated to economic per-
@@ -473,6 +597,7 @@ expected to show much change from its current level under this alterna-
 (26) Alternative B embodies the staff projections for money and
 debt consistent with the nominal GNP and unchanged interest rates of the
 greenbook forecast. With the pickup in GNP, M2 would accelerate to a
+5-1/2 percent annual rate from June to September, bringing this aggregate
 up to the middle of its long-run range in September. On a quarterly
 average basis, M2 would expand at a 4-1/2 percent rate during the third
 quarter which, given the staff projection of an 8 percent increase in
@@ -491,6 +616,7 @@ June 3401.7 3401.7 3401.7 4172.1 4172.1 4172.1 857.7 857.7 857.7
 July 3417.0 3415.9 3414.7 4181.1 4180.8 4180.4 862.0 861.6 861.3
 August 3435.9 3431.5 3427.0 4193.5 4191.2 4188.9 867.5 865.9 864.3
 September 3457.3 3448.7 3439.9 4208.5 4203.5 4198.4 873.9 870.6 867.3
+2.5 to 6.5 1.0 to 5.01991 Target Ranges:
 little below the midpoint of its annual range. The pickup in M3 relative
 to the last three months reflects a rise in overall borrowing, including
 from banks, as the economy recovers. Total nonfinancial debt is projected
@@ -513,6 +639,7 @@ short-term rates if market participants came to the view that the Federal
 Reserve was taking the opportunity to make more decisive progress against
 inflation. The foreign exchange value of the dollar might well increase
 considerably further under this alternative. M2 would expand at only a
+4-1/2 percent annual rate from June through September, with growth rates
 falling off over the quarter. M2 would still be below the midpoint of its
 range in September and would be headed for a lower position in its range
 by year-end, with the effects of higher interest rates reinforced by some
@@ -544,6 +671,7 @@ GROWTH OF M2 AND M3 TO RANGES OF ____ TO ____ AND ____ TO ____ PERCENT
 RESPECTIVELY, MEASURED FROM THE FOURTH QUARTER OF 1990 TO THE
 FOURTH QUARTER OF 1991.] The monitoring range for growth of
 total domestic nonfinancial debt ALSO was MAINTAINED set at
+4-1/2 to 8-1/2 percent [(ALSO) WAS RAISED/LOWERED TO ____ TO ____
 PERCENT] for the year. FOR 1992 THE COMMITTEE AGREED ON
 TENTATIVE RANGES FOR MONETARY GROWTH, MEASURED FROM THE FOURTH
 QUARTER OF 1991 TO THE FOURTH QUARTER OF 1992, OF ____ TO ____
@@ -587,10 +715,50 @@ QIV 1987 - QIV
 IV 1988 - QIV
 QIV 1989 - QIV
 QIV 1990 - QIV
+3 - 6 (5.5)
+4 - 6.5 (7.3) 3 ' 4
+3.5 - 6 (2.3) 3 ' 5
+2.5 - 5.5 (8.5) 3
+5- 98 (7.2)
+4 - 8 (5.2)
+3 - 810 (12.7)
+3 - 83-8
+11
+7 - 109
+6 - 9 (8.6)
+6 - 9 (8.9)
+5.5 - 8.5 (4.0)
+4 - 8 (5.3)
+3 - 7 (4.6)
+3 - 7 (3.9)
+2.5 - 6.5 (3.9)
+6 - 9 (8.1)
+6.5 - 9.5 (9.9)
+6.5 - 9.5 (11.4)
+6.5 - 9.5 (10.1)
+6.5 - 9.5 (9.7)
+6 - 9 (10.5)
+6 - 9.5 (7.4)
+6 - 9 (8.8)
+5.5 - 8.5 (5.4)
+4 - 8 (6.2)
+3.5 - 7.5
+1 - 512
+1 - 5 (2.6)
 at and of policy
 Domestic Non-
 financial Debt
+17.5 - 10.5 (12.2)
 (8.8) 6
+6 - 97 (7.1)6
+8.5 - 11.5 (10.5)
+8 - 11 (13.4)
+9 - 12 (13.5)
+8 - 11 (12.9)
+8 - 11 (9.6)
+7 - 11 (8.7)
+6.5 - 10.5
+4.5 - 8.5 (4.5)
 n.s.--not specified.
 *--Growth rates in parentheses are QIV'90 t:o June 1991, except QIV to May for debt.
 1. Targets are for bank credit until 1983; from 1983 onward targets are for domestic
@@ -630,9 +798,14 @@ uncertainties about its underlying relationship to the behavior of the economy a
 sensitivity to economic and financial circumstances.
 12. At the February 1990 meeting the FOMC specified a range of 2-1/2 to 6-1/2 percent.
 This range was lowered to 1 to 5 percent at the July 1990 meeting.
+6/27/91 (MARP)
 July 1, 1991
 SELECTED INTEREST RATES
 (percent)
+90-- High
+Low
+91 - High
+Low
 Monthly
 Jun 90
 Jul 90
@@ -671,9 +844,53 @@ Jun 28 91
 I I CDs I moy I
 edeal I trasuy wM | seconary comm I marke I bank
 funds I scondaty marke I marke | papr mutual I pme
+8.33
+7.16
+7.46
+5.69
+10.50
+10.00
+9.93
+8.50
+8.50
+8.50
+8.50
 I I oporte cowenlonal home rmornags
 S US gowrnmnrt constan A iy municipa secondary
 maturityyelds c I ey Bond markel I prmary mar
+9.09
+7.42
+744
+6.98
+9.07
+7.94
+8.32
+7.79
+10.50
+9.55
+9.96
+9.39
+9.85
+9.96
+7.83
+7.28
+7.40
+7.07
+10.99
+9.91
+9.97
+9.52
+10.67
+9.56
+9.75
+9.25
+8.63
+7.86
+7.78
+7.17
+8.51
+8.49
+8.42p
 p -- prelrnmlry data
 l-rehS Tn I Imo-Tuni
 Strictly Confidential (FR).
@@ -681,6 +898,9 @@ Money and Credit Aggregate Measures Class II FOMC
 Seasonally adjusted JUL. 1, 1991
 ANN. GROTH RATES (1% :
 ANNUALLY (04 TO I41
+1988
+1989
+1990
 QUARTERLY AVERAGE
 1990-3rd QTR.
 1990-4th QTR.
@@ -694,8 +914,19 @@ SEP.
 OCT.
 NOV.
 DEC.
+1991-JAN.
+FEB.
+MAR.
+APR.
+MAY
+JUNE pa
 LEVELS ISBILLIONS) :
 MONTHLY
+1991-JAN.
+FEB.
+MAR.
+APR.
+MAY
 NEEKLY
 1991-HAY
 JUNE 3
@@ -711,6 +942,165 @@ and
 U.S.
 government' other'
 - t - 4 + I - * - I - 4 -
+4.2
+0.6
+4.2
+1.9
+14.1
+9.5
+-1.1
+13.7
+8
+826.7
+836.4
+843.0
+842,2
+851.8
+849.9
+851.7
+853.0
+851.7
+850.6
+856.6
+860.7
+5.2
+4.7
+3.8
+-0.3
+1.5
+3331.0
+3354.3
+3375.0
+3382.9
+3395.8
+3391.8
+3396.6
+3399.7
+3398.6
+3389.0
+3402.0
+3406.4
+5.5
+6.1
+3.7
+-1.4
+1.0
+2504.3
+2517.9
+2531.9
+2540.7
+2544.0
+2541.8
+2544.9
+2546.8
+2546.8
+2538.4
+2545.5
+2545.7
+10.7
+-0.6
+-6.4
+-3.8
+-3.5
+6.7
+-9>i
+-7.1
+-2.1
+0.2
+-9.7
+-3.8
+0.5
+-1.8
+14.5
+18.8
+-17.9
+-9.2
+-15.4
+-11
+793.6
+806.0
+794.0
+787.9
+777.8
+778.5
+779.1
+777.4
+778.2
+773.4
+771.2
+769.8
+6.3
+3.6
+1.7
+4124.6
+4160.4
+4169.0
+4170.8
+4173.6
+4170.3
+4175.7
+4177.2
+4176.8
+4162.4
+4173.2
+4176.2
+7.2
+4.8
+1.8
+2.0
+1.4
+3.5
+4.4
+7.9
+0.8
+4977.1
+5010.0
+5013.5
+4976.7
+7.7
+7.5
+5.4
+6.1
+2.9
+2.7
+2721.2
+2735.1
+2750.9
+2751.6
+2750.0
+8.0
+7.5
+11.0
+14.4
+11.6
+12.2
+2556.3
+2588.6
+2599.7
+2590.8
+2613.1
+9.5
+7.8
+5.4
+4.8
+3.7
+2.4
+7911.4
+7937.4
+7964.2
+7987.3
+8015.3
+9.2
+7.7
+6.7
+7.1
+5.5
+4.8
+10467.8
+10525.9
+10563.9
+10578.2
+10628.4
 derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove
 in M
 Strictly Confidential (FR).
@@ -720,8 +1110,12 @@ Small Money market Large
 Other Overnight denomi- mutual funds denomi- Short- Bank* s
 Demand checkable RPs and Savings nation general Institu- nation Term Term Savings term Commor. acc*r
 Period Currency deposits deposits Eurodottars MMOAIS dposi.ts time purpose tions time RPs Eurodollars bonds Treasury cial paper' tances
+1JSA' deposits' and broker/ only deposits' NSA' NSA' securities
 LEVELS 1$BILLIONSI :
 ANNUALLY (4TH QTR.I
+1988
+1989
+1990
 MONTHLY
 1990-MAY
 JULY
@@ -730,13 +1124,265 @@ SEP.
 OCT.
 NOV.
 DEC.
+1991-JAN.
+FEB.
+MAR.
 APR.
 MAY
+210.8
+220.9
+245.1
+231.9
+233.7
+235.7
+238.4
+241.5
+243.9
+245.0
+246.4
+251.6
+255.1
+256.7
+256.6
+256.8
+287.3
+278.9
+277.1
+275.8
+276.3
+275.6
+278.0
+279.1
+277.1
+277.2
+276.9
+272.9
+276.2
+277.1
+275.8
+278.7
+280.1
+282.9
+292.8
+292.0
+293.7
+291.7
+292.1
+293.0
+291.8
+292.8
+293.8
+293.9
+296.9
+301.0
+302.0
+308.3
+83.4
+76.1
+78.4
+83.2
+82.3
+84.0
+82.7
+81.5
+83.5
+77.6
+74.0
+71.2
+70.1
+69.1
+69.1
+67.6
+505.8
+482.0
+506.5
+500.5
+502.3
+503.4
+505.9
+507.4
+506.7
+506.8
+505.9
+505.2
+511.5
+519.2
+526.6
+536.1
+424.5 1022.4
+402.9 1142.4
+411.1 1162.5
+411.3
+411.8
+412.7
+412.7
+412.3
+411.5
+411.1
+410.8
+412.0
+415.4
+420.5
+427.3
+433.2
+1153.5
+1154.6
+1156.8
+1158.3
+1160.1
+1161.4
+1161.8
+1164.2
+1163.9
+1162.7
+1158.3
+1150.3
+1141.0
+237.5
+308.9
+343.0
+325.3
+327.5
+329.2
+335.8
+339.3
+341.6
+341.9
+345.4
+353.9
+358.2
+363.6
+364.2
+365.1
+86.7
+101.4
+121.9
+107.6
+108.1
+109.8
+114.0
+116.2
+119.6
+120.5
+125.7
+130.1
+139.3
+142.0
+145.6
+146.2
+538.8
+565.0
+511.6
+540.5
+538.0
+535.0
+529.2
+521.9
+515.1
+512.5
+507.1
+511.9
+516.0
+511.5
+506.7
+502.7
+123.2
+106.6
+93.8
+99.3
+102.2
+100.5
+102.0
+95.6
+95.7
+90.2
+88.2
+86.8
+83.2
+82.1
+81.1
+102.8
+80.2
+70.5
+67.1
+64.4
+65.1
+68.3
+70.0
+70.2
+70.0
+71.4
+71.9
+72.6
+71.2
+68.6
+66.4
+108.8
+116.8
+125.2
+120.7
+121.4
+122.2
+123.0
+123.8
+124.5
+125.2
+126.0
+126.7
+127.8
+128.9
+266.8
+321.5
+329.1
+315.4
+331.7
+334.3
+329.8
+333.8
+330.4
+329.8
+327.1
+326.4
+330.5
+330.8
+326.6
+350.4
+359.1
+349.1
+349.1
+348.2
+347.0
+359.0
+358.8
+359.0
+359.4
+363.4
+356.1
+352.4
+40.5
+40.4
+33.8
+35.4
+34.7
+33.0
+32.3
+31.8
+32.6
+34.0
+34.7
+36.0
+35.2
+32.4
 nstitutions are subtracted from snall time deposits.
 NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1
 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
+1991 --01
+--02
+1990 June
+July
+Aug t
 November
 December
 mFebn m
@@ -757,14 +1403,129 @@ June 19
 June 26
 Memo: LEVEL (I ) 6
 Ju.r 26
+7.635
+1,468
+-3.799
+10.802
+5.115
+5.241
+2.160
+4,320
+1,792
+27
+4.197
+631
+6.658
+-2.350
+-120
+167
+313
+908
+435
+473
+2200
+12730
+4.400
+3,000
+1,000-00
+5.435
+-11.263
+13.048
+-5,199
+10.892
+5.115
+2.241
+1,160
+4.320
+1.732
+237
+4.197
+631
+933
+-1.120
+1.9867
 tS313
 908
+435
+473
+290
+0
+2,178
+327
+425
+4,885
+946
+100
+150
+2950
+550
+2.950
+550
+28.4 6825
+1,404 1.398
+258 284
+400 -
+i -
+9.685
+1.315
 - 200
 - 150
 - 25
 - 4.150
 - 1,450
+450
+3.700
+1.250
+12.6 24.7 1282
+14.513
+-10.390
+13,240
+-5,000
+10.964
+5.045
+2.230
+1.557
+-1.683
+9,157
+-4.061
+so500
+95
+5,310 -1,810
+5.678 7263
+1.782
+254
+4,160
+631
+689
+-1,120
+2.417
+4.013
+2.067
+3.611
+1.0as
+1,273
+2,148
+2.863
+1,110
+-3.878
+-1,224
+509
+13,329
+-500BO
+-1.127
+-14.793
+1,370
+3,285
+4,778
+5.,59
+-5.997
 - 5.180
 - -3263
+20 6.461
+59 -3,000
 s36 1,a36
+2.726 -2,019
+- -252
+- 3
+- 3,311
 June 28.1 01

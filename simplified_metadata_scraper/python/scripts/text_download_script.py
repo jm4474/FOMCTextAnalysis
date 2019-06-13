@@ -134,7 +134,7 @@ def clean_pdf(clean_parser, start_date):
                     valid_line = False
 
                 # Handle Rogue Numbers
-                elif re.search("^(-)?(\d{1,3})(\.)?(\d{1,3})?", p_text):
+                elif re.search("^(-)?(\d{1,3})(\.)?(\d{1,3})?$", p_text):
                     valid_line = False
 
                 #Handle table data such as 12.5 10.5
