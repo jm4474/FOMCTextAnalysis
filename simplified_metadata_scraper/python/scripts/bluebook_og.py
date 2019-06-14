@@ -31,7 +31,7 @@ for doc in doc_list:
     #parsed = parser.from_file('tealbookcheck.pdf')
     #document['file_text'] = parsed['content']
     
-    file = open("../output/raw_bluebook/"+filename,'r').read()
+    file = open("../output/raw_bluebook/"+filename+".txt",'r').read()
     lines = file.splitlines()
     output=""
     
