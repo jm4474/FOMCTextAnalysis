@@ -26,7 +26,7 @@ for doc in doc_list:
     try:
         print("Work on the following file",doc)
     
-        #doc='2008-01-29.txt'
+        #doc='1977-10-17.txt'
             
         data={"meeting":doc}
         
@@ -58,11 +58,10 @@ for doc in doc_list:
         lhelp=[]
         for element in u_alt_list:
             if re.search("[Aa]lternatives\s*[ABCDEabcde]",element):
-        
-                selement=element.replace("Alternatives","Alternative")
-        
+                lower=element.lower()
+                selement=lower.replace("alternatives","alternative")
             else:
-                selement=element
+                selement=element.lower()
             lhelp.append(selement)        
         su_alt_list=unique1(lhelp)
         
@@ -72,21 +71,25 @@ for doc in doc_list:
             sentence_list=re.split("\.\s*",phrase) # Remove empty entries
             sentence_list = list(filter(None, sentence_list))
             for sentence in sentence_list:
-                sentences.append(sentence)
+                sentences.append(sentence+".")
         n_sent=len(sentences)
         data.update({"number of sentences":n_sent})
         
         # For each available alternative find the relevant sentences
         
-        for policy_option in su_alt_list:
+        for policy_option in ['a','b','c','d','e']:
             count=0
             option_sent=[]
             # Adjust the name for whitespaces
-            policy_option_name="Alternative "+policy_option[-1].upper()
+            policy_option_name="alternative_"+policy_option
             for sentence in sentences:
-                if re.search(policy_option,sentence):
+                
+                # Make sure not to capture too much.
+                regex='alternative\s*'+policy_option+'\s*[^a-z]?'
+                if re.search(regex,sentence,re.I):
                     count+=1
                     option_sent.append(sentence)
+
             data.update({policy_option_name+"_count":count})
             data.update({policy_option_name+"_sentences":option_sent})
         files.append(data)            
@@ -105,27 +108,26 @@ for element in sorted(alt_columns):
     ini_list.append(element)
 df_output.sort_values('meeting', inplace=True)
 df_output['year']=pd.to_numeric(df_output['meeting'].str[:4])
+df_output['date']=pd.to_datetime(df_output['meeting'].str[:-4])
 
+df_output=df_output[df_output['date']<="2009-04-17"]
+df_output=df_output[df_output['date']>="1968-07-17"]
+len(df_output)
 
 ###  Do some summary statistics
 # Total number of meetings
 print("# total bluebooks",len(df_output))
 # Meetings with phrases that contain alternatives
 print("# meeting with sentences:",len(df_output[df_output['number of sentences']>0]))
-# Number of meetings with alternative A
-print("# meeting alternative A:",len(df_output[df_output['Alternative A_count']>0]))
-# Number of meetings with alternative B
-print("# meeting alternative B:",len(df_output[df_output['Alternative B_count']>0]))
-# Number of meetings with alternative C
-print("# meeting alternative C:",len(df_output[df_output['Alternative C_count']>0]))
-# Number of meetings with alternative D
-print("# meeting alternative D:",len(df_output[df_output['Alternative D_count']>0]))
-# Number of meetings with alternative E
-try:
-    print("# meeting alternative E:",len(df_output[df_output['Alternative E_count']>0]))
-except:
-    print("No alternative E")
-# Give missing meeting dates per year after 1968
+
+      
+print("# meeting alternative a:",len(df_output[df_output['alternative_a_count']==0]))
+print("# meeting alternative a:",len(df_output[df_output['alternative_a_count']<4]))
+
+print("# meeting alternative b:",len(df_output[df_output['alternative_b_count']==1]))
+print("# meeting alternative b:",len(df_output[df_output['alternative_b_count']>1]))
+            
+       
 i=1968
 while i<2011:
     df_year=df_output[df_output['year']==i]
@@ -135,3 +137,5 @@ while i<2011:
       
 # Write data frame to csv
 df_output.to_csv("../output/bluebook_alternatives_og.csv")
+
+# CHECK: 2000-12-19.txt
