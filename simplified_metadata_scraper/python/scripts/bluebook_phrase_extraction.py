@@ -20,7 +20,7 @@ import os
 doc_list = os.listdir("../output/raw_bluebook")
 
 for doc in doc_list:
-    filename=doc
+    filename='2002-09-24.txt'
     print("working on file: "+filename)
 
 # =============================================================================
@@ -36,12 +36,18 @@ for doc in doc_list:
     lines = file.splitlines()
     output=""
     
-    # Scan the lines
-    phrases=[]
-    for idx,line in enumerate(lines):
-        if re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z]",line):
-            phrases.append((idx,line))
-    
+# =============================================================================
+# do 
+#     regex="[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z]"
+#     # Scan the lines
+#     phrases=[]
+#     for idx,line in enumerate(lines):
+#         print(line)
+#         if re.search("[Aa]lternatives?",line):
+#             phrases.append((idx,line))
+#             print()
+#     
+# =============================================================================
     
     
     # Get all sentences that contain Alternatives
