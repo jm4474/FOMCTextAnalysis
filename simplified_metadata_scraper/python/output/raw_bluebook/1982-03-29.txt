@@ -1,0 +1,1841 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+ 
+Prefatory Note 
+
+ 
+ 
+
+The attached document represents the most complete and accurate version 
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+ 
+
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+ 
+
+                                                 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+
+
+March 26, 1982
+
+Strictly Confidential (FR) Class I FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Prepared for the Federal Open Market Committee
+
+By the staff Board of Governors of the Federal Reserve System
+
+
+
+STRICTLY CONFIDENTIAL (FR) March 26, 1982
+CLASS I - FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Recent developments
+
+(1) After growing rapidly over the three months November through
+
+January, M1 contracted in February at a 3¾ percent annual rate, and now
+
+appears to have grown only about 2 percent in March. Thus, over the last
+
+two months behavior of this aggregate has been close to the zero growth
+
+objective for that period specified by the Committee at its February meeting.
+
+Demand deposits contracted sharply over the past two months--more than
+
+offsetting their December-January bulge in growth. However, other checkable
+
+deposits (OCDs) continued to expand at a relatively rapid, though decel-
+
+erating, pace during the period.
+
+(2) The recent performance of M1 has brought it closer to, but
+
+still above, the upper limit of the Committee's longer-run range. As shown
+
+in the next-to-last column of the table on the next page, growth of Ml from
+
+QIV '81 to March '82 is estimated at about a 7¾ percent annual rate;
+
+however, growth on a quarterly average basis for the first three months
+
+of the year was at a more substantial 10¼ percent annual rate.
+
+(3) Growth of M2 thus far this year has been just above its
+
+longer-run target range, with expansion since QIV '81 at a 9¼ percent
+
+annual rate. Over the two-month February-March period, M2 appears to
+
+have grown at about a 7 percent annual rate, a bit below the 8 percent
+
+rate targeted by the Committee. Growth in money market funds, though
+
+picking up recently, has been somewhat slower than anticipated as interest
+
+rate spreads for a time were unfavorable. Savings deposits, which had
+
+expanded rapidly since October, grew slightly over the past two months,
+
+while small time deposits resumed a more rapid rate of expansion.
+
+
+
+-2-
+
+KEY MONETARY POLICY AGGREGATES
+(Seasonally adjusted, annual rates of growth)
+
+1982
+Jan. QIV '81 QIV '81
+
+to to to
+Jan. Feb. Mar._ Mar. 1  Mar.'82 1  QI '821
+
+Money and Credit Aggregates
+
+M1 21.0 -3.7 2.1 -0.8 7.8 10.3
+
+M2 12.2 4.3 9.9 7.1 9.2 9.6
+(Nontransaction component) (9.4) (6.9) (12.3) (9.7) (9.7) (9.3)
+
+M3 8.8 5.8 10.6 8.2 8.7 8.6
+
+Bank Credit 2  10.5 11.4 n.a. n.a. n.a. n.a.
+
+Dec. '81
+to
+
+Mar. '82
+Reserve Measures
+
+Nonborrowed reserves 4  -2.5 -17.5 12.7 -2.5 -2.5 0.2
+
+Total reserves 22.2 -10.0 3.6 -3.2 5.2 8.2
+
+Monetary base 11.6 3.4 4.2 3.8 6.4 8.0
+
+Memo: (Millions of dollars)
+Adjustment borrowing 1321 1558 1265 - -- --
+Excess reserves 418 307 326
+
+n.a.--not available.
+1. March estimated on the basis of partial data.
+2. Adjusted for shifts of assets from U.S. offices to IBFs.
+3. Growth rates for reserves measures are adjusted to remove the effects of
+
+discontinuities resulting from phased changes in reserve ratios under the
+Monetary Control Act.
+
+4. Nonborrowed reserves include special borrowing and other extended credit
+from the Federal Reserve.
+
+
+
+(4) Expansion of bank credit continued at around an 11 percent
+
+annual rate in January and February (adjusted for shifts of assets to
+
+IBFs), paced by strength in business loans. Bank credit growth seems to
+
+have slowed in March, along with a weakening in demand for business
+
+loans, insofar as can be judged from weekly large bank data for the first
+
+half of March. Issuance of commercial paper has remained strong thus far
+
+in March. Business financing obtained from long-term sources receded to
+
+unusually low levels in the first two months of the year, but the pace
+
+has picked up somewhat in March as long-term rates edged off from peaks
+
+reached in early February.
+
+(5) In conjunction with its decision to seek no M1 growth in
+
+February and March the Committee specified an initial level of adjustment
+
+borrowing of $1.5 billion, implying a considerable reduction in nonborrowed
+
+reserves in February. Owing to the weaker-than-targeted money growth
+
+early in the intermeeting period, the level of adjustment borrowing
+
+implied by the reserves path gradually declined, but most recently the
+
+pick-up of required reserves associated with the strengthening of M1
+
+has contributed to a higher level of adjustment borrowing and moderate
+
+1/
+growth in total reserves.- For the intermeeting period, adjustment
+
+borrowing averaged about $1.4 billion. Since the beginning of the year,
+
+all of the total reserves growth of about 5¼ percent, at an annual rate,
+
+has reflected expansion in borrowed reserves. Nonborrowed reserves,
+
+despite a substantial rise in March, have declined somewhat on balance
+
+since December.
+
+1/ Reserve paths and adjustments made since the last Committee meetings
+are shown in Appendix I.
+
+
+
+(6) The federal funds rate has fluctuated generally in a
+
+13 1/2 to 15 1/2 percent range over the intermeeting period. In the most
+
+recent statement week, funds averaged 14 1/2 percent. Other short-term
+
+interest rates, too, have been volatile over the intermeeting period,
+
+reflecting market participants' changing perceptions of the outlook for
+
+money growth and reserve market conditions. Most short-term market
+
+rates have declined on balance to 1 point since the February FOMC
+
+meeting, and long-term interest rates are down 1/2 to 3/4 of a point.
+
+(7) The dollar has risen by about 4 percent since the last
+
+FOMC meeting. While daily movements of the dollar often have been related
+
+to movements in U.S. short-term interest rates relative to foreign rates,
+
+at the end of the period interest differentials were about the same as
+
+at the beginning. The dollar benefited from relatively favorable price
+
+developments and from a general perception that governments abroad may
+
+be shifting to less restrictive demand policies.
+
+
+
+Alternative near-term targets
+
+(8) Shown below are alternative targets, and associated
+
+federal funds rate ranges, for M1 and M2 for the second quarter. (More
+
+detailed and longer-run data for the alternatives are contained in the
+
+table and charts on the following pages, and the quarterly interest rate
+
+pattern underlying the staff's GNP projection for 1982 is contained in
+
+appendix II.) Alternative A, calling for a 4½ percent rate of growth of
+
+M1 in the March-to-June interval, would, as shown in Chart 1, maintain
+
+the level of narrow money above the upper end of the Committee's 2½-to-5½
+
+percent longer-run range throughout the second quarter; however, that
+
+rate, if sustained over the second half, would bring M1 down to the upper
+
+end of range by year-end. The 3 percent M1 rate of growth from March to
+
+June of alternative B is designed to bring the level of that aggregate to
+
+about the upper limit of the Committee's longer-run range by around mid-year.
+
+The alternative C specification of 1½ percent M1 growth would place that
+
+aggregate at about the middle of the upper half of the range by mid-year.
+
+Under all three alternatives, M2 would be expected to move within the
+
+1/
+upper half of its longer-run range.-
+
+/ The new 91-day deposit instrument authorized by the DIDC, to be effec-
+tive May 1, is unlikely to significantly strengthen time deposit growth,
+but--reflecting the temporary ceiling rate differential--is likely
+to add to thrift deposit expansion relative to that for commercial
+banks. Similarly, the new unregulated 3 year deposit is not expected
+to add to time deposit growth since about half of the depository
+institutions have been offering less than the ceiling rate on the 2
+year and over SSC.
+
+
+
+-6-
+
+Alt. A Alt. B Alt. C
+
+Growth from March to June
+
+M1 4½ 3 1½
+
+M2 8¼ 7½ 6¾
+
+Federal funds rate range 11 to 15 12 to 16 13 to 17
+
+(9) Despite the staff's projection of second-quarter growth
+
+in nominal GNP at a 9 percent annual rate, money demand is not expected
+
+to strengthen significantly in the March to June period. M1 growth in
+
+the first quarter was considerably in excess of what might be expected
+
+on the basis of actual income and interest rates, and apparently reflected
+
+the public's increased demand for liquidity in an environment of economic
+
+uncertainty. This demand was reflected in part in a resurgence in growth
+
+of the OCD component of M1. Resumption of economic growth is likely to
+
+reduce uncertainty, with the public in consequence readjusting its
+
+financial asset holdings by drawing on its accumulated money and liquidity
+
+balances for spending and/or investing in other financial assets. Such
+
+behavior would lead to a sharp rise in velocity of the existing money
+
+stock and permit expanding nominal GNP to be financed with relatively
+
+little additional M1. The projected adjustment in money holdings and
+
+liquidity balances is expected to take the form of a further deceleration
+
+in growth of OCD--in the April-June period to a rate of close to 15 percent
+
+per annum, as compared with growth at about a 50 percent annual rate in the
+
+November-February period and at more than a 20 percent annual rate in March.
+
+(10) In setting a path for second-quarter growth in the money
+
+supply, we have allowed for most, and possibly all, of M1 expansion to occur
+
+in April. Growth of M1 in April (seasonally adjusted) accelerated over
+
+the last half of the 1970s. In the past two years, however, M1 has been
+
+
+
+Alternative Levels and Growth Rates for Key Monetary Aggregates
+
+Alt A Alt B Alt C Alt. A Alt. B Alt. C Alt. A Alt. B Alt. C
+
+1982--January
+February
+March
+
+April
+May
+June
+
+Growth Rates Monthly
+
+1982--January
+February
+March
+
+April
+May
+June
+
+March '82 - June '82
+
+Growth Rates Quarterly
+
+448.6
+447.2
+448.0
+
+451.7
+452.3
+453.0
+
+21.0
+-3.7
+
+2.1
+
+9.9
+1.6
+1.9
+
+4.5
+
+448.6
+447.2
+448.0
+
+451.0
+450.2
+449.7
+
+21.0
+-3.7
+
+2.1
+
+8.0
+-2.1
+-1.3
+
+1.5
+
+1840.9
+1847.5
+1862.8
+
+1877.6
+1889.4
+1901.3
+
+12.2
+4.3
+9.9
+
+9.5
+7.5
+7.6
+
+8.3
+
+448.6
+447.2
+448.0
+
+451.4
+451.4
+451.4
+
+21.0
+-3.7
+
+2.1
+
+9.1
+0.0
+0.0
+
+3.0
+
+10.3
+3.1
+
+1840.9
+1847.5
+1862.8
+
+1876.7
+1887,3
+1897.9
+
+12.2
+4.3
+9.9
+
+9.0
+6.8
+6.7
+
+7.5
+
+1840.9
+1847.5
+1862.8
+
+1875.7
+1885.0
+1894.5
+
+12.2
+4.3
+9.9
+
+8.3
+5.9
+6.2
+
+6.8
+
+2203.9
+2214.6
+2234.2
+
+2251.8
+2269.6
+2287.6
+
+8.8
+5.8
+
+10.6
+
+9.4
+9.5
+9.5
+
+9.6
+
+2203.9
+2214.6
+2234.2
+
+2250.9
+2267.5
+2284.2
+
+8.8
+5.8
+
+10.6
+
+9.0
+8.8
+8.8
+
+9.0
+
+8.6
+9.0
+
+1982--QI
+QI'
+
+2203.9
+2214.6
+2234.2
+
+2249.9
+2265.2
+2281.0
+
+8.8
+5.8
+
+10.6
+
+8.4
+8.2
+8.4
+
+8.4
+
+8.6
+8.6
+
+10.3
+3.9
+
+10.3
+2.1
+
+__
+
+
+
+Chart 1
+
+Actual and Targeted M1
+CONFIDENTIAL (FR)
+
+Class - FOMC
+
+Billions of dollars
+- 480
+
+- ACTUAL LEVEL 1
+
+S* SHORT-RUN ALTERNATIVES
+
+-1 470
+
+5'/2%
+
+4%
+
+2'%%
+
+- 440
+
+-- 430
+
+- 420
+
+I I I I I I I I I I I I I
+0 N D J F M A M J J A S 0 N D
+
+1981 1982
+
+1 March level is projected.
+
+M1
+
+
+
+Chart 2
+
+Actual and Targeted M2 and M3
+
+CONFIDENTIAL (FR)
+
+Class II FOMC
+
+M2 Billions of dollars
+2000
+
+ACTUAL LEVEL 1
+9%
+
+* * SHORT-RUN ALTERNATIVES
+
+-0 - 1950
+
+% -- 1900
+
+.- -11850
+
+- 1800
+
+I I I I I I I I I I I I I
+O N D J F M A M J J A S O N D
+
+1981 1982
+
+1 March level is projected.
+
+1750
+
+O N D J F M A M J J A S O N D
+19G1 1982
+
+f2
+
+
+
+quite volatile in April--declining sharply in 1980, presumably reflecting
+
+the credit control program, and rising very rapidly in 1981, partly
+
+reflecting the preceding policy-induced drop of short-term interest
+
+rates. With so volatile a performance of M1 in the most recent years,
+
+it is difficult to judge whether the pre-1980 trend has continued and thus
+
+whether it should be reflected in current seasonal adjustment factors.
+
+Under the circumstances, we have assumed that the odds are tilted toward
+
+the computed April seasonal factor this year having underestimated the
+
+seasonal increase. But uncertainties with respect to April are great,
+
+not only because of the special factors noted above, but also because
+
+there are always questions about how rapidly individuals will pay their
+
+taxes, how they will manage their cash in doing so, how quickly the
+
+Treasury will pay refunds, and how promptly they will collect the checks
+
+mailed in. Thus, while we have allowed for a bulge in growth in April,
+
+a relatively moderate growth cannot be ruled out, particularly if tax
+
+payments are made out of NOW accounts that were built up earlier or out
+
+of money market funds (thereby avoiding a temporary build-up in demand
+
+deposits).
+
+(11) Alternative A, which entails growth of M1 at a 4½ percent
+
+rate from March to June, would call for an increase in total reserves
+
+over the quarter at about an 8½ percent annual rate. Assuming a decline
+
+in adjustment borrowing to about $750 million, nonborrowed reserves would
+
+expand at a 13½ percent annual rate over the quarter. A federal funds
+
+rate of 13 percent or so would be implied, given the present discount
+
+rate.
+
+(12) The 3-month bill rate under this alternative may decline
+
+into the 11 to 12 percent area. Bond yields, too, would be likely to
+
+
+
+-9-
+
+decline, although the rally might be limited by a pick-up in corporate bond
+
+offerings. Pressures on thrift institutions would ease a bit, but
+
+operating losses still would continue for most institutions, especially
+
+given the lag between declines in market rates and average deposit
+
+costs. With U.S. interest rates falling, there is likely to be some
+
+tendency for the foreign exchange value of the dollar to decline from
+
+recent advanced levels, though any such weakening would be limited if
+
+foreign monetary authorities took the opportunity to permit their
+
+interest rates to decrease further.
+
+(13) The alternative B specifications, which call for M1 growth
+
+at a 3 percent rate from March to June, imply an increase in total
+
+reserves at a 7 percent rate. Assuming adjustment borrowing of $1¼
+
+billion, nonborrowed reserves would also increase at around a 7 percent
+
+rate, and the federal funds rate would likely fluctuate around 14 percent
+
+or a bit higher. Other interest rates would probably continue to fluctuate
+
+within the range of the past several weeks, absent any substantial change
+
+in the fiscal outlook. In addition, to the extent that the market has
+
+discounted a considerable bulge in money growth in April, market rates
+
+could decline somewhat if such a bulge does not develop.
+
+(14) Alternative C, involving a 1½ percent rate of growth of
+
+M1 over the March-to-June period, would require a growth in total reserves
+
+at a 5½ percent rate. This alternative would appear to be consistent
+
+with adjustment borrowing of near $1¾ billion, implying essentially no
+
+growth in nonborrowed reserves. Under this approach, the federal funds
+
+rate would likely rise into the 15 to 16 percent range over the inter-
+
+meeting period. Such a rebound in the funds rate would probably lead
+
+to a substantial rise in other short-term rates and renewed upward
+
+
+
+-10-
+
+pressure on long rates. These rate pressures might be moderated to the
+
+extent that market expectations about the vigor of economic recovery and
+
+future credit demands are dampened. The dollar would come under substantial
+
+upward pressure in exchange markets.
+
+(15) In considering the proposed alternatives for the second
+
+quarter, the Committee may also want to take account of implications for
+
+the second half of the year. If the M1 specification of alternative A is
+
+adopted for the second quarter, this would imply a further deceleration
+
+of M1 growth over the last six months of the year to a 2¾ percent annual
+
+rate to be consistent with growth for the year (QIV to QIV basis) at
+
+4¾ percent rate, the middle of the upper half of the FOMC's M1 range for
+
+the year (see the top line of the "4¾" column in the table below.)
+
+The last column of the table shows that growth at about a 4 percent
+
+annual rate over the last six months of the year would be consistent with
+
+hitting the upper limit of the longer-run range under alternative A--which
+
+would provide more scope for financing expected economic recovery. If
+
+the Committee were to adopt the second-quarter targets of alternatives
+
+B or C, some acceleration in growth over the 6-month June-to-December
+
+period--to just above a 4 percent annual rate under alternative C--would
+
+be in prospect even if growth for the year were constrained to 4¾ percent.
+
+Should the Committee accept growth in M1 for the year at the upper limit
+
+of its longer-run range, even more rapid growth in the second half would
+
+be in prospect (5 to 6 percent, depending on whether alternative B or C
+
+is adopted at this meeting).
+
+March- Implied Growth June to December to Hit
+June QIV '81 to QIV '82 Growth of:
+
+Alternatives Target 4 4¾ 5½
+
+A 4½ 1.2 2.7 4.1
+B 3 1.9 3.4 5.0
+C l½ 2.7 4.2 5.8
+
+
+
+-11-
+
+Directive language
+
+(16) Given below is a suggested operational paragraph for the
+
+directive. The specifications adopted at the meeting on February 1-2
+
+are shown in strike-through form. The phrase in brackets is presented
+
+as an option that would effectively give added weight to M2 in operations
+
+in the circumstances of the forthcoming period.
+
+IN THE SHORT RUN, the Committee seeks behavior of reserve
+
+aggregates [DEL: over the balance of the quarter] consistent with GROWTH OF
+
+M1 AND M2 FROM MARCH TO JUNE AT ANNUAL RATES OF ABOUT ____ PERCENT
+
+AND ____ PERCENT RESPECTIVELY [DEL: bringing M1 and M2 over time into
+
+their longer run target ranges for the year. Taking account of
+
+the recent surge in growth of M1, the Committee seeks no further
+
+growth in M1 for the January to March period and growth in M2 at
+
+an annual rate of around 8 percent. Some decline in M1 would be
+
+associated with more rapid attainment of the longer-run range
+
+and would be acceptable in the context of reduced pressure in
+
+the money market.] [THE COMMITTEE ALSO NOTED THAT DEVIATIONS
+
+FROM THESE TARGETS SHOULD BE EVALUATED IN LIGHT OF THE POSSIBILITY
+
+THAT M2 WOULD BE LESS AFFECTED OVER THE PERIOD THAN M1 BY DEPOSIT
+
+SHIFTS RELATED TO THE TAX DATE AND BY CHANGES IN THE RELATIVE
+
+IMPORTANCE OF NOW ACCOUNTS AS A SAVINGS VEHICLE.] The Chairman
+
+may call for Committee consultation if it appears to the Manager
+
+for Domestic Operations that pursuit of the monetary objectives
+
+and related reserve paths during the period before the next
+
+meeting is likely to be associated with a federal funds rate per-
+
+sistently outside a range of [DEL: 12 to 16] ____ TO ____ percent.
+
+
+
+APPENDIX I
+
+RESERVE TARGETS AND RELATED MEASURES
+INTERMEETING PERIOD
+
+(Millions of dollars; not seasonally adjusted)
+
+Implied
+Adjustment
+
+Reserve Borrowing
+
+Targets for Inter-
+meeting Sub-Period Projection of For
+
+(4-week Reserves Demanded Remaining
+
+Date average basis) (4-week average basis) Statement
+
+Reserves Non- 4-week Weeks of
+
+Path Total borrowed Total Required Excess Average Intermeettig
+Constructed Reserves Reserves Reserves Reserves Reserves Basis Period
+
+(1) (2) (3) (4) (5) (6) (7)
+Sub-Period: February 10 to March 3
+
+February 5 41,2702 39,7702/ 41,270 41,045 225 1500 1500
+12 41,309=' 39,8097 41,214 40,994 220 1405 1394
+19 41,158.' 39,658,/5/ 41,077 40,795 282 1419 1278
+26 41,181- 39,581-- 41,065 40,802 263 1484 1139
+
+Actual 4-week
+Average 41,112 39,592 41,112 40,799 313 1520
+
+Sub-Period: March 10 to March 31
+
+6/ 6/March 5 3 9 , 3 76 7  37,8767/8 39,102 38,802 300 1226 1226
+12 39,239- 37760- 39,094 38,806 288 1334 1398
+19 39,159- 3 7 , 7 3 9 9/10/ 38,988 38,703 285 1249 1346
+26 39,002 37,739 39,002 38,698 304 1263 1405
+
+1/ Represents borrowing in remaining statement weeks (as intermeeting sub-period progresses)
+implied by each weekly updating of the 4-week average nonborrowed reserves path. The
+movement in implied borrowing represents deviations in total reserves from target as well
+as any compensation for misses in nonborrowed reserves from target in earlier weeks of
+the intermeeting sub-period.
+
+2/ Total and nonborrowed reserves paths adjusted upward by $39 million due to changes affect-
+ing the reserves multiplier.
+
+3/ Total and nonborrowed reserves paths adjusted downward by $151 million due to changes
+affecting the reserves multiplier.
+
+4/ Total and nonborrowed reserves paths adjusted upward by $23 million due to changes affect-
+ing the reserves multiplier.
+
+5/ Nonborrowed reserves path adjusted downward by $100 million to offset the unusually large
+borrowing in the week of February 24.
+
+6/ Total and nonborrowed reserves paths adjusted downward by $2 billion due to changes affect-
+ing the reserves multiplier.
+
+7/ Total and nonborrowed reserves paths adjusted downward by $137 million due to changes
+affecting the reserves multiplier.
+
+8/ Nonborrowed reserves path adjusted upward by $21 million to offset the unexpectedly low
+borrowing in the week of March 10.
+
+9/ Total and nonborrowed reserves paths adjusted downward by $80 million due to changes
+affecting the reserves multiplier with some allowance for the weakness in M2.
+
+10/ Nonborrowed reserves path adjusted upward by $59 million to offset the reduced demand
+for borrowing in the week of March 17.
+
+
+
+Appendix II
+
+Interest Rates Assumed in the Greenbook GNP Projection
+(Quarterly averages, percent)
+
+Recently Offered
+Aaa Utility Bond
+
+15-5/8
+
+14%
+
+14%
+
+14%
+
+Fixed Rate
+Mortgage
+
+17-3/8
+
+16%
+
+16k
+
+16%
+
+1982
+Federal
+
+Funds
+
+3-month
+Treasury
+
+Bills
+
+12%
+
+12
+
+12
+
+13k
+
+
+
+Table 1
+
+Selected Interest Rates
+Percent
+
+19.83 16.73 14.39 15.70
+8.68 6.49 7.18 6.66
+
+20.06 16.72 15.05 15.85
+12.04 10.20 10.64 10.70
+
+15.93 14.79 12.99 14.13
+14.70 13.36 12.28 12.98
+
+15.72 13.69 12.79 13.43
+18.52 16.30 14.29 15.33
+19.10 14.73 13.22 13.95
+
+19.04 14.95 13.91 14.40
+17.82 15.51 14.70 15.55
+15.87 14.70 14.53 15.06
+
+15.08 13.54 13.62 14.01
+13.31 10.86 11.20 11.53
+12.37 10.85 11.57 11.47
+
+13.22 12.28 12.77 12.93
+14.78 13.48 13.11 13.71
+
+12.98 11.46 12.23 12.28
+12.42 11.85 12.63 12.81
+12.96 12.36 12.99 13.10
+13.98 12.99 13.07 13.53
+
+14.77 13.17 12.93 13.85
+15.19 13.92 13.32 13.93
+15.61 14.41 13.51 14.36
+13.86 12.82 12.78 12.70
+
+14.07 12.32 12.48 12.79
+14.35 12.25 12.11 12.06
+14.89 12.77 12.56 12.96
+14.48 12.75 12.51 12.67
+
+1980--High
+Low
+
+1981--High
+Low
+
+1981--Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+1982--Jan.
+Feb.
+
+1982--Jan. 6
+13
+20
+29
+
+Feb. 3
+10
+17
+24
+
+Mar. 3
+10
+17
+24
+31
+
+Daily--Mar. 19
+25
+26
+
+20.50 19.74 16.64 21.50
+8.17 7.97 8.12 11.00
+
+18.70 18.04 17.32 20.64
+11.51 11.26 11.84 15.75
+
+16.14 15.49 16.29 19.43
+14.43 13.94 15.12 18.05
+
+15.08 14.56 14.10 17.15
+18.27 17.56 15.56 19.61
+16.90 16.32 16.92 20.03
+
+17.76 17.00 17.04 20.39
+17.96 17.23 17.17 20.50
+16.84 16.09 16.55 20.08
+
+15.39 14.85 15.32 18.45
+12.48 12.16 14.33 16.84
+12.49 12.12 12.09 15.75
+
+13.51 13.09 12.01 15.75
+15.00 14.53 13.11 16.56
+
+12.94 12.60 11.81 15.75
+13.03 12.59 11.77 15.75
+13.50 13.03 11.95 15.75
+14.18 13.73 12.20 15.75
+
+14.60 14.23 12.49 15.96
+15.32 14.83 12.85 16.50
+15.84 15.39 13.26 16.50
+14.57 14.05 13.47 16.86
+
+14.04 13.63 13.29 16.50
+13.77 13.43 13.45 16.50
+14.31 13.90 13.52 16.50
+14.23 13.79 13.51 16.50
+
+14.50 13.98
+14.31 13.81
+14.32 13.83
+
+14.29 13.36
+8.61 9.51
+
+16.54 15.65
+12.55 12.27
+
+13.65 13.19
+13.51 13.12
+
+14.09 13.68
+15.08 14.10
+14.29 13.47
+
+15.15 14.28
+16.00 14.94
+16.22 15.32
+
+15.50 15.15
+13.11 13.39
+13.66 13.72
+
+14.64 14.59
+14.73 14.43
+
+14.20 14.30
+14.57 14.67
+14.86 14.78
+14.83 14.60
+
+14.60 14.43
+15.01 14.81
+14.96 14.58
+14.44 14.04
+
+14.17 13.84
+13.78 13.66
+14.19 13.93
+14.15 13.83
+
+16.50 14.24 13.89
+16.50 14.22 13.90
+16.50 
+
+14
+.
+32
+p 
+
+14
+.
+01
+p
+
+12.91 15.03 10.56 16.35
+9.54 10.79 7.11 12.18
+
+15.03 17.72 13.30 18.63
+11.81 13.98 9.49 14.80
+
+12.80 14.58 10.10 15.13
+12.69 14.41 10.16 15.40
+
+13.20 15.48 10.62 15.58
+13.60 15.48 10.79 16.40
+12.96 14.81 10.67 16.70
+
+13.59 15.73 11.14 16.83
+14.17 16.82 12.26 17.29
+14.67 17.33 12.92 18.16
+
+14.68 17.24 12.83 18.45
+13.35 15.49 11.89 17.83
+13.45 15.18 12.90 16.92r
+
+14.22 15.88 13.28 17.40r
+14.22 15.97 12.97 17.60
+
+13.99 16.04 13.36 17.30
+14.32 16.12 13.44 17.44
+14.33 16.00 13.16 17.61
+14.20 15.59 13.15 17.59
+
+14.18 15.97 13.13 17.56
+14.63 16.34 13.09 17.65
+14.39 16.00 12.96 17.66
+13.82 15.57 12.70 17.52
+
+13.60 15.31 12.53 17.29
+13.42 15.15 12.71 17.19
+13.59 15.14 12.99 17.12
+13.46 15.08p 13.04 n.a.
+
+15.93 14.17
+12.28 10.73
+
+19.23 17.46
+14.84 13.18
+
+15.24 14.13
+15.74 14.18
+
+16.54 14.59
+16.93 15.31
+16.17 15.02
+
+16.65 15.76
+17.63 16.67
+18.99 17.06
+
+18.13 16.61
+16.64 15.10
+16.92 15.51
+
+17.80 16.19
+18.00 16.21
+
+17.56 15.98
+-- 16.29
+
+18.04 16.20
+-- 16.30
+
+18.00 16.47
+-- 16.56
+
+17.99 16.20
+-- 15.62
+
+17.16 15.47
+
+17.26 5.:6
+-- 15.37
+
+13.56
+13.49
+13.64p
+
+NOTE Weekly data for columns 1,2,3, and 5 through 11 are statement week averages. Weekly data in col- following the end of the statement week The FNMA auction yield Is the average yield In a bl-weekly auc-
+umn 4 are average rates set In the auction of 6month bills that will be Issued on the Thursday following the tlon for short term forward commitments for government underwritten mortgages, figures exclude
+end of the statement week Data In column 7 are taken from Donoghues Money Fund Report Columns 12 graduated payment mortgages GNMA yields are average net yields to investors on mortgage-backed
+and 13 are 1-day quotes for Friday and Thursday, respectively, following the end of the statement w ek. securities for immediate delivery, assuming prepayment In 12 years on pools of 30-year FHANA mort-
+Column 14 Is an average of contract interest rates on commitments for conventional first mortgages with gages carrying the coupon rate 50 basis points below the current FHANA celling
+80 percent loan-to-value ratios made by a sample of insured savings and loan associations on the Friday
+
+FR 1367 (1182)
+
+March 29. 1982
+
+14.90 13.04 12.65
+14.11 12.75 12.50
+14
+.
+35
+p 13.00 12.67
+
+
+
+Table 2
+
+Net Changes In System Holdings of Securities
+Millions of dollars, not seasonally adjusted
+
+March 29, 1982
+
+Treasury Treasury coupons net purchases
+3  Federal agencies net purchases
+
+4  Net change
+
+Peiod bills not outright Net RPs
+6
+
+r  
+change5 50 vr 10 1-5 510 over 10 total15 10 ove0 total
+
+t-year 1-year
+
+1977 4,361 517 2,833 758 553 4,660 -- 792 428 213 1,433 10,035 -2,892
+1978 870 1,184 4,188 1,526 1,063 7,962 -47 45 104 24 127 8,724 -1,774
+1979 6,243 603 3,456 523 454 5,035 131 317 5 -- 454 10,290 -2,597
+1980 -3,052 912 2,138 703 811 4,564 217 398 29 24 668 2,035 2,462
+1981 5,337 294 1,702 393 379 2,768 133 360 - -- 494 8,491 684
+
+1980--Qtr. IV -58 100 -- -- -- 100 - -- -- -- -1 1,107
+
+1981--Qtr. I -2,514 -23 -- - -- -23 -- -- - -- - -2,555 -1,694
+II 2,135 115 469 164 89 836 - - -- -- -- 2,944 -1,352
+III 2,912 122 607 64 182 976 -- - -- -- - 3,855 424
+IV 2,803 80 626 165 108 979 133 360 - -- 494 4,247 3,305
+
+1981--Sept. 308 - -- - -- -- - -- -- -- 275 -500
+
+Oct. -1,116 - -- -- - - -- - - -- -- -1,131 -209
+Nov. 1,750 -- 100 -- -- 100 133 360 -- - 494 2,333 2,747
+Dec. 2,170 80 526 165 108 879 -- - -- - -- 3,045 767
+
+1982--Jan. -3,356 -- - -- -- - -- - - - -- -3,424 900
+Feb. 148 20 50 - - 70 - - - -- 191 -3,770
+
+1982--Jan. 6 -243 - -- -- -- - -- -- -- - - -259 -4,116
+13 -418 -- -- -- -- - -- -- - -- -- -438 -2,330
+20 -670 - -- -- -- -- -- -- -- - -- -702 3,588
+27 -2,025 -- -- - -- -- -- -- -- -2,025 3,177
+
+Feb. 3 - -- -- -- -- -- -- - -- -- -- -4 4,428
+10 -559 - -- -- -- -- -- - - -- - -567 -8,203
+17 560 - -- -- -- -- - -- - -- 560 5,235
+24 456 20 50 -- -- 70 - - -- - -- 511 -5,254
+
+Mar. 3 -547 -- -- -- -- -- -- -- - -552 2,084
+10 -1,074 -- -- -- -- -- -- - -- -- -- -1,087 -1,967
+17 92 -- -- - -- -- -- - - 92 -,
+24 99 -- -- -- -99 -09
+31
+
+LEVEL--ar. 24 48,0 15.6 35.9 10.2 16.7 78.4 2.1 5.4 1.0 0.5 9.0 135.5 -1.0
+
+1 Change from end-of-period to end of-period. 5 In addition to the net purchases of securities, also reflects changes in System holdings of bankers'
+2 Outright transactions in market and with foreign accounts, and redemptions (-) in bill auctions, acceptances, direct Treasury borrowing from the System and redemptions (-) of agency and Trea-
+3 Outright.transactions in market and with foreign accounts, and short-term notes acquired in ex- sury coupon issues.
+
+change for maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon 6 Includes changes in RPs (+), matched sale-purchase transactions (-), and matched purchase-sale
+issues, and direct Treasury borrowing from the System. transactions (+).
+
+4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity
+shifts.
+
+FR 1368 (7/81)
+
+
+
+Table 3
+
+Security Dealer Positions and Bank Positions
+Millions of dollars
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS II-FOMC
+
+March 29, 1982
+
+U.S. government securities dealer positions snderwitin Member bank resve positions
+
+Period s r syndicate positions excess** borrowing at FRB**cash futures and forwards corporate municipal reserves adjustent seasonal exendedtotal
+bills I coupons bills coupons bonds bondsent seasonal de total
+
+1980--High
+Low
+
+1981--High
+Low
+
+1981--Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+1982--Jan.
+Feb.
+
+1982--Jan. 6
+13
+20
+27
+
+Feb. 3
+10
+17
+24
+
+Mar. 3
+10
+17
+24
+31
+
+8,838
+1,972
+
+15,668
+540
+
+13,317
+13,597
+
+8,518
+1,676
+5,547
+
+2,950
+4,324
+5,611
+
+4,781
+5,037
+2,414
+
+3,317
+
+1,853
+
+7,241
+3,732
+1,728
+2,895
+
+1,692
+1,844
+800
+
+2,817
+
+1,932**
+3,05 9**
+3,008**
+4,35
+
+1
+p**
+
+2,263
+-1,482
+
+4,633
+540
+
+1,812
+3,415
+
+3,149
+2,745
+3,278
+
+3,314
+2,242
+1,614
+
+1,629
+3,821
+1,970
+
+1,824
+2,351
+
+2,281
+2,202
+1,413
+1,958
+
+1,943
+3,063
+1,844
+2,411
+
+1,986**
+2,385**
+
+-1,806**
+-2 ,510p**
+
+-12,865
+-4,535
+
+-12,203
+-11,561
+
+-7,277
+-6,486
+-9,934
+
+-8,340
+-10,071
+-9,830
+
+-8,575
+-7,120
+-5,402
+
+-6,108
+-7,672
+
+-5,962
+-5,617
+-6,852
+-7,000
+
+-6,847
+-8,102
+-8,476
+-7,175
+
+-8,379**
+-7,349**
+
+-6,923**
+-6,670p**
+
+-4,676
+-2,514
+
+-2,798
+-3,251
+
+-3,050
+-2,822
+-2,925
+
+-3,012
+-2,972
+-2,856
+
+-3,655
+-4,307
+-4,144
+
+-3,118
+-3,177
+
+-3,550
+-3,160
+-3,208
+-3,234
+
+-3,584
+-3,437
+-2,908
+-2,985
+
+-3,080**
+-3,224**
+-3,087--*
+-3,118p**
+
+J I ---
+
+933
+-207
+
+562
+-21
+
+350
+280
+
+169
+257
+338
+
+340
+292
+414
+
+278
+344
+319
+
+418
+307p
+
+622
+344
+528
+172
+
+481
+144
+568
+3
+
+536p
+325p
+337P
+254p
+
+3,298
+12
+
+2,597
+145
+
+1,134
+789
+
+1,168
+1,954
+1,740
+
+1,429
+1,105
+
+933
+
+591
+403
+433
+
+1,245
+1,426p
+
+1,201
+753
+685
+
+2,176
+
+1,525
+1,325
+1,547
+1,534
+
+1,131p
+990p
+976p
+
+1,170p
+
+174
+5
+
+309
+30
+
+148
+196
+
+162
+269
+291
+
+247
+235
+222
+
+152
+95
+54
+
+75
+131p
+
+60
+53
+70
+96
+
+110
+114
+134
+146p
+
+147p
+151p
+187p
+17 3p
+
+816
+0
+
+464
+*
+
+21
+15
+
+8
+6
+7
+
+3
+80
+
+301
+
+438
+165
+148
+
+197
+2 32 p
+
+193
+194
+195
+199
+
+212
+225
+227
+222p
+
+2 8 8 p
+306p
+3 0 1
+
+p
+3 1 1
+
+p
+
+3,438
+215
+
+2,912
+317
+
+1,303
+1,000
+
+1,338
+2,228
+2,037
+
+1,679
+1,420
+1,456
+
+1,181
+663
+636
+
+1,518
+1,790
+
+1,454
+1,000
+
+950
+2,471
+
+1,847
+1.664
+1,908
+1,902
+
+1,566p
+1,447p
+1,464p
+1,654p
+
+NOTE: Government securities dealer cash positions consist of securities already delivered, commit-
+ments to buy (sell) securities on an outright basis for immediate delivery (5 business days or less), and
+certain "when-issued" securities for delayed delivery (more than 5 business days). Futures and forward
+positions include all other commitments involving delayed delivery; futures contracts are arranged on
+organized exchanges. Underwriting syndicate positions consists of issues in syndicate, excluding
+trading positions.
+
+Weekly data are daily averages for statement weeks, except for corporate and municipal issues in
+syndicate, which are Friday figures. Monthly averages for excess reserves and borrowing are weighted
+averages of statement week figures. Monthly data for dealer futures and forwards are end-of-month
+figures for 1980.
+
+** Strictly confidential
+
+FR 1389 (7/81)
+
+
+
+
