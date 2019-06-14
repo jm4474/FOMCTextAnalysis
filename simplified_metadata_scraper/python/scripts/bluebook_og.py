@@ -52,24 +52,24 @@ for doc in doc_list:
         #print(p_text)
         
         # Jump over empty lines
-        if len(p_text)>4 and not re.search("Class I FOMC",p_text,re.IGNORECASE) and not re.search("Page\s\d{1,3}",p_text,re.IGNORECASE) and not re.search("Authorized",p_text,re.IGNORECASE):
+        if len(p_text)>4 and not re.search("Class I FOMC",p_text,re.IGNORECASE) and not re.search("Page\s\d{1,3}",p_text ,re.IGNORECASE) and not re.search("Authorized",p_text,re.IGNORECASE ):
         
             if not d_continuation:
             
-                if re.search("[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE):
+                if re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z]"):
                     valid_line = True
                    # print(p_text)                            
                     if not d_continuation:
                         # Sentence ends in this line
-                        if re.search("[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE):
+                        if re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text ):
                             d_continuation=False
                             # Begin and end in this line
-                            if re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE):
-                                match_string=re.search(".[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE).group()
+                            if re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text ):
+                                match_string=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text ).group()
                                 line_ouput=match_string[2:]
                                 #print(count,line_ouput)
                             else:
-                                line_int_ouput=re.search("\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE).group()                        
+                                line_int_ouput=re.search("\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text ).group()                        
                                 # Search for the previous beginning of the sentence
                                 
                                 d_iter=True
@@ -83,7 +83,7 @@ for doc in doc_list:
                                         d_iter=False
                                     else:
                                         rev_line=lines[count-i]
-                                        if len(rev_line)>4 and not re.search("Class I FOMC",rev_line,re.IGNORECASE) and not re.search("Page\s\d{1,3}",rev_line,re.IGNORECASE) and not re.search("Authorized",rev_line,re.IGNORECASE):
+                                        if len(rev_line)>4 and not re.search("Class I FOMC",rev_line,re.IGNORECASE ) and not re.search("Page\s\d{1,3}",rev_line,re.IGNORECASE) and not re.search("Authorized",rev_line,re.IGNORECASE):
                                             line_int_ouput=rev_line+" "+line_int_ouput
                                         i=i+1
                                 
@@ -91,13 +91,13 @@ for doc in doc_list:
                                 #print(count,line_ouput)
                         else:
                             d_continuation=True
-                            if re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE):
-                                match_string=re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE).group()
+                            if re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*",p_text):
+                                match_string=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*",p_text).group()
                                 line_ouput=match_string[2:]
                                 #print(count,line_ouput)
                             else:
                                 
-                                line_int_ouput=re.search("[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE).group() 
+                                line_int_ouput=re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*",p_text).group() 
                                 #print(count,line_ouput)
                                 
                                 d_iter=True
@@ -121,15 +121,15 @@ for doc in doc_list:
                     line_ouput=re.search("[\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE).group()   
                     d_continuation=False
                     # Check for new occurences of Alternative\w* in the line
-                    if re.search("\.[\s\w\“”\-,:;'’]*\sAlternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE):
+                    if re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*",p_text):
+                        if re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text):
                         # Sentence ends in this line
-                        if re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE):
                             d_continuation=False
-                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*\.",p_text,re.IGNORECASE).group()                        
+                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text.group()                        
                             line_int_ouput=line_int_ouput[2:]
                         else:
                             d_continuation=True
-                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*Alternative\w*\s*[ABCD][\s\w\“”\-,:;'’]*",p_text,re.IGNORECASE).group()
+                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*",p_text).group()
                             line_int_ouput=line_int_ouput[2:]
                         line_ouput=line_ouput+" "+line_int_ouput
                     else:
