@@ -56,7 +56,7 @@ for doc in doc_list:
         
             if not d_continuation:
             
-                if re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z]"):
+                if re.search("[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z]",p_text):
                     valid_line = True
                    # print(p_text)                            
                     if not d_continuation:
@@ -125,7 +125,7 @@ for doc in doc_list:
                         if re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text):
                         # Sentence ends in this line
                             d_continuation=False
-                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text.group()                        
+                            line_int_ouput=re.search("\.[\s\w\“”\-,:;'’]*\s*[Aa]lternatives?\s*[ABCDEabcde][^a-zA-Z][\s\w\“”\-,:;'’]*\.",p_text).group()                        
                             line_int_ouput=line_int_ouput[2:]
                         else:
                             d_continuation=True
