@@ -17,10 +17,11 @@ import os
 # list of documents
 #doc_list=['FOMC20131218tealbookb20131212', 'FOMC20131030tealbookb20131024', 'FOMC20130918tealbookb20130912', 'FOMC20130731tealbookb20130725', 'FOMC20130619tealbookb20130613', 'FOMC20130501tealbookb20130425', 'FOMC20130320tealbookb20130314', 'FOMC20130130tealbookb20130124', 'FOMC20121212tealbookb20121206', 'FOMC20121024tealbookb20121018', 'FOMC20120913tealbookb20120906', 'FOMC20120801tealbookb20120726', 'FOMC20120620tealbookb20120614', 'FOMC20120425tealbookb20120419', 'FOMC20120313tealbookb20120308', 'FOMC20120125tealbookb20120119', 'FOMC20111213tealbookb20111208', 'FOMC20111102tealbookb20111027', 'FOMC20110921tealbookb20110915', 'FOMC20110809tealbookb20110804', 'FOMC20110622tealbookb20110616', 'FOMC20110427tealbookb20110421', 'FOMC20110315tealbookb20110310', 'FOMC20110126tealbookb20110120', 'FOMC20101214tealbookb20101209', 'FOMC20101103tealbookb20101028', 'FOMC20100921tealbookb20100916', 'FOMC20100810tealbookb20100805', 'FOMC20100623tealbookb20100617']
 
-doc_list=['2008-12-15']
+doc_list = os.listdir("../output/raw_bluebook")
 
 for doc in doc_list:
     filename=doc
+    print("working on file: "+filename)
 
 # =============================================================================
 #     if not os.path.exists("../output/Bluebook/"+filename):
@@ -31,7 +32,7 @@ for doc in doc_list:
     #parsed = parser.from_file('tealbookcheck.pdf')
     #document['file_text'] = parsed['content']
     
-    file = open("../output/raw_bluebook/"+filename+".txt",'r').read()
+    file = open("../output/raw_bluebook/"+filename,'r').read()
     lines = file.splitlines()
     output=""
     
