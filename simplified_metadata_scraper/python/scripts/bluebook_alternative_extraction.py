@@ -11,8 +11,6 @@ Created on Fri Jun 14 10:00:31 2019
 ### Set packages ###
 
 import pandas as pd
-import csv
-from tika import parser
 import re
 import os
 
@@ -20,8 +18,13 @@ import os
 # Open points:
 # 1) Handling of footnotes. Right now, they are mixed into sentence at the end 
 # of the page.
+# 2) Think about the use of nltk for the extraction of the relevant information
 
+# Open to dos:
+# 1) Present results graphically
+# 2) Present the results in tables
 
+# Do the merge with the news data
 
 ###############################################################################
 
@@ -32,9 +35,10 @@ for item in os.listdir("../output/raw_bluebook/"):
         doc_list.append(item)
 
 files=[]
-for doc in doc_list:
+for idx,doc in enumerate(doc_list):
+    print(idx," Working on file", doc)
     # Do for specific document
-    doc=doc_list[20]
+    #doc=doc_list[20]
     
     # Open the file
     with open("../output/raw_bluebook/"+doc,'r') as f:
@@ -76,38 +80,38 @@ for doc in doc_list:
 
     # Collect all files in the data file
     files.append(data)            
-        
-
+    
 # Collect output in dataframe
 df_output=pd.DataFrame(files)
 
 df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
 df_output['date']=pd.to_datetime(df_output['meeting_date'])
 
-df_result=df_output[(df_output['date']<="2009-04-17") & (df_output['date']>="1968-07-17")]
+df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1968-08-13")]
 
 ###  Do some summary statistics 
 # Total number of meetings between 19680813-20090317
 print("# total bluebooks",len(df_result))
 # Meetings with phrases that contain alternatives
-print("# meeting with sentences:",len(df_output[df_result['n_sentences']>0]))
+print("# meeting with sentences:",len(df_result[df_result['n_sentences']>0]))
 
+print("# meeting alternative a:",len(df_result[df_result['alternative_a_count']>=1]))      
+print("# meeting alternative a:",len(df_result[df_result['alternative_a_count']==1]))            
+
+print("# meeting alternative b:",len(df_result[df_result['alternative_b_count']>=1]))      
+print("# meeting alternative b:",len(df_result[df_result['alternative_b_count']==1]))            
+
+print("# meeting alternative c:",len(df_result[df_result['alternative_c_count']>=1]))      
+print("# meeting alternative c:",len(df_result[df_result['alternative_c_count']==1]))            
       
-print("# meeting alternative a:",len(df_output[df_output['alternative_a_count']==0]))
-print("# meeting alternative a:",len(df_output[df_output['alternative_a_count']<4]))
+print("# meeting alternative d:",len(df_result[df_result['alternative_d_count']>=1]))      
+print("# meeting alternative d:",len(df_result[df_result['alternative_d_count']==1]))            
 
-print("# meeting alternative b:",len(df_output[df_output['alternative_b_count']==1]))
-print("# meeting alternative b:",len(df_output[df_output['alternative_b_count']>1]))
-            
+print("# meeting alternative e:",len(df_result[df_result['alternative_e_count']>=1]))      
+print("# meeting alternative e:",len(df_result[df_result['alternative_e_count']==1]))                        
        
-i=1968
-while i<2011:
-    df_year=df_output[df_output['year']==i]
-    i+=1
-    print(i, "year: # meeting without sentences:",len(df_year[df_year['number of sentences']==0]))
+for i in range(1968,2010):
+    print(i, "year: # meeting without sentences:",len(df_result[(df_result['year']==i) & (df_result['n_sentences']==0)]))
 
-      
 # Write data frame to csv
-df_output.to_csv("../output/bluebook_alternatives_og.csv")
-
-# CHECK: 2000-12-19.txt
+df_result.to_csv("../output/bluebook_alternatives_og.csv")
