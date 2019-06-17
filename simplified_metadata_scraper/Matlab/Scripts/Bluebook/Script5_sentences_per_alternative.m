@@ -95,7 +95,7 @@ end
         
 end
 
-T         = [TableAlternatives(:,1:4),TFedFunds,TDFEDTR, table(sentences(:,1))]; 
+T         = [TableAlternatives(:,1:3),TableAlternatives(:,2*(i_index+1)),TFedFunds,TDFEDTR, table(sentences(:,1))]; 
 
 T.Properties.VariableNames{end} = 'Sentence_1';
 
