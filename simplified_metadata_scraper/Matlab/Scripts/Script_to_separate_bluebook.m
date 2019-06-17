@@ -40,7 +40,7 @@ paragraphs  = strings(size(data,1),1);
 
 %% Separate the files into blocks, according to the bluebook structure
 
-expression  = '(?m)^\(\s?\d{1,2}\s?\)';               %Regular expresssion that looks for (#)
+expression  = '\n{1} ?\(\s?\d{1,2}\s?\)\s+(\"|[A-Z]{1})';               %Regular expresssion that looks for (#)
 
 tic
 
@@ -50,6 +50,11 @@ AUX         = regexp(data(i_data,:),expression,'match');
                                            %Extracts all the "(#)" that
                                            %appear at the beginning of the
                                            %paragraph
+                                           
+expressionaux ...
+            = '\n{1} ?\(\s?\d{1,2}\s?\)';
+        
+AUX         = string(regexp(AUX,expressionaux,'match'));        
     
 [~,aux,~] = ...
              unique(AUX,'stable');         %Unique occurrences of "(#)"
@@ -168,7 +173,8 @@ clear aux AUX aux_numbers aux_titles
   
 end
 
-toc             %Approximately 116 seconds
+toc             
+%Approximately 116 seconds
 %% Write paragraphs in .mat files
 
 Tpara    = table(Tbluebook.start_date(ind_start:ind_end),...
@@ -255,7 +261,7 @@ save('../Output/Bluebook/MAT/Headernum.mat','Theadnum');
 
 aux_check_order = strtok(paragraphs);
 
-aux_check_order  = regexp(aux_check_order,'\d{1,2}','match');
+aux_check_order  = regexp(aux_check_order,'\d{1,2}','match','once');
 
 %% Mistakes in paragraph enumeration
 
