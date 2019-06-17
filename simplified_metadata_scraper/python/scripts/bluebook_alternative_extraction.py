@@ -30,7 +30,10 @@ from wordcloud import WordCloud
 # 2) Think about the use of nltk for the extraction of the relevant information
 # 3) Adjust the cloud of words to be more relevant to our objective.
 
+
 # Do the merge with the news data
+# Do the merge with the statements 
+
 
 ###############################################################################
 
@@ -126,6 +129,25 @@ def getdata_bluebook():
     return pd.DataFrame(files)
 
 ### Create cloud of words
+
+def remove_stopwords(words,stopwords):
+    nostopwords=[]
+    for word in words:
+        if word not in stopwords:
+            nostopwords.append(word)        
+    return nostopwords
+    
+def lemmatization(texts, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV']):
+    """https://spacy.io/api/annotation"""
+    texts_out = []
+    # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+    # python3 -m spacy download en
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(" ".join(texts)) 
+    texts_out.append([token.lemma_ for token in doc if token.pos_ in allowed_postags])
+    return texts_out
+    
+
 def create_cloudwords(sentences,name):
     stop_words = stopwords.words('english')
        
@@ -150,32 +172,13 @@ def create_cloudwords(sentences,name):
     
     # Assign the words
     data_words=words_model
-    
-    def remove_stopwords(words,stopwords):
-        nostopwords=[]
-        for word in words:
-            if word not in stopwords:
-                nostopwords.append(word)        
-        return nostopwords
-    
+        
     # Remove Stop Words
     data_words_nostops = remove_stopwords(data_words,stop_words)
     
-    # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
-    # python3 -m spacy download en
-    nlp = spacy.load('en_core_web_sm')
-    
-    def lemmatization(texts, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV']):
-        """https://spacy.io/api/annotation"""
-        texts_out = []
-        doc = nlp(" ".join(texts)) 
-        texts_out.append([token.lemma_ for token in doc if token.pos_ in allowed_postags])
-        return texts_out
-    
-    
     # Do lemmatization keeping only noun, adj, vb, adv
     data_lemmatized = lemmatization(data_words_nostops, allowed_postags=['NOUN', 'ADJ', 'VERB', 'ADV'])
-    
+     
 # =============================================================================
 #     # Define functions for stopwords, bigrams, trigrams and lemmatization
 #     # Build the bigram and trigram models
@@ -201,7 +204,6 @@ def create_cloudwords(sentences,name):
     
     plt.savefig("../output/summary_tables/"+name+".png")
     
-
 
 ###############################################################################
 
@@ -268,7 +270,6 @@ for alt in ["a","b","c","d","e"]:
 countbynumber.append(counter)
 
 create_table(countbynumber,name="tab_summary_count")
-
 
 ## Show the mentioning of alternative {A-E} graphically
 
