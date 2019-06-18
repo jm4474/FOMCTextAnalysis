@@ -35,7 +35,7 @@ for index, row in data.iterrows():
         entry.update({"policy_change":str(re.search(pattern,sentence,re.IGNORECASE).group(1))})
         entry.update({"policy_change_unit":re.search(pattern,sentence,re.IGNORECASE).group(2)})
 
-    pattern = "(rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change|raise)"
+    pattern = "(raise|rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change)"
     if re.search(pattern,sentence,re.IGNORECASE):
         entry.update({"policy_action":re.search(pattern,sentence,re.IGNORECASE).group()})
 
