@@ -22,7 +22,7 @@ TFedFunds = TFedFunds(indices',2);
 TFedFunds.Properties.VariableNames{1} ...
           = 'DFF_Before_meeting';
 
-clear indices daybeforemeeting datesFedFunds 
+clear indices datesFedFunds 
 
 %% For reference, add the Romer and Romer intended Federal Funds Rate at the end of the meeting 
 %  (and the monetary policy decision)
@@ -34,31 +34,57 @@ datestarget ...
 
 dayendmeeting ...
           = TableAlternatives.end_date;
-      
-      
-DFEDTR    = strings(size(TFedFunds,1),1);
-      
+            
+DFEDTR_end ...
+          = strings(size(TFedFunds,1),1);
+
+%Fill the end of the meeting DFEDTR      
 for i_date= 1:size(TFedFunds,1)      
     
     aux   = strcmp(string(dayendmeeting(i_date,1)),datestarget);
     
     if sum(aux)==0
         
-        DFEDTR(i_date,1) = 'No target in FRED';
+        DFEDTR_end(i_date,1) = 'No target in FRED';
         
     else
         
-        DFEDTR(i_date,1) = TDFEDTR.DFEDTAR(aux,1);
+        DFEDTR_end(i_date,1) = TDFEDTR.DFEDTAR(aux,1);
        
     end
     
 end
 
+clear aux
+
+DFEDTR_before ...
+          = strings(size(TFedFunds,1),1);
+
+
+%Fill the before the meeting DFEDTR
+for i_date= 1:size(TFedFunds,1)      
+    
+    aux   = strcmp(string(daybeforemeeting(i_date,1)),datestarget);
+    
+    if sum(aux)==0
+        
+        DFEDTR_before(i_date,1) = 'No target in FRED';
+        
+    else
+        
+        DFEDTR_before(i_date,1) = TDFEDTR.DFEDTAR(aux,1);
+       
+    end
+    
+end
+
+
+
 clear TDFEDTR 
 
-TDFEDTR  = table(DFEDTR);
+TDFEDTR  = table(DFEDTR_before,DFEDTR_end);
 
-clear indices dayendmeeting datestarget DFEDTR
+clear indices dayendmeeting datestarget DFEDTR daybeforemeeting
 
 %% Generate csv files with the sentences for each alternative
 %  Takes 11 seconds
