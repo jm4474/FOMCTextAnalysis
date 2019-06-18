@@ -3,7 +3,7 @@ import pprint
 import csv
 def main():
     data_points = []
-    lines = open("romer_data.txt","r").readlines()
+    lines = open("../output/romer_data.txt","r").readlines()
     lines = lines[100:1419]
     no_page_nums = []
     for line in lines:
@@ -17,7 +17,10 @@ def main():
     assert(len(dates)==len(points))
     for index in range(len(points)):
         data = {}
-        data['date'] = dates[index]
+        date = dates[index]
+        if "-" in date:
+            date=date.split("-")[0]+"/"+date.split("-")[1].rsplit("/")[-1]
+        data['date'] = date
         effect = points[index].strip().split(". ")[0]
         if "no change" in effect:
             data['prev'] = effect.split(",")[0]
