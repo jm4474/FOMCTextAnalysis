@@ -38,6 +38,9 @@ import numpy as np
 
 ###############################################################################
 
+
+
+
 ### Define table output 
 def create_table(data,name):
     # Output the table
@@ -293,12 +296,14 @@ alternative="b"
 year=2006
 df_result[df_result['year']==year][['year','date',"alt_"+alternative+"_class"]]
 
-start_year=2000
-pd.pivot_table(df_result[df_result['year']>=start_year],'date',index=['alt_'+alternative+'_class'], \
+start_year=1994
+end_year=1999
+pd.pivot_table(df_result[(df_result['year']>=start_year) & (df_result['year']<=end_year)],'date',index=['alt_'+alternative+'_class'], \
                aggfunc=np.count_nonzero)
 pd.pivot_table(df_result[df_result['year']>=start_year],'date',index=['alt_'+alternative+'_class'], \
                columns=['year'],aggfunc=np.count_nonzero)
 
 # Check the no assignment cases
 df_result[(df_result["alt_"+alternative+"_class"]=="No assignment") &  \
-          (df_result["year"]>=1994)]["alt_"+alternative+"_sentences"].iloc[4]
+          (df_result['year']>=start_year) & (df_result['year']<=end_year)] \
+          ["alt_"+alternative+"_sentences"].iloc[3]
