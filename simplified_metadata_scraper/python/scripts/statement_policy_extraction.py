@@ -59,8 +59,6 @@ output=pd.DataFrame(total_entries)
 output.to_csv("../output/statements_text_extraction.csv")
 
 
-
-
 def clean_fraction(frac):
     fraction=frac.split("/")
     rate=int(fraction[0].strip())/int(fraction[1].strip())

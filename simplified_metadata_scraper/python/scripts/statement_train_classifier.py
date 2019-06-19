@@ -26,11 +26,9 @@ print(len(data))
 ## Create categorical variable for policy treatment
 data['treatment_id'] = data['policy_treatment'].factorize()[0]
 
-
 category_id_df = data[['policy_treatment', 'treatment_id']].drop_duplicates().sort_values('treatment_id')
 category_to_id = dict(category_id_df.values)
 id_to_category = dict(category_id_df[['treatment_id','policy_treatment']].values)
-
 
 # Some sum stats
 fig = plt.figure(figsize=(8,6))
@@ -47,12 +45,6 @@ pd.pivot_table( data,index='policy_treatment',aggfunc=np.count_nonzero )
 # ngram_range is set to (1, 2) to indicate that we want to consider both unigrams and bigrams.
 # stop_words is set to "english" to remove all common pronouns ("a", "the", ...) to reduce the number of noisy features.
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-tfidf = TfidfVectorizer(sublinear_tf=True, min_df=3, norm='l2', encoding='latin-1', ngram_range=(1, 2), stop_words='english')
-features = tfidf.fit_transform(data['statement']).toarray()
-labels = data['treatment_id']
-# yields 129 sentences with 2586 tokens
-features.shape 
 
 from sklearn.feature_extraction.text import CountVectorizer
 tf=CountVectorizer( min_df=3,  encoding='latin-1', ngram_range=(1, 2), stop_words='english')
@@ -141,26 +133,58 @@ print(metrics.classification_report(y_test, y_pred, target_names=data['policy_tr
 ### Import data by calling function in other file
 from bluebook_alternative_extraction_and_classification import getdata_bluebook
 
-# =============================================================================
-# df_output=getdata_bluebook()
-# df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
-# df_output['date']=pd.to_datetime(df_output['meeting_date'])
-# df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1988-01-01")]
-# 
-# =============================================================================
+df_output=getdata_bluebook()
+df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
+df_output['date']=pd.to_datetime(df_output['meeting_date'])
+df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1988-01-01")]
+
+
+### Get the feature matrix from the alternatives.
+# Do one alternative at a time
+
+## Preprocessing
+# Preprocessing has to be done once at at time to insure the dimension of the feature matrices
+
+for alt in ["a","b","c","d","e"]:
+    df_result.loc[:,"alt_"+alt]=""
+    for idx,value in df_result["alt_"+alt+"_sentences"].iteritems():
+        if not len(value)==0:
+            df_result.loc[idx,"alt_"+alt]=value[0]
+
+x_data=pd.wide_to_long(df_result[["date","alt_a","alt_b","alt_c","alt_d","alt_e"]], "alt", "date", "alternative",sep="_",suffix="\w+")
+x_data=x_data.reset_index()
+x_data=pd.DataFrame(x_data[x_data["alt"]!=""])
+x_data=x_data.rename({"alt":"statement"},axis='columns')
+x_data=x_data.drop(columns=['date','alternative'])
+x_data.loc[:,"treatment_id"]=""
+new=pd.DataFrame(data[["statement","treatment_id"]])
+x_data=x_data.append(new,ignore_index=True)
+x_data.loc[:,"training"]=x_data["treatment_id"]!=""
+
+selection=np.array(x_data["training"]==True)
+label=np.array(x_data["treatment_id"])
+
+from sklearn.feature_extraction.text import CountVectorizer
+tf=CountVectorizer( min_df=3,  encoding='latin-1', ngram_range=(1, 2), stop_words='english')
+features = tf.fit_transform(x_data['statement']).toarray()
+# yields 523 meetings with 3198 tokens
+features.shape 
 
 ## Do prediction with the random forest
 # Select model
+
+features[selection]
+
+x_train=features[selection]
+y_train=list(label[selection])
+x_pred=features[~selection]
+
 model = RandomForestClassifier()
-X_train, X_test, y_train, y_test, indices_train,indices_test = train_test_split(features, labels, \
-                                data.index, test_size=0.33, random_state=0)
-model.fit(X_train, y_train)
-y_pred = model.predict(X_test)
-from sklearn.metrics import confusion_matrix
-conf_mat = confusion_matrix(y_test, y_pred)
-fig, ax = plt.subplots(figsize=(10,10))
-sns.heatmap(conf_mat, annot=True, fmt='d',
-            xticklabels=category_id_df['policy_treatment'], yticklabels=category_id_df['policy_treatment'].values)
-plt.ylabel('Actual')
-plt.xlabel('Predicted')
-plt.show()
+model.fit(x_train, y_train)
+
+y_id = model.predict(x_pred)
+
+y_id=[]
+for element in y_pred:
+    y_label    
+
