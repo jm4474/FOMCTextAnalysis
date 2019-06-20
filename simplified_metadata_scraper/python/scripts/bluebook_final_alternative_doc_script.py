@@ -41,6 +41,7 @@ def merge_alternative_sentences(classifier_validate_df,alternative_d,alternative
 def transform_merged(merge_class_d_e):
     for alt in ['a','b','c','d','e']:
         merge_class_d_e['C_TREATMENT_SIZE_alt_'+ alt] = ""
+        merge_class_d_e['justify_alt_'+alt] = ""
         merge_class_d_e['Sentences_alt_'+alt] = ""
         sentence_columns = []
         for sentence_num in range(1, 12):
@@ -58,14 +59,14 @@ def transform_merged(merge_class_d_e):
 
     merge_class_d_e['comments'] = ""
     merge_sub = merge_class_d_e[[
-                    'start_date', 'end_date', 'DFF_Before_meeting',
-                    'DFEDTR_before', 'DFEDTR_end',
-                    'C_TREATMENT_alt_a', 'C_TREATMENT_SIZE_alt_a', 'Sentences_alt_a',
-                    'C_TREATMENT_alt_b', 'C_TREATMENT_SIZE_alt_b', 'Sentences_alt_b',
-                    'C_TREATMENT_alt_c', 'C_TREATMENT_SIZE_alt_c', 'Sentences_alt_c',
-                    'C_TREATMENT_alt_d', 'C_TREATMENT_SIZE_alt_d', 'Sentences_alt_d',
-                    'C_TREATMENT_alt_e', 'C_TREATMENT_SIZE_alt_e', 'Sentences_alt_e',
-                    'comments'
+        'start_date', 'end_date', 'DFF_Before_meeting',
+        'DFEDTR_before', 'DFEDTR_end',
+        'C_TREATMENT_alt_a', 'C_TREATMENT_SIZE_alt_a', 'justify_alt_a', 'Sentences_alt_a',
+        'C_TREATMENT_alt_b', 'C_TREATMENT_SIZE_alt_b', 'justify_alt_b', 'Sentences_alt_b',
+        'C_TREATMENT_alt_c', 'C_TREATMENT_SIZE_alt_c', 'justify_alt_c', 'Sentences_alt_c',
+        'C_TREATMENT_alt_d', 'C_TREATMENT_SIZE_alt_d', 'justify_alt_d', 'Sentences_alt_d',
+        'C_TREATMENT_alt_e', 'C_TREATMENT_SIZE_alt_e', 'justify_alt_e', 'Sentences_alt_e',
+        'comments'
     ]]
     return merge_sub
 
