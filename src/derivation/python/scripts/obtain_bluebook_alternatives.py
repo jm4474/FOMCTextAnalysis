@@ -1,6 +1,6 @@
 """
 Purpose: Loads the bluebook data from the raw files and extracts the sentences 
-         that are affiliated with the alternatives
+         that are affiliated with the alternatives and creates file.
 @author: olivergiesecke
 """
 
@@ -10,20 +10,6 @@ Purpose: Loads the bluebook data from the raw files and extracts the sentences
 import pandas as pd
 import re
 import os
-import matplotlib.pyplot as plt
-
-
-from nltk.corpus import stopwords
-import gensim
-import gensim.corpora as corpora
-from gensim.utils import simple_preprocess
-from gensim.models.phrases import Phrases, Phraser
-# spacy for lemmatization
-from distutils.core import setup
-from Cython.Build import cythonize
-import spacy
-from wordcloud import WordCloud
-import numpy as np
 
 ###############################################################################
 # Open points:
@@ -32,13 +18,15 @@ import numpy as np
 #page.
 # 2) Think about the use of nltk for the extraction of the relevant information
 # 3) Adjust the cloud of words to be more relevant to our objective.
-
-
-# Do the merge with the news data
-# Do the merge with the statements 
-
-
 ###############################################################################
+
+def main():
+    ## Read data and define sample
+    df_output=getdata_bluebook()
+    # Write data frame to csv
+    if not os.path.isdir("../output/"):
+        os.mkdir("../output/")
+    df_output.to_csv("../output/bluebook_alternatives.csv")
     
 ### Define data download
 def getdata_bluebook():
@@ -55,7 +43,7 @@ def getdata_bluebook():
         #doc=doc_list[20]
         
         # Open the file
-        with open("../output/raw_bluebook/"+doc,'r') as f:
+        with open("../../../collection/python/output/bluebook_raw_text/"+doc,'r') as f:
             # Read document line by line
             lines=f.readlines()
         
@@ -97,15 +85,6 @@ def getdata_bluebook():
         
     # Collect output in dataframe
     return pd.DataFrame(files)
-    
 
-###############################################################################
+main()
 
-### Read data and define sample ###
-df_output=getdata_bluebook()
-df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
-df_output['date']=pd.to_datetime(df_output['meeting_date'])
-df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1968-08-13")]
-# Write data frame to csv
-df_output.to_csv("../output/bluebook_alternatives_population.csv")
-df_result.to_csv("../output/bluebook_alternatives_sample.csv")

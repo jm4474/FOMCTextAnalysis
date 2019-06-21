@@ -1,4 +1,4 @@
-"""
+ """
 Purpose: Outputs the statistics of the bluebook alternatives
 Status: Draft
 @author: olivergiesecke
@@ -153,8 +153,18 @@ def create_cloudwords(sentences,name):
 
 
 ###  Do some summary statistics ###
-df_result=pd.read_csv("../output/bluebook_alternatives_sample.csv")
-df_output=pd.read_csv("../output/bluebook_alternatives_population.csv")
+df_output=pd.read_csv("../output/bluebook_alternatives.csv")
+df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
+df_output['date']=pd.to_datetime(df_output['meeting_date'])
+df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1968-08-13")]
+
+
+if not os.path.isdir("../output/summary_tables"):
+    os.mkdir("../output/summary_tables")
+
+
+
+
 
 ## Aggregate Statistics ##
 # Number of bluebooks
@@ -222,16 +232,18 @@ for alt in ["a","b","c","d","e"]:
 ax.set_ylim(["Alt. A","Alt. E"])
 
 fig.savefig('../output/summary_tables/fig_alt_time.png')
-
-## Show the bigrams associated with each alternative
-
-for alt in ["a","b","c","d","e"]:
-    phrases=df_result[df_result["alternative_"+alt+"_count"]>=1]["alt_"+alt+"_sentences"].tolist()
-    sentences=[]
-    for phrase in phrases:
-        for sentence in phrase:
-            sentences.append(sentence)
-    create_cloudwords(sentences,name="fig_cloudwords_"+alt)
-
-
+# =============================================================================
+# 
+# ## Show the bigrams associated with each alternative
+# 
+# for alt in ["a","b","c","d","e"]:
+#     phrases=df_result[df_result["alternative_"+alt+"_count"]>=1]["alt_"+alt+"_sentences"].tolist()
+#     sentences=[]
+#     for phrase in phrases:
+#         for sentence in phrase:
+#             sentences.append(sentence)
+#     create_cloudwords(sentences,name="fig_cloudwords_"+alt)
+# 
+# 
+# =============================================================================
 
