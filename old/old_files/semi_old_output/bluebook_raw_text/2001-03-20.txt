@@ -1,0 +1,1028 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+ 
+Prefatory Note 
+
+ 
+ 
+
+The attached document represents the most complete and accurate version 
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+ 
+
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+ 
+
+                                                 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+
+
+1  Over the intermeeting period, federal funds have traded at rates near the target
+level.  The Desk  redeemed $3.2  billion of Treasury securitie s, mostly coupon  issues, to
+continue bringing SOMA holdings into conformance with the per-issue limits.  To offset the
+resulting reserve drain and meet longer-term reserve needs, the Desk purchased $9.4 billion
+of Treasury securities in the market and $790 million of Treasury bills from foreign
+customers.  The volume of outstanding long-term RPs remained at $12 billion.
+
+Strictly Confidential (F.R.) March 15, 2001
+Class II – FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Recent D evelopments
+
+(1) The Committee’s decision on January 31 to reduce the intended level of
+
+the federal funds rate by 50 basis points, to 5½ percent, and the announcement that it
+
+viewed risks as remaining weighted toward economic weakness were widely
+
+anticipated and had little impact on market yields.1  Information  becoming  available
+
+over the intermeeting period–particularly widespread earnings disappointments, sharp
+
+declines in share prices, and a notable drop in consum er confidence–led  market
+
+participants to mark down further their anticipated path of the federal funds rate.  The
+
+market is now confident that the Committee will lower the funds rate by at least 50
+
+basis points at the March meeting and has priced in high odds of a 75 basis point
+
+action.  Looking further ahead, futures contracts point to expectations that the funds
+
+rate will move down to  around 4¼  percent by the  fall (chart 1).
+
+(2) Against this backdrop, the Treasury yield curve has shifted lower over
+
+the intermeeting period, with short-term interest rates falling 50 basis points and
+
+longer-term yields dropping 30 to 50 basis points.  Broad equity indexes have declined
+
+about 15 percent, in large part owing to declines in  the pr ices of technology shares. 
+
+Indeed, the technology-heavy Nasdaq has plunged 32 percent, but of late the
+
+weakness has spread to other sectors.  Despite these substantial cap ital losses, markets
+
+have continued to function without significant signs of strain.  However, the gloomier
+
+
+
+Chart 1
+Financial Market Indicators
+
+Note: Solid vertical line indicates last FOMC meeting.
+
+Mar May Jul Sep Nov Jan Mar May Jul Sep Nov
+2001 2002
+
+4.00
+
+4.25
+
+4.50
+
+4.75
+
+5.00
+
+5.25
+
+5.50
+
+5.75
+Percent
+
+January 30, 2001
+March 15, 2001
+
+Expected Federal Funds Rates Estimated from
+Financial Futures*
+
+*Estimates from federal funds and eurodollar futures rates with an
+allowance for term premia and other adjustments.
+
+Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+2000 2001
+
+4.00
+
+4.25
+4.50
+4.75
+5.00
+5.25
+5.50
+5.75
+6.00
+6.25
+6.50
+6.75
+
+7.00
+Percent
+
+Two-year
+
+Ten-year
+
+Selected Treasury Yields
+
+Daily
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+2000 2001
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+Percent Percent
+
+High Yield
+(left scale)
+
+Corporate BBB
+ (right scale)
+
+Thirty-year
+Mortgage
+
+(weekly, right scale)
+
+Ten-year Swap
+(right scale)
+
+Selected Private Long-Term Yields
+
+Daily
+
+Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+2000 2001
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+Basis Points
+
+High Yield
+
+BBB
+
+Selected Risk Spreads*
+
+Daily
+
+*These spreads are the difference between the yields on the Merrill Lynch 
+175 and BBB indexes and that on the Merrill Lynch AAA index.
+
+Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+2000 2001
+
+ 60
+
+ 80
+
+100
+
+120
+
+140
+Index(5/31/00) = 100
+
+Nasdaq
+
+Wilshire 5000
+
+DJIA
+
+Daily
+
+Selected Equity Indexes
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+Basis Points
+
+2001
+1999-2000
+1996-1998
+
+Spread of Low-Tier CP Rate
+over High-Tier CP Rate*
+Daily
+
+*30-day nonfinancial, A2/P2 rate less AA rate.
+
+Dec Jan Feb Mar
+
+
+
+2
+
+profits outlook and unsettled prospects for corporate equities have put upward
+
+pressure on private debt spreads in recent days, especially for lower-rated
+
+corporations.  As a consequence, rates on h igh-yield bonds have fallen only 10 basis
+
+points, while those on the bonds of better-rated corporations are off 35 to 45 basis
+
+points.  At commercial banks, many lending officers report they have again tightened
+
+standards and terms on business loans since the beginning of the year, raising the cost
+
+and likely signaling the reduced availability of new loan commitments.
+
+(3) Bond yields and stock prices fell in most other industrial countries over
+
+the intermeeting period, albeit generally by less than in the United States.  Still, the
+
+dollar apprec iated in value on  foreign exchange markets, gain ing 3¾ percent against a
+
+basket of major currencies (chart 2).  The dollar strengthened most against the
+
+currencies of countries where the potential for economic weakening was seen to be
+
+greatest, increasing 3¾ percent vis-a-vis the Canadian dollar and 5½ percent relative
+
+to the Japanese yen.  Over the intermeeting period, the Bank of Canada eased policy
+
+by 50 basis points, but market participants apparently harbored considerable concerns
+
+that this would be insufficient to absorb the impact on Canada of a slowing U.S.
+
+economy.  The Bank of Japan trimmed 10 basis points from its call money rate, which
+
+now stands at 15 basis points, and some officials hinted that more easing might be in
+
+store.  But with Japanese equity prices falling 13 percent over the last six weeks and
+
+raising doubts about the banking sector, the political coalition in power looking
+
+fragile, and forward-looking indicators pointing to very weak domestic spending, the
+
+prospects for economic activity in  Japan seem poor.  Market participants apparently
+
+viewed the economic expansion in Europe as more secure and seemed unfazed by the
+
+European Central Bank keeping its policy on hold.  Nonetheless, the dollar gained 2¼
+
+percent against the euro.  Over the intermeeting period,                                  
+
+
+
+Chart 2
+Financial Flows and Exchange Rates
+
+MARA:JW
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+1999 2000
+H1
+
+2000
+Q3
+
+2000
+Q4 J F
+
+M2 Growth
+Percent
+
+Annualized
+
+2001
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+1999 2000
+H1
+
+2000
+Q3
+
+2000
+Q4 J
+
+ 
+
+Total Debt
+
+Annualized
+Percent
+
+2001
+
+p
+
+p - Preliminary.
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+1999 2000
+H1
+
+2000
+Q3
+
+2000
+Q4 J F
+
+Business Debt
+Sum of Selected Components*
+
+Annualized
+Percent
+
+2001
+
+p
+
+p
+
+p - Preliminary.
+*Bonds, commercial paper, and C&I loans.
+
+Growth of Debt of Domestic Nonfinancial Sectors
+
+Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+2000 2001
+
+ 98
+
+100
+
+102
+
+104
+
+106
+
+108
+
+ 
+
+Broad
+Index
+
+Major
+Currencies
+
+Index
+
+Other Important
+Trading Partners
+
+Index(5/31/00) = 100
+Nominal Trade-Weighted Dollar Exchange Rates
+
+Solid vertical line indicates last FOMC meeting.
+
+FOMCDaily
+
+Dashed vertical line indicates January 3 cut in target federal funds rate.
+
+1999 2000
+
+2.0
+
+2.2
+
+2.4
+
+2.6
+
+2.8
+
+3.0
+
+3.2
+
+3.4
+
+ 
+
+* Yield on three-month Treasury bill minus average
+return on M2 assets.
+* Yield on three-month Treasury bill minus average
+return on M2 assets.
+
+M2 Opportunity Cost*
+
+Monthly
+
+Percentage Points
+
+Feb
+
+
+
+3
+
+                                                                                                        U.S. authorities did
+
+not intervene.
+
+(4) The dollar rose ¾ percent over the intermeeting period in  terms of a
+
+basket of currencies of our other important trading partners.  In Turkey, with a weak
+
+banking system adding to pressures on government finances and political tensions
+
+flaring, the central bank was forced to abandon its crawling peg in late February.  The
+
+dollar initially appreciated over 50 percent against the Turkish lira but has
+
+subsequently fallen back some to end the period up about 30 percent.  The spillover
+
+to other markets was contained, with investors withdrawing for a time from the debt
+
+of Argentina, which has sim ilarly shaky finances and political troubles.  On net,
+
+spreads on Argentinian debt edged lower over the period, reflecting confidence in the
+
+new finance minister.  But with the outlook for the global economy looking poorer
+
+and investors somewhat more skittish, spreads on emerging  market debt rose 65 basis
+
+points on net.  Emerging market equity prices have followed U.S. markets down but
+
+have dropped somewhat less on balance.
+
+(5) Falling interest rates have contributed to rapid growth in the monetary
+
+aggregates in recent months.  M2 expanded at a 10¾ percent rate in February, down
+
+only a little from its January pace, w ith the strength in  both months concentrated in its
+
+liquid components (see chart 2).  In addition to declines in its opportunity cost, the
+
+robust growth of M2 this year may reflect the appeal of safe, short-term assets, given 
+
+volatile equity markets and the yield advantage of money funds relative to longer-term
+
+investments.  M2 also was lifted somewhat last month by a pickup in mortgage loan
+
+prepayments, the proceeds of which are temporarily held in bank deposits, and by
+
+larger than usual tax refunds.  M3 growth, too, remained strong in February, at an
+
+11½ percent rate, supported by a surge in institutional money market funds, whose
+
+yields lagged the declines in money market rates.
+
+
+
+4
+
+(6) Businesses have taken advantage of lower long-term interest rates and a
+
+receptive bond market since early in the year to issue a huge volume of bonds, a good
+
+chunk of which has been  earmarked to pay down commercial paper.  Many lower-
+
+rated commercial paper issuers, facing reluctant investors and elevated interest rates,
+
+also have turned to commercial banks.  Bank lending to businesses has been robust
+
+since the turn of the year, despite the reported further tightening of standards and
+
+terms since then.  On net, business borrowing appears to be growing about in line
+
+with the pace of late last year.  Lower interest rates also have buoyed the mortgage
+
+market, supporting househo ld borrowing, which was augmented by robust consumer
+
+debt growth early in the year.  State and local governments, too, have moved to take
+
+advantage of favorable interest rates by stepping up issuance, only partly for refunding
+
+purposes.  Overall, growth of debt of the nonfederal sectors ear ly this year appears to
+
+have edged down from its pace of the last quarter of 2000, while growth of total
+
+domestic nonfinancial debt has been about maintained owing to some moderation in
+
+the contraction  of federal debt.
+
+
+
+5
+
+MONEY AND CREDIT AGGREGATES
+(Seasonally adjusted annual percentage rates of growth)
+
+Nov 2000 Dec 2000 Jan 2001 Feb 2001 (p)
+
+Money and Credit Aggregates
+
+M2 4.2 9.6 12.3 10.8
+
+M3 4.2 13.8 16.0 11.6
+
+Domestic nonfinancial debt 5.4 5.8 3.8 n.a.
+Federal -9.2 -6.6 -7.1 n.a.
+Nonfederal 8.8 8.6 6.3 n.a.
+
+Bank credit 2.9 14.7 9.1 5.3
+Adjusted1 4.1 11.4 6.6 5.2
+
+Memo:
+
+Monetary base2 3.5 5.3 10.9 3.2
+Adjusted for sweeps 3.8 5.5 10.7 3.4
+
+1. Adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and
+FASB 115).
+2. Adjusted for discontinuities associated with changes in reserve requirements.
+p -- preliminary
+
+
+
+6
+
+Policy Alternatives
+
+(7) In the staff forecast, an inventory correction intensifies further in the
+
+current quarter, holding output to a very small increase.  With inventories better
+
+aligned with sales by the second half of the year and the effects of policy
+
+easings–including another 50 basis points assumed to occur at this meeting–working
+
+their way through to spending, output growth gradually picks up.  Although
+
+consumption gets a lift from the expected decline of energy prices and the assumed
+
+retroactive tax cut, the deterioration in the net worth of households damps the
+
+rebound.  Investment demand recovers gradually, supported by continued rap id
+
+growth in structural productivity.  The staff assum ption that po licy will be on hold
+
+over the remainder of the forecast period implies a path for the funds rate that is
+
+higher than expected by the financial markets, contributing to  some backup in
+
+nominal long-term interest rates, a decline in equity prices, and a more moderate
+
+depreciation in the dollar.  Partly as a consequence, the growth of aggregate demand
+
+rises slowly over coming quarters and approaches that of aggregate supply only by the
+
+end of the forecast period.  The extended period of subpar growth results in the
+
+unemployment rate rising to about 5½ percent, producing a small drop in core PCE
+
+inflation in 2002 from this year’s projected 2 percent pace.
+
+(8) The Committee could select a 50 basis point reduction in the funds
+
+rate at this meeting if it thought an easing of at least this size  would prove necessary to
+
+promote a return of economic growth to an acceptable pace over time.  The resulting
+
+5 percent federal funds rate would imply a real rate of around 3 percent–assuming that
+
+inflation expectations are in line with  the staff forecast of core  PCE prices.  Even if
+
+this places the real rate  below its long-run equilibrium value, an undershoot m ay well
+
+be needed for a time to counter the effects of the declines in equity wealth, the
+
+apparent downward revision to expected near-term returns on cap ital, a possible
+
+
+
+7
+
+overhang of productive  capacity, and lower  business and  consumer confidence. 
+
+Although the cumulative reduction in the funds rate of 1½ percentage points since the
+
+start of the year would represent a sharp and substantial change in the stance of
+
+policy, aggregate demand and attitudes have deteriorated quickly.  The relatively rapid
+
+lessening of pressures in labor markets now likely in train should counter any
+
+tendency for inflation to move higher.  If the Committee suspected that additional
+
+easing might be needed at some point, it might still prefer to move by no more than
+
+50 basis points a t this meeting so  that it could better assess the initial response to its
+
+previous actions, the underlying  strength of demand, and the extent of price pressures. 
+
+In those circumstances, the Committee presumably would want to retain the current
+
+statement that the risks are weighted toward economic weakness.  The Committee
+
+could also retain that statement if it believed that 50 basis points could well be
+
+sufficient to achieve its objectives, but saw the risks to that outlook as skewed to the
+
+downside.   
+
+(9) Market participants evidently expect at least a 50 basis point cut in the
+
+target funds rate at this meeting, with federal funds futures rates suggesting high odds
+
+that the reduction will be 75 basis points.  Participants also reportedly expect the
+
+Committee to state that the balance of risks remains weighted  toward economic
+
+weakness.  Therefore, a 50 basis po int move combined w ith such a statement likely
+
+would cause interest rates to back up.  Price declines might be larger in equity markets,
+
+where investors seem to be hoping for especially aggressive Federal Reserve act ion. 
+
+Further easings in the stance of monetary policy over time would continue to be
+
+anticipated, and current market expectations that the funds rate could be around 4¼
+
+percent later th is year m ight not be material ly affected. 
+
+(10) The Committee could decide to reduce the target federal funds rate even
+
+more at this meeting–choosing a 75 basis point decrease–if it saw the outcome in
+
+
+
+8
+
+the staff forecast as plausible and consistent with its objec tives but subject to
+
+excessive downside risks.  Sources of risk include the possibility of substantial further
+
+decreases in equ ity prices and tightening in credit conditions as profits continue to  fall,
+
+and fragility in consumer and business confidence.  In addition, recent profit and sales
+
+shortfalls in the technology sector could indicate a considerable overhang of high-tech
+
+capital throughout the economy or  even a slower  pace of structural productivity
+
+growth going forward.  Either case would weaken investment spending for some time
+
+and probably necessitate significant monetary policy ease.  Thus, a 75 basis point
+
+reduction in the funds rate at this time could be appropriate to provide some
+
+protection against the possibility of a prolonged period of economic weakness.  Even
+
+if the Committee does not see inordinate downside risks to the staff forecast, it might
+
+view that forecast as involving unacceptably weak output and employment, justifying a
+
+greater easing than assumed by the staff.  In the Greenbook, the  unemployment rate
+
+rises noticeably above the level the staff judges to  be consistent  with stable in flation . 
+
+Moreover, the Committee may see good odds that the economy can sustainably
+
+operate at a noticeably lower level of unemployment than is embedded in the staff
+
+forecast, and want to lean against appreciable increases in unemployment absent
+
+clearer  evidence that  such increases are necessary  to contain inflation .   
+
+(11) A 75 basis point easing, if accompanied by a statement that the risks
+
+remain weighted toward economic weakness, would generate some price gains in both
+
+the fixed income and equity m arkets.  But, given the skittishness in financial markets
+
+and the possibility that the stock adjustment process for capital and inventories may
+
+have a ways to run, the Committee might still see a preponderance of downside risks
+
+to the economy, even after the 75 basis point move and the likely reaction in asset
+
+markets. 
+
+
+
+9
+
+(12) In developing its forecast, the staff has placed considerable weight on
+
+the recent deterioration in consumer confidence and equity wealth.  If, instead, the
+
+Committee put more emphasis on the relatively firm indicators on spending and
+
+employment of late, it might view the forecast of output in the Greenbook as too
+
+pessimistic.  In that case, it might think that less easing is called for  than assumed in
+
+the staff forecast and much less than is anticipated by the market, inclining it to favor
+
+a smaller, 25 basis point reduction in the target funds rate.  Moreover, the
+
+disquieting readings on consumer prices for January might counsel caution in lowering
+
+the funds rate further.  Given the sizable easing already undertaken  this year, a more
+
+gradual approach to further reductions in  the funds rate may now be appropriate, in
+
+part to  allow time to gauge the effects of the po licy act ions in  the pipeline. 
+
+(13) Market participants wou ld be surprised  by an easing of only 25 basis
+
+points, and debt and equity markets would sell off apprec iably–and even more sharply
+
+if this action were combined with a shift to a statement of balanced risks.  But if the
+
+Committee saw considerably more underlying strength in the real economy or greater
+
+inflation risks than did market participants, it might view as appropriate the resulting
+
+reassessment of the trajectory of expected policy and the consequent tightening of
+
+financ ial conditions. 
+
+(14) Under the staff forecast, including the assumed 50 basis point easing at
+
+this meeting, the debt of domestic nonfinancial sectors is projected to grow at a 5½
+
+percent rate over the period from January to June.  Sluggish economic growth and
+
+declining profits may make lenders somewhat more cautious, but a significant
+
+decrease in credit availability is not foreseen, and the debt of borrowers other than the
+
+federal government is projected to increase at an 8 percent annual rate over the same
+
+interval.  This latter growth rate far exceeds the 3½ percent pace of nominal GDP
+
+growth foreseen for the first half of this year.  For households, the expansion of
+
+
+
+10
+
+mortgage debt is expected to be well maintained, reflecting the influence of low
+
+mortgage interest rates on housing activity and mortgage refinancing.  Consumer
+
+credit growth, by contrast, is seen as moderating significantly, as consumer outlays on
+
+durable goods are projected to be weak.  Business debt growth should remain hefty as
+
+external financing needs continue to be substantial, owing in  part to the weakness in
+
+profits.  
+
+(15) Under the Greenbook assessment of the likely evolution of nominal
+
+income and interest rates, the staff expects M2 growth to moderate to a 7½ percent
+
+pace over the February-to-June interval.  Falling market interest rates, mortgage
+
+prepayment activity, and attractive returns on money funds relative to longer-term
+
+instruments are projected to lift M2 growth in the near-term.  However, this boost, on
+
+balance, is smaller than in the first two months of the year, as the declines in short-
+
+term interest rates are assumed to slow from their pace around the turn of the year. 
+
+M3 growth, projected at a 7 percent pace over the February-to-June interval, is
+
+supported by further strong expansion of institutional money funds following the
+
+assumed easing action at this meeting.
+
+
+
+                                  Alternative Growth Rates for Key Monetary and Credit Aggregates
+
+                                     M2                                  M3                         M2       M3      Debt
+                        ---------------------------         ---------------------------         ---------------------------
+                            Ease     Ease     Ease              Ease     Ease     Ease              Greenbook Forecast* 
+                           75 bp    50 bp    25 bp             75 bp    50 bp    25 bp                    
+                        ---------------------------         ---------------------------         ---------------------------
+    Monthly Growth Rates
+      Dec-2000               9.6      9.6      9.6              13.8     13.8     13.8               9.6     13.8      5.8
+      Jan-2001              12.3     12.3     12.3              16.0     16.0     16.0              12.3     16.0      3.8
+      Feb-2001              10.8     10.8     10.8              11.6     11.6     11.6              10.8     11.6      5.4
+      Mar-2001              10.8     10.8     10.8               7.8      7.8      7.8              10.8      7.8      7.6
+      Apr-2001               9.9      9.5      9.1               9.2      9.0      8.8               9.5      9.0      5.2
+      May-2001               4.8      4.0      3.2               5.6      5.2      4.8               4.0      5.2      3.4
+      Jun-2001               5.8      5.0      4.2               6.4      6.0      5.6               5.0      6.0      5.7
+
+    Quarterly Growth Rates
+        2000 Q2              6.4      6.4      6.4               9.0      9.0      9.0               6.4      9.0      6.1
+        2000 Q3              5.8      5.8      5.8               8.9      8.9      8.9               5.8      8.9      4.9
+        2000 Q4              6.6      6.6      6.6               7.0      7.0      7.0               6.6      7.0      4.6
+        2001 Q1             10.4     10.4     10.4              12.5     12.5     12.5              10.4     12.5      5.2
+        2001 Q2              8.7      8.2      7.8               8.1      7.9      7.7               8.2      7.9      5.4
+        2001 Q3              4.9      4.3      3.6               5.6      5.3      5.0               4.3      5.3      5.1
+
+    Growth Rates
+       From       To
+      Jan-2001 Jun-2001      8.5      8.1      7.7               8.2      8.0      7.8               8.1      8.0      5.5
+      Feb-2001 Jun-2001      7.9      7.4      6.9               7.3      7.1      6.8               7.4      7.1      5.5
+
+       1998 Q4  1999 Q4      6.3      6.3      6.3               7.7      7.7      7.7               6.3      7.7      6.8
+       1999 Q4  2000 Q4      6.3      6.3      6.3               9.2      9.2      9.2               6.3      9.2      5.4
+
+       2000 Q4 Jun-2001      9.1      8.8      8.5               9.8      9.7      9.5               8.8      9.7      5.3
+
+    *This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+
+
+
+11
+
+Directive and Balance-of-Risks Language
+
+(16) Presented below for the members' consideration is draft wording for (1)
+
+the directive and (2) the “balance-of-risks” sentence to be included in the press release
+
+issued after the meeting.
+
+                                              (1) Directive Wording
+
+The Federal Open Market Committee seeks monetary and financial
+
+conditions that will foster price stab ility and promote sustainable growth in
+
+output.  To further its long-run  objectives, the Committee in the immediate
+
+future seeks conditions in reserve markets consistent with MAINTAINING/
+
+INCREASING/reducing the federal funds rate AT/to an average of around
+
+___5-1/2 percent.
+
+                                                   (2) “Balance-of-Risks” Sentence
+
+Against the background of its long-run goals of price stability and
+
+sustainable economic growth and of the information currently available, the
+
+Committee believes that the risks [ARE BALANCED WITH RESPECT TO
+
+PROSPECTS FOR BOTH GOALS] [CONTINUE TO BE WEIGHTED
+
+MAINLY TOWARD CONDITIONS THAT MAY  GENERATE
+
+HEIGHTENED INFLATION PRESSURES] [are weighted mainly toward
+
+conditions that may generate economic weakness] in the foreseeable future.
+
+
+
+

@@ -1,0 +1,2555 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+Prefatory Note 
+ 
+ 
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned 
+versions text-searchable.2   Though a stringent quality assurance process was 
+employed, some imperfections may remain. 
+ 
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+ 
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 6/05/2009. 
+ 
+
+
+
+CONFIDENTIAL (FR) July 22, 1966
+
+MONEY MARKET AND RESERVE RELATIONSHIPS
+
+Money markets
+
+Recent developments. Money markets tightened further during
+
+recent weeks. Yields on commercial paper, finance company paper, bankers'
+
+acceptances, and Federal Agency issues continued to rise. Dealer loan
+
+rates posted by major New York City banks reached a new high of 6-1/2 per
+
+cent, as these banks developed large basic reserve deficiencies and were
+
+heavy buyers of Federal funds at rates ranging up to a high of 5-3/4
+
+per cent.
+
+In this environment and partly in anticipation of a discount
+
+rate hike, Treasury bill rates moved sharply higher to levels somewhat
+
+more in line with other short-term rates. The 3-month bill was auctioned
+
+at almost 5 per cent on July 18, although it subsequently fell back to
+
+around 4.85 per cent. At that level, the 3-month bill had risen about
+
+50 basis points from its low of 4.33 per cent on June 27. Dealer re-
+
+luctance to position bills at a time when financing costs were extremely
+
+high and when bill demand from the public had moderated was the principal
+
+cause of the rate increase.
+
+During the past few days, the System has sold bills, partly to
+
+offset the effect on float of the airlines strike. But the interest rate
+
+impact of sales was reduced through the use of matched sale-purchase
+
+transactions. A total of $1.8 billion of such transactions was made be-
+
+tween July 13 and July 22. But each of these transactions was only out-
+
+standing for a few days so the bulk were in effect rollovers. In the
+
+
+
+FINANCIAL MARKET RELATIONSHIPS IN PERSPECTIVE
+
+(Monthly averages and, where available, weekly averages of daily figures; amounts in millions of dollars)
+Money Market Indicators Bond Yields Flow of Reserves, Bank Credit and Money
+
+3-month Corporate3-month Corporate Munici- Non- Total Bank
+STreas- U.S. NewNon- Total Bank Money TimeFederal New pal borrowed Re- Credit
+
+Period Free Borrow- ury Gov't. Issues aa reere Supply Deposits
+Reserves ings Funds Bill (20 yn) (Aaa) Aa) ese s Pro
+
+Rate 1/
+
+1965--June -176 534 4.01 3.80 4.21 4.58 3.15 +151 +173 +1,802 +1,800 +1,300
+July -178 527 4.07 3.83 4.21 4.61 3.16 + 30 + 23 +1,414 + 700 +1,700
+Aug. -162 549 4.11 3,84 4.25 4.63 3.16 -116 - 50 +1,608 + 200 +2,500
+Sept. -139 552 3.95 3.92 4.30 4.67. 3.25 + 11 + 14 + 249 +1,600 +1,500
+Oct. -132 490 4.05 4.02 4.32 4.69 3.31 + 85 + 44 +2,592 +1,300 +2,000
+Nov. - 77 418 4.09 4.08 4.40 4.72 3.34 + 59 - 44 + 759 + 100 +1,900
+Dec. - 22 452 4.28 4.37 4.50 4.85 3.39 +365 +338 +2,147 +1,700 +1,500
+
+1966--Jan. - 51 431 4.32 4.58 4.52 4.84 3.39 +103 +117 +1,793 +1,000 +1,000
+Feb. -117 474 4.58 4.65 4.71 4.98 3.48 + 41 + 85 + 820 - 400 + 800
+Mar. -210 545 4.64 4.58 4.72 4.27 3.55 - 59 + 62 + 787 +1,200 + 800
+Apr. -276 638 4.64 4.61 4.65 5.05 3.46 +238 +335 +3,587 +1,900 +2,000
+May -338 653 4.83 4.63 4.69 5.21 3.53 -102 - 73 + 465 -1,600 +1,300
+June p -355 722 5.13 4.50 4.73 5.38 3.60 + 41* - 9* + 964* +1,600 +1,200*
+July proj. 2/ -343 759 4.98 4.80 4.85 5.61 3.77 +156* +226* +2,340* - 900 +1,700*
+
+June 1 -376 812 4.81 4.63 4.72 5.36 3.60 + 269 - 100 + 200
+8 -340 547 4.88 4.56 4.71 5.34 3.60 + 610 +1,600 + 200
+
+15 -323 788 5.15 4.56 4.74 5.43 3.59 +1,630* + 100 + 100*
+22 -409 691 5.20 4.44 4.71 5.31 3.58 +1,355 +2,200 + 100
+29 p -324 771 5.40 4.37 4.74 5.64 3.64 +1,033 -2,000 + 500
+
+July 6 p -457 827 5.25 4.64 4.82 -- 3.77 +1,633 + 400 + 500
+13 p - 93 818 5.38 4.75 4.84 5.61 3.77 - 463 -1,700 + 700
+20 p -479 631 4.48 4-91 4-A6 -- 3.77 - 124 + 300 + 500
+
+Averages Annual rates of increase 3/
+Year 1964 107 295 3.47 3.53 4.19 4.44 3.09 + 4.6 + 4.2 + 7.6 + 4.3 +12.8
+
+1965 - 90 467 4.05 3.95 4.27 4.58 3.16 + 4.2 + 5.1 + 9.1 + 4.8 +16.1
+Recent variations in growth
+Dec. 1-Mar. 16 - 92 499 4.43 4.55 4.61 5.01 3.46 + 5.8 + 7.3 + 7.3
+Mar. 16-June 1 -299 644 4.72 4.61 4.67 5.17 3.50 + 8.1 - 0.8 +13.0
+June 1-July 20 -346 725 5.11 4.60 4.77 5.47 3.67 +10.0 + 4.0 +12.6
+
+Dec. 1-July 20 -217 595 4.67 4.58 4.66 5.15 3.52 + 7.5 + 3.9 +10.5
+
+1/ Time deposits adjusted at all commercial banks.
+July averages of free reserves and borrowings are for the three weeks ending
+yields are averages for the month to date; and changes in monetary variables
+weeks of July.
+
+July 20; money market rates and bond
+include projections for the final two
+
+3/ Base is average for month preceding specified period or in the case of weekly periods, the first week shown.
+
+* Changes have been adjusted for redefinition of time deposits effective June 9. p - Preliminary.
+
+July 22, 1966.
+
+
+
+CONFIDENTIAL (FR) -2- July 22, 1966
+
+July 13-22 period, in addition, outright sales of bills to the market
+
+amounted to about $300 million.
+
+Net borrowed reserves have fluctuated sharply in recent weeks,
+
+with a low of $93 million in the week of July 13 and a high of $479
+
+million (before revision) in the week just past. The initial impact of
+
+the airlines strike was felt in the July 13 week, and in addition the
+
+second week of July has traditionally been a period of very large
+
+country bank excess reserves. Member bank borrowings have averaged
+
+almost $760 million so far in July.
+
+Prospective developments. Assuming net borrowed reserves in
+
+a $400 - $500 million range over the next four weeks, the money market
+
+is likely to remain generally tight, although over the near-term some
+
+rates may tend to decline. Major New York City banks are likely to have
+
+a more comfortable reserve position as pressures related to recent tax
+
+payments finally subside. As a result, dealer loan rates in New York
+
+may be somewhat below recent peaks, though remaining at penalty levels.
+
+This assumes that banks do not experience further difficulties in re-
+
+placing maturing CD's over the near-term. The 3-month Treasury bill
+
+rate may also decline some in the immediate future, given the continuing
+
+relatively limited market supply, the need for System purchases of about
+
+$1.5 billion during the first half of August (on the basis of current
+
+projections), and prospective public demands for bills generated by the
+
+August refunding and by large corporate security flotations in the weeks
+
+ahead.
+
+
+
+CONFIDENTIAL (FR) -3- July 22, 1966
+
+As the summer progresses, however, bill rates are likely to
+
+move higher. Corporate demand for bills tends to diminish in the latter
+
+part of summer, partly in consequence of the reduced cash flow during
+
+the auto change-over period. Also, the Treasury will probably be
+
+announcing a financing to raise new cash during the second week of August
+
+and may obtain $2 - $3 billion of funds through tax bills. It will
+
+probably raise additional cash in early fall.
+
+The bill rate may fluctuate widely with shifting demands and
+
+supplies over the period ahead as dealers continue to maintain relatively
+
+low positions in view of their relatively high borrowing costs. The
+
+3-month bill might drop to as low as 4.70 per cent in the weeks ahead
+
+and might rise back toward 5 per cent before the end of August.
+
+Long-term credit markets probably will remain tight over the
+
+weeks ahead, with interest rates showing a tendency to rise. The cor-
+
+porate calendar is sizable in August, dominated by two large offerings.
+
+Bank participation in the municipal market has diminished. And the
+
+Treasury may offer an attractive coupon in its August refunding, to be
+
+announced July 27, which may encourage some switching out of bonds.
+
+The public holds $3.2 billion of the maturing Treasury issues.
+
+The reception that would be accorded the new offerings--whatever they
+
+may be--is quite uncertain in the current market atmosphere. This sug-
+
+gests the need for "even keel" at least through the August 15 settlement
+
+date, and possibly beyond depending on the after-market.
+
+
+
+CONFIDENTIAL (FR) -4- July 22, 1966
+
+Reserve flows, bank credit, and money
+
+Recent developments. Bank credit expansion appears to have
+
+been on the high side of the Staff's expected range in July. Rather
+
+sluggish growth prior to the mid-June tax date held the rate of expansion
+
+in June on average to below 5 per cent. The average rate of growth in
+
+July has apparently increased to about 11.5 per cent, mainly because
+
+growth was rapid in the three weeks ending July 6. Part of the enlarged
+
+credit expansion reflects banks' success in obtaining time deposits.
+
+After rising moderately in June, time deposits grew more rapidly in July,
+
+as banks apparently received funds transferred out of other savings
+
+institutions.
+
+Fluctuations in bank credit and in Government and private de-
+
+mand deposits during June and July were unusually large because of the
+
+impact of the accelerated payments by corporations of their income taxes
+
+and of withheld individual income and social security taxes. While show-
+
+ing wide weekly fluctuations, private demand deposits rose sharply on
+
+average in June when Government deposits declined, and then declined
+
+almost as sharply in July when Government deposits rose. Over the two
+
+months combined, private demand deposits rose at just under a 2 per cent
+
+seasonally adjusted annual rate.
+
+Total reserves, which had declined following their April bulge,
+
+are now expected to rise by about 12 per cent on average in July. Re-
+
+quired reserves are expected to grow by about 10 per cent. (Both of these
+
+aggregate reserve increases are after taking out the rise due to the in-
+
+crease in the legal requirement against time deposits.) The difference
+
+between the increases in total and required reserves represents unusual
+
+
+
+CONFIDENTIAL (FR) -5- July 22, 1966
+
+additions to excess reserves occasioned mainly by the airlines strike.
+
+Nonborrowed reserves in July increased somewhat more slowly than either
+
+of the other reserve aggregates.
+
+Prospective developments. Bank credit declined in the middle
+
+weeks of July as some of the earlier borrowing was repaid and as banks
+
+made adjustments to the reserve requirement increase. Expansion is
+
+likely to resume in the weeks ahead, but the growth rate for August on
+
+average may be fairly low--perhaps in a 4 - 6 per cent range, assuming
+
+only a relatively small attrition in the refunding. The expansion is
+
+likely to be more toward the upper end of the range on the assumption
+
+of payment for a Treasury tax bill financing through tax and loan credit
+
+toward the end of August.
+
+Time deposits are expected to grow less rapidly in August than
+
+in July, partly because of the ending of transfers out of savings insti-
+
+tutions after the mid-year interest crediting period. On the other hand,
+
+demand deposit (and money supply) growth is expected to be resumed.
+
+Government deposits are likely to decline somewhat in August, partly be-
+
+cause of the absence of receipts from withheld income and social security
+
+taxes that had been accelerated to June and July. Although the money
+
+supply is declining substantially in July, it is likely to rise over the
+
+next few months at a rate somewhat higher than the almost 4-1/2 per
+
+cent increase of the first half of the year.
+
+
+
+CONFIDENTIAL (FR) -6- July 22, 1966
+
+Only a small growth in required reserves is likely to accompany
+
+the August bank credit and monetary expansion. Demand deposits in total
+
+may show little change because of offsetting movements of Government and
+
+private deposits. As a result, the rise in required reserves would
+
+reflect mainly expansion in time deposits. Total reserves could decline
+
+slightly in August, assuming the ending of the airline strike which
+
+would bring excess reserves back to more normal levels. The projected
+
+movement of total and required reserves assumes net borrowed reserves
+
+of around $400 - $500 million and borrowing around $800 million.
+
+
+
+Table A-
+
+MARGINAL RESERVE MEASURES
+
+(Dollar amounts in millions, based on period averages of daily figures)
+
+Period
+
+Monthly (reserves
+weeks ending in):
+
+1965--June
+July
+August
+September
+October
+November
+December
+
+1966--January
+February
+March
+April
+May
+June p
+
+Weekly
+1966--April 6
+
+13
+20
+27
+
+May 4
+11
+18
+25
+
+June 1
+8
+15
+22 p
+29 p
+
+July 6 p
+13 p
+20 p
+
+Excess Member banks
+reserves I borrowines I
+
+As revised
+
+358
+349
+387
+413
+358
+341
+430
+
+380
+357
+335
+362
+315
+367
+
+333
+360
+373
+380
+
+286
+340
+319
+314
+
+436
+207
+465
+282
+447
+
+370
+725
+152
+
+534
+527
+549
+552
+490
+418
+452
+
+431
+474
+545
+638
+653
+722
+
+623
+603
+685
+642
+
+617
+780
+663
+653
+
+812
+547
+788
+691
+771
+
+827
+818
+631
+
+Free reserves
+
+to date
+
+-176
+-178
+-162
+-139
+-132
+- 77
+- 22
+
+- 51
+-117
+-210
+-277
+-338
+-355
+
+-290
+-243
+-312
+-262
+
+-331
+-340
+-344
+-339
+
+-376
+-340
+-323
+-409
+-324
+
+-457
+- 93
+-479
+
+As first
+published
+each week
+
+As
+expected
+
+at
+conclusion
+
+of each
+week's
+open
+
+market
+opeations
+
+_
+
+-225
+-286
+-281
+-280
+
+-280
+-324
+-315
+-351
+
+-364
+-375
+-341
+-417
+-350
+
+-456
+-155
+-479
+
+p - Prelimin ry
+
+p - Preliminary
+
+-241
+-282
+-270
+-316
+
+-280
+-310
+-341
+-370
+
+-342
+-360
+-336
+-394
+-368
+
+-473
+-133
+-528
+
+
+
+TABLE A-2
+
+AGGREGATE RESERVES AND RELATED MEASURES
+
+Retrospective Changes, Seasonally Adjusted
+(In per cent, annual rates based on monthly averages of daily figures)
+
+Reserve A gr e ates Monetary Variables
+Required reserves Time Money Supply
+
+Total MemberTotal Against Deposits Private
+Reserves Total Demand (comm. Total Demand
+
+Deposits banks) Deposits
+annually:
+
+1963 + 3.5 + 3.5 + 3.8 + 1.7 + 7.5 +14.7 + 3.8 + 3.2
+1964 + 4.2 + 4.6 + 4.9 + 3.1 + 7.6 +12.8 + 4.3 + 4.0
+1965 + 5.1 + 4.2 + 5.0 + 2.4 + 9.1 +16.1 + 4.8 + 4.6
+
+Monthly:
+1965--January + 5.3 - 1.4 + 5.7 + 0.2 +10.5 +20.9 + 2.3 + 1.0
+
+February +10.4 + 6.4 + 4.3 + 3.0 +11.1 +20.5 - 2.3 - 3.8
+March + 8.1 + 5.1 +11.5 + 9.0 + 9.7 +10.1 + 4.5 + 4.8
+April +12.5 + 8.4 +11.4 +14.8 +14.1 +12.7 + 6.0 + 7.6
+May - 3.4 - 1.8 - 1.1 - 1.3 + 4.1 + 9.9 - 8.2 -12.3
+June + 9.6 + 8.6 + 9.8 + 7.8 + 9.6 +11.6 +13.5 +16.3
+July + 1.3 + 1.7 + 3.6 + 0.7 + 7.5 +15.0 + 5.2 + 4.7
+August - 2.7 - 6.5 - 8.7 - 7.1 + 8.4 +21.8 + 1.5 --
+September + 0.8 + 0.6 + 2.3 -11.1 + 1.3 +12.8 +11.8 +13.2
+October + 2.4 + 4.8 + 6.1 + 8.1 +13.5 +16.9 + 9.5 + 9.3
+November - 2.4 + 3.3 - 3.8 - 6.9 + 3.9 +15.9 + 0.7 - 0.9
+December +18.6 +20.5 +18.3 +11.2 +11.0 +12.4 +12.3 +14.8
+
+1966--January + 6.3 + 5.7 +11.5 +12.0 + 9.1 + 8.2 + 7.2 + 5.5
+February + 4.6 + 2.2 - 0.1 + 2.9 + 4.1 + 6.5 - 2.9 - 5.5
+March + 3.3 - 3.2 + 4.5 + 1.5 + 4.0 + 6.5 + 8.6 +10.1
+April +17.9 +13.1 +15.0 +17.7 +17.9 +16.0 +13.5 +15.4
+May - 3.8 - 5.5 - 4.2 - 6.0 + 2.3 +10.3 -11.2 -16.1
+June p 2/ - 0.5 + 2.2 + 3.9 + 1.7 + 4.7 + 9.4 +11.3 +14.5
+July proj.2/ +12.0 + 8.5 +10.1 + 8.2 +11.5 +13.2 - 6.3 -10.8
+
+1/ Includes all deposits subject to reserve requirements. Movements in this aggregate correspond closely with
+movements in total member bank credit.
+
+2/ Changes in reserves, total deposits, and time deposits have been adjusted for redefinition of time deposits
+effective June 9. Changes in reserves have been adjusted for increases in reserve requirements in July.
+
+
+
+Chart 1
+
+MEMBER BANK RESERVES
+
+SEASONALLY ADJUSTED MONTHLY AVERAGES OF DAILY FIGURES
+
+BILLIONS OF DOLLARS
+
++
+
++
+
+BORROWINGS
+BORROWINGS
+
+22.5
+
+22.0
+
+21.5
+
+21.0
+
+20.5
+
+20.0
+
+19.5
+
+19.0
+
+16.5
+
+16.0
+
+15.5
+
+15.0
+
+REQUIRED AGAINST
+PRIVATE DEMAND DEPOSITS t -mo
+
+st t 0---a*<o
+
+I I I I I I I I I I
+
+M
+
+19661964
+
+SNONBOIRO
+
+FREE RESERVES 0 /
+
+to 'REQUIRED AGA
+S * TOTAL PRIVATE DEP(
+
+h-~
+
+'' ""
+
+1965
+
+
+
+Chart 2
+
+MONEY SUPPLY AND BANK DEPOSITS
+
+SEASONALLY ADJUSTED WEEKLY AVERAGES OF DAILY FIGURES
+
+I II
+BILLIONS OF DOLLARS BILLIONS OF DOLLARS
+
+TOTAL MEMBER BANK DEPOSITS 245
+(Credit Proxy)
+
+240
+
+235
+
+230
+
+MONEY SUPPLY
+
+170 225
+
+165 220
+
+4 WEEK MOVING AVERAGE
+
+160
+
+155 TIME DEPOSITS ADJUSTED
+
+(All Commercial Banks)
+
+150
+
+145
+
+140
+
+135
+
+NEGOTIABLE CD'S
+
+130 -(Unadjusted) 20
+
+15
+
+I I I I ,I I I II I I I o
+M J S D M J S D
+
+1965 1966
+
+*CHANGE IN SERIES
+
+
+
+Chart 3
+
+DEMAND DEPOSITS AND CURRENCY
+
+SEASONALLY ADJUSTED WEEKLY AVERAGES OF DAILY FIGURES
+
+BILLIONS OF DOLLARS
+
+45
+MONEY SUPPLY COMPONENTS:
+
+40
+CURRENCY OUTSII
+
+I
+
+35 
+-
+
+30
+
+140
+
+135 DEMAND DEPOSIT
+
+130
+
+125
+
+120
+
+15
+
+10
+
+5
+
+0
+
+1965
+
+U.S. GOVT. DEMAND DEPOSITS
+(Member Banks)
+
+S^* _
+
+1966
+
+
+
+Table B-1
+
+MAJOR SOURCES AND USES OF RESERVES
+
+Retrospective and Prospective
+(Dollar amounts in millions, based on weekly averages of daily figures)
+
+Factors affecting supply of reserves = Change = Bank use of reserves
+Period Federal Reserve Gold Currency Technical in Requiredcredit (excl. outside factors total reserves
+
+float) 1/ stock banks net 2/ reserves 3/ reserves+ 
+
+I~
+
+ACTUAL
+aar:
+
+1964 (12/25/63 - 12/23/64)
+1965 (12/23/64 - 12/22/65)
+
+Year-to-date:
+(12/30/64 - 7/21/65)
+(12/29/65 - 7/20/66
+
+Weekly:
+1966--May 25
+
+June 1
+8
+15
+22
+29 p
+
+July 6 p
+13 p
+20 p
+
+PROJECTED 4/
+July 27
+
+Aug. 3
+
++3,219
++3,926
+
++1,832
++863
+
++ 99
+
+4627
+- 6
++185
+-224
++393
+
++851
++ 5
+
+-1,261
+
+-165
+-1,578
+
+-1,454
+-352
+
++ 2
+- 1
+
+- 28
+- 73
+
++ 2
++ 1
+- 1
+
+-1,847
+-2,228
+
+-250
+-611
+
++159
+
+-174
+-400
++ 20
++ 60
++207
+
+-718
+-162
++204
+
+-365
++845
+
+-459
+- 58
+
+-490
+
+-327
++240
+- 75
++578
+-320
+
++135
++205
++736
+
++840
++966
+
+-328
+-161
+
+-234
+
++127
+-164
++126
++389
++207
+
++267
++ 52
+-326
+
+-? I 4- 4 II 44
+
++ 35
+
++675
++455
++ 65
+-220
++ 70
+
+For retrospective details, see Table B-4.
+Fpr factors included, see Table B-3.
+For required reserves by type of deposits, see Table B-2.
+See reverse side for explanation of projections.
+
+- 30
+
+-120
+- 10
+- 10
+- 10
+- 10
+
++165
+
+- 70
+-465
++145
++130
++160
+
+-110
+
+-515
+- 80
+-200
+
+-300
+
++ 60
+
+- 30
+-100
+
+-100
+- 80
+
++910
++1,136
+
++ 40
++148
+
+-229
+
++ 5
++ 65
+-132
++572
++ 42
+
++344
+-303
+-247
+
++ 60
+
+- 30
+-100
+
+-100
+- 80
+
+I I - . -
+
+p - Preliminary.
+
+- 70
+-170
+
+-368
+-309
+
+- 5
+
++122
+-229
++258
+-183
++165
+
+- 77
++355
+-573
+
+
+
+Table B-2
+
+CHANGES IN REQUIRED RESERVE COMPONENTS
+
+Retrospective and Prospective Seasonal and Nonseasonal Changes
+(Dollar amounts in millions, based on weekly averages of daily figures)
+
+I II 1
+
+Period
+
+Year:
+1964 (12/25/63
+1965 (12/23/64
+
+ACTUAL
+
+- 12/23/64
+- 12/22/65
+
+Year-to-date:
+(12/30/64 - 7/21/65)
+(12/29/65 - 7/20/66)
+
+Weekly:
+1966--May 11
+
+June 1
+8
+
+15 1/
+22
+29 p
+
+July 6
+13
+20
+
+p
+p
+n 2/
+
+Total
+required
+reserves
+
+Supporting
+U. S. Gov't.
+
+demand
+de osits
+
+Total
+
+Supporting private depositsI P
+Seasonal changes
+
+Demand Time
+D Tm Da -- T me
+
++910
++1,136
+
++ 40
++148
+
+-196
+- 97
+-229
+
++ 5
++ 65
+-132
++572
++ 42
+
++344
+-303
++947
+
+-115
+-170
+
++232
++105
+
++ 64
++163
+- 8
+
+- 72
+-200
+-353
++283
++617
+
++129
+-233
+-AA01
+
++1,025
++1,306
+
+-192
++ 43
+
+-260
+-260
+-221
+
++ 77
++265
++221 1/
++289
+-575
+
++215
+- 70
+-5 n
+
++ 16
++113
+
+-627
+-713
+
+-214
+-185
+-165
+
++ 32
++120
++263
+- 16
+-298
+
++ 86
++167
+4-11
+
++ 78
++ 90
+
++ 9
+
+- 9
+
++ 9
+- 9
++ 9
+- 18
++ 18
+
++ 10
+- 19
+4. a
+
+Other than
+seasonal changes
+
+Demand
+
++542
++529
+
++ 3
++ 59
+
+- 59
+- 90
+- 67
+
++ 31
++141
+- 11
++315
+-299
+
++105
+-254
+-. AA
+
+Time
+
++4674467
++664
+
++354
++607
+
++ 4
++ 15
++ 20
+
++ 5
++ 3
+- 40
++ 8
++ 4
+
++ 14
++ 36
+4-i 4/
+
+PROJECTE
+
+July 27 2/ + 60 + 35 + 25 - 70 -- + 15 + 80
+
+Aug. 3 - 30 -190 +160 + 80 - 20 + 90 + 10
+10 -100 + 15 -115 - 95 -- - 30 + 10
+17 -- +135 -135 -135 - 10 -- + 10
+24 -100 - 55 - 45 -165 - 10 +120 + 10
+31 - 80 -170 + 90 + 45 - 10 +45 + 10
+
+1/ Redefinition of time deposits subject to reserve requirements released $34 million of reserve effective June 9.
+2/ Increase in percentage reserve requirements against time deposits absorbed an estimated $355 million of
+
+city banks effective July 14 and $70 million at country banks effective July 21.
+reserves at
+
+
+
+Table B-3
+
+TECHNICAL FACTORS AFFECTING RESERVES
+
+Retrospective and Prospective Changes
+(Dollar amounts in millions, based on weekly averages of daily figures)
+
+Technical Foreign Other
+Period factors Treasury Float deposits nonmember
+
+(net) operations and gold deposits and
+Sloans F. R. accounts
+
+ACTUAL (Sign indicates effect on reserves)
+Year:
+1964 (12/25/63 - 12/23/64) -365 -470 - 84 + 11 +178
+1965 (12/23/64 - 12/22/65) +845 +232 - 31 - 7 +651
+
+Year-to-date:
+(12/30/64 - 7/21/65) -459 - 48 -678 + 13 +254
+(12/29/65 - 7/20/66) - 58 -333 +512 - 47 -190
+
+Weekly:
+1966--May 25 -490 -259 - 42 + 6 -195
+
+June 1 -327 + 17 -313 - 20 - 11
+8 +240 +125 + 95 + 3 + 17
+
+15 - 75 -175 + 44 + 2 + 54
+22 +578 + 96 +445 - 25 + 62
+29 -320 - 78 - 75 + 2 + 31
+
+July 6 +135 +184 + 27 - 56 - 20
+13 +205 -302 +424 + 56 + 27
+20 +736 -136 +795 - 13 + 90
+
+PROJECTED
+July 27 -110 +120 -350 + 20 +100
+
+Aug. 3 -515 - 35 -500 -- + 20
+10 - 80 +170 -250 --
+17 -200 -- -200
+24 - - -- --
+31 -300 -- -300 -- -
+
+
+
+(Dollar amounts in
+
+Table B-4
+
+SOURCES OF FEDERAL RESERVE CREDIT
+
+Retrospective Changes
+millions, based on weekly averages of daily figures)
+
+Period
+
+Year:
+1964 (12/25/63 - 12/23/64)
+1965 (12/23/64 - 12/22/65)
+Year-to-date:
+(12/30/64 - 7/21/65)
+(12/29/65 - 7/20/66)
+
+Weekly:
+1966--Apr. 6
+
+13
+20
+27
+
+May 4
+11
+18
+25
+
+June 1
+8
+15
+22
+29
+
+July 6
+13
+20
+
+Total Federal
+Reserve credit
+(excl. float)
+
+Total
+holdin2s
+
+U. S. Government securities
+
+I Outright
+Bills Other
+
+Repurchase
+a2reements
+
+Bankers IMember bank
+acceptances lborrowings
+
+1 - -II 4. 4
+
++3,219
++3,926
+
++1,832
++ 863
+
++ 512
+- 126
+- 444
+
++ 145
+
++ 369
++ 422
+- 309
+
++ 99
+
++ 627
+- 6
++ 185
+- 224
++ 393
+
++ 851
++ 5
+-1,261
+
++3,340
++3,898
+
++1,928
++ 835
+
++
+
++
+
++
++
+
++
+
++
++
+
++
+
++
++
+
+419
+103
+520
+145
+
+391
+402
+292
+68
+
+442
+225
+23
+131
+267
+
+790
+71
+
+969
+
++2,086
++3,226
+
++1,537
++ 617
+
+274
+8
+
+486
+120
+
+292
+185
+128
+203
+
+411
+166
+73
+72
+
+173
+
+706
+61
+
+966
+
++1,022
++ 916
+
+659
+439
+
+25
+
+17
+
+31
+38
+13
+
+1
+94
+
+80
+11
+
++232
+-244
+
+-268
+-221
+
++145
+-111
+- 34
+
++ 82
++217
+-164
+-135
+
+- 61
++ 67
+
+- 17
+
+- 57
+
+- 22
+
+- 3
+- 6
++ 43
+
++ 3
+- 43
+
++ 41
+
++ 26
++ 34
+- 33
++ 4
++ 46
+
++ 5
+- 57
+-105
+
+I II 1 L
+
+- 60
+- 39
+
+- 79
++ 85
+
++115
+- 20
++ 82
+- 43
+
+- 25
++ 63
+- 17
+- 10
+
++159
+-265
++241
+- 97
++ 80
+
++ 56
+- 9
+-187
+
+__
+
+
+
+Chart Reference Table C-1
+
+TOTAL, NONBORROWED AND REQUIRED RESERVES
+
+Seasonally Adjusted
+(Dollar amounts in millions, based on monthly averages of daily figures)
+
+Total Nonborrowed Required reserves
+Period reserves reserve Total Against private depositsreserves reserve TotalDemand Total Demand
+
+1964--January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+1965--January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+1966--January
+February
+March
+April
+May
+June p 1/
+July proj. .I/
+
+20,248
+20,268
+20,459
+20,482
+20,404
+20,682
+20,665
+20,753
+21,012
+20,949
+21,033
+21,082
+
+21,175
+21,359
+21,504
+21,728
+21,667
+21,840
+21,863
+21,813
+21,827
+21,871
+21,827
+22,165
+
+22,282
+22,367
+22,429
+22,764
+22,691
+22,682
+22,908
+
+19,977
+19,982
+20,176
+20,226
+20,167
+20,431
+20,420
+20,416
+20,638
+20,600
+20,626
+20,886
+
+20,862
+20,973
+21,062
+21,210
+21,179
+21,330
+21,360
+21,244
+21,255
+21,340
+21,399
+21,764
+
+21,867
+21,908
+21,849
+22,087
+21,985
+22,026
+22,182
+
+19,884
+19,872
+20,056
+20,057
+20,023
+20,269
+20,285
+20,332
+20,570
+20,536
+20,639
+20,742
+
+20,840
+20,915
+21,116
+21,316
+21,296
+21,470
+21,535
+21,379
+21,420
+21,528
+21,460
+21,788
+
+21,996
+21,994
+
+22,076
+22,352
+22,273
+22,346
+22,535
+
+19,185
+19,246
+19,292
+19,361
+19,338
+19,441
+19,577
+19,694
+19,832
+19,960
+19,988
+20,081
+
+20,122
+20,166
+20,294
+20,409
+20,258
+20,506
+20,579
+20,665
+20,903
+21,090
+21,124
+21,326
+
+21,407
+21,396
+21,588
+21,842
+21,628
+21,859
+21,803
+
+15,442
+15,466
+15,492
+15,527
+15,471
+15,539
+15,646
+15,705
+15,805
+15,886
+15,864
+15,912
+
+15,878
+15,852
+15,943
+16,009
+15,822
+16,028
+16,047
+16,041
+16,227
+16,341
+16,318
+16,477
+
+16,533
+16,500
+16,666
+16,846
+16,590
+16,789
+16,672
+
+I I I 4.
+
+p - Preliminary.
+1/ Reserves have been adjusted for redefinition of time deposits effective June 9,
+
+and for changes in reserve requirements effective July 14 and 21.
+
+
+
+Table C-2
+
+DEPOSITS SUPPORTED BY REQUIRED RESERVES AT ALL MEMBER BANKS
+
+Seasonally adjusted
+
+(Dollar amounts in millions, based on monthly averages of daily figres)
+
+Total member Time Private U. S. Gov't.
+Monthly bank deposits deposits demand demand
+
+(credit) 1/ deposits 2 / deposits
+
+1964--January 202,981 93,563 104,407 5,011
+February 203,759 94,495 104,569 4,695
+March 205,068 95,011 104,749 5,308
+April 206,176 95,852 104,987 5,337
+May 206,613 96,677 104,609 5,327
+June 208,669 97,542 105,066 6,061
+July 209,312 98,273 105,783 5,256
+August 211,506 99,725 106,189 5,592
+September 212,906 100,670 106,868 5,368
+October 214,109 101,850 107,410 4,849
+November 215,849 103,090 107,259 5,500
+December 216,738 104,215 107,591 4,932
+
+1965--January 218,640 106,107 107,353 5,180
+February 220,663 107,843 107,178 5,642
+March 222,445 108,778 107,795 5,872
+April 225,068 109,996 108,243 6,829
+May 225,840 110,898 106,975 7,967
+June 227,642 111,955 108,372 7,315
+July 229,056 113,306 108,497 7,253
+August 230,664 115,594 108,456 6,614
+September 230,913 116,900 109,717 4,296
+October 233,505 118,718 110,489 4,298
+November 234,264 120,152 110,327 3,785
+December 236,411 121,220 111,409 3,782
+
+1966--January 238,204 121,861 111,787 4,556
+February 239,024 122,401 111,562 5,061
+March 239,811 123,038 112,684 4,089
+April 243,398 124,898 113,905 4,595
+May 243,863 125,953 112,170 5,740
+June p / 244,827 126,745 113,515 4,567
+July proj.3/ 247,167 128,277 112,722 6,168
+
+1/ Includes all deposits subject to reserve requirements--i.e., the total
+of time, private demand, and U.S. Government demand deposits. Movements
+in this aggregate correspond closely with movements in total member
+bank credit.
+
+2/ Private demand deposits include demand deposits of individuals, partner-
+ships and corporations and net interbank balances.
+
+3/ Deposits have been adjusted for redefinition of time deposits effective
+June 9
+
+p - Preliminary.
+
+
+
+TABLE C-2a
+
+DEPOSITS SUPPORTED BY REQUIRED RESERVES AT ALL MEMBER BANKS
+
+Seasonally adjusted
+
+(Dollar amounts in millions, based on weekly averages of daily figures)
+
+Total member Time Private U. S. Gov't.
+Week ending: bank deposits deposits demand demand
+
+S(credit) / ____ deposits 2/ deposits
+
+1966--Jan. 5
+12
+19
+26
+
+Feb. 2
+9
+
+16
+23
+
+Mar. 2
+9
+
+16
+23
+30
+
+Apr. 6
+13
+20
+27
+
+May 4
+11
+18
+25
+
+June 1
+8
+
+15*
+22p*
+29p*
+
+July 6 p*
+13p*
+20p*
+
+236,036
+237,302
+238,155
+239,830
+
+239,899
+238,866
+238,966
+238,542
+
+238,958
+239,366
+239,559
+239,710
+240,437
+
+242,648
+243,216
+243,286
+243,882
+
+244,178
+244,465
+244,091
+243,395
+
+243,664
+244,274
+243,494
+244,849
+245,882
+
+247,515
+247,052
+246,928
+
+.121,367
+121,740
+121,987
+122,246
+
+122,193
+122,026
+122,562
+122,490
+
+122,284
+122,288
+122,757
+123,335
+123,770
+
+124,508
+124,684
+125,042
+125,311
+
+125,369
+125,455
+125,815
+126,330
+
+126,433
+126,778
+126,599
+126,816
+126,913
+
+127,281
+127,183
+128,383
+
+112,591
+112,114
+111,507
+111,207
+
+112,050
+112,003
+111,715
+110,694
+
+111,691
+111,957
+112,560
+113,155
+113,017
+
+113,306
+113,764
+114,482
+113,810
+
+113,407
+112,952
+112,372
+111,954
+
+112,115
+113,137
+113,152
+115,035
+113,035
+
+113,621
+112,168
+112,600
+
+2,078
+3,448
+4,661
+6,377
+
+5,656
+4,837
+4,689
+5,358
+
+4,983
+5,121
+4,242
+3,220
+3,650
+
+4,834
+4,768
+3,762
+4,761
+
+5,402
+6,058
+5,904
+5,111
+
+5,116
+4,359
+3,743
+2,998
+5,934
+
+6,613
+6,701
+5,945
+
+p - Preliminary.
+1/ Includes all deposits subject to reserve requirements--i.e., the total
+
+of time, private demand, and U.S. Government demand deposits. Move-
+ments in this aggregate correspond closely with movements in total
+member bank credit.
+
+2/ Private demand deposits include demand deposits of individuals, partner-
+ships and corporations and net interbank balances.
+
+* Deposits have been adjusted for redefinition of time deposits effective
+June 9.
+
+
+
+TABLE C-3
+
+MONEY SUPPLY AND TIME DEPOSITS AT ALL COMMERCIAL BANKS
+
+Seasonally Adjusted
+
+(Dollar amounts in billions, based
+on monthly averages of daily figures)
+
+Private Time Deposits
+Monthly Money Supply Currency 1/ Demand im D st
+
+Deposits 2/ Adj
+1964--January
+
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+1965--January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+1966--January
+February
+March
+April
+May
+June p 3
+July poj.
+
+153.6
+153.8
+154.1
+154.5
+154.5
+155.5
+156.6
+157.1
+158.2
+158.8
+159.1
+159.7
+
+160.0
+159.7
+160.3
+161.1
+160.0
+161.8
+162.5
+162.7
+164.3
+165.6
+165.7
+167.4
+
+68.4
+168.0
+169.2
+171.1
+169.5
+171.1
+170.2
+
+32.6
+32.8
+32.9
+33.0
+33.3
+33.4
+33.6
+33.8
+33.9
+34.0
+34.2
+34.2
+
+34.5
+34.7
+34.7
+34.7
+34.9
+35.0
+35.2
+35.4
+35.6
+35.9
+36.1
+36.3
+
+36.7
+36.8
+36.9
+37.1
+37.3
+37.3
+37.6
+
+121.0
+121.1
+121.2
+121.4
+121.2
+122.1
+123.0
+123.3
+124.3
+124.8
+124.8
+125.4
+
+125.5
+125.1
+125.6
+126.4
+125.1
+126.8
+127.3
+127.3
+128.7
+129.7
+129.6
+131.2
+
+131.8
+131.2
+132.3
+134.0
+132.2
+133.8
+132.6
+
+113.5
+114.6
+115.3
+116.2
+117.3
+118.5
+119.4
+121.0
+122.1
+123.5
+125.1
+126.6
+
+128.8
+131.0
+132.1
+133.5
+134.6
+135.9
+137.6
+140.1
+141.6
+143.6
+145.5
+147.0
+
+148.0
+148.8
+149.6
+151.6
+
+152.9
+154.1
+155.8
+
+1/ Includes currency outside the Treasury, the Federal Reserve, and the vaults of
+all commercial banks.
+
+2/ Includes (1) demand deposits at all commercial banks, other than those due to
+domestic commercial banks and the U.S. Government, less cash items in process
+of collection and Federal Reserve float; and (2) foreign demand balances at
+Federal Reserve Banks.
+
+2/ Deposits have been adjusted for redefinition of time deposits effective June 9.
+p - Preliminary.
+
+
+
+TABLE C-3a
+
+MONEY SUPPLY AND TIME DEPOSITS AT ALL COMMERCIAL BANKS
+
+Seasonally Adjusted
+
+(Dollar amounts in
+on monthly averages
+
+billions, based
+of daily figures)
+
+Private Time Deposits
+Week Ending Money Supply Currency 1/ Demand adjused
+
+Deposits2/ adjusted
+
+1966--Jan. 5
+12
+19
+26
+
+Feb. 2
+9
+16
+23
+
+Mar. 2
+9
+16
+23
+30
+
+Apr. 6
+13
+20
+27
+
+May 4
+11
+18
+25
+
+June 1
+8
+
+*15
+*22
+*29
+
+July *6
+*13
+*20
+
+169.6
+169.1
+168.1
+167.4
+
+167.9
+168.1
+168.3
+167.5
+
+168.5
+168.7
+169.2
+169.8
+169.1
+
+170.1
+171.2
+171.3
+170.8
+
+170.4
+170.0
+169.7
+169.0
+
+168.9
+170.5
+170.6
+172.8
+170.8
+
+171.2
+169.5
+169.8
+
+36.4
+36.6
+36.7
+36.6
+
+36.7
+36.9
+36.8
+36.9
+
+36.9
+36.9
+36.9
+36.9
+36.9
+
+36.9
+37.2
+37.0
+37.1
+
+37.2
+37.2
+37.3
+37.3
+
+37.3
+37.3
+37.4
+37.4
+37.4
+
+34.4
+37.6
+37.6
+
+133.1
+132.5
+131.5
+130.8
+
+131.2
+131.3
+131.5
+130.6
+
+131.6
+131.8
+132.3
+132.9
+132.2
+
+133.2
+134.0
+134.3
+133.7
+
+133.2
+132.8
+132.3
+131.7
+
+131.6
+133.2
+133.2
+135.4
+133.5
+
+133.8
+131.9
+132.2
+
+147.7
+147.7
+148.0
+148.2
+
+148.4
+148.4
+148.8
+149.0
+
+149.2
+149.2
+149.5
+149.8
+150.2
+
+150.7
+151.2
+151.7
+152.1
+
+152.3
+152.5
+152.9
+153.4
+
+153.6
+153.8
+153.9
+154.0
+154.5
+
+155.0
+155.7
+156.2
+
+_______________ I___
+
+1/ Includes currency outside the Treasury, the Federal Reserve, and the vaults of
+all commercial banks.
+
+2/ Includes (1) demand deposits at all commercial banks, other than those due to
+domestic commercial banks and the U.S. Government, less cash items in process
+of collection and Federal Reserve float; and (2) foreign demand balances of
+Federal Reserve Banks.
+
+p - Preliminary.
+* Deposits have been adjusted for redefinition of time deposits effective June 9.
+
+
+
+

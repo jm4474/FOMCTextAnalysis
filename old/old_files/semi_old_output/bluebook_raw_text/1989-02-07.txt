@@ -1,0 +1,3626 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+ 
+Prefatory Note 
+
+ 
+ 
+
+The attached document represents the most complete and accurate version 
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+ 
+
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+ 
+
+                                                 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+
+
+February 3, 1989
+Strictly Confidential (FR) Class I FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Prepared for the Federal Open Market Committee
+
+Board of Governors of the Federal Reserve SystemBy the staff
+
+
+
+STRICTLY CONFIDENTIAL (FR) February 3, 1989
+CLASS I - FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Recent developments
+
+(1) Open market operations over the intermeeting period were com-
+
+plicated by continuing uncertainty about the relationship between borrow-
+
+ing and money market conditions. Following the December 13-14 FOMC meet-
+
+ing, reserve paths initially were constructed assuming $500 million of
+
+adjustment plus seasonal borrowing. Federal funds moved up from the pre-
+
+vailing 8-1/2 percent level to average 8-7/8 percent in the period ending
+
+December 28, although borrowing was only $380 million. The borrowing
+
+assumption was raised further to $600 million on January 5, in accordance
+
+with the Committee's decision at the December meeting, but heavy year-end
+
+recourse to the window pushed actual borrowing for the second maintenance
+
+period to $840 million. In mid-January, based on historical evidence that
+
+reluctance to borrow at the window typically rises markedly in the early
+
+part of the year, the Desk adopted an extra measure of flexibility toward
+
+the borrowing target. Federal funds trading has centered between 9 and
+
+9-1/8 percent in recent weeks; borrowing averaged $500 million over the
+
+maintenance period ending January 25 and around $250 million over the
+
+first eight days of the current period.
+
+(2) Prior to the release of strong January employment data, Trea-
+
+sury bill rates had risen only about 1/4 percentage point over the inter-
+
+meeting period, as some firming in policy had been widely anticipated.
+
+Private short-term rates were unchanged or lower, reflecting as well the
+
+
+
+-2-
+
+unwinding of year-end pressures. After the employment report, money mar-
+
+ket rates rose about 5 to 10 basis points, as markets seemed to anticipate
+
+some additional policy tightening in the near term. Longer-term interest
+
+rates have generally fallen 15 to 40 basis points and stock price indices
+
+have risen 7 to 10 percent on average; these markets benefited from gener-
+
+ally strong demand for dollar assets apparently engendered in part by
+
+damped inflation expectations against a backdrop of actual and expected
+
+monetary policy restraint. The further flattening of the yield curve has
+
+nearly eliminated the spread between the investment yields on 30-year and
+
+3-month Treasury securities, which had been around 65 basis points at the
+
+time of the last meeting.
+
+(3) The strength of the demand for dollar assets bolstered the
+
+dollar on foreign exchange markets, raising its weighted-average value by
+
+about 6-1/4 percent since the last Committee meeting. The rise occurred
+
+despite two releases of disappointing monthly trade data, sizable inter-
+
+vention sales of dollars, and two rounds of increases in official lending
+
+rates by European central banks. As a consequence of the last, the dif-
+
+ferential between U.S. Treasury bill interest rates and a weighted average
+
+of foreign short-term rates was little changed; foreign long-term rates
+
+rose moderately while U.S. bond rates fell.
+
+, with the
+
+Desk accounting for $2.1 billion of this total.
+
+(4) Preliminary data indicate a pause in money growth in January
+
+after moderate increases in December. For the two months combined, M2
+
+growth averaged 2-1/2 percent, a bit below the Committee's expectation for
+
+
+
+-3-
+
+the November through March period, while M1 has been about flat.1 The
+
+sluggish expansion of these aggregates appears to reflect recent increases
+
+in money market yields, which have widened the opportunity costs of hold-
+
+ing deposits; this widening has been accentuated by slower-than-usual
+
+adjustment of most retail offering rates over recent months. Administra-
+
+tive pressure on some thrifts to restrain deposit pricing may be holding
+
+down their deposit rates and, by reducing competitive pressures, may be
+
+curbing increases in deposit rates generally. Evidence of shifts from M2
+
+balances may be seen in the large volume of noncompetitive tenders at
+
+recent Treasury auctions and in a resumption of inflows to stock and bond
+
+mutual funds. Reflecting less aggressive pricing of thrift deposits, and
+
+perhaps also some concerns about the resolution of this industry's prob-
+
+lems, retail deposit flows at these institutions, which had slowed over
+
+the summer, have been especially weak in recent months. M3 growth has
+
+averaged 3-3/4 percent over the past two months, falling well short of
+
+expectations. Banks' funding needs have not increased as rapidly as pro-
+
+jected, owing mostly to a shortfall in business loans; weakness in these
+
+loans was accounted for partly by repayment of previous corporate restruc-
+
+turing loans and partly by subdued credit demands for non-merger-related
+
+purposes. At thrifts, greater reliance on Federal Home Loan Bank advances
+
+may have substituted for deposits.
+
+(5) Although business borrowing at banks was less than expected,
+
+commercial paper soared. Problems in the investment-grade industrial bond
+
+1. Monetary data presented in the bluebook incorporate benchmark and
+
+seasonal factor revisions, described briefly in the appendix. The
+
+revised data should be considered confidential until their release,
+planned for February 9.
+
+
+
+MONETARY, CREDIT, AND RESERVE AGGREGATES
+(Seasonally adjusted annual rates of growth)
+
+November QIV '88
+to to
+
+November December January Januaryp January
+
+Money and credit aggregates
+
+M1 2.0 5.5 -4.7 0.4 -0.2
+
+M2 7.0 5.2 -0.4 2.4 2.7
+
+M3 6.9 5.6 2.0 3.8 4.0
+
+Domestic nonfinancial debt 8.7 8.3 7.9 8.1 8.2
+
+Bank credit 6.0 0.1 2.5 1.3 2.3
+
+2
+Reserve measures
+
+3
+Nonborrowed reserves 1.5 -0.2 -13.7 -7.0 -6.7
+
+Total reserves 1.9 -1.5 -10.3 -5.9 -5.3
+
+Monetary base 3.9 5.0 4.7 4.9 4.7
+
+Memo: (Millions of dollars)
+
+Adjustment plus seasonal
+borrowing 539 472 640
+
+Excess reserves 1119 1038 1059
+
+p--preliminary.
+
+1. Money stock data incorporate benchmark and seasonal factor revisions.
+2. Monthly reserve measures, including excess reserves and borrowing, are
+calculated by prorating averages for 2-week reserve maintenance periods that
+overlap months. The January figures assume an average level of adjustment
+plus seasonal borrowing of $600 million and excess reserves of $1.2 billion
+for the reserve period ending February 8. Reserve data incorporate adjust-
+ments for discontinuities associated with changes in reserve requirements.
+3. Includes "other extended credit" from the Federal Reserve.
+
+
+
+-5-
+
+market and expectations by some issuers that longer-term interest rates
+
+will decline may have shifted some issuers toward shorter-term debt. Junk
+
+bond issuance has been moderate, but a heavy flow stemming from impending
+
+deals is expected in the near future. Consumer borrowing and mortgage
+
+activity appear to have been well maintained. Overall, domestic nonfinan-
+
+cial debt appears to have grown in January near the pace of recent months.
+
+
+
+Longer-run strategies
+
+(6) As background for the Committee's consideration of the ranges
+
+for 1989, projected effects of three alternative longer-run monetary
+
+policy strategies are presented below. Strategy I is a baseline, embody-
+
+ing the monetary policy and economic outlook of the greenbook forecast,
+
+extended judgmentally into 1991. Strategies II and III are based on
+
+somewhat tighter and somewhat easier monetary policies, respectively, as
+
+indexed by M2 growth that is one percentage point less and one percentage
+
+point more than in the baseline over each of the three years. Staff
+
+econometric models were used to derive deviations of the forecasts from
+
+the baseline under the two alternative policy strategies.
+
+1988
+
+M2 (QIV to QIV)
+I (Baseline)
+II
+III
+
+Prices: Fixed-weight
+deflator (QIV to QIV)
+I
+II
+III
+
+Real GNP (QIV to QIV) 1
+I
+II
+III
+
+Unemployment rates (QIV)
+I
+II
+III
+
+5-1/4
+
+4-1/2
+
+2-3/4 (3-1/2)
+
+5-1/4
+
+1. Drought-adjusted GNP in parentheses.
+
+1989 1990
+
+5
+4
+6
+
+4-3/4
+4
+5-1/4
+
+1
+3/4
+
+2-1/4
+
+6
+6-3/4
+5-1/2
+
+3-1/2
+2-1/2
+4-1/2
+
+4-1/2
+4-1/4
+4-1/2
+
+3 (2-1/4)
+2
+3-3/4
+
+5-1/2
+5-3/4
+5-1/4
+
+1991
+
+6
+5
+7
+
+4-1/4
+3-1/2
+5-1/4
+
+1-3/4
+1-3/4
+2
+
+6-1/2
+7-1/4
+5-3/4
+
+
+
+(7) Under the baseline of strategy I, policy exerts some restraint
+
+on output, putting in place conditions that lead to some moderation in the
+
+pace of inflation starting in 1991. Given the rise in real interest rates
+
+over the near term to a fairly high level, nominal rates can begin to edge
+
+off in the latter part of the forecast period, as inflation moderates.
+
+Even so, real rates remain high enough to keen real output below its
+
+potential. The behavior of nominal rates means that velocity will level
+
+out, and the associated acceleration of M2 growth is still consistent with
+
+restraint on inflation.
+
+(8) The tighter policy of strategy II would lead to quicker and
+
+larger decreases in inflation. That result, however, involves still
+
+higher real interest rates over the forecast horizon in order to induce a
+
+substantial slowing of output growth and an appreciable rise in unemploy-
+
+ment to well above the rate associated with steady inflation--assumed to
+
+be around 5-3/4 percent in these simulations. The level of the unemploy-
+
+ment rate at the end of 1991 implies even greater progress against infla-
+
+tion in 1992, absent a sharp turnaround in policy. The dollar would be
+
+higher under this strategy than in the staff forecast. The negative
+
+effects of this on the improvement in trade, however, might be offset by
+
+the additional restraint on domestic demand and the better performance of
+
+prices and costs for U.S. producers.
+
+(9) The faster money growth of strategy III would avoid a marked
+
+slowing in economic growth, keeping the unemployment rate at or a little
+
+below its current level over the near term and allowing only a small rise
+
+through 1991. Inflation accelerates substantially in 1990, before level-
+
+ing out. Faster expansion of domestic demand tends to deepen external
+
+
+
+imbalances, and the greater downward movement of the dollar contributes to
+
+the higher inflation. Nominal interest rates initially are somewhat lower
+
+under this strategy, but the pressure of faster income growth and higher
+
+inflation results in nominal rates equal to those under the other two
+
+strategies by 1991.
+
+(10) The table below gives inflation projections for the three M2
+
+paths based on the single-equation model relating the level of prices to
+
+M2 presented to the FOMC in November. In this model, M2 determines a
+
+long-run level of prices, assuming velocity and output are at their trend
+
+levels. Inflation would accelerate or decelerate depending on whether
+
+actual prices were below or above this long-run level. The results of the
+
+equation simulation tend to give a little more optimistic outlook for
+
+inflation under the three alternatives.
+
+1988 1989 1990 1991
+
+Prices: Fixed-weight
+deflator (QIV to QIV)
+
+I 4-1/2 4-1/2 4-1/4 3-1/2
+II 4-1/2 4 3
+III 4-3/4 4-1/2 4-1/4
+
+
+
+Long-run ranges for 1989
+
+(12) The table below gives two alternative sets of ranges for
+
+growth in M2, M3, and the debt of nonfinancial sectors from the fourth
+
+quarter of 1988 to the fourth quarter of 1989. The ranges of alternative
+
+I are those adopted on a tentative basis by the Committee in late June.
+
+Alternative II would reduce the money ranges somewhat further, more com-
+
+fortably encompassing staff expectations for growth in M2 and M3 in the
+
+greenbook forecast, and allowing for the slower money growth strategy
+
+outlined in the previous section.
+
+Alt. I Alt. II Memo:
+(tentative ranges) 1988 ranges
+
+Growth from QIV '88
+to QIV '89
+
+M2 3 to 7 2-1/2 to 6-1/2 4 to 8
+M3 3-1/2 to 7-1/2 3 to 7 4 to 8
+Debt 6-1/2 to 10-1/2 6-1/2 to 10-1/2 7 to 11
+
+(13) The proposed alternatives retain the 4 percentage point widths
+
+for all the ranges, first adopted last February.2 The rationale for
+
+widening the range for M2 rested primarily on the combined effects of the
+
+rather interest-sensitive nature of this aggregate over the one-year tar-
+
+get period and uncertainty about levels of interest rates that would
+
+accompany pursuit of policy objectives over the year. M3 and debt are
+
+2. The report of the Senate Banking Committee following the July mone-
+tary policy hearings recommended that the ranges be narrowed. In addi-
+tion, it implied that the ranges should be centered on the Committee's
+expected outcome, in that the Committee report asked for ex post ex-
+planations of any deviations from the center of the ranges. The report
+also recommended consideration of a range for the monetary base as a
+replacement for M1; a Board staff report summarizing material that
+served as a basis for earlier FOMC discussions of this issue was sent to
+the Banking Committee in December.
+
+
+
+-10-
+
+less sensitive to intermediate-term variations in interest rates. How-
+
+ever, some special uncertainties in the financial sector in 1989 might
+
+argue against narrowing any of the ranges. As noted below, the approach
+
+to resolving thrift difficulties could affect both M2 and M3. In addi-
+
+tion, the unpredictable outlook for corporate restructuring activity,
+
+which might be affected by, among other things, actual or proposed legis-
+
+lative action, adds to uncertainties with respect to growth of debt and
+
+M3.
+
+(14) The staff expects that M2 growth of only 3-1/2 percent in 1989
+
+will be associated with the greenbook forecast. The sluggish growth of M2
+
+is an aspect of the tighter monetary policy in the latter part of 1988 and
+
+the additional firming of interest rates in 1989 thought likely to be
+
+needed to contain inflation. Although nominal GNP is projected to in-
+
+crease 7 percent this year, the same as in 1988, the upward movement in
+
+rates and associated rise in opportunity costs are expected to increase M2
+
+velocity 3-1/2 percent this year, compared with 1-1/2 percent last year.
+
+(See chart 1.) A substantial part of the velocity increase would seem
+
+already to be in train from the lagged effects of the interest rate in-
+
+creases that have occurred over the second half of 1988. Even with no
+
+additional increase in rates, velocity would be expected to rise nearly
+
+3 percent in 1989. The projection for M2 is a little below model fore-
+
+casts for this aggregate, given greenbook income and market interest
+
+rates. This is based on the assumption that the usual relationship of
+
+deposit to market interest rates is not restored in 1989, leaving oppor-
+
+tunity costs a bit higher than generated by the models. Moreover, future
+
+steps to deal with the thrift situation could further adversely affect
+
+
+
+Chart 1
+
+ACTUAL AND PROJECTED VELOCITY OF M2 AND M3*
+
+M2 VELOCITY
+Ratio scale
+
+-i 2.5
+
+-42
+
+-4 1.5
+
+I 1 1 I I I I I I I I I i I I I I I I I I I I I Illll llll l l llll ll
+1975 1980 1985
+
+M3 VELOCITY
+
+i1
+1990
+
+Ratio scale
+-- 2.5
+
+- 2
+
+- 1.5
+
+'---a
+
+I I I I I I I I I I I I I I I I I I I I I I I I Iill ll lill11
+1960 1965 1970
+
+* Projectons me based on staf forecasts of GNP and money.
+
+1960 1965 1970
+
+1975 1980 1985
+1 1I
+
+1990
+
+---
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ill 11 111111
+
+L
+
+*
+
+
+
+Chart 2
+
+ACTUAL AND PROJECTED VELOCITY OF M1 AND DEBT*
+
+M1 VELOCITY
+Ratio scale
+
+I I I I I I I I I II I I I I I I I I I I I I I Itllllliiil11
+1965 1970 1975 1980 1985
+
+DOMESTIC NONFINANCIAL DEBT VELOCITY
+
+1990
+
+Ratio scale
+S1.25
+
+- 0.75
+
+I I I I I I I I I I I I I I I I I I I I I I I I Iiiilttiliiiliiiliiiliii
+1960 1965 1970 1975
+
+' Projections ar bsed on staff forecats of GNP, money, and debt
+
+1960
+
+1980 1985
+J 0.5
+0199
+
+f i l .1 1 1 1 1 1 1 1 1
+
+-1
+
+b
+
+
+
+-11-
+
+returns on deposits, for example through an increase in insurance pre-
+
+miums .
+
+(15) M3 growth also is expected to slow substantially this year--to
+
+about a 4-3/4 percent pace--under the greenbook forecast. This slowing
+
+reflects a projected deceleration in asset expansion and associated fund-
+
+ing needs at thrifts as well as greater reliance on managed liabilities
+
+outside M3 at all depository institutions as core deposit growth moder-
+
+ates. At banks, credit growth is expected to be supported by increased
+
+demands from businesses, which will be funding greater external credit
+
+needs from short-term sources in a rising rate environment. Even so,
+
+capital requirements will foster continued securitization and sale of
+
+loans, contributing to a slight moderation in credit growth at these
+
+institutions in 1989. At thrifts, some easing in the demands for mortgage
+
+credit together with administrative restraints on lending by insolvent or
+
+undercapitalized thrifts, should depress overall thrift asset growth
+
+appreciably. The staff forecast has thrift credit growth slowing substan-
+
+tially in 1989--to 6-1/4 percent from 7-3/4 percent in 1988--but risks may
+
+be on the side of even slower growth of assets and liabilities. Moreover,
+
+3. In assessing the demand for money, no special allowance has been
+made for any distorting effects of the recovery from the drought on
+nominal GNP. In terms of affecting the demand for money and velocity,
+such effects might go in offsetting directions. The lower level of
+spending relative to income as inventories were rebuilt might raise V2
+growth to the extent demands for M2 were related to spending, but lower
+V2 growth to the extent that higher savings rates were associated with
+greater accumulation of financial assets.
+
+Conceptually, the retirement of equity in corporate restructurings
+may have boosted the demand for M2 by those receiving the proceeds.
+Aside from some short-run effects as funds are held temporarily in the
+process of completing these transactions, however, little effect of this
+phenomenon has been apparent, and no allowance in the M2 forecast has
+been made for the projected slackening of share retirements over coming
+quarters this year.
+
+
+
+-12-
+
+assistance to troubled thrifts from the government could substitute in
+
+part for deposit sources of funds. Thrifts already have been using FSLIC
+
+notes to collateralize FHLB advances, and any cash infusions might have
+
+similar effects on their appetite for deposits.
+
+(16) Debt of domestic nonfinancial sectors is projected to grow
+
+8-1/2 percent in 1989, marginally below its 1988 rate. Federal borrowing
+
+moderates a little, reflecting a drawdown of cash balances rather than a
+
+reduction of the deficit and underlying pressures on financial markets.
+
+Overall, nonfederal borrowing is projected to be maintained at about its
+
+1988 pace. In the corporate sector, borrowing is expected to strengthen
+
+somewhat as the financing gap widens and corporate restructuring and
+
+equity retirement activity remains brisk, though trending down from the
+
+record pace in late 1988 and early 1989. In the household sector, growth
+
+of mortgage debt is expected to slow as higher interest rates restrain
+
+housing activity; consumer credit expansion also should moderate, in line
+
+with a smaller rise in outlays on consumer durables.
+
+(17) Although alternative I encompasses staff money growth fore-
+
+casts thought to be consistent with the greenbook economic projection for
+
+1989, both M2 and M3 likely would be well down in the lower halves of
+
+their ranges. Alternative II would more nearly center projected growth
+
+within the annual ranges, although still involving some expected shortfall
+
+from the midpoints, especially for M2. Alternative II affords more room
+
+for unexpectedly slow money growth, for example should offering rates
+
+adjust even more sluggishly than the staff envisions. Alternative II also
+
+provides more scope for greater monetary policy tightening than in the
+
+staff forecast, should additional restraint on aggregate demand be needed
+
+
+
+-13-
+
+to check inflation pressures or should the Committee wish to make more
+
+progress against inflation than in the staff projection. At the same
+
+time, should constant or moderately declining interest rates prove consis-
+
+tent with satisfactory economic performance, the upper bound of alterna-
+
+tive II would provide adequate room for the implied faster money growth.
+
+(18) On the other hand, alternative I already represents reductions
+
+in the M2 and M3 ranges for 1989 of 1 and 1/2 percentage point, respec-
+
+tively, from those for last year, and the Federal Reserve's resolve at
+
+least to resist any increase in inflation is not widely questioned. More-
+
+over, should a major initiative to close the deficit over time be forth-
+
+coming, market interest rates would come under downward pressure, and
+
+alternative I would better encompass the somewhat faster money growth
+
+needed should the System wish to assure that economic growth would not
+
+slacken over the near term. Alternative I may be a more natural transi-
+
+tion to the appropriate sequence of monetary ranges in future years, when
+
+nominal interest rates may not be rising and velocity would level out or
+
+even decline. For example, in 1990 M2 and M3 are seen as accelerating to
+
+5 and 5-1/2 percent, as interest rates are assumed to move lower later in
+
+the year. If the Committee wishes to have scope to continue reducing the
+
+ranges in 1990 and beyond, it may be desirable to avoid larger decreases
+
+at this time.
+
+(19) Under the staff forecast, M1 would be about unchanged on bal-
+
+ance over 1989, as declines in demands for both demand deposits and NOW
+
+accounts, stemming from the projected rise in opportunity costs and
+
+declines in required compensating balances, are about offset by growth in
+
+currency in line with that of nominal GNP. This currency growth would
+
+
+
+-14-
+
+support expansion in the monetary base over 1989 of 4-1/2 percent, 2-1/2
+
+percentage points slower than last year.
+
+
+
+-15-
+
+Short-run policy alternatives
+
+(20) The two near-term policy alternatives presented involve
+
+adjustment plus seasonal discount borrowing of $600 million for alterna-
+
+tive B with funds trading at around 9 percent or a bit above, and borrow-
+
+ing of $800 million for alternative C with funds 1/2 percentage point
+
+higher. The funds rate that is likely to be associated with a particular
+
+borrowing level and with the current 6-1/2 percent discount rate clearly
+
+has become harder to predict in light of the substantial downward shift in
+
+the borrowing relationship that started around mid-October of last year.
+
+Additional near-term uncertainties can be identified. If the beginning-
+
+of-year reluctance to borrow extends well into February or turns out to be
+
+a more fundamental shift, adhering to a given borrowing objective would be
+
+associated with somewhat higher federal funds rates. However, some tem-
+
+porary downward pressure on the funds rate relative to staff expectations
+
+might accompany the sizable boost to free reserves projected in coming
+
+weeks from market factors, as currency and required reserves decline sea-
+
+sonally and the Treasury balance runs off. In addition, massive flows of
+
+funds through the banking system in coming weeks, associated with payment
+
+for the RJR-Nabisco takeover and the Treasury's midquarter refunding, may
+
+contribute to temporary volatility in money market rates. In light of
+
+these considerations, it may be appropriate for the Desk to continue to
+
+view the borrowing assumption with some flexibility.
+
+4. Since that time, the borrowing shortfall has averaged around $400
+million, although it was even greater in the two maintenance periods
+
+ending December 14 and 28 and in the most recent period ending January
+25. Anticipations of System tightening and year-end pressures in
+
+December and a usual beginning-of-year pullback in borrowing in January
+likely enlarged those shortfalls. Thus, the expected relationship
+assumes that only the average downward shift of approximately $400 mil-
+
+lion since mid-October will prove permanent.
+
+
+
+-16-
+
+(21) Anticipated money growth rates from December to March are
+
+shown in the table below for both alternatives, along with implied growth
+
+through March from the fourth-quarter base of the annual targets. (Detail-
+
+ed data are presented on the table and charts on the following pages.)
+
+Under both alternatives, M2 would remain around the lower bound of its 3
+
+to 7 percent tentative annual range by March, while M3 would stay in the
+
+lower half of its 3-1/2 to 7-1/2 percent tentative annual range.
+
+Alt. B Alt. C
+
+Growth from December
+to March
+
+M2 2 1-1/2
+M3 3-1/2 3-1/4
+M1 -2 -2-3/4
+
+Growth from QIV '88
+to March
+
+M2 3 2-3/4
+M3 4-1/4 4
+M1 -1/2 -2-1/2
+
+Associated federal 7 to 11 7-1/2 to
+funds rate range 11-1/2
+
+(22) Short-term rates seem to have built in a further firming step
+
+for policy in the near term. With funds continuing to trade at or a
+
+little above 9 percent, as expected under alternative B, some of the rate
+
+increases registered most recently may unwind, with Treasury bill rates
+
+moving back to around 8-3/8 percent or a little below. Bond yields are
+
+unlikely to move substantially, absent more indications of strength in the
+
+economy or intensifying pressures on prices. As maintaining the reserve
+
+pressures of alternative B causes international investors to begin recon-
+
+sidering the likelihood of an imminent U.S. monetary policy tightening,
+
+the value of the dollar could begin to slip.
+
+
+
+Alternative Levels and Growth Rates for Key Monetary Aggregates
+
+M2 M3 M1
+
+Alt. B Alt. C Alt. B Alt. C Alt. B Alt. C
+
+Levels in billions
+1988 October 3042.3 3042.3 3875.3 3875.3 785.4 785.4
+
+November 3060.0 3060.0 3897.6 3897.6 786.7 786.7
+December 3073.3 3073.3 3915.9 3915.9 790.3 790.3
+
+1989 January 3072.4 3072.4 3922.4 3922.4 787.2 787.2
+February 3080.8 3079.3 3937.8 3937.2 786.6 786.0
+March 3088.8 3085.7 3950.9 3948.7 786.4 785.0
+
+Monthly Growth Rates
+1988 October 2.8 2.8 5.3 5.3 2.6 2.6
+
+November 7.0 7.0 6.9 6.9 2.0 2.0
+December 5.2 5.2 5.6 5.6 5.5 5.5
+
+1989 January -0.4 -0.4 2.0 2.0 -4.7 -4.7
+February 3.3 2.7 4.7 4.5 -0.9 -1.8
+March 3.1 2.5 4.0 3.5 -0.3 -1.5
+
+Quarterly Ave. Growth Rates
+1988 Q1 6.2 6.2 6.8 6.8 3.2 3.2
+
+Q2 6.9 6.9 7.2 7.2 6.3 6.3
+Q3 3.8 3.8 5.5 5.5 5.2 5.2
+Q4 3.8 3.8 4.9 4.9 2.4 2.4
+
+1989 Q1 2.9 2.7 4.2 4.1 -0.4 -0.7
+
+Nov. 88 to Mar. 89 2.8 2.5 4.1 3.9 -0.1 -0.7
+Dec. 88 to Mar. 89 2.0 1.6 3.6 3.3 -2.0 -2.7
+Jan. 89 to Mar. 89 3.2 2.6 4.4 4.0 -0.6 -1.7
+
+Q4 87 to Q4 88 5.3 5.3 6.2 6.2 4.3 4.3
+Q4 88 to Q1 89 2.9 2.7 4.2 4.1 -0.4 -0.7
+Q4 88 to Jan. 89 2.7 2.7 4.0 4.0 -0.2 -0.2
+Q4 88 to Feb. 89 2.9 2.7 4.3 4.2 -0.4 -0.7
+Q4 88 to Mar. 89 3.0 2.7 4.2 4.0 -0.4 -1.0
+
+1988 Target Ranges: 4.0 to 8.0 4.0 to 8.0
+1989 Ranges (Tentative): 3.0 to 7.0 3.5 to 7.5
+
+
+
+Chart 3
+
+ACTUAL AND TARGETED M2
+
+Actual Level
+- -- Estimated Level
+
+* Short-Run Atenatives
+
+The range for 199 Is th one doapld
+tentativly a the Jaiy mnwg.
+
+Billions of dollars
+3300
+
+7%
+
+3250
+
+3200
+
+S3150
+
+3100
+
+3050
+
+- 3000
+
+- 2950
+
+- 2900
+
+I I 2850
+O N D J F M A M J J A S O N D J F M A M J J A S O N D
+
+*'
+
+c
+
+,-'
+
+1988 19891987
+
+
+
+Chart 4
+
+ACTUAL AND TARGETED M3
+Billions of dollars
+
+- Actual Level
+--- Estimated Level
+
+* Short-Run Altematives
+
+The range for 198e is te one adoped
+tentahvely al the Jiy mteag.
+
+ON D J F MA M J J A S ON D J F MA M J J A S ON D
+1987 1988 1989
+
+4250
+
+4200
+
+4150
+
+4100
+
+4050
+
+4000
+
+3950
+
+3900
+
+3850
+
+3800
+
+3750
+
+3700
+
+3650
+
+3600
+
+
+
+Chart 5
+
+M1
+Billions of dollars
+
+---- Actual Level
+-- - Estimated Level
+------ Growth From 1987.04
+
+* Short-Run Altematives
+15% - 860
+
+-- 840
+
+--- ' 10%
+
+-- 820
+
+Se 5%
+
+c-- -- ----- - - --- ------ 0
+
+0%
+
+.. . i a a a I I I I I I I I I
+] | 1 
+
+1 1 1 
+1 1 1 
+
+1 1 1 
+1 
+
+1 1 1 
+1 1
+
+O N D J F M A M J J A S O N D J F M A M J J A S O N D
+
+800
+
+780
+
+-- 760
+
+m
+
+• , I
+
+19891987 1988
+
+
+
+Chart 6
+
+DEBT
+Billions of dollars
+
+-- Actual Level
+* Projected Level
+
+The range or 1989 s u M on adoped
+Sentilvly a t he y mn-e .
+
+I I i I I I I I I I I I I I I I I I I I I I
+
+O N D J F M A M J J A S O N D J F M A M J J A S O N D
+7800
+
+10200
+
+9900
+
+9600
+
+-1 9300
+
+-- 9000
+
+-- 8700
+
+-- 8400
+
+-- 8100
+
+I i I
+
+1987 1988 1989
+
+
+
+-18-
+
+(23) Increases in short-term market rates over recent months should
+
+restrain M2 growth through this quarter under alternative B. Some rebound
+
+from a weak January seems in store in February and March, but M2 growth is
+
+expected to reach only about 3 percent over the next two months, given the
+
+glacial adjustment speed of offering rates recently, especially for liquid
+
+5
+accounts. With demand deposits expected to continue to run off in
+
+February and March, M1 would decline slightly further. The 2 percent M2
+
+growth of alternative B from December to March implies quarterly average
+
+growth of only 3 percent for this aggregate. M2 demand is not expected to
+
+respond to the anticipated bulge in nominal GNP in the current quarter
+
+resulting from an imputed bounceback of farm activity from the drought
+
+last year. Consistent with the GNP outlook in the greenbook, the income
+
+velocity of M2 would increase this quarter at a 5-3/4 percent annual rate,
+
+nearly twice its rate of change over the second half of 1988.
+
+(24) M3 growth under alternative B should strengthen from its
+
+January lull to a 4-1/2 percent annual rate over February and March,
+
+bringing growth from December to March to a 3-1/2 percent annual rate.
+
+Total thrift deposits, flat in December and January, are expected to ex-
+
+pand weakly over February and March, and S&Ls should continue their reli-
+
+ance on new FHLB advances and other non-M3 borrowing. A bulge in bank
+
+credit associated with financing of the RJR-Nabisco takeover, while other
+
+LBO and merger-related lending remains heavy, should induce substantial
+
+issuance of large CDs this month and next. Corporate restructuring
+
+5. Growth of M2 may be somewhat elevated in February, and depressed in
+March, by short-term placement of funds borrowed for the RJR-Nabisco
+buyout. These funds reportedly will be held in highly liquid instru-
+ments for a time prior to disbursement to shareholders.
+
+
+
+-19-
+
+activity also will be boosting overall debt issuance by domestic nonfinan-
+
+cial sectors for a time. The debt aggregate is projected to grow at a
+
+9-1/2 percent annual rate over the first quarter--somewhat faster than in
+
+1988 and in the upper half of its tentative range. Net equity retirements
+
+are forecast at a record $200 billion annual rate for the quarter, while
+
+the corporate financing gap holds steady at around an $80 billion annual
+
+rate.
+
+(25) The rise in the funds rate to around 9-1/2 percent or slightly
+
+higher associated with discount borrowing of $800 million under alterna-
+
+tive C would be larger than is currently built into market rates. Short-
+
+term rates would move up across the board, though by less than 1/2 per-
+
+centage point, with the 3-month Treasury bill rate rising to around 8-3/4
+
+percent. The upward pressure on bond rates from market perceptions of a
+
+higher path for short rates in the intermediate term might be largely
+
+offset by expectations that policy actions of this size and speed were
+
+likely to slow growth and reduce inflation. Higher short-term rates
+
+likely would induce some further firming of the exchange value of the
+
+dollar. The increase in short-term rates would further damp expansion of
+
+the monetary aggregates. The projected 1-1/2 percent growth of M2 over
+
+the first three months of the year under this alternative would place it
+
+in March a little below the lower bound of the cone associated with its
+
+tentative annual range, and the upward movement of rates is likely to keep
+
+M2 growth relatively damped into the spring. M3 growth of about 3-1/4
+
+percent from December to March would leave this aggregate just 1/2 per-
+
+centage point above its tentative lower bound by quarter end.
+
+
+
+-20-
+
+Directive language
+
+(26) Presented below for Committee consideration is draft language
+
+relating to the ranges for 1989 and to the operating paragraph for the
+
+intermeeting period. With respect to the long-run ranges, alternative
+
+language is offered that would fold the M1 sentence into the first para-
+
+graph and apply to the broader aggregates as well as to M1 the notion that
+
+they are evaluated in light of conditions in the economy and financial
+
+markets. This might be considered more consistent with the treatment of
+
+the aggregates in the operational paragraph.
+
+The Federal Open Market Committee seeks monetary
+
+and financial conditions that will foster price stabil-
+
+ity over time, promote growth in output on a sustainable
+
+basis, and contribute to an improved pattern of interna-
+
+tional transactions. In furtherance of these objec-
+
+tives, the Committee at THIS [DEL: its] meeting ESTABLISHED [DEL: in
+
+late June reaffirmed] the ranges [DEL: it had established in
+
+February] for growth of ____ TO ____ [DEL: 4 to 8] percent for [DEL: both
+
+M2 and ____ TO ____ PERCENT FOR M3, measured from the fourth
+
+quarter of 1988 [DEL: 1987] to the fourth quarter of 1989 [DEL: 1988].
+
+The monitoring range for growth of total domestic non-
+
+financial debt was SET [DEL: also maintained] at ____ TO ____ [DEL: 7 to
+
+11] percent for the year.
+
+[DEL: Per 1989 the Committee agreed on tentative ranges
+
+for monetary growth, measured from the fourth quarter of
+
+1988 to the fourth quarter of 1989, of 3 to 7 percent
+
+for M2 and 3-1/2 to 7-1/2 percent for M3. The Committee
+
+
+
+-21-
+
+set the associated monitoring range for growth of total
+
+domestic nonfinancial debt at 6-1/2 to 10-1/2 percent.
+
+It was understood that all these ranges were provisional
+
+and that they would be reviewed in early 1989 in the
+
+light of intervening developments.]
+
+[No para] The Committee AGAIN DECIDED [DEL: reaffirmed its
+
+decision in February] not to establish a specific target
+
+[DEL:for 1988 and also decided not to set a tentative range]
+
+for M1 GROWTH IN 1989. The behavior of this aggregate
+
+[THE MONETARY AGGREGATES] will continue to be evaluated
+
+in the light of movements in its velocity [THEIR
+
+VELOCITIES], developments in the economy and financial
+
+markets, and the nature of emerging price pressures.
+
+OPERATIONAL PARAGRAPH
+
+In the implementation of policy for the immediate
+
+future, the Committee seeks to DECREASE SOMEWHAT/
+
+MAINTAIN/increase somewhat the existing degree of pres-
+
+sure on reserve positions. Taking account of indica-
+
+tions of inflationary pressures, the strength of the
+
+business expansion, the behavior of the monetary
+
+aggregates, and developments in foreign exchange and
+
+domestic financial markets, somewhat (SLIGHTLY) greater
+
+reserve restraint would (MIGHT), or (SOMEWHAT) slightly
+
+lesser reserve restraint (WOULD) might, be acceptable in
+
+
+
+-22-
+
+the intermeeting period. The contemplated reserve con-
+
+ditions are expected to be consistent with growth of M2
+
+and M3 over the period from DECEMBER [DEL: November] through
+
+March at annual rates of about ____ AND ____ [DEL: 3 and 6-1/2]
+
+percent, respectively. The Chairman may call for Com-
+
+mittee consultation if it appears to the Manager for
+
+Domestic Operations that reserve conditions during the
+
+period before the next meeting are likely to be asso-
+
+ciated with a federal funds rate persistently outside a
+
+range of ____ TO ____ [DEL: 7 to 11] percent.
+
+
+
+APPENDIX
+
+MONEY STOCK REVISIONS
+
+Measures of the money stock have been revised to incorporate
+the results of the annual benchmark and seasonal factor review. The
+attached tables compare growth rates of the old and the revised series.
+These data are to be regarded as strictly confidential until their
+release scheduled for February 9.
+
+Benchmark Revisions
+
+Deposits of commercial banks and thrifts have been benchmarked
+using call reports through June 1988 and incorporate revisions from
+other sources as well. The benchmark revisions had negligible impacts
+on monetary growth over 1988 and on the quarterly pattern of growth
+within the year.
+
+Seasonal Revisions
+
+The seasonal factor review continued to employ the X-11 ARIMA
+procedure. Although revisions to seasonal factors had little effects on
+the broad patterns of growth in 1988, some redistribution of growth
+occurred from the first to the second half of the year. Growth of M1
+was increased by about 0.4 percentage point, M2 by 0.7 percent, and M3
+by 0.5 percent, on a second quarter to fourth quarter basis.
+
+
+
+Appendix Table 1
+
+Comparison of Revised and Old M1 Growth Rates
+(percent changes at annual rates)
+
+Difference I Difference due to
+Revised Old (1) - (2) Benchmark Seasonals
+
+(1) (2) (3) (I 4) (5)
+
+Monthly
+
+1987--0ct.
+Nov.
+Dec.
+
+1988--Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
+Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+
+1989--Jan.
+
+Quarterly
+
+1987--QIV
+
+1988--QI
+QII
+QIII
+QIV
+
+Semi-Annual
+
+1988--QIV '87 to
+QII '88
+
+QII '88 to
+QIV '88
+
+Annual (OIV TO OIV)
+
+1987
+1988
+
+15.1
+-4.3
+-3.7
+
+9.7
+2.7
+5.8
+11.5
+-0.2
+8.4
+9.3
+0.0
+2.0
+2.6
+2.0
+5.5
+
+-4.7
+
+14.0
+-5.6
+-3.0
+
+12.8
+1.1
+5.4
+
+11.3
+0.2
+9.8
+9.0
+0.3
+-0.2
+1.7
+0.3
+6.3
+
+-1.2
+
+3.9
+
+3.8
+6.3
+5.2
+1.3
+
+5.1
+
+3.3
+
+6.2
+4.2
+
+1.1
+1.3
+
+-0.7
+
+-3.1
+1.6
+0.4
+0.2
+-0.4
+-1.4
+
+0.3
+-0.3
+
+2.2
+0.9
+1.7
+-0.8
+
+-3.5
+
+1.1
+
+-0.6
+0.0
+0.0
+1.1
+
+0.1
+0.1
+
+-0.2
+
+0.2
+0.0
+0.0
+0.3
+0.2
+0.4
+0.5
+
+-0.4
+0.2
+
+-0.1
+0.1
+0.0
+
+0.0
+
+1.0
+1.2
+
+-0.5
+
+-3.3
+1.6
+0.4
+
+-0.1
+-0.6
+-1.8
+-0.2
+
+0.1
+2.0
+1.0
+1.6
+
+-0.8
+
+-3.5
+
+0.1
+
+0.0
+0.2
+0.2
+0.0
+
+1.0
+
+-0.6
+-0.2
+-0.2
+
+1.1
+
+-0.3
+
+0.5
+
+0.2
+0.1
+
+-0.4
+
+0.4
+
+0.1
+0.0
+
+
+
+Appendix Table 2
+
+Comparison of Revised and Old M2 Growth Rates
+(percent changes at annual rates)
+
+Difference | Difference due to
+Revised Old (1) - (2) | Benchmark Seasonals
+(1) (2) (3) I (4) (5)
+
+Monthly
+
+1987--Oct. 7.2 5.7 1.5 0.3 1.2
+Nov. 0.8 0.8 0.0 0.0 0.0
+Dec. 2.0 1.9 0.1 -0.1 0.2
+
+1988--Jan. 8.7 10.1 -1.4 0.0 -1.4
+Feb. 8.4 8.6 -0.2 0.5 -0.7
+Mar. 7.6 8.7 -1.1 -0.4 -0.7
+Apr. 8.5 9.5 -1.0 -0.3 -0.7
+May 3.8 4.5 -0.7 -0.5 -0.2
+June 5.2 5.7 -0.5 -0.2 -0.3
+July 4.3 3.7 0.6 -0.1 0.7
+Aug. 2.3 2.3 0.0 -0.6 0.6
+Sept. 2.1 1.0 1.1 -0.2 1.3
+Oct. 2.8 1.3 1.5 0.1 1.4
+Nov. 7.0 7.0 0.0 0.0 0.0
+Dec. 5.2 4.9 0.3 0.0 0.3
+
+1989--Jan. -0.4 1.2 -1.6 0.0 -1.6
+
+Quarterly
+
+1987--QIV 4.9 3.9 1.0 0.3 0.7
+
+1988--QI 6.2 6.8 -0.6 0.1 -0.7
+QII 6.9 7.7 -0.8 -0.2 -0.6
+QIII 3.8 3.6 0.2 -0.3 0.5
+QIV 3.8 3.0 0.8 -0.1 0.9
+
+Semi-Annual
+
+1988--QIV '87 to
+QII '88 6.6 7.3 -0.7 -0.1 -0.6
+
+QII '88 to
+QIV '88 3.8 3.3 0.5 -0.2 0.7
+
+Annual (OIV TO QIV)
+
+1987 4.2 4.0 0.2 0.2 0.0
+1988 5.3 5.4 -0.1 -0.2 0.1
+
+
+
+Appendix Table 3
+
+Comparison of Revised and Old M3 Growth Rates
+(percent changes at annual rates)
+
+Difference I Difference due to
+Revised Old (1) - (2) Benchmark Seasonals
+
+(1) (2) (3) 1 (4) (S)
+
+Monthly
+
+1987--Oct. 8.0 7.3 0.7 0.2 0.5
+Nov. 4.9 4.9 0.0 -0.2 0.2
+Dec. 2.2 1.6 0.6 -0.3 0.9
+
+1988--Jan. 8.0 8.6 -0.6 0.0 -0.6
+Feb. 9.7 10.5 -0.8 0.3 -1.1
+Mar. 7.9 8.2 -0.3 0.4 -0.7
+Apr. 7.6 7.6 0.0 -0.1 0.1
+May 4.7 5.5 -0.8 -0.5 -0.3
+June 6.6 7.8 -1.2 -0.3 -0.9
+July 7.1 7.0 0.1 -0.3 0.4
+Aug. 3.8 3.8 0.0 -0.2 0.2
+Sept. 2.6 1.7 0.9 -0.2 1.1
+Oct. 5.3 4.7 0.6 -0.1 0.7
+Nov. 6.9 6.9 0.0 0.0 0.0
+Dec. 5.6 4.5 1.1 0.0 1.1
+
+1989--Jan. 2.0 2.6 -0.6 0.0 -0.6
+
+Ouarterly
+
+1987--QIV 6.4 5.5 0.9 0.2 0.7
+
+1988--QI 6.8 7.0 -0.2 - 1 -0.3
+QII 7.2 7.7 -0.5 0.0 -0.5
+QIII 5.5 5.7 -0.2 -0.4 0.2
+QIV 4.9 4.4 0.5 -0.1 0.6
+
+Semi-Annual
+
+1988--QIV '87 to
+QII '88 7.0 7.4 -0.4 0.0 -0.4
+
+QII '88 to
+QIV '88 5.3 5.1 0.2 -0.3 0.5
+
+Annual (OIV TO OIV)
+
+1987 5.7 5.4 0.3 0.3 0.0
+1988 6.2 6.4 -0.2 -0.1 -0.1
+
+
+
+Short-Term
+--- Treasury bills---
+-- secondary market--
+
+federal 3
+funds month
+
+7.62 6.84
+5.95 5.24
+
+6
+month
+
+7.36
+5.36
+
+12
+month
+
+7.64
+6.40
+
+cds
+sec mkt
+3-month
+
+8.49
+5.83
+
+comm.
+paper
+1-month
+
+8.12
+5.88
+
+SELECTED INTEREST RATES
+(percent)
+
+money
+market
+mutual
+fund
+
+6.70
+5.28
+
+-U.S. Gov't. constant--
+---- maturity yields--
+
+bank
+prime
+loan
+
+9.25
+7.50
+
+3-year
+
+9.29
+6.37
+
+10-year
+
+9.96
+7.03
+
+30-year
+
+9.97
+7.34
+
+ry 6, 1989
+
+Lona- i arm
+
+corp. A
+utility
+rec off
+
+11.50
+8.79
+
+muni.
+Bond
+Buyer
+
+9.59
+6.92
+
+-- conventional home--
+.ortgages
+
+sec mkt primary market
+
+fixed- fixed-
+rate rate ARM
+
+11.98 11.58 8.45
+8.97 9.03 7.47
+
+8.87 8.16 8.26 8.40 9.33 9.41 8.18 10.50 9.16 9.36 9.42 10.73 8.34 11.33 10.81 8.54
+6.38 5.61 5.81 6.15 6.58 6.50 6.03 8.50 7.33 8.16 8.40 9.63 7.64 9.98 9.84 7.49
+
+Monthly
+FEB 88
+MAR 88
+APR 88
+AY 88
+
+JUN 88
+JUL 88
+AUG 88
+SEP 88
+OCT 88
+NOV 88
+DEC 88
+JAN 89
+
+Heekly
+NOV 2 88
+NOV 9 88
+NOV 16 88
+NOV 23 88
+
+NOV 30 88
+
+OEC 7 88
+DEC 14 88
+
+DEC 21 88
+DEC 28 88
+
+JAN 4 89
+JAN 11 89
+JAN 18 89
+JAN 25 89
+
+6.58
+6.58
+6.87
+7.09
+7.51
+7.75
+8.01
+8.19
+8.30
+8.35
+8.76
+9.12
+
+8.36
+8.31
+8.26
+8.33
+8.44
+
+8.59
+8.51
+8.87
+8.86
+
+9.22
+9.08
+9.13
+9.06
+
+5.66
+5.70
+5.91
+
+6.26
+6.46
+6.73
+7.06
+7.24
+7.35
+
+7.76
+8.07
+8.27
+
+7.36
+7.50
+7.83
+7.97
+
+7.96
+
+7.97
+8.00
+
+8.16
+8.13
+
+8.16
+8.28
+8.24
+8.25
+
+5.93
+5.91
+6.21
+6.56
+6.71
+6.99
+7.39
+7.43
+7.50
+7.86
+8.22
+8.36
+
+7.48
+7.66
+7.90
+8.01
+8.08
+
+8.16
+8.25
+8.23
+8.26
+
+8.28
+8.46
+8.34
+8.29
+
+6.21
+6.28
+6.56
+6.90
+6.99
+7.22
+7.59
+7.53
+7.54
+7.87
+8.32
+8.37
+
+7.51
+7.68
+7.90
+8.00
+8.08
+
+6.60
+6.63
+6.92
+7.24
+7.51
+7.94
+
+8.35
+8.23
+8.36
+
+8.78
+9.25
+9.20
+
+8.40
+8.50
+8.71
+8.92
+
+9.23
+
+8.18 9.22
+8.34 9.27
+8.40 9.33
+8.33 9.21
+
+8.40 9.17
+8.49 9.23
+8.33 9.24
+8.27 9.17
+
+6.55
+6.57
+6.80
+7.07
+7.41
+7.72
+8.09
+8.09
+8.12
+8.38
+9.31
+9.03
+
+8.19
+8.27
+8.38
+8.45
+8.53
+
+9.26
+9.27
+9.41
+9.30
+
+9.18
+9.04
+9.04
+9.00
+
+6.22
+6.04
+6.09
+6.20
+6.51
+6.77
+7.06
+7.40
+7.50
+7.64
+8.00
+8.33
+
+7.55
+7.56
+7.60
+7.68
+7.75
+
+7.85
+7.95
+8.09
+8.18
+
+8.39
+8.28
+8.35
+8.37
+
+8.51
+8.50
+8.50
+8.84
+9.00
+9.29
+9.84
+
+10.00
+10.00
+10.05
+10.50
+10.50
+
+10.00
+10.00
+10.00
+10.00
+10.21
+
+10.50
+10.50
+10.50
+10.50
+
+10.50
+10.50
+10.50
+10.50
+
+7.38
+7.50
+7.83
+8,24
+8.22
+8.44
+8.77
+8.57
+8.43
+8.72
+9.11
+9.20
+
+8.34
+8.53
+8.71
+8.87
+8.99
+
+9.00
+9.10
+9.16
+9.16
+
+8.21
+8.37
+8.72
+9.09
+8.92
+9.06
+9.26
+8.98
+
+8.80
+8.96
+9.11
+9.09
+
+8.69
+8.85
+8.93
+9.06
+9.13
+
+9.05
+9.10
+9.13
+9.12
+
+9.23 9.19
+9.33 9.25
+
+9.17 9.06
+9.11 8.99
+
+8.43
+8.63
+8.95
+9.23
+9.00
+9.14
+9.32
+9.06
+8.89
+
+9.02
+9.01
+8.93
+
+8.79
+8.92
+9.03
+9.12
+9.13
+
+9.75
+9.91
+
+10.23
+10.61
+10.41
+10.40
+10.45
+10.26
+10.11
+
+10.12
+10.08
+10.09
+
+10.02
+10.08
+10.20
+10.20
+
+10.15
+
+9.05 10.02
+8.98 10.15
+9.02 9.98
+8.96 10.12
+
+9.05
+9.06
+8.90
+8.84
+
+10.19
+10.11
+
+10.05
+10.00
+
+7.83
+8.08
+8.22
+8.30
+8.14
+8.15
+8.16
+7.96
+7.78
+7.80
+7.88
+7.63
+
+7.64
+7.77
+7.86
+7.93
+7.96
+
+10.02
+10.12
+10.44
+10.73
+10.62
+
+10.64
+10.87
+10.62
+10.41
+
+10.56
+10.98
+10.97
+
+10.37
+10.53
+10.64
+10.70
+
+10.79
+
+7.96 10.72
+7.94 11.08
+7.82 11.00
+7.71 11.33
+
+7.73 11.19
+7.66 10.99
+7.55 10.92
+7.56 10.78
+
+9.16 8.34 8.38 8.34 9.18 9.03 8.40 10.50 9.13 8.99 8.81 10.10 7.58 10.85 10.55 8.56
+
+8.33 8.35
+8.38 8.41
+8.48 8.52
+
+8.31 9.18
+8.36 9.19
+8.48 9.25
+
+NOTE: Neekly data for columns 1 through 11 are statement week averages. Data in column 7 are taken from Donoghue's Money Fund Report. Columns 12, 13 and 14
+
+are 1-day quotes for Friday, Thursday or Friday, respectively, following the end of the statement week. Column 13 is the Bond Buyer revenue index. Column 14
+is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average contract rate on new commitments for
+
+fixed-rate mortgages(FRMs) with 80 percent loan-to-value ratios at a sample of savings and loans. Column 16 is the average initial contract rate on new
+
+commitments for 1-year, adjustable-rate mortgages(ARMs) at S&Ls offering both FRMs and ARMs with the same number of discount points.
+
+87--High
+Low
+
+FEB 1 89
+
+9.89
+9.93
+
+10.20
+
+10.46
+10.46
+10.43
+
+10.60
+10.48
+10.30
+10.27
+10.61
+10.73
+
+10.12
+10.24
+10.31
+10.39
+10.44
+
+10.46
+
+10.71
+10.68
+10.77
+
+10.80
+10.81
+10.71
+10.60
+
+Daily
+JAN
+FEB
+FEB
+
+7.61
+7.52
+7.58
+7.71
+7.85
+7.84
+8.01
+8.14
+8.12
+8.15
+8.39
+8.55
+
+8.11
+8.14
+8.14
+8.21
+8.26
+
+8.35
+8.43
+8.45
+8.45
+
+8.53
+8.54
+8.58
+8.54
+
+27 89
+2 89
+3 89
+
+9.17
+9.03
+9.04p
+
+9.02
+9.03
+9.06
+
+10.50
+10.50
+10.50
+
+9.09
+9.12
+9.19p
+
+8.95
+8.98
+9.01p
+
+8.76
+8.82
+8.84p
+
+
+
+Strictly Confidential (FR)
+Money and Credit Aggregate Measures Class III 
+
+F
+OMC
+
+___ _Money stock measures and liquid assets Bank credit Domestic nonfinancial debt'
+
+nontransactions Itotal loans U.S
+Period Mt M2 components M3 L and government' olher' lotal'
+
+in M2 in M3 only investment
+1 2 3 4 5 s 7 a 9 10
+
+ANN. GROHTH RATES (%l
+ANNUALLY (14 TO Q4)
+
+1986
+1987
+1988
+
+QUARTERLY AVERAGE
+1988-1st QTR.
+1988-2nd QTR.
+1988-3rd QTR.
+1988-4th QTR.
+
+MONTHLY
+1988-JAN.
+
+FEB.
+MAR.
+APR.
+MAY
+JUNE
+JULY
+AUG.
+SEP.
+OCT.
+NOV.
+DEC.
+
+1989-JAN. pe
+
+LEVELS ($BILLIONS) :
+MONTHLY
+
+1988-AUG.
+SEP.
+OCT.
+NOV.
+DEC.
+
+15.6
+6.2
+4.2
+
+3.8
+6.3
+5.2
+1.3
+
+12.8
+1.1
+5.4
+11.3
+0.2
+9.8
+9.0
+0.3
+
+-0.2
+1.7
+0.3
+6.3
+
+-1
+
+782.5
+782.4
+783.5
+783.7
+787.8
+
+786.9
+787.5
+785.7
+786.6
+
+793.1
+786.3
+783.6
+785.8
+
+NEEKLY
+1988-DEC.
+
+1989-JAN. 2
+9
+
+16 p
+23 p
+
+1. Debt data are on a monthly average basis,
+discontinuities.
+p-preliminary
+pe-preliminary estimate
+
+9.4
+4.0
+5.4
+
+6.8
+7.7
+3.6
+3.0
+
+10.1
+8.6
+8.7
+9.5
+4.5
+5.7
+3.7
+2.3
+1.0
+1.3
+7.0
+4.9
+
+1
+
+3031.6
+3034.2
+3037.5
+3055.2
+3067.8
+
+3067.8
+3067.6
+3067.5
+3066.7
+
+3070.5
+3064.6
+3070.4
+3072.6
+
+7.4
+3.3
+5.8
+
+7.8
+8.2
+3.1
+3.6
+
+9.2
+11.2
+9.8
+8.8
+6.1
+4.3
+1.8
+3.1
+1.4
+1.2
+9.3
+4.5
+
+2
+
+2249.2
+2251.8
+2254.0
+2271.5
+2280.0
+
+2280.9
+2280.1
+2281.8
+2280.1
+
+2277.4
+2278.3
+2286.9
+2286.7
+
+8.2
+11.2
+10.0
+
+8.1
+7.4
+
+13.7
+9.4
+
+3.1
+17.7
+6.2
+0.6
+9.4
+
+15.9
+19.6
+9.3
+4.0
+17.1
+6.4
+2.7
+
+7
+
+816.9
+819.6
+831.3
+835.7
+837.6
+
+836.1
+839.5
+838.5
+835.5
+
+838.0
+840.8
+843.7
+842.4
+
+9.1
+5.4
+6.4
+
+7.0
+7.7
+5.7
+4.4
+
+8.6
+10.5
+8.2
+7.6
+5.5
+7.8
+7.0
+3.8
+1.7
+4.7
+6.9
+4.5
+
+3
+
+3848.5
+3853.8
+3868.8
+3890.9
+3905.4
+
+3903.9
+3907.1
+3906.0
+3902.2
+
+3908.6
+3905.4
+3914.2
+3914.9
+
+8.3
+5.3
+
+6.8
+9.1
+7.2
+
+10.5
+8.6
+7.3
+
+11.9
+8.7
+4.5
+11.5
+5.4
+1.7
+5.1
+9.2
+
+4582.6
+4589.2
+4608.8
+4644.0
+
+9.7
+7.9
+7.2
+
+5.3
+11.1
+
+7.3
+4.4
+
+6.1
+10.3
+
+9.1
+11.6
+12.5
+10.3
+
+6.3
+7.2
+
+-0.7
+7.1
+6.0
+0.1
+
+3
+
+2374.9
+2373.6
+2387.5
+2398.1
+2398.3
+
+14.7
+8.9
+8.1
+
+8.0
+8.2
+7.3
+7.9
+
+4.0
+10.6
+15.1
+7.1
+2.7
+6.0
+5.8
+
+10.5
+12.2
+5.1
+6.7
+7.6
+
+2059.0
+2079.9
+2088.7
+2100.4
+2113.7
+
+12.9
+10.0
+9.0
+
+8.2
+8.9
+9.0
+8.5
+
+7.4
+7.9
+7.5
+9.2
+
+10.0
+9.0
+9.1
+8.8
+7.8
+8.2
+9.3
+8.4
+
+6698.6
+6742.1
+6788.4
+6841.0
+6889.1
+
+.1. U .L _________________ U U U _________________ L U I.
+
+13.3
+9.8
+8.7
+
+8.1
+8.7
+8.6
+8.4
+
+6.6
+8.6
+9.3
+8.7
+8.3
+8.3
+8.3
+9.2
+8.8
+7.5
+8.7
+8.3
+
+8757.6
+8822.1
+8877.1
+8941.3
+9002.8
+
+derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove
+
+Seasonally adjusted FEB. 6, 1989
+
+
+
+Strictly Confidential (FR)
+
+Components of Money Stock and Related Measures Class II FOMC
+
+Small Money market Large
+Other Overnight donmi - mutual lunds NSA denomi- Term Term Short- Bank.
+
+Demand checkable RPs and MMOAI Savings nation general Institu- nalion RPe Eurodollars Savings term Commer- accp
+Period Curency dipeeiu deposits Eurodollars NSA depositl time purpose lions time NSA' NSA' bonds Treasury clal paper' tanc
+
+NSA' deposits' and brokers only depositl' 1curllle
+
+_ __________ ____ ____ ____dealer'
+__ 4 5 6 7 8 9 10 t 11 42 13 14 45
+
+LEVELS I*BILLIONSI :
+ANNUALLY 14TH QTR.
+
+1986
+1987
+1988
+
+MONTHLY
+1987-DEC.
+
+1988-JAN.
+FEB.
+MAR.
+
+APR.
+MAY
+JUNE
+
+JULY
+AUG.
+SEP.
+
+OCT.
+NOV.
+DEC.
+
+179.3 294.6
+194.9 291.7
+210.5 287.9
+
+196.5
+
+198.4
+199.3
+200.9
+
+202.5
+203.6
+204.9
+
+206.3
+207.2
+208.5
+
+209.5
+210.3
+211.7
+
+288,0
+
+289.9
+287.8
+287.9
+
+290.2
+287.4
+289.9
+
+290.6
+290.1
+288.4
+
+288.6
+286.9
+288.1
+
+228.6
+259.7
+279.2
+
+263.3
+265.0
+266.9
+
+270.1
+271.9
+274.4
+
+278.2
+278.0
+278.2
+
+278.0
+279.1
+280.5
+
+77.9
+81.1
+77.0
+
+77.9
+
+82.9
+78.3
+75.0
+
+76.1
+80.7
+81.0
+
+77.8
+80.1
+77.6
+
+76.0
+75.2
+79.9
+
+569.2
+528.9
+504.9
+
+525.2
+
+524.1
+522.6
+524.7
+
+523.3
+519.6
+522.3
+
+521.1
+517.0
+510.7
+
+506.8
+505.9
+502.0
+
+362.2
+415.4
+432.1
+
+414.3
+
+414.4
+416.2
+419.8
+
+422.7
+425.1
+429.0
+
+432.0
+434.2
+433.4
+
+431.2
+433.6
+431.6
+
+858.9
+899.4
+1018.7
+
+913.1
+
+924.6
+941.5
+953.5
+
+964.8
+972.0
+974.9
+
+978.5
+985.7
+997.4
+
+1009.9
+1019.0
+1027.1
+
+207.6
+219.7
+236.7
+
+221.1
+
+225.2
+231.0
+234.8
+
+235.8
+231.8
+228.9
+
+229.6
+230.8
+230.8
+
+231.2
+238.0
+240.8
+
+84.7
+87.2
+86.5
+
+89.6
+
+94.4
+98.7
+97.4
+
+91.9
+90.0
+86.3
+
+84.8
+84.0
+83.7
+
+84.6
+87.4
+87.6
+
+441.5
+479.2
+532.6
+
+484.7
+
+482.6
+488.6
+490.3
+
+492.1
+495.4
+501.8
+
+509.4
+515.3
+523.9
+
+530.7
+532.1
+534.9
+
+82.6
+109.8
+124.4
+
+108.9
+
+109.6
+113.9
+111.7
+
+114.3
+120.6
+123.8
+
+125.0
+123.1
+121.5
+
+123.9
+126.6
+122.8
+
+81.0
+92.2
+
+101.7
+
+90.8
+
+85.4
+85.5
+90.0
+
+89.1
+91.8
+93.1
+
+96.2
+102.3
+101.4
+
+99.1
+102.2
+103.9
+
+89.7
+99.4
+
+100.2
+
+101.4
+102.6
+103.5
+
+104.6
+105.4
+106.1
+
+106.9
+107.4
+107.7
+
+108.3
+108.4
+
+283.8
+267.9
+
+260.1
+
+262.5
+258.3
+252.8
+
+263.5
+265.1
+256.6
+
+266.5
+273.1
+278.0
+
+281.3
+282.9
+
+228.5
+255.2
+
+258.9
+
+269.0
+274.1
+280.3
+
+288.2
+301.1
+301.2
+
+311.5
+312.5
+307.9
+
+309.2
+321.0
+
+37.8
+45.1
+
+45.7
+
+43.6
+40.9
+40.6
+
+41.2
+40.9
+40.6
+
+40.6
+41. 1
+41.9
+
+41.3
+40.8
+
+time deposits.
+1. Net of money market mutual fund holdings of these items.
+2. Includes retail repurchase agreements. All IRA and Keogh accounts at comercial banks and thrift institutions are subtracted from mall
+3. Excludes IRA and Keogh accounts.
+4. Nat of large denomination time deposits held by money market mutual funds and thrift institutions.
+
+p-preliminary
+
+seasonally adjusted unless otherwise noted FEB. 6, 1989
+
+
+
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1
+February 6, 1989 Millions of dollars, not seasonally adjusted
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS II-FOMC
+
+Treasury bills Treasury coupons Feceral Net change
+o Nt Net purchase
+
+3  I agencies outright
+Period Net Redemp- Net within Rde)p- Not redemptions holdings
+
+purchases tion. (-) change 1-year I 1-5 5-10 over 10 tion. (-) change (-) total Net 1sf
+
+1983
+1984
+1985
+1986
+1987
+1988
+
+1987--Q3
+04
+
+1988--Q1
+02
+03
+04
+
+1988--July
+August
+Septmber
+October
+November
+December
+
+1989--January
+
+Nov. 2
+9
+
+16
+23
+30
+
+Dec. 7
+14
+21
+28
+
+Jan. 4
+11
+18
+25
+
+Feb. 1
+
+Memo: LVEL (bil.$)'
+February 1
+
+15,468
+11,479
+18,096
+20,099
+12,933
+7,635
+
+4,690
+4,334
+
+319
+423
+
+1,795
+5,098
+
+515
+
+1,280
+375
+
+3,599
+1,125
+
+-154
+
+323
+2,985
+
+60
+278
+
+50
+702
+
+92
+281
+
+323
+2,985
+
+60
+278
+
+50
+702
+
+92
+281
+
+-20
+-134
+
+i00 -630
+
+-117.1
+
+Change froam nd-of-pariod to end-of-pariod.
+Outright transactions in market and with foreign accounts.
+Outright transactions in market and with foreign accounts, and
+short-trm notes acquired in exchange for maturing bills. Excludes
+maturity shifts and rollovers of maturing coupon issues.
+
+484 1,896
+826 1,938
+
+1,349 2,185
+190 893
+
+3,358 9,779
+2,177 4,686
+
+143 2,356
+1,449 2,639
+
+2,400
+7,700
+3,500
+1,000
+9,029
+2,200
+
+8,229
+
+2,200
+
+2,200
+
+890
+236
+358
+236
+
+2,441
+1,404
+
+383
+441
+293
+158
+
+1,858
+1,398
+
+619 493
+596 445
+
+13,068
+3,779
+
+14,596
+19,099
+3,905
+5,435
+
+-3,539
+4,334
+
+-1,881
+423
+
+1,795
+5,098
+
+3,566
+3,440
+4,185
+1,476
+
+17,366
+15,099
+
+3,610
+5,059
+
+-975
+6,737
+
+3,903
+
+3,903
+
+-20
+
+-800
+3,661
+
+1,824
+
+1,824
+
+-3
+
+1,824
+
+-3 -20
+
+55.5 12.7 26.9 120.9
+
+4. Reflect net change and redmptions (-) of Treasury and agency
+5. Includes change in RPs (+), matched sale-purchase transactiona
+
+purchase sale transactions (+).
+6. The level of agency issues were
+
+as follows: within
+
+16,342 -5,445
+6,964 1,450
+
+18,619 3,001
+20,178 10,033
+20,994 -11,033
+14,513 1,557
+
+12 -1,433
+9,323 2,533
+
+-3,011 -3,514
+7,030 5,220
+1,717 1,393
+8,776 -1,541
+
+515 -5,941
+-10 -1,655
+
+1,280 8,989
+300 -6,150
+
+3,585 3,096
+4,892 1,512
+
+-925 -6,813
+
+323 1,627
+2,985 -1,362
+
+-14 1,341
+60 -1,160
+
+278 5,629
+
+3,518 -4,050
+693 -2,601
+352 3,351
+230 3,094
+
+100 4,882
+-- -4,141
+
+-20 -6,394
+-282 4,259
+
+-653 -3,729
+
+244.8
+
+seurt2essecurities.
+(-), and matched
+
+fl7TI
+1-year 1-5 5-10 over 10 total
+
+2.3 3.3 1.0 .2 6.8
+
+3,468
+75
+
+260
+
+100
+
+-23
+
+-175
+1,017
+
+562
+
+562
+
+-- 515
+
+-1,280
+-- 375
+
+-3,599
+-- 1,125
+
+600 -754
+
+1,092
+
+1,084
+
+1,084
+
+I
+c
+
+
+
+
