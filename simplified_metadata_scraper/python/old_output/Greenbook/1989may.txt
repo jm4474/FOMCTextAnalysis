@@ -1,0 +1,70 @@
+
+
+
+                                                        Greenbook Forecast May 1989
+
+
+                                                               1988    1988    1989    1989    1989    1989    1990    1990    1990    1990
+                                                                 Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4
+                                                             ------  ------  ------  ------  ------  ------  ------  ------  ------  ------
+
+Expenditures
+  Nominal GNP [gnp]                                          4909.0  4999.7  5116.8  5207.6  5286.3  5358.4  5442.5  5511.3  5585.8  5666.6
+  Real GNP [gnp82]                                           4009.4  4033.4  4088.2  4111.2  4131.7  4148.3  4160.8  4167.4  4178.0  4194.4
+  Nominal GNP (% change) [q_gnp]                                7.3     7.6     9.7     7.3     6.2     5.6     6.4     5.2     5.5     5.9
+  Real GNP (% change) [q_gnp82]                                 2.5     2.4     5.5     2.3     2.0     1.6     1.2     0.6     1.0     1.6
+  Real GDP (% change) [q_gdp82]                                 2.0     2.3     5.8     2.3     1.9     1.5     1.3     0.7     0.9     1.5
+  Gross domestic purchases (% change) [q_gnpexm82]              2.5     3.5     4.4     2.0     1.5     1.2     1.1     0.4     0.3     0.8
+  Final sales (% change) [q_sf82]                               2.0     3.5     3.0     2.8     2.8     1.8     1.4     1.1     1.4     1.9
+  Private domestic final purchases (% change) [q_sfpexm82]      3.9     2.9     2.2     2.7     2.4     1.4     1.4     0.9     0.8     1.1
+  Personal consumption expenditures (% change) [q_c82]          3.9     3.5     1.3     3.1     2.4     1.4     1.6     0.9     0.8     1.1
+    Durables (% change) [q_cdtot82]                            -0.2     6.1    -3.2     7.3     2.5    -3.4    -0.2    -1.5    -1.4     0.9
+    Nondurables (% change) [q_cn82]                             5.0     1.3     2.0     1.1     1.7     1.8     1.2     0.8     0.7     0.7
+    Services (% change) [q_cs82]                                4.5     4.2     2.4     3.1     2.8     2.7     2.5     1.7     1.5     1.4
+  Business fixed investment (% change) [q_ifixer82]             4.0    -2.9     9.6     6.6     5.5     3.0     1.9     1.5     0.8     0.5
+    Producers' durable equipment (% change) [q_ipde82]          4.6    -3.5    10.2     7.5     6.4     4.5     3.3     2.7     2.0     1.5
+    Nonresidential structures (% change) [q_icer82]             2.6    -1.0     7.9     3.9     2.9    -1.5    -2.1    -2.1    -2.8    -2.8
+  Residential structures (% change) [q_icr82]                   4.3    10.9    -3.6   -11.6    -4.6    -2.9    -2.5    -0.2     1.0     2.8
+  Export (% change) [q_ex82]                                   14.5     6.5    10.6    14.2     6.5     7.4     5.3     4.4     6.2     8.2
+  Imports (% change) [q_m82]                                   13.1    13.5     2.3    10.2     2.7     4.1     4.0     2.3     1.2     2.1
+  Government consumption and investment (% change) [q_gg82]    -5.2    11.9     1.1     1.9     1.7     1.3     0.6     0.6     0.5     0.8
+    Federal (% change) [q_gf82]                               -13.2    20.7    -2.7     1.3     1.1     0.4    -1.2    -1.3    -1.6    -0.7
+      Defense (% change) [q_gfdef82]                          -10.5     9.9    -9.7    -3.1    -1.7    -5.0    -2.9    -2.7    -3.1    -2.6
+    State and local (% change) [q_gsl82]                        1.1     6.0     4.0     2.3     2.2     2.0     2.0     2.0     1.9     1.9
+  Change in business inventories [cinv82]                      39.5    29.1    53.8    48.4    40.7    39.4    37.5    32.6    28.5    25.7
+    Nonfarm [cinvef82]                                         40.4    37.6    41.1    39.1    31.0    33.1    31.1    25.8    21.4    18.3
+  Net exports [ex82m82]                                       -93.9  -105.4   -95.6   -93.0   -88.5   -85.1   -84.1   -81.7   -74.7   -66.4
+Employment and Production
+  Nonfarm payroll employment [payrlem]                        106.5   107.3   108.3   108.8   109.2   109.5   109.8   109.9   110.0   110.2
+  Unemployment rate [ru]                                        5.5     5.3     5.2     5.3     5.3     5.4     5.5     5.7     5.9     6.1
+  Industrial production index (% change) [q_jrfb]               7.1     4.6     3.0     1.5     1.8     1.2     1.0     0.4     0.8     2.0
+  Capacity utilization rate -- mfg [ucapmfg]                   84.0    84.4    84.6    84.2    83.9    83.5    83.0    82.4    81.9    81.7
+  Housing starts [hs]                                           1.5     1.6     1.5     1.4     1.4     1.4     1.4     1.4     1.4     1.4
+  Auto sales in U.S. [slau]                                    10.3    11.0     9.7    10.5    10.6     9.9     9.8     9.5     9.3     9.3
+      Domestic [slauna]                                         7.2     7.9     6.9     7.4     7.6     7.0     6.9     6.8     6.7     6.7
+      Foreign [slaufr]                                          3.1     3.1     2.8     3.1     3.0     2.9     2.9     2.7     2.6     2.6
+Income and Saving
+  Nominal personal income (% change) [q_yp]                     7.3     8.7    13.2     7.3     6.3     6.4     7.7     6.2     5.5     6.5
+  Real disposable income (% change) [q_yd82]                    5.6     4.1     7.7    -0.9     1.4     1.3     2.7     0.6    -0.2     1.0
+  Personal saving rate [svpyd]                                  4.2     4.3     5.7     4.8     4.6     4.5     4.8     4.7     4.4     4.4
+  Corporate profits, IVA & CCAdj. (% change) [q_zbivca]         4.4    13.9   -10.6    -3.6     0.2   -12.6   -19.3   -15.2    -2.1    -6.0
+    Profit share of GNP [n_zbivca]                              6.7     6.8     6.5     6.3     6.2     5.9     5.5     5.2     5.1     5.0
+  Federal surplus/deficit [defgf]                            -123.5  -157.5  -146.1  -131.4  -130.2  -128.0  -124.5  -121.8  -110.6  -105.7
+  State and local surplus/deficit [defgsl]                     56.0    52.6    50.6    55.2    58.4    59.5    61.8    62.0    64.3    66.9
+    Ex. social insurance funds [defsig]                       -13.3   -18.2   -21.9   -18.2   -15.9   -15.6   -14.1   -14.7   -13.2   -11.4
+Prices and Costs
+  GNP implicit deflator (% change) [q_pgnp]                     4.7     5.3     3.9     4.8     4.1     3.9     5.1     4.5     4.5     4.3
+  GNP fixed-weight price index (% change) [q_pgnp_fw]           5.3     4.2     5.0     5.2     4.3     4.1     5.1     4.6     4.6     4.4
+    Cons.&fixed invest. prices (% change) [q_pcif_fw]           4.5     4.4     5.0     5.8     4.3     4.2     4.8     4.9     4.8     4.7
+  CPI (% change) [q_cpi]                                        4.5     4.4     5.4     6.1     4.7     4.2     5.1     5.1     5.0     5.0
+    Ex. food and energy (% change) [q_cpixfe]                   4.0     4.9     5.1     5.0     5.1     5.4     5.6     5.6     5.4     5.4
+  Nonfarm business sector
+    Output per hour (% change) [q_opm]                          2.0     1.0     0.5    -0.8     1.6     0.5     0.5     0.4     0.9     1.2
+    Compensation per hour (% change) [q_comphr]                 5.7     5.2     5.7     5.1     5.4     5.5     6.9     5.4     5.3     5.3
+    Unit labor cost (% change) [q_ulcnf]                        3.7     4.1     5.2     5.9     3.7     5.0     6.4     5.0     4.4     4.1
+
+
+
+                                  Append the string '_1989_05_10' to [mnemonic] to create variable names
+
+
