@@ -378,8 +378,6 @@ for alt in ["a","b","c"]:
     n_alt.update({alt:len(df_data[(df_data['training']!=1) & (df_data['alternative']==alt )])})
     index=df_data[(df_data['training']!=1) & (df_data['alternative']==alt )].index
     testindex_alt.update({alt:sample(list(index),int(ntuning/3))})
-    
-
 ## Get indices of the alternatives
 
 
@@ -410,3 +408,4 @@ plt.show()
 
 
 
+a=98+133+125
