@@ -28,7 +28,7 @@ def main():
         documents.append(document)
 
 def download_html(file):
-    with open("../output/statement_data.csv") as f:
+    with open("../output/statement_data.csv","wb") as f:
         file_path = "../output/statement_webpages/{}.html".format(file['start_date'])
         if not os.path.exists(file_path):
             r = requests.get(file['link'])
