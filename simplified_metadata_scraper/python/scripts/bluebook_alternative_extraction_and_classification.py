@@ -307,3 +307,4 @@ pd.pivot_table(df_result[df_result['year']>=start_year],'date',index=['alt_'+alt
 df_result[(df_result["alt_"+alternative+"_class"]=="No assignment") &  \
           (df_result['year']>=start_year) & (df_result['year']<=end_year)] \
           ["alt_"+alternative+"_sentences"].iloc[3]
+          
