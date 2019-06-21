@@ -4,7 +4,7 @@ from tika import parser
 
 #This file extracts the raw text of downloaded bluebook pdf documents
 
-def main():
+def extract_bluebook_raw_text():
     if not os.path.exists("../output/bluebook_raw_text"):
         os.mkdir("../output/bluebook_raw_text")
     tika.initVM()
@@ -22,4 +22,4 @@ def extract_raw_text(file):
     return raw_text
 
 if __name__ == "__main__":
-    main()
+    extract_bluebook_raw_text()

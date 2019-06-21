@@ -2,7 +2,7 @@ import pandas
 import numpy
 import csv
 import os
-def main():
+def extract_greenbook_data():
     greenbook_path = "../data/greenbook_excel/"
     all_projections = []
     if os.path.exists(greenbook_path):
@@ -41,4 +41,5 @@ def write_to_csv(projections):
         writer.writeheader()
         for projection in projections:
             writer.writerow(projection)
-main()
+if __name__ == "main":
+    extract_greenbook_data()

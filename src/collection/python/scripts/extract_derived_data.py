@@ -6,7 +6,7 @@ import datetime
 #This program reads in the raw FOMC scraped metadata and produces
 #A readable and actionable derived data csv for data download
 
-def main():
+def extract_derived_data():
     raw_df = pd.read_csv("../output/raw_data.csv")
     documents = []
     for index, row in raw_df.iterrows():
@@ -19,8 +19,6 @@ def main():
         link = row['link']
         grouping = row['grouping']
         year = row['year']
-        print("Document Name:{}".format(document_name))
-        print("Meeting Info:{}".format(meeting_info))
         cur_document['year'] = str(year)
         cur_document['event_type'] = extract_event_type(meeting_info)
         cur_document['file_name'] = extract_file_name(document_name)
@@ -31,7 +29,6 @@ def main():
         cur_document['document_class'] = extract_document_class(cur_document['grouping'])
 
         date_info = meeting_info.split(cur_document['event_type'])[0]
-        print("Date Info:{}".format(date_info))
         if "," in date_info:
             date_info = date_info.split(",")[0] + "-" + date_info.split("and ")[1]
         start_date = extract_start_date(date_info, year)
@@ -185,7 +182,6 @@ def extract_document_class(grouping):
     if document_class:
         return document_class
     else:
-        print("No Class Found for Grouping Type:{}".format(grouping))
         return None
 
 def do_manual_derived_changes(documents):
@@ -207,4 +203,4 @@ def write_derived_csv(documents):
             writer.writerow(document)
 
 if __name__ == "__main__":
-    main()
+    extract_derived_data()

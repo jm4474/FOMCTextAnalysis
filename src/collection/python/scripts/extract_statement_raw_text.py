@@ -4,7 +4,7 @@ import datetime
 import csv
 
 #This prgram extracts the raw text from downloaded html statement documents
-def main():
+def extract_statement_raw_text():
     if not os.path.exists("../output/statement_webpages"):
         os.mkdir("../output/statement_webpages")
     if not os.path.exists("../output/statement_raw_text"):
@@ -64,4 +64,4 @@ def write_statement_csv(statements):
             writer.writerow(statement)
 
 if __name__ == "__main__":
-    main()
+    extract_statement_raw_text()

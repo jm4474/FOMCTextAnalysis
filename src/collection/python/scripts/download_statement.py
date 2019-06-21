@@ -4,7 +4,7 @@ import requests
 
 #This file reads in the derived data file to download all statement webpages
 
-def main():
+def download_statement():
     data_file_name = "../output/derived_data.csv"
     start_year = 1965
     end_year = 2013
@@ -36,4 +36,4 @@ def download_html(file):
                 f.write(r.content)
 
 if __name__ == "__main__":
-    main()
+    download_statement()

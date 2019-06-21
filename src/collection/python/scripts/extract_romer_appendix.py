@@ -2,7 +2,7 @@ import re
 import pprint
 import csv
 from tika import parser
-def main():
+def extract_romer_appendix():
     data_points = []
     romer_raw_text = parser.from_file("../data/RomerandRomerNarrativeAppendix.pdf")
     lines = romer_raw_text['content'].splitlines()
@@ -44,4 +44,5 @@ def write_to_csv(documents):
         writer.writeheader()
         for document in documents:
             writer.writerow(document)
-main()
+if __name__=="__main__":
+    extract_romer_appendix()
