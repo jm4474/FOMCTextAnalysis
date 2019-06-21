@@ -9,25 +9,13 @@ Status: Draft
 ### Set packages ###
 import pandas as pd
 import re
-import os
-import matplotlib.pyplot as plt
-
-
-from nltk.corpus import stopwords
-import gensim
-import gensim.corpora as corpora
-from gensim.utils import simple_preprocess
-from gensim.models.phrases import Phrases, Phraser
-# spacy for lemmatization
-from distutils.core import setup
-from Cython.Build import cythonize
-import spacy
-from wordcloud import WordCloud
-import numpy as np
 
 ###############################################################################
 
-df_result=pd.read_csv("../output/bluebook_alternatives_sample.csv")
+df_output=pd.read_csv("../output/bluebook_alternatives.csv")
+df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
+df_output['date']=pd.to_datetime(df_output['meeting_date'])
+df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1968-08-13")]
 
 keywords_ease=["lower","cut","cuts","decline","reduction","ease","reduce","easing"]
 keywords_unchanged=["keep","unchanged","no change","maintained","maintain","remain","forego","continue"]
