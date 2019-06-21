@@ -294,8 +294,9 @@ df_result.sort_values('date', inplace=True)
 # Get output for individual years
 alternative="b"
 year=2006
+#Write to csv
 df_result[df_result['year']==year][['year','date',"alt_"+alternative+"_class"]]
-
+df_result.to_csv("../output/bluebook_alt_and_class_output.csv")
 start_year=1994
 end_year=1999
 pd.pivot_table(df_result[(df_result['year']>=start_year) & (df_result['year']<=end_year)],'date',index=['alt_'+alternative+'_class'], \
