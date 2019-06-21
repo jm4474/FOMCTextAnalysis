@@ -6,7 +6,7 @@ import csv
 
 #This script goes through every page of the FOMC website and extracts
 #metadata information on every relevant document on the website
-def main():
+def download_raw_doc_metadata():
     documents = []
     start_date, end_date = 1936,2013
     year_pages = get_year_pages(start_date,end_date)
@@ -134,4 +134,4 @@ def get_grouping(document_type,document_list):
     return grouping
 
 if __name__ == "__main__":
-    main()
+    download_raw_doc_metadata()

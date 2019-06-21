@@ -5,7 +5,7 @@ import os
 #This file reads in the derived data file in order to download all bluebook
 #pdfs
 
-def main():
+def download_bluebook():
     data_file_name = "../output/derived_data.csv"
     start_year = 1965
     end_year = 2013
@@ -36,4 +36,4 @@ def download_pdf(file):
             f.write(r.content)
 
 if __name__ == "__main__":
-    main()
+    download_bluebook()
