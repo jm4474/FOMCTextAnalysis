@@ -1,0 +1,2512 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+Prefatory Note 
+ 
+ 
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned 
+versions text-searchable.2   Though a stringent quality assurance process was 
+employed, some imperfections may remain. 
+ 
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+ 
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 6/05/2009. 
+ 
+
+
+
+(CONFIDENTIAL FR) February 11, 1972
+
+MONETARY AGGREGATES
+AND
+MONEY MARKET CONDITIONS
+
+Prepared for the Federal Open Market Committee
+
+By the Staff
+
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+
+
+
+MONETARY AGGREGATES AND
+MONEY MARKET CONDITIONS
+
+Recent developments
+
+(1) In January, the seasonally unadjusted level of total reserves
+
+at member banks averaged close to the upper end of the target range adopted
+
+by the Committee at the last meeting. The target range was a 20--25 per cent
+
+increase in total reserves seasonally adjusted. Since that meeting, new
+
+seasonal factors have become available for the total reserves series--the end
+
+process of the annual revision of deposits and related series--and the season-
+
+ally adjusted series has been revised accordingly going back to 1959. While
+
+the old, unrevised seasonally adjusted series shows an annual rate of growth
+
+in total reserves from December to January of about 28 per cent, the new
+
+series shows a growth rate for the same period of about 21 per cent. As
+
+measured by the new series, however, the average growth rate for December
+
+and January combined is about the same as in the old series. The appendix
+
+table on page 12 provides a comparison of the old and new series for the past
+
+year.
+
+(2) While reserves came out close to expectations in January, the
+
+mix of deposits was different from staff anticipations. Growth in the narrowly-
+
+defined money stock for January, at a 3-1/2 per cent annual rate, was short of
+
+expectations, as the table shows, but growth of bank time and savings deposits
+
+other than large CD's greatly exceeded our estimates. This latter increase
+
+seems to have reflected in part business and institutional interest in such
+
+accounts, given existing rate relationships. With time deposits very strong,
+
+expansion in both the broader money supply and the bank credit proxy was more
+
+rapid than projected at the time of the last meeting.
+
+February 11, 1972CONFIDENTIAL (FR)
+
+
+
+January over December Changes in
+Money and Credit Aggregates
+
+Range of Targets I
+and II Presented
+at Last Meeting Actual
+
+(Annual percentage rates of change)
+M1 6--8 3-1/2
+
+M2 9-1/2--11 14
+
+Credit Proxy 7--8-1/2 10
+
+Time and savings
+other than large CD's 13--14 24-1/2
+
+Total Reserves 26-1/2--27 1/ 28 l/
+
+1/ Based on old total reserve series.
+
+(3) Over the full inter-meeting period, the Federal funds rate
+
+declined by about a half percentage point, from nearly 3.75 per cent to
+
+about 3.25 per cent. With the narrowly-defined money supply growing less
+
+rapidly than expected and with a sizable Treasury financing in the market,
+
+the Desk did not move aggressively to hold growth of total reserves within
+
+the 20-25 per cent range. The easing of money market conditions was reflect-
+
+ed in net declines of most other short-term rates, including further cuts in
+
+the prime rate. Most recently, the 3-month Treasury bill has been trading
+
+around 3 per cent, down about 15 basis points over the period. But the
+
+market has continued to anticipate future short-term rate increases as the
+
+Treasury finances the large deficit. Such expectations, together with reports
+
+of sizable continuing forward calendars of new corporate and municipal bonds
+
+and to some extent the debt extension involved in the Treasury's recent
+
+refinancing, contributed to a general 25--35 basis points yield advance in
+
+bond markets.
+
+-2-
+
+
+
+(4) The following table compares seasonally adjusted annual
+
+rates of change in major financial aggregates in January and in selected
+
+earlier periods.
+
+Fourth
+Quarter Jan.
+
+1970 1971 (Dec. over over
+
+Sept.) Dec.
+
+Total Reserves 6.0 7.3 2.2 21.4
+
+Nonborrowed Reserves 9.2 8.0 6.9 23.4
+
+Concepts of Money
+
+M (Currency plus demand
+deposits 1/) 5.4 6.2 1.1 3.7
+
+M2 (M1 plus time deposits
+at commercial banks
+other than large CD's) 8.1 11.1 8.0 13,9
+
+M3 (M2 plus deposits at
+thrift institutions 7.8 13.2 9.5 15.0
+
+Bank Credit
+
+Total member bank deposits
+(Bank credit proxy adj.) 8.3 9.5 9.7 9.9
+
+Loans and investments of
+commercial banks 2/ 8.1 10.7 8.7 17.5
+
+Short-term market paper
+(actual $ change in billions)
+
+Large CD's $ 14.5 $ 7.9 $ 1.8 -0.2
+
+Nonbank commercial paper - 2.1 - 1.4 1.6 N.A.
+
+1/ Other than interbank and U.S. Government,
+2/ Based on month-end figures. Includes loans sold to affiliates and
+
+branches.
+
+N.A. - Not available.
+NOTE: All items are based on averages of daily figures, except for data
+
+on total loans and investments of commercial banks, commercial
+paper, and thrift institutions--which are either end-of-month or
+last Wednesday of month figures.
+
+
+
+-4-
+
+Prospective relationships among aggregates and interest rates
+
+(5) The table below summarizes three alternative patterns of
+
+prospective relationships among monetary aggregates and money market con-
+
+ditions that the staff believes to be consistent. The anticipated behavior
+
+of monetary aggregates is indexed in the summary table by data on M1,
+
+but the patterns for all of the key aggregates--M1, M2, the adjusted credit
+
+proxy, and total reserves--are shown in the table on the following page.
+
+The lower portions of the ranges shown for money market indicators under
+
+pattern II are representative of recently prevailing conditions.
+
+Pattern I Pattern II Pattern III
+
+Federal funds rate 2--3 3--4 4--5
+
+Member bank borrowings 25 25--200 200--350
+
+3-month Treas. bill rate 2-1/2--3-1/4 3--4.1/2 4-1/4--5-1/2
+
+Growth in M 1 (SAAR):
+
+February
+March
+
+1st Q '72
+2nd Q '72
+
+11-1/2
+8
+
+7-1/2
+10
+
+11
+7
+
+7
+8-1/2
+
+10-1/2
+5-1/2
+
+6-1/2
+7
+
+(6) For M 1 all three patterns involve a more rapid growth in
+
+February and March than in recent months, and growth in the second quarter
+
+larger than in the first quarter. There are three reasons for this expectation:
+
+(a) the lagged impact of recent short-term interest rate declines will be
+
+raising the demand for cash; (b) cash balances have been worked down to more
+
+normal levels relative to income following their sharp increase over the
+
+
+
+-5-
+
+Alternative Monthly and Quarterly Pattern
+for Key Monetary Aggregates
+
+M1 M2
+
+I II
+
+1971 Dec.
+
+1972 Jan.
+Feb.
+Mar.
+June
+
+III
+
+228.2 228.2 228.2
+
+228.9
+231.1
+232.6
+238.4
+
+228.9
+231.0
+232.3
+237.1
+
+228.9
+230.9
+232.0
+236.2
+
+I
+
+464.7
+
+470.1
+475.5
+479.3
+491.2
+
+II III
+
+464.7 464.7
+
+470.1
+475.4
+478.9
+489.5
+
+470.1
+475.3
+478.2
+486.7
+
+Per Cent Annual Rates of Growth
+
+11.0
+7.0
+
+7.0
+8.5
+
+10.5
+5.5
+
+6.5
+7.0
+
+14.0
+9.5
+
+12.5
+10.0
+
+Adjusted Credit Proxy Total Reserves
+
+I II
+
+1971 Dec.
+
+1972 Jan.
+Feb.
+Mar.
+June
+
+III
+
+361.9 361.9 361.9
+
+364.9
+366.1
+369.8
+379.4
+
+364.9
+366.0
+369.4
+368.4
+
+364.9
+365.9
+368.9
+376.2
+
+I
+
+31.2
+
+31.8
+31.7
+31.7
+32.8
+
+II III
+
+31.2
+
+31.8
+31.7
+31.7
+32.7
+
+31.2
+
+31.8
+31.7
+31.6
+32.5
+
+Per Cent Annual Rates of Growth
+
+3.5
+11.0
+
+8.5
+9.5
+
+3.5
+10.0
+
+7.5
+8.0
+
+-4.5
+3.0
+
+6.5
+13.5
+
+Feb.
+Mar.
+
+1st Q.
+2nd Q.
+
+11.5
+8.0
+
+7.5
+10.0
+
+13.5
+9.0
+
+12.0
+9.0
+
+13.5
+7.5
+
+11.5
+7.0
+
+Feb.
+Mar.
+
+1st Q.
+2nd Q.
+
+4.0
+12.0
+
+8.5
+10.5
+
+-5.0
+1.0
+
+5.5
+12.5
+
+-5.5
+-1.0
+
+5.0
+11.0
+
+
+
+-6-
+
+first seven months of last year so that the overhang of such liquidity will
+
+no longer be exerting a drag on net money demand; (c) transactions demands
+
+for cash are expected to be enlarged, with nominal GNP projected to expand
+
+at about a 10-1/2 per cent annual rate in the first half of this year as
+
+compared with a 6-1/2 per cent rate in the second half of last year.
+
+Finally, it might be noted that in the short run a sharp drop projected
+
+for U.S. Government deposits at commercial banks in February may temporarily
+
+boost M 1 growth in that month.
+
+(7) While demand for, and expansion in, M 1 is expected to increase
+
+substantially, growth in M 2 is likely to decelerate from the January rate,
+
+particularly after February. The extremely rapid rise of time deposits
+
+other than large CD's of the last two months is not expected to persist
+
+over the months ahead. The favorable spread between interest rates on
+
+time and savings accounts and short-term market rates is likely to
+
+narrow; the degree to which this occurs as a result of rising market or
+
+falling institutional rates will depend in part on whether open market
+
+policy tends toward patterns I, II, or III. With business loan demand
+
+expected to remain quite moderate, cuts in interest rates on passbook
+
+savings accounts and time certificates are likely to become more widespread.
+
+Such cuts would probably snowball if the Federal funds and Treasury bill
+
+rates were to move down into the range associated with pattern I, and be
+
+held back--and in some cases rescinded if they had already occurred--if
+
+market rates moved into the range of pattern III.
+
+(8) The adjusted credit proxy is expected to grow much more
+
+slowly in February than in January mainly because of a projected sharp
+
+
+
+-7-
+
+drop in U.S. Government deposits. But this will probably be only a temporary
+
+dip, and the rate of increase in bank credit should be sizable in ensuing
+
+months. Growth will not be as large as in the 3-month November-January
+
+period, when it was at a 12 per cent annual rate on average, because of
+
+the slowing that is expected in expansion of time and savings deposits.
+
+Nonetheless, bank credit is likely to be available in ample enough supply
+
+for banks to help support large contra-seasonal Treasury net cash borrow-
+
+ing between now and the end of April and a continued sizable flow of new
+
+municipal securities. At what level of interest rates such support will
+
+be forthcoming will depend in part on the strength of business credit
+
+demands and on changes in money market conditions, which represent the
+
+cost of day-to-day liquidity to banks.
+
+(9) Pattern I implies a substantial enough easing in money market
+
+conditions so that both short- and long-term market interest rates would
+
+be likely to decline from current levels in the short run between now and
+
+the next meeting of the Committee. The actual decline that develops in
+
+short-term rates might be limited by expectations of an early reversal,
+
+however, assuming economic news is favorable. The range of money market
+
+conditions indicated for pattern II encompasses a Federal funds rate high
+
+enough--the range is 3 to 4 per cent--to leave room for a turn-around in
+
+short rates. Even if the funds rate were to remain in the bottom half of
+
+the range, which would be about the prevailing rate, the bill rate could
+
+begin to rise in reflection of increased Treasury borrowing. And, of course,
+
+pattern III would lead to a sharp reversal in short-term rates.
+
+
+
+-8-
+
+(10) It is not clear how much short-term rates can increase
+
+without entailing a rise in longer-term rates. The 3-month bill rate at
+
+the moment appears low relative to other bill and short-term market rates,
+
+so that it might rise 20--25 basis points over the near-term with very
+
+little effect on either other short- or long-term rates. A substantially
+
+larger rise could well involve feedback effects on the whole rate structure.
+
+A sizable volume of corporate and municipal issues is currently pressing on
+
+the market, and there is some--though relatively small--volume of new
+
+Treasury coupon issues overhanging the market. Over the longer-run, the
+
+staff still anticipates a significant moderation in the volume of corporate
+
+bond offerings; if this develops, it would likely contribute over time, to
+
+limiting the upward effect on long rates of short-term rate increases.
+
+(11) The total reserves that are likely to be associated with the
+
+monetary aggregates and interest rates shown in patterns I, II, and III are
+
+summarized in the table on page 5. 1/ The figures indicate that in pattern
+
+II, for example, total reserves--following a sharp rise in January--are
+
+likely to decline somewhat in February, show little net change in March,
+
+and rise sharply in April. This pattern reflects, among other things.
+
+swings in U.S. Government deposits and net interbank deposits. Against
+
+private nonbank deposits alone, reserves in January expanded at about a
+
+15 per cent annual rate, and, under pattern II, in February and March are
+
+indicated to increase at 5-1/2 per cent and 10 per cent rates, respectively.
+
+1/ More detailed reserve figures (in millions of dollars, seasonally
+unadjusted, and also nonborrowed reserves) have been prepared on a
+consistent basis.
+
+
+
+Proposed directive
+
+(12) This section presents two alternative formulations for the
+
+second paragraph of the directive (labeled "A" and "B") which are intended
+
+to be--though they do not necessarily have to be--associated with differing
+
+degrees of emphasis in operating procedures between money market conditions
+
+and reserves. Each of the two formulations shows three alternative adjec-
+
+tives qualifying "growth in monetary aggregates over the months ahead."
+
+These adjectives can be taken, if the Committee so wishes, to represent
+
+alternative target rates of growth. To provide a possible quantitative
+
+interpretation of these adjectives, they are numbered I, II, and III to
+
+correspond with the three aggregate patterns described in the preceding
+
+section.
+
+(13) As will be noted in both A and B, it is proposed to delete
+
+the reference to the Treasury financing, and also to international develop-
+
+ments. The latter deletion is suggested on the assumption that the Committee
+
+will no longer consider it necessary to make explicit provision for the
+
+contingency that sudden large reflows from abroad will pose major problems
+
+for open market operations, given the passage of time since the Smithsonian
+
+agreement and the absence to date of market churning as a consequence of
+
+reflows.
+
+(14) Alternative A. This language is proposed for possible
+
+use if the Committee decides that the Desk should focus primarily on money
+
+market conditions as the day-to-day control variable, giving only as much
+
+weight to bank reserves as was customary in most of 1971. This formulation
+
+could also be used, with appropriate interpretation, to call for about the
+
+
+
+-10-
+
+same relative emphasis on aggregate reserves and money market conditions as
+
+was decided upon at the January FOMC meeting.
+
+"To implement this policy, [DEL: while taking account of international
+
+developments and the forthcoming Treasury financing,] the Committee
+
+seeks to ACHIEVE [DEL: promote the degree of ease in] bank reserve and
+(I - greater )
+
+money market conditions [DEL: essential to] THAT WILL SUPPORT(II - AMPLE )
+(III- MODERATE)
+
+growth in monetary aggregates over the months ahead."
+
+The money market conditions the staff expects to be consistent with each
+
+of the three alternative targets for operations are noted in paragraph (5)
+
+above.
+
+(15) Alternative B. This language is proposed for possible
+
+use if the Committee decides that the Desk should place primary emphasis on
+
+bank reserves as the control variable, subject to a proviso constraining
+
+the range of fluctuations in money market conditions. Under this alternative
+
+money market conditions would, of course, be expected to fluctuate more
+
+widely than under A, with the extent of fluctuation depending on the speci-
+
+fic interpretation the Committee attached to the proviso clause.
+
+"To implement this policy, [DEL: while taking account of inter-
+
+national developments and the forthcoming Treasury financing,]
+
+SYSTEM OPEN MARKET OPERATIONS UNTIL THE NEXT MEETING OF the
+
+Committee [DEL: seeks to promote the degree of ease in] SHALL BE CON-
+
+DUCTED WITH A VIEW TO SUPPLYING bank reserves [DEL: and money market
+(I - greater )
+
+conditions essential to] AT A RATE CONSISTENT WITH (II - AMPLE )
+(III- MODERATE)
+
+growth in monetary aggregates over the months ahead, PROVIDED THAT
+
+MONEY MARKET CONDITIONS DO NOT FLUCTUATE OVER AN UNDULY WIDE RANGE."
+
+
+
+-11-
+
+(16) If the Committee were to adopt alternative B it could base
+
+reserve operating targets on the levels and growth rates for reserves shown
+
+earlier to be consistent with either patterns I, II, or III. The Committee
+
+may also wish to allow, in operations, for the effects on reserve levels of
+
+unanticipated changes in U.S. Government deposits, net interbank deposits,
+
+and perhaps large CD's. The effect of anticipated changes in such deposits
+
+was discussed in paragraph (11).
+
+(17) For the proviso clause in alternative B, the Committee may
+
+wish to consider a range of fluctuation for the Federal funds rate as large
+
+as 2 percentage points, as recommended by the report of the Committee on the
+
+Directive. If the Committee were to adopt as targets the aggregates of
+
+pattern II, for example, this would mean widening the funds rate range from
+
+3--4 per cent to 2-1/2--4-1/2 per cent. The range could, of course, be made
+
+more restrictive on either the up or down side, or both, depending on the
+
+extent to which the Committee may wish to emphasize interest rates relative
+
+to aggregate objectives.
+
+
+
+-12-
+
+Comparison of Annual Rates of Growth--
+Reserve Aggregates
+
+Total Reserves Nonborrowed Reserves
+
+Old Series Revised Series Old Series Revised Series
+
+Quarterly -- I
+II
+
+IV
+
+Monthly--January
+February
+March
+
+April
+May
+June
+
+July
+August
+September
+
+October
+November
+December
+
+1972
+28.3 21.4
+
+1971
+
+11.0
+6.6
+
+10.4
+-1. 1
+
+12.2
+11.4
+9.2
+
+2.7
+17.0
+
+0.2
+
+0.3
+14.7
+15.8
+
+-15.9
+7.7
+5.1
+
+8.9
+10.0
+
+7.1
+2.2
+
+10.6
+8.6
+7.3
+
+8.5
+13.5
+
+7.9
+
+4.4
+4.1
+
+12.8
+
+-7.4
+3.4
+
+10.7
+
+11.0
+5.3
+
+10.8
+2.8
+
+8.8
+15.1
+8.8
+
+8.7
+12.4
+-6.2
+
+-13.1
+16.1
+29.6
+
+-13.0
+5.6
+
+16.0
+
+9.5
+9.0
+6.0
+6.9
+
+8.1
+11.7
+8.4
+
+16.9
+9.9
+0.0
+
+-7.6
+2.8
+
+22.8
+
+-2.8
+2.0
+
+21.4
+
+28.9 23.4January p
+
+
+
+CHART 1
+
+MONETARY AGGREGATES
+STRICTLY CONFIDENTIAL (FR)
+
+2/11/72
+
+NARROW MONEY SUPPLY M1
+
+II- II I1111
+
+BILLIONS OF DOLLARS
+
+-240
+
+(2/9/72) --
+
+220
+
+210
+r"
+
+-1226
+
+I I 1 1
+
+BROADER MONEY SUPPLY M2
+-480
+
+-1460
+
+1971 1972
+
+-1450
+
+1 1 I J IJ J
+A S 0 N 0 J
+
+'71 '72
+
+230
+
+
+
+CREDIT PR
+
+TOTAL RESERVES
+FtUNREVISED SERIES
+
+CHART A STRICTLY CONFIDENTIAL IFR)CHART 1A 2/11/722/11/72
+
+MONETARY AGGREGATES
+
+OXY BILLIONS OF DOLLARS
+(2/9/
+
+-370 A f366
+
+360 - 362
+
+350 - 358
+
+-340 - 354
+
+330 -350
+
+320 346
+
+I l I J. 1 I
+
+34 UNREVISED SERIES
+
+(2/9/
+
+-33 /
+25% growth
+from Dec to Jan
+
+-32
+
+\ 32
+31 20% growth
+
+-30
+
+29 31
+
+72)
+
+72)
+
+A S 0 N D J
+'71 '72
+
+1970 1971 1972
+
+
+
+CHART 2
+
+MONEY MARKET CONDITIONS AND INTEREST RATES
+
+INTEREST RATE Short-term INTEREST RATES Long-term
+
+1970 19711970 1971 1970 1971
+
+
+
+Table 1
+BANK RESERVES
+
+STRICTLY CONFIDENTIAL (FR)
+
+February 11, 1972
+
+Seasonally Adjusted Not Seasonally Adjusted
+Periodorrowed Nonborroed
+
+Total Required Nonborrowed Total Required Nonborrowed Excess Borrowing
+
+1971--Oct.
+Nov.
+Dec.
+
+1972--Jan.
+
+Feb. Projected
+
+1971--3rd Qtr.
+4th Qtr.
+
+1971--0ct.
+Nov.
+Dec.
+
+1972--Jan.
+Feb.
+
+1971--Dec. 1
+8
+15
+22
+29
+
+Jan. 5
+12
+19
+26
+
+Feb. 2
+9
+
+16
+
+(1) (2)
+(REVISED SERIES)
+
+30,882 30,692
+30,970 30,751
+31,246 31,102
+31,800 31,573
+
+(31,674) (31,472)
+
+,nnual Percentage Rates
+
+7.1 7.1
+2.2 2.4
+
+-7.4 -8.5
+3.4 2.3
+
+10.7 13.7
+
+21.4 18.2
+(-5 0) /-4 ON
+
+Weekly Pattern in
+
+31,355
+31,002
+31,177
+31,116
+31,525
+
+31,772
+31,651
+32,026
+
+31,747
+
+31,796
+31,539
+
+30,833
+30,842
+30,991
+31,089
+31,362
+
+31,609
+31,608
+31,629
+31,501
+
+31,509
+31,443
+31,460
+
+(3) (4) (5) (6) (7) (8)
+
+30,860
+30,953
+31,329
+32,866
+
+(32,306)
+
+1/
+
+30,485
+30,535
+31,077
+31,683
+
+30,500
+30,546
+31,222
+32,846
+
+ly
+
+30,653
+30,690
+31,164
+32,698
+
+(32,070)
+
+and Month
+
+30,685
+30,600
+30,949
+31,180
+31,610
+
+32,502
+32,688
+33,423
+32,404
+
+32,186
+31,872
+31,961
+
+30,570
+30,684
+31,128
+31,010
+31,708
+
+32,757
+32,776
+33,721
+32,630
+
+32,432
+31,909
+
+of Change--Quarterly
+
+6.0
+6.9
+
+-2.8
+2.0
+
+21.4
+
+23.4
+
+Millions of
+
+30,629
+30,860
+31,093
+30,876
+31,372
+
+31,711
+31,566
+31,857
+31,639
+
+31,648
+31,421
+
+Dollars
+
+31,275
+30, 743
+31,153
+31,151
+
+31,924
+
+32,814
+32,793
+
+33,734
+32,643
+
+32,450
+
+31,952
+
+LJ -~ _________________ 1 4 1.
+
+NOTES: Annual rates of change other than those for the past are rounded to
+Data shown in parentheses are current projections.
+
+the nearest half percent.
+
+I/ Aggregate reserve series have been revised to reflect new seasonal factors and current reserve
+
+requirement percentages.
+
+'
+
+
+
+Table 2
+MONETARY AGGREGATES
+
+(Actuals and current projections, seasonally adjusted)
+
+STRICTLY CONFIDENTIAL (FR)
+
+February 11, 1972
+
+Narrow Broad Adjusted U.S. Total Time deposits Nondeposit
+Period Money Money Credit Gov't. Time and other Negotiable Sources of
+
+Supply (M) Supply (Mg) Proxy Depposits Savings than CD's CD's Funds
+(1) (2) (3) (4) (5) (6) (7) (8)
+
+in Billions of Dollars
+
+458.3 354.7
+460.8 358.0
+464.7 361.9
+
+470.1 364.9
+(475.4) (366.0)
+
+4.7
+5.4
+6.2
+
+6.2
+(3.5)
+
+Annual Percentage Rates of Change--Quarterly and
+
+1971--3rd Qtr.
+4th Qtr.
+
+1972--1st Qtr.
+
+1971--Oct.
+Nov.
+Dec.
+
+1972--Jan.
+Feb.
+
+1971--Dec. 1
+8
+15
+22
+29
+
+1972--Jan. 5
+12
+
+19
+26
+
+Feb. 2
+
+9pe
+
+NOTES: pe -
+
+3.7
+1.1
+
+(7.0)
+
+0.5
+
+2.6
+
+3.7
+
+(11.0)
+
+Weekly Patteri
+
+227.6
+
+228.6
+227.6
+227.8
+228.5
+
+228.2
+228.5
+229.0
+
+229.2
+
+229.8
+
+230.6
+
+Partially estimated
+
+4.4
+8.0
+
+(12.0)
+
+7.1
+6.5
+
+10.2
+
+13.9
+(13.5)
+
+n in Billions
+
+462.1
+463.3
+463.6
+464.2
+466.6
+
+468.2
+469.2
+469.8
+
+470.6
+
+472.2
+
+473.9
+
+7.6
+9.7
+
+(8.5)
+
+4.8
+11.2
+13.1
+
+9.9
+(3.5)
+
+of Dollars
+
+359.6
+360.4
+360.6
+362.3
+363.4
+
+363.8
+364.5
+365.7
+366.1
+
+365.1
+366.6
+
+Data shdwn if parentheses are current projections.
+Annual rates of change other than those for the past are
+
+1971--Oct.
+Nov.
+Dec.
+
+1972--Jan.
+Feb.
+
+Monthly Pattern
+
+227.7
+227.7
+228.2
+
+228.9
+(231.0)
+
+32.7
+32.2
+33.4
+
+33.2
+(33.5)
+
+263.3
+265.3
+269.9
+
+274.4
+(277.9)
+
+Monthly
+
+8.2
+15.9
+
+(15.5)
+
+17.1
+9.1
+
+20.8
+
+20.0
+(15.5)
+
+267.1
+267.9
+269.1
+270.1
+272.1
+
+273.2
+274.0
+
+274.1
+274.6
+
+275.8
+276.6
+
+... ~- _1i. -l ~ 33.4 I
+
+rounded to the nearest half per cent.
+
+230.6
+233.1
+23t.4
+
+241.2
+(244.4)
+
+5.3
+14.7
+
+(17.5)
+
+13.7
+13.0
+17.0
+
+24.4
+(16.0)
+
+234.5
+234.7
+236.0
+236.4
+238.1
+
+240.0
+240. 7
+240.9
+241.4
+
+242.4
+
+243.2
+
+32.6
+33.2
+33.0
+33.6
+34.0
+
+33.2
+33.2
+33.2
+33.3
+
+33.4
+
+33.4
+
+4.8
+4.4
+4.0
+
+4.0
+(4.0)
+
+5.4
+4.7
+3.8
+3.9
+3.8
+
+3.4
+3.9
+
+4.3
+
+4.1
+
+3.8
+
+4.0
+-4. - -
+
+s
+--- ---
+
+
+
+Table 3
+
+AGGREGATE RESERVES AND MONETARY VARIABLES
+CONFIDENTIAL(FR)
+
+February 11, 1972
+
+RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
+(Annual rates in percent)
+
+Reserve Aggregates Monetary Variables Addenda
+
+Total Nonborrowe Member Adusted Time Thrift Nonbank1 2 3 Total 4 Money Supply 8im 9 Thrift 10 Nonban
+Period Total Nonborrowed Member Adlusted 5 6 7 Private Deposits Instit Commercial
+
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adlusted Deposits Paper
+(REVISED SERIES) Deposits Deposits
+
+Annually
+
+1968
+1969
+1970
+1971
+
+Se5i-annually
+1st Half 1970
+2nd Half 1970
+
+1st Half 1971
+2nd Half 1971
+
+Quarterly
+Ist Qtr. 1971
+2nd Qtr. 1971
+
+3rd Qtr. 1971
+4th Qtr. 1971
+
+1971--Jan.
+Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+Jan. p
+
++ 7.8
+- 1.3
+
++ 6.0
++ 7.3
+
++ 0.4
+.+11.6
++ 9.6
++ 4.7
+
++ 8.9
++10.0
++ 7.1
++ 2.2
+
++10.6
++ 8.6
++ 7.3
+
++ 8.5
++13.5
++ 7.9
+
++ 4.4
++ 4.1
++17.8
+
+- 7.4
++ 3.4
++10.7
+
++21.4
+
++ 5.8
+- 2.7
+
++ 9.2
++ 8.0
+
++ 3.0
++15.3
++ 9.3
++ 6.5
+
++ 9.5
++ 9.0
++ 6.0
++ 6.9
+
++ 8.1
++11.7
++ 8.4
+
++16.9
++ 9.9
+
+0.0
+
+- 7.6
++ 2.8
++22.8
+
+- 2.8
++ 2.0
++21.4
+
++23.4
+
++ 8.9
+- 4.0
++11.8
++12.2
+
++ 4.7
++18.4
+
++14.6
++ 9.1
+
++16.9
++11.8
+
++ 8.1
++10.0
+
++16.2
++17.8
++16.1
+
++15.9
++12.5
++ 6.7
+
++11.2
++ 5.6
++ 7.3
+
++ 2.1
++ 9.9
++17. 7
+
++10.4
+
++ 9.7
++ 0.4
++ 8.3
++ 9.5
+
++ 4.8
++11.4
+
++ 9.7
++ 8.8
+
++10.9
++ 8.4
+
++ 7.6
++ 9.7
+
++10.2
++11.9
++10.3
+
++ 8.5
++ 8.8
++ 7.7
+
++10.7
++ 4.1
++ 7.9
+
++ 4.8
++11.2
++13.1
+
++ 9.9
+
++ 7.8
++ 3.2
++ 5.4
++ 6.2
+
++ 5.6
++ 5.2
+
++10.0
++ 2.4
+
++ 9.1
++10.6
+
++ 3.7
++ 1.1
+
++ 2.8
++13.4
++11.0
+
++ 8.2
++14.1
++ 9.1
+
++10.1
++ 3.2
+- 2.1
+
++ 0.5
+
++2.6
+
++ 3.7
+
++ 7.4
++ 6.0
++ 6.5
++ 7.1
+
++ 7.4
++ 5.5
+
++ 8.6
++ 5.5
+
++ 8.2
++ 8.8
+
++ 6.3
++ 4.6
+
++ 7.3
++ 9.7
++ 7,2
+
++12.0
++ 7.1
++ 7.1
+
++11.7
++ 2.3
++ 4.6
+
++ 6.9
+
++ 6.9
+
++ 4.6
+
++ 7.9
++ 2.4
++ 5.1
++ 6.0
+
++ 5.1
++ 5.1
+
++10.5
++ 1.4
+
++ 9.4
++11.3
+
++ 2.8
+
++ 1.4
++14.5
++12.1
+
++ 7.1
++16.2
++10.4
+
++ 8.9
++ 3.4
+- 4.1
+
+- 1.4
+
++ 1.4
+
++ 3.4
+
++11.3
+- 4.9
++17.9
++17.9
+
++ 8.4
++26.3
+
++22.3
+
++12.2
+
++28.8
++14.7
+
++ 8.2
++15.9
+
++28.8
++29.7
++26.0
+
++13.2
++15.5
++14.8
+
++ 9.4
++ 4.2
++10.7
+
++17.1
++ 9.1
++20.8
+
++20.0
+
++ 6.3
++ 3.4
++ 7.8
++17.2
+
++ 4.7
++10.6
+
++20.9
+
++12.4
+
++23.3
++17.4
+
++12.8
+
++11.5
+
++25.1
++18.5
++24.9
+
++21.8
++14.2
++15.4
+
++15.9
++ 8.5
++13.8
+
++11.8
++10.9
++11.7
+
+n.a.
+
+n.a.
+n.a.
++ 7.3
+
+- 4.4
+
++12.8
++ 1.7
+
+-18.2
+
++10.4
+
+-24.7
+-12.5
+
+- 1.0
+
++21.9
+
+- 9.0
+-10.9
+-55.2
+
++ 4.4
+-15.8
+-26.3
+
+-32.1
+- 1.7
++31.6
+
++30.1
+-38.6
+
++75.8
+
+n.a.
+
+FR 712 - EAggregate reserve series have been revised to reflect new seasonal factors and current percentage reserve requirements against deposits.NOTE: Reserve requirements on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial
+paper are included beginning October 1, 1970. p - Preliminary
+
+- -- -- -- I -- I
+
+
+
+Table 4
+
+AGGREGATE RESERVES AND MONETARY VARIABLES
+SEASONALLY ADJUSTED
+
+CONFIDENTIAL (FR)
+February 11, 1972
+
+1970: July
+Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+1971: Jan.
+Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+1972: Jan.
+
+Week ending:
+1971: Dec. 1
+
+8
+15
+22
+29
+
+1972: Jan. 5
+12
+19
+26 p
+
+Feb. 2 p
+
+28,315
+28,695
+29,059
+
+28,700
+28,704
+29,132
+
+29,390
+29,600
+29,779
+
+29,991
+30,327
+30,527
+
+30,639
+30,743
+31,073
+
+30,882
+30,970
+31,246
+
+31,800
+
+31,355
+31,002
+31,177
+31,116
+31,525
+
+31,772
+31,651
+32,026
+31,747
+31,796
+
+27,060
+27,907
+28,438
+
+28,190
+28,239
+2Q,764
+
+28,958
+29,240
+29,445
+
+29,859
+30,106
+30,106
+
+29,915
+29,985
+30,556
+
+30,485
+30,535
+31,079
+
+31,683
+
+30,629
+30,860
+31,093
+30,876
+31,372
+
+31,711
+31,566
+31,857
+31,639
+31,648
+
+30,833
+30,842
+30,991
+31,089
+31,362
+
+31,609
+31,608
+31,629
+31,501
+31,509
+
+298.4
+203.7
+307.8
+
+310.6
+313.8
+319.0
+
+323.3
+328.1
+332.5
+
+336.9
+340.4
+342.3
+
+345.5
+347.1
+349.2
+
+349.8
+352.7
+357. 9
+
+361.0
+
+354.2
+355.7
+356.8
+358.4
+359.6
+
+360.3
+360.5
+361 4
+361.9
+361.3
+
+210.3
+211.6
+212.8
+
+213.1
+213.6
+214.8
+
+215.3
+217.7
+219.7
+
+221.2
+223.8
+225.5
+
+227.4
+228.0
+227.6
+
+227.7
+227.7
+228.2
+
+228.9
+
+227.6
+228.6
+227.6
+227.8
+228.5
+
+228.2
+228.5
+229.0
+229.2
+229 8
+
+48.0
+48.1
+48.3
+
+48.5
+48.7
+49.0
+
+49.3
+49.7
+50.0
+
+50.5
+50.8
+51.1
+
+51.6
+51.7
+51.9
+
+52.2
+52.2
+52 5
+
+52.7
+
+(In billions of dollars)
+
+162.4
+163.5
+164.5
+
+164.6
+164.9
+165.8
+
+166.0
+168.0
+169.7
+
+170.7
+173.0
+174.5
+
+175.8
+176.3
+175.7
+
+175.5
+175.5
+175.7
+
+176.2
+
+175.5
+176.1
+175.1
+175.2
+175.9
+
+175.6
+175.8
+176.1
+176.5
+176 9
+
+208.4
+213.2
+217.7
+
+221.5
+224.2
+228.9
+
+234.4
+240.2
+245.4
+
+248.1
+251.3
+254.4
+
+256.4
+257.3
+259.6
+
+263.3
+265.3
+269.9
+
+274 4
+
+267.1
+267.9
+269.1
+270.1
+272.1
+
+273.2
+274.0
+274.1
+274.6
+275 8
+
+17.0
+19.3
+21.3
+
+22.6
+23.6
+25.5
+
+26.6
+27.5
+28.1
+
+27.8
+28.5
+29.4
+
+30.4
+30.8
+31.6
+
+32.7
+32.2
+33.4
+
+33.2
+
+191.4
+193.9
+196.4
+
+198.9
+200.6
+203.4
+
+207.8
+212.7
+217.4
+
+220.3
+222.8
+225.0
+
+225.9
+226.5
+228.0
+
+230.6
+233.1
+236.4
+
+241 2
+
+234.5
+234.7
+236.0
+236.4
+238.1
+
+240.0
+240.7
+240.9
+241.41A A.1/
+
+I ___76 I I I I I ' -- '1
+
+318.2
+322.5
+324.3
+
+324.8
+326.5
+330.6
+
+333.4
+336,7
+339.6
+
+342.0
+344.5
+346.7
+
+349.8
+351.0
+353.3
+
+354.7
+358.0
+361.9
+
+364 9
+
+359.6
+360.4
+360.6
+362.3
+363.4
+
+363.8
+364.5
+365.7
+366.1
+
+Aggregate reserve series have been revised to reflect new seasonal factors and current percentage reserve requirements against deposits.NOTES: Reserve requirements on Euro-dollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are
+included beginning October 1, 1970. Adjusted credit proxy includes mainly total member bank deposits subject to reserve requirements, bank-
+related commercial paper, and Euro-dollar borrowings of U. S. banks. Weekly data are daily averages for statement weeks. Monthly data are
+daily averages except for nonbank commercial paper figures which are for last day of month.
+
+p- Preliminary.
+
+28.7
+28.5
+29.7
+
+30.5
+29.7
+31.2
+
+31.0
+30.7
+29.3
+
+29.4
+29.0
+
+28.3
+
+27.6
+27.6
+
+28.3
+
+29.0
+28.1
+29 8
+
+NA
+
+29.4
+29.3
+28.7
+29.2
+28.3
+
+29.1
+29.2
+29.4
+29.2
+29 3
+
+FR 712 - F
+
+
+
+

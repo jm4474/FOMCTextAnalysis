@@ -1,0 +1,106 @@
+
+
+
+                                                 Greenbook Forecast March 1978
+
+
+                                                                    1977    1977    1978    1978    1978    1978    1979    1979
+                                                                      Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2
+                                                                  ------  ------  ------  ------  ------  ------  ------  ------
+
+  Nominal GNP [gnp]                                               1915.9  1963.7  2016.1  2072.4  2125.5  2185.5  2246.9  2305.2
+  Final sales [sf]                                                1892.2  1953.0  1998.9  2051.7  2102.5  2160.5  2218.6  2275.8
+    Private [sfp]                                                 1491.3  1539.6  1577.3  1620.0  1660.6  1705.7  1753.1  1799.7
+      Domestic final purchases [sfpexm]                           1498.8  1554.7  1587.2  1630.7  1671.9  1716.9  1763.4  1808.7
+  Personal consumption expenditures [c]                           1218.9  1260.2  1282.7  1315.9  1349.5  1387.6  1426.3  1462.9
+    Goods [cg]                                                     659.4   686.3   690.8   710.0   728.6   750.0   769.7   788.7
+    Services [cs]                                                  559.5   573.9   591.9   605.9   620.9   637.6   656.6   674.2
+  Gross private domestic investment [ii]                           303.6   305.2   321.7   335.5   345.4   354.3   365.4   375.2
+    Residential structures [icr]                                    92.5    99.6   103.6   106.6   107.6   108.1   109.1   110.6
+    Business fixed investment [ifixer]                             187.5   194.9   200.9   208.2   214.8   221.2   228.0   235.2
+    Change in business inventories [cinv]                           23.6    10.7    17.2    20.7    23.0    25.0    28.3    29.4
+      Nonfarm [cinvef]                                              23.1     6.2    15.2    19.7    23.0    25.0    28.3    29.4
+  Net exports [exm]                                                 -7.5   -15.1    -9.9   -10.7   -11.3   -11.2   -10.3    -9.0
+    Export [ex]                                                    179.9   173.6   185.4   194.0   201.9   209.3   217.7   224.5
+    Imports [m]                                                    187.4   188.7   195.3   204.7   213.2   220.5   228.0   233.5
+  Government consumption and investment [gg]                       400.9   413.4   421.6   431.7   441.9   454.8   465.5   476.1
+    Federal [gf]                                                   148.1   153.8   155.9   158.3   161.3   166.9   170.5   174.1
+    State and local [gsl]                                          252.9   259.6   265.7   273.4   280.6   287.9   295.0   302.0
+  Real GNP [gnp72]                                                1347.4  1360.7  1372.0  1388.9  1404.2  1420.7  1437.8  1453.4
+  Nominal personal income [yp]                                    1549.8  1602.8  1639.8  1681.2  1729.3  1777.0  1821.1  1864.5
+    Wage and salary disbursements [wsd]                            998.9  1028.5  1053.4  1079.2  1105.2  1135.6  1166.9  1193.4
+  Disposable personal income [yd]                                 1323.8  1368.2  1401.5  1434.6  1472.9  1527.1  1567.2  1602.2
+    Saving rate [svpyd]                                              5.5     5.5     6.0     5.8     5.9     6.7     6.6     6.3
+  Corporate profits, IVA & CCAdj. [zbivca]                         149.0   143.6   147.2   154.0   154.8   163.6   162.4   166.6
+    Corporate profits before tax [zb]                              172.8   177.1   183.2   190.5   191.9   201.4   200.7   205.4
+  Federal surplus/deficit [defgf]                                  -58.9   -61.5   -56.3   -49.6   -46.4   -62.8   -55.9   -49.1
+    High employment surplus/deficit [hesurdef]                     -20.4   -21.7   -17.5   -12.2    -7.9   -28.1   -20.5   -13.8
+  State and local surplus/deficit [defgsl]                          32.9    31.6    29.8    28.2    26.1    26.2    24.9    22.9
+    Exc. social insurance funds [defsig]                            17.4    15.9    12.3    10.2     7.6     7.2     5.4     2.9
+  Civilian labor force [lc]                                         97.6    98.6    99.1    99.7   100.3   100.9   101.5   102.0
+  Unemployment rate [ru]                                             6.9     6.6     6.2     6.0     6.0     5.9     5.8     5.7
+  Nonfarm payroll employment [payrlem]                              82.5    83.2    84.0    84.6    85.2    85.8    86.5    87.1
+    Manufacturing [payrlemmfg]                                      19.6    19.8    20.1    20.3    20.5    20.7    21.0    21.2
+  Industrial production index [jrfb]                               138.4   139.3   139.4   142.6   145.4   148.0   150.7   153.0
+    Capacity utilization rate -- mfg [ucapmfg]                      83.0    82.9    82.1    83.3    84.2    84.9    85.6    86.1
+      Materials (percent) [jfrbmat]                                 82.3    82.2    81.1    82.6    83.6    84.6    85.5    86.2
+  Housing starts, private [hs]                                       2.0     2.1     1.9     2.1     1.9     1.8     1.8     1.8
+  New auto sales [slau]                                             10.9    10.8    10.5    10.9    10.9    11.1    11.1    11.0
+      Domestic [slauna]                                              8.9     8.8     8.4     8.8     8.9     9.1     9.2     9.1
+      Foreign [slaufr]                                               2.0     2.0     2.1     2.1     2.0     2.0     2.0     1.9
+
+  Nominal GNP [cgnp]                                                46.0    47.8    52.4    56.3    53.1    60.0    61.4    58.3
+    Inventory change [ccinv]                                         1.9   -12.9     6.5     3.5     2.3     2.0     3.3     1.1
+    Final sales [csf]                                               44.0    60.8    45.9    52.8    50.8    58.0    58.1    57.2
+    Private [csfp]                                                  33.7    48.3    37.7    42.7    40.6    45.1    47.4    46.6
+      Net exports [cexm]                                             2.2    -7.6     5.2    -0.8    -0.6     0.1     0.9     1.3
+      Domestic final purchases [csfpexn]                            31.5    55.9    32.5    43.5    41.2    45.0    46.5    45.3
+        Personal consumption expenditures [cc]                      24.9    41.3    22.5    33.2    33.6    38.1    38.7    36.6
+          Goods [ccg]                                                6.4    26.9     4.5    19.2    18.6    21.4    19.7    19.0
+          Services [ccs]                                            18.4    14.4    18.0    14.0    15.0    16.7    19.0    17.6
+    Residential structures [cicr]                                    1.7     7.1     4.0     3.0     1.0     0.5     1.0     1.5
+    Business fixed investment [cifixer]                              5.1     7.4     6.0     7.3     6.6     6.4     6.8     7.2
+  Government consumption and investment [cgg]                       10.3    12.5     8.2    10.1    10.2    12.9    10.7    10.6
+    Federal [gf72]                                                   4.5     5.7     2.1     2.4     3.0     5.6     3.6     3.6
+    State and local [cgsl72]                                         5.9     6.7     6.1     7.7     7.2     7.3     7.1     7.0
+  Real GNP [cgnp72]                                                 16.7    13.3    11.3    16.9    15.3    16.5    17.1    15.6
+  Final sales [csf72]                                               14.3    22.0     7.2    14.7    13.7    15.4    15.2    14.9
+    Private [csfp72]                                                10.3    19.3     5.8    12.0    11.1    13.5    12.7    12.3
+  Nominal GNP (% change) [q_gnp]                                    10.2    10.4    11.1    11.6    10.6    11.8    11.7    10.8
+  Final sales (% change) [q_sf]                                      9.9    13.5     9.7    11.0    10.3    11.5    11.2    10.7
+    Private (% change) [q_sfp]                                       9.6    13.6    10.2    11.3    10.4    11.3    11.6    11.1
+  Personal consumption expenditures (% change) [q_c]                 8.6    14.3     7.3    10.8    10.6    11.8    11.6    10.7
+    Goods (% change) [q_CG]                                          4.0    17.3     2.6    11.6    10.9    12.3    10.9    10.2
+    Services (% change) [q_cs]                                      14.3    10.7    13.1     9.8    10.3    11.2    12.5    11.2
+  Gross private domestic investment (% change) [q_ii]               12.4     2.1    23.4    18.3    12.3    10.7    13.1    11.2
+    Residential structures (% change) [q_icr]                        7.7    34.6    17.1    12.1     3.8     1.9     3.8     5.6
+    Business fixed investment (% change) [q_ifix]                   11.6    16.6    12.9    15.3    13.3    12.5    12.9    13.2
+  Government consumption and investment (% change) [q_gg]           11.0    13.1     8.2     9.9     9.8    12.2     9.7     9.4
+    Federal (% change) [q_gf]                                       12.9    16.4     5.6     6.3     7.8    14.6     8.9     8.7
+    State and local (% change) [q_gsl]                               9.9    11.2     9.7    12.1    11.0    10.8    10.2     9.8
+  Real GNP (% change) [q_gnp72]                                      5.1     4.0     3.4     5.0     4.5     4.8     4.9     4.4
+    Final sales (% change) [q_sf72]                                  4.4     6.8     2.1     4.4     4.0     4.5     4.4     4.3
+      Private (% change) [q_sfp72]                                   4.0     7.5     2.2     4.5     4.1     5.0     4.6     4.4
+  GNP implicit deflator (% change) [q_pgdp]                          4.8     6.1     7.5     6.3     5.9     6.7     6.5     6.1
+  Gross business product f-w price index (% change) [q_pxbus_fw]     5.0     5.5     7.3     6.7     6.2     6.2     6.7     6.4
+  Nominal personal income (% change) [q_yp]                          8.9    14.4     9.6    10.5    11.9    11.5    10.3     9.9
+    Wage and salary disbursements (% change) [q_wsd]                 7.5    12.4    10.0    10.2    10.0    11.5    11.5     9.4
+  Disposable personal income (% change) [q_yd]                      10.0    14.1    10.1     9.8    11.1    15.6    10.9     9.2
+  Corporate profits before tax (% change) [q_zb]                    -2.7    10.3    14.6    16.8     2.9    21.4    -1.4     9.7
+  Nonfarm payroll employment (% change) [q_payrlem]                  3.3     3.2     4.1     2.7     2.6     3.0     3.3     2.8
+    Manufacturing (% change) [q_payrlemmfg]                          1.3     2.7     6.6     4.0     4.4     4.5     4.4     4.1
+  Nonfarm business sector
+    Output per hour (% change) [q_opm]                               3.8     0.5     2.9     2.0     2.3     2.3     2.4     2.1
+    Compensation per hour (% change) [q_comphr]                      7.5     7.3    11.4     7.7     7.9     7.9    11.3     8.0
+    Unit labor costs (% change) [q_ulcnf]                            3.5     6.8     8.5     5.7     5.6     5.6     8.9     5.9
+  Industrial production (% change) [q_jrfb]                          4.2     2.6     0.3     9.5     8.0     7.6     7.4     6.2
+  Housing starts, private (% change) [q_hs]                         23.1    21.6   -44.5    50.8   -33.7   -19.9    11.9     0.0
+  New auto sales (% change) [q_slau]                               -24.1    -6.2    -9.0    14.0     1.9     5.6     1.8    -5.3
+      Domestic (% change) [q_slauna]                               -18.4    -4.8   -16.0    17.7     7.0     9.3     2.2    -2.2
+      Foreign (% change) [q_slaufr]                                -43.9   -12.3    27.3     0.0   -17.7    -9.6     0.0   -19.0
+
+
+
+                             Append the string '_1978_03_15' to [mnemonic] to create variable names
+
+

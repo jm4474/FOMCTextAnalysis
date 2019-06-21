@@ -1,0 +1,6147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+ 
+Prefatory Note 
+
+ 
+ 
+
+The attached document represents the most complete and accurate version 
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+ 
+
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+ 
+
+                                                 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+
+
+September 15, 1978
+
+Strictly Confidential (FR) Class I FOMC
+
+MONETARY AGGREGATES AND
+MONEY MARKET CONDITIONS
+
+Prepared for the Federal Open Market Committee
+
+By the staff Board of Governors of the Federal Reserve System
+
+
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS I - FOMC September 15, 1978
+
+MONETARY AGGREGATES AND
+MONEY MARKET CONDITIONS
+
+Recent developments
+
+(1) Growth in M-1 picked up to about a 7¾ per cent annual
+
+rate in August and appears to be accelerating further in September.
+
+For August and September, M-1 is projected to expand at about a 9 per
+
+cent annual rate, one percentage point above the upper end of the FOMC's
+
+short-run range. M-2 is projected to increase at about an 11¼ per cent
+
+annual rate over August and September, more than one percentage point
+
+above the upper end of the Committee's range.1/ M-2 growth has been
+
+bolstered by a continued sharp rise in the large denomination time
+
+deposits included in this measure. Savings deposits at banks also
+
+increased markedly in August following two months of decline.
+
+Growth in Monetary Aggregates
+over August-September Period
+
+Ranges Latest Estimates
+
+M-1 4 to 8 9.0
+
+M-2 6 to 10 11.3
+
+Memo: Federal funds rate Avg. for statement
+(per cent per annum) 7.75 to 8.50 week ending
+
+Aug. 16 7.87
+23 8.14
+30 8.28
+
+Sept. 6 8.30
+13 8.33
+
+1/ These figures do not incorporate revisions based on recently available
+March 1978 Call Report benchmark data for nonmember banks and technical
+adjustments related to a recently discovered cash items bias. The
+revised aggregates will be published on September 21. As shown in
+Appendix Table III, the benchmark revisions increase growth rates for
+M-1 by 0.5 percentage point for the year-to-date and reduce the growth
+rate for M-2 over the same period by 0.3 of a point. All tables on
+subsequent pages of this report (with the exception of Appendix V and
+the first table following the appendices) are based on the revised
+series.
+
+
+
+Growth in total deposits at thrift institutions was sustained in August
+
+and early September at about July's rapid pace, although survey results--
+
+available for S&L's--indicate that sales of the 6-month certificate in
+
+August dropped to roughly half the rate of June and July.
+
+(2) Following the August FOMC meeting, incoming data
+
+suggested that growth in the key aggregates over August and September
+
+would likely be around the upper ends of the ranges specified by the
+
+Committee. Accordingly, by late August the Account Management had raised
+
+the funds rate objective to the 8¼ per cent area, the upper end of the
+
+range specified by the FOMC at its August meeting. On September 8, with
+
+M-1 and M-2 both projected to grow at rates significantly above the
+
+upper ends of their respective ranges, the FOMC, in a telephone meeting,
+
+voted to raise the higher end of the funds rate range to 8 ½ per cent
+
+and instructed the Desk to aim promptly for a Federal funds rate of
+
+8-3/8 per cent. On August 18, for international as well as domestic
+
+reasons, the discount rate was raised 1/2 of a percentage point to 7-3/4
+
+per cent. However, until the most recent week, member bank borrowing
+
+remained relatively large, reflecting the further rise in the Federal
+
+funds and other money market rates. On September 15, major banks initiated
+
+an increase in the prime rate from 9-1/4 to 9-1/2 per cent.
+
+(3) Yields on short-dated market instruments generally have
+
+advanced around ½ to ¾ percentage point since the August FOMC meeting.
+
+Bond market yields, on the other hand, have continued to move down
+
+somewhat, apparently in part because participants still hold the view
+
+that, with economic activity slowing, interest rates are near their
+
+peak levels for the current expansion period.
+
+
+
+(4) As can be seen in the table below, since reaching their
+
+highest levels of the current expansion in the week before the July
+
+FOMC meeting, long-term corporate yields have declined about ½ percentage
+
+point. This decline reflects not only the shift in interest rate
+
+expectations that occurred in July, but also the relatively light
+
+corporate financing calendar. Declines in yields on municipal bonds
+
+have been more moderate, as a heavy volume of refunding activity
+
+pushed the total volume of offerings in this sector to a record level
+
+in August. While the proceeds from these refundings were channeled
+
+into nonmarketable Treasury debt, the Treasury also has sold a sub-
+
+stantial volume of marketable debt in the period. In contrast to bond
+
+yields, short-term interest rates have advanced on balance since mid-
+
+July along with the rise in the Federal funds rate; upward pressures on
+
+bill rates were reinforced by foreign central banks sales of about
+
+$1.7 billion of these instruments since the August FOMC meeting.
+
+Interest Rates on Selected Dates
+(in per cent)
+
+Change Week
+Week Ending Of July 12
+
+July 12 Current to Current
+
+Short-term 1/ 2/
+Federal Funds Rate 7.72- 8.33- +.61
+
+Treasury Bill, 3-month 7.15 7.77 +.62
+Commercial Paper, 90-119 day 7.84 8.43 +.59
+New Issue CD's, 90-day (Highest
+
+quoted) 8.04 8.50 +.46
+Long-term
+
+U.S. Treasury, 20-year 8.72 8.37 p -.35
+
+Corporate AAA, Recently Offered 9.22 8.72 p -.50
+
+Municipal, Bond Buyer 6.32 6.02 -.30
+
+1/ Average for statement week ending July 12.
+2/ Average for statement week ending September 13.
+
+
+
+(5) Real estate and consumer loans at banks are estimated
+
+to have posted further large gains in August. Growth in business
+
+loans also picked up but remained well below rates established in the
+
+first half of the year. In addition to funds obtained from growth in
+
+M-2 type deposits, banks financed the expansion in their loan port-
+
+folios by increasing their nondeposit liabilities and reducing their
+
+security holdings. Given improved deposits flows, outstanding mortgage
+
+commitments at S&L's did not fall further, following a number of months
+
+of decline, and their mortgage lending probably picked up in August.
+
+Yields on new conventional mortgages have edged a bit lower in recent
+
+weeks.
+
+(6) The table on the next page shows percentage annual
+
+rates of change in related monetary and financial flows over various
+
+time periods.
+
+
+
+Past Past Past
+Twelve Six Three Past
+
+Months Months Months Months
+1976 & Aug. '78 Aug. '78 Aug. '78 Aug. '71
+
+1977 over over over over
+Average Aug. '77 Feb. '78 May '78 July '7
+
+Nonborrowed reserves 2.5 6.8 1.4 8.1 3.0
+
+Total reserves 3.2 6.8 5.4 7.0 8.5
+
+Monetary Base 7.7 9.0 7.9 8.0 4.4
+
+Concepts of Money
+
+M-1 (Currency plus demand
+deposits ) 1/ 6.9 8.0 8.8 7.1 8.8
+
+M-2 (M-1 plus time deposits
+at commercial banks
+other than large CD's) 10.4 8.1 8.4 8.8 10.4
+
+M-3 (M-2 plus deposits at
+thrift institutions) 12.3 9.3 8.9 9.9 11.7
+
+M-4 (M-2 plus CD's) 8.6 10.3 9.2 7.6 8.0
+
+M-5 (M-3 plus CD's) 11.1 10.5 9.3 9.1 10.1
+
+Bank Credit
+
+Loans and investments of
+all commercial banks 2/
+
+Month-end basis 9.8 11.0 11.8 9.4 5.2
+
+Monthly average 9.5 10.9 10.4 9.8 7.3
+
+Short-term Market Paper
+(Monthly average change
+in billions)
+
+Large CD's -0.4 1.9 1.2 -0.3 -1.1
+
+Nonbank commercial paper 0.2 0.2 0.5 0.5 -0.1
+
+1/ Other than interbank and U.S. Government.
+2/ Includes loans sold to affiliates and branches.
+NOTE: All items are based on averages of daily figures, except for data on total loa
+and investments of commercial banks, commercial paper, and thrift institutions--which
+are derived from either end-of-month or Wednesday statement date figures. Growth rat
+for reserve measures in this and subsequent tables are adjusted to remove the effect
+discontinuities from breaks in the series when reserve requirements are changed.
+
+
+
+Prospective developments
+
+(7) The table below presents for Committee consideration
+
+two alternative specifications for the Federal funds rate and the
+
+monetary aggregates for the September-October period. (More detailed
+
+and longer-term data are contained in the tables on pp. 7 and 8).
+
+Alt. A Alt. B
+
+Ranges for Sept.-Oct.
+
+M-1 6½ to 10½ 6 to 10
+
+M-2 8 to 12 7½ to 11½
+
+Federal funds rate
+(Intermeeting period) 8 to 8¾ 8¼ to 9
+
+(8) Alternative A contemplates a Federal funds rate between
+
+now and the next meeting centered on the prevailing 8-3/8 per cent
+
+level. Growth in M-1 over the September-October period is expected
+
+to be in a 6½ to 10½ per cent annual rate range, largely in reflection
+
+of the stronger growth of this aggregate that appears in train for
+
+September. If M-1 expands at the mid-point of the expected range,
+
+its October level will be above that implied by the upper
+
+end of the FOMC's current longer-run range, as indicated in the upper
+
+panel of Chart 1 on the following page.
+
+(9) For the third quarter, the annual rate of M-1 growth
+
+is expected to be around 7-1/4 per cent. This represents a considerable
+
+slowing from the rate of the second quarter, and reflects the decelera-
+
+tion of economic activity from the extraordinary spring pace and the
+
+lagged response to rising short-term interest rates.
+
+
+
+CHART 1
+
+Recently Established M-1 Growth Ranges and Actual M-1
+
+Billions of dollars
+
+6%%
+
+- Projection 0 - 370
+
+- Q2 '78-02 '79 -
+
+-c
+
+S350
+
+- 360
+S 1 '78-01'79_y / / "--<
+
+Q 4 ' 7 7 - Q 4 '7 8
+
+320 _ 350
+
+330 360
+
+320 - % - 350-r
+
+330 s Q3'77-Q3 '78
+
+320 
+0..
+
+320 320
+
+1977 1978 1979
+
+
+
+Alternative Levels and Growth Rates for Key Monetary Aggregates
+
+M-1 M-2
+
+Alt. A Alt. B Alt. A Alt. B
+
+1978 August 356.8 356.8 853.5 853.5
+September 360.0 359.9 861.9 861.6
+October 361.9 361.6 867.7 867.0
+
+1978 QII 350.6 350.6 835.4 835.4
+QIII 357.0 357.0 853.9 853.8
+QIV 363.5 363.2 872.9 872.2
+
+1979 QI 368.0 367.7 888.6 887.8
+QII 372.5 372.5 904.4 904.0
+
+Growth Rates
+Monthly:
+
+1978 September 10.8 10.4 11.8 11.4
+October 6.3 5.7 8.1 7.5
+
+Quarterly Average:
+
+1978 QIII 7.3 7.3 8,9 8.8
+QIV 7.3 6.9 8.9 8.6
+
+1979 QI 5.0 5.0 7.2 7.2
+QII 4.9 5.2 7.1 7.3
+
+Semi-Annual:
+
+QII '78-QIV '78 7.4 7.2 9.0 8.8
+QIV '78-QII '79 5.0 5.1 7.2 7.3
+
+Annual:
+
+6.2 6.2QII '78-QII '79 8.3 8.2
+
+
+
+Alternative Levels and Growth Rates for Key Monetary Aggregates (cont'd)
+
+M-3 Bank Credit
+
+Alt. A Alt. B Alt. A Alt. B
+
+1978 August 1454.9 1454.9 939.1 939.1
+September 1470.5 1470.2 949.0 949.0
+October 1483.1 1482.3 958.3 957.9
+
+1978 QII 1420.4 1420.4 916.5 916.5
+QIII 1455.4 1455.3 940.5 940.5
+QIV 1494.1 1493.2 968.5 967.5
+
+1979 QI 1525.0 1523.9 996.0 993.5
+QII 1554.9 1554.0 1023.6 1020.1
+
+Growth Rates
+Monthly
+
+1978 September 12.9 12.6 12.7 12.7
+October 10.3 9.9 11.8 11.3
+
+Quarterly Average:
+
+1978 QIII 9.9 9.8 10.5 10.5
+QIV 10.6 10.4 11.9 11.5
+
+1979 QI 8.3 8.2 11.4 10.7
+QII 7.8 7.9 11.1 10.7
+
+Semi-Annual:
+
+QII '78-QIV '78 10.4 10.3 11.3 11.1
+QIV '78-QII '79 8.1 8.1 11.4 10.9
+
+Annual:
+
+9.5 9.4 11.7 11.3QII '78-QII '79
+
+
+
+(10) Expansion in M-2 under alternative A is likely to be in
+
+an 8 to 12 per cent annual rate range over the September-October period,
+
+raising this aggregate by October to the level implied by the top of
+
+its current longer-run range, as shown in the top panel of Chart 2.
+
+The interest-bearing component of M-2 is expected to slow markedly from
+
+its recent pace as the year progresses. However, given the strength of
+
+time and savings deposits thus far in September, growth over the September-
+
+October period in the time deposit component of M-2 may be at around an
+
+11 per cent annual rate--considerably above the average pace of the
+
+first half of the year. Savings deposit growth is not likely to be sus-
+
+tained at the August pace, but issuance of 6-month certificates should
+
+support growth of small time deposits and banks are expected to con-
+
+tinue to sell sizable amounts of large-denomination time deposits to
+
+meet loan demands.
+
+(11) The staff continues to expect inflows of deposits to
+
+thrift institutions to slow from their extraordinarily rapid recent rate,
+
+which has been affected by continued shifts from existing financial
+
+assets to the new money market certificates. Nevertheless, because
+
+deposit growth at S&L's and MSB's has been larger than expected in recent
+
+weeks, our projection of total thrift deposit flows has been raised from
+
+the last month. Indeed, with growth in the other monetary aggregates
+
+also strong, it is likely, as shown in the upper panel of Chart 3, that
+
+M-3 in October will be somewhat above the level implied by the upper end
+
+of the FOMC's current longer-run range.
+
+
+
+CHART 2
+
+Recently Established M-2 Growth Ranges and Actual M-2
+
+--- Projection Q2 '78-02 '79
+
+01 '78-C
+
+SH%
+
+6%%
+
+illions of dollars
+
+9%
+
+0 - 905
+
+- 890
+6%%
+
+- 875
+
+-860-
+
+-845
+
+1 ' - 830
+
+845
+
+-830
+
+- 860
+
+845
+
+- 830
+
+Q3 '77-03 '78
+
+6%%
+
+1978
+
+860
+
+845
+
+830
+
+815
+
+800
+
+785
+
+770
+
+755
+1977 1979
+
+
+
+Chart 3
+
+Recently Established M-3 Growth Ranges And Actual M-3
+
+- Projection
+
+/ Q3'77-Q3'78
+
+7%%
+
+Billions of dollars
+1590
+
+io%
+
+S- 1560
+
+S- 1530
+8%
+
+9 --
+
+% 1500
+Q2'78-Q2'79
+
+- 1470
+
+10%
+O - 1440
+
+)t'78-Q1'79
+
+,, - 1500
+7% %
+
+1470
+
+S1440
+
+1500
+
+'8
+S1470
+
+-1440
+
+" 1500
+
+1470
+
+-1440
+
+-1410
+
+-1380
+
+S1350
+
+-1320
+
+1978
+
+1350
+
+1320
+
+1290
+
+1260
+
+1320
+
+1290
+
+1260
+
+1320
+
+1290
+
+1260
+
+1320
+
+1290
+
+1260
+1977 1979
+
+
+
+-10-
+
+(12) If the Federal funds rate remains around 8-3/8 per cent
+
+over the intermeeting period, as envisioned under alternative A, short-
+
+term market interest rates would be expected to remain near current
+
+levels. The recent increases in short-term rates appear to have kept
+
+them in alignment with the funds rate. Although short-term credit
+
+demands of both financial and nonfinancial businesses may pick up in
+
+September and October, following a weakening in August, they are likely
+
+to remain more moderate than over the first half of the year. Demands
+
+for short-term funds from sponsored agencies should moderate somewhat
+
+in the weeks ahead from their strong summer pace,in view of the recent
+
+strength in thrift deposit flows, and the Treasury will probably not
+
+tap the bill market for new money until the latter part of the fourth
+
+quarter.
+
+(13) Longer-term yields also may change little under alterna-
+
+tive A, and could even edge down a little further, unless incoming data
+
+come to suggest a more rapid rate of inflation or stronger expansion in
+
+real activity than the market is currently expecting. Municipal bond
+
+issuance has dropped off substantially in September and will likely con-
+
+tinue at a reduced pace in October. Corporate bond offerings are likely
+
+to pick up only seasonally from the recent relatively light pace. The
+
+Treasury is expected to rise only about $3.0 billion of new money in
+
+late September in auctions of 2-year and 5-year notes, and will then
+
+not be back in the market until late October. Moreover, institutional
+
+investors apparently still have a considerable volume of liquid funds
+
+
+
+-11-
+
+available for investment, and dealer positions are light. The recent
+
+rapid growth of thrift deposits suggests that mortgage market rates
+
+will likely fluctuate around current levels in coming weeks.
+
+(14) Alternative B calls for an increase in the Federal
+
+funds rate by mid-October to around the midpoint of an 8-1/4 to 9 per
+
+cent range. M-1 growth would likely be in a 6 to 10 per cent annual
+
+rate range over September-October and M-2 growth in a 7-1/2 to 11-1/2
+
+per cent range. The further increase in short-term rates would be
+
+expected to slow the inflows of interest-bearing deposits subject to
+
+regulatory ceilings at banks and thrifts, but recent evidence suggests
+
+that the new 6-month certificates will probably blunt some of the
+
+impact of rising rates on deposit growth, especially at thrifts.
+
+(15) The modest increase in the funds rate contemplated
+
+under alternative B is, of course, likely to have some upward impact
+
+on short-term market rates of interest. However, such rates may rise
+
+by less than the funds rate--and long-term rates by quite small amounts--
+
+if market participants act on the assumption that the peak in interest
+
+rates is even closer at hand. A further increase in the funds rate
+
+would reinforce market expectations of another adjustment in the dis-
+
+count rate. Barring such an adjustment, member bank borrowing would
+
+be likely to increase noticeably.
+
+(16) Under either alternative A or B, short-term interest
+
+rates are expected to come under further upward pressure before year-
+
+end. With nominal GNP projected to rise at an annual rate of more than
+
+
+
+-12-
+
+11 per cent over the balance of the longer-run policy period, the Federal
+
+funds rate might have to rise to 9 to 9-1/4 per cent during the fourth
+
+quarter if growth in M-1 is to be constrained to around the upper limit
+
+1/2/of its range over the current longer-run policy period. The rise in
+
+market interest rates and the anticipated completion of the stock adjust-
+
+ment to the new 6-month certificates is expected to slow the pace of
+
+inflows into interest-bearing deposits subject to regulatory ceilings,
+
+and growth in both M-2 and M-3 over the QII '78 to QII '79 policy period
+
+is projected to be in the upper half of their longer-run ranges.
+
+1/ The staff's projections for the Federal funds rate through mid-1979
+are shown in appendix I and for velocity growth rates in appendix II.
+
+2/ Growth in measured M-1 is expected to slow in the fourth and subsequent
+quarters if the Board regulation with regard to automatic transfers from
+savings to demand deposits becomes effective November 1. No allowance has
+been made for such a slowing in the estimates presented in this blue book.
+Banks are just beginning to publish their pricing schedules for the automa-
+tic transfer service. Even after most are published, competitive pressures
+will undoubtedly tend to change them and in any event it will be very difficult
+to project the probable public response and the extent to which M-1 will
+become distorted. These uncertainties about the size of the resulting dis-
+tortion in M-1 suggest the desirability of supplementing M-1 and M-2 with
+another measure that would be less affected than M-1 and would still be a
+reasonable indicator of transactions demands for money. Such a measure--
+termed M-1+ and defined as M-1 plus savings deposits at commercial banks
+and transactions balances at thrift institutions--is presented in appendix V.
+
+
+
+-13-
+
+Directive language
+
+(17) Given below are suggested operational paragraphs for
+
+the directive. Alternative language consistent with the short-run
+
+specifications of the alternatives discussed in the preceding section
+
+is shown for the Committee's objective for the Federal funds rate early
+
+in the period. At a later point, alternative language is also provided
+
+for placing main emphasis either on monetary aggregates or on money
+
+market conditions. The specifications adopted at the August meeting
+
+as modified at the telephone meeting on September 8 are shown in strike-
+
+through form.
+
+In the short run, the Committee seeks to achieve bank
+
+reserve and money market conditions that are broadly consistent
+
+with the longer-run ranges for monetary aggregates cited above,
+
+while giving due regard to developing conditions in domestic
+
+and international financial markets more generally. Early in
+
+the period until the next regular meeting, System open market
+
+operations shall be directed at attaining a weekly-average
+
+Federal funds rate
+
+(A) AT ABOUT THE CURRENT LEVEL
+(B) slightly (OR SOMEWHAT) above the current level.
+
+Subsequently, operations shall be directed at maintaining the
+
+weekly-average Federal funds rate within the range of [DEL: 7-3/4 to
+
+8-1/2] ____ TO ____ per cent. In deciding on the specific
+
+objective for the Federal funds rate the Manager shall be guided
+
+
+
+-14-
+
+mainly by the relationship between the latest estimates of
+
+annual rates of growth in the [DEL: August-September] SEPTEMBER-
+
+OCTOBER period of M-1 and M-2 and the following ranges of
+
+tolerance: [DEL: 4-to-8] ____ TO ____ per cent for M-1 and
+
+[DEL: 6-to-10] ____ TO ____ per cent for M-2. If, giving
+
+approximately equal weight to M-1 and M-2, their rates of
+
+growth appear to be
+
+Monetary aggregates emphasis
+
+significantly above or below the midpoints
+
+Money market emphasis
+
+close to or beyond the upper or lower limits
+
+of the indicated ranges, the objective for the funds rate shall
+
+be raised or lowered in an orderly fashion within its range.
+
+If the rates of growth in the aggregates appear to be above
+
+the upper limit or below the lower limit of the indicated ranges
+
+at a time when the objective for the funds rate has already been
+
+moved to the corresponding limit of its range, the Manager is
+
+promptly to notify the Chairman who will then decide whether the
+
+situation calls for supplementary instructions from the Committee.
+
+
+
+Chart 4
+
+Recently Established Bank Credit Growth Ranges and Actual Bank Credit
+
+Billions of dollars
+%% 10 30
+
+Q2 '78-Q2 '79 /
+-- Projection 2 '78-2 791010
+
+- - 990
+
+- ' 970
+
+-
+- 950
+
+- 930
+, 10%
+
+-o- 0Q1 '78-Q0 '79 - 910
+
+/ 0 7%-" "7 950
+
+870 - 930
+
+850- 910
+
+850 10%
+
+830- - 950
+S 04 '77-Q4 '78
+
+810 9 3 0
+
+- 910
+850
+
+830 - / do - o950
+
+810- 10 %  - 930
+
+Q3 '77-Q3 '78
+850 - - 910
+
+830- . ^ - 890
+
+8 1
+
+910
+
+850
+
+830 -
+.
+
+810 " 9717 I I I8_I I I II I I97 J 9
+810
+
+1977 1978 1979
+
+
+
+Appendix I
+
+Projected Federal Funds Rate
+
+1978--QIII
+
+QIV
+
+1979--QI
+
+QII
+
+Alt. A
+
+8 to 8-1/8
+
+8% to 9k
+
+8% to 91
+
+8% to 94
+
+Alt. B
+
+8-1/8 to 8k
+
+9 to 9
+
+8% to 9
+
+8% to 9
+
+
+
+Appendix II
+
+Implied Velocity Growth Rates
+
+V-1 (GNP/M-1) Alt. A Alt. B
+
+1978 II 8.2 8.2
+
+III 2.4 2.4
+
+IV 3.0 3.3
+
+1979 I 6.7 6.7
+
+II 5.2 4.8
+
+V-2 (GNP/M-2)
+
+1978 II 10.2 10.2
+
+III 0.8 0.8
+
+IV 1.4 1.8
+
+1979 I 4.5 4.5
+
+II 3.0 2.8
+
+
+
+Appendix III
+
+Revisions in the Monetary Aggregates
+
+Benchmark adjustments for domestic nonmember banks and
+
+data associated with a recently discovered cash items bias problem
+
+have been incorporated into the money stock series and related data.
+
+The benchmark adjustments are based on the March 1978 call report and
+
+affect deposit levels from January 1978 to date. The cash items bias
+
+adjustment gradually raises the level of the series from mid-1975 to
+
+date. Both M-1 and M-2 grew at an 8.0 per cent annual rate over the
+
+first three quarters of 1978, on the revised basis, compared with
+
+rates of 7.5 and 8.3 per cent, respectively, for the old series.
+
+The impact of benchmark and cash items bias adjustments on annual,
+
+quarterly and monthly M-1 and M-2 growth rates are shown in Tables
+
+III-1 and III-2.
+
+The benchmark adjustments raised the level of M-1 about
+
+$500 million in March 1978 and about $1 billion in August. The level
+
+of M-2 was reduced about $700 million in March and $2 billion in August.
+
+As shown in column 4 of Tables III-1 and III-2, over the first three
+
+quarters of 1978 the benchmark adjustment added 0.3 percentage points
+
+to M-1 growth and reduced M-2 growth by a like amount.
+
+The cash items adjustment corrects for a recently discovered
+
+bias associated with transfers of funds by some agencies and branches
+
+of foreign banks in New York City on behalf of directly-related insti-
+
+tutions. Foreign related banking institutions in New York City have
+
+begun to transfer funds for directly-related institutions (parent and
+
+
+
+III-2
+
+subsidiaries) by drawing checks on accounts held by the related institu-
+
+tion at the New York City office; some of these transfers apparently
+
+began as early as mid-1975. In effect the New York office was acting
+
+as agent for the directly related institution. Since funds due to a
+
+directly-related institution are not recorded as deposits, but rather
+
+as other liabilities, the cash items generated by these checks are not
+
+matched by a demand deposit account, and their deduction in the
+
+calculation of money stock measures is therefore inappropriate. Also,
+
+since these checks are not officers checks of the New York City
+
+agency or branch, they are not included in officers checks data
+
+collected to adjust for cash items bias generated by transfers of funds
+
+for regular customers by these institutions. In order to correct for
+
+this relatively small but growing bias, data were collected from foreign
+
+agencies and branches in New York City to provide an estimate of the
+
+amount of cash items bias such transfers generated from mid-1975 to
+
+April 1978. Since May 1978 daily data are available and will be available
+
+on a continuing basis. In the most recent period, this bias adjustment
+
+amounts to about $1 billion.
+
+As can be seen in columns 4 of Tables III- and III-2 the
+
+impact of the cash items adjustment on annual and quarterly growth rates
+
+was minor. Because of the volatility of the series, however, individual
+
+monthly M-1 growth rates were raised or lowered as much as 1¼ percentage
+
+points. Impacts on monthly M-2 growth rates were smaller.
+
+
+
+Table III-1
+
+Effect of Benchmark and Cash Items Bias
+Adjustment on M-1 Growth
+
+(Seasonally adjusted, per cent annual rates)
+
+Differences due to1/
+
+Old Revised Difference Cash Item
+Series Series (1) - (2) Benchmark Bias
+
+(1) (2) (3) (4) (5)
+
+Annual 2/
+
+1975 4.4 4.6 0.2 - 0.2
+
+1976 5.7 5.8 0.1 - 0.1
+
+1977 7.9 7.9 0.0 - 0.0
+
+1977 QIV to
+1978 011I (proj) 7.5 8.0 0.5 0.3 0.2
+
+3/
+Quarterly-
+
+1978 QI 5.6 6.2 0.4 0.1 0.3
+
+QII 9.5 9.9 0.4 0.4 0.0
+
+QIII (proj.) 6.9 7.3 0.4 0.3 0.1
+
+Monthly
+
+1978 Jan. 10.3 11.3 1.0 0.3 0.7
+
+Feb. -0.7 0.3 1.0 0.6 0.4
+
+Mar. 3.5 3.9 0.4 0.7 -0.3
+
+Apr. 19.0 19.6 0.6 0.3 0.3
+
+May 8.0 7.2 -0.8 0.1 -0.9
+
+June 5.9 7.5 1.6 0.3 1.3
+
+July 5.5 4.8 -0.7 -0.3 -0.4
+
+Aug. 7.8 8.8 1.0 0.7 0.3
+
+Sept. (proj.) 10.2 10.8 0.6 0.3 0.3
+
+i/ In percentage points.
+
+2/ AJerage of QI to average of QIV.
+
+3/ Quarterly average.
+
+
+
+Table III-2
+
+Effect of Benchmark and Cash Items Bias
+Adjustment on M-2 Growth
+
+(Seasonally adjusted, per cent annual rates)
+
+Differences due to l
+Old Revised Difference Cash Item.
+
+Series Series (1) - (2) Benchmark Bias
+(1) (2) (3) (4) (5)
+
+Annual 2/
+
+1975 8.3 8.4 0.1 - 0.1
+
+1976 10.9 10.9 0.0 - 0.0
+
+1977 9.8 9.8 0.0 - 0.0
+
+1977 QIV to
+1978 QIII (proj) 8.3 8.0 -0.3 -0.3 0.0
+
+3/
+Quarterly- /
+
+1978 QI 6.9 6.9 0.0 -0.1 0.1
+
+QII 8.3 7.9 -0.4 -0.4 0.0
+
+QIII (proj.) 9.2 8.9 -0.3 -0.3 0.0
+
+Monthly
+
+1978 Jan. 9.5 9.5 0.0 -0.2 0.2
+
+Feb. 4.7 4.7 0.0 -0.1 0.1
+
+Mar. 5.6 5.1 -0.5 -0.4 -0.1
+
+Apr. 11.5 11.2 -0.3 -0.4 0.1
+
+May 7.8 7.1 -0.7 -0.4 -0.3
+
+June 7.8 7.8 0.0 -0.4 0.4
+
+July 8.6 8.0 -0.6 -0.5 -0.1
+
+Aug. 10.6 10.4 -0.2 -0.3 0.1
+
+Sept. (proj.) 11.8 11.8 0.0 -0.1 0.1
+
+1/ In percentage points.
+
+2/ From average of QIV to
+
+3/ Quarterly average.
+
+average of QIV.
+
+
+
+74IV 751 7511 751
+
+Appendix Table IV-1
+
+MONEY STOCK--M-1
+(Annual rates of growth, compounded quarterly)-
+
+Base Period
+
+II 75IV 761 7611 76111 76IV 771 77Il 77111 771V 781 7811
+
+1975 I
+
+II
+
+III
+
+IV
+
+1976 I
+
+II
+
+III
+
+IV
+
+1977 I
+
+II
+
+III
+
+IV
+
+1978 I
+
+II
+
+1979 II
+Alt.
+Alt.
+
+2.1
+
+4.3
+
+5.2
+
+4.6
+
+4.6
+
+5.0
+
+4.9
+
+5.2
+
+5.4
+
+5.7
+
+6.0
+
+6.1
+
+6.1
+
+6.4
+
+* *
+
+6.5
+
+6.7
+
+5.4
+
+5.3
+
+5.6
+
+5.3
+
+5.7
+
+5.8
+
+6.1
+
+6.4
+
+6.5
+
+6.5
+
+6.8
+** *
+
+6.4 6.6
+6.4 6.6
+
+7.0
+
+4.9
+
+4.8
+
+5.4
+
+5.1
+
+5.5
+
+5.8
+
+6.1
+
+6.3
+
+6.5
+
+6.5
+
+6.8
+
+J* *
+
+2.9
+
+3.8
+
+4.9
+
+4.6
+
+5.2
+
+5.6
+
+6.0
+
+6.3
+
+6.4
+
+6.4
+
+6.8
+
+****
+
+6.6 6.6
+6.6 6.6
+
+4.7
+
+5.9
+
+5.2
+
+5.8
+
+6.1
+
+6.5
+
+6.8
+
+6.9
+
+6.8
+
+7.2
+
+7.0
+
+5.4
+
+6.2
+
+6.4
+
+6.9
+
+7.1
+
+7.2
+
+7.1
+
+7.4
+
+3.9
+
+5.8
+
+6.2
+
+6.8
+
+7.1
+
+7.2
+
+7.1
+
+7.5
+
+7.2
+
+7.9
+
+8.0
+
+7.9
+
+7.6
+
+8.1
+
+6.9 7.1 7.1 7.4
+6.9 7.1 7.1 7.4
+
+8.6
+
+8.4
+
+8.2
+
+7.7
+
+8.2
+
+8.3
+
+8,0
+
+7.4
+
+8.1
+
+7.3 7.3 7.2
+7.3 7.2 7.2
+
+7.7
+
+7.0
+
+8.1 10.3
+
+7.0 6.9 7.0 6.2
+7.0 6.9 7.0 6.2
+
+Ending
+Period
+
+
+
+Appendix Table IV-2
+
+MONEY STOCK--M-2
+(Annual rates of growth, compounded quarterly)1/
+
+Base Period
+
+74IV 751 7511 75II 75IV 761 7611 7611 761V 771 7711 77III 77IV 781 7811
+
+1975 I
+
+II
+
+III
+
+IV
+
+1976 I
+
+II
+
+III
+
+IV
+
+1977 I
+
+II
+
+III
+
+IV
+
+1978 I
+
+II
+
+1979 II
+Alt.
+Alt.
+
+6.4
+
+8.3
+
+8.9
+
+8.4
+
+8.9
+
+9.2
+
+9.2
+
+9.7
+
+9.8
+
+9.8
+
+9.9
+
+9.7
+
+9.5
+
+9.4
+
+**
+
+9. 2
+9.1
+
+10.2
+
+10.2
+
+9.1
+
+9.6
+
+9.7
+
+9.6
+
+10.2
+
+10.2
+
+10.2
+
+10.2
+
+10.0
+
+9.8
+
+9.7
+
+* * w*
+
+10.3
+
+8.6 6.9
+
+9.4 9.0
+
+9.6 9.4
+
+9.5 9.3
+
+10.1 10.1
+
+10.3 10.3
+
+10.2 10.2
+
+10.2 10.2
+
+10.0 10.0
+
+9,7 9.7
+
+9.6 9.5
+
+* *** * * *
+
+9.3 9.3
+9.3 9.3
+
+9.2
+9.2
+
+11.1
+
+10.7
+
+10.2
+
+10.9
+
+11.0
+
+10.8
+
+10.7
+
+10.4
+
+10.0
+
+9.8
+
+10,3
+
+9.7
+
+10.9
+
+11.0
+
+10.7
+
+10.6
+
+10.3
+
+9.9
+
+9,7
+
+9.0
+
+11.2
+
+11.2
+
+10.8
+
+10.7
+
+10.3
+
+9.8
+
+9.6
+
+13.3
+
+12.3
+
+11.4
+
+11.1
+
+10.5
+
+9.9
+
+9.7
+
+11.2
+
+10.4
+
+10.3
+
+9.8
+
+9.3
+
+9.1
+
+9,5
+
+9.9
+
+9.4
+
+8.8
+
+8.6
+
+10.2
+
+9.3
+
+8.5
+
+8.4
+
+8.3
+
+7.7
+
+7.8
+
+7.0
+
+7.6
+
+9.4 9,2 9.1 9,2 8.7 8.5 8.3 8.1 8.0 8.2 8.3
+9.4 9.2 9.1 9.1 8.7 8.4 8.3 8.0 8.0 8.2 8.2
+
+1/ Based on quarterly average data.
+
+Ending
+Period
+
+8.2
+
+
+
+Ending
+Period
+
+1975 I
+
+II
+
+III
+
+IV
+
+1976 I
+
+II
+
+III
+
+IV
+
+1977 I
+
+II
+
+III
+
+IV
+
+1978 I
+
+II
+
+1979 II
+Alt.
+Alt.
+
+Appendix Table IV-3
+
+MONEY STOCK--M-3 1/
+(Annual rates of growth, compounded quarterly)-
+
+Base Period
+
+74IV 751 7511 75111
+
+8.3
+
+10.6
+
+11.6
+
+11.1
+
+11.4
+
+11.6
+
+11.5
+
+12.0
+
+12.1
+
+11.9
+
+12.0
+
+11.9
+
+11.6
+
+11.3
+
+* **
+
+13.0
+
+13.2
+
+12.1
+
+12.2
+
+12.2
+
+12.1
+
+12.5
+
+12.5
+
+12.3
+
+12.3
+
+12,2
+
+11.9
+
+11.6
+
+* * *
+
+13.5
+
+11.6
+
+12.0
+
+12.0
+
+11.9
+
+12.4
+
+12.5
+
+12.2
+
+12.3
+
+12.1
+
+11.8
+
+11.4
+
+** *
+
+9.8
+
+11.2
+
+11.6
+
+11.5
+
+12.2
+
+12.3
+
+12.1
+
+12.1
+
+12.0
+
+11.6
+
+11.3
+
+S **
+
+A 10.9 11,1 10.9 10.8
+B 10.9 11.0 10.9 10.8
+
+75IV 761 7611 76111 76IV
+
+12.7
+
+12.5
+
+12.1
+
+12.8
+
+12.8
+
+12.4
+
+12.4
+
+12.3
+
+11.8
+
+11.4
+
+12.3
+
+11.8
+
+12.9
+
+12.8
+
+12.4
+
+12.4
+
+12.2
+
+11.7
+
+11.3
+
+11.3
+
+13.2
+
+13.0
+
+12.4
+
+12.4
+
+12.2
+
+11.6
+
+11,1
+
+15.0
+
+13.9
+
+12.8
+
+12.7
+
+12.4
+
+11.6
+
+11.1
+
+12.8
+
+11.7
+
+12.0
+
+11.7
+
+11.0
+
+10.5
+
+771 7711 77111 77IV 781 7811
+
+10.7
+
+11.6
+
+11.4
+
+10.5
+
+10.0
+
+12.5
+
+11.8
+
+10.5
+
+9.9
+
+11.1
+
+9.5
+
+9.0
+
+7.9
+
+8.0 8.0
+
+10.8 10.7 10.6 10.5 10.1 9.8 9.7 9.3 9.0 9.2
+10.8 10.7 10.6 10.5 10.0 9.7 9.6 9.2 8.9 9.1
+
+9 .5
+9,4
+
+
+
+APPENDIX V
+
+Automatic Transfers and a Supplemental Monetary Aggregate
+
+When automatic transfers become available November 1 new uncer-
+
+tainties will arise regarding both projected growth in demand deposits
+
+and the interpretation of M-1 growth.1/ This new service will permit con-
+
+sumers to substitute savings balances, earning explicit interest, for
+
+demand deposits, earning no explicit yield. Thus, automatic transfers
+
+can be expected to weaken the demand deposit component of M-1--of which
+
+consumer deposits are approximately one-third of the total-and simulta-
+
+neously increase savings balances at commercial banks. While commercial
+
+banks may also attract funds from thrift institutions and from other
+
+sources, it is the Board staff's judgment that the volume of any such
+
+inflows will probably be small and that the bulk of funds attracted to
+
+savings accounts subject to automatic transfers will likely come from
+
+household demand accounts.
+
+The extent of the shift from demand to savings accounts will de-
+
+pend heavily on the promotional activity and pricing of this service by
+
+commercial banks. A recent informal and confidential System-wide survey of
+
+1/ The impact of automatic transfers on M-1 and M-2 growth was discussed
+in Appendix IV of the July 1978 Bluebook.
+
+NOTE: Data contained in this appendix, including accompanying tables and
+charts, do not reflect the recent benchmark to the March 1978 Call
+report.
+
+
+
+commercial banks indicates that a very high proportion of banks are
+
+planning to offer this service beginning in November. Many of these
+
+banks indicated that they intend to promote automatic transfers actively.
+
+Less clear at this time are the typical pricing features of
+
+automatic transfer programs. Many banks have not yet finalized their pricing
+
+schedules, and others are very reluctant to divulge such sensitive com-
+
+petitive information, but the survey suggests that pricing plans are
+
+likely to vary widely among banks, at least initially.1/ In general,
+
+though, respondent banks indicated that they expect their rivals to
+
+actively promote this new service and they are willing to meet this com-
+
+petition in order to protect their market shares. In view of this evidence,
+
+the staff believes that the amount by which automatic transfers will de-
+
+press M-1 growth in the first three quarters they are offered may be in the
+
+middle or perhaps the upper portion of the 1 to 3-1/2 annual percentage
+
+2/point range estimated previously.- Nevertheless, it should be emphasized
+
+that these estimates remain crude and there continues to be a great deal
+
+of uncertainty regarding the impact of automatic transfers on deposit con-
+
+versions and M-1 growth.
+
+1/ Many banks offering information on their pricing plans mentioned terms-
+frequently involving monthly maintenance charges and per transfer fees-
+that would appeal mainly to their large household depositors, generally
+those with average balances in excess of $1,000. Fragmentary information
+on the distribution of household checking balances by size of account
+indicates that such large accounts contain over one-half of total house-
+hold balances.
+
+2/ The lower end of this range is based on 6 per cent of consumer demand
+deposits converting to savings in the first year, while the upper end
+is based on conversions of 18 per cent. The 1 to 3 percentage point
+range for the impact on M-1 growth reported in the July Bluebook was for
+the QII '78 to QII '79 period and the 1 to 3-1/2 percentage point range
+given above is for the QIII '78 to QII '79 period.
+
+
+
+V-3
+
+Since most of the conversions to savings balances are likely
+
+to come from demand deposits, a somewhat broader aggregate than M-1-
+
+which includes both kinds of accounts-will be less vulnerable to distor-
+
+tions caused by automatic transfers. Board staff has, for some time, been
+
+conducting research on a variety of alternative definitions of money
+
+which reflect recent innovations in the payments mechanism and the changing
+
+character of depository institution liabilities. A full scale study
+
+is expected to be completed in several months. But in view of the impend-
+
+ing problems for interpreting M-1 posed by automatic transfers. Board
+
+staff has constructed a supplemental aggregate that may be useful, at least
+
+during the transition period in which significant conversions are expected
+
+to occur. Table V-1 shows the composition of this aggregate, which is
+
+tentatively being called M-+. Besides M-1, it includes savings deposits
+
+at commercial banks, NOW accounts at thrifts, credit union share drafts
+
+and demand deposits at MSBs. Alternatively, more emphasis could be placed
+
+on M-2, as currently defined, although M-1+ is likely to be more closely
+
+related to transactions and not as sensitive to shifts among time deposits
+
+and other financial assets.
+
+M-1+ equaled $581 billion in August, as compared with M-1 of
+
+$354 billion. The largest single component of M-1+, as with the current
+
+M-1, is demand deposits at commercial banks, followed by commercial bank
+
+savings, and then by currency; total NOW balances and other transactions
+
+balances at thrifts make up a very small portion of the total. Chart V-1
+
+shows how the composition of this aggregate has changed over time. Some
+
+of the increase in the share of savings balances included in M-1+ and the
+
+concurrent fall in the share of demand deposits during 1975 and 1976
+
+
+
+V-4
+
+TABLE V-1
+
+Level and Composition of M1+
+(August 1978)
+
+1. Currency
+
+2. Demand deposits at commercial banks
+
+3. M1 (1.+2.)
+
+Amount
+(in billions of dollars)
+
+94.0
+
+260.1
+
+354.2
+
+Per cent of
+total
+
+16.2
+
+44.7
+
+60.9
+
+1/Commercial bank savings-
+
+2/NOW balances-
+
+Demand deposits at MSBs
+
+Credit union share drafts
+
+M1+
+
+Excludes NOW accounts at commercial banks.
+NOWs at both commercial banks and thrifts.
+
+222.5
+
+3.3
+
+.9
+
+.6
+
+38.2
+
+.6
+
+.2
+
+.1
+
+581.5 100
+
+
+
+V-5
+
+CHART V-1
+
+COMPONENTS OF M-1+-
+
+(Quarterly average seasonally adjusted)
+
+Demand deposits
+
+Per Cent of M-
+
+-- 60
+
+50
+
+- 40
+
+2/
+Savings deposits
+
+-U . - - - -
+
+- 30
+
+Currency
+
+3/ -
+Other transactions balances
+
+I I I L Jm
+1970 1972 1974 1976 1978
+
+Last observation charted is second quarter 1978.
+Excluding NOW accounts at commercial banks.
+Other transactions balances include NOWs, demand deposits at MSBs and
+credit union share drafts.
+
+f. -- 
+
+op
+
+1966 1968
+
+
+
+resulted from shifts from demand deposits to savings associated with
+
+regulatory changes. However, the bulk of the decline in the demand
+
+deposit share is believed to have stemmed from the widespread applica-
+
+tion of cash management techniques while the rise in the savings share
+
+reflected relatively low market rates of interest during this period.
+
+Quarterly growth rates of M-1+--along with current M-1--are
+
+shown in Chart V-2. Since savings-which tend to be sensitive to change-
+
+ing market yields-are an important component of M-1+, growth of M-1+
+
+has been more responsive than M-1 to the difference between market yields
+
+and regulatory ceilings, shown in the lower panel of the chart. When
+
+market rates were low relative to regulatory ceilings, such as in 1971 and
+
+1972 and again in 1975 and 1976, savings growth tended to be substantial
+
+and M-1+ expanded more rapidly than M-1. Conversely, during those times
+
+when market rates rose appreciably above ceilings, such as in 1969, again
+
+in 1973, and more recently since late 1977, growth of M-1+ tended to fall
+
+below that of M-1. Table V-2 compares growth rates of M-1 and M-1+ over four-
+
+quarter policy periods, beginning in early 1975. During all but the two
+
+most recent policy periods, growth of M-1+ outpaced that of M-1, in some
+
+cases by about 6 percentage points-when market rates were relatively low.
+
+In the two most recent policy periods, however, growth in M-1+ dropped be-
+
+low that of M-1, reflecting the impact on savings deposits of increases in
+
+market yields during these periods. The lower portion of Table V-3 contains
+
+growth rates of M-1 and M-1+ for recent months.
+
+The public's demands for these alternative measures of money
+
+relative to GNP move inversely with their velocities, which are shown in
+
+Chart V-3. Velocities of both M-1 and M-1+ have trended upward over this
+
+
+
+V-7
+CHART V-2
+
+RATES OF GROWTH OF M-1 AND M-1+ AND SPREAD BETWEEN THE TREASURY
+BILL RATE AND PASSBOOK CEILING RATE
+
+(Quarterly average, seasonally adjusted at annual per cent rates)
+
+I
+I
+
+I1 I M-1+
+
+I I I
+
+I II I
+I I1 I
+
+S/vB
+
+'V'/
+-1" II
+
+I .
+I%
+
+I 1 I I I I 1 I I I I I
+
+Treasury Bill Rate Less Ceiling
+Accounts
+
+Rate on Passbook
+
+K-
+I I I I I I I I I I I
+
+196 196 197 197 197 197 
+1978I
+
+-4 0
+
+r-
+
+1976 19781970 1972 19741966 1968
+
+
+
+TABLE V-2
+
+Comparison of Growth Rates Over Four Quarter
+Policy Periods of M-1 and M-1+
+
+(Seasonally adjusted at annual per cent rates)
+
+Period
+
+QII'75 - QII'76
+
+QIII'75 - QIII'76
+
+QIV'75 - QIV'76
+
+QI76 - QI'77
+
+QII'76 - QII'77
+
+QIII'76 - QIII'77
+
+QIV'76 - QIV'77
+
+QI'77 - QI'78
+
+QII'77 - QII'78
+
+M1
+
+5.2
+
+4.6
+
+5.7
+
+6.3
+
+6.6
+
+7.8
+
+7.9
+
+7.5
+
+7.9
+
+M1+
+
+11.3
+
+10.5
+
+12.6
+
+12.3
+
+11.1
+
+11.2
+
+9.3
+
+7.1
+
+6.6
+
+Memo:
+M+ less M1
+
+6.1
+
+5.9
+
+6.9
+
+6.0
+
+4.5
+
+3.4
+
+1.4
+
+-.4
+
+-1.3
+
+
+
+TABLE V-3
+
+Rates of Growth of M-1 and M-1+
+(Seasonally adjusted at annual per cent rates)
+
+Memo:
+
+M1 M1+ 1+ less M
+
+Annual
+
+1976 5.7 12.6 6.9
+1977 7.9 9.3 1.4
+
+Quarterly
+Average
+
+1977 I 6.9 12.5 5.6
+II 8.1 8.5 .4
+III 8.1 8.0 -.1
+IV 7.5 6.8 -. 7
+
+1978 I 5.6 4.5 -1.1
+II 9.5 6.6 -2.9
+
+Monthly
+
+1978 January 10.3 8.8 -1.5
+February -0.7 0.2 .9
+March 3.5 2.3 -1.2
+April 19.0 13.4 -5.6
+May 8.0 5.5 -2.5
+June 5.9 3.1 -2.8
+July 5.5 1.7 -3.8
+August 7.8 8.1 .3
+
+
+
+V-10
+
+CHART V-3
+
+VELOCITIES OF ALTERNATIVE MEASURES OF MONEY
+(Quarterly)
+
+Velocity of M1
+
+_ Velocity of M
+
+I 1 I I I I I I I I I I
+1966 1968 1970 
+
+1972 1974 1976 1978
+
+_ 6.5
+
+-- 6.0
+
+-- 5.5
+
+-- 5.0
+
+-4 4.5
+
+-J 4.0
+
+-4 3.5
+
+-4 3.0
+
+2.5
+
+S0
+
+mmm m
+
+Velocity of Mj+
+
+1972 1974 1976 19781966 1968 1970
+
+
+
+V-ll
+
+period, as the public has tended to economize on its holdings of these
+
+balances relative to GNP. In addition, both velocities have displayed
+
+movement around their respective trends, in part related to the interest
+
+rate cycle. However, during the years 1975 and 1976 M-1 velocity rose at
+
+an unusually fast pace-at a time when the spread of cash management
+
+techniques along with changes in regulatory policy depressed M-1 growth.
+
+In contrast, movements in M-1+ velocity appear to have been dominated by
+
+relatively low rates of interest in these years.
+
+Econometric evidence on the demand for M-1+ indicates a rea-
+
+sonably close relationship between the demand for this aggregate and
+
+income and interest rates. While automatic transfers are likely to alter
+
+the demand relationships for both M-1 and M-1+, it is believed that the
+
+overall demand for M-1+ will be much less affected during the transition
+
+period, as the principal changes in the behavior of this aggregate are
+
+likely to be compositional. During this transition period, M-1+ is likely
+
+to be more predictable, based on historical relationships, than M-1
+
+Data on M-1+ are available weekly and involve about the same
+
+amount of estimation as for M-1. While Board staff has had no experience
+
+in projecting this new aggregate, no special problems are anticipated
+
+over and above those that would be encountered in projecting M-1 and M-2.
+
+
+
+Chart I
+
+Money Market Conditions and Interest Rates
+
+MONEY MARKET CONDITIONS Per cent INTEREST RATES Short-term Per cent
+Weekly Averages Weekly Averages 
+
+10
+
+8
+
+9
+
+FEDERAL FUNDS RATE 7
+
+8
+
+EURO-D LLARS
+
+F.R. DISCOUNT RATE 6 3-Month
+
+- 7
+
+9/15/78
+
+INTEREST RATES Long-term Per cent
+--_-.. I - 11i
+
+1977 19781977 1978 1977 1978
+
+
+
+Chart II
+CONFIDENTIAL (FR)
+
+Class II-FOMC
+9/15/78Actual and Projected Reserves
+
+TOTAL
+
+NONBORROWED
+
+Billions of dollars
+38
+
+-37
+
+-36
+
+I I I I i I I i
+
+MONTHLY GROV
+
+1 J t
+
+I I i I I I
+
+Annual rate, per cent
+
+WTH RATES
+- 20
+
+TOTAL
+
+II
+II
+
+U 0
+
+I
+
+NONBORROWED
+
+II I I I I I I I I I I I I I I 1 2 0
+J F MA M J J A S ON D J F MA M J J A S ON D
+
+1977 1978
+
+11111111111 (IIIIII IIII
+
+
+
+Table 1
+
+MONETARY AGGREGATES
+ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
+
+CONFIDENTIAL (FR)
+CLASS II-FOMC
+
+SEPT. 15, 1978
+
+Money Stppi Total Time & Savings Depeslts Nondeposit
+Period Narrow Broad US. Govt. T thr than CD's Sources of
+
+(M1 I (M2) I Deposits 1/ Totl avins Other C's Funds 2/
+-_ud - _
+
+MONTHLY LEVELS-$BIL
+
+1978--JUNE
+JULY
+AUG.
+SEPT.
+
+I ANNUAL GROWTH
+
+QUARTERLY
+
+1978--15T QTR.
+2ND OTR.
+3RD QTR.
+
+QUARTERLY-AV
+
+1978--1ST QTR.
+2ND QTR.
+3RD QTR.
+
+MONTHLY
+
+1978--JUNE
+JULY
+AUG.
+SEPT.
+
+AUG.-SEPT.
+
+WEEKLY LEVELS-$OIL
+
+1978-AUG. 2
+9
+
+16
+23 P
+30 P
+
+SEPT.- 6 P
+
+350.3
+351.9
+354.2
+(357.2)
+
+4.4
+11.0
+
+, 7.91
+
+5.6
+9.5
+6.9
+
+5.9
+5.5
+7.8
+
+10.21
+
+9.0)
+
+353.2
+354.0
+355.0
+354.7
+352.6
+
+357.3
+
+840.5
+846.5
+853.9
+(862.5)
+
+6.6
+9.1
+
+( 10.51
+
+6.9
+8.3
+
+t 9.21
+
+7.8
+8.6
+10.5
+12.1)
+
+11.3)
+
+849.9
+852.1
+854.2
+855.2
+854.5
+
+860.4
+
+11.3
+14.2
+14.9
+
+1 13.7)
+
+14.2
+13.8
+14.4
+15.7
+16.0
+
+14.5
+
+576.8
+582.0
+586.1
+(593.1)
+
+13.0
+9.9
+
+S11.31
+
+13.4
+11.0
+
+( 10.3)
+
+6.7
+10.8
+8.5
+14.3)
+
+11.4)
+
+583.6
+584.5
+585.3
+586.7
+588.5
+
+590.7
+
+490.1
+494.6
+499.8
+
+(505.31
+
+8.2
+7.7
+
+( 12.41
+
+7.9
+7.4
+
+( 10.8)
+
+8.9
+11.0
+12.6
+13.21
+
+13.01
+
+496.8
+498.2
+499.3
+500.5
+501.9
+
+503.1
+
+221.7
+220.9
+222.5
+(224.4)
+
+2.6
+1.3
+4.9)
+
+2.6
+1.6
+
+1 1.4)
+
+-1.6
+-4.3
+8.7
+
+10.2)
+
+9.5)
+
+221.0
+221.4
+222.2
+222,9
+223.2
+
+223.7
+
+268.4
+273.8
+277.3
+
+(281.0)
+
+13.2
+13.1
+
+( 18.8)
+
+12.7
+12.3
+
+L 18.9)
+
+17.7
+24.1
+15.3
+16.0)
+
+15.8)
+
+275.8
+276.7
+277.1
+277.6
+278.7
+
+279.4
+
+86.7
+87.4
+86.3
+
+( 87.8)
+
+43.2
+22.9
+
+1 5.1)
+
+50.0
+
+32.8
+7.0)
+
+-5.5
+9.7
+
+-15.1
+
+20.9)
+
+2.7)
+
+86.8
+86.3
+86.0
+86.1
+86.6
+
+87.5
+
+69.2
+69.2
+71.5
+
+69.8
+72.0
+69.4
+71.3
+72.9
+
+NOTE: DATA SHOWN IN PARENTHESES ARE CURRENT PROJECTIONS. P - PRELIMINARY
+1/ INCLUDES TREASURY DEPOSITS AT MEMBER BANKS AND FEDERAL RESERVE BANKS.
+2/ INCLUDES BORROWINGS FROM OTHER THAN COMMERCIAL BANKS IN THE FORM OF FEDERAL FUNDS PURCHASED, SECURITIES SOLO UNDER AGREE-
+
+MENTS TO REPURCHASE, AND OTHER LIABILITIES FOR BORROMED MONEY. PLUS GROSS LIABILITIES TO oWN FOREIGN BRANCHES
+
+
+
+Table 1-A
+
+TIME AND SAVINGS DEPOSITS AT ALL COMMERCIAL BANKS
+SEASONALLY ADJUSTED EXCEPT AS NOTED
+
+CONFIDENTIAL (FR)
+CLASS II-FOMC
+
+SEPT. 15, 1978
+
+Total Savings Deposits Time Deposits
+
+Period Individual r Memo Largeerod an Total Invidual Business Government Total Large Small Negotiable CD's
+Savings Nonprofit (NSA) (NSA) Denomination DenominationI Nonprofit SA) (NSA) IDenomination Denomination
+
+OUTSTANDING ($ BILLIONS)
+
+1977-DEC.
+1978--JAN.
+
+FEB.
+MAR.
+APR.
+MAY
+JUNE
+JULY
+AUG.
+
+CHANGES I$ BILLIONS)
+
+1977 YEAR
+
+QUARTERLY AVERAGEs
+
+1977-11
+III
+IV
+
+1978--1
+II
+
+MONTHLY AVERAGE:
+
+1978--JAN.
+FEB.
+MAR.
+APR.
+MAY
+JUNE
+JULY
+AUG.
+
+545.2
+551.0
+557.5
+562.9
+566.8
+573.6
+576.8
+582.0
+586.1
+
+10.4
+13.1
+17.1
+
+18.0
+15.3
+
+5.8
+6.5
+5.4
+3.9
+6.8
+3.2
+5.2
+4.1
+
+219.6
+220.7
+220.9
+221.0
+221.6
+222.0
+221.7
+220.9
+222.5
+
+17.7
+
+4.6
+3.9
+2.9
+
+1.4
+0.9
+
+1.1
+0.2
+0.1
+0.6
+0.4
+
+-0.3
+-0.8
+
+1.6
+
+204.2
+205.2
+205.4
+205.6
+206.4
+206.7
+206.3
+206.2
+207.9
+
+16.9
+
+4.1
+4.7
+3.3
+
+1.2
+1.1
+
+1.0
+0.2
+0.2
+0.8
+0.3
+
+-0.4
+-0.1
+
+1.7
+
+10.8
+10.5
+10.4
+10.4
+10.4
+10.5
+10.6
+10.5
+10.6
+
+2.3
+
+0.6
+0.4
+0.3
+
+-0.3
+0.1
+
+-0.3
+-0.1
+
+0.0
+0.0
+0.1
+0.1
+
+-0.1
+0.1
+
+4.5
+5.0
+5.2
+5.0
+4.9
+4.7
+4.8
+4.2
+3.9
+
+-1.6
+
+-0.2
+-1.2
+-0.6
+
+0.4
+-0.3
+
+0.5
+0.2
+
+-0.2
+-0.1
+
+-0.2
+0.1
+
+-0.6
+-0.3
+
+325.7
+330.3
+336.6
+342.0
+345.2
+351.6
+355.1
+361.2
+363.6
+
+37.9
+
+5.7
+9.2
+
+14.2
+
+16.7
+14.3
+
+4.6
+6.3
+5.4
+3.2
+6.4
+3.5
+6.1
+2.4
+
+160.6
+164.1
+170.1
+173.7
+175.4
+180.5
+182.0
+186.5
+188.0
+
+23.9
+
+-0.7
+5.9
+
+12.7
+
+14.2
+
+10.0
+
+3.5
+6.0
+3.6
+1.7
+5.1
+1.5
+4.5
+1.5
+
+165.0
+166.2
+166.5
+168.2
+169.7
+171.1
+173.1
+174.7
+175.6
+
+13.9
+
+6.6
+3.3
+1.4
+
+2.5
+4.3
+
+1.2
+0.3
+1.7
+1.5
+1.4
+2.0
+1.6
+0.9
+
+74.0
+76.3
+79.4
+82.0
+83.4
+87.1
+86.7
+87.4
+86.3
+
+11.3
+
+-0.3
+0.7
+7.1
+
+8.8
+6.5
+
+2.3
+3.1
+2.6
+1.4
+3.7
+
+-0.4
+0.7
+
+-1.1
+
+A~ I . _ _ _ _
+NOTE: COLUMNS (1)l (2) AND (9) ON
+AGGREGATES. FIGURES IN COLUMNS (11
+DERIVED FROM DATA REPORTED BY SMALL
+GOVERNMENTAL UNITS-COLUMNS (4) AND
+WEDNESDAY BY LARGE COMMERCIAL BANKS
+SHIPS.
+
+THIS TABLE CORRESPOND TO COLUMNS (4), (6), AND (8), RESPECTIVELY, ON TABLE 1-MONETARY
+, (21, AND (61 REFLECT DAILY DATA REPORTED BY MEMBER BANKS, WITH ESTIMATES FOR NONMEMBER BANKS
+MEMBER BANKS BENCHMARKED TO NONMEMBER CALL REPORT FIGURES. SAVINGS DEPOSITS OF BUSINESS AND
+(5)-- AND LARGE DENOMINATION TIME DEPOSITS -COLUMN (7)-REFLECT BREAKDOWNS REPORTED EACH
+BLOWN UP TO REPRESENT DEPOSITS AT ALL COMMERCIAL BANKS ON THE BASIS OF CALL REPORT RELATION-
+
+
+
+TABLE 2
+
+BANK RESERVES
+ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
+
+CONFIDENTIAL (F.R.)
+CLASS II-FOMC
+
+SEPT. 15, 1978
+
+SANK RESERVES _REQUIRED RESERVES
+
+Period Total Nonborrowed Monetary Total Private Total Time Gov't. and
+Reserves Reserves Base Required Demand Deposits Interbank
+
+1 2 3 4 5 6 7
+
+MONIHLY LEVELS-SMILLIONS
+
+1978-JUNE
+JULY
+AUG.
+SEPT.
+
+PERCENT ANNUAL GROWTH
+
+QUARTERLY
+
+1978-1ST QTR.
+2ND QTR.
+3RD QTR.
+
+QUARTERLY-AY
+
+1978-1ST QTR.
+2ND QTR.
+3RD QTR.
+
+MONTHLY
+
+1978-JUNE
+JULY
+AUG.
+
+SEPT.
+
+AUG.-SEPT.
+
+WEEKLY LEVELS-MNILLIONS
+
+1978-AU. 2
+9
+
+16
+23
+30
+
+SEPT. 6
+13
+
+37,726
+38,190
+37,921
+(38, 35)
+
+5.8
+11.6
+
+( 4.3)
+
+8.5
+6.3
+
+( 8.2)
+
+14.7
+14.8
+-8.5
+
+( 6.8)
+
+( -0.9)
+
+37,995
+37,735
+38,127
+37,609
+38,136
+
+38,313
+38,079
+
+36,632
+36,873
+36,782
+(37,160)
+
+8.6
+3.2
+
+( 5.8)
+
+14.5
+
+0.4
+( 6.31
+
+19.2
+7.9
+
+-3.0
+( 12.3)
+
+( 4.71
+
+36,557
+36 857
+37,164
+36 003
+37 116
+
+37,149
+37,569
+
+133,873
+134,831
+135,324
+
+(136,561)
+
+7.9
+10.4
+
+I 8.0
+
+9.6
+8.0
+
+S 8.9)
+
+11.0
+8.6
+4.4
+
+( 11.0)
+
+( 7.71
+
+134,991
+134,628
+135,364
+135,187
+136,051
+
+136,467
+136,483
+
+37,548
+37,993
+37,744
+(37,889)
+
+5.7
+11.8
+
+( 3.6)
+
+8.3
+7.0
+8.0)
+
+16.2
+14.2
+-7.9
+
+4.6)
+
+-1.61
+
+371642
+37,720
+37,804
+37,618
+37,832
+
+37,958
+37,815
+
+22,151
+22,217
+22.333
+(22,424)
+
+-1.1
+13.7
+
+I 4.9)
+
+3.6
+5.0
+
+1 8.21
+
+14.7
+3.6
+6.3
+
+1 4.91
+
+( 5.6)
+
+22,153
+22,308
+22,371
+22,265
+22,430
+
+22,403
+22,228
+
+a i & 5 h &
+
+13,575
+
+13,613
+13,625
+(13,724)
+
+12.9
+10.1
+
+4 4.4)
+
+12.8
+
+11.5
+( 6.6)
+
+13.1
+3.4
+1.1
+8.7)
+
+4.9)
+
+13,672
+13,651
+13,641
+13,606
+13,589
+
+13,620
+13,696
+
+1,823
+2.164
+1,786
+
+( 1,741)
+
+1t817
+1,762
+1,792
+1,747
+1,813
+
+1,934
+1,891
+
+NOTE: RESERVE SERIES HAVE BEEN ADJUSTED TO REMOVE DISCONTINUITIES ASSOCIATED WITH
+
+DATA SHOWN IN PARENTHESES ARE CURAFNT PROJIETlfTNS.
+
+CHANGES IN RESERVE REQUIREMENT RATIO.
+
+
+
+TABLE 3
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1/
+
+($ million, not seasonally adjusted)
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS II - FOMC
+
+SEPTEMBER 15, 1978
+
+Treasury Treasury Coupons Federal Agencies Net Change Net
+Bills Net Net Purchases 3/ Net Purchases 4/ Outright RPs
+
+Wi
+h
+
+in 1 5 5ver 10 To within Holdings RChange 2/ t - 5 5 - 10 Over 10 Total I1hi - 5 5 - 10 ver 10 Total olg6/
+C1 year Total 5/ -
+
+1977--Qtr. II
+Qtr. II;
+Qtr. IV
+
+1978--Qtr. I
+Qtr. II
+
+1978--Mar.
+
+-490
+7,232
+1,280
+
+-468
+863
+
+4,361
+
+2,126
+886
+186
+
+789
+579
+797
+
+3,284
+3,025
+2,833
+
+526
+681
+628
+
+539
+500
+434
+
+1,510
+1,048
+
+758
+
+171
+96
+
+166
+
+167
+129
+196
+
+1,070
+642
+553
+
+152
+128
+108
+
+1,582
+
+1,415
+
+1,747
+
+6,202
+
+5,187
+
+4,660
+
+959
+1,021
+
+1,001
+
+-2,655 345 1,123 459 247 2,175
+5,444 288 1,156 468 334 2,246
+
+668 288 813 370 147 1,618
+
+1,670
+-620
+4,395
+
+592
+400
+
+1,665
+824
+469
+792
+
+1,059
+864
+
+3,082
+1,613
+
+891
+1,433
+
+726
+
+707
+
+1,631
+
+9,273
+6,303
+
+7,267
+6,227
+
+10,035
+
+3,666
+
+4,273
+
+-643
+
+---- 
+-- -- -- -555
+
+46 127 104 24 301 7,930
+
+S - - - 2,233
+
+671
+519
+
+1,057
+
+235 -- -- -- - - -- -- - - -
+
+283 171 424 238 113 947 -92 -81 -- -- -173
+
+1978--July 5
+12
+19
+26
+
+Aug, 2
+9
+16
+23
+30
+
+2,341
+-135
+
+5,724
+
+231
+1,043
+
+-- -- -- -- -- -- -- -- -- -- 1,263
+-- -- -- -- -- -- -- -- -- -- -196
+
+- -- -- - - - - - - - 532
+-- -- -- -- -- -- -- -- -- -- 165
+
+-6
+-863
+461
+
+1,241
+209
+
+-1,358
+-46
+
+-154
+1,272
+3,607
+
+-2,892
+
+4,175
+-2,331
+
+34
+
+-1,133
+1,224
+
+1,874
+
+-1,026
+-699
+
+2,950
+
+-2,536
+1,701
+
+-10,119
+7,080
+3,024
+
+-9,587
+
+6,760
+-4,641
+
+3,445
+3,056
+-373
+
+Sept. 6
+13
+20
+27
+
+---- 
+-- -- -- -- ----- 6 -7,473
+
+-- -- -- -- -- -- -- -- -22 2,869
+
+LEVEL--Sept. 13 46.2 10.5 31.0 13.5 9.7 64.7 1.9 3.6 1.6 .9 8.0 118.9 -1.9
+(in billions)
+1/ Change from end-of-period to end-of-period.
+
+/ Outright transactions in market and with foreign accounts, and redemptions (-) in bill auctions.
+3/ Outright transactions in market and with foreign accounts, and short-term notes acquired in exchange for maturing bills. Excludes redemptions, maturity
+
+shifts, rollovers of maturing coupon issues, and direct Treasury borrowing from the System.
+
+4/ Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity shifts.
+/ In addition to net purchases of securities, also reflects changes in System holdings of bankers' acceptances, direct Treasury borrowings from the
+
+System, and redemptions (-) of Agency and Treasury coupon issues.
+6/ Includes changes in both RP's (+) and matched sale-purchase transactions (-).
+
+
+
+TABLE 4
+SECURITY DEALER POSITIONS AND BANK POSITIONS
+
+(millions of dollars)
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS II - FOMC
+SEPTEMBER 15, 1978
+
+U.S. Govt. Security Underwriting Member Bank Reserve Positions
+Dealer Positions Syndicate Positions Excess** Borrowing at FRB** Basic Reserve Deficit**
+
+Bills ssou ondate Munipal Reserves Total Seasonal 8 New York 38 OthersIssues Bonds Bonds
+
+295 487 513
+0 116 -111
+
+215 349 719
+0 123 -227
+
+1,861
+20
+
+1,716
+172
+
+71 199 200 1,084
+128 230 209 626
+
+1977--High
+
+Low
+
+1978--High
+
+Low
+
+1977--Aug.
+Sept.
+
+Oct.
+
+Nov.
+Dec.
+
+1978--Jan.
+
+Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+
+1978--July 5
+12
+19
+26
+
+Aug. 2
+9
+16
+23
+30
+
+Sept. 6
+13
+20
+27
+
+7,234
+1,729
+
+5,625
+278
+
+2,533
+4,812
+
+4,142
+3,617
+4,257
+
+4,127
+3,418
+2,713
+
+3,183
+1,203
+2,847
+
+1,196
+*1,994
+
+730
+1,038
+626
+
+2,084
+
+1,595
+1,928
+1,956
+*1,941
+*2,087
+
+*2,338
+*3,086
+
+3,017
+-1,445
+
+2,043
+-1,076
+
+-933
+-313
+
+-360
+610
+804
+
+327
+1,492
+
+740
+
+-183
+5
+78
+
+-626
+*423
+
+-96
+-661
+
+-1,076
+-432
+
+-301
+1,382
+400
+
+*-305
+*462
+
+*352
+*455
+
+1,305
+
+863
+570
+
+484
+406
+328
+
+557
+1,212
+
+1,094
+
+1,317
+1,139p
+
+1,193
+903
+
+1,589
+1,462
+
+1,438
+878
+963
+
+1,606
+
+1,020p
+
+1,164p
+
+510p
+
+131 -9,151
+8 -4,234
+
+196 -8,224
+25 -2,839
+
+102 -5,581
+112 -7,333
+
+112 -6,480
+83 -6,971
+55 -7,403
+
+32 -6,047
+49 -4,980
+47 -6,778
+
+44 -6,196
+92 -4,038
+
+120 -4,514
+
+143 -3,651
+189p -4,788p
+
+140 -3,659
+130 -4,707
+134 -3,693
+152 -2,839
+
+166 -3,242
+175 -5,145
+184 -5,946
+196 -4,567
+20
+
+8
+p -3,969
+
+186p -
+4
+,5
+
+41
+p
+
+174p -5,753p
+
+NOTE: Government security dealer trading positions are on a commitment basis. Trading positions, which exclude Treasury securities
+financed by repurchase agreements maturing in 16 days or more, are indicators of dealer holdings available for sale over the near-term.
+Underwriting syndicate positions consist of issues still in syndicate, excluding trading positions. The basic reserve deficit is excess
+reserves less borrowing at Federal Reserve less.net Federal funds purchases. Weekly data are daily averages for statement weeks, except
+for corporate and municipal issues in syndicate which are Friday figures.
+
+* Strictly confidential.
+** Monthly averages for excess reserves and borrowings are weighted averages of statement week figures.
+
+51 159 197
+34 176 176p
+
+23p 
+135
+
+p
+75
+p 56p
+
+719
+-227
+372
+-37
+
+353
+15
+
+323
+-9
+304p
+
+305p
+212p
+
+-13,975
+- 8,206
+
+-14,602
+- 8,273
+
+-11,452
+-11,120
+
+-11,511
+-11,825
+-11,350
+
+-12,299
+-12,603
+-11,060
+
+-12,998
+-11,653
+-12,202
+
+-10,204
+-11,060p
+
+- 8,273
+-11,699
+-10,261
+-10,110
+
+-10,095
+-11,433
+-10,999
+-11,768
+-10,364
+
+-10,735p
+-13,235p
+
+
+
+TABLE 5
+SELECTED INTEREST RATES
+
+(per cent)
+
+1977--High
+Low
+
+1978--High
+Low
+
+1977--Aug.
+Sept.
+
+Oct.
+Nov.
+Dec.
+
+1978--Jan.
+Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+
+1978--July 5
+12
+19
+26
+
+Aug. 2
+9
+16
+23
+30
+
+Sept. 6
+13
+20
+27
+
+Daily--Sept. 7
+14
+
+Federal
+Funds
+
+(1)
+
+6.65
+4.47
+
+8.33
+6.58
+
+5.90
+6.14
+
+6.47
+6.51
+6.56
+
+6.70
+6.78
+6.79
+
+6.89
+
+7.36
+7.60
+
+7.81
+8.04
+
+7.72
+7.72
+7.94
+
+7.88
+
+7.89
+7.83
+
+7.87
+8.14
+8.28
+
+8.30
+8.33
+
+Short-Term
+
+8.27 7.59 7.85
+8 .3 6 p 7.77 7.95
+
+Bank U.S. Govt.-Constant Corp
+Prime Maturity Yields Uti
+
+S 3 7 NewRate 3-yr 7-yr 20-yr ,sue
+Issue
+
+CD's New Corm.Treasury Bills CDs uNew Comm
+Issue- Paper
+
+Market Auction NYC 90-119
+3-mo 1-yr 6-mo 90-Day Day
+(2) (3) (4) (5) (6)
+
+6.27 6.62 6.51 6.70 6.66
+4.41 4.67 4.56 4.50 4.63
+
+7.70 7.91 7.79 8.34 8.30
+6.16 6.55 6.42 6.65 6.68
+
+5.49 5.97 5.81 5.78 5.75
+5.81 6.13 5.99 6.01 6.09
+
+6.16 6.52 6.41 6.53 6.51
+6.10 6.52 6.43 6.56 6.54
+6.07 6.52 6.38 6.65 6.61
+
+6.44 6.80 6.68 6.82 6.75
+6.45 6.86 6.74 6.77 6.76
+6.29 6.82 6.64 6.73 6.75
+
+6.29 6.96 6.70 6.84 6.82
+6.41 7.28 7.02 7.20 7.06
+6.73 7.53 7.20 7.66 7.59
+
+7.01 7.79 7.47 8.00 7.85
+7.08 7.73 7.36 7.86 7.83
+
+6.99 7.74 7.45 8.00 7.78
+7.15 7.79 7.52 8.00 7.84
+7.08 7.80 7.50 8.00 7.88
+6.95 7.84 7.43 8.00 7.88
+
+6.78 7.71 7.36 7.88 7.81
+6.76 7.56 7.17 7.85 7.78
+6.96 7.68 7.26 7.85 7.76
+7.25 7.83 7.47 7.80 7.85
+7.35 7.82 7.55 7.90 7.93
+
+7.60 7.86 7.74 8.00 8.07
+7.70 7.91 7.79 8.34 8.30
+
+(7)
+
+7.75
+6.25
+
+9.25
+
+7.75
+
+6.83
+
+7.13
+
+7.52
+
+7.75
+7.75
+
+7.93
+8.00
+8.00
+
+8.00
+8.27
+8.63
+
+9.00
+
+9.01
+
+8.96
+9.00
+9.00
+9.00
+
+9.00
+9.00
+9.00
+9.00
+9.00
+
+9.25
+9.25
+
+(8)
+
+7.39
+5.83
+
+8.56
+
+7.40
+
+6.79
+6.84
+
+7.19
+7.22
+7.30
+
+7.61
+7.67
+7.70
+
+7.85
+8.07
+8.30
+
+8.54
+
+8.33
+
+8.51
+8.56
+
+8.55
+8.55
+
+8.36
+8.21
+8.37
+8.35
+8.37
+
+8.35
+8.34p
+
+(9)
+
+7.70
+6.59
+
+8.57
+7.72
+
+7.24
+
+7.21
+
+7.44
+7.46
+7.59
+
+7.86
+
+7.94
+7.95
+
+8.06
+8.25
+
+8.40
+
+8.55
+8.38
+
+8.52
+
+8.57
+
+8.56
+8.55
+
+8.40
+8.32
+8.43
+8.36
+8.39
+
+8.35
+8.32p
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS II - FOMC
+SEPTEMBER 15, 1978
+
+Long-Term
+.-Aaa
+lity
+Recently
+Offered
+
+(12)
+
+8.48
+7.95
+
+9.22
+8.48
+
+8.05
+8.07
+
+8.22
+8.25
+8.38
+
+8.60
+8.67
+8.67
+
+8.85
+8.98
+9.07
+
+9.18
+
+8.91
+
+9.20
+9.22
+9.19
+9.10
+
+8.91
+8.89
+9.00
+8.87
+8.85
+
+8.79
+8.7
+
+2
+p
+
+Municipal Home Mortgages
+Bond rimarySecondary Market
+
+on -y FNMA GNMABuyer Cony. FNMA NA
+Auc. Sec.
+
+(13) (14) (15) (16)
+
+5.93 9.00 8.98 8.39
+5.45 8.65 8.46 7.56
+
+6.32 9.80 10.02 9.20
+5.58 8.98 9.13 8.43
+
+5.62 8.94 8.76 8.03
+5.51 8.90 8.74 8.02
+
+5.64 8.92 8.82 8.16
+5.49 8.92 8.86 8.19
+5.57 8.96 8.94 8.27
+
+5.71 9.02 9.17 8.56
+5.62 9.15 9.31 8.64
+5.61 9.20 9.35 8.60
+
+5.80 9.36 9.44 8.71
+6.03 9.57 9.66 8.90
+6.22 9.70 9.91 9.05
+
+6.28 9.74 10.01 9.15
+6.12 9.79 9.81 8.96
+
+6.31 9.73 -- 9.16
+
+6.32 9.73 10.02 9.14
+6.26 9.75 -- 9.14
+
+6.24 9.75 10.00 9.20
+
+6.12 9.78 -- 9.10
+6.03 9.78 9.82 8.89
+6.19 9.78 -- 9.00
+
+6.11 9.80 9.80 9.01
+6.16 9.75 -- 8.92
+
+6.13 9.75 9.78 8.92
+6.02 n.a. -- 8.89
+
+- - 8.19 9.25 8.34 8.35 8.39
+S 8.43 9.25 8 .34p 8.33p 8.
+
+3
+7p
+
+NOTE: Weekly data for columns 1, 2, 3, 6, and 7 are statement week averages of daily data. Weekly data in column 4 are average rates set in the auctions of 6-
+month bills that will be issued on the Thursday following the end of the statement week. Data in column 5 are 1-day Wednesday quotes. For columns 8 through 11,
+the weekly date is the mid-point of the calendar week over which data are averaged. Columns 12 and 13 are 1-day quotes for Friday and Thursday, respectively,
+following the end of the statement week. Column 14 is an average of contract interest rates on commitments for conventional first mortgages with 80 per cent
+loan-to-value ratios made by a sample of insured savings and loan associations on the Friday following the end of the statement week. Column 15 gives FNMA
+auction data for Monday preceding the end of the statement week. Column 16 is a 1-day quote for Monday preceding the end of the statement week. The FNMA
+
+auction yield is the average yield in bi-weekly auction for short-term forward commitments for Government underwritten mortgages. GNMA yields are average
+net yields to investors on mortgage-backed securities for immediate delivery, assuming prepayment in 12 years on pools of 30-year FHA/VA mortgages carrying
+the coupon rate 50 basis points below the current FHA/VA ceiling.
+
+(10)
+
+7.99
+7.26
+
+8.72
+8.01
+
+7.64
+
+7.57
+
+7.71
+7.76
+7.87
+
+8.14
+
+8.22
+8.21
+
+8.32
+8.44
+8.53
+
+8.69
+8.45
+
+8.68
+8.72
+8.69
+8.67
+
+8.49
+8.41
+8.52
+8.42
+8.43
+
+8.39
+8.36p
+
+(11)
+
+8.36
+7.90
+
+9.18
+8.61
+
+8.04
+8.07
+
+8.23
+8.28
+8.34
+
+8.68
+8.69
+8.71
+
+8.90
+
+8.95
+9.09
+
+9.14
+8.82
+
+9.18
+9.17
+9.12
+9.08
+
+8.90
+8.81
+
+8.80
+8.80
+
+8.77
+8.74p
+
+
+
+SEPT. 15, 1978
+
+Appendix Table 1-A
+MONEY AND CREDIT AGGREGATE MEASURES
+
+Sak Reserves reit Moey Stock Measures
+
+Total
+Period Loans
+
+Total Non. Monetary and MI M M3  M4  M5  M6  M7borrowed Base Invest-
+ments
+
+ANNUALLY:
+
+1975
+1976
+j177
+
+2/
+SEMI-ANNUALLY:
+
+15T hALF 1977
+2ND HALF 1977
+
+1ST hALF 197b
+
+QUARTEKLY:
+
+3RD UTR. 1977
+TnH QTR. 1977
+
+1ST 1ik. 1976
+2NO JTR. 1978
+
+UUARTERLY-AV:
+
+3RD QOl. 1977
+47H o-x. 1977
+
+1ST UTK. 1976
+2NO TR. 1V76
+
+MONTHLY:
+
+1977--AU(G.
+SEPT.
+UCT.
+NOV.
+UEL.
+
+1978--JAN.
+FEB.
+MAR.
+APR.
+MAY
+JUNE
+JULY
+AUG. P
+
+1 2
+
+3.2
+1.2
+2.7
+
+2.9
+2.6
+
+7.4
+
+3.9
+7.8
+
+8.6
+3.2
+
+1.7
+3.4
+
+14.5
+0.3
+
+-17.6
+15.9
+
+-13.4
+20.9
+
+16.1
+
+1.8
+
+-11.4
+19.4
+
+8.0
+-3.1
+
+5.9
+7.0
+8.3
+
+7.3
+9.0
+
+8.9
+
+9.3
+9.6
+
+7.9
+10.4
+
+8.8
+9.1
+
+9.7
+8.0
+
+8.3
+8.1
+
+10.0
+8.0
+
+10.4
+
+13.6
+6.9
+3.0
+7.0
+
+12.0
+11.1
+8.6
+4.4
+
+3.9
+8.0
+
+11.3
+
+11.3
+10.7
+
+11.4
+
+10.3
+9.5
+
+9.5
+13.5
+
+11.1
+
+9.6
+
+13.0
+
+10.5
+7.2
+
+12.9
+9.2
+6.3
+
+13.6
+7.9
+6.9
+
+18.5
+15.6
+6.0
+
+16.7
+5.2
+
+5 6 7
+ER CENT ANNUAL RATES OF GROWTH)
+
+I I
+
+10.9
+9.6
+
+10.1
+9.1
+
+7.4
+
+10.1
+7.2
+
+-0.3
+1.0
+5.2
+
+3.5
+o.8
+
+7.5
+
+8.1
+7.0
+
+5.8
+11.6
+
+7.3
+6.1
+
+b.5
+6.3
+
+7.7
+0.7
+9.8
+5.2
+5.9
+
+15.4
+10.6
+-0.0
+
+9.3
+10.0
+15.0
+14.9
+-8.6
+
+8 9
+
+6.6
+7.1
+
+10.1
+
+9.4
+10.3
+
+10.3
+
+9.6
+11.5
+
+9.6
+10.0
+
+9.5
+10.8
+
+10.3
+10.1
+
+7.7
+9.2
+
+12.4
+11.a
+
+9.9
+
+11.6
+8.5
+
+B.3
+11.9
+11.2
+
+6.6
+8.2
+8.0
+
+10.5
+9.9
+
+11.5
+
+10.2
+12.2
+
+9.5
+
+12 .6
+11.9
+
+9.1
+9.3
+
+12.6
+
+10.0
+8.9
+
+12.4
+12 .4
+13.7
+12.0
+9.7
+
+11.5
+8.0
+7.5
+9.L
+9.9
+8.7
+8.0
+
+10.4
+
+10.1
+10.0
+12.1
+
+10.7
+12.7
+
+10.4
+
+12.6
+13.2
+
+10.2
+9.3
+
+11.8
+13.3
+
+11.3
+9.3
+
+12.4
+12.1
+14.4
+13.5
+11.2
+
+12.7
+9.3
+8.6
+9.6
+9.7
+8.5
+7.8
+
+10.2
+
+1/ bAStLd ON UATA ADJUSTED FOR CHANGES IN RESERVE REQUIREMENTS.
+2/ BASbD ON QUARTERLY AVERAGE DATA.
+P - PRELIMINARY
+
+9.9
+8.1
+
+6.9
+7.9
+
+7.7
+9.0
+9.5
+6.0
+
+6.1
+
+9.5
+4.7
+5.1
+
+11.2
+7.1
+7.8
+1.0
+
+10.4
+
+
+
+Appendix Table 1-B
+
+MONEY AND CREDIT AGGREGATE MEASURES
+SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
+
+SEPT. 15, 1978
+
+BoLk Roserves 1 ek Credft Maey <to"ik I**ureo
+
+Period Totaleiod Non Monetary Loans
+Total borrowed ase and M M2  M3  M4 M5 M6 M7
+
+Invest-
+ments
+
+ANNUALLY:
+
+1976
+1977
+
+MONiHLY*
+
+1977--AUb.
+SEPT.
+
+OCT.
+NOV.
+bjfC.
+
+1978--JAN.
+FEd.
+MAk.
+
+APR.
+MAY
+JUNE
+
+JULY
+AUb. P
+
+WEEKLY:
+
+1978-JULY 12
+19
+20
+
+AUb. 2
+9
+
+16
+21
+30P
+
+SEPT. b P
+
+33,969
+34,441
+36,143
+
+35,500
+35,520
+
+35,909
+35,965
+36, 143
+
+36,008
+3o,931
+36,667
+
+36,951
+
+37,20
+37,726
+
+38,194
+37,920
+
+37,198
+39,244
+37, 60
+
+37,993
+37,723
+38,122z
+37,118
+38,140
+
+38,309
+
+33,639
+34,3b8
+35.574
+
+34,439
+34,894
+
+34,503
+35,103
+35,574
+
+j6, 124
+36,525
+36,339
+
+36,394
+6,048
+36,632
+
+3,1677
+369781
+
+36,295
+
+36,398
+
+36,555
+36,845
+37,159
+36,012
+37,120
+
+37,145
+
+110,345
+118,063
+1i7,972
+
+124,154
+124,987
+
+126,06
+126,871
+127,972
+
+129,417
+130,156
+130,484
+
+131,334
+132,647
+133,873
+
+134,835
+135,324
+
+133,761
+135,848
+134,673
+
+134,989
+134,616
+135,360
+135,196
+136,055
+
+136,465
+
+126.2
+788.9
+875.5
+
+850.0
+855.1
+
+864.3
+870.9
+875.5
+
+885.4
+891.2
+896.7
+
+910.5
+922.3
+926.9
+
+939.b
+943.9
+
+295.2
+313.5
+338.5
+
+330.5
+333.0
+
+335.9
+336.2
+338.5
+
+341.7
+341.8
+342.9
+
+348.5
+350.6
+352.6
+
+354.2
+356.8
+
+354.6
+351.9
+354.6
+
+355.2
+356.7
+357.5
+357.4
+355.5
+
+361.3
+
+664.7
+740.5
+809.5
+
+789.2
+795.1
+
+601.4
+805.4
+809.5
+
+815.9
+819.1
+822.6
+
+830.3
+635.2
+840.6
+
+846.2
+853.5
+
+845.6
+843.7
+847.6
+
+849.2
+852.0
+853.8
+654.9
+854.3
+
+861.2
+
+1092.5
+1236.5
+1376.1
+
+1331.3
+1344.9
+
+1357.9
+1367.1
+1376.1
+
+1386.6
+1393.1
+1400.3
+
+1411.4
+1419.9
+1429.8
+
+1440.9
+1454.9
+
+746.1
+803.2
+883.5
+
+852.4
+858.9
+
+867.8
+d76.3
+883.5
+
+892.2
+898.5
+904.7
+
+913.7
+922.2
+927.3
+
+933.6
+939.8
+
+933.3
+931.5
+934.9
+
+936.0
+938.3
+939.
+941.0
+940.8
+
+948.7
+
+1173.8
+1299.2
+1450.1
+
+1394.5
+1408.7
+
+1424.3
+1438.0
+1450.1
+
+1462.9
+1472.5
+1482.3
+
+1494.9
+1506.9
+1516.5
+
+1528.3
+1541.2
+
+1308.0
+1437.6
+1603.4
+
+1541.2
+1557.1
+
+1574.9
+1590.6
+1603.4
+
+1618.7
+1629.5
+1639.7
+
+1652.3
+1665.9
+1678.0
+
+1689.2
+1703.9
+
+1351.0
+1485.0
+1666.6
+
+1597.5
+1613.6
+
+1633.0
+1651.4
+1666.8
+
+1664.4
+1697.4
+1709.5
+
+1723.2
+1737.1
+1749.4
+
+1760.8
+1775.7
+
+.. . - A - __
+
+NOTES: wEEKLY DATA AKE UAILY AVERA6ES FOR STATEMENT WEEKS. MONTHLY DA1A ArE DAILY AVERAGES. WEEKLY DATA ARE NOT AVAILABLE FOR
+MS, M5, Mb, M7, TOTAL LOANS AND INVESTMtNTS AND THRIFI INSTITUTIUN DEPOSITS.
+
+I/ BAS1U UN DATA ADJUSTED FUR CHANGES IN RESERVE REQUIREMENTS. DATA SrHUWN IN MILLIONS OF DOLLARS.
+P - PRELIMINARY
+
+
+
+APPENDIX TABLE 2-A SEPT. 15, 1978
+
+COMPONENTS OF MONEY STOCK AND RELATED MEASURES
+
+Time and Savings Deposits Mutual Other
+Demand Oh- Savings Credit s Short Term Private
+
+Period Currency Demand TOther Than CD's Bank & Union S'ings U.S.Gov't Short-termDeposits Total r CD' S&L Shares Bonds Securities Assets
+Total Savings Othr Shares- / 1 /
+
+1 2 3 4 5 6 7 8 9 10 11 12
+2/ (Cr ca am mea reates f gre tb)
+
+ANNUALLY:
+
+1975 8.9 3.3 7.9 11.7 17.5 7.8 -6.4 15.3 19.5 6.2 33.8 -0.7
+976 9.6 4.b 8.0 15.0 25.0 7.4 -23.4 15.5 18.8 6.9 5.5 13.9
+1977 9. 7.4 11.4 11.2 11.1 11.4 12.8 14.2 19.4 6.b 12.3 27.5
+
+SEMI-ANNUALLY:
+
+IT1 HALF 1977 8.7 7.4 10.4 11.9 15.3 8.9 0.6 12.9 16.6 6.4 2.7 25.6
+2NL hALF 1971 9.8 7.1 11.8 10.0 6.4 13.3 24.9 14.5 20.6 6.5 21.6 26.1
+
+ISI nALF 1y97b 9.o 7.7 11.7 6.9 2.1 11.1 43.5 7.5 17.4 6.3 12.4 34.6
+
+uUAklkLYV:
+
+Rb wTH. 1977 10.0 8.6 9.9 10.8 10.9 10.6 3.2 16.2 21.7 6.5 30.0 12.4
+4In l. 1977 10.7 5.4 14.5 7.7 1.5 13.5 64.0 11.6 18.8 6.4 20.3 48.1
+
+1ST wlh. 1978 9.5 3.8 12.3 7.4 2.6 11.5 43.2 6.9 17.9 6.3 15.1 40.4
+NL, JTr<. 197t 9.3 12.0 9.1 6.8 1.3 11.4 22.9 7.3 14.7 5.7 15.1 9.2
+
+wUATTkLY-AV:
+
+AK UK. 1977 9.1 7.7 10.3 11.2 7.3 14.6 4.5 14.6 20.1 7.0 15.7 18.6
+41h UK. 1977 10.3 6.4 13.0 t.5 5.4 11.b 44.9 13.9 20.0 5.9 26.4 32.0
+
+lST wTR. 197a) 10.5 5.0 12.8 7.3 2.6 11.4 50.0 8.1 18.2 6.3 17.9 46.8
+2ND wlk. 197b 6.4 10.3 10.1 6.4 1.6 10.5 32.8 6.8 15.8 6.2 6.5 20.1
+
+MONHlLY:
+
+1977--AUG. 5.6 6.9 8.3 8.4 16.3 1.5 7.6 17.1 19.5 6.4 38.0 10.8
+SEPT. 11.2 7.8 9.2 8.9 10.0 7.9 11.4 16.6 24.7 4.8 23.5 6.4
+
+L.T. 11.1 10.2 13.7 8.0 4.4 13.3 40.9 14.0 21.5 6.4 31.2 29.7
+NUV. o.3 -1.0 18.5 9.5 -1.1 18.0 81.3 11.0 15.8 6.3 24.0 57.9
+fL.L. 12.3 6.8 10.9 4.6 1.1 8.7 52.5 9.5 18.2 6.3 4.7 51.3
+
+197--JAN. 10.8 11.0 12.3 b.4 6.0 10.0 37.3 7.8 17.9 6.3 32.9 43.5
+FEb. 9.4 -2.4 13.3 7.6 1.1 13.2 48.8 6.2 15.2 6.2 13.7 40.2
+MAR. 8.0 2.9 10.8 6.0 0.5 10.6 39.3 6.6 20.0 6.2 -1.5 33.6
+AP . 6. 23.8 1.5 5.3 3.3 6.5 20.5 6.6 14.7 6.2 -6.0 18.9
+MAY 11.6 5.6 13.6 6.7 2.2 11.5 53.2 6.8 12.1 6.1 18.2 5.1
+JUNk 9.1 6.5 6.1 8.2 -1.6 16.0 -5.5 8.3 16.8 4.6 32.8 3.4
+JULY o .5 4.6 10.2 10.3 -4.3 22.5 9.7 11.4 11.8 6.1 -14.5 3.4
+AUG. P 9.0 8.7 7.5 11.5 8.1 14.2 -15.1 13.7 11. 77.6 20.6 3.4
+
+1/ UKLTTh RATES ARE BASED UN ESTIMATED MONTHLY AVERAGE LEVELS DERIVED BY AVERAGING EtND OF CURRENT MONTH AND END OF
+PkrvlflUS MUNTH REPORTED DATA.
+
+
+
+APPENDIX TABLE 2-B
+
+COMPONENTS OF MONEY STOCK AND RELATED MEASURES
+SEPT. 15, 1978
+
+Time and Savings Deposits Mutual Short- Other
+Sevinls Credit Term Private Non- Total
+
+Period Currency Demand Bank Union Svings U.S. Short- Deposit Gov't
+Deposits otal Other Than CD's & S&L Shares Bonds Gov't term Funds DemandiTotl s S, c i Assets Deposit
+
+Total ISavingsl Other Shares 1/ Sec _Ast 1 Dposits
+
+ANNUALLY:
+
+1975
+1976
+1977
+
+MONThLY:
+
+1977--AUG.
+
+SEPT.
+
+OCT.
+NUV.
+DEC.
+
+197d--JAN.
+
+FEb.
+MAR.
+
+APK.
+MAY
+JUNE
+
+JULY
+AUG. P
+
+WEEKLY:
+
+1978-JULY 12
+19
+
+2o
+
+AUb. 2
+9
+
+16
+
+23
+
+30P
+
+SEPT. 6P
+
+1 2 3 4 S 6 7 8 9 10 11
+
+221.5
+23 .8
+249.9
+
+245.0
+
+246.6
+
+248.7
+248.5
+249.9
+
+252.2
+251.7
+252.3
+
+257.3
+258.5
+259.9
+
+260.9
+262.8
+
+261.6
+258.7
+261.2
+
+261.6
+262.8
+263.5
+263.2
+261.1
+
+266.3
+
+450.9
+489.7
+545.0
+
+521.9
+525.9
+
+531.9
+540.1
+545.0
+
+550.6
+556.7
+561.7
+
+565.2
+571.6
+574.5
+
+579.4
+583.0
+
+578.5
+579.6
+
+560.3
+
+580.8
+561.6
+582.3
+583.6
+565.3
+
+587.4
+
+369.6
+427.0
+471.0
+
+458.7
+462.1
+
+465.5
+469.2
+471.0
+
+474.3
+477.3
+479.7
+
+481.8
+484.5
+487.b
+
+492.0
+496.7
+
+490.8
+491.8
+493.0
+
+494.0
+495.3
+496.3
+497.5
+498.8
+
+499.9
+
+160.5
+
+201.9
+219.6
+
+217.0
+218.8
+
+219.6
+219.4
+219.6
+
+220.7
+
+220.9
+221.0
+
+221.6
+222.0
+221.7
+
+220.9
+222.4
+
+221.2
+220.8
+220.8
+
+221.0
+221.4
+222.2
+222.9
+223.2
+
+223.7
+
+209.1
+225.1
+e51.5
+
+241.7
+243.3
+
+240.0
+249.7
+251.5
+
+253.6
+256.4
+258.7
+
+260.1
+262.6
+266.1
+
+271.1
+274.3
+
+269.6
+271.0
+272.2
+
+273.0
+273.8
+274.1
+274.6
+275.5
+
+276.2
+
+81.3
+62.7
+74.0
+
+63.2
+63.8
+
+66.4
+70.9
+74.0
+
+76.3
+79.4
+82.0
+
+83.4
+87.1
+86.7
+
+o7.4
+66.3
+
+87.8
+87.8
+87.3
+
+86.8
+86.3
+86.0
+86.1
+66.6
+
+87.5
+
+394.8
+456.9
+519.8
+
+498.2
+505.1
+
+511.0
+
+515.7
+519.8
+
+523.2
+
+525.9
+528.8
+
+531.7
+534.7
+538.4
+
+543.5
+549.7
+
+33.0
+39.1
+46.8
+
+43.8
+44.7
+
+45.5
+46.1
+46.8
+
+47.5
+48.1
+48.9
+
+49.5
+50.0
+50.7
+
+51.2
+51.7
+
+67.2
+11.9
+76.6
+
+75.1
+75.4
+
+75.8
+76.2
+76.6
+
+77.0
+77.4
+77.8
+
+78.2
+78.6
+78.9
+
+79.3
+79.8
+
+73.7
+
+60.7
+88.6
+
+85.5
+86.3
+
+87.1
+67.7
+88.6
+
+89.4
+
+90.1
+90.7
+
+91.2
+92.1
+92.8
+
+93.3
+94.0
+
+93.k
+93.2
+
+93.4
+
+93.6
+93.8
+93.9
+94.2
+
+94.4
+
+95.1
+
+66.9
+
+66.6
+76.7
+
+71.6
+73.0
+
+74.9
+
+76.4
+76.7
+
+78.8
+
+79.7
+79.6
+
+79.2
+80.4
+82.6
+
+81.6
+83.0
+
+43.0
+
+47.3
+63.4
+
+56.3
+
+56.6
+
+58.0
+60.8
+63.4
+
+65.7
+
+67.9
+69.8
+
+70.9
+71.2
+71.4
+
+71.6
+71.8
+
+13 14
+
+34.4
+51.0
+62.0
+
+55.7
+57.5
+
+58.1
+60.1
+62.0
+
+65.3
+
+66.6
+67.0
+
+66.1
+
+69.2
+
+69.2
+
+69.2
+71.5
+
+64.8
+73.1
+71.5
+
+69.8
+72.0
+
+69.4
+71.3
+72.9
+
+8.3
+11.2
+11.4
+
+10.2
+10.7
+
+10.3
+6.7
+
+11.4
+
+9.7
+7.5
+7.9
+
+8.3
+7.3
+
+11.3
+
+14.2
+14.9
+
+13.6
+15.1
+15.6
+
+14.4
+13.8
+14.4
+15.7
+
+16.0
+
+14.o
+
+1/ ESTIMAIED MONTHLY AVERAGE LEVELS DERIVED BY AVERAGING END OF CURRENT MONTH AND END OF PREVIOUS MONTH REPORTED DATA.
+i/ INCLUDES PRIVATE DOESTIC NONFINANCIAL INVESTORS* HOLDINGS OF COMMERCIAL PAPER, BANKERS ACCEPTANCES, SECURITY KP'S AND
+
+MONEY MARKET MUTUAL FUND SHARES.
+3/ BORROWINGS BY BANKS FROM OTHER THAN COMMERCIAL BANKS IN THE FORM OF FEDERAL FUNDS PURCHASED, SECURITIES SOLD UNDER
+
+AGREEMENTS TO REPURCHASE, AND OTHER LIABILITIES FOR BORROMED MONEY, PLUS GROSS LIABILITIES TO OWN FOREIGN BRANCHES
+(EURUUULLAR BORROWING6S) LOANS WULD TO AFFILIATES, LOAN KPS, AND OTHER MINOR ITEM3.
+
+4/ INCLUDES TREASURY DEPOSITS AT MEMBER BANKS AND FEDERAL RESERVE BANKS.
+P - PRELIMINARY
+
+
+
+STRICTLY CONFIDENTIAL (FR)
+CLASS I - FOMC
+
+Attached is a corrected chart to replace the one following
+
+page 6 of the September Bluebook.
+
+
+
+CHART 1
+
+Recently Established M-1 Growth Ranges and Actual M-1
+
+Billions of dollars
+
+1/2% %
+
+-370
+
+I-Q2 '79
+
+_ ac
+
+- - Projection
+
+K
+
+6 %
+
+Q1 '78-Q1'79
+
+" 4%
+
+6%%
+
+.,0
+
+- Q3 '77-Q3 '78
+
+c-
+
+1 350
+
+360
+
+350
+
+S360
+
+350
+
+- 360
+
+-350
+
+340
+
+330
+
+320320 I I I I I I I I I I I I I I I I
+
+- - - - - - - 'iv-/v-
+
+1977 1978 1979
+
+
+
+
