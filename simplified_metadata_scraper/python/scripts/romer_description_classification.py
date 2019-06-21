@@ -93,4 +93,7 @@ def extract_treatment(comp_df):
             print("no assignment")
     comp_df.to_csv("../output/romer_prediction.csv")
 
+
+
+
 main()
