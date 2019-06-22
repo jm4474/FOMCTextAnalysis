@@ -1,4 +1,4 @@
- """
+"""
 Purpose: Outputs the statistics of the bluebook alternatives
 Status: Draft
 @author: olivergiesecke
@@ -48,7 +48,7 @@ def create_table(data,name):
     columnheaders=list(data[0].keys())[1:]
     keysofdict=list(data[0].keys())
     numbercolumns=len(data[0])
-    with open("../output/summary_tables/"+name+".tex", "w") as f:
+    with open("../output/"+name+".tex", "w") as f:
         f.write(r"\begin{tabular}{"+"l" + "".join("c" * (numbercolumns-1)) + "}\n")
         f.write("\\hline\\hline \n")
         f.write(" & "+" & ".join([x for x in columnheaders]) + " \\\ \n")    
@@ -148,23 +148,19 @@ def create_cloudwords(sentences,name):
     plt.axis("off") 
     plt.show() 
     
-    plt.savefig("../output/summary_tables/"+name+".png")
+    plt.savefig("../output/"+name+".png")
     
 
 
 ###  Do some summary statistics ###
-df_output=pd.read_csv("../output/bluebook_alternatives.csv")
+df_output=pd.read_csv("../../../derivation/python/output/bluebook_alternatives.csv")
 df_output['year']=pd.to_numeric(df_output['meeting_date'].str[:4])
 df_output['date']=pd.to_datetime(df_output['meeting_date'])
 df_result=df_output[(df_output['date']<="2009-03-18") & (df_output['date']>="1968-08-13")]
 
 
-if not os.path.isdir("../output/summary_tables"):
-    os.mkdir("../output/summary_tables")
-
-
-
-
+if not os.path.isdir("../output"):
+    os.mkdir("../output/")
 
 ## Aggregate Statistics ##
 # Number of bluebooks
@@ -231,7 +227,7 @@ for alt in ["a","b","c","d","e"]:
 
 ax.set_ylim(["Alt. A","Alt. E"])
 
-fig.savefig('../output/summary_tables/fig_alt_time.png')
+fig.savefig('../output/fig_alt_time.png')
 # =============================================================================
 # 
 # ## Show the bigrams associated with each alternative
