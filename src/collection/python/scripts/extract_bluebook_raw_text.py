@@ -9,9 +9,9 @@ def extract_bluebook_raw_text():
         os.mkdir("../output/bluebook_raw_text")
     tika.initVM()
     for file in os.listdir("../output/bluebook_pdfs"):
-        raw_text = extract_raw_text(file)
+        raw_text = extract_raw_text(file).encode('utf8')
         raw_text_path = "../output/bluebook_raw_text/{}".format(file.replace(".pdf",".txt"))
-        with open(raw_text_path, "w") as f:
+        with open(raw_text_path, "wb") as f:
             f.write(raw_text)
 
 

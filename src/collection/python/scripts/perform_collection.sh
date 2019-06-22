@@ -1,4 +1,6 @@
 #!/bin/bash
+echo Deleting All Files in Output
+rm -rf ../output/*
 echo Getting Raw Document Metadata
 python download_raw_doc_metadata.py
 echo Getting Derived Data
