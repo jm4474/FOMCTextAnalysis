@@ -29,7 +29,7 @@ from gensim.parsing.porter import PorterStemmer
 from gensim.parsing.preprocessing import remove_stopwords
 import collections
 from numpy import linalg as LA
-from standard_classifier import get_merged_data,transform_merged
+from train_standard_classifier import get_merged_data,transform_merged
 
 
 ###############################################################################
@@ -67,6 +67,7 @@ df_data, category_to_id, id_to_category,category_id_df = get_merged_data()
 
 ### Get the unique words in the bluebooks
 unique_words=extract_unique_words(df_data[df_data['training']!=1]['statement'])
+l_unique=len(unique_words) # 1523 unique words
 
 ## Prepare training sample
 training_counts=count_words(df_data[df_data['training']==True],unique_words)    
@@ -83,11 +84,14 @@ x_test=np.array(test_counts)
 l2norm=LA.norm(x_test,ord=2,axis=1,keepdims=True)
 x_test=x_test
 
-model = LinearSVC()
+model = LinearSVC(penalty="l1", dual=False, tol=1e-5, C=1.1, max_iter=1000)
 model.fit(x_training, y_train)
 y_pred = model.predict(x_test)
 
 y_act=np.array(df_data[df_data['training']!=1]['treatment_id'])
+
+print( "Positive rate", np.sum(y_act == y_pred) / len(y_act))
+print( "False rate", np.sum(y_act != y_pred) / len(y_act))
 
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
@@ -104,10 +108,12 @@ plt.show()
 ### Select some tuning data from the bluebook alternatives. Try to get a roughly 
 ### balanced sample
 
-from random import sample 
+from random import sample,seed
+seed(20)
+
 # Select number of observations for tuning
-ntuning=204
-## Length of each alternativa
+ntuning=51
+## Length of each alternativave
 n_outcome={}
 testindex_outcome={}
 # CHECK: Do outcomes rather than alternatives
@@ -119,17 +125,17 @@ for outcome in [0,1,2]:
 ## Get list of indices for tuning data
 indices_tuning=testindex_outcome[0]+testindex_outcome[1]+testindex_outcome[2]
 all_indices=list(df_data[(df_data['training']==False)].index)
-test_indices=[x for x in all_indices if x not in indices_tuning]
+indices_test=[x for x in all_indices if x not in indices_tuning]
 
 ## Prepare tuning sample
-tuning_counts=clean_tex(df_data.loc[indices_tuning],False,unique_words)    
+tuning_counts=count_words(df_data[df_data['training']==False].loc[indices_tuning],unique_words)    
 x_tuning=np.array(tuning_counts)
 y_tuning=np.array(df_data.loc[indices_tuning,'treatment_id'])
 
 ## Prepare test sample
-test_counts=clean_tex(df_data.loc[test_indices],False,unique_words)    
+test_counts=count_words(df_data[df_data['training']==False].loc[indices_test],unique_words)    
 x_test=np.array(test_counts)
-y_test=np.array(df_data.loc[test_indices,'treatment_id'])
+y_test=np.array(df_data.loc[indices_test,'treatment_id'])
 
 ## Do the tuning of the linear SVM parameter
 # This is the range for a tuning parameter
@@ -178,23 +184,4 @@ sns.heatmap(conf_mat, annot=True, fmt='d',
 plt.ylabel('Actual')
 plt.xlabel('Predicted')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

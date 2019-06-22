@@ -70,7 +70,7 @@ def get_merged_data():
 
     ### Bluebooks
     ## Import the bluebook data
-    df_test=pd.read_excel("../output/validate_classifier_bluebook_FINAL.xlsx")
+    df_test=pd.read_excel("../data/manually_validated_treatments.xlsx")
     df_test=transform_merged(df_test)
     df_test=df_test[["date","C_TREATMENT_alt_a","C_TREATMENT_alt_b","C_TREATMENT_alt_c",'Sentences_alt_a','Sentences_alt_b','Sentences_alt_c']]
     
