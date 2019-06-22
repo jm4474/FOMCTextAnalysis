@@ -51,7 +51,7 @@ def transform_merged(merge_class_d_e):
 ## Get bluebooks alternatives and statements in one file
 def get_merged_data():
     ### Open the csv with the statements (note: this is the manual statement file)
-    data=pd.read_csv("../output/statements_text_extraction_cleaned.csv")
+    data=pd.read_csv("../data/statements_text_extraction_cleaned.csv")
     # Data stored in data['statement'] and data['policy_treatment']
     
     ## Clean Data
