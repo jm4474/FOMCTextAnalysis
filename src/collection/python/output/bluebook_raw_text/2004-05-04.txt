@@ -1,0 +1,2767 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+Content last modified 05/27/2010. 
+ 
+
+ 
+Prefatory Note 
+
+ 
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+ 
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+1 The effective federal funds rate averaged 1 percent over the intermeeting
+period.  The Desk expanded the System’s outright holdings of securities by
+$4.5 billion, with purchases from foreign official customers of $1.1 billion of Treasury
+bills and market purchases of $2.6 billion of Treasury bills and $0.8 billion of coupon
+securities.  The volume of outstanding long-term RPs increased $1 billion to 
+$16 billion.
+
+Strictly Confidential (F.R.) April 29, 2004
+Class I – FOMC
+
+MONETARY POLICY ALTERNATIVES
+
+Recent Developments
+
+(1)  The FOMC’s decision at its March meeting to leave the intended level
+
+of the federal funds rate unchanged had been fully anticipated in markets, but the
+
+assessment of the economy in the accompanying statement was read as having a soft
+
+cast, and interest rates moved lower.1  In the weeks that followed, however, interest
+
+rates rose sharply in response to the much-stronger-than-expected employment report
+
+for March and to other data releases pointing to firming household and business
+
+spending and rising prices, as well as to the Chairman’s statement in congressional
+
+testimony that “the threat of deflation is no longer an issue.”  Futures markets and
+
+dealer surveys suggest virtually no expectation of a rate move at the May meeting. 
+
+With regard to the associated statement, dealers apparently anticipate that the
+
+Committee will modify or drop the reference to “patience” and characterize the risks
+
+to the achievement of sustainable growth and to price stability as balanced.  Market
+
+participants now appear to believe that tightening will commence in the third quarter,
+
+rather than late in the year as previously thought, and will bring the federal funds rate
+
+to nearly 3½ percent by the end of 2005, a full percentage point higher than
+
+anticipated at the time of the March meeting (Chart 1). 
+
+(2) This shift over the intermeeting period toward the expectation of
+
+prompter and more substantial monetary policy tightening precipitated increases of
+
+over 70 basis points in nominal Treasury yields at maturities between two and ten
+
+
+
+Chart 1
+Interest Rate Developments
+
+Note: Vertical lines indicate March 15, 2004.  Last daily observations are for April 29, 2004.
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+Percent
+
+Ten-Year Treasury
+Five-Year Treasury
+Two-Year Treasury
+
+Treasury Yields*
+
+Daily
+
+*Par yields from an estimated off-the-run Treasury yield curve.
+
+FOMC
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+Percent
+
+Over Next Ten Years
+Over Next Five Years
+
+Inflation Compensation*
+
+Daily
+
+*Based on a comparison of an estimated TIIS yield curve to an estimated
+nominal off-the-run Treasury yield curve.
+
+FOMC
+
+Apr. Aug. Dec. Apr. Aug. Dec. Apr.
+2004 2005 2006
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+Percent
+
+April 29, 2004
+March 15, 2004
+
+Expected Federal Funds Rates*
+
+*Estimates from federal funds and eurodollar futures, with an allowance
+ for term premia and other adjustments.
+
+0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50
+
+March 15, 2004 
+(Dotted Line)
+
+April 29, 2004 
+(Solid Bars)
+
+0
+
+5
+10
+
+15
+20
+
+25
+30
+
+35
+40
+
+45
+Percent
+
+Implied Distribution of the Federal Funds Rate
+About Six Months Ahead*
+
+*Based on the distribution of the three-month eurodollar rate five 
+ months ahead (adjusted for a term premium), as implied by options 
+ on eurodollar futures contracts.
+
+1 3 5 7 10
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+Percent
+
+April 29, 2004
+March 15, 2004
+
+Maturity in Years
+*Smoothed yield curve estimated from off-the-run Treasury
+ coupon securities.  Yields shown are those on notional par  
+ Treasury securities with semi-annual coupons.
+
+Nominal Treasury Yield Curve*
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+Percent
+
+Ten-Year TIIS
+Five-Year TIIS
+
+Real Treasury Yields
+
+Daily
+FOMC
+
+
+
+2
+
+2 The rise in longer-term yields over the intermeeting period may have been
+amplified by efforts to hedge the lengthening duration of mortgage portfolios, which
+increased about one year on average as interest rates moved higher and the risk of
+prepayment fell.  Nevertheless, with market participants reportedly prepared for
+increases in interest rates, trading in Treasuries remained orderly.
+
+years.2  Rates on inflation-indexed securities rose somewhat less, leaving inflation
+
+compensation modestly higher (as discussed in the box entitled “Inflation
+
+Expectations and CPI Futures”).  Despite the backup in real interest rates, equity
+
+indexes edged higher over the intermeeting period, supported importantly by earnings
+
+reports that generally outstripped market expectations.  Investment-grade private
+
+yields moved up in line with Treasuries, but those on lower-rated instruments posted
+
+smaller increases, leading to a further narrowing of high-yield risk spreads (Chart 2). 
+
+Investment-grade yields are now about a percentage point higher than at the time of
+
+last June’s policy easing, while those on high-yield instruments are around a
+
+percentage point lower.
+
+(3) The dollar appreciated about 1¾ percent on balance against other major
+
+currencies during the intermeeting period, principally in response to further
+
+indications of strength in the U.S. economy and the associated increases in interest
+
+rates (Chart 3).  The dollar gained 2½ percent versus the euro as convincing signs of a
+
+quickening in economic activity in the euro area failed to emerge.  The ECB held
+
+policy steady.  The Bank of Canada responded to continued sluggish economic
+
+performance with another 25-basis-point cut in its policy rates in mid-April–the third
+
+such action this year–and the dollar ended the period about 2¾ percent higher against
+
+the Canadian dollar.  The dollar recorded an unusually wide swing against the yen,
+
+dropping more than 6 percent over the second half of March before reversing most of
+
+that loss.  In addition to the effects of U.S. data surprises, the turnaround may have
+
+reflected Japanese investors taking new dollar positions following the end of their
+
+fiscal year on March 31.  In a distinct break from their previous policy, Japanese
+
+
+
+3
+
+Inflation Expectations and CPI Futures
+
+Inflation compensation, as measured by the difference between yields on nominal
+and indexed Treasury securities, edged up over the intermeeting period for both the
+next five years and the subsequent five years.  Inflation compensation over the next
+five years has been on an uptrend since last summer, likely reflecting strengthening
+economic activity, rising energy and commodity prices, and recent data showing
+higher-than-expected realized inflation.  By contrast, the forward inflation
+compensation measure has changed little, on net, over that period.   
+
+For a more complete view of investors’ outlook, inflation compensation can be
+computed for all outstanding ten-year indexed notes, which have remaining
+maturities spanning 2007 to 2014 (chart).  At shorter maturities, this information
+can now be supplemented with readings from CPI futures contracts.  CPI futures
+were recently introduced by the Chicago Mercantile Exchange and cover maturities
+shorter than those of Treasury indexed debt.  While CPI futures remain illiquid, the
+two measures of inflation compensation match up fairly well–although not
+perfectly–where they meet near the end of 2006.  Inflation compensation increases
+appreciably over the next two years and moves up more gradually thereafter,
+reaching around 2½ percent at the ten-year maturity.  Although some portion of
+the upward slope to inflation compensation may owe to inflation risk premiums, it
+seems likely that inflation is also expected to rise over the next few years.      
+
+ 
+
+
+
+Chart 2
+Financial Market Indicators
+
+Note: Vertical lines indicate March 15, 2004.  Last daily observations are for April 29, 2004.
+
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
+
+  0
+
+ 40
+
+ 80
+
+120
+
+160
+
+200
+Basis Points
+
+Ten-Year AA
+Ten-Year Swap
+
+FOMC
+
+Higher-Tier Corporate Bond Spreads*
+
+Daily
+
+*AA spread measured relative to an estimated off-the-run Treasury yield
+ curve. Swap spread measured relative to the on-the-run Treasury
+ security.
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
+
+ 400
+
+ 600
+
+ 800
+
+1000
+
+1200
+
+Basis Points
+
+Ten-Year BBB (left scale)
+Five-Year high-yield (right scale)
+
+FOMC
+
+Lower-Tier Corporate Bond Spreads*
+
+Daily
+
+*Measured relative to an estimated off-the-run Treasury yield curve.
+
+1989 1992 1995 1998 2001 2004
+-6
+
+-5
+
+-4
+
+-3
+
+-2
+
+-1
+
+ 0
+
+ 1
+
+ 2
+
+ 3
+
+Apr.
+
+S&P 500 EPS Revisions Index
+
+Monthly
+
+Percent, monthly rate
+
+Note. Index is a weighted average of the percent change in the consensus
+forecasts of current-year and following-year earnings per share.
+
+Jan. May Sept. Feb. June Oct. Feb.
+2002 2003 2004
+
+ 60
+
+ 70
+
+ 80
+
+ 90
+
+100
+
+110
+
+120
+Index(12/31/01=100)
+
+Wilshire
+Nasdaq
+
+FOMC
+
+Stock Prices
+
+Daily
+
+1993 1995 1997 1999 2001 2003
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Percent
+
+1993 1995 1997 1999 2001 2003
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Percent
+
+Earnings-Price Ratio for S&P 500
+and Real Treasury Yield
+
+Monthly
+Twelve-Month Forward E/P Ratio
+
+Real Treasury Yield*
+
++
+
++
+
+*Yield on synthetic Treasury perpetuity minus Philadelphia Fed ten-year 
+ expected inflation.
++ Denotes latest daily observation, April 29, 2004.
+
+Jan. May Aug. Dec. Apr. Aug. Dec. Apr.
+2002 2003 2004
+
+10
+
+20
+
+30
+
+40
+
+50
+PercentImplied Volatility - S&P 500
+
+Daily
+FOMC
+
+
+
+Chart 3
+International Financial Indicators
+
+Note: Vertical lines indicate March 16, 2004. Last daily observations are for April 29, 2004.
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+Ten-Year Government Bond Yields
+Percent
+
+UK (left scale)
+Germany (left scale)
+Japan (right scale)
+
+FOMC
+Daily
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+ 85
+
+ 90
+
+ 95
+
+100
+
+105
+
+Nominal Trade-Weighted Dollar
+Indexes Index(12/31/02=100)
+
+Broad
+Major Currencies
+Other Important Trading Partners
+
+FOMC
+Daily
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2003 2004
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+EMBI+ Index
+Basis Points
+
+FOMCDaily
+
+300
+
+320
+
+340
+
+360
+
+380
+
+400
+
+420
+
+440
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+
+2003 2004
+
+25
+
+27
+
+29
+
+31
+
+33
+
+35
+
+37
+
+39
+
+41
+
+43
+
+45
+
+47
+
+49
+
+Commodity Prices
+$U.S./ounce $U.S./barrel
+
+Gold (left scale)
+Oil (right scale)
+
+FOMCDaily
+
+
+
+4
+
+3  The Japanese authorities last intervened on March 16th, the day of the FOMC
+meeting, when they purchased $615 million.   
+
+        .  The Desk did not
+intervene during the latest period for the accounts of the System or the Treasury.
+
+authorities refrained from intervening in foreign exchange markets after mid-March.3 
+
+Yields on longer-term government bonds in major industrial countries rose 25 to 50
+
+basis points over the intermeeting period, considerably less than in the United States. 
+
+Stock markets in most major foreign economies continued to make solid gains, with
+
+the 7 percent average increase in Japanese stocks leading the pack. 
+
+(4) The dollar rose about 1 percent during the intermeeting period against
+
+an index of currencies of other important trading partners.  The dollar moved up
+
+more than 3½ percent on balance versus the peso on evidence that economic activity
+
+in Mexico was weaker than expected.  The Mexican central bank surprised market
+
+participants by tightening policy, in part to bring inflation down to within the official
+
+target range.  Mexico’s EMBI+ spread was about unchanged over the intermeeting
+
+period, but Brazil’s spread widened 100 basis points, to over 6½ percentage points. 
+
+The People’s Bank of China raised reserve requirements and tightened restrictions on
+
+lending in late April in an effort to prevent overheating of the Chinese economy.
+
+(5) The expansion of domestic nonfinancial sector debt remained brisk in
+
+the first quarter, supported by a pickup in federal issuance and strong household
+
+borrowing (Chart 4).  A further jump in the federal budget deficit resulted in record
+
+sales of marketable Treasury debt in the first quarter.  Residential mortgage debt
+
+growth continues to be rapid, albeit somewhat off the record rates of the last two
+
+years, as the recent drop-off in refinancing applications has yet to show through
+
+materially to originations.  Financing conditions for businesses have continued to
+
+improve, with banks further easing standards and terms between January and April as
+
+reported in the most recent Senior Loan Officer Opinion Survey.  Although business
+
+credit demands have strengthened a bit this year along with a faster pace of capital
+
+expenditures, borrowing needs have been held down by robust corporate profits. 
+
+Bond issuance by investment-grade firms rose in the first quarter as interest rates fell
+
+but seems to have weakened a bit in April with the backup in rates.  Lower-tier bond
+
+
+
+Chart 4
+Debt and Money Growth
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+1990 1992 1994 1996 1998 2000 2002 2004
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+ 
+
+ 
+
+Applications
+(left axis)
+
+Originations
+(right axis)
+
+Mar
+
+Apr e
+
+Source. Staff estimates.
+e Estimated.
+
+Mortgage Refinancing Activity
+$BillionsIndex(3/16/90 = 100)
+
+Monthly, n.s.a. Monthly, n.s.a.
+
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+C&I Loans*
+Commercial Paper
+Bonds
+
+ 
+
+Changes in Selected Components of
+Nonfinancial Business Debt $Billions
+
+Total
+
+2002 H1 Q3 Q4 J F M
+  2003   2004
+
+Monthly rate
+
+Note. Bonds are not seasonally adjusted.
+
+1990 1992 1994 1996 1998 2000 2002 2004
+-3
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+ 
+
+Growth of Household Debt Percent
+Quarterly, s.a.a.r.
+
+Q1
+
+Q1
+
+Consumer
+Credit
+
+Home
+Mortgage
+
+-2
+
+2
+
+6
+
+10
+
+14
+
+18
+
+22
+
+Growth of Federal Debt
+
+s.a.a.r.
+
+Percent
+
+2002 H1 Q3 Q4 Q1 Q2
+
+  2003   2004
+
+p
+
+p Projected.
+Note. Treasury debt held by the public at period-end.
+
+-8
+
+-4
+
+0
+
+4
+
+8
+
+12
+
+16
+
+Growth of M2
+
+s.a.a.r.
+
+Percent
+
+e
+
+e Estimated.
+
+2002 H1 Q3 Q4 J F M A
+  2003   2004
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+ Equity Funds
+Bond Funds*
+
+Net Inflows to Equity
+and Bond Mutual Funds
+
+$Billions
+
+Total
+
+  2003   2004
+2002 H1 Q3 Q4 J F M A
+
+Monthly rate, n.s.a.
+
+* Includes hybrid funds but excludes reinvested dividends.
+
+e
+
+e Estimated.
+
+
+
+5
+
+issuance has remained robust, reflecting in part the narrowing of spreads on such
+
+instruments.  Short-term business debt contracted again in the first quarter, but at a
+
+slower pace than last year, and has edged up in recent weeks.
+
+(6) M2 growth was quite strong in March and April, boosted in part by the
+
+temporary effects of elevated refinancing activity in the first quarter.  Currency
+
+growth, by contrast, has been held down by weak demand from abroad.  In addition
+
+to ongoing substitution of euros for dollars in Europe and elsewhere, foreign demand
+
+for U.S. currency has been damped by relative stability in countries that had been
+
+significant sources of demand.
+
+
+
+6
+
+4  All references to output, employment, and inflation measures in this
+document, as well as the money and debt projections, are based on the data available
+and the staff forecast when the April Greenbook was published yesterday.  The BEA’s
+advance estimate of first quarter GDP, which was released this morning, shows GDP
+growth of 4.2 percent in the first quarter–a percentage point below the staff
+projection.  The bulk of the difference reflected lower inventory investment than the
+staff had anticipated.
+
+Policy Alternatives4
+
+(7) Incoming data on spending and employment over the intermeeting
+
+period led the staff to mark up its estimate of first-quarter growth but not to change
+
+materially the contours of the forecast of output thereafter.  The past few readings on
+
+inflation also ran faster than expected, reflecting in part the effects of higher energy
+
+and non-oil import prices and outsized increases in a few volatile components.  The
+
+staff saw some signal in these releases and revised up its projection of core consumer
+
+price inflation about ¼ percentage point this year and next.  In light of these
+
+developments, the staff now assumes that the Committee will start tightening in the
+
+fall, a quarter earlier than in the March Greenbook, and firm gradually thereafter. 
+
+Longer-term interest rates move sideways over the forecast period, with the upward
+
+push of tighter policy about offsetting the downward pull of revisions to expected
+
+future short-term rates as investors realize that inflation is likely to remain lower and
+
+policy to tighten by less than currently expected.  Equity prices and the foreign
+
+exchange value of the dollar have both been marked up to reflect their current,
+
+higher-than-anticipated levels.  Equity prices are again assumed to rise to yield
+
+risk-adjusted returns in line with those on fixed-income instruments and the dollar to
+
+edge lower at a rate similar to that assumed in the March Greenbook.  With
+
+accommodative monetary and fiscal policy supporting growth, real GDP is projected
+
+to expand at about a 5 percent rate over the final three quarters of 2004.  However,
+
+monetary policy tightening and a swing in fiscal policy toward restraint contribute to a
+
+moderation of GDP growth to about 3¾ percent in 2005–a touch above the
+
+estimated growth rate of potential output.  The unemployment rate is expected to end
+
+the forecast period at 5¼ percent, still somewhat above the staff’s estimate of the
+
+
+
+7
+
+natural rate, as productivity growth continues to be robust and labor force
+
+participation picks up.  With oil prices moderating, commodity prices stabilizing,
+
+longer-term inflation expectations apparently remaining well-anchored, and a portion
+
+of the gap between output and its potential persisting until the end of the forecast
+
+period, core PCE inflation is projected to edge lower to about 1¼ percent later this
+
+year and remain near that level through next year. 
+
+(8) This Bluebook presents three alternatives for the Committee’s
+
+consideration, summarized by the draft statements in Table 1.  Alternatives A and B
+
+assume that the federal funds rate holds at 1 percent but differ as to the Committee’s
+
+characterization of the strength of the economy and its willingness to be patient in
+
+removing policy accommodation.  Alternative C contemplates a quarter-point firming
+
+and aligns the wording of the statement accordingly.  Under any of these alternatives,
+
+several changes seem necessary to update the characterization of economic
+
+conditions.  In particular, with employment growth averaging 170,000 per month over
+
+the first three months of the year, the rationale paragraph could indicate that “hiring
+
+appears to have picked up.”  And the unexpectedly high inflation figures could be
+
+acknowledged by stating that “incoming inflation data have moved somewhat higher.”
+
+Assuming that the Committee now sees the odds of a significant further decline in
+
+inflation as remote, the assessment-of-risks paragraph should indicate that “the upside
+
+and downside risks to the goal of price stability are seen as roughly equal.”
+
+(9) In light of the data released over the intermeeting period, the Committee
+
+may feel more confident that vigorous output growth will be sustained and that slack
+
+in labor markets will diminish.  Moreover, the higher-than-anticipated price data might
+
+be taken as evidence that inflation has bottomed.  In these circumstances, the
+
+Committee might want to adopt language that would provide more flexibility about
+
+future action so that it has scope to begin unwinding its current policy
+
+accommodation if circumstances soon warrant, as in Alternative B.  Even if such
+
+action were not viewed as imminent, the Committee might favor a change in the
+
+wording if members put some weight on the possibility of tightening in the next few
+
+months as more information bearing on the strength of the labor market and inflation
+
+
+
+Table 1: FOMC Statement Alternatives for the May Bluebook
+
+March FOMC Alternative A Alternative B Alternative C
+
+Policy
+Decision
+
+1. The Federal Open Market Committee
+decided today to keep its target for the
+federal funds rate at 1 percent.
+
+Unchanged Unchanged
+The Federal Open Market Committee
+decided today to raise its target for the
+federal funds rate to 1¼  percent.  
+
+Rationale
+
+2. The Comm ittee continues to believe that
+an accom modative stance of monetary
+policy, coupled with robust underlying
+growth in productivity, is providing
+important ongoing support to economic
+activity.
+
+Unchanged Unchanged
+The Comm ittee continues to believe
+that robust underlying growth in
+productivity is providing important
+ongoing support to economic activity.
+
+3. The evidence accumulated over the
+intermeeting period indicates that output is
+continuing to expand at a solid pace. 
+Although job losses have slowed, new
+hiring has lagged.
+
+The evidence accumulated over the
+intermeeting period indicates that
+output is continuing to expand at a
+solid rate and hiring appears to have 
+picked up.   
+
+The evidence accumulated over the
+intermeeting period indicates that
+output is continuing to expand at a
+solid rate and hiring appears to have
+picked up.  
+
+The evidence accumulated over the
+intermeeting period indicates that
+output is continu ing to expand at a solid
+rate and hiring appears to have picked
+up.     
+
+4. Increases in core consumer prices are
+muted and expected to remain low.
+
+Although incoming inflation data have
+moved somewhat higher, core
+inflation is expected to rem ain low.    
+
+Although incoming inflation data have
+moved somewhat higher, long-term
+inflation expectations appear to have
+remained well-anchored.
+
+Long-term inflation expectations appear
+to have remained well-anchored,
+although incoming inflation data have
+moved somewhat higher.
+
+5. [None]
+[None] [None]
+
+Against this backdrop, the Committee
+felt that some reduction in the degree of
+monetary accommodation was desirable
+to promote price stability  and thus help
+sustain the economic expansion.
+
+Assessment 
+of 
+
+Risks
+
+6. The Committee perceives that the upside
+and downside risks to the attainment of
+sustainable growth for the next few
+quarters are  roughly equal.
+
+Unchanged Unchanged
+With this policy action, the Committee
+perceives that the upside and downside
+risks to  the attainm ent of susta inable
+growth for the next few quarters are
+roughly equal.
+
+7. The probability of an unwelcome fall in
+inflation has diminished in recent months
+and now appears almost equal to that of a
+rise in inflation.
+
+Similarly,  the upside and downside
+risks to the goal of price stability are
+seen as roughly equal.
+
+Similarly,  the upside and downside
+risks to the goal of price stability are
+seen as roughly equal.
+
+Similarly,  the upside and downside risks
+to the goal of price stability are seen as
+roughly equal.
+
+8. With inflation quite low and resource use
+slack, the Committee believes that it can be
+patient in removing its policy
+accommodation.
+
+Nonetheless, with inflation low and
+resource use slack, the Committee
+believes that it can be patient in
+removing its policy accommodation.
+
+At this juncture, with inflation low and
+resource use slack, the Committee
+believes that policy accommodation
+can likely be removed at a measured
+pace.       
+
+Even following today’s action, the
+Comm ittee judges that the stance of
+policy is qu ite accom modative . 
+However, with inflation low and
+resource use slack, the Committee
+believes that policy accommodation can
+likely be removed at a  measured pace.  
+
+
+
+8
+
+trends becomes available.  Deferring policy firming, at least for a time, may not be
+
+seen as especially costly:  Even if somewhat stronger employment growth and a
+
+slowing in the rate of advance of productivity pushed up labor costs, competitive
+
+pressure may lead firms to trim currently high profit margins, limiting the pass-
+
+through of rising costs to inflation.  And, while inflation compensation five to ten
+
+years out implied by TIIS yields moved up some over the intermeeting period, it has
+
+changed little, on net, since last fall, suggesting that longer-term expectations remain
+
+well-anchored.  
+
+(10) The Committee has multiple opportunities in its statement to indicate
+
+that the odds of policy firming in the near future are higher than at the March
+
+meeting, as shown in the column labeled Alternative B in Table 1.  At the same time,
+
+it might also offer a reason in the rationale paragraph why it does not see the need to
+
+tighten immediately by noting that “longer-term inflation expectations appear to have remained
+
+well-anchored.”  With the risks to the outlook balanced and the economy potentially
+
+picking up steam as the gloom that weighed on business investment and hiring
+
+disperses, Committee members may feel that it is now appropriate to drop the
+
+sentence referring to patience in removing policy accommodation.  Such a change
+
+may be seen as particularly desirable if the Committee believes that investors’
+
+confidence that interest rates will remain low has been encouraging the development
+
+of financial market imbalances that could have adverse macroeconomic effects as they
+
+unwind.  However, members may be concerned that eliminating any characterization
+
+of the Committee’s future action might lead market participants to build in outsized
+
+expectations about the speed with which policy accommodation will be removed,
+
+thereby augmenting the considerable tightening in financial conditions of the past few
+
+weeks.  The Committee could convey the sense that its current outlook was consistent
+
+with a gradual return to a neutral policy stance by providing assurance at the end of
+
+the assessment of risks paragraph that, “At this juncture, with inflation low and resource use
+
+slack, the Committee believes that policy accommodation can likely be removed at a measured pace.” 
+
+Even with the inclusion of such a sentence, however, a statement along these lines
+
+would likely lead market participants to bring a bit closer in time the expected date of
+
+
+
+9
+
+the commencement of monetary policy tightening.  In response, interest rates would
+
+rise, stock prices likely would decline, and the foreign exchange value of the dollar
+
+would tend to appreciate.     
+
+(11) If Committee members were sufficiently confident that the expansion
+
+was now self-sustaining or saw the recent increase in core inflation as signaling an
+
+upturn in underlying inflation, then they might find an increase of ¼ percentage point
+
+in the federal funds rate at this meeting, as in Alternative C, to be appropriate.  The
+
+Committee may view the advances in investment outlays, coupled with the more
+
+recent evidence that hiring is picking up, as suggesting that the tentativeness that had
+
+earlier marked business behavior has lifted.  Indeed, as increased hiring buoys incomes
+
+and consumer confidence, the resulting growth in spending may support faster gains
+
+in investment spending and employment than expected by the staff, implying a swifter
+
+erosion of resource slack.  Members may also be less confident than the staff that
+
+aggregate supply will continue to expand at a rapid pace and that the recent increases
+
+in energy and non-oil import prices will leave only a small imprint on inflation
+
+expectations.  If so, the Committee, like financial market participants, may see a
+
+significant risk that inflation could move higher, suggesting that the time has come to
+
+adjust policy.  Indeed, if the Committee believes that expected inflation may rise, then
+
+it might see an increase in the target funds rate as necessary just to avoid a reduction
+
+in the real federal funds rate and a consequent easing of policy relative to measures of
+
+the equilibrium funds rate (Chart 5).  The argument for tighter policy would be
+
+strengthened to the extent that the Committee wants to keep inflation near its recent
+
+lows over the longer term, rather than allowing some increase.  While policy
+
+tightening might put some strains on financial markets for a time, Committee
+
+members might not be convinced that the elevated uncertainty and financial market
+
+turbulence of 1994-95 is as relevant a precedent as some observers assert, in part
+
+because investors seem to expect that significant tightening will commence soon (see
+
+box on “Lessons From the 1994-95 Tightening Cycle”).     
+
+
+
+Chart 5
+Actual Real Federal Funds Rate and 
+
+Range of Estimated Equilibrium Real Rates
+
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
+-2
+
+-1
+
+ 0
+
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+Percent
+
+Note: The shaded range represents the maximum and the minimum values each quarter of four estimates of the equilibrium 
+real federal funds rate based on a statistical filter and the FRB/US model. Real federal funds rates employ a four-quarter moving
+average of core PCE inflation as a proxy for inflation expectations, with the staff projection used for 2004Q1 and 2004Q2.
+
+Quarterly
+
+-2
+
+-1
+
+ 0
+
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+Actual Real Funds Rate
+
+TIIS-Based Estimate
+Historical Average: 2.61
+  (1961Q4-2003Q4)
+
+● Current Rate
+
+ 
+Equilibrium Real Funds Rate Estimates (Percent)
+
+    2002     2003    2004Q1    2004Q2    ____     ____    ______    ______
+
+     March Bluebook
+
+     March Bluebook
+
+     March Bluebook
+
+     March Bluebook
+
+   March Bluebook
+
+Statistical Filter
+ - Two-sided:
+     Based on historical data and the staff forecast
+
+ - One-sided:
+     Based on historical data*
+
+FRB/US Model
+ - Two-sided:
+     Based on historical data and the staff forecast
+
+ - One-sided:
+     Based on historical data*
+
+Treasury Inflation-Indexed Securities
+
+-0.2
+
+0.0
+
+2.5
+
+1.9
+
+3.5
+
+-0.2
+
+0.0
+
+2.4
+
+1.9
+
+3.5
+
+0.0
+
+-0.5
+
+2.1
+
+0.9
+
+3.0
+
+0.0
+
+-0.4
+
+2.1
+
+0.9
+
+3.0
+
+ 0.3
+
+-0.1
+
+ 2.0
+
+ 1.2
+
+ 2.7
+
+ 0.2
+
+0.0
+
+ 2.1
+
+ 1.2
+
+ 2.7
+
+ --
+
+ --
+
+ --
+
+ --
+
+ --
+
+ 0.2
+
+NA**
+
+ 2.1
+
+ 1.5
+
+ 2.9
+
+*   Also employs the staff projection for the first and second quarters of 2004.
+** Because the NIPA data for the first quarter were not available until after the Greenbook was published, this value could
+not be computed without employing an additional quarter of projected data.
+
+
+
+10
+
+Lessons from the 1994-95 Tightening Cycle
+
+The current policy environment is similar in some respects to that prevailing before the
+policy tightening in 1994-95.  In both cases, an initially sluggish expansion in
+employment was accompanied by a real federal funds rate that fell to near zero for a
+time.  The nominal federal funds rate target, shown in the left panel on the next page, is
+currently 2 percentage points lower than at the start of 1994, reflecting in part the net
+decline in inflation over the intervening ten years.  The policy tightening that began in
+February 1994 sparked a period of financial market turbulence that caused serious
+difficulties for some financial institutions.  This adverse outcome has raised concerns
+about whether similar volatility could follow a move to tighter policy this year.
+
+The seemingly outsized market reaction to the 1994-95 tightening reflected several
+factors.  First, many market participants had not fully expected a policy tightening at that
+time and so were poorly positioned.  Second, investors considerably underestimated the
+ultimate extent of tightening, though part of that forecast error reflected the surprising
+strength of the economy after the tightening process had begun.  (The staff was
+surprised as well, and the Greenbook forecast of the unemployment rate in the fourth
+quarter of 1994 fell about ¾ percentage point over the course of that year.)  Third,
+uncertainty about the timing and magnitude of future policy actions was high, particularly
+early in the tightening cycle.  Investors reacted to the changed economic and policy
+outlook by selling long-term securities to limit capital losses and hedge the lengthening
+durations of mortgage portfolios that resulted from higher interest rates.  These portfolio
+adjustments at times took place over short periods of time, leading to volatile moves in
+long-term rates.  As shown in the right panel, long-term yields increased almost as much
+as short-term rates early in the tightening cycle. 
+
+To be sure, the historical record does suggest that changes in the direction of the policy
+rate tend to elicit a stronger market response than actions extending the existing trend in
+the policy rate.  And the turbulence in financial markets last summer and fall may suggest
+that hedging flows will magnify the amplitude of any swings in longer-term interest rates. 
+As a result, some firms with large interest rate exposures could face substantial losses
+when interest rates rise.  That said, there are some signs that financial firms and markets
+may be able to handle policy tightening better than they did in 1994.  Although the
+expected policy path is not as steep now as the actual tightening that took place ten years
+ago, it is nonetheless considerably steeper than that foreseen immediately before the first
+tightening in 1994.  Even if interest rates do respond strongly to a move toward tighter
+policy, financial institutions appear better positioned to withstand the impact owing to
+improved risk-management practices.  And, although the size of the mortgage market is
+now much larger, the recent run-up in interest rates has reduced prepayment rates
+enough to moderate the extent to which any further increase in rates will induce hedging
+flows. 
+
+
+
+11
+
+Lessons from the 1994-95 Tightening Cycle (Continued)
+
+(12) If the Committee chooses to tighten policy at this meeting, then it might
+
+well be inclined to issue a statement like that shown in the last column of Table 1. 
+
+This statement starts by noting the change in policy: “The Federal Open Market
+
+Committee decided today to raise its target for the federal funds rate to 1¼ percent.”  To avoid
+
+repetition later, the first sentence of the rationale paragraph might refer only to
+
+productivity growth–“Robust underlying growth in productivity is providing important ongoing
+
+support to economic activity.”  The explanation for the policy move could follow at the end
+
+of the paragraph: “Against this backdrop, the Committee felt that some reduction in the degree of
+
+monetary accommodation was desirable to promote price stability and thus help sustain the economic
+
+expansion.”  So long as the Committee believed that the policy move, and the expected
+
+reaction to that move in financial markets, was likely to be sufficient to contain upside
+
+risks for the time being, then it might want to indicate that, “With this policy action, the
+
+Committee perceives that the upside and downside risks to the attainment of sustainable growth for
+
+the next few quarters are roughly equal.  Similarly, the upside and downside risks to the goal of price
+
+stability are seen as roughly equal.”  In order to leave a sense that additional policy
+
+tightening was likely at some point but that the Committee did not foresee a rapid
+
+return to a neutral stance, the statement could end with “Even following today’s action, the
+
+
+
+12
+
+Committee judges that the stance of policy is quite accommodative.  However, with inflation low and
+
+resource use slack, the Committee believes that policy accommodation can likely be removed at a
+
+measured pace.”  While market participants expect policy to tighten in the not-too-
+
+distant future, action at this meeting would come as a considerable surprise, especially
+
+given the reference to patience included in the March statement.  Market interest rates
+
+would likely move significantly higher, stock prices would fall, and the dollar would
+
+rally.  If investors took the final sentence of the statement to heart, then these
+
+reactions might be somewhat damped.    
+
+(13) While the Committee might find some encouragement in the stronger
+
+tone of recent economic data, it may not yet be convinced that the expansion has
+
+become self-sustaining and may still expect inflation to remain low.  In early 2002, for
+
+instance, the expansion appeared to be gaining traction for a time and market
+
+expectations about the onset of tightening were building, but the expansion
+
+subsequently faltered.  If the Committee believed that the case for tighter policy
+
+would likely require at least several more months of evidence, it might choose a
+
+statement fairly close to the one released following the March meeting, as in
+
+Alternative A.  With investment spending still reported to be primarily for
+
+replacement rather than for expansion and with only one month of reasonably strong
+
+employment data in hand, the Committee may not yet be confident that business
+
+gloom has really lifted all that much.  Indeed, with the impetus to both household and
+
+business spending from expansionary fiscal policy expected to wane over coming
+
+quarters and financial conditions having tightened considerably of late, some members
+
+may be concerned that growth could fall back more than in the staff projection.  The
+
+recent uptick in inflation might be seen as primarily the result of temporary factors
+
+and, therefore, leaving open the possibility that the underlying trend in inflation could
+
+edge lower (much as is discussed in the “Inflation Reversal” simulation in the
+
+Greenbook).  Moreover, some Committee members might see the level of inflation
+
+over the past year as at the low end of its desirable range over the longer term and so
+
+may not be averse to a modest step-up.  Against this backdrop, the Committee may
+
+continue to view downside surprises to inflation as more costly than upside surprises,
+
+
+
+13
+
+implying that a cautious approach to monetary policy tightening remains appropriate.  
+
+(14) If the Committee finds sufficient merit in the selection of Alternative A,
+
+it could issue a statement like that shown in the corresponding column of Table 1. 
+
+While the recent increase in inflation should be noted, the statement could indicate
+
+that the rise is likely to be transitory: “Although incoming inflation data have moved somewhat
+
+higher, core inflation is expected to remain low.”  Even in this view, the risks to the
+
+attainment of price stability related in the assessment of risks paragraph would
+
+presumably be balanced.  However, with the vigor of the expansion seen as less
+
+certain and the upside risks to inflation less pressing, the Committee might choose to
+
+retain with only minor adjustment the sentence indicating its belief that it can be
+
+“patient in removing its policy accommodation.”  Market participants think that the
+
+Committee is likely to modify or drop the reference to patience in the statement at
+
+this meeting, and its retention would probably lead them to push back somewhat the
+
+expected timing of policy tightening.  The resulting decline in market interest rates
+
+would likely spark a modest rally in stock markets but weigh on the foreign exchange
+
+value of the dollar. 
+
+Money and Debt Forecasts
+
+(15) M2 growth is projected to slow from its recent rapid pace, as the
+
+temporary boost from last quarter’s high level of mortgage refinancing ebbs. 
+
+Nonetheless, this aggregate is expected to grow about 5½ percent this year, about the
+
+same as last year and ½ percentage point faster than projected at the time of the last
+
+Bluebook.  The higher projected growth reflects in part the stronger-than-expected
+
+underlying money growth thus far this year.  Foreign demand for U.S. currency is also
+
+anticipated to rebound from the low growth rate posted in the first quarter. 
+
+Nonetheless, as the economic expansion continues, households are expected to shift
+
+the composition of their portfolios further toward capital market instruments at the
+
+expense of monetary assets, implying a modest rise in M2 velocity this year.  
+
+(16) Growth of total domestic nonfinancial debt this year is projected to
+
+remain near the 8 percent pace posted in 2003.  Household debt growth should slow
+
+as higher mortgage rates damp residential investment and refinancing activity, and so
+
+
+
+14
+
+trim mortgage debt growth.  However, with increases in investment outlays outpacing
+
+gains in profits, business borrowing should gradually pick up, though from a very low
+
+level.  Federal debt growth is also expected to be a little higher this year, reflecting the
+
+wider deficit, before falling back next year as fiscal policy moves toward restraint.  
+
+Directive and Balance-of-Risks Language
+
+(17) Should the Committee wish to follow the same procedure as at the last
+
+two meetings, it could vote on the directive and on the language of the assessment of
+
+risks.  Draft language with a range of options for the assessment of risks identical to
+
+those presented in Table 1 is provided below.
+
+(1) Directive Wording
+
+The Federal Open Market Committee seeks monetary and financial
+
+conditions that will foster price stability and promote sustainable growth
+
+in output.  To further its long-run objectives, the Committee in the
+
+immediate future seeks conditions in reserve markets consistent with
+
+maintaining/INCREASING/REDUCING the federal funds rate at/TO
+
+an average of around _______ 1 percent.
+
+(2) Risk Assessments
+
+(A)  The Committee perceives that the upside and downside risks to the
+
+attainment of sustainable growth for the next few quarters are roughly
+
+equal.  Similarly, the upside and downside risks to the goal of price
+
+stability are seen as roughly equal.  Nonetheless, with inflation low and
+
+resource use slack, the Committee believes that it can be patient in
+
+removing its policy accommodation.
+
+(B)  The Committee perceives that the upside and downside risks to the
+
+attainment of sustainable growth for the next few quarters are roughly
+
+
+
+15
+
+equal.  Similarly, the upside and downside risks to the goal of price
+
+stability are seen as roughly equal.  At this juncture, with inflation low
+
+and resource use slack, the Committee believes that policy
+
+accommodation can likely be removed at a measured pace.       
+
+(C)  With this policy action, the Committee perceives that the upside and
+
+downside risks to the attainment of sustainable growth for the next few
+
+quarters are roughly equal.  Similarly, the upside and downside risks to
+
+the goal of price stability are seen as roughly equal.  Even following
+
+today’s action, the Committee judges that the stance of policy is quite
+
+accommodative.  However, with inflation low and resource use slack, the
+
+Committee believes that policy accommodation can likely be removed at
+
+a measured pace.         
+
+
+
+M2 Growth Under Alternative Policy Actions
+
+No Tighten
+Change 25 bp
+
+Monthly Growth Rates
+Jan-04 1.0 1.0
+Feb-04 10.4 10.4
+Mar-04 8.8 8.8
+Apr-04 8.9 8.9
+
+May-04 9.6 9.3
+Jun-04 6.0 5.3
+Jul-04 5.0 4.2
+
+Aug-04 4.2 3.5
+Sep-04 4.5 3.9
+
+Quarterly Growth Rates
+2003 Q4 -1.5 -1.5
+2004 Q1 3.3 3.3
+2004 Q2 8.9 8.8
+2004 Q3 5.5 4.8
+
+Annual Growth Rates
+2002 6.8 6.8
+2003 5.3 5.3
+2004 5.7 5.3
+
+Growth From To
+2003 Q4 Jun-04 6.4 6.2
+2003 Q4 Sep-04 5.9 5.6
+2003 Q4 Dec-04 5.6 5.2
+
+Dec-03 Mar-04 6.8 6.8
+Dec-03 Jun-04 7.6 7.4
+Apr-04 Sep-04 5.9 5.3
+Oct-04 Dec-04 4.3 3.9
+
+* This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+
+
+
+Chart 6
+
+Actual and Assumed Federal Funds Rate and
+
+Range of Values from Policy Rules and Futures Markets
+
+1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Percent
+ 
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Percent
+ 
+
+Shaded region is the range of values from rules 1-5 below
+
+Actual federal funds rate and Greenbook assumption
+Market expectations estimated from futures quotes
+
+**
+
+Values of the Federal Funds Rate from Policy Rules and Futures Markets
+
+2004 2005
+
+Q1 Q2 Q3 Q4 Q1
+
+Outcome-based Rules
+        1. Baseline Taylor 1.45 2.29 2.48 2.67 2.57
+        2. Aggressive Taylor 0.66 1.50 1.88 2.23 2.18
+        3. Estimated 1.01 1.28 1.34 1.75 1.98
+
+Forecast-based Rules
+        4. Estimated with Greenbook forecasts 1.16 1.17 1.14 1.30 1.44
+        5. Estimated with FOMC forecasts 1.12 1.17 1.19 1.23 1.35
+        6. First-difference rule* 1.24 1.16
+
+From Financial Markets
+        7. Estimated TIPS-based rule* 1.24 1.40
+        Memo: Expected federal funds rate derived from futures 1.01 1.21 1.60 1.99
+
+Memo: Greenbook assumption 1.00 1.00 1.00 1.25 1.50
+
+* Not included in the shaded region in the figure.
+** Computed using average TIPS and nominal Treasury yields to date
+
+Note: Rule prescriptions for 2004Q2 through 2005Q1 are calculated using Greenbook projections for inflation and the
+output gap (or unemployment gap).  It is assumed that there is no feedback from the rule prescriptions to the Greenbook
+projections over this horizon.
+
+
+
+Rules Chart: Explanatory Notes
+
+In all of the rules below, it denotes the federal funds rate, Bt the staff estimate at date t of trailing four-
+quarter core PCE inflation, (yt-yt*) the staff estimate (at date t) of the output gap, it-1 the lagged federal
+funds rate, gt-1 the residual from the rule’s prescription the previous quarter, (yt+3|t-yt+3|t
+
+*) the staff’s
+three-quarter-ahead forecast of the output gap, () yt+3|t-) yt+3|t
+
+*) the staff’s forecast of output growth less
+potential output growth three quarters ahead, Bt+3|t a three-quarter-ahead forecast of inflation, and (ut+3|t-
+ut+3|t
+
+*) a three-quarter-ahead forecast of the unemployment gap.  Data are quarterly averages taken from
+the Greenbook and staff memoranda closest to the middle of each quarter, unless otherwise noted.
+
+Rule Specification
+
+Root-mean-
+square error
+
+1988:1-
+
+2004:1
+
+2001:1-
+
+2004:1
+
+Outcome-based
+
+1.  Baseline Taylor
+
+Coefficients are benchmark values, not estimated.
+it = 2 + Bt + 0.5(yt-yt
+
+*) + 0.5(Bt-
+2)
+
+.92 .87
+
+2.  Aggressive Taylor
+
+Coefficients are benchmark values, not estimated.
+it = 2 + Bt + (yt-yt
+
+*) + 0.5(Bt-2) .74 .75
+
+3.  Estimated Outcome-based
+
+Rule includes both lagged interest rate and serial
+
+correlation in residual.
+
+it = 0.55it-1 + 0.45 [1.17
+ + 0.96(yt-yt
+
+*) + 1.45Bt]+ 0.42gt-1
+.25 .27
+
+Forecast-based
+
+4.  Estimated Greenbook Forecast-based
+
+Rule includes both lagged interest rate and serial
+
+correlation in residual.
+
+it = 0.72it-1 + 0.28 [0.65
+ + 1.05(yt+3|t-yt+3|t
+
+*) + 1.57Bt+3|t]
+ + 0.36gt-1
+
+.26 .28
+
+5.  Estimated FOM C Forecast-based
+
+Unemployment and inflation forecasts are from
+
+semiannual “central tendency” of FOM C forecasts,
+
+interpolated if necessary to yield 3-qtr-ahead values;
+
+u t* forecast is from staff memoranda.  Inflation
+
+forecasts are adjusted to core PCE deflator basis.  Rule
+
+is estimated at semiannual frequency, and projected
+
+forward using G reenbook forecasts.
+
+it = 0.49it-2 + 0.51 [0.26
+ ! 2.10(ut+3|t-ut+3|t
+
+*) + 1.60Bt+3|t] .45 .72
+
+6.  First-difference Rule
+
+Coefficients are benchmark values, not estimated.
+it = it-1 + 0.5() yt+3|t-) yt+3|t
+
+*)
+ + 0.5(Bt+3|t-2)
+
+.87 .32
+
+From Financial Markets
+
+7.  Estimated TIPS-based
+
+Bcomp5|t denotes the time-t difference between 5-yr
+nominal Treasury yields and TIPS.  Sample begins in
+
+1999 due to TIPS volatility in 1997-8.
+
+it = 0.96it-1+ [-1.31 + 0.76Bcomp5|t] .44# .48
+
+# RMSE calculated for 1999:1-2004:1.
+
+
+
+Short-term Long-term
+
+Federal
+funds
+
+Treasury bills
+secondary market
+
+CDs
+secondary
+
+market
+
+Comm.
+paper Off-the-run Treasury yields Indexed yields Moody’s
+
+Baa
+
+Municipal
+Bond
+Buyer
+
+Conventional home
+mortgages
+
+primary market
+
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+1.45 1.26 1.22 1.28 1.32 1.28 2.11 3.60 4.80 5.61 1.84 2.48 7.48 5.50 6.44 4.06
+0.86 0.75 0.81 0.82 0.93 0.91 1.09 2.06 3.29 4.37 0.77 1.56 6.01 4.78 5.21 3.45
+
+1.08 0.98 1.00 1.19 1.11 1.06 2.37 3.67 4.71 5.44 1.36 2.16 6.70 5.20 6.01 3.76
+0.92 0.73 0.87 0.96 1.04 0.97 1.49 2.65 3.84 4.77 0.42 1.35 6.03 4.73 5.38 3.36
+
+1.26 1.16 1.15 1.17 1.24 1.22 1.65 2.94 4.16 5.07 1.39 2.21 6.85 5.17 5.81 3.80
+1.26 1.08 1.09 1.10 1.22 1.21 1.41 2.53 3.74 4.70 1.19 1.94 6.38 4.92 5.48 3.66
+1.22 0.98 0.94 0.94 1.04 1.06 1.23 2.27 3.51 4.56 0.95 1.75 6.19 4.87 5.23 3.52
+1.01 0.89 0.92 0.97 1.05 1.01 1.50 2.84 4.14 5.06 1.33 2.12 6.62 5.14 5.63 3.57
+1.03 0.95 0.97 1.05 1.08 1.03 1.89 3.36 4.64 5.46 1.53 2.32 7.01 5.43 6.26 3.79
+1.01 0.91 0.96 1.03 1.08 1.02 1.70 3.16 4.45 5.30 1.34 2.19 6.79 5.30 6.15 3.86
+1.01 0.91 0.94 1.02 1.10 1.02 1.75 3.17 4.45 5.30 1.24 2.07 6.73 5.27 5.95 3.74
+1.00 0.94 0.95 1.04 1.11 1.02 1.92 3.27 4.45 5.27 1.29 1.97 6.66 5.15 5.93 3.75
+0.98 0.89 0.92 1.01 1.10 1.03 1.90 3.25 4.41 5.22 1.26 1.99 6.60 5.11 5.88 3.76
+
+                                                                                                                       
+1.00 0.84 0.90 0.99 1.06 0.99 1.75 3.10 4.28 5.13 1.11 1.88 6.44 4.99 5.74 3.65
+1.01 0.92 0.95 1.01 1.05 0.99 1.73 3.05 4.22 5.06 0.88 1.77 6.27 4.86 5.64 3.55
+1.00 0.96 0.95 1.01 1.05 0.99 1.57 2.78 3.96 4.87 0.55 1.48 6.11 4.78 5.45 3.41
+
+1.01 0.96 0.96 1.02 1.05 1.00 1.67 2.99 4.17 5.03 0.76 1.71 6.23 4.81 5.58 3.50
+1.02 0.97 0.96 1.02 1.05 0.99 1.68 2.96 4.14 4.99 0.64 1.57 6.20 4.85 5.59 3.47
+1.00 0.96 0.96 1.00 1.04 0.99 1.52 2.71 3.90 4.81 0.57 1.47 6.06 4.75 5.41 3.41
+1.00 0.94 0.94 1.01 1.04 0.99 1.53 2.71 3.88 4.81 0.49 1.42 6.07 4.73 5.38 3.39
+1.00 0.95 0.94 1.00 1.04 0.98 1.52 2.71 3.89 4.82 0.49 1.44 6.09 4.79 5.40 3.36
+1.01 0.95 0.95 1.02 1.06 1.01 1.67 2.90 4.08 4.97 0.62 1.54 6.21 4.91 5.52 3.46
+1.01 0.94 0.94 1.05 1.07 1.00 1.90 3.18 4.35 5.16 0.90 1.78 6.36 5.07 5.79 3.65
+1.01 0.92 0.95 1.09 1.08 1.01 2.04 3.36 4.51 5.29 1.01 1.88 6.46 5.18 5.89 3.69
+0.99 0.89 0.98 1.15 1.09 1.01 2.18 3.48 4.58 5.36 1.11 1.96 6.53 5.20 5.94 3.69
+  -- 0.87 0.99 1.17 1.11 0.99 2.31 3.59 4.65 5.39 1.25 2.04   --   -- 6.01 3.75
+
+1.00 0.91 0.95 1.08 1.07 1.02 2.02 3.35 4.50 5.27 1.02 1.88 6.46   --   --   --
+1.01 0.92 0.96 1.13 1.09 1.04 2.12 3.41 4.55 5.30 1.05 1.91 6.48   --   --   --
+1.03 0.92 0.95 1.12 1.09 1.00 2.11 3.43 4.57 5.33 1.07 1.93 6.51   --   --   --
+0.99 0.91 0.93 1.08 1.08 1.00 2.05 3.38 4.52 5.32 0.99 1.86 6.48   --   --   --
+1.00 0.91 0.97 1.11 1.08 1.00 2.08 3.41 4.55 5.34 0.99 1.87 6.51   --   --   --
+0.99 0.93 0.98 1.13 1.08 1.00 2.13 3.45 4.58 5.35 1.03 1.92 6.53   --   --   --
+0.99 0.93 1.00 1.17 1.09 1.06 2.23 3.52 4.61 5.37 1.10 1.95 6.54   --   --   --
+1.00 0.80 0.97 1.14 1.09 1.03 2.17 3.46 4.55 5.33 1.12 1.97 6.50   --   --   --
+0.99 0.86 0.98 1.19 1.09 0.97 2.31 3.58 4.64 5.39 1.32 2.10 6.55   --   --   --
+1.01 0.87 1.00 1.19 1.11 0.99 2.30 3.57 4.62 5.36 1.23 2.03 6.52   --   --   --
+0.99 0.91 0.99 1.17 1.10 0.99 2.25 3.52 4.59 5.35 1.19 2.00 6.51   --   --   --
+1.01 0.87 0.98 1.16 1.10 0.98 2.32 3.61 4.66 5.40 1.29 2.09 6.56   --   --   --
+1.03 0.84 0.97 1.15 1.11   -- 2.37 3.67 4.71 5.44 1.36 2.16   --   --   --   --
+
+SELECTED INTEREST RATES
+(percent)
+
+NOTE: Weekly data for columns 1 through 13 are week-ending averages. Columns 2 through 4 are on a coupon equivalent basis. Data in column 6 are interpolated from data on certain commercial paper trades settled by the
+Depository Trust Company. Column 14 is the Bond Buyer revenue index, which is a 1-day quote for Thursday. Column 15 is the average contract rate on new commitments for fixed-rate mortgages (FRMs) with 80 percent
+loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-year, adjustable-rate mortgages (ARMs) at major institutional lenders offering both FRMs and
+ARMs with the same number of discount points.
+
+p - preliminary data   
+
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep  
+Oct  
+Nov  
+Dec  
+     
+Jan  
+Feb  
+Mar  
+
+Feb  
+Mar  
+Mar  
+Mar  
+Mar  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+Apr  
+
+03
+03
+03
+03
+03
+03
+03
+03
+03
+
+     
+04
+04
+04
+
+27
+5
+
+12
+19
+26
+2
+9
+
+16
+23
+30
+
+13
+14
+15
+16
+19
+20
+21
+22
+23
+26
+27
+28
+29
+
+    
+    
+    
+    
+    
+
+     
+     
+     
+     
+     
+     
+     
+     
+
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+
+03   -- High
+-- Low
+
+04   -- High
+-- Low
+
+Monthly
+
+Weekly
+
+Daily
+
+p  
+
+MFMA
+
+
+
+Strictly Confidential (FR)-
+Class II FOMC
+
+        
+
+    
+
+Money Aggregates
+Seasonally adjusted
+
+nontransactions components
+
+Annual growth rates(%):
+Annually (Q4 to Q4)
+  2001
+  2002
+  2003
+
+Quarterly(average)
+  2003-Q2
+       Q3
+       Q4
+  2004-Q1
+
+Monthly
+  2003-Apr.
+       May
+       June
+       July
+       Aug.
+       Sep.
+       Oct.
+       Nov.
+       Dec.
+
+  2004-Jan.
+       Feb.
+       Mar.
+       Apr. e
+
+Levels ($billions):
+Monthly
+  2003-Nov.
+       Dec.
+  2004-Jan.
+       Feb.
+       Mar.
+
+Weekly
+  2004-Mar.  1
+             8
+            15
+            22
+            29
+
+       Apr.  5
+            12p
+            19p
+
+     6.8
+     3.3
+     6.7
+
+     8.5
+     7.5
+     2.5
+     7.1
+
+     5.0
+    11.7
+     12.6
+      4.4
+      8.5
+      0.1
+      2.2
+     -0.8
+      8.6
+
+     -5.5
+     23.2
+     17.7
+    -13.7
+
+   1283.8
+   1293.0
+   1287.1
+   1312.0
+   1331.4
+
+   1323.8
+   1303.2
+   1320.0
+   1342.8
+   1352.6
+
+   1325.7
+   1316.9
+   1312.1
+
+    10.3
+     6.8
+     5.3
+
+     8.1
+     6.9
+    -1.5
+     3.3
+
+     8.8
+     9.8
+
+      7.4
+      8.7
+      7.6
+     -4.3
+     -3.1
+     -0.8
+     -1.0
+
+      1.0
+     10.4
+      8.8
+      8.9
+
+   6076.1
+   6071.0
+   6076.2
+   6129.1
+   6174.0
+
+   6152.5
+   6142.9
+   6162.0
+   6183.0
+   6195.6
+
+   6196.0
+   6212.3
+   6207.6
+
+    11.2
+     7.7
+     4.9
+
+     8.0
+     6.7
+    -2.5
+     2.3
+
+     9.8
+     9.3
+
+      6.1
+      9.8
+      7.4
+     -5.4
+     -4.6
+     -0.9
+     -3.6
+
+      2.8
+      7.0
+      6.4
+     15.1
+
+   4792.3
+   4777.9
+   4789.1
+   4817.1
+   4842.6
+
+   4828.6
+   4839.7
+   4842.0
+   4840.2
+   4843.0
+
+   4870.3
+   4895.4
+   4895.5
+
+    18.3
+     5.6
+     2.8
+
+     0.6
+     6.9
+    -1.6
+     9.2
+
+    -3.0
+     2.9
+
+      5.7
+     14.4
+     -0.1
+      4.7
+     -5.6
+     -3.6
+      0.3
+
+     21.0
+      5.9
+     10.5
+      8.4
+
+   2747.8
+   2748.5
+   2796.7
+   2810.4
+   2835.0
+
+   2818.3
+   2818.8
+   2840.3
+   2829.8
+   2859.7
+
+   2849.7
+   2849.8
+   2857.3
+
+    12.7
+     6.4
+     4.5
+
+     5.8
+     6.9
+    -1.5
+     5.2
+
+     5.1
+     7.7
+
+      6.9
+     10.5
+      5.2
+     -1.5
+     -3.9
+     -1.7
+     -0.6
+
+      7.3
+      9.0
+      9.3
+      8.8
+
+   8823.9
+   8819.4
+   8872.9
+   8939.5
+   9008.9
+
+   8970.8
+   8961.7
+   9002.3
+   9012.8
+   9055.3
+
+   9045.8
+   9062.0
+   9064.9
+
+54321
+
+Period
+In M3 onlyIn M2
+
+M3M2M1
+
+ p    prel iminary   
+ e    est imated   
+
+
+
+Changes in System Holdings of Securities 1 Strictly Confidential
+
+(Millions of dollars, not seasonally adjusted) Class II FOMC
+
+April 29, 2004
+
+Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
+Agency total
+
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+
+2002 21,421 --- 21,421 12,720 12,748 5,074 2,280 --- 32,822 --- 54,242 -5,366 517 -4,850
+
+2003 18,150 --- 18,150 6,565 7,814 4,107 220 --- 18,706 10 36,846 2,223 1,036 3,259
+
+2003 QI 6,024 --- 6,024 1,796 2,837 1,291 50 --- 5,974 --- 11,998 1,957 3,770 5,727
+
+QII 6,259 --- 6,259 2,209 1,790 234 --- --- 4,232 --- 10,491 -2,578 1,056 -1,522
+
+QIII 2,568 --- 2,568 --- --- 1,232 150 --- 1,382 --- 3,950 1,712 -554 1,158
+
+QIV 3,299 --- 3,299 2,561 3,188 1,350 20 --- 7,118 10 10,407 -561 2,750 2,189
+
+2004 QI 1,707 --- 1,707 1,311 2,848 1,251 275 --- 5,685 --- 7,391 -772 -3,515 -4,286
+
+2003 Aug 981 --- 981 --- --- --- --- --- --- --- 981 3,195 -935 2,259
+
+Sep 780 --- 780 --- --- 1,232 150 --- 1,382 --- 2,162 -1,562 1,817 256
+
+Oct 880 --- 880 --- 1,447 280 --- --- 1,728 --- 2,608 -73 -527 -600
+
+Nov 925 --- 925 2,561 1,503 787 --- --- 4,851 --- 5,775 -382 894 512
+
+Dec 1,494 --- 1,494 --- 237 283 20 --- 540 10 2,024 -767 5,268 4,500
+
+2004 Jan 619 --- 619 --- --- --- --- --- --- --- 619 -424 -5,097 -5,520
+
+Feb 747 --- 747 1,311 1,555 510 235 --- 3,611 --- 4,358 -568 -2,423 -2,991
+
+Mar 341 --- 341 --- 1,293 741 40 --- 2,074 --- 2,414 1,949 -1,803 146
+
+2004 Feb 4 239 --- 239 --- --- --- --- --- --- --- 239 3,715 --- 3,715
+
+Feb 11 342 --- 342 1,311 825 85 --- --- 2,221 --- 2,563 -4,798 -1,000 -5,798
+
+Feb 18 209 --- 209 --- 730 --- --- --- 730 --- 939 3,757 5,000 8,757
+
+Feb 25 86 --- 86 --- --- 425 235 --- 660 --- 746 -5,018 2,000 -3,018
+
+Mar 3 99 --- 99 --- --- --- --- --- --- --- 99 7,103 -4,000 3,103
+
+Mar 10 132 --- 132 --- 718 491 40 --- 1,249 --- 1,381 -4,997 -1,000 -5,997
+
+Mar 17 96 --- 96 --- --- --- --- --- --- --- 96 6,403 --- 6,403
+
+Mar 24 --- --- --- --- 575 250 --- --- 824 --- 824 -5,536 -1,000 -6,536
+
+Mar 31 71 --- 71 --- --- --- --- --- --- --- 71 4,352 --- 4,352
+
+Apr 7 190 --- 190 --- --- --- --- --- --- --- 190 -3,727 --- -3,727
+
+Apr 14 403 --- 403 --- --- --- --- --- --- --- 403 5,420 --- 5,420
+
+Apr 21 200 --- 200 --- --- --- --- --- --- --- 200 -4,484 4,000 -484
+
+Apr 28 1,425 --- 1,425 --- --- --- --- --- --- --- 1,425 3,917 --- 3,917
+
+2004 Apr 29 1,298 --- 1,298 --- --- --- --- --- --- --- 1,298 -23,369 -2,000 -25,369
+
+Intermeeting Period
+
+Mar 16-Apr 29 3,657 --- 3,657 --- 575 250 --- --- 824 --- 4,481 -17,331 1,000 -16,331
+
+Memo: LEVEL (bil. $)
+
+Apr 29   250.1 116.3 183.8 50.0 77.5  427.6 --- 677.7 -23.6 16.0 -7.6
+
+1.  Change from end-of-period to end-of-period.  Excludes changes in compensation for the effects of 4.  Includes redemptions (-) of Treasury and agency securities.
+     inflation on the principal of inflation-indexed securities. 5.  RPs outstanding less reverse RPs.
+2.  Outright purchases less outright sales (in market and with foreign accounts). 6.  Original maturity of 13 days or less.
+3.  Outright purchases less outright sales (in market and with foreign accounts).  Includes short-term notes 7.  Original maturity of 14 to 90 days.
+     acquired in exchange for maturing bills.  Excludes maturity shifts and rollovers of maturing issues,
+     except the rollover of inflation compensation.
+
+MRA:SCL
+
+
+
+

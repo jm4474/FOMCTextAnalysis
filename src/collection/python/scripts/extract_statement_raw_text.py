@@ -14,12 +14,12 @@ def extract_statement_raw_text():
         file_path = "../output/statement_webpages/{}".format(file)
         with open(file_path, 'rb') as f:
             file_soup = BeautifulSoup(f,'lxml')
-            raw_text = extract_html_text(file_soup)
+            raw_text = extract_html_text(file_soup).encode('utf8')
             raw_text_path = "../output/statement_raw_text/{}".format(file.replace(".html",".txt"))
-            with open(raw_text_path, "w") as f:
+            with open(raw_text_path, "wb") as f:
                 f.write(raw_text)
 
-            file_year = file[0:3]
+            file_year = file[0:4]
             statement_csv_row = {}
             statement_csv_row['meeting_start_date'] = file.split(".")[0]
             statement_csv_row['release_date'] = extract_release_date\
