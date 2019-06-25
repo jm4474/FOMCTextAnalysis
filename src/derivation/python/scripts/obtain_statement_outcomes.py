@@ -37,11 +37,11 @@ for index, row in data.iterrows():
         entry.update({"policy_change_crude":str(re.search(pattern,sentence,re.IGNORECASE).group(1))})
         entry.update({"policy_change_unit_crude":re.search(pattern,sentence,re.IGNORECASE).group(2)})
 
-    pattern = "(raise|rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change)"
+    pattern = "(fall|raise|rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change)"
     if re.search(pattern,sentence,re.IGNORECASE):
         entry.update({"policy_action_crude":re.search(pattern,sentence,re.IGNORECASE).group()})
 
-    pattern = "(?<!above)(?<!rise)(?<!decline)(?<!Committee's)(\s\d{1,2}\s?)(to)?(\s?\-?\d?\/?\d?)(\s*per\-?cent|\%)"
+    pattern = "(?<!above)(?<!rise)(?<!decline)(?<!Committee's)(?<!Committee’s)(\s\d{1,2}\s?)(to)?(\s?\-?\d?\/?\d?)(\s*per\-?cent|\%)"
     regex=re.compile(pattern,re.IGNORECASE)
     empty=""
     if regex.search(sentence):
@@ -50,30 +50,35 @@ for index, row in data.iterrows():
             string=str(match.group(1))+str(match.group(3))
             target.append(string.strip())    
          
-        pre_target,post_target= clean_target(target)
+        pre_target,post_target=clean_target(target)
 
         entry.update({"rate_target":target})
         entry.update({"pre_target":pre_target})
         entry.update({"post_target":post_target})
         
         
-        pre_target,post_target= clean_target(target)
-        
     print(entry)
+    
+    
+    
     total_entries.append(entry)
     
 
 output=pd.DataFrame(total_entries)
+
 
 output.loc[:,"policy_change"]=np.nan
 output.loc[:,"policy_action"]=np.nan
 
 for i in range(len(output.rate_target)):
     changef, finalaction=clean_policy_change(output.policy_change_crude.loc[i],output.policy_change_unit_crude.loc[i],output.policy_action_crude.loc[i])    
+    print(output.date.loc[i])
+    print(changef)
+    print(finalaction)
     output["policy_change"].loc[i]=changef
     output["policy_action"].loc[i]=finalaction
 
-final=output[['date','pre_target','post_target','policy_change','policy_action','rate_unit']]
+final=output[['date','pre_target','post_target','policy_change','policy_action']]
 final.to_csv("../output/statements_text_extraction.csv")
 
 
@@ -140,6 +145,7 @@ def clean_policy_change(change,unit,action):
             except:
                 if action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
                     finalaction="unchanged"
+                    changef=0
                 if action=="raise" or action=="rise":
                     finalaction="tightening"  
                 if action=="lower" or action=="cut" or action=="decline" or action=="reduction":
@@ -154,17 +160,19 @@ def clean_policy_change(change,unit,action):
             print(changebp)
         if unit=="basispoints" or unit=="basispoint" or unit==None:
             changebp=int(change)
-        if action=="lower" or action=="cut" or action=="decline" or action=="reduction":
+        
+        if action=="lower" or action=="cut" or action=="decline" or action=="reduction" or action=="Reduction"  or action=="fall":
             changef=-int(changebp)
             finalaction="easing"
-        else:
-            changef=int(changebp)
-        if action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
-            finalaction="unchanged"
         elif action=="raise" or action=="rise":
             finalaction="tightening"  
+            changef=int(changebp)  
+        elif action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
+            finalaction="unchanged"
+            changef=0
         else:
             finalaction=np.nan
+            changef=np.nan
     return [changef,finalaction]
 
 
