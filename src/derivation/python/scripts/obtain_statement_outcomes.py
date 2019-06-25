@@ -1,81 +1,84 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 17 14:47:03 2019
 
+"""
+Purpose: Clean the raw statements and bring output into consistent format
+Status: Final -- 06/25/2019
 @author: olivergiesecke
 """
+###############################################################################
+### Import packages
+
 import pandas as pd
 import re
-import os
 import numpy as np
+###############################################################################
 
 
-### Open the csv
+def main():
+    data=pd.read_csv("../../../collection/python/output/statement_data.csv")
+    final=do_cleaning(data)    
+    final.to_csv("../output/statements_text_extraction.csv",index=False)
 
-data=pd.read_csv("../../../collection/python/output/statement_data.csv")
-data.sort_values("meeting_start_date",inplace=True)
 
-total_entries=[]
-for index, row in data.iterrows():
+
+def do_cleaning(data):
+    data.sort_values("meeting_start_date",inplace=True)
     
-    statement=row['file_text']
-    statement=statement.replace("\n"," ")
-    
-    entry={"date":row['meeting_start_date']}
-    entry.update({"e_state":statement})
-    
-    sentence=""
-    pattern = "([^\.]*)(federal\sfunds)(\.|[^\.]*\.)"    
-    if re.search(pattern,statement,re.IGNORECASE):
-        sentence=re.search(pattern,statement,re.IGNORECASE).group()
-    else:
+    total_entries=[]
+    for index, row in data.iterrows():
+        
+        statement=row['file_text']
+        statement=statement.replace("\n"," ")
+        
+        entry={"meeting_start_date":row['meeting_start_date']}
+        entry.update({"release_date":row['release_date']})
+        entry.update({"statement":statement})
+        
         sentence=""
-
-    pattern = "(\d\/\d|\d{1,2}|)(\s*basis\s*points?|\s*percentage)"
-    if re.search(pattern,sentence,re.IGNORECASE):
-        entry.update({"policy_change_crude":str(re.search(pattern,sentence,re.IGNORECASE).group(1))})
-        entry.update({"policy_change_unit_crude":re.search(pattern,sentence,re.IGNORECASE).group(2)})
-
-    pattern = "(raise|rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change)"
-    if re.search(pattern,sentence,re.IGNORECASE):
-        entry.update({"policy_action_crude":re.search(pattern,sentence,re.IGNORECASE).group()})
-
-    pattern = "(?<!above)(?<!rise)(?<!decline)(?<!Committee's)(\s\d{1,2}\s?)(to)?(\s?\-?\d?\/?\d?)(\s*per\-?cent|\%)"
-    regex=re.compile(pattern,re.IGNORECASE)
-    empty=""
-    if regex.search(sentence):
-        target=[]
-        for match in regex.finditer(sentence):
-            string=str(match.group(1))+str(match.group(3))
-            target.append(string.strip())    
-         
-        pre_target,post_target= clean_target(target)
-
-        entry.update({"rate_target":target})
-        entry.update({"pre_target":pre_target})
-        entry.update({"post_target":post_target})
-        
-        
-        pre_target,post_target= clean_target(target)
-        
-    print(entry)
-    total_entries.append(entry)
+        pattern = "([^\.]*)(federal\sfunds)(\.|[^\.]*\.)"    
+        if re.search(pattern,statement,re.IGNORECASE):
+            sentence=re.search(pattern,statement,re.IGNORECASE).group()
+        else:
+            sentence=""
     
-
-output=pd.DataFrame(total_entries)
-
-output.loc[:,"policy_change"]=np.nan
-output.loc[:,"policy_action"]=np.nan
-
-for i in range(len(output.rate_target)):
-    changef, finalaction=clean_policy_change(output.policy_change_crude.loc[i],output.policy_change_unit_crude.loc[i],output.policy_action_crude.loc[i])    
-    output["policy_change"].loc[i]=changef
-    output["policy_action"].loc[i]=finalaction
-
-final=output[['date','pre_target','post_target','policy_change','policy_action','rate_unit']]
-final.to_csv("../output/statements_text_extraction.csv")
-
+        pattern = "(\d\/\d|\d{1,2}|)(\s*basis\s*points?|\s*percentage)"
+        if re.search(pattern,sentence,re.IGNORECASE):
+            entry.update({"policy_change_crude":str(re.search(pattern,sentence,re.IGNORECASE).group(1))})
+            entry.update({"policy_change_unit_crude":re.search(pattern,sentence,re.IGNORECASE).group(2)})
+    
+        pattern = "(fall|raise|rise|lower|cut|decline|reduction|keep|maintain|unchanged|no/s*change)"
+        if re.search(pattern,sentence,re.IGNORECASE):
+            entry.update({"policy_action_crude":re.search(pattern,sentence,re.IGNORECASE).group()})
+    
+        pattern = "(?<!above)(?<!rise)(?<!decline)(?<!Committee's)(?<!Committee’s)(\s\d{1,2}\s?)(to)?(\s?\-?\d?\/?\d?)(\s*per\-?cent|\%)"
+        regex=re.compile(pattern,re.IGNORECASE)
+        if regex.search(sentence):
+            target=[]
+            for match in regex.finditer(sentence):
+                string=str(match.group(1))+str(match.group(3))
+                target.append(string.strip())    
+             
+            pre_target,post_target=clean_target(target)
+    
+            entry.update({"rate_target":target})
+            entry.update({"pre_target":pre_target})
+            entry.update({"post_target":post_target})
+        
+        total_entries.append(entry)
+    
+    output=pd.DataFrame(total_entries)
+    
+    output.loc[:,"policy_change"]=np.nan
+    output.loc[:,"policy_action"]=np.nan
+    
+    for i in range(len(output.rate_target)):
+        changef, finalaction=clean_policy_change(output.policy_change_crude.loc[i],output.policy_change_unit_crude.loc[i],output.policy_action_crude.loc[i])    
+     
+        output["policy_change"].loc[i]=changef
+        output["policy_action"].loc[i]=finalaction
+        
+    
+    final=output[['meeting_start_date','release_date','pre_target','post_target','policy_change','policy_action','statement']]
+    return final
 
 
 def clean_fraction(frac):
@@ -140,6 +143,7 @@ def clean_policy_change(change,unit,action):
             except:
                 if action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
                     finalaction="unchanged"
+                    changef=0
                 if action=="raise" or action=="rise":
                     finalaction="tightening"  
                 if action=="lower" or action=="cut" or action=="decline" or action=="reduction":
@@ -151,20 +155,23 @@ def clean_policy_change(change,unit,action):
         #print(unit)
         if unit=="percentage":
             changebp=int(clean_fraction(change)*100)
-            print(changebp)
         if unit=="basispoints" or unit=="basispoint" or unit==None:
             changebp=int(change)
-        if action=="lower" or action=="cut" or action=="decline" or action=="reduction":
+        
+        if action=="lower" or action=="cut" or action=="decline" or action=="reduction" or action=="Reduction"  or action=="fall":
             changef=-int(changebp)
             finalaction="easing"
-        else:
-            changef=int(changebp)
-        if action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
-            finalaction="unchanged"
         elif action=="raise" or action=="rise":
             finalaction="tightening"  
+            changef=int(changebp)  
+        elif action=="keep" or action=="maintain" or action=="unchanged" or action=="no change" or action=="did not take action":
+            finalaction="unchanged"
+            changef=0
         else:
             finalaction=np.nan
+            changef=np.nan
     return [changef,finalaction]
 
+if __name__ == "__main__":
+   main()
 
