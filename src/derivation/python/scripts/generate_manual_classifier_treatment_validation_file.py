@@ -3,9 +3,9 @@ import pandas as pd
 #Reads in commented sentence alternatives and bluebook keyword classifier
 #output in order to produce file for manual validation and treatment input
 def main():
-    alternative_a = pd.read_excel("../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesA_commented.xlsx")
-    alternative_b = pd.read_excel("../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesB_commented.xlsx")
-    alternative_c = pd.read_excel("../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesC_commented.xlsx")
+    alternative_a = pd.read_excel("../../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesA_commented.xlsx")
+    alternative_b = pd.read_excel("../../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesB_commented.xlsx")
+    alternative_c = pd.read_excel("../../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesC_commented.xlsx")
     classified_data = pd.read_csv("../output/bluebook_alt_and_class_output.csv")
     classified_data['date'] = pd.to_datetime(classified_data['meeting_date'])
     alternative_a['date'] = pd.to_datetime(alternative_a['start_date'])
