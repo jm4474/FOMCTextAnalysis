@@ -86,5 +86,5 @@ def getdata_bluebook():
     # Collect output in dataframe
     return pd.DataFrame(files)
 
-main()
-
+if __name__ == "__main__":
+   main()
