@@ -30,12 +30,19 @@ def extract_statement_raw_text():
     write_statement_csv(statement_csv_rows)
 
 def extract_html_text(file_soup):
-    file_text = ""
-    p_tags = file_soup.find_all("p",attrs={'class':None})
-    for p_tag in p_tags:
-        if p_tag.text and p_tag.text.strip() and len(p_tag.contents) == 1:
-            file_text = file_text + " " + p_tag.text
-    return file_text
+    article_text = file_soup.find("div",id="article")
+
+    # kill all script and style elements
+    for script in file_soup(["script", "style"]):
+        script.extract()  # rip it out
+
+    if article_text:
+        text = article_text.get_text()
+    else:
+        text = file_soup.get_text()
+    lines = text.split("\n")
+    cleaned = [line.strip() for line in lines if line.strip()]
+    return "\n".join(cleaned)
 
 def extract_release_date(file_soup,file_year):
     date = ''
