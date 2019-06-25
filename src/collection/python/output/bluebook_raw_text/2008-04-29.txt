@@ -1,0 +1,3627 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bluebook
+
+
+ 
+
+Prefatory Note 
+ 
+ 
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+ 
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Content last modified 03/07/2014. 
+
+
+
+CLASS I FOMC - RESTRICTED CONTROLLED (FR)  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MONETARY POLICY ALTERNATIVES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE 
+BY THE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+ 
+
+APRIL 24, 2008 
+
+
+
+ 
+
+Class I FOMC - Restricted Controlled (FR) April 24, 2008 
+
+MONETARY POLICY ALTERNATIVES 
+
+Recent Developments 
+
+Summary 
+
+(1) Over the intermeeting period, conditions in financial markets generally 
+
+improved but nonetheless remained strained.  Many indicators of financial stress 
+
+spiked in the days immediately before and after the March FOMC meeting amid a 
+
+widespread flight to quality and liquidity.1  However, stresses subsequently eased in 
+
+the wake of the FOMC’s policy action and the Federal Reserve’s extraordinary 
+
+measures to boost liquidity, which helped to calm fears of a worsening of the 
+
+crisis.  Equity prices rose considerably.  Investment-grade bond spreads moved a 
+
+bit lower and speculative-grade credit spreads declined more substantially.  Bid 
+
+prices in the secondary market for leveraged loans recovered somewhat.  
+
+Investment-grade bond issuance held up well.  Treasury cash and repo market 
+
+functioning improved.  However, spreads in interbank term funding markets 
+
+increased, approaching their December highs, and commercial paper (CP) spreads 
+
+also widened.  Banks reported further tightening of terms and standards across a 
+
+range of loan categories in the most recent Senior Loan Officer Opinion Survey.  
+
+Spreads of rates on conforming mortgage products over those on comparable-
+
+maturity Treasury securities narrowed somewhat but remained high.  Although 
+
+issuance of agency residential mortgage-backed securities (RMBS) continued to be 
+
+strong, issuance of non-agency RMBS and commercial mortgage-backed securities 
+                                           
+1 Unless otherwise noted, intermeeting changes in U.S. asset prices and yields are calculated 
+under the normal practice of using the closing prices on the day before the previous FOMC 
+meeting and on Bluebook publication day.  In cases for which sharp movements close to the 
+March FOMC meeting make this convention potentially misleading, we provide greater 
+detail on price developments.   
+
+
+
+ 
+
+                                           
+2 The effective federal funds rate averaged 2.24 percent over the intermeeting period.  
+Volatility of the funds rate remained elevated, comparable to that seen in recent months.  
+Over the period, the volume of long-term RPs increased $38 billion, primarily reflecting the 
+previously announced expansion of the single-tranche term RP program.  The Desk 
+redeemed $44 billion in Treasury bills and sold $91 billion of Treasury securities on an 
+outright basis to offset the provision of balances from other sources, including primary 
+credit, the Primary Dealer Credit Facility, the Term Auction Facility, the single-tranche term 
+RP program, and draws on foreign currency swap arrangements. 
+
+(CMBS) remained close to nil.  Against this backdrop, market participants 
+
+significantly revised upward the expected path for the federal funds rate and 
+
+currently price in only a 10 percent chance of a cut of more than 25 basis points at 
+
+the upcoming FOMC meeting. 
+
+Monetary Policy Expectations and Treasury Yields 
+
+(2) The 75 basis point cut in the target federal funds rate in March was 
+
+somewhat smaller than markets had expected; near-dated federal funds futures 
+
+rates rose 10 to 15 basis points on the announcement.2  Market reports also 
+
+pointed to the two dissenting votes and to FOMC statement language conveying 
+
+somewhat more concern about inflation than had been expected as factors 
+
+contributing to an increase in the expected future path of interest rates.  The 
+
+Chairman’s testimony on April 2 was viewed as somewhat more optimistic about 
+
+the outlook for economic growth than markets had expected, and rates edged up 
+
+further that day.  Indicators of economic activity and inflation were mixed over the 
+
+intermeeting period, but overall they were apparently viewed in markets as a bit 
+
+stronger than expected.  Investors appeared to mark down the odds on an adverse 
+
+tail event in the near future.  Market participants now expect the federal funds rate 
+
+to decline to about 1.95 percent by late summer, about 60 basis points higher than 
+
+at the time of the March meeting, before rising to 3 percent by the end of 2009 
+
+Class I FOMC - Restricted Controlled (FR) Page 2 of 38
+
+
+
+ 
+
+                                           
+3 Strains in the Libor market are complicating the estimation of monetary policy expectations 
+based on longer-horizon Eurodollar futures, perhaps leading to an upward bias in the 
+expected future policy path. 
+
+(Chart 1).3  Judging from options on federal funds futures, investors place about 
+
+two-thirds odds on a 25 basis point cut at the upcoming FOMC meeting, with 
+
+most of the remaining probability on no move.  Investors see high odds on rates 
+
+being left unchanged at the June FOMC meeting, and the market-based probability 
+
+of reaching very low interest rates in the next six months has declined significantly.  
+
+The Desk’s survey of primary dealers also indicates that a 25 basis point cut is the 
+
+most likely outcome at the April meeting, but dealers place somewhat higher odds 
+
+on a 50 basis point cut than is implied by market quotes.  Also in contrast to 
+
+options prices, dealers place significant odds on cuts at the June and August 
+
+FOMC meetings and do not anticipate a shift to tighter policy until 2009.    
+
+(3) Yields on Treasury securities declined in the days immediately preceding 
+
+the March FOMC meeting, most notably on shorter-maturity instruments.  Yields 
+
+have since rebounded sharply, with 2- and 10-year yields climbing 95 and 50 basis 
+
+points, respectively, over the intermeeting period.  These increases are consistent 
+
+with both the higher expected path for policy and an easing of investor demands 
+
+for safety and liquidity.  Conditions in the Treasury coupon market had 
+
+deteriorated markedly around the time of the March FOMC meeting, as bid-asked 
+
+spreads widened and shorter-term yields plunged.  Although those conditions have 
+
+since improved, liquidity remains somewhat impaired relative to historical 
+
+averages.  In the TIPS market, the yield on 10-year issues rose in line with its 
+
+nominal counterpart.  Inflation compensation derived from TIPS was very volatile 
+
+around the time of the March FOMC meeting.  Over the intermeeting period, ten-
+
+year inflation compensation was little changed on net, as a moderate increase in 
+
+inflation compensation over the next 5 years was roughly offset by a moderate 
+
+Class I FOMC - Restricted Controlled (FR) Page 3 of 38
+
+
+
+Chart 1
+Interest Rate Developments
+
+2008 2009 2010
+1.25
+
+1.75
+
+2.25
+
+2.75
+
+3.25
+
+Percent
+
+April 24, 2008
+March 17, 2008
+
+Expected federal funds rates*
+
+*Estimates from federal funds and Eurodollar futures, with an allowance
+ for term premiums and other adjustments.
+
+ 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+Percent
+
+  Futures market*
+  Desk’s survey**
+
+<1.75_ 2.00 >2.25_
+
+Probability density for target funds rate
+after the April meeting
+
+*Derived from options on federal funds futures.
+**Survey of primary dealer economists on April 21, 2008.
+
+Implied distribution of federal funds rate six 
+months ahead*
+
+0.25 0.75 1.25 1.75 2.25 2.75 3.25 3.75 4.25 4.75 5.25
+
+Recent: 4/24/2008
+Last FOMC: 3/17/2008
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Percent
+
+*Derived from options on Eurodollar futures contracts, with term premium 
+ and other adjustments to estimate expectations for the federal funds rate.
+
+2006 2007
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+Percent
+
+Ten-year
+Two-year
+
+Nominal Treasury yields*
+
+Daily
+
+*Par yields from a smoothed nominal off-the-run Treasury yield curve.
+
+Mar.
+FOMC
+
+1994 1996 1998 2000 2002 2004 2006
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+Percent
+
+Index of inflation expectations and uncertainty*
+
+Monthly
+
+*Measured as the first principal component of fourteen forward-looking 
+inflation indicators.
+
+ 30
+
+ 40
+
+ 50
+
+ 60
+
+ 70
+
+ 80
+
+ 90
+
+100
+
+110
+
+120
+
+130
+
+2006 2007
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+$/barrel Percent
+
+Spot WTI (left scale)
+Next five years (right scale)
+Five-to-ten year forward (right scale)
+
+Inflation compensation and oil prices*
+
+Daily
+
+*Estimates based on smoothed nominal and inflation-indexed
+ Treasury yield curves and adjusted for the indexation-lag (carry) effect.
+
+Mar.
+FOMC
+
+Class I FOMC - Restricted Controlled (FR) Page 4 of 38
+
+
+
+ 
+
+                                           
+4 Five-year inflation compensation dropped 22 basis points the day before the March FOMC 
+meeting but bounced up 9 basis points by 2:00 p.m. on FOMC day.  The 2:00 p.m. rate is 
+used here for computing intermeeting movements. 
+
+decrease in compensation from 5 to 10 years ahead.4  Compared to the levels 
+
+prevailing earlier in March, both the 5-year and 5-to-10-year forward measures of 
+
+inflation compensation have declined, as firmer policy expectations and reduced 
+
+uncertainty may have lowered inflation expectations and risk premiums.  However, 
+
+some other indicators of inflation expectations have increased in recent weeks.  
+
+The staff’s index of inflation expectations and uncertainty, distilled from a 
+
+collection of market and survey data on future inflation levels and risks, edged 
+
+above the top of its 10-year range in March and is estimated to have remained 
+
+there in April, primarily reflecting increases in the Michigan survey of inflation 
+
+expectations at both short and long horizons.  
+
+Money Markets 
+
+(4) The overnight Treasury general collateral (GC) repo rate plummeted on 
+
+the day of the March FOMC meeting and hit a low of 20 basis points for several 
+
+days thereafter, as investors exhibited a strong preference for Treasury securities 
+
+over other collateral (Chart 2).  The overnight GC repo rate recovered to near the 
+
+federal funds target immediately after the first Term Securities Lending Facility 
+
+(TSLF) auction on March 27 and it has remained around that level since.  Dealer 
+
+haircuts on non-Treasury repos—which had widened significantly in the weeks 
+
+before the March FOMC meeting—edged higher on most collateral types over the 
+
+period.  (See box “Developments in Central Banks’ Liquidity Facilities.”)   
+
+(5) Spreads of interbank term funding rates over comparable-maturity 
+
+overnight index swap (OIS) rates have trended up over the intermeeting period, 
+
+Class I FOMC - Restricted Controlled (FR) Page 5 of 38
+
+
+
+Chart 2
+Asset Market Developments
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2007 2008
+
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+
+100
+
+120
+
+140
+Basis points
+
+1-month
+3-month
+
+Note. Libor quotes are taken at 6:00 am, and OIS quotes are observed
+at the close of business of the previous trading day.
+
+Spreads of Libor over OIS
+
+Daily Mar.
+FOMC
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2007 2008
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+Basis points
+
+ABCP
+A2/P2  
+
+Daily
+
+Spreads on thirty-day commercial paper
+
+Note. The ABCP spread is the AA ABCP rate minus the AA nonfinancial
+rate. The A2/P2 spread is the A2/P2 nonfinancial rate minus the AA
+nonfinancial rate. Last observation is for Apr. 23, 2008.
+
+Mar.
+FOMC
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2007 2008
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+Percent
+
+Target federal funds rate
+Treasury
+MBS
+
+Daily
+
+Overnight repo rates
+
+Source. Bloomberg
+
+Mar.
+FOMC
+
+Jan. Mar. May July Oct. Dec. Feb. Apr.
+2007 2008
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+Basis points
+
+Banks*
+Broker/dealers**
+
+*Median spread of 23 banking organizations.
+**Median spread of 10 broker-dealers.
+Note. Last observation is for Apr. 23, 2008.
+
+CDS spreads at selected financial institutions
+
+Daily Mar.
+FOMC
+
+2002 2003 2004 2005 2006 2007 2008
+ 50
+
+ 70
+
+ 90
+
+110
+
+130
+
+150
+
+170
+Index(12/31/00=100)
+
+Wilshire
+Dow Jones Financial
+
+Equity prices
+
+Daily Mar.
+FOMC
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+2002 2003 2004 2005 2006 2007 2008
+   0
+
+ 250
+
+ 500
+
+ 750
+
+1000
+
+Basis points Basis points
+
+Ten-Year BBB (left scale)
+Ten-Year High-Yield (right scale)
+
+Corporate bond spreads*
+
+Daily
+
+*Measured relative to an estimated off-the-run Treasury yield curve.
+
+Mar.
+FOMC
+
+Class I FOMC - Restricted Controlled (FR) Page 6 of 38
+
+
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Developments in Central Banks’ Liquidity Facilities 
+
+The Federal Reserve’s liquidity facilities appear to   have eased some of the strains in term funding 
+markets.  Dislocations r emain in interbank markets, but liquidity provision to securities dealers 
+seems to have satisfied a substantial portion of their need for funding. 
+
+Stress in bank funding markets, combined with the narrowing of the spread between the primary 
+credit rate and the target federal funds rate, has led to substantial overnight and term borrowing 
+from the primary credit facility.  Most of the borrowing institutions have used the window for their 
+own funding needs, but some institutions appear to have used the window to arbitrage the market.  
+Many depository institutions, however, apparently are still reluctant to access the discount window, 
+and the overnight federal funds market has remained volatile, with trading frequently taking place 
+above the primary credit rate, and pronounced tiering of rates across borrowers. 
+
+By contrast, depository institutions have not shied away from the Term Auction Facility (TAF).  
+Demand was strong at the March and April TAF auctions; there was a large number of bidders, and 
+bid-to-cover ratios were around 1.8 even with auction sizes that were increased to $50 billion.  
+Indeed, the stop-out rates at the two auctions in April were well above the primary credit rate and 
+near or above term Libor rates. 
+
+Borrowing under the Primary Dealer Credit Facility peaked at around $40 billion in late March and 
+has since declined to around $20 billion.  The series of single-tranche term repos operations has 
+cumulated to $75 billion, easing funding needs for primary dealers, especially for MBS collateral. 
+
+To maintain the overnight federal funds rate close to its target, the Desk has drained balances to 
+offset the liquidity provided through the facilities described above, including outright sales of 
+Treasury securities that totaled $91 billion over the intermeeting period.  
+
+Operation of the Term Securities Lending Facility (TSLF) commenced on March 27.  Under the 
+TSLF, the Desk lends Treasury securities in exchange for a substantially broader set of collateral 
+than accepted in the traditional securities lending facility.  To date, there have been five TSLF 
+auctions, offering between $25 billion and $75 billion each.  The April 10 and April 24 schedule 2 
+auctions were undersubscribed, apparently reflecting reduced stresses for dealers in funding lower-
+quality collateral.  With the increased supply of Treasuries, repo market functioning improved 
+notably, Treasury general collateral repo rates rose substantially, and spreads of Treasury repo rates 
+over other repo rates narrowed. 
+
+Other central banks have also provided extra liquidity to markets in both domestic currencies and 
+in dollars.  The Bank of England conducted two three-month repo auctions during the intermeeting 
+period and unveiled a temporary scheme that will allow U.K. banks to swap MBS backed by U.K. 
+and European residential mortgages that had been issued before the end of 2007 and other asset-
+backed securities in exchange for government bonds for a period of up to three years. The ECB 
+and SNB drew upon their swap lines with the Fed to provide dollar funding in conjunction with 
+TAF auctions.  The ECB auctioned $15 billion each on March 24, April 7, and April 21, and the 
+SNB auctioned $6 billion each on March 25 and April 22.  On March 28, the ECB announced new 
+long-term refinancing operations (LTROs) with a six-month maturity; the first LTRO auction on 
+April 2 was met with high demand. 
+
+Class I FOMC - Restricted Controlled (FR) Page 7 of 38
+
+
+
+ 
+
+                                           
+5 There was a widespread belief in late March and early April that banks on the Libor panel 
+were understating their borrowing costs, particularly after the ninth TAF auction stopped 
+out at a rate above one-month Libor.  Libor-OIS spreads rose notably in mid-April after 
+reports that the British Bankers’ Association had admonished members of its panel not to 
+contribute deceptive or stale information.  
+
+and they are approaching the highs reached last December.5  Term funding spreads 
+
+also widened in sterling and euro despite several steps taken by foreign central 
+
+banks to ease funding pressures.  The strains in these markets apparently reflect 
+
+mounting pressures on bank balance sheets, continued uncertainty regarding the 
+
+size and distribution of losses on mortgage-related and other assets, and a general 
+
+desire on the part of financial firms to reduce leverage.  The premium on rates 
+
+paid by banks of perceived lower credit quality has increased notably in recent 
+
+weeks. 
+
+(6) Spreads of rates on asset-backed, financial, and lower-rated nonfinancial 
+
+CP over the yield on higher-rated nonfinancial paper all rose in the weeks leading 
+
+up to the March FOMC meeting and they have remained elevated since then.  
+
+However, with the yield on higher-rated paper moving down as a result of policy 
+
+easing, most CP rates are down significantly from last year.  The level of 
+
+outstanding unsecured CP have shown little trend in recent months.  The amount 
+
+of outstanding asset-backed CP continued to decline gradually in the United States 
+
+and Europe.  
+
+Capital Markets  
+
+(7) Broad equity price indexes were volatile at times but rose about 9 
+
+percent on net over the intermeeting period.  Financial sector stocks outperformed 
+
+the broad indexes.  First-quarter results at large financial firms were generally poor 
+
+but roughly in line with market expectations.  However, steps announced by some 
+
+firms to raise new capital and to dispose of troubled assets encouraged investors 
+
+and may have reduced concerns about possible failures of important institutions.  
+
+Class I FOMC - Restricted Controlled (FR) Page 8 of 38
+
+
+
+ 
+
+Outside of the financial sector, first-quarter earnings reports have been quite solid 
+
+over the intermeeting period.  The spread between the twelve-month forward 
+
+trend earnings-price ratio for S&P 500 firms and the real long-term Treasury 
+
+yield—a rough gauge of the equity risk premium—has edged down in recent 
+
+weeks but remains near the upper end of its range over the past two decades.  
+
+Option-implied volatility on the S&P 500 index declined substantially, and, while 
+
+still above its range in recent years, it is now near its longer-term average.   
+
+(8) Yields on investment-grade corporate bonds rose less than comparable-
+
+maturity Treasury yields, implying some narrowing of spreads from recent high 
+
+levels.  For speculative-grade bonds, yields actually fell, leaving spreads down 
+
+notably from the peaks reached around the time of the March FOMC meeting.  
+
+Credit default swap (CDS) spreads were also down, most notably for large banks 
+
+and broker-dealers.  However, the median CDS spread of a group of regional 
+
+banks, which jumped last month, in part on concerns about deteriorating asset 
+
+quality, has not fallen back.  Issuance of investment-grade bonds continued to be 
+
+robust in March and the first half of April.  After a few months of near-zero 
+
+issuance, speculative-grade bond issuance has picked up slightly of late.  Leveraged 
+
+loan issuance weakened further in the first quarter.  However, secondary market 
+
+bid prices for the most liquid loans extended their rebound from February lows, 
+
+reflecting improved market sentiment as banks reduced their backlogs of 
+
+underwritten deals (Chart 3).  Similarly, implied spreads on the LCDX indexes 
+
+dropped considerably.  Implied volatility in the CDS market remain higher than 
+
+normal. 
+
+(9)     Concerns about the impact of stresses at financial guarantors on the 
+
+municipal bond market appear to have diminished in recent months.  Ratios of 
+
+municipal bond yields to comparable-maturity Treasury yields eased somewhat in 
+
+April after spiking last month, but remain quite high.  Recently, the state of 
+
+Class I FOMC - Restricted Controlled (FR) Page 9 of 38
+
+
+
+Chart 3
+Asset Market Developments
+
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
+
+ 86
+
+ 88
+
+ 90
+
+ 92
+
+ 94
+
+ 96
+
+ 98
+
+100
+
+102
+Percent of par
+
+Daily
+
+Average bid price on most liquid leveraged loans
+
+Note. Last observation is for Apr. 23, 2008.
+Source. LSTA/LPC Mark-to-Market Pricing on SMi 100 index.
+
+Mar.
+FOMC
+
+2002 2003 2004 2005 2006 2007 2008
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+Ratio
+
+Twenty-year
+One-year
+
+Weekly
+
+Municipal bond yield ratios
+
+Note. Yields over Treasury. Last observation is for Apr. 17, 2008.
+Source. Bloomberg.
+
+Mar.
+FOMC
+
+1996 1998 2000 2002 2004 2006 2008
+
+ -5
+
+  0
+
+  5
+
+ 10
+
+ 15
+
+Growth of house prices
+Percent
+
+Quarterly, s.a.a.r.
+
+Q1p
+
+OFHEO Purchase-Only Index
+
+p Projected.
+
+2002 2003 2004 2005 2006 2007 2008
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+Basis points
+
+FRM
+One-Year ARM
+
+Mortgage rate spreads
+
+Weekly
+
+Note. FRM spread relative to ten-year Treasury. ARM spread relative
+to one-year Treasury. Last weekly observation is for Apr. 23, 2008.
+Source.  Freddie Mac.
+
+Mar.
+FOMC
+
+2006 2007
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+220
+
+240
+Basis points
+
+Fannie Mae
+Ginnie Mae
+
+Agency option-adjusted spreads
+
+Daily
+
+Note. Spreads over Treasury.
+Source. Bloomberg.
+
+Mar.
+FOMC
+
+Jan. Mar. May July Sept. Nov. Jan. Mar.
+2007 2008
+
+    0
+
+  500
+
+ 1000
+
+ 1500
+
+ 2000
+Basis points
+
+AAA    
+BBB    
+
+Ten-year investment grade CMBS spreads
+
+Weekly
+
+Note. Spreads over swaps. Last weekly observation is for Apr. 23, 2008.
+Source. Morgan Stanley.
+
+Mar.
+FOMC
+
+Class I FOMC - Restricted Controlled (FR) Page 10 of 38
+
+
+
+ 
+
+California announced that it would no longer seek insurance for its bonds from 
+
+financial guarantors.  Issuance of long-term municipal bonds was very strong in 
+
+March and that strength appears to have carried into April.  Some of this issuance 
+
+reflected the refinancing of auction rate securities (ARS) whose auctions failed 
+
+earlier this year.  The troubles in the ARS market have also damped funding for 
+
+student loans.  In addition, the student loan market has been affected by a 
+
+tightening of government-mandated lending terms and a general aversion to 
+
+structured finance products.  Lenders accounting for more than 10 percent of the 
+
+volume of government-guaranteed student lending have exited the market, and 
+
+other large originators announced that they would curtail lending to students 
+
+attending schools with poorer repayment records. 
+
+(10) Interest rates on 30-year fixed-rate conforming mortgages, which had 
+
+shot up in February, declined significantly in the days before the March FOMC 
+
+meeting.  Over the intermeeting period these rates remained fairly steady.  Posted 
+
+offer rates on 30-year jumbo mortgages have declined slightly on balance since the 
+
+March FOMC meeting.  Overall, spreads between prime mortgage rates and 
+
+comparable-maturity Treasury securities narrowed substantially over the 
+
+intermeeting period, though they remain high relative to historical norms.  Option-
+
+adjusted yield spreads on agency MBS relative to Treasury securities fell back 
+
+somewhat from their peak just before the March FOMC meeting, but they too 
+
+remain elevated.  Issuance of agency RMBS stayed strong, but issuance of private-
+
+label RMBS backed by nonconforming loans remained very light.  Likewise, 
+
+issuance of commercial mortgage-backed securities (CMBS) continued to be 
+
+negligible and spreads on CMBS over swaps remain at historically high levels. 
+
+Class I FOMC - Restricted Controlled (FR) Page 11 of 38
+
+
+
+ 
+
+                                           
+6 There were no foreign official purchases or sales of dollars by reporting central banks in 
+industrial countries during the intermeeting period. 
+
+Foreign Developments  
+
+(11) The trade-weighted index of the exchange value of the dollar against the 
+
+major foreign currencies increased 2¼ percent over the intermeeting period (Chart 
+
+4).  The dollar had fallen sharply immediately before the March FOMC meeting 
+
+and rebounded soon afterward; it has been moving up in recent days.6  In line with 
+
+improvements in market sentiment in the United States, major headline equity 
+
+indexes in Europe and Japan ended the period up 6 to 13 percent on net.  
+
+Financial sector share prices generally rose even more, despite announcements of 
+
+further writedowns by a number of large foreign banks.  Market analysts appeared 
+
+to be focused on earnings reports by several U.S. banks and broker-dealers that 
+
+were seen as reassuring, as well as both actual and planned capital raising at some 
+
+U.S. and foreign banks.  The Bank of England and the Bank of Canada lowered 
+
+their policy interest rates during the intermeeting period by 25 and 50 basis points, 
+
+respectively, while the European Central Bank and the Bank of Japan left their 
+
+policy rates unchanged.  Ten-year nominal sovereign yields were up about 15 to 45 
+
+basis points in the advanced foreign economies.   
+
+(12) The exchange value of the dollar against the currencies of our other 
+
+important trading partners fell about 1 percent over the intermeeting period, as 
+
+readings on both economic activity and financial markets held up reasonably well 
+
+in most Asian and Latin American economies.  Emerging market risk spreads 
+
+generally narrowed and most stock price indexes moved up.  A notable exception 
+
+was China, where, notwithstanding indications of continued strong economic 
+
+growth, the Shanghai equity index dropped 2 percent. 
+
+Class I FOMC - Restricted Controlled (FR) Page 12 of 38
+
+
+
+Chart 4
+International Financial Indicators
+
+2005 2006 2007
+ 84
+
+ 88
+
+ 92
+
+ 96
+
+100
+
+104
+
+108
+
+112
+
+116
+
+Broad
+Major Currencies
+Other Important Trading Partners
+
+Nominal trade-weighted dollar indexes
+
+Daily
+
+Index(12/31/04=100)
+
+Mar. FOMC
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0
+
+2005 2006 2007
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+UK (left scale)
+Germany (left scale)
+Japan (right scale)
+
+Ten-year government bond yields (nominal)
+
+Daily
+
+Percent
+
+Mar. FOMC
+
+2005 2006 2007
+ 90
+
+100
+
+110
+
+120
+
+130
+
+140
+
+150
+
+160
+
+170
+
+180
+
+UK (FTSE-350)
+Euro Area (DJ Euro)
+Japan (Topix)
+
+Stock price indexes
+industrial countries
+
+Daily
+
+Index(12/30/04=100)
+
+Mar. FOMC
+
+2005 2006 2007
+ 70
+
+100
+
+130
+
+160
+
+190
+
+220
+
+250
+
+280
+
+Brazil (Bovespa)
+Korea (KOSPI)
+Mexico (Bolsa)
+
+Stock price indexes
+emerging market economies
+
+Daily
+
+Index(12/30/04=100)
+
+Mar. FOMC
+
+Class I FOMC - Restricted Controlled (FR) Page 13 of 38
+
+
+
+ 
+
+Debt and Money 
+
+(13) The debt of domestic nonfinancial sectors is estimated to have expanded 
+
+at an annual rate of 5¾ percent in the first quarter, more than 2 percentage points 
+
+below last year’s rate (Chart 5).  Nonfinancial business sector debt decelerated 
+
+again in the first quarter, as growth in both C&I loans and bonds slowed.  In part, 
+
+this slowdown reflects the cooling of mergers and acquisitions and a reduction in 
+
+equity repurchases.  In the household sector, home mortgage debt and consumer 
+
+credit are estimated to have continued their recent slowdowns into the first 
+
+quarter.  Falling house prices are a major factor holding down household credit.  
+
+(14) In the April Senior Loan Officer Opinion Survey, the net percentages of 
+
+respondents that reported tightening credit standards over the past three months 
+
+increased further, and for the domestic respondents these measures are at or close 
+
+to record levels for most major loan categories.  Nonetheless, commercial bank 
+
+credit grew robustly in March, led by banks’ acquisitions of securities and strength 
+
+in business lending and residential real estate loans.  C&I loans at large banks 
+
+continued to expand smartly, as some nonfinancial firms reportedly drew on 
+
+existing lines of credit.  Consistent with these reports, the Senior Loan Officer 
+
+Opinion Survey indicated that demand for C&I loans has been bolstered by shifts 
+
+from other sources of business credit.  For the first quarter as a whole, bank credit 
+
+expanded at a moderate pace, down notably from the very rapid advance posted in 
+
+the second half of last year. 
+
+(15) M2 expanded at a robust 12½ percent annual rate in March, bringing 
+
+growth for the first quarter to a 9½ percent pace.  Retail money market funds and 
+
+liquid deposits continued to rise rapidly as investors sought safety and liquidity.  In 
+
+addition, growth of liquid deposits was boosted by recent declines in opportunity 
+
+costs.  Currency increased moderately after several quarters of very slow growth, 
+
+but most of this rebound appears to reflect difficulties in seasonal adjustment 
+
+Class I FOMC - Restricted Controlled (FR) Page 14 of 38
+
+
+
+Chart 5
+Debt and Money
+
+Growth of debt of nonfinancial sectors
+
+Percent, s.a.a.r.
+
+2006
+
+2007
+
+2008
+
+Q1
+Q2
+Q3
+Q4
+
+Q1 e
+
+Total_____
+
+8.8
+
+8.1
+
+8.1
+7.2
+9.1
+7.3
+
+5.8
+
+Business__________
+
+9.7
+
+11.5
+
+10.0
+11.0
+12.8
+10.6
+
+6.5
+
+Household__________
+
+10.2
+
+6.9
+
+6.8
+7.2
+7.0
+5.7
+
+3.6
+
+e Estimated.
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+C&I loans
+Commercial paper
+Bonds
+
+Sum 
+
+Changes in selected components of debt of
+nonfinancial business*
+
+$Billions
+
+2005 2006 Q1 Q2 Q3 Q4 Q1
+2007 2008
+
+Monthly rate
+
+*Commercial paper and C&I loans are seasonally adjusted, bonds are not.
+
+1991 1993 1995 1997 1999 2001 2003 2005 2007
+
+-3
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+Growth of debt of household sector
+Percent
+
+Quarterly, s.a.a.r.
+
+e Estimated.
+
+Q1e
+
+Q1e
+
+Consumer
+credit
+
+Home
+mortgage
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+-30
+
+-15
+
+0
+
+15
+
+30
+
+45
+
+60
+
+75
+
+90
+
+Net percentage of banks tightening standards
+for business loans Percent
+
+*Loans to large and medium-sized firms.
+
+Commercial real estate
+
+C&I*
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Growth of M2
+
+s.a.a.r.
+Percent
+
+2005 H1 H2 Q1 Q2 Q3 Q4 Q1
+
+2006 2007 2008
+
+0.25
+
+0.50
+
+1.00
+
+2.00
+
+4.00
+
+8.00
+
+1993 1995 1997 1999 2001 2003 2005 2007
+
+1.8
+
+1.9
+
+2.0
+
+2.1
+
+2.2
+
+2.3
+
+M2 velocity and opportunity cost
+VelocityPercentage points
+
+Quarterly
+
+Opportunity cost*
+(left axis)
+
+Velocity
+(right axis)
+
+p Projected.
+
+*Two-quarter moving average.
+
+Q1p
+
+Q1p
+
+Class I FOMC - Restricted Controlled (FR) Page 15 of 38
+
+
+
+ 
+
+owing to an unusually early Easter.  Small time deposits contracted sharply in 
+
+March, the first decline since 2004, and the spreads of rates paid on these deposits 
+
+relative to other deposits narrowed.  These spreads had been somewhat elevated in 
+
+recent months as some institutions had been bidding aggressively for these 
+
+deposits as a funding source. 
+
+Class I FOMC - Restricted Controlled (FR) Page 16 of 38
+
+
+
+ 
+
+Economic Outlook 
+
+(16) Incoming information has been broadly consistent with the staff’s 
+
+expectations at the time of the March Greenbook.  Consequently, the Greenbook 
+
+projection for both economic activity and inflation is little changed from March.  
+
+The staff forecast continues to be conditioned on the assumption that the target 
+
+federal funds rate is reduced to 2 percent at the April FOMC meeting and to 1¾ 
+
+percent at the June meeting and is then maintained at that level through the end of 
+
+2009.  Long-term Treasury yields edge up through this year and next as the 
+
+influence of the particularly low short-term interest rates expected over this period 
+
+wanes.  Equity prices start from a level about 5 percent higher than anticipated in 
+
+the previous staff forecast but otherwise follow a similar contour, increasing at an 
+
+annual rate of about 7 percent over the remainder of this year, before accelerating 
+
+to a rate of around 11½ percent in 2009 as the equity premium declines toward 
+
+more normal levels.  The trade-weighted dollar is again assumed to depreciate at an 
+
+annual rate of 3 percent over the projection period.  In line with futures quotes, 
+
+the price of WTI crude oil is expected to average around $116 per barrel through 
+
+the remainder of 2008 and $111 per barrel in 2009, about $10 per barrel higher 
+
+than in the previous Greenbook.   
+
+(17) The staff continues to judge that the economy is in recession, with real 
+
+GDP projected to contract at an annual rate of about 1½ percent in the second 
+
+quarter of this year.  Fiscal stimulus and the lagged effects of monetary policy 
+
+easing engender a shallow recovery in the latter half of 2008.  As in the March 
+
+Greenbook, the level of GDP is projected to be almost unchanged over 2008 as a 
+
+whole.  Thereafter, as the functioning of financial markets gradually improves and 
+
+the drag on demand from past increases in oil prices lessens, the recovery gathers 
+
+momentum, with GDP advancing by around 2¾ percent in 2009, about ½ 
+
+percentage point faster than the staff’s estimate of the expansion in the productive 
+
+Class I FOMC - Restricted Controlled (FR) Page 17 of 38
+
+
+
+ 
+
+potential of the economy.  As in the March projection, the sub-par economic 
+
+growth over the next few quarters causes the unemployment rate to rise to 5¾ 
+
+percent by the end of this year.  The unemployment rate edges down only slightly 
+
+during 2009 and is still around ¾ of a percentage point above the staff’s estimate 
+
+of the NAIRU at the end of next year.  Total PCE inflation is projected to remain 
+
+elevated through much of this year, boosted by increases in both energy and 
+
+nonfuel import prices.  As in March, the staff’s inflation forecast assumes that the 
+
+public’s long-term inflation expectations have moved up a little since the end of 
+
+last year.  However, the projected leveling-out of oil and other commodity prices, 
+
+combined with an anticipated deceleration in import prices and increasing slack in 
+
+labor and product markets, push headline inflation down to around 1¾ percent in 
+
+2009.  The staff forecast for core PCE inflation follows a broadly similar pattern, 
+
+slowing from an average of 2¼ percent in 2008 to 2 percent in 2009.  
+
+(18) The Greenbook forecast has been extended beyond 2009 using the 
+
+FRB/US model with adjustments to ensure consistency with the staff’s assessment 
+
+of longer-run trends.  The extended forecast embeds several key assumptions:  
+
+Monetary policy aims to stabilize PCE inflation in the long run at a level of 1¾ 
+
+percent; trend multifactor productivity grows a bit faster than 1 percent per year; 
+
+relative energy prices edge down; the real value of the dollar depreciates steadily at 
+
+about 1 percent per year; and fiscal policy is essentially neutral.  With the 
+
+unemployment rate notably above the NAIRU and core inflation running at about 
+
+2 percent in 2009, these long-run assumptions are consistent with a very gradual 
+
+tightening in monetary policy; the federal funds rate rises from less than 2 percent 
+
+on average in 2010 to 4 percent by the end of 2012.  Policy is nonetheless 
+
+sufficiently accommodative that the unemployment rate declines to 4¾ percent—
+
+the staff’s assessment of the NAIRU—by 2012.  Under the pressure of persistent 
+
+Class I FOMC - Restricted Controlled (FR) Page 18 of 38
+
+
+
+ 
+
+                                           
+7  In conducting these simulations, policymakers and participants in financial markets are 
+assumed to understand fully the forces shaping the economic outlook (as summarized by the 
+extended Greenbook projection), whereas households and firms form their expectations 
+using more limited information. 
+
+slack, core PCE inflation edges down over time, while headline inflation stays 
+
+close to 1¾ percent. 
+
+Monetary Policy Strategies  
+
+(19) Consistent with the minor revisions to the staff’s outlook for real activity 
+
+and actual and projected financial conditions, the Greenbook-consistent estimate 
+
+of short-run r* is -0.5 percent, essentially unchanged from the March Bluebook 
+
+(Chart 6).  The FRB/US model-based estimate of short-run r* is 0.3 percent, 
+
+which is a bit higher than the current real funds rate.  The estimate of short-run r* 
+
+from the small structural model is -0.8 percent, slightly above the March estimate.  
+
+The single-equation model estimate of short-run r* is about unchanged from the 
+
+previous Bluebook. 
+
+(20) Chart 7 depicts optimal control simulations of the FRB/US model using  
+
+the long-run Greenbook forecast beyond 2009.  In these simulations, policymakers 
+
+place equal weight on keeping core PCE inflation close to a specified goal, on 
+
+keeping unemployment close to the long-run NAIRU, and on avoiding changes in 
+
+the nominal federal funds rate.7  For an inflation goal of 1½ percent (the left-hand 
+
+set of charts), the simulation prescribes a nominal federal funds rate that declines 
+
+to around 2 percent by the end of next year and then rises toward 4 percent by late 
+
+2012.  With an inflation goal of 2 percent (the right-hand set of charts), the 
+
+optimal funds rate falls more sharply, dipping to near 1 percent by late 2009 before 
+
+rising to about 4¼ percent by 2012.  Under either inflation goal, these 
+
+prescriptions for the funds rate, as well as the associated outcomes for the 
+
+unemployment rate, are little changed from those shown in the previous 
+
+Class I FOMC - Restricted Controlled (FR) Page 19 of 38
+
+
+
+Chart 6
+Equilibrium Real Federal Funds Rate
+
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8 
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+Percent     
+
+ 
+
+Note: Appendix A provides background information regarding the construction of these measures and confidence intervals.
+
+Short-Run Estimates with Confidence Intervals
+
+Actual real federal funds rate
+Range of model-based estimates
+70 Percent confidence interval
+90 Percent confidence interval
+Greenbook-consistent measure
+
+Short-Run and Medium-Run Measures
+ 
+
+Current Estimate Previous Bluebook
+   
+
+Short-Run Measures   
+   
+
+   Single-equation model (2.1 (2.0
+   
+
+   Small structural model -0.8 -1.1
+   
+
+   Large model (FRB/US) (0.3 -0.1
+   
+
+   Confidence intervals for three model-based estimates   
+   
+
+      70 percent confidence interval -1.4 - 2.5  
+   
+
+      90 percent confidence interval -2.4 - 3.7  
+   
+
+   Greenbook-consistent measure -0.5 -0.5
+   
+
+Medium-Run Measures   
+   
+
+   Single-equation model (2.2 (2.2
+   
+
+   Small structural model (1.7 (1.7
+   
+
+   Confidence intervals for two model-based estimates   
+   
+
+      70 percent confidence interval (1.0 - 2.9  
+   
+
+      90 percent confidence interval (0.5 - 3.7  
+   
+
+   TIPS-based factor model (2.0 2.0
+   
+
+Memo   
+   
+
+   Actual real federal funds rate (0.1 (0.8
+
+Class I FOMC - Restricted Controlled (FR) Page 20 of 38
+
+
+
+Chart 7
+
+Optimal Policy Under Alternative Inflation Goals
+
+2008 2009 2010 2011 2012
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5 
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+Percent
+
+ 
+
+1½ Percent Inflation Goal
+Federal funds rate
+
+Current Bluebook
+March Bluebook
+
+2008 2009 2010 2011 2012
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0 
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0
+Percent
+
+ 
+
+Civilian unemployment rate
+
+2008 2009 2010 2011 2012
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50 
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50
+Percent
+
+ 
+
+Core PCE inflation
+Four-quarter average
+
+2008 2009 2010 2011 2012
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5 
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+Percent
+
+ 
+
+2 Percent Inflation Goal
+
+Current Bluebook
+March Bluebook
+
+2008 2009 2010 2011 2012
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0 
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0
+Percent
+
+ 
+
+2008 2009 2010 2011 2012
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50 
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50
+Percent
+
+ Four-quarter average
+
+Class I FOMC - Restricted Controlled (FR) Page 21 of 38
+
+
+
+ 
+
+Bluebook, consistent with the small revisions to the Greenbook projection.  
+
+However, the very near-term paths for the core inflation rate have been revised 
+
+down because of the transitory effects of the favorable news on non-energy prices 
+
+received since the close of the March Bluebook; core inflation is a touch higher in 
+
+2009, though, as higher oil and import prices this year are projected to add a bit 
+
+more to core prices through much of next year. 
+
+(21) The outcome-based monetary policy rule prescribes a funds rate path 
+
+that moves down to 2 percent by the fourth quarter of this year, rises gradually 
+
+throughout 2009, and then stays between 2¾ and 3 percent (Chart 8).  On average 
+
+in 2008, this projection is around 30 basis points lower than the trajectory in the 
+
+March Bluebook, mostly reflecting a lower funds rate at the start of the projection.  
+
+According to financial market quotes, investors anticipate that the funds rate will 
+
+remain around 2¼ percent through the end of this year and then progressively rise 
+
+to slightly above 4 percent by the end of 2012.  This path is slightly higher than in 
+
+the previous Bluebook.  The confidence intervals obtained from stochastic 
+
+simulations of the FRB/US model indicate a substantial probability that the funds 
+
+rate falls below 1 percent within the next few quarters, whereas the probability 
+
+implied by options on interest rate caps is relatively low.  (See box “The 
+
+Likelihood of Reaching Very Low Interest Rates.”)  The near-term prescriptions 
+
+from the simple policy rules proposed by Taylor (1993, 1999) are lower than those 
+
+shown in the March Bluebook, but remain well above the current target rate or the 
+
+prescriptions of the estimated outcome-based rule.  These prescriptions are 
+
+relatively high because they do not include any role for policy inertia and do not 
+
+take into account current financial market pressures and other forward-looking 
+
+information captured by market expectations and the staff forecast. 
+
+Class I FOMC - Restricted Controlled (FR) Page 22 of 38
+
+
+
+Chart 8
+
+The Policy Outlook in an Uncertain Environment
+
+2008 2009 2010 2011 2012
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+Percent
+
+ 
+
+Note: Appendix B provides background information regarding the specification of each rule and the methodology used in
+constructing confidence intervals and near-term prescriptions.
+
+ FRB/US Model Simulations of
+Estimated Outcome-Based Rule
+
+Current Bluebook
+     Previous Bluebook
+70 Percent confidence interval
+90 Percent confidence interval
+Greenbook assumption
+
+2008 2009 2010 2011 2012
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+Percent
+
+ 
+
+Information from Financial Markets
+
+Expectations from forward contracts
+     Previous Bluebook
+70 Percent confidence interval
+     Previous Bluebook
+90 Percent confidence interval
+     Previous Bluebook
+
+Near-Term Prescriptions of Simple Policy Rules
+ 
+
+1½ Percent 2 Percent
+Inflation Objective Inflation Objective
+
+  
+2008Q2 2008Q3 2008Q2 2008Q3
+
+      
+Taylor (1993) rule 4.0 4.0  3.7 3.7
+      
+
+      Previous Bluebook 4.3 4.2  4.0 3.9
+      
+Taylor (1999) rule 3.3 3.2  3.1 3.0
+      
+
+      Previous Bluebook 3.6 3.4  3.4 3.1
+      
+Taylor (1999) rule with higher r* 4.1 4.0  3.8 3.7
+      
+
+      Previous Bluebook 4.4 4.1  4.1 3.9
+      
+First-difference rule 2.7 2.8  2.5 2.3
+      
+
+      Previous Bluebook 2.8 2.8  2.5 2.3
+
+Memo
+2008Q2 2008Q3
+
+    
+Estimated outcome-based rule  2.4 2.2
+    
+
+Estimated forecast-based rule  2.4 2.1
+    
+
+Greenbook assumption  2.1 1.8
+    
+
+Fed funds futures  2.1 2.0
+    
+
+Median expectation of primary dealers  1.8 1.8
+
+Class I FOMC - Restricted Controlled (FR) Page 23 of 38
+
+
+
+2008 2009 2010 2011 2012
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5 
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+Percent
+
+ 
+
+Federal funds rate
+
+ Recession Scenario
+
+Taylor Rule
+Full Preemption
+Risk Management
+
+2008 2009 2010 2011 2012
+4.00
+
+4.25
+
+4.50
+
+4.75
+
+5.00
+
+5.25
+
+5.50
+
+5.75
+
+6.00
+
+6.25
+
+6.50 
+
+4.00
+
+4.25
+
+4.50
+
+4.75
+
+5.00
+
+5.25
+
+5.50
+
+5.75
+
+6.00
+
+6.25
+
+6.50
+Percent
+
+ 
+
+Civilian unemployment rate
+
+2008 2009 2010 2011 2012
+1.25
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50
+
+2.75
+
+3.00 
+
+1.25
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2.50
+
+2.75
+
+3.00
+Percent
+
+ 
+
+Core PCE inflation
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Likelihood of Reaching Very Low Interest Rates 
+ 
+The staff’s outlook assumes that the federal  
+funds rate will fall to 1¾ percent in mid-2008  
+and then remain at that level through the  
+end of next year.  The discussion in this box  
+gauges the likelihood of reaching very low interest 
+rates—that is, rates below 1 percent.  Such low  
+rates might occur if further policy easing  
+were needed to counteract ongoing strains  
+in financial markets or other adverse shocks to  
+the economy.  The box ends with a discussion 
+of the implications of very low interest rates 
+for monetary policy strategy.   
+
+The upper panel depicts the recent evolution of  
+model-based probabilities that the target funds  
+rate will fall below 1 percent at a horizon of  
+one year (solid line) or two years (dashed line).  
+These probabilities have been computed from  
+stochastic simulations of the FRB/US model.   
+The stochastic simulations are computed using 
+real time data; in particular, the model baseline          
+is given by the corresponding vintage of the  
+Greenbook outlook.  The shocks are drawn from the Great Moderation period, and 
+the path of policy is determined by the empirical outcome-based rule.  These model-
+based measures indicate that the probability of reaching very low interest rates has 
+risen substantially since last year and now exceeds 20 percent at a one-year horizon 
+and 25 percent at a two-year horizon.   
+
+The lower panel depicts market-based probabilities derived from options on 
+Eurodollar futures contracts.  Evidently, financial market participants perceived  
+the likelihood of very low interest rates to be negligible over the second half of 2007; 
+by late February, however, investors saw odds of about 1 in 3 that the target funds 
+rate would be below 1 percent at the end of this year, but odds of only 1 in 10 that the 
+funds rate would be that low a year later.  In recent weeks, these market-based 
+probabilities have fallen back to very low levels, partly because investors appeared to 
+reduce the odds on an adverse tail event in the near future.   
+
+Very low interest rates pose challenges for policy makers, partly because of 
+uncertainty about the efficacy of unconventional policy tools that might be employed 
+if further reductions in the federal funds rate became infeasible because of the zero 
+bound. 
+
+ 
+
+Note: Five-day moving average. 
+
+ 
+
+ 
+
+Q3 Q4 Q1 Q2
+2007 2008
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30 
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+Percent
+
+ 
+
+1 Year Ahead
+
+2 Years Ahead
+
+Market-Based Probability
+Daily
+
+Q3 Q4 Q1 Q2
+2007 2008
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30 
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+Percent
+
+ 
+
+1 Year Ahead
+
+2 Years Ahead
+
+Model-Based Probability
+FOMC Intervals
+
+Class I FOMC - Restricted Controlled (FR) Page 24 of 38
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                  
+
+ 
+If policymakers perceive a substantial probability of further weakness in aggregate  
+demand sufficient to call for a very low target funds rate in coming quarters, then  
+existing research would prescribe policy adjustment that is more aggressive than usual  
+to provide insurance against the risk of a protracted recession.1  However, in contrast 
+to the policy situation in 2003, the current rate of expected inflation is somewhat 
+elevated.  This observation may give policymakers some comfort that they can 
+provide considerable stimulus to real activity if needed through very low real short-
+term interest rates and so do not need to act more aggressively.  Moreover, if 
+policymakers place relatively low odds on a very low funds rate, then a shift to more 
+aggressive policy adjustment may be less compelling.     
+
+1 Reifschneider, David and John C. Williams (2000). “Three Lessons for Monetary Policy in a Low-
+Inflation Era.” Journal of Money, Credit and Banking, Vol. 32, No. 4, Part 2: Monetary Policy in a Low-
+Inflation Environment (Nov.), pp. 936-966. 
+
+Class I FOMC - Restricted Controlled (FR) Page 25 of 38
+
+
+
+ 
+
+Short-Run Policy Alternatives 
+
+(22) This Bluebook presents three policy alternatives for the Committee’s 
+
+consideration, summarized in Table 1.  Under Alternative A, the Committee would 
+
+reduce the target federal funds rate by 50 basis points to 1¾ percent, under 
+
+Alternative B the federal funds rate target would be cut by 25 basis points to 2 
+
+percent, and under Alternative C the Committee would maintain the federal funds 
+
+rate target at 2¼ percent.  In contrast to the FOMC statement in March, the risk 
+
+assessments in Alternatives A and B no longer emphasize the downside risks to 
+
+growth and so convey a more neutral policy stance.  Alternative B indicates that 
+
+the pace of interest rate reductions may need to slow in order for the Committee 
+
+to assess better the effects of policy actions taken to date, whereas Alternative A 
+
+reiterates that the Committee stands ready to act in a timely manner.  Alternative C 
+
+retains the judgment that downside risks to growth remain and explains that the 
+
+Committee’s decision to pause at this meeting was to allow more time to assess the 
+
+effects of past policy actions.  As usual, the Committee could formulate its 
+
+statement using language from more than one alternative.  Table 1 may need to be 
+
+modified once participants have submitted their economic projections in order to 
+
+ensure that the draft statements are consistent with the projections and the 
+
+accompanying narratives.  
+
+(23) If the Committee judges that the target funds rate is nearing a level that 
+
+would appropriately balance the risks to its dual objectives of fostering maximum 
+
+employment and price stability, it may wish to reduce the target federal funds rate 
+
+by 25 basis points, as in Alternative B, a relatively modest action compared with 
+
+those taken over the past several months.  Members may view the incoming data 
+
+as broadly consistent with their earlier assessments concerning the underlying 
+
+weakness of economic activity and the likely need for further monetary stimulus at 
+
+this meeting to promote a timely resumption of moderate economic growth.  
+
+Class I FOMC - Restricted Controlled (FR) Page 26 of 38
+
+
+
+Table 1: Alternative Language for the April 2008 FOMC Announcement 
+
+ March FOMC Alternative A Alternative B Alternative C 
+
+Policy 
+Decision 
+
+1. The Federal Open Market Committee 
+decided today to lower its target for the 
+federal funds rate 75 basis points to 2-
+1/4 percent. 
+
+The Federal Open Market Committee 
+decided today to lower its target for 
+the federal funds rate 50 basis points 
+to 1-3/4 percent. 
+
+The Federal Open Market Committee 
+decided today to lower its target for 
+the federal funds rate 25 basis points 
+to 2 percent. 
+
+The Federal Open Market Committee 
+decided today to keep its target for the 
+federal funds rate at 2-1/4 percent. 
+
+2. Recent information indicates that the 
+outlook for economic activity has 
+weakened further.  Growth in consumer 
+spending has slowed and labor markets 
+have softened.  Financial markets 
+remain under considerable stress, and 
+the tightening of credit conditions and 
+the deepening of the housing 
+contraction are likely to weigh on 
+economic growth over the next few 
+quarters. 
+
+Recent information indicates that 
+economic activity remains weak.  
+Household and business spending has 
+been subdued and labor markets have 
+softened further.  Financial markets 
+remain under considerable stress, and 
+tight credit conditions and the 
+deepening housing contraction are 
+likely to weigh on economic growth 
+over the next few quarters. 
+
+Recent information indicates that 
+economic activity remains weak.  
+Household and business spending has 
+been subdued and labor markets have 
+softened further.  Financial markets 
+remain under considerable stress, and 
+tight credit conditions and the 
+deepening housing contraction are 
+likely to weigh on economic growth 
+over the next few quarters. 
+
+Recent information indicates that 
+economic activity remains weak.  
+Household and business spending has 
+been subdued and labor markets have 
+softened further.  Financial markets 
+remain under considerable stress, and 
+tight credit conditions and the 
+deepening housing contraction are 
+likely to weigh on economic growth 
+over the next few quarters. 
+
+Rationale 3. Inflation has been elevated, and some 
+indicators of inflation expectations have 
+risen.  The Committee expects inflation 
+to moderate in coming quarters, 
+reflecting a projected leveling-out of 
+energy and other commodity prices and 
+an easing of pressures on resource 
+utilization.  Still, uncertainty about the 
+inflation outlook has increased.  It will 
+be necessary to continue to monitor 
+inflation developments carefully. 
+
+Inflation has been elevated, and some 
+indicators of inflation expectations 
+have risen in recent months.  The 
+Committee expects inflation to 
+moderate in coming quarters, 
+reflecting a projected leveling-out of 
+energy and other commodity prices 
+and an easing of pressures on resource 
+utilization.  Still, uncertainty about the 
+inflation outlook remains high.  It will 
+be necessary to continue to monitor 
+inflation developments carefully. 
+
+Inflation has been elevated, and some 
+indicators of inflation expectations 
+have risen in recent months.  The 
+Committee expects inflation to 
+moderate in coming quarters, 
+reflecting a projected leveling-out of 
+energy and other commodity prices 
+and an easing of pressures on resource 
+utilization.  Still, uncertainty about the 
+inflation outlook remains high.  It will 
+be necessary to continue to monitor 
+inflation developments carefully. 
+
+Inflation has been elevated, and some 
+indicators of inflation expectations 
+have risen in recent months.  The 
+Committee expects inflation to 
+moderate in coming quarters, but 
+uncertainty about the inflation outlook 
+remains high.  It will be necessary to 
+continue to monitor inflation 
+developments carefully. 
+
+Assessment 
+of Risk 
+
+4. Today’s policy action, combined with 
+those taken earlier, including measures 
+to foster market liquidity, should help to 
+promote moderate growth over time 
+and to mitigate the risks to economic 
+activity.  However, downside risks to 
+growth remain.  The Committee will act 
+in a timely manner as needed to 
+promote sustainable economic growth 
+and price stability. 
+
+The Committee judged that a further 
+reduction in interest rates was 
+appropriate to foster moderate growth 
+over time and to mitigate the risks to 
+economic activity.  The Committee 
+will act in a timely manner as needed 
+to promote sustainable economic 
+growth and price stability. 
+
+The Committee judged that a further 
+reduction in interest rates was 
+appropriate to foster moderate growth 
+over time and to mitigate the risks to 
+economic activity.  At this juncture, 
+some time may be needed to better 
+assess the effects of the policy actions 
+taken to date.  However, the 
+Committee remains prepared to act as 
+needed to promote sustainable 
+economic growth and price stability. 
+
+The Committee judges that downside 
+risks to growth remain but concluded 
+that more time is needed to better 
+assess economic prospects and the 
+effects of the policy actions taken to 
+date.  The Committee will act in a 
+timely manner as needed to promote 
+sustainable economic growth and price 
+stability. 
+
+ 
+
+Class I FOMC - Restricted Controlled (FR) Page 27 of 38
+
+
+
+ 
+
+Indeed, the Greenbook-consistent measure of the equilibrium funds rate is about 
+
+½ percentage point below the Bluebook estimate of the current real funds rate, 
+
+suggesting that policy likely still needs to be eased fairly significantly in order to 
+
+bring output back to its potential over the medium term.  However, the 
+
+Committee may view the calibration of the appropriate level of the funds rate as 
+
+particularly problematic given the difficulty of assessing the effects of the 
+
+substantial easing of policy to date and the myriad uncertainties surrounding the 
+
+outlook for output and inflation.  In light of this difficulty and with the gap 
+
+between the real federal funds rate and its equilibrium rate now estimated to have 
+
+narrowed, members may prefer to adjust policy more gradually than hitherto.  The 
+
+deterioration in the near-term outlook for inflation over recent months may also 
+
+be viewed as supporting the adoption of a more incremental approach.  In 
+
+particular, members might be concerned that a more aggressive policy easing at 
+
+this meeting would encourage a perception that the Committee has a greater 
+
+tolerance for inflation than previously thought, with the potential for adverse 
+
+effects on longer-term inflation expectations.  Members might also worry that 
+
+another substantial reduction in the funds rate would increase the likelihood of a 
+
+steep decline in the foreign exchange value of the dollar or possibly even a further 
+
+run-up in commodity prices, developments that would put additional upward 
+
+pressure on inflation.   
+
+(24) The discussion of the outlook for economic activity and inflation in the 
+
+proposed statement accompanying Alternative B is little changed from the March 
+
+FOMC statement.  The characterization of the real economy has been amended to 
+
+note that recent information indicates that economic activity “remains weak” in 
+
+contrast to the March statement in which the outlook for economic activity was 
+
+judged to have “weakened further.”  Similarly, in light of the mixed developments 
+
+in financial markets, credit conditions are described as “tight” as opposed to the 
+
+Class I FOMC - Restricted Controlled (FR) Page 28 of 38
+
+
+
+ 
+
+“tightening” highlighted in March.  The paragraph about inflation is essentially 
+
+unaltered from the previous statement, save for some modest adjustments to the 
+
+references to the apparent rise in inflation expectations and to the increase in the 
+
+uncertainty attending the inflation outlook in order to avoid giving the impression 
+
+that either of these concerns has escalated over the intermeeting period.  Even 
+
+though the economic outlook has not changed materially, the draft risk assessment 
+
+notes that the “Committee judged that a further reduction in interest rates was 
+
+appropriate to foster moderate growth over time and to mitigate the risks to 
+
+economic activity.”  In contrast to the March statement, the risk assessment no 
+
+longer highlights the downside risks to growth and thus implies that policy has 
+
+moved to a more neutral stance.  The proposed risk assessment also indicates that 
+
+“some time may be needed to better assess the effects of the policy actions taken 
+
+to date.”  As such, the statement is likely to be interpreted as suggesting that policy 
+
+may be on hold for a while.  Nonetheless, the statement concludes by noting that 
+
+the Committee “remains prepared” to act as needed to promote economic growth 
+
+and price stability.  
+
+(25)  Alternative B would likely be viewed by market participants as being 
+
+broadly consistent with their expectations.  Investors’ modal expectation as 
+
+implied by financial futures and options prices appears to be for a 25 basis point 
+
+easing at this meeting and for the target funds rate to be maintained at 2 percent at 
+
+the June meeting.  Taken at face value, these financial market quotes suggest that 
+
+the reaction of financial asset prices to Alternative B is likely to be relatively 
+
+muted.  However, respondents to the Desk’s survey of primary dealers expected a 
+
+notably lower path for the federal funds rate than that implied by futures prices, 
+
+and this divergence makes the reaction to Alternative B somewhat harder to 
+
+predict. 
+
+Class I FOMC - Restricted Controlled (FR) Page 29 of 38
+
+
+
+ 
+
+(26) If the Committee believes that the substantial easing of monetary 
+
+policy to date together with the fiscal stimulus package is likely to provide 
+
+considerable support to economic activity and is concerned that inflation might 
+
+not moderate at an acceptable pace, it may prefer to keep rates unchanged at this 
+
+meeting, as in Alternative C.  With the real federal funds rate close to historically 
+
+low levels, the Committee may anticipate that the economy will avoid a 
+
+pronounced downturn.  The Committee may not view the incoming data as 
+
+suggesting the sort of broad weakening in spending that the staff expects as a 
+
+result of the economy shifting to a “recessionary state,” and hence may put some 
+
+weight on the “Near-Term Upside Risk” scenario in the Greenbook.  Members 
+
+might also be worried that inflation may follow a higher trajectory than in the staff 
+
+forecast.  Energy and commodity prices have repeatedly surprised to the upside in 
+
+recent years and members might attach some likelihood to this pattern continuing, 
+
+as illustrated in the “Greater Inflationary Pressure” scenario in the Greenbook.  
+
+Moreover, members might feel that the pass-through of past cost increases into 
+
+retail prices could be greater than anticipated by the staff.  In addition, some 
+
+indicators of inflation expectations have risen in recent months and members 
+
+might worry that long-term inflation expectations could drift up further if inflation 
+
+remains around its current elevated level, a development that would be costly to 
+
+reverse.  In that regard, members might be troubled that core PCE inflation has 
+
+averaged more than 2 percent in every year since 2004 and is forecast by the staff 
+
+to do so again in 2008.  In a similar vein, members might be concerned that the 
+
+apparent deterioration in inflation expectations could cause inflation to settle at an 
+
+unacceptably high level once economic activity returns to more normal level and 
+
+the downward contribution to inflation from the projected slack in resource 
+
+markets dissipates.  These considerations might suggest that the Committee stay its 
+
+Class I FOMC - Restricted Controlled (FR) Page 30 of 38
+
+
+
+ 
+
+hand at this meeting in order to allow more information to accumulate on 
+
+prospects for both growth and inflation. 
+
+(27) The discussion of economic activity in the proposed statement for 
+
+Alternative C is identical to that in the statement suggested for Alternative B.  
+
+And, as in Alternative B, the draft inflation paragraph continues to indicate that 
+
+inflation seems likely to moderate in coming quarters.  However, in contrast to the 
+
+FOMC statement in March, the factors expected to contribute to that moderation 
+
+are not explicitly identified in order to emphasize the uncertainty attending the 
+
+Committee’s outlook for inflation.  The proposed risk assessment notes that 
+
+although “downside risks to growth remain,” the Committee judged that “more 
+
+time is needed to better assess economic prospects and the effects of the policy 
+
+actions taken to date,” thereby explaining why the stance of policy was left 
+
+unchanged at this meeting.  Although the statement concludes by reiterating that 
+
+the Committee will act “as needed to promote sustainable economic growth and 
+
+price stability,” market participants may see the statement as suggesting that the 
+
+pause in policy actions could continue for a while. 
+
+(28) Alternative C would come as a surprise to market participants, who 
+
+appear fairly confident that the funds rate target will be cut by at least 25 basis 
+
+points at this meeting.  This surprise would be compounded if the accompanying 
+
+statement is interpreted as suggesting that policy may remain on hold over the next 
+
+few meetings.  Investors would likely mark up their expectations for the path of 
+
+policy over the next few quarters, leading to an increase in short- and intermediate-
+
+term interest rates.  Pressures in short-term funding markets could worsen.  Long-
+
+term nominal Treasury yields would rise by less or could even fall if the 
+
+Committee’s decision caused investors to revise down their expected trajectory of 
+
+future inflation.  With real rates higher, equities would probably fall, credit spreads 
+
+Class I FOMC - Restricted Controlled (FR) Page 31 of 38
+
+
+
+ 
+
+on corporate debt might widen, and the foreign exchange value of the dollar might 
+
+be expected to rise.  
+
+(29) In contrast, if the Committee continues to view the outlook for 
+
+economic activity as unacceptably weak, it may prefer to reduce the target funds 
+
+rate by 50 basis points at this meeting, as proposed in Alternative A.  The 
+
+Committee might judge that financial headwinds could continue to exert a 
+
+significant drag on economic growth through much of next year and thus policy 
+
+may eventually have to be eased by more than envisaged by the staff, a possibility 
+
+explored in the “Greater Financial Stress” scenario in the Greenbook.  
+
+Alternatively, the Committee might share the staff’s assessment of the underlying 
+
+forces shaping the economy and the probable extent to which policy will need to 
+
+be eased in order to foster a return to more normal levels of activity, but judge that 
+
+the downside risks to growth are such that it is preferable to adjust rates more 
+
+promptly than suggested by the staff forecast.  In particular, the Committee might 
+
+feel that an adverse feedback loop—in which weakness in the real economy 
+
+exacerbates strains in financial markets which in turn feed back onto economic 
+
+activity—remains a distinct possibility and that it is prudent for policy to respond 
+
+decisively to reduce the risk of this dynamic taking hold.  In this case, members 
+
+might be willing to tolerate the likelihood of a somewhat higher path for inflation 
+
+than in the staff forecast in order to respond more aggressively to the possibility of 
+
+significant weakness in output.  In that regard, the optimal-control simulation with 
+
+an inflation goal of 2 percent prescribes a trajectory for the target funds rate that 
+
+drops close to 1 percent by the end of 2009, notably softer than the policy path 
+
+assumed in the Greenbook.   
+
+(30) The discussion of the outlook for economic activity and inflation in the 
+
+draft statement accompanying Alternative A is identical to that proposed for 
+
+Alternative B.  The draft risk assessment also follows Alternative B in omitting the 
+
+Class I FOMC - Restricted Controlled (FR) Page 32 of 38
+
+
+
+ 
+
+judgment from the March FOMC statement that “downside risks to growth 
+
+remain,” and so indicates that policy has moved to a more neutral stance.  The 
+
+statement concludes by reiterating that the Committee “will act in a timely 
+
+manner” to promote economic growth and price stability. 
+
+(31) With investors attaching little weight to the possibility of a 50 basis point 
+
+cut in the target funds rate at this meeting, Alternative A would come as a 
+
+considerable surprise to financial markets.  Short- and intermediate-term interest 
+
+rates would move lower.  Long-term nominal Treasury yields and measures of 
+
+inflation compensation could increase if the Committee’s action was interpreted as 
+
+implying that it was willing to tolerate a higher trajectory for inflation than 
+
+investors had previously thought.  Equity prices would probably rise and the 
+
+foreign exchange value of the dollar could weaken further.  However, these 
+
+responses would be damped somewhat to the extent that the accompanying 
+
+statement was read as suggesting that the Committee was not inclined to ease rates 
+
+further after this meeting.    
+
+Money and Debt Forecasts 
+
+(32) Under the Greenbook forecast, M2 is expected to grow around 9½ 
+
+percent this year, significantly faster than the projected expansion of nominal 
+
+GDP.  The resulting decline in the velocity of M2 is largely due to a substantial fall 
+
+in the opportunity cost of M2 assets that reflects the easing of monetary policy.  
+
+Growth of M2 is also likely to be boosted by a further shift in the composition of 
+
+households’ portfolios towards safe and liquid monetary assets in response to the 
+
+ongoing financial turmoil.  The expansion of M2 is expected to slow to around 5½ 
+
+percent in 2009, reflecting the anticipated leveling-off in the opportunity cost of 
+
+M2 assets and the return to more-normal financial market conditions. 
+
+Class I FOMC - Restricted Controlled (FR) Page 33 of 38
+
+
+
+Table 2
+
+Alternative Growth Rates for M2
+
+(percent, annual rate)
+
+50 bp Ease 25 bp Ease No change Greenbook Forecast*
+
+Monthly Growth Rates
+
+Oct-07 3.8 3.8 3.8 3.8
+
+Nov-07 4.6 4.6 4.6 4.6
+
+Dec-07 4.9 4.9 4.9 4.9
+
+Jan-08 8.0 8.0 8.0 8.0
+
+Feb-08 16.8 16.8 16.8 16.8
+
+Mar-08 12.6 12.6 12.6 12.6
+
+Apr-08 5.7 5.7 5.7 5.7
+
+May-08 9.0 8.6 8.2 8.6
+
+Jun-08 9.6 8.8 8.0 8.8
+
+Jul-08 9.3 8.5 7.7 8.9
+
+Aug-08 8.7 8.0 7.3 8.8
+
+Sep-08 8.4 7.9 7.4 8.7
+
+Quarterly Growth Rates
+
+2007 Q1 7.1 7.1 7.1 7.1
+
+2007 Q2 6.1 6.1 6.1 6.1
+
+2007 Q3 4.7 4.7 4.7 4.7
+
+2007 Q4 4.8 4.8 4.8 4.8
+
+2008 Q1 9.5 9.5 9.5 9.5
+
+2008 Q2 9.7 9.5 9.3 9.5
+
+2008 Q3 9.2 8.5 7.8 8.9
+
+Annual Growth Rates
+
+2007 5.8 5.8 5.8 5.8
+
+2008 9.4 9.1 8.7 9.4
+
+2009 5.3 5.3 5.2 5.4
+
+Growth From To
+
+Mar-08 Sep-08 8.6 8.0 7.5 8.4
+
+2008 Q1 Jun-08 9.7 9.4 9.1 9.4
+
+2008 Q1 Sep-08 9.4 9.0 8.5 9.3
+
+* This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+
+Class I FOMC - Restricted Controlled (FR) Page 34 of 38
+
+
+
+ 
+
+(33) After advancing at an annual rate of around 8 percent in 2007, the 
+
+growth of domestic nonfinancial sector debt is projected to slow to around 4½ 
+
+percent in 2008 and to remain around that pace in 2009.  The deceleration reflects 
+
+a broad-based slowdown in borrowing by households, nonfinancial businesses, 
+
+and state and local governments.  In the household sector, the ongoing weakness 
+
+in housing market activity and prices is expected to weigh on mortgage borrowing 
+
+through this year and next.  Similarly, advances in consumer credit are likely to 
+
+remain relatively subdued given sluggish gains in household spending on durables 
+
+and tighter standards and terms on consumer loans.  The slowing in business 
+
+borrowing is consistent with the sharp tailing-off in M&A and share repurchase 
+
+activity.  State and local government borrowing has decelerated in response to a 
+
+drop in issuance for long-term capital projects and advance refunding.  In addition, 
+
+the ongoing difficulties of major bond insurers are likely to restrain municipal 
+
+bond issuance somewhat this year.  In contrast, the growth of federal debt is 
+
+expected to pick up to around 7½ percent in 2008, boosted in part by borrowing 
+
+to fund the economic stimulus package. 
+
+ 
+
+Class I FOMC - Restricted Controlled (FR) Page 35 of 38
+
+
+
+ 
+
+Directive  
+
+(34) Draft language for the directive is provided below. 
+
+Directive Wording 
+
+The Federal Open Market Committee seeks monetary and financial 
+conditions that will foster price stability and promote sustainable growth 
+in output.  To further its long-run objectives, the Committee in the 
+immediate future seeks conditions in reserve markets consistent with 
+MAINTAINING/INCREASING/reducing the federal funds rate 
+AT/to an average of around ________ 2¼ percent. 
+
+Class I FOMC - Restricted Controlled (FR) Page 36 of 38
+
+
+
+Appendix A: Measures of the Equilibrium Real Rate 
+ 
+
+ 
+
+ 
+
+  
+
+The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return 
+output to its potential level over time.  The short-run equilibrium rate is defined as the rate that would 
+close the output gap in twelve quarters given the corresponding model’s projection of the economy.   
+The medium-run concept is the value of the real federal funds rate projected to keep output at potential 
+in seven years, under the assumption that monetary policy acts to bring actual and potential output into 
+line in the short run and then keeps them equal thereafter.  The TIPS-based factor model measure 
+provides an estimate of market expectations for the real federal funds rate seven years ahead.  
+
+The actual real federal funds rate is constructed as the difference between the nominal rate and realized 
+inflation, where the nominal rate is measured as the quarterly average of the observed federal funds rate, 
+and realized inflation is given by the log difference between the core PCE price index and its lagged 
+value four quarters earlier.  For the current quarter, the nominal rate is specified as the target federal 
+funds rate on the Bluebook publication date.  For the current quarter and the previous quarter, the 
+inflation rate is computed using the staff’s estimate of the core PCE price index. 
+
+Confidence intervals reflect uncertainties about model specification, coefficients, and the level of 
+potential output.  The final column of the table indicates the values published in the previous Bluebook. 
+
+Measure Description 
+
+Single-equation 
+Model  
+
+The measure of the equilibrium real rate in the single-equation model is based on an 
+estimated aggregate-demand relationship between the current value of the output gap and 
+its lagged values as well as the lagged values of the real federal funds rate. 
+
+Small Structural 
+Model 
+
+The small-scale model of the economy consists of equations for five variables: the output 
+gap, the equity premium, the federal budget surplus, the trend growth rate of output, and 
+the real bond yield. 
+
+Large Model 
+(FRB/US) 
+
+Estimates of the equilibrium real rate using FRB/US—the staff’s large-scale econometric 
+model of the U.S. economy—depend on a very broad array of economic factors, some of 
+which take the form of projected values of the model’s exogenous variables. 
+
+Greenbook-
+consistent  
+
+The FRB/US model is used in conjunction with an extended version of the Greenbook 
+forecast to derive a Greenbook-consistent measure.  FRB/US is first add-factored so that 
+its simulation matches the extended Greenbook forecast, and then a second simulation is 
+run off this baseline to determine the value of the real federal funds rate that closes the 
+output gap. 
+
+TIPS-based 
+Factor Model 
+
+Yields on TIPS (Treasury Inflation-Protected Securities) reflect investors’ expectations of 
+the future path of real interest rates, but also include term and liquidity premiums.  The 
+TIPS-based measure of the equilibrium real rate is constructed using the seven-year-ahead 
+instantaneous real forward rate derived from TIPS yields as of the Bluebook publication 
+date.  This forward rate is adjusted to remove estimates of the term and liquidity 
+premiums based on a three-factor arbitrage-free term-structure model applied to TIPS 
+yields, nominal yields, and inflation.  Because TIPS indexation is based on the total CPI, 
+this measure is also adjusted for the medium-term difference—projected at 40 basis 
+points—between total CPI inflation and core PCE inflation. 
+
+ 
+
+Class I FOMC - Restricted Controlled (FR) Page 37 of 38
+
+
+
+Appendix B: Analysis of Policy Paths and Confidence Intervals 
+ 
+
+ 
+
+ 
+
+Rule Specifications:  For the following rules, it denotes the federal funds rate for quarter t, while  
+the explanatory variables include the staff’s projection of trailing four-quarter core PCE inflation (πt), 
+inflation two and three quarters ahead (πt+2|t and πt+3|t), the output gap in the current period and one 
+quarter ahead ( y y *t t−  and y y *t t+ +1| − t 1|t ), and the three-quarter-ahead forecast of annual average GDP 
+growth relative to potential (Δ −4 4y y *t t+ +3| Δ t 3|t ), and π *  denotes an assumed value of policymakers’ 
+long-run inflation objective.  The outcome-based and forecast-based rules were estimated using real-
+time data over the sample 1988:1-2006:4; each specification was chosen using the Bayesian information 
+criterion. Each rule incorporates a 75 basis point shift in the intercept, specified as a sequence of  
+25 basis point increments during the first three quarters of 1998.  The first two simple rules were 
+proposed by Taylor (1993, 1999), while the third is a variant of the Taylor (1999) rule with a higher 
+value of r*.  The prescriptions of the first-difference rule do not depend on assumptions regarding r* or 
+the level of the output gap; see Orphanides (2003). 
+
+Outcome-based rule it =  1.20it-1–0.39it-2+0.19[1.17  + 1.73 πt  + 3.66( y y *t t− )  – 2.72( y y *t t−1 − − )]1
+
+  1.18it-1–0.38it-2+0.20[0.98 +1.72 πt+2|t+2.29( y y *t t+1| − t t+1| )–1.37( y y *t t−1 1− − )]
+
+ 2 + πt + 0.5(πt –π * ) + 0.5( y y *t t− ) 
+
+ 2 + πt + 0.5(πt –π * ) + ( y y *t t− ) 
+
+ 2.75 + πt + 0.5(πt – π * ) + ( y y *t t− )  
+
+ it-1 + 0.5(πt+3|t –π * ) + 0.5(Δ −4 y *t t+3| Δ t+3|t ) 
+4 y
+
+Forecast-based rule it =
+
+Taylor (1993) rule it =
+
+Taylor (1999) rule it =
+
+Taylor (1999) rule  
+with higher r* 
+
+   it =
+
+First-difference rule it =
+
+FRB/US Model Simulations:  Prescriptions from the two empirical rules are computed using dynamic 
+simulations of the FRB/US model, implemented as though the rule were followed starting at this FOMC 
+meeting.  The dotted line labeled “Previous Bluebook” is based on the current specification of the policy 
+rule, applied to the previous Greenbook projection.  Confidence intervals are based on stochastic 
+simulations of the FRB/US model with shocks drawn from the estimated residuals over 1986-2005.  
+Information from Financial Markets:  The expected funds rate path is based on forward rate 
+agreements, and the confidence intervals for this path are constructed using prices of interest rate caps. 
+Near-Term Prescriptions of Simple Policy Rules:  These prescriptions are calculated using Greenbook 
+projections for inflation and the output gap. Because the first-difference rule involves the lagged funds 
+rate, the value labeled “Previous Bluebook” for the current quarter is computed using the actual value  
+of the lagged funds rate, and the one-quarter-ahead prescriptions are based on this rule’s prescription for 
+the current quarter.  
+
+References:  
+Taylor, John B. (1993). “Discretion versus policy rules in practice,” Carnegie-Rochester Conference 
+Series on Public Policy, vol. 39 (December), pp. 195-214. 
+————— (1999). “A Historical Analysis of Monetary Policy Rules,” in John B. Taylor, ed., 
+Monetary Policy Rules. The University of Chicago Press, pp. 319-341. 
+Orphanides, Athanasios (2003). “Historical Monetary Policy Analysis and the Taylor Rule,” Journal of 
+Monetary Economics, vol. 50 (July), pp. 983-1022. 
+
+Class I FOMC - Restricted Controlled (FR) Page 38 of 38
+
+
+
+
