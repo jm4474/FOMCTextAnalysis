@@ -9,12 +9,14 @@ Status: Draft
 ### Set packages ###
 import pandas as pd
 import re
+import numpy as np
 from obtain_bluebook_alternatives import getdata_bluebook
 ###############################################################################
 
 def main():
-    import_bluebookdata()
-    do_keyword_classsification()
+    df_result=import_bluebookdata()
+    df_result=do_keyword_classsification(df_result)
+    do_sumstats(df_result)
     df_result.to_csv("../output/bluebook_alt_and_class_output.csv")
 
 
@@ -26,7 +28,7 @@ def import_bluebookdata():
     
     return df_result
 
-def do_keyword_classsification():
+def do_keyword_classsification(df_result):
     keywords_ease=["lower","cut","cuts","decline","reduction","ease","reduce","easing"]
     keywords_unchanged=["keep","unchanged","no change","maintained","maintain","remain","forego","continue"]
     keywords_tighten=["raise","hike","raised","firm","firming","increase","tightening","rise","tighten","tighter"]
@@ -100,8 +102,9 @@ def do_keyword_classsification():
           
     df_result.sort_values('date', inplace=True)
 
+    return df_result
 
-def do_sumstats():
+def do_sumstats(df_result):
     ### Get summary stats
     alternative="b"
     start_year=1994
@@ -116,4 +119,6 @@ def do_sumstats():
               (df_result['year']>=start_year) & (df_result['year']<=end_year)] \
               ["alt_"+alternative+"_sentences"].iloc[3]
               
-main()
+
+if __name__ == "__main__":
+   main()
