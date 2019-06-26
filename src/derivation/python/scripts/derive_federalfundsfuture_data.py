@@ -35,18 +35,17 @@ def main():
     data=construct_dataset()
     data=define_adjusted_future(data)
     rates=reshape_data(data)
-    datestring="2002-11-06"
-    create_plot(rates,datestring)
+    rates.to_csv("../output/federal_funds_futures.csv",index=False)
     
 
 def construct_dataset():
-    ffr=pd.read_excel("../data/FRED_DFF.xls",skiprows=10)
+    ffr=pd.read_excel("../../../collection/python/data/FRED_DFF.xls",skiprows=10)
     ffr.rename(columns={"observation_date":"date","DFF":"effr"},inplace=True)
     
     ffr['date'] = pd.to_datetime(ffr['date'])
     
     ### Merge with the futures data
-    data=pd.read_excel("../data/FFF_1m3m_extract.xlsx")
+    data=pd.read_excel("../../../collection/python//data/FFF_1m3m_extract.xlsx")
     data['date'] = pd.to_datetime(data['date'])
     
     data=data.merge(ffr,how='left',on='date')
@@ -114,36 +113,5 @@ def reshape_data(data):
     rates.loc[:,'ffr_future']=data.loc[:,'ffr_future']*100
     return rates    
 
-
-
-def create_plot(rates,datestring):
-    ### Plot the expected average federal funds rate at different horizon
-    date_announcement=pd.to_datetime(datestring)
-    date_pre_ann=date_announcement+pd.Timedelta('-1 days')
-    date_post_ann=date_announcement+pd.Timedelta('1 days')
-    #effr=data[(data['date']>="2002-11-01") & (data['date']<="2002-11-20")][['date','effr']]
-    
-    rates_annouc=[]
-    rate_pre_annouc=[]
-    rate_post_annouc=[]
-    
-    ffrs=['FFF_0', 'FFF_1', 'FFF_2', 'FFF_3', 'FFF_4', 'FFF_5', 'FFF_6']
-    
-    for fff_price in ffrs:
-        rates_annouc.append(rates[rates['date']==date_announcement][fff_price+'_rate'].item())
-        rate_pre_annouc.append(rates[rates['date']==date_pre_ann][fff_price+'_rate'].item())
-        rate_post_annouc.append(rates[rates['date']==date_post_ann][fff_price+'_rate'].item())
-    
-    rates_annouc[0]=rates[rates['date']==date_announcement]['ffr_future'].item()
-    rate_pre_annouc[0]=rates[rates['date']==date_pre_ann]['ffr_future'].item()
-    rate_post_annouc[0]=rates[rates['date']==date_post_ann]['ffr_future'].item()
-    
-    plt.plot(rate_pre_annouc)
-    plt.plot(rates_annouc)
-    plt.plot(rate_post_annouc)
-    plt.legend(['Pre Ann.','Ann. day','Post Ann.'])
-    plt.ylabel('Implied federal funds rate (in %)')
-    plt.xlabel('Months into future')
-    plt.show()
-    
-
+if __name__ == "__main__":
+   main()
