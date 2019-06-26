@@ -30,37 +30,43 @@ import time
 from bs4 import BeautifulSoup
 
 def main():
+    #Path to Chrome Driver
     directory = "../../../../"
+
+
     ###############################################################################
     ### Start Selenium
-    # Import the dates from the derived csv file
-    derived_df=pd.read_csv("../output/derived_data.csv")
-    derived_df = derived_df[derived_df.event_type=="Meeting"]
-    derived_df['end_date'] = pd.to_datetime(derived_df['end_date'])
-    date_period = derived_df[(derived_df.end_date.dt.year>=1988)&(derived_df.end_date.dt.year<2010)]
-    end_dates = list(set(date_period['end_date']))
 
-    path_to_chromedriver = directory+'chromedriver' # change path as needed
+    #Initialize selenium chrome driver and navigate to factiva
+    path_to_chromedriver = directory+'chromedriver'
     browser = webdriver.Chrome(executable_path = path_to_chromedriver)
-    ### Navigate to Factiva
     url = 'http://www.columbia.edu/cgi-bin/cul/resolve?AUQ3920'
     browser.get(url)
-    wait_time = 10
+    wait_time = random.randint(15,25)
     print("Waiting for {} Seconds...".format(wait_time))
     browser.implicitly_wait(wait_time)
+
+    #Click Through The Maintanence Window
     if browser.find_element_by_xpath("//body[@id='sys-maintenance']"):
         browser.find_element_by_id("okBtn").click()
     wait_time = 10
     print("Waiting for {} Seconds...".format(wait_time))
     browser.implicitly_wait(wait_time)
 
-    count = len(end_dates)
-    print("Found {} Meeting Dates".format(count))
+    # Import the dates from the derived csv file
+    derived_df = pd.read_csv("../output/derived_data.csv")
+    derived_df = derived_df[derived_df.event_type == "Meeting"]
+    derived_df['end_date'] = pd.to_datetime(derived_df['end_date'])
+    date_period = derived_df[(derived_df.end_date.dt.year >= 1988) & (derived_df.end_date.dt.year < 2010)]
+    end_dates = list(set(date_period['end_date']))
+
+    counter = len(end_dates)
+    print("Found {} Meeting Dates".format(counter))
     all_articles = []
-    ### Extract the date
     for end_date in end_dates:
         print("Currently Working On Meeting With End Date:{}".format(end_date))
-        print("{} meetings left".format(count))
+        print("{} meetings left".format(counter))
+
         article_date = end_date+timedelta(+1)
         day=article_date.day
         month=article_date.month
@@ -71,7 +77,7 @@ def main():
         year_str=str(year).zfill(4)
 
 
-        ### Navigate to the right window
+        ### Navigate and query the search page
         query = '(Federal Open Market Committee or FOMC ) and (rst=nytf or rst=j or rst=ftfta)'
         try:
             browser.find_element_by_xpath("//textarea[@name='ftx']").send_keys(len(query) * Keys.BACKSPACE)
@@ -94,7 +100,7 @@ def main():
         browser.find_element_by_id('toy').clear()
         browser.find_element_by_id('toy').send_keys(year_str)
 
-        wait_time = random.random() * 10 + 1
+        wait_time = random.randint(15,25)
         print("Waiting for {} Seconds...".format(wait_time))
         time.sleep(wait_time)
 
@@ -113,47 +119,43 @@ def main():
             article_result['headline'] = article_result['link'].text
             article_results.append(article_result)
 
-        # parses website
+        # parses article
         for article in article_results:
-            wait_time = random.random() * 10 + 1
+            article['link'].click()
+            wait_time = random.randint(15, 25)
             print("Waiting for {} Seconds...".format(wait_time))
             time.sleep(wait_time)
-            article['link'].click()
-            wait_time = 5
-            print("Waiting for {} Seconds...".format(wait_time))
-            browser.implicitly_wait(wait_time)
-            soup=BeautifulSoup(browser.page_source, 'lxml')
-            print([p for p in soup.find_all("p")])
-            #author= soup.find_all('div', attrs={'class': 'author'})[0].getText().split('\n')[0]
-            article_text = soup.find_all('p',class_="articleParagraph enarticleParagraph")
-            print("Article Text looks like:{}".format(article_text))
+            soup=BeautifulSoup(browser.page_source, 'html.parser')
+            #print([p for p in soup.find_all("p")])
+            article_text = soup.find_all('p',attrs={'class': 'articleParagraph enarticleParagraph'})
+            #print("Article Text looks like:{}".format(article_text))
             cleaned_lines = []
             for p_tag in article_text:
-                #print(''.join(filter(None, li.getText().split('\n'))))
                 cleaned_lines.append(' '.join(filter(None, p_tag.getText().split('\n'))))
-            content='\n'.join(cleaned_lines)
-            print("cleaned lines looks like:{}".format(cleaned_lines))
-            print("content is {} and looks like:{}".format(str(type(content)),content))
+            content=' '.join(cleaned_lines)
+
+            #Final Article Data for Export
             article_entry ={'meeting_date':end_date,
                      'article_date':article_date, 'source': str(article['source']),
-                     'headline':article['headline'],'content':content}
+                     'headline':article['headline'],'content':[content]}
 
             print("FINAL ARTICLE LOOKS LIKE:{}".format(article_entry))
 
             all_articles.append(article_entry)
+
             print("All Articles now contains {}".format(len(all_articles)))
-            wait_time = random.random() * 10 +1
+            wait_time = random.randint(15,25)
             print("Waiting for {} Seconds...".format(wait_time))
             time.sleep(wait_time)
             browser.execute_script("window.history.go(-1)")
-        wait_time = random.random() * 10 + 1
+        wait_time = random.randint(15, 25)
         print("Waiting for {} Seconds...".format(wait_time))
         time.sleep(wait_time)
         browser.execute_script("window.history.go(-1)")
-        wait_time = random.random() * 10 + 1
+        wait_time = random.randint(15, 25)
         print("Waiting for {} Seconds...".format(wait_time))
         time.sleep(wait_time)
-        count-=1
+        counter-=1
     browser.quit()
     write_derived_csv(all_articles)
 
