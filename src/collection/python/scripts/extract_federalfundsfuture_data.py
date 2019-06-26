@@ -7,16 +7,18 @@ Purpose: Import the federal funds future data, and the effective federal funds
 Status: Final -- 06/26/2019
 @author: olivergiesecke
 """
+
+###############################################################################
+### Import packages
 import pandas as pd
 import re
 import os
 import numpy as np
 import matplotlib.pyplot as plt
 from calendar import monthrange
-
+###############################################################################
 
 ### Read the effective federal funds future data
-
 # =============================================================================
 # # this is only needed for the raw data from the Fed NY
 # ffr_raw=pd.read_excel("../data/NYF_effective_federal_funds_data.xls",skiprows=4)
@@ -33,9 +35,9 @@ def main():
     data=construct_dataset()
     data=define_adjusted_future(data)
     rates=reshape_data(data)
-    create_plot(rates)
+    datestring="2002-11-06"
+    create_plot(rates,datestring)
     
-
 
 def construct_dataset():
     ffr=pd.read_excel("../data/FRED_DFF.xls",skiprows=10)
@@ -55,7 +57,6 @@ def construct_dataset():
     
     data['month']=data['date'].apply(lambda x: x.month)
     data['year']=data['date'].apply(lambda x: x.year)
-
     return data
 
 
@@ -115,10 +116,8 @@ def reshape_data(data):
 
 
 
-def create_plot(rates):
-    ### Plot the expected average federal funds rate at different horizons
-    datestring="2002-11-06"
-    
+def create_plot(rates,datestring):
+    ### Plot the expected average federal funds rate at different horizon
     date_announcement=pd.to_datetime(datestring)
     date_pre_ann=date_announcement+pd.Timedelta('-1 days')
     date_post_ann=date_announcement+pd.Timedelta('1 days')
@@ -142,13 +141,9 @@ def create_plot(rates):
     plt.plot(rate_pre_annouc)
     plt.plot(rates_annouc)
     plt.plot(rate_post_annouc)
-    plt.legend(['-1','ann. day','+1'])
+    plt.legend(['Pre Ann.','Ann. day','Post Ann.'])
     plt.ylabel('Implied federal funds rate (in %)')
     plt.xlabel('Months into future')
     plt.show()
     
-
-
-
-
 
