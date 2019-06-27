@@ -25,8 +25,12 @@ def main():
 
 
     for source in sources.keys():
-        print("Total Number of Articles From {}:{}".format(source,sources[source]))
+        print("Total Number of Articles From {}:{}".format(source,len(sources[source])))
         unique_meetings = sources[source].drop_duplicates(subset="meeting_date")
         print("Total Number of meetings covered by {}:{}".format(source,len(unique_meetings)))
         print("Total Number of meetings missed by {}:{}".format(source,len(meeting_dates)-len(unique_meetings)))
+
+    meetings_covered = len(content_df.drop_duplicates(subset="meeting_date"))
+    print("Total number of meetings covered:{}".format(meetings_covered))
+    print("Total number of meetings missed:{}".format(len(meeting_dates)-meetings_covered))
 main()
