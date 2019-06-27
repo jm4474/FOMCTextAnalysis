@@ -50,13 +50,13 @@ def create_plot(rates,datestring):
 
     ax.plot(rate_pre_annouc, color='red', ls='solid',marker='o')
     ax.plot(rates_annouc, color='blue', ls='solid',marker='o')
-    ax.plot(rate_post_annouc, color='k', ls='dashed')
+    ax.plot(rate_post_annouc, color='k', ls='dashed',marker='o')
     
   
     ax.set_xlabel('Months into future')
     ax.set_ylabel('Implied federal funds rate (in \%)')
 
-    plt.legend(['Pre announcement','Announcement','Post annoucement'])
+    plt.legend(['Pre announcement','Announcement','Post annoucement'],frameon=False)
     plt.savefig('../output/fed_future_'+datestring+'.png', dpi=300)
 
 if __name__ == "__main__":
