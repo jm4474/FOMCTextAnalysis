@@ -1,5 +1,5 @@
 import pandas as pd
-
+#MERGES TOGETHER DATA FROM ALL SOURCES TO PRODUCE A FINAL DERIVED FILE
 def main():
     derived_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
     print(len(derived_df))
@@ -7,7 +7,7 @@ def main():
     print(len(der_state_df))
     der_state_ftr_df = merge_ftr(der_state_df)
     print(len(der_state_ftr_df))
-    der_state_ftr_nyt_df = merge_nyt(der_state_ftr_df)
+    der_state_ftr_nyt_df = merge_news(der_state_ftr_df)
     print(len(der_state_ftr_nyt_df))
     der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_nyt_df)
     print(len(der_state_ftr_nyt_bb_df))
@@ -42,13 +42,14 @@ def merge_ftr(cur_df):
     #print(merge_ftr)
     #print(merge_ftr.columns)
     return merge_ftr
-def merge_nyt(cur_df):
-    print("merging nyt")
-    nyt_df = pd.read_csv("../../../collection/python/output/nytimes_articles.csv")
+##TODO
+def merge_news(cur_df):
+    print("merging news")
+    news_df = pd.read_csv("../../../collection/python/output/all_news.csv")
 
-    number_articles = len(nyt_df)
+    number_articles = len(news_df)
     #print("We currently have {} articles".format(number_articles))
-    valid_articles = nyt_df[nyt_df['content'] != ""]
+    valid_articles = news_df[news_df['content'] != ""]
     #print("Out of those, we have {} valid articles".format(len(valid_articles)))
     # print(nyt_df.sort_values(by="article_date"))
 
@@ -87,4 +88,7 @@ def merge_bluebook(cur_df):
     merge_bluebook = cur_df.merge(blue_df,on="start_date",how="left")
 
     return merge_bluebook
+
+def merge_wsj(cur_df):
+
 main()
