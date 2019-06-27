@@ -11,7 +11,7 @@ def main():
     print(len(der_state_ftr_nyt_df))
     der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_nyt_df)
     print(len(der_state_ftr_nyt_bb_df))
-    der_state_ftr_nyt_bb_df.to_csv("../output/final_bluebook_derivation.csv")
+    der_state_ftr_nyt_bb_df.to_csv("../output/final_derived_file.csv")
 def merge_statement(cur_df):
     print("merging statements")
     statement_df = pd.read_csv("../output/statements_text_extraction.csv")
