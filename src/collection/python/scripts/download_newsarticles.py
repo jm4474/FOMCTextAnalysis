@@ -62,7 +62,9 @@ def main():
 
     counter = len(end_dates)
     print("Found {} Meeting Dates".format(counter))
-    all_articles = pd.DataFrame
+    all_articles = pd.DataFrame(columns=['meeting_date',
+                                 'article_date', 'source',
+                                 'headline','content'])
     for end_date in end_dates:
         try:
             print("Currently Working On Meeting With End Date:{}".format(end_date))
@@ -120,8 +122,10 @@ def main():
                         article_result['date'] = end_date.date()
                         article_result['headline'] = article_result['link'].text
                         article_search_results.append(article_result)
-                    except:
-                        print("ERROR GETTING ARTICLE RESULT INFO FOR DATE {}".format(end_date))
+                    except Exception as e:
+                        time.sleep(10)
+                        print("exception sleeping for 10 seconds")
+                        print("{} ERROR GETTING ARTICLE RESULT INFO FOR DATE {}".format(e, end_date))
 
                 # parses article
                 for article in article_search_results:
@@ -153,22 +157,26 @@ def main():
                         print("Waiting for {} Seconds...".format(wait_time))
                         time.sleep(wait_time)
                         browser.execute_script("window.history.go(-1)")
-                    except:
-                        print("ERROR looking in article {}".format(article))
+                    except Exception as e:
+                        print("{} ERROR looking in article {}".format(e,article))
+                        time.sleep(10)
+                        print("exception sleeping for 10 seconds")
                         browser.execute_script("window.history.go(-1)")
                 wait_time = random.randint(15, 25)
                 print("Waiting for {} Seconds...".format(wait_time))
                 time.sleep(wait_time)
                 browser.execute_script("window.history.go(-1)")
-            except:
-                print("error for article with date {}".format(end_date))
+            except Exception as e:
+                print("{} error for article with date {}".format(e,end_date))
+                time.sleep(10)
+                print("exception sleeping for 10 seconds")
                 browser.execute_script("window.history.go(-1)")
             wait_time = random.randint(15, 25)
             print("Waiting for {} Seconds...".format(wait_time))
             time.sleep(wait_time)
             counter-=1
-        except:
-            print("ERROR ON SEARCH PAGE FOR DATE {}".format(end_date))
+        except Exception as e:
+            print("{} ERROR ON SEARCH PAGE FOR DATE {}".format(e,end_date))
             break
     browser.quit()
     all_articles.to_csv("../output/ft_articles.csv")
