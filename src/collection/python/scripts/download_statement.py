@@ -2,8 +2,11 @@ import os
 import pandas as pd
 import requests
 
-#This file reads in the derived data file to download all statement webpages
-
+'''
+@author Anand Chitale
+This file reads in the derived data file to download all statement webpage html files
+into the output folder statement webpages
+'''
 def download_statement():
     data_file_name = "../output/derived_data.csv"
     start_year = 1965

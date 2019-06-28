@@ -2,9 +2,13 @@ import pandas as pd
 import requests
 import os
 
-#This file reads in the derived data file in order to download all bluebook
-#pdfs
 
+'''
+@Author Anand Chitale
+
+This file reads in the derived data file in order to download all bluebook pdfs
+Into the ouput folder bluebook_pdfs
+'''
 def download_bluebook():
     data_file_name = "../output/derived_data.csv"
     start_year = 1965

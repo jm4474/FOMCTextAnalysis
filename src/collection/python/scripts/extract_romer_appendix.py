@@ -2,6 +2,14 @@ import re
 import pprint
 import csv
 from tika import parser
+
+'''
+
+@Author Anand Chitale
+This file reads in the pre-downloaded romer narrative appendix file
+And outputs a csv containing all policy actions and comments by meeting called
+romer_appendix.csv
+'''
 def extract_romer_appendix():
     data_points = []
     romer_raw_text = parser.from_file("../data/RomerandRomerNarrativeAppendix.pdf")

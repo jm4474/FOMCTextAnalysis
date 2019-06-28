@@ -2,6 +2,11 @@ import pandas
 import numpy
 import csv
 import os
+'''
+@Author Anand Chitale
+This file takes the pre-downloaded greenbook excel data file from the 
+philidelphia fed and extracts all economic indicators into a greenbook data csv file
+'''
 def extract_greenbook_data():
     greenbook_path = "../data/greenbook_excel/"
     all_projections = []
