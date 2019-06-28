@@ -18,23 +18,24 @@ from obtain_sumstats_bb_options import create_totstat, create_sumstat_byperiod
 ### Create the summary statistics including the size.
 
 def main():
-    data_sumstats=prepare_date()
+    data_sumstats=prepare_data(1988,2008)
     create_totstat(data_sumstats,'tab_sumstat_sizeoptions')
     turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
     create_sumstat_byperiod(data_sumstats,turning_points,'tab_sumstats_sizeoptions_byperiod')
 
-    data_graphs=produce_data_graph()
+    data_graphs=produce_data_graph(1988,2008)
     # Plot individual meeting
     datestring="2002-11-06"
     produce_graph(data_graphs,datestring)
 
 
-def prepare_date():
+def prepare_data(startdate,enddate):
     data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
-    data=data[(data['year']>=1988) & data['year']<=2008]
+    data=data[(data['year']>=startdate) & (data['year']<=enddate)]
     data['start_date']=pd.to_datetime(data['start_date'])   
     data['end_date']=pd.to_datetime(data['end_date'])   
+    data=data.reset_index()
     
     treatments=[]    
     for alt in ['a','b','c','d','e']:
@@ -71,12 +72,13 @@ def prepare_date():
     return data
     
 
-def produce_data_graph():
+def produce_data_graph(startdate,enddate):
     data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
-    data=data[(data['year']>=1988) & data['year']<=2008]
+    data=data[(data['year']>=startdate) & (data['year']<=enddate)]
     data['start_date']=pd.to_datetime(data['start_date'])   
     data['end_date']=pd.to_datetime(data['end_date']) 
+    data=data.reset_index()
     
     treatments=[]    
     for alt in ['a','b','c','d','e']:
@@ -139,3 +141,7 @@ def produce_graph(data,datestring):
     ax.axhline(color='gray',ls="--")
     ax.set_title(title)
     plt.savefig('../output/fig_policy_option_'+datestring+'.png', dpi=300,bbox_inches='tight')
+    
+if __name__ == "__main__":
+   main()
+

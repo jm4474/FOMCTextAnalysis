@@ -100,7 +100,8 @@ def plot_target(dataffr):
 def load_bluebook_data(startyear,endyear):
     data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
-    data=data[(data['year']>=1988) & data['year']<=2008]
+    data=data[(data['year']>=startyear) & (data['year']<=endyear)]
+    data=data.reset_index()
     
     treatments=[]    
     for alt in ['a','b','c','d','e']:
@@ -119,10 +120,12 @@ def load_bluebook_data(startyear,endyear):
             except:
                 print('No option found')
         
-        valid_treatments=['E','U','T']
-        treatments=[x for x in treatments if x in valid_treatments]
+        notvalid_treatments=['N']
+        treatments=[x for x in treatments if not x in notvalid_treatments]
         treatment_tuple=tuple(set(treatments))
         treatments=",".join(list(set(treatments)))
+        #print(treatments)
+        #print(idx)
         if not len(treatment_tuple)==0:
             data['treatment_options'].iloc[idx]=treatments
         else:
