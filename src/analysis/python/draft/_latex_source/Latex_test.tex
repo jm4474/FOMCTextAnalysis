@@ -1,0 +1,135 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\usepackage[final]{pdfpages}
+\usepackage{subfig}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage{enumitem}
+% Math Script Font
+\usepackage{mathrsfs}
+% For Indicator Variables
+\usepackage{bbold}
+% Use \mathscr{}
+
+
+
+% Sets the paragraph intends and the paragraph spacing.
+\setlength{\parindent}{1em}
+\setlength{\parskip}{1em}
+
+% Use the library
+\usepackage{natbib}
+% Use different spacings
+\usepackage{setspace}
+% Add package for highlights
+\usepackage{color,soul}
+% Package for landscape
+\usepackage{pdflscape}
+
+% Sets the page margins
+\usepackage[margin=1in]{geometry}
+
+% Define some shortcuts
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\R}{\mathbb{R}}
+
+\newcommand{\figog}[4]{\begin{figure}[h!]\caption{#3}\begin{center}\includegraphics[scale={#1}]{#2}\label{#4}\end{center}\end{figure}}
+
+
+\def\H{\mathbb{H}}
+\DeclareMathOperator{\Log}{log}
+\DeclareMathOperator{\Min}{min}
+\DeclareMathOperator{\Exp}{exp}
+\DeclareMathOperator{\Argmin}{argmin}
+\DeclareMathOperator{\Argmax}{argmax}
+\DeclareMathOperator{\Sup}{sup}
+\DeclareMathOperator{\Inf}{inf}
+
+\def\Argmax#1{\underset{\substack{#1}}{\mbox{argmax }}}
+\def\argmax{\mbox{arg}\max}
+\def\argmin{\mbox{arg}\min}
+
+% Define NEW environments
+\newenvironment{enumog}
+	{\begin{enumerate}[noitemsep,topsep=0pt,label*=\arabic*.]}{	\end{enumerate}}
+
+	\newenvironment{itemog}
+	{\begin{itemize}[noitemsep,topsep=0pt]}{	\end{itemize}}
+
+\begin{document}
+
+\title{Summary Stats}
+\author{Oliver Giesecke}
+
+
+\maketitle 
+
+% NOTE: change system directory first
+\begin{table}[h!]
+	\begin{center}
+		\input{../../output/tab_aggsumstat.tex}
+	\end{center}
+\end{table}
+
+\begin{table}[h!]
+	\begin{center}
+		\input{../../output/tab_summary_count.tex}
+	\end{center}
+\end{table}
+
+
+
+\begin{table}[h!]
+	\begin{center}
+		\input{../../output/tab_sumstats_menu.tex}
+	\end{center}
+\end{table}
+
+\begin{landscape}
+\begin{table}[h!]
+	\begin{center}
+		\input{../../output/tab_sumstats_menu_byyear.tex}
+	\end{center}
+\end{table}
+\end{landscape}
+
+\clearpage
+
+\begin{landscape}
+
+		\begin{figure}[!htp]
+		\begin{center}
+	\includegraphics[scale=.95]{../../output/fig_fed_target.png}
+		\end{center}
+	\end{figure}
+	
+	\begin{table}[!htp]
+		\begin{center}
+			\input{../../output/tab_sumstats_menu_byperiod.tex}
+		\end{center}
+	\end{table}
+\end{landscape}
+
+\begin{landscape}
+	\begin{table}[h!]
+		\begin{center}
+			\input{../../output/tab_sumstat_sizeoptions.tex}
+		\end{center}
+	\end{table}
+\end{landscape}
+
+\begin{landscape}
+	\begin{table}[h!]
+		\begin{center}
+			\input{../../output/tab_sumstats_sizeoptions_byperiod.tex}
+		\end{center}
+	\end{table}
+\end{landscape}
+
+
+\end{document}
