@@ -31,7 +31,7 @@ from bs4 import BeautifulSoup
 
 def main():
     #Path to Chrome Driver
-    directory = "../../../../"
+    directory = "../../../../../01_Knowhow/01_Courses/Columbia_courses/IO3/PS2/"
 
 
     ###############################################################################
@@ -78,7 +78,7 @@ def main():
 
 
         ### Navigate and query the search page
-        query = '(Federal Open Market Committee or FOMC ) and (rst=nytf or rst=j or rst=ftfta)'
+        query = '(Federal Open Market Committee or FOMC ) and (rst=sfft)'
         try:
             browser.find_element_by_xpath("//textarea[@name='ftx']").send_keys(len(query) * Keys.BACKSPACE)
             browser.find_element_by_xpath("//textarea[@name='ftx']").send_keys(query)
@@ -160,7 +160,7 @@ def main():
     write_derived_csv(all_articles)
 
 def write_derived_csv(documents):
-    with open('../output/news_articles_test.csv', 'w') as csvfile:
+    with open('../output/news_articles_test_ft.csv', 'w') as csvfile:
         fieldnames = documents[0].keys()
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
