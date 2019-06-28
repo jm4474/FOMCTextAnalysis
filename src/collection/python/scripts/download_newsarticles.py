@@ -169,6 +169,7 @@ def main():
             counter-=1
         except:
             print("ERROR ON SEARCH PAGE FOR DATE {}".format(end_date))
+            break
     browser.quit()
     all_articles.to_csv("../output/ft_articles.csv")
 
