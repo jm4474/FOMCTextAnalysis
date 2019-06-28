@@ -3,9 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import Tag
 import csv
-
-#This script goes through every page of the FOMC website and extracts
-#metadata information on every relevant document on the website
+'''
+@author Anand Chitale
+#This script goes through every page of the FOMC historical website and extracts raw
+metadata information on every relevant document on the website
+outputing into raw_data.csv
+'''
 def download_raw_doc_metadata():
     documents = []
     start_date, end_date = 1936,2013

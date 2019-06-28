@@ -2,8 +2,12 @@ import os
 import tika
 from tika import parser
 
-#This file extracts the raw text of downloaded bluebook pdf documents
-
+'''
+@Author Anand Chitale
+This file extracts the raw text of already downloaded bluebook pdf documents
+using the tika parser and outputs raw text files into the output folder 
+bluebook_raw_text
+'''
 def extract_bluebook_raw_text():
     if not os.path.exists("../output/bluebook_raw_text"):
         os.mkdir("../output/bluebook_raw_text")
