@@ -1,0 +1,178 @@
+,end_date,event_type,bluebook_treatment_alt_a,bluebook_treatment_size_alt_a,bluebook_treatment_alt_b,bluebook_treatment_size_alt_b,bluebook_treatment_alt_c,bluebook_treatment_size_alt_c,statement_policy_change,statement_policy_action,alternative_treatment_chosen,alternative_treatment_size_chosen
+618,1988-02-10,Meeting,E,-0.5,U,0,T,0.5,,,,
+619,1988-03-29,Meeting,U,0,?,0,T,?,,,,
+620,1988-05-17,Meeting,?,?,?,0,T,0.5,,,,
+621,1988-06-30,Meeting,?,?,?,0,T,0.5,,,,
+623,1988-08-16,Meeting,N,N,?,0,T,0.5,,,,
+624,1988-09-20,Meeting,E,?,U,0,T,?,,,,
+626,1988-11-01,Meeting,?,-0.5,?,0,T,?,,,,
+628,1988-12-14,Meeting,N,N,?,0,T,?,,,,
+629,1989-02-08,Meeting,N,N,U,0,T,0.5,,,,
+630,1989-03-28,Meeting,?,?,U,0,T,?,,,,
+631,1989-05-16,Meeting,E,-0.25,U,0,T,?,,,,
+634,1989-07-06,Meeting,E,?,U,0,T,?,,,,
+636,1989-08-22,Meeting,E,?,U,0,T,?,,,,
+637,1989-10-03,Meeting,E,-0.5,U,0,T,?,,,,
+641,1989-11-14,Meeting,E,-0.5,U,0,N,N,,,,
+642,1989-12-19,Meeting,E,?,U,0,?,?,,,,
+643,1990-02-07,Meeting,E,?,U,0,T,0.5,,,,
+644,1990-03-27,Meeting,E,?,U,0,T,?,,,,
+646,1990-05-15,Meeting,E,-0.5,U,0,T,?,,,,
+647,1990-07-03,Meeting,E,-0.5,U,0,T,?,,,,
+648,1990-08-21,Meeting,E,?,U,0,T,?,,,,
+651,1990-10-02,Meeting,?,?,U,0,T,?,,,,
+652,1990-11-13,Meeting,E,-0.5,U,0,T,?,,,,
+654,1990-12-18,Meeting,E,-0.5,U,0,N,N,,,,
+657,1991-02-06,Meeting,E,?,U,0,N,N,,,,
+658,1991-03-26,Meeting,E,?,U,0,T,?,,,,
+662,1991-05-14,Meeting,E,-0.5,U,0,N,N,,,,
+665,1991-07-03,Meeting,E,?,U,0,?,?,,,,
+667,1991-08-20,Meeting,E,-0.5,U,0,N,N,,,,
+669,1991-10-01,Meeting,E,-0.5,U,0,N,N,,,,
+671,1991-11-05,Meeting,E,?,U,0,N,N,,,,
+673,1991-12-17,Meeting,E,-0.5,U,0,N,N,,,,
+675,1992-02-05,Meeting,E,-0.5,U,0,N,N,,,,
+677,1992-03-31,Meeting,E,?,U,0,T,?,,,,
+678,1992-05-19,Meeting,E,-0.5,U,0,T,?,,,,
+679,1992-07-01,Meeting,E,-0.5,U,0,T,0.5,,,,
+681,1992-08-18,Meeting,E,-0.5,U,0,T,?,,,,
+682,1992-10-06,Meeting,E,-0.5,U,0,T,N,,,,
+683,1992-11-17,Meeting,E,-0.5,U,0,T,N,,,,
+685,1992-12-22,Meeting,E,-0.5,U,0,T,0.5,,,,
+687,1993-02-03,Meeting,E,-0.5,U,0,T,0.5,,,,
+690,1993-03-23,Meeting,E,-0.5,U,0,T,0.5,,,,
+691,1993-05-18,Meeting,E,-0.5,U,0,T,0.5,,,,
+692,1993-07-07,Meeting,E,-0.5,U,0,T,0.5,,,,
+693,1993-08-17,Meeting,E,-0.5,U,0,T,0.5,,,,
+694,1993-09-21,Meeting,E,-0.5,U,0,T,0.5,,,,
+700,1993-11-16,Meeting,E,-0.5,U,0,T,0.5,,,,
+701,1993-12-21,Meeting,E,-0.5,U,0,T,0.5,,,,
+702,1994-02-04,Meeting,E,-0.5,U,0,T,?,,,,
+704,1994-03-22,Meeting,N,,U,0,T,?,,,,
+707,1994-05-17,Meeting,N,,U,0,T,0.25,,,,
+708,1994-07-06,Meeting,N,,?,0,T,0.25,,,,
+710,1994-08-16,Meeting,N,,U,0,T,0.25,,,,
+711,1994-09-27,Meeting,N,,U,0,T,0.25,,,,
+712,1994-11-15,Meeting,N,,U,0,T,0.5,,,,
+713,1994-12-20,Meeting,N,,U,0,T,0.5,,,,
+716,1995-02-01,Meeting,N,,U,0,T,0.5,,,,
+718,1995-03-28,Meeting,E,-0.5,U,0,T,0.5,,,,
+720,1995-05-23,Meeting,E,-0.5,U,0,T,0.5,,,,
+721,1995-07-06,Meeting,E,-0.5,U,0,N,,-25.0,E,alt_a,
+722,1995-08-22,Meeting,E,-0.5,?,0,T,?,,,,
+723,1995-09-26,Meeting,E,?,U,0,T,0.5,,,,
+724,1995-11-15,Meeting,E,-0.5,U,0,T,0.5,,,,
+725,1995-12-19,Meeting,E,-0.5,U,0,T,0.5,-25.0,E,alt_a,
+726,1996-01-31,Meeting,E,-0.25,U,0,T,0.25,-25.0,E,alt_a,alt_a
+727,1996-03-26,Meeting,E,-0.5,U,0,T,0.5,,,,
+728,1996-05-21,Meeting,N,,U,0,T,0.5,,,,
+729,1996-07-03,Meeting,N,,U,0,T,0.25,,,,
+730,1996-08-20,Meeting,N,,?,0,T,0.25,,,,
+731,1996-09-24,Meeting,N,,U,0,T,0.5,,,,
+732,1996-11-13,Meeting,E,-0.5,U,0,T,0.5,,,,
+733,1996-12-17,Meeting,E,-0.5,U,0,T,0.5,,,,
+734,1997-02-05,Meeting,N,,U,0,T,0.5,,,,
+735,1997-03-25,Meeting,N,,U,0,T,0.5,25.0,T,alt_c,
+736,1997-05-20,Meeting,N,,U,0,T,0.5,,,,
+737,1997-07-02,Meeting,N,,U,0,T,0.25,,,,
+738,1997-08-19,Meeting,N,,U,0,T,0.25,,,,
+739,1997-09-30,Meeting,N,,U,0,T,0.25,,,,
+740,1997-11-12,Meeting,N,,U,0,T,0.25,,,,
+741,1997-12-16,Meeting,E,-0.25,U,0,T,0.25,,,,
+742,1998-02-04,Meeting,E,-0.25,U,,?,,,,,
+743,1998-03-31,Meeting,E,-0.25,U,,T,,,,,
+744,1998-05-19,Meeting,N,,U,,T,,,,,
+745,1998-07-01,Meeting,N,,U,,T,,,,,
+746,1998-08-18,Meeting,E,-0.25,U,,T,,,,,
+748,1998-09-29,Meeting,E,-0.25,U,,N,,-25.0,E,alt_a,alt_a
+750,1998-11-17,Meeting,E,-0.25,U,,N,,-25.0,E,alt_a,alt_a
+751,1998-12-22,Meeting,E,-0.25,U,,T,,,,,
+752,1999-02-03,Meeting,E,-0.25,U,,T,,,,,
+753,1999-03-30,Meeting,N,,U,,T,,,,,
+754,1999-05-18,Meeting,N,,U,,T,,,,,
+755,1999-06-30,Meeting,N,,U,,T,,25.0,T,alt_c,
+756,1999-08-24,Meeting,N,,U,,T,,25.0,T,alt_c,
+757,1999-10-05,Meeting,N,,U,,T,,0.0,U,alt_b,
+758,1999-11-16,Meeting,N,,U,,T,,25.0,T,alt_c,
+759,1999-12-21,Meeting,N,,U,,T,,,,,
+760,2000-02-02,Meeting,N,,U,,T,,25.0,T,alt_c,
+761,2000-03-21,Meeting,N,,U,,T,,25.0,T,alt_c,
+762,2000-05-16,Meeting,N,,N,,T,,50.0,T,alt_c,
+763,2000-06-28,Meeting,N,,U,,T,,0.0,U,alt_b,
+764,2000-08-22,Meeting,N,,U,,T,,0.0,U,alt_b,
+765,2000-10-03,Meeting,N,,U,,T,,0.0,U,alt_b,
+766,2000-11-15,Meeting,E,-0.25,U,,T,,0.0,U,alt_b,
+767,2000-12-19,Meeting,E,-0.25,U,,T,,0.0,U,alt_b,
+769,2001-01-31,Meeting,E,-0.25,U,-0.5,N,0,-50.0,E,alt_a,alt_b
+770,2001-03-20,Meeting,N,-0.5,N,-0.75,N,-0.25,-50.0,E,,alt_a
+773,2001-05-15,Meeting,N,-0.5,N,-0.25,N,-0.75,-50.0,E,,alt_a
+774,2001-06-27,Meeting,N,0,N,-0.25,N,-0.5,-25.0,E,,alt_b
+775,2001-08-21,Meeting,N,0,N,-0.25,N,-0.5,-25.0,E,,alt_b
+778,2001-10-02,Meeting,N,-0.5,N,-0.25,N,,-50.0,E,,alt_a
+779,2001-11-06,Meeting,N,0,N,-0.25,N,-0.5,-50.0,E,,alt_c
+780,2001-12-11,Meeting,N,0,N,-0.25,N,-0.5,-25.0,E,,alt_b
+781,2002-01-30,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+782,2002-03-19,Meeting,N,-0.25,N,0,N,0.25,0.0,U,,alt_b
+783,2002-05-07,Meeting,N,0,N,"ease, deg unclear",N,0.25,0.0,U,,alt_a
+784,2002-06-26,Meeting,N,0,N,-0.25,N,0.25,0.0,U,,alt_a
+785,2002-08-13,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+786,2002-09-24,Meeting,N,0,N,-0.25,N,-0.5,0.0,U,,alt_a
+787,2002-11-06,Meeting,N,0,N,-0.25,N,-0.5,-50.0,E,,alt_c
+788,2002-12-10,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+789,2003-01-29,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+790,2003-03-18,Meeting,N,0,N,-0.25,N,-0.5,0.0,U,,alt_a
+795,2003-05-06,Meeting,N,0,N,-0.25,N,-0.5,0.0,U,,alt_a
+796,2003-06-25,Meeting,N,-0.25,N,-0.5,N,0,-25.0,E,,alt_a
+797,2003-08-12,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+798,2003-09-15,Meeting,,,,,,,,,,
+799,2003-09-16,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+800,2003-10-28,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+801,2003-12-09,Meeting,N,0,N,-0.25,N,,0.0,U,,alt_a
+802,2004-01-28,Meeting,N,0,N,-0.25,N,0.25,0.0,U,,alt_a
+803,2004-03-16,Meeting,?,?,?,,?,,0.0,U,,
+804,2004-05-04,Meeting,?,?,T,,T,,0.0,U,,
+805,2004-06-30,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+806,2004-08-10,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+807,2004-09-21,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+808,2004-11-10,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+809,2004-12-14,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+810,2005-02-02,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+811,2005-03-22,Meeting,T,0.25,T,,T,,25.0,T,alt_a and alt_b and alt_c,alt_a
+812,2005-05-03,Meeting,T,0.25,T,,T,,25.0,T,alt_a and alt_b and alt_c,alt_a
+813,2005-06-30,Meeting,T,0.25,T,,T,,25.0,T,alt_a and alt_b and alt_c,alt_a
+814,2005-08-09,Meeting,T,0.25,T,,T,,25.0,T,alt_a and alt_b and alt_c,alt_a
+815,2005-09-20,Meeting,U,0,T,,N,,25.0,T,alt_b,
+816,2005-11-01,Meeting,U,0,T,,T,,25.0,T,alt_b and alt_c,
+817,2005-12-13,Meeting,N,,T,,?,,25.0,T,alt_b,
+818,2006-01-31,Meeting,T,0.25,T,0.25,T,,25.0,T,alt_a and alt_b and alt_c,alt_a and alt_b
+819,2006-03-28,Meeting,U,0,T,0.25,T,0.25,25.0,T,alt_b and alt_c,alt_b and alt_c
+820,2006-05-10,Meeting,U,0,T,0.25,T,0.5,25.0,T,alt_b and alt_c,alt_b
+821,2006-06-29,Meeting,U,0,T,0.25,T,0.5,25.0,T,alt_b and alt_c,alt_b
+822,2006-08-08,Meeting,U,0,U,0,T,0.25,0.0,U,alt_a and alt_b,alt_a and alt_b
+823,2006-09-20,Meeting,U,0,?,?,T,0.25,0.0,U,alt_a,alt_a
+824,2006-10-25,Meeting,U,0,U,0,T,0.25,0.0,U,alt_a and alt_b,alt_a and alt_b
+825,2006-12-12,Meeting,U,0,U,0,T,0.25,0.0,U,alt_a and alt_b,alt_a and alt_b
+826,2007-01-31,Meeting,U,0,U,0,T,0.25,0.0,U,alt_a and alt_b,alt_a and alt_b
+827,2007-03-21,Meeting,E,-0.25,U,0,T,0.25,0.0,U,alt_b,alt_b
+828,2007-05-09,Meeting,E,-0.25,U,0,T,0.25,0.0,U,alt_b,alt_b
+829,2007-06-28,Meeting,E,-0.25,U,0,T,0.25,0.0,U,alt_b,alt_b
+830,2007-08-07,Meeting,E,-0.25,U,0,T,0.25,0.0,U,alt_b,alt_b
+833,2007-09-18,Meeting,E,-0.5,E,-0.5,E,-0.25,-50.0,E,alt_a and alt_b and alt_c,alt_a and alt_b
+834,2007-10-31,Meeting,E,-0.25,U?,?,U,0,-25.0,E,alt_a,alt_a
+836,2007-12-11,Meeting,E,-0.5,E,-0.5,U,0,-25.0,E,alt_a and alt_b,
+839,2008-01-30,Meeting,E,-0.75,E,-0.5,E,-0.25,-50.0,E,alt_a and alt_b and alt_c,alt_b
+841,2008-03-18,Meeting,E,-0.75,E,-0.5,E,-0.25,-75.0,E,alt_a and alt_b and alt_c,alt_a
+842,2008-04-30,Meeting,E,-0.5,E,-0.25,U,0,-25.0,E,alt_a and alt_b,alt_b
+843,2008-06-25,Meeting,E,-0.25,U,0,T,0.25,0.0,U,alt_b,alt_b
+845,2008-08-05,Meeting,N,,U,0,T,0.25,0.0,U,alt_b,alt_b
+846,2008-09-16,Meeting,U,0,U,0,T,0.25,0.0,U,alt_a and alt_b,alt_a and alt_b
+849,2008-10-29,Meeting,E,-0.5,E,-0.25,U,0,-50.0,E,alt_a and alt_b,alt_a
+850,2008-12-16,Meeting,E,-1,E,-0.25,E,-0.5,,,,
+852,2009-01-28,Meeting,E,250 bn,E,?,U,0,0.0,U,alt_c,alt_c
+854,2009-03-18,Meeting,E,500 bn,E,500 Billion,U,0,0.0,U,alt_c,alt_c
+855,2009-04-29,Meeting,,,,,,,0.0,U,,
+857,2009-06-24,Meeting,,,,,,,0.0,U,,
+858,2009-08-12,Meeting,,,,,,,0.0,U,,
+859,2009-09-23,Meeting,,,,,,,0.0,U,,
+860,2009-11-04,Meeting,,,,,,,0.0,U,,
+861,2009-12-16,Meeting,,,,,,,0.0,U,,
