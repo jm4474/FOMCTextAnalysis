@@ -31,7 +31,7 @@ from bs4 import BeautifulSoup
 
 def main():
     #Path to Chrome Driver
-    directory = "../../../../"
+    directory = "../../../../../01_Knowhow/01_Courses/Columbia_courses/IO3/PS2/"
 
 
     ###############################################################################
@@ -172,6 +172,5 @@ def main():
             break
     browser.quit()
     all_articles.to_csv("../output/ft_articles.csv")
-
 
 main()

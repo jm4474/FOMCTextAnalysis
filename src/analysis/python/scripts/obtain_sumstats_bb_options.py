@@ -1,6 +1,6 @@
 """
 Purpose: Summarizes the alternatives of the bluebooks
-Status: Draft
+Status: Final -- 06/27/2019
 @author: olivergiesecke
 """
 
@@ -15,6 +15,20 @@ import numpy as np
 
 
 ###############################################################################
+
+def main():    
+    dataffr=construct_dataset(1988,2008)
+    plot_target(dataffr)
+    
+    data=load_bluebook_data(1988,2008)
+    create_totstat(data,'tab_sumstats_menu')
+    
+    create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
+    
+    turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
+    create_sumstat_byperiod(data,turning_points,'tab_sumstats_menu_byperiod')
+
+
 
 def create_totstat(data,name):
     sum_menu=pd.pivot_table(data,values='end_date',index='treatment_options',aggfunc=np.count_nonzero,fill_value=0)
@@ -70,9 +84,7 @@ def plot_target(dataffr):
     t_point=dataffr[dataffr['ffrtarget'].diff(1)!=0]
     t_point[t_point['year']==2007]
     
-    
     plt.rc('text', usetex=True)
-    
     fig = plt.figure(figsize=(10, 3))
     ax = fig.add_subplot(1, 1, 1)
     ax.plot(dataffr['date'],dataffr['ffrtarget'], color='blue', ls='solid')
@@ -86,7 +98,7 @@ def plot_target(dataffr):
 
     
 def load_bluebook_data(startyear,endyear):
-    data=pd.read_excel("../data/bluebook_data_for_online_WORKING.xlsx")
+    data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
     data=data[(data['year']>=1988) & data['year']<=2008]
     
@@ -97,8 +109,6 @@ def load_bluebook_data(startyear,endyear):
         except:
             print('No option found')
     treatments=list(set(treatments))
-    
-    
     
     data.loc[:,'treatment_options']=np.nan
     for idx,row in data.iterrows():
@@ -146,7 +156,6 @@ def create_sumstat_byperiod(data,turning_points,name):
         data.loc[(data['start_date']>pd.to_datetime(turning_points[i])) & (data['start_date']<=pd.to_datetime(turning_points[i+1])),'period']='\\shortstack{'+turning_points[i]+'- \\\ '+turning_points[i+1]+'}'
     
     data.loc[data['start_date']>=pd.to_datetime(turning_points[-1]),'period']='post '+turning_points[-1]
-    
         
     sum_menu_period=pd.pivot_table(data,values='end_date',index='treatment_options',columns='period',aggfunc=np.count_nonzero,fill_value=0)
     sum_menu_period=sum_menu_period.reset_index()
@@ -154,7 +163,6 @@ def create_sumstat_byperiod(data,turning_points,name):
     addline={'treatment_options':'Total'}
     for item in list(sum_menu_period.columns)[1:]:
         addline.update({item:sum_menu_period[item].sum() })
-    
     
     cols = list(sum_menu_period)
     # move the column to head of list using index, pop and insert
@@ -170,17 +178,6 @@ def create_sumstat_byperiod(data,turning_points,name):
     create_table_df(sum_menu_period,name)
     print("Table",name,"is written." )
 
-def main():    
-    dataffr=construct_dataset(1988,2008)
-    plot_target(dataffr)
-    
-    data=load_bluebook_data(1988,2008)
-    create_totstat(data,'tab_sumstats_menu')
-    
-    create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
-    
-    turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
-    create_sumstat_byperiod(data,turning_points,'tab_sumstats_menu_byperiod')
 
 if __name__ == "__main__":
    main()
