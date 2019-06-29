@@ -11,7 +11,10 @@ def main():
     print(len(der_state_ftr_nyt_df))
     der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_nyt_df)
     print(len(der_state_ftr_nyt_bb_df))
+    # Generate year column
+    der_state_ftr_nyt_bb_df['year']=der_state_ftr_nyt_bb_df['start_date'].apply(lambda x: x.year)
     der_state_ftr_nyt_bb_df.to_csv("../output/final_derived_file.csv")
+    
 def merge_statement(cur_df):
     print("merging statements")
     statement_df = pd.read_csv("../output/statements_text_extraction.csv")
@@ -20,11 +23,13 @@ def merge_statement(cur_df):
     #print(len(cur_df))
     statement_df = statement_df[['meeting_start_date','policy_change','policy_action']]
     statement_df = statement_df.add_prefix("statement_")
-    statement_df['start_date'] = statement_df['statement_meeting_start_date']
-    statement_df = statement_df.drop('statement_meeting_start_date',axis=1)
+    statement_df.rename(columns={'statement_meeting_start_date':'start_date'},inplace=True)
     #print(statement_df)
     assert(len(statement_df)<len(cur_df))
-    merge_statment = cur_df.merge(statement_df,how="left",on="start_date")
+    merge_statment = cur_df.merge(statement_df,how="left",on="start_date",indicator=True)
+    # OG: Indicator added. It indicates where statement is available despite extraction missing
+    merge_statment.rename(columns={"_merge":"d_statement"},inplace=True)
+    merge_statment['d_statement'].replace({'both':True,'left_only':False},inplace=True)
     #print(merge_statment)
     #print(merge_statment.columns)
     return merge_statment
