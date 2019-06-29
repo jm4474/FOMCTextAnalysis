@@ -5,6 +5,10 @@ from bs4 import BeautifulSoup
 import csv
 import time
 broken_links = 0
+'''
+@Author Anand Chitale
+This program scrapes the new york times
+'''
 def main():
     derived_df=pd.read_csv("../output/derived_data.csv")
     derived_df = derived_df[derived_df.event_type=="Meeting"]

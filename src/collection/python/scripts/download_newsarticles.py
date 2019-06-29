@@ -4,6 +4,7 @@
 """
 Purpose: Logs into Factiva by using Selenium and scraps the news paper articles
 @author: olivergiesecke
+modified by anandchitale
 """
 ###############################################################################
 ### Usual Import ###
@@ -31,7 +32,7 @@ from bs4 import BeautifulSoup
 
 def main():
     #Path to Chrome Driver
-    directory = "../../../../../01_Knowhow/01_Courses/Columbia_courses/IO3/PS2/"
+    directory = "../../../../"
 
 
     ###############################################################################
@@ -42,14 +43,14 @@ def main():
     browser = webdriver.Chrome(executable_path = path_to_chromedriver)
     url = 'http://www.columbia.edu/cgi-bin/cul/resolve?AUQ3920'
     browser.get(url)
-    wait_time = random.randint(15,25)
+    wait_time = random.randint(35,40)
     print("Waiting for {} Seconds...".format(wait_time))
     browser.implicitly_wait(wait_time)
 
     #Click Through The Maintanence Window
     if browser.find_element_by_xpath("//body[@id='sys-maintenance']"):
         browser.find_element_by_id("okBtn").click()
-    wait_time = 10
+    wait_time = 20
     print("Waiting for {} Seconds...".format(wait_time))
     browser.implicitly_wait(wait_time)
 
@@ -65,8 +66,8 @@ def main():
     all_articles = pd.DataFrame(columns=['meeting_date',
                                  'article_date', 'source',
                                  'headline','content'])
-    for end_date in end_dates:
-        try:
+    try:
+        for end_date in end_dates:
             print("Currently Working On Meeting With End Date:{}".format(end_date))
             print("{} meetings left".format(counter))
 
@@ -108,77 +109,62 @@ def main():
             time.sleep(wait_time)
 
             browser.find_element_by_xpath('//*[@id="btnSearchBottom"]').click()
-            try:
-                ### Extract all the relevant links
-                article_search_results = []
-                article_containers = browser.find_elements_by_xpath('//div[@class="headlines"]/table/tbody/tr[@class="headline"]')
-                print("Found {} Articles".format(len(article_containers)))
-                for article_container in article_containers:
-                    try:
-                        article_result = {}
-                        article_result['link'] = article_container.find_element_by_class_name("enHeadline")
-                        article_result['source'] = article_container.find_element_by_class_name("leadFields").\
-                            find_element_by_tag_name("a").text
-                        article_result['date'] = end_date.date()
-                        article_result['headline'] = article_result['link'].text
-                        article_search_results.append(article_result)
-                    except Exception as e:
-                        time.sleep(10)
-                        print("exception sleeping for 10 seconds")
-                        print("{} ERROR GETTING ARTICLE RESULT INFO FOR DATE {}".format(e, end_date))
+            ### Extract all the relevant links
+            article_search_results = []
+            article_containers = browser.find_elements_by_xpath('//div[@class="headlines"]/table/tbody/tr[@class="headline"]')
+            print("Found {} Articles".format(len(article_containers)))
+            for article_container in article_containers:
+                article_result = {}
+                article_result['link'] = article_container.find_element_by_class_name("enHeadline")
+                article_result['source'] = article_container.find_element_by_class_name("leadFields").\
+                    find_element_by_tag_name("a").text
+                article_result['date'] = end_date.date()
+                article_result['headline'] = article_result['link'].text
+                article_search_results.append(article_result)
 
-                # parses article
-                for article in article_search_results:
-                    article['link'].click()
-                    try:
-                        wait_time = random.randint(15, 25)
-                        print("Waiting for {} Seconds...".format(wait_time))
-                        time.sleep(wait_time)
-                        soup=BeautifulSoup(browser.page_source, 'html.parser')
-                        #print([p for p in soup.find_all("p")])
-                        article_text = soup.find_all('p',attrs={'class': 'articleParagraph enarticleParagraph'})
-                        #print("Article Text looks like:{}".format(article_text))
-                        cleaned_lines = []
-                        for p_tag in article_text:
-                            cleaned_lines.append(' '.join(filter(None, p_tag.getText().split('\n'))))
-                        content=' '.join(cleaned_lines)
-
-                        #Final Article Data for Export
-                        article_entry ={'meeting_date':end_date,
-                                 'article_date':article_date, 'source': str(article['source']),
-                                 'headline':article['headline'],'content':[content]}
-
-                        print("FINAL ARTICLE LOOKS LIKE:{}".format(article_entry))
-
-                        all_articles.append(article_entry,ignore_index=True)
-
-                        print("All Articles now contains {}".format(len(all_articles)))
-                        wait_time = random.randint(15,25)
-                        print("Waiting for {} Seconds...".format(wait_time))
-                        time.sleep(wait_time)
-                        browser.execute_script("window.history.go(-1)")
-                    except Exception as e:
-                        print("{} ERROR looking in article {}".format(e,article))
-                        time.sleep(10)
-                        print("exception sleeping for 10 seconds")
-                        browser.execute_script("window.history.go(-1)")
+            # parses article
+            for article in article_search_results:
+                article['link'].click()
                 wait_time = random.randint(15, 25)
                 print("Waiting for {} Seconds...".format(wait_time))
                 time.sleep(wait_time)
-                browser.execute_script("window.history.go(-1)")
-            except Exception as e:
-                print("{} error for article with date {}".format(e,end_date))
-                time.sleep(10)
-                print("exception sleeping for 10 seconds")
+                soup=BeautifulSoup(browser.page_source, 'html.parser')
+                #print([p for p in soup.find_all("p")])
+                article_text = soup.find_all('p',attrs={'class': 'articleParagraph enarticleParagraph'})
+                #print("Article Text looks like:{}".format(article_text))
+                cleaned_lines = []
+                for p_tag in article_text:
+                    cleaned_lines.append(' '.join(filter(None, p_tag.getText().split('\n'))))
+                content=' '.join(cleaned_lines)
+
+                #Final Article Data for Export
+                article_entry ={'meeting_date':end_date,
+                         'article_date':article_date, 'source': str(article['source']),
+                         'headline':article['headline'],'content':[content]}
+
+                print("FINAL ARTICLE LOOKS LIKE:{}".format(article_entry))
+
+                all_articles = all_articles.append(pd.DataFrame(article_entry),ignore_index=True)
+
+                print("All Articles now contains {}".format(len(all_articles)))
+                print(all_articles)
+                wait_time = random.randint(15,25)
+                print("Waiting for {} Seconds...".format(wait_time))
+                time.sleep(wait_time)
                 browser.execute_script("window.history.go(-1)")
             wait_time = random.randint(15, 25)
             print("Waiting for {} Seconds...".format(wait_time))
             time.sleep(wait_time)
+            browser.execute_script("window.history.go(-1)")
+            wait_time = random.randint(15, 25)
+            print("Waiting for {} Seconds...".format(wait_time))
+            time.sleep(wait_time)
             counter-=1
-        except Exception as e:
-            print("{} ERROR ON SEARCH PAGE FOR DATE {}".format(e,end_date))
-            break
-    browser.quit()
-    all_articles.to_csv("../output/ft_articles.csv")
+        browser.quit()
+        all_articles.to_csv("../output/ft_articles.csv")
+    except Exception as e:
+        print("{} ERROR ON SEARCH PAGE FOR DATE {}".format(e,end_date))
+        all_articles.to_csv("../output/ft_articles.csv")
+
 
 main()
