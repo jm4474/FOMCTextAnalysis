@@ -2,9 +2,12 @@ import pandas as pd
 import re
 import csv
 import datetime
+'''
+@Author Anand Chitale
 
-#This program reads in the raw FOMC scraped metadata and produces
-#A readable and actionable derived data csv for data download
+This program reads in the raw FOMC scraped metadata and produces
+A readable and actionable derived data csv for data download and analysis
+'''
 
 def extract_derived_data():
     raw_df = pd.read_csv("../output/raw_data.csv")
