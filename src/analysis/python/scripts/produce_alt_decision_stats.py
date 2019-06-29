@@ -1,5 +1,13 @@
 import pandas as pd
 import numpy as np
+from auxfunction_tablecreation import create_table_df
+
+'''
+@Author Anand Chitale
+Reads in alternative_treatment_decision file in order to produce
+decision stats on actions of the FOMC when presented with every observed
+set of actions
+'''
 def main():
     df = pd.read_csv("../output/alternative_treatment_decisions.csv")
 
@@ -28,26 +36,5 @@ def get_policy_options(row):
     policy_options = sorted(policy_options)
     return ' '.join(policy_options)
 
-
-def create_table_df(data, name):
-    columnheaders = list(data.columns)
-    numbercolumns = len(columnheaders)
-
-    with open("../output/" + name + ".tex", "w") as f:
-        f.write(r"\begin{tabular}{" + "l" + "".join("c" * (numbercolumns - 1)) + "}\n")
-        f.write("\\hline\\hline \n")
-        f.write("\\addlinespace" + " \n")
-        f.write(" & ".join([str(x) for x in columnheaders]) + " \\\ \n")
-        f.write("\\hline \n")
-        # write data
-        for idx, row in data.iterrows():
-            # Do formatting for specific tables
-            if row.iloc[0] == "Total":
-                f.write("\\addlinespace" + " \n")
-
-            f.write(" & ".join([str(x) for x in row.values]) + " \\\\\n")
-
-        f.write("\\hline \n")
-        f.write(r"\end{tabular}")
 
 main()

@@ -1,7 +1,9 @@
 import pandas as pd
-
-#Reads in commented sentence alternatives and bluebook keyword classifier
-#output in order to produce file for manual validation and treatment input
+'''
+@author Anand Chitale
+Reads in commented sentence alternatives and bluebook keyword classifier
+output in order to produce file for treatment input by Anand Chitale
+'''
 def main():
     alternative_a = pd.read_excel("../../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesA_commented.xlsx")
     alternative_b = pd.read_excel("../../../Matlab/Output/Bluebook/CSV/CommentedFiles/SentencesB_commented.xlsx")

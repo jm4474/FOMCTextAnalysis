@@ -1,4 +1,13 @@
 import pandas as pd
+
+'''
+@Author Anand Chitale
+Produces basic summary stats on the validity of our automated 
+approach of extracting bluebook treatments from bluebook sentences
+
+Uses manually tagged treatments(By Anand) for comparison
+'''
+
 def main():
     df = pd.read_excel("../output/manually_validated_treatments.xlsx")
 

@@ -1,16 +1,34 @@
 import pandas as pd
-#MERGES TOGETHER DATA FROM ALL SOURCES TO PRODUCE A FINAL DERIVED FILE
+
+'''
+@Author Anand Chitale
+
+Reads in
+1) The derived data file:../../../collection/python/output/derived_data.csv
+2) The statement text extraction file :../output/statements_text_extraction.csv
+3) The federal future csv: ../output/federal_funds_futures.csv
+4) The Master news file : ../../../derivation/python/output/all_news_articles.csv
+5) The online validated bluebook file: ../../../analysis/python/data/bluebook_manual_data_online_WORKING.xlsx
+In order to produce a final derived information 
+file containing the following columns:
+
+start_date,end_date,event_type,statement_policy_change,statement_policy_action
+,d_statement,FFF_0_rate,FFF_1_rate,FFF_2_rate,FFF_3_rate,FFF_4_rate,FFF_5_rate,
+FFF_6_rate,wsj_article_count,nyt_article_count,ft_article_count,DFF_Before_meeting,
+DFEDTR_before,DFEDTR_end,bluebook_treatment_alt_a,bluebook_treatment_size_alt_a,
+bluebook_justify_alt_a,bluebook_treatment_alt_b,bluebook_treatment_size_alt_b,
+bluebook_justify_alt_b,bluebook_treatment_alt_c,bluebook_treatment_size_alt_c,
+bluebook_justify_alt_c,bluebook_treatment_alt_d,bluebook_treatment_size_alt_d,
+bluebook_justify_alt_d,bluebook_treatment_alt_e,bluebook_treatment_size_alt_e,
+bluebook_justify_alt_e,bluebook_comments,year
+
+'''
 def main():
     derived_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
-    print(len(derived_df))
     der_state_df = merge_statement(derived_df)
-    print(len(der_state_df))
     der_state_ftr_df = merge_ftr(der_state_df)
-    print(len(der_state_ftr_df))
-    der_state_ftr_nyt_df = merge_news(der_state_ftr_df)
-    print(len(der_state_ftr_nyt_df))
-    der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_nyt_df)
-    print(len(der_state_ftr_nyt_bb_df))
+    der_state_ftr_news_df = merge_news(der_state_ftr_df)
+    der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_news_df)
     # Generate year column
     der_state_ftr_nyt_bb_df['year']=der_state_ftr_nyt_bb_df['start_date'].apply(lambda x: x.year)
     der_state_ftr_nyt_bb_df.to_csv("../output/final_derived_file.csv")
@@ -34,7 +52,7 @@ def merge_statement(cur_df):
     #print(merge_statment.columns)
     return merge_statment
 def merge_ftr(cur_df):
-    print("mergeing futures")
+    print("merging futures")
     future_df = pd.read_csv("../output/federal_funds_futures.csv")
     #FFR Column is FF0 after adjusting for date
     future_df['start_date'] = future_df['date']
@@ -52,10 +70,6 @@ def merge_news(cur_df):
     print("merging news")
     news_df = pd.read_csv("../../../derivation/python/output/all_news_articles.csv")
 
-    number_articles = len(news_df)
-    #print("We currently have {} articles".format(number_articles))
-    #print("Out of those, we have {} valid articles".format(len(valid_articles)))
-    # print(nyt_df.sort_values(by="article_date"))
     for news_source in news_df['source'].unique():
         column_name_parts = (news_source.strip("The ").lower()).split()
         count_column_name = ("".join(word[0] for word in column_name_parts)) +"_article_count"

@@ -2,12 +2,18 @@ import pandas as pd
 import pprint
 import numpy as np
 output_dir = "../../../derivation/python/output/"
-
+from auxfunction_tablecreation import create_table_df
+'''
+@Author Anand Chitale
+Produces summary statistics on the coverage of meetings by 
+the financial times, nytimes, and wall street journal, 
+reading in our master news data exporting to a latex file
+'''
 def main():
     comp_df = get_merge()
     print(comp_df)
     pivot = pd.pivot_table(comp_df,
-                              values=['NYT', 'WSJ'],
+                              values=['NYT', 'WSJ', 'FT'],
                               columns="year",
                               aggfunc=np.sum)
 
@@ -18,26 +24,7 @@ def main():
     print(pivot.shape)
     create_table_df(pivot,"news_coverage")
 
-def create_table_df(data, name):
-    columnheaders = list(data.columns)
-    numbercolumns = len(columnheaders)
 
-    with open("../output/" + name + ".tex", "w") as f:
-        f.write(r"\begin{tabular}{" + "l" + "".join("c" * (numbercolumns - 1)) + "}\n")
-        f.write("\\hline\\hline \n")
-        f.write("\\addlinespace" + " \n")
-        f.write(" & ".join([str(x) for x in columnheaders]) + " \\\ \n")
-        f.write("\\hline \n")
-        # write data
-        for idx, row in data.iterrows():
-            # Do formatting for specific tables
-            if row.iloc[0] == "Total":
-                f.write("\\addlinespace" + " \n")
-
-            f.write(" & ".join([str(x) for x in row.values]) + " \\\\\n")
-
-        f.write("\\hline \n")
-        f.write(r"\end{tabular}")
 
 def get_merge():
     derived_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
@@ -69,19 +56,8 @@ def get_merge():
     interm_df['year'] = interm_df.meeting_date.apply(lambda x: x.year)
     interm_df['NYT'] = interm_df["The New York Times"].notnull()
     interm_df['WSJ'] = interm_df["The Wall Street Journal"].notnull()
+    interm_df['FT'] = interm_df["The Financial Times"].notnull()
 
-    '''
-    #print(merged_df)
-    comp_df['d_meeting'] = True
-    comp_df['articles'] = comp_df['_merge'] == "both"
-    comp_df['NYT'] = comp_df['articles'][comp_df['source']=="The New York Times"]
-    comp_df['WSJ'] = comp_df['articles'][comp_df['source']=="The Wall Street Journal"]
-    comp_df['FT'] = comp_df['articles'][comp_df['source']=="The Financial Times"]
-    comp_df['year'] = comp_df['meeting_date'].dt.year
-    comp_df = comp_df[['d_meeting', 'NYT','WSJ','FT','year', 'meeting_date']]
-    '
-    #print(comp_df)
-    '''
     return interm_df
 
 
