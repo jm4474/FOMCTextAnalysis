@@ -17,6 +17,7 @@ start_year=1988
 end_year=2008
 data_df=data_df[(data_df['year']>=start_year) & (data_df['year']<=end_year)]
 
+
 pivot=pd.pivot_table(data_df,index='d_statement',values='start_date',columns='year',aggfunc=np.count_nonzero,fill_value=0)
 pivot=pivot.reset_index()
 
