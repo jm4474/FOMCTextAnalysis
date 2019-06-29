@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
-
+'''
+@author Anand Chitale
+Produces summary stats on articles taken from the nytimes
+'''
 def main():
     nyt_df = pd.read_csv("../../../collection/python/output/nytimes_articles.csv")
 

@@ -1,6 +1,12 @@
 import pandas as pd
 from numpy import isnan
-
+from auxfunction_tablecreation import create_table_df
+'''
+@Author Anand Chitale
+Reads in the final derived file in order to find 
+bluebook treatments, and then compares with statement outcome data
+in order to determine which alternative was chosen at each meeting
+'''
 def main():
     full_df = pd.read_csv("../../../derivation/python/output/final_derived_file.csv")
     extract_alternative_df(full_df)

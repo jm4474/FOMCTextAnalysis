@@ -1,6 +1,10 @@
 import pandas as pd
 from nltk.corpus import stopwords
 import pprint
+'''
+@Author Anand Chitale
+produces summary stats on pepe's matlab approach of analyzing nytimes
+'''
 def main():
     df = pd.read_csv("../../../collection/python/data/news_data.csv",
                      names=['date','headline','category','text'])
