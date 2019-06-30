@@ -12,17 +12,25 @@ reading in our master news data exporting to a latex file
 def main():
     comp_df = get_merge()
     print(comp_df)
+    comp_df.rename(columns={'meeting_date':'Meetings'},inplace=True)
     pivot = pd.pivot_table(comp_df,
-                              values=['NYT', 'WSJ', 'FT'],
+                              values=['Meetings','NYT', 'WSJ', 'FT'],
                               columns="year",
-                              aggfunc=np.sum)
-
+                              aggfunc={'Meetings':np.count_nonzero,
+                                       'NYT':np.sum,
+                                       'WSJ':np.sum,
+                                       'FT':np.sum})
+    
+    
+    
     pivot = pivot.reset_index()
     pivot.rename(columns={"index": "Newspaper"}, inplace=True)
 
+    pivot = pivot.reindex([1,0,2,3])
+    
     print(pivot)
     print(pivot.shape)
-    create_table_df(pivot,"news_coverage")
+    create_table_df(pivot,"tab_news_coverage",12)
 
 
 
