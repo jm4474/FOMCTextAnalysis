@@ -9,8 +9,24 @@ def main():
     pcepi = pd.read_csv("../data/string_theory/PCEPI.csv")
     unrate = pd.read_csv("../data/string_theory/UNRATE.csv")
 
-    dataframes = [dfedtar,dfedtarl,dfedtaru,dff,indpro,pcepi,unrate]
+    treasury_yields = pd.read_csv("../data/string_theory/FRB_H15.csv")
+    treasury_yields['DATE'] = pd.to_datetime(treasury_yields['Unique Identifier: '],errors="coerce")
+    treasury_yields = treasury_yields.dropna(subset=['DATE'])
+    treasury_yields['TRY_3M'] = treasury_yields['H15/H15/RIFLGFCM03_N.B']
+    treasury_yields['TRY-2Y'] = treasury_yields['H15/H15/RIFLGFCY02_N.B']
+    treasury_yields['TRY-10Y'] = treasury_yields['H15/H15/RIFLGFCY10_N.B']
+    treasury_yields = treasury_yields[['DATE','TRY_3M','TRY-2Y','TRY-10Y']]
 
+    futures_contract = pd.read_excel("../data/string_theory/federal_funds_cont.xlsx")
+    futures_contract['DATE'] = pd.to_datetime(futures_contract.iloc[:,0],errors='coerce')
+    futures_contract['FF1_COMDTY'] = futures_contract.iloc[:,1]
+    futures_contract['FF2_COMDTY'] = futures_contract.iloc[:,2]
+    futures_contract = futures_contract[['DATE','FF1_COMDTY','FF2_COMDTY']]
+    futures_contract = futures_contract.dropna(subset=["DATE"])
+
+    dataframes = [dfedtar,dfedtarl,dfedtaru,dff,indpro,pcepi,unrate,treasury_yields,futures_contract]
+    for dataframe in dataframes:
+        dataframe['DATE'] = pd.to_datetime(dataframe['DATE'])
     df_merged = reduce(lambda left,right: \
                            pd.merge(left,right,on=['DATE'],how='outer'),dataframes)
 
