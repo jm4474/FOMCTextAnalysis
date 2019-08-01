@@ -1,17 +1,17 @@
 import pandas as pd
 def main():
 
-    factiva_df = pd.read_csv("../../../collection/python/output/news_articles.csv")
+    factiva_df = pd.read_csv("../../../derivation/python/data/news_articles.csv")
     wsj_df = factiva_df[factiva_df['source'].str.contains("Wall Street Journal")]
     wsj_df['source'] = "The Wall Street Journal"
     wsj_df['meeting_date'] = pd.to_datetime(wsj_df['meeting_date'])
 
 
-    ft_df = pd.read_csv("../../../collection/python/output/ft_articles.csv")
+    ft_df = pd.read_csv("../../../derivation/python/data/ft_articles.csv")
     ft_df['source'] = "The Financial Times"
     ft_df['meeting_date'] = pd.to_datetime(ft_df['meeting_date'])
 
-    nytimes_df = pd.read_csv("../../../collection/python/output/nytimes_articles.csv")
+    nytimes_df = pd.read_csv("../../../derivation/python/data/nytimes_articles.csv")
     nytimes_df['meeting_date'] = pd.to_datetime(nytimes_df['meeting_date'])
     nytimes_df['source'] = "The New York Times"
     nytimes_df.drop(columns=["link"],inplace=True)

@@ -27,7 +27,7 @@ def main():
     print(pivot)
 
 
-    create_table_df(pivot,"policy_alternative_decisions")
+    create_table_df(pivot,"tab_policy_alternative_decisions")
 def get_policy_options(row):
     policy_options = []
     for alternative in ['bluebook_treatment_alt_a','bluebook_treatment_alt_b','bluebook_treatment_alt_c']:
