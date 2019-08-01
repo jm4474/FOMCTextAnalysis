@@ -19,7 +19,6 @@ def main():
     final.to_csv("../output/statements_text_extraction.csv",index=False)
 
 
-
 def do_cleaning(data):
     data.sort_values("meeting_start_date",inplace=True)
     

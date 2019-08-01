@@ -10,6 +10,7 @@ in order to determine which alternative was chosen at each meeting
 def main():
     full_df = pd.read_csv("../../../derivation/python/output/final_derived_file.csv")
     extract_alternative_df(full_df)
+    
 def extract_alternative_df(df):
     df['end_date'] = pd.to_datetime(df['end_date'])
     sub_df = df[['end_date', 'event_type', 'bluebook_treatment_alt_a', 'bluebook_treatment_size_alt_a',
@@ -17,7 +18,7 @@ def extract_alternative_df(df):
                  'bluebook_treatment_size_alt_c','statement_policy_change','statement_policy_action']]
 
     sub_df = sub_df[sub_df.event_type=="Meeting"]
-    sub_df = sub_df[(sub_df.end_date.dt.year>=1988) & (sub_df.end_date.dt.year<=2009)]
+    sub_df = sub_df[(sub_df.end_date.dt.year>=1988) & (sub_df.end_date.dt.year<=2008)]
     sub_df.loc[sub_df['statement_policy_action']=="unchanged","statement_policy_action"] = "U"
     sub_df.loc[sub_df['statement_policy_action']=="easing","statement_policy_action"] = "E"
     sub_df.loc[sub_df['statement_policy_action']=="tightening","statement_policy_action"] = "T"
@@ -26,6 +27,7 @@ def extract_alternative_df(df):
     sub_df['alternative_treatment_size_chosen'] = ""
     sub_df['alternative_treatment_size_chosen'] = sub_df.apply(lambda row:get_alternative_treatment_size_outcome(row),axis=1)
     sub_df.to_csv("../output/alternative_treatment_decisions.csv")
+    
 def get_alternative_treatment_outcome(row):
     if not isinstance(row['statement_policy_action'], str):
         return ""
