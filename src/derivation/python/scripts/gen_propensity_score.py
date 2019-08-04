@@ -8,9 +8,9 @@
 import pandas as pd
 import numpy as np
 
-data_df=pd.read_csv('../output/monthly_policy_data.csv')
+data_df=pd.read_csv('../../../collection/python/output/string_theory_indicators_monthly.csv')
 data_df.rename(columns={'month':'date'},inplace=True)
-data_df['date']=pd.to_datetime(data_df['date'])
+data_df['date']=pd.to_datetime(data_df['DATE'])
 data_df['month'] = data_df['date'].apply(lambda x: x.month)
 data_df['year'] = data_df['date'].apply(lambda x: x.year)
 
