@@ -22,6 +22,14 @@ data_daily['year']=data_daily["date"].apply(lambda x:x.year)
 data_daily['month']=data_daily["date"].apply(lambda x:x.month)
 
 data_daily=data_daily[(data_daily['year']>=1988) & (data_daily['year']<2009)]
+data_rates=data_daily[['TRY_3M', 'TRY-2Y', 'TRY-10Y','DFEDTAR','year', 'month']]
+for var in ['TRY_3M', 'TRY-2Y', 'TRY-10Y']:
+    data_rates.loc[data_rates[var]=="ND",var]=np.nan
+
+data_rates[['TRY_3M', 'TRY-2Y', 'TRY-10Y']]=data_rates[['TRY_3M', 'TRY-2Y', 'TRY-10Y']].astype(float)
+data_rates=data_rates.groupby(['year', 'month']).mean()
+data_rates.rename(columns={"TRY-2Y":"TRY_2Y","TRY-10Y":"TRY_10Y","DFEDTAR":"FF_TAR"})
+
 data_daily=data_daily[['DFEDTAR', 'end_date', 'event_type', 'date', 'year', 'month']]
 
 # Make pre 1994 adjustment
@@ -52,7 +60,7 @@ data_pchanges = data_daily[[ 'year', 'month','ch_DFEDTAR','lead_DFEDTAR']]
 data_pchanges = data_pchanges.dropna()
 
 # Define meeting / non-meeting months
-clean_data=data_df[['date','month','year','INDPRO']]
+clean_data=data_df[['date','month','year','INDPRO','PCEPI']]
 clean_data=clean_data.sort_values(by=['year', 'month'])
 clean_data.loc[:,'lagged_inflation']=data_df['PCEPI_PCA'].shift(periods=1)
 #clean_data.loc[:,'l2m_prices']=data_df['PCEPI'].shift(periods=2)
@@ -67,6 +75,7 @@ clean_data=clean_data.merge(data_pchanges,how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_meeting,how='outer',on=['year','month'])   
 clean_data=clean_data.merge(data_scale,how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_crisis,how='outer',on=['year','month'])
+clean_data=clean_data.merge(data_rates,how='outer',on=['year','month'])
 clean_data['d_crisis']=clean_data['d_crisis']>0
 clean_data['d_meeting']=clean_data['d_meeting']>0
 clean_data=clean_data[(clean_data['year']>1988) & (clean_data['year']<=2008)]
