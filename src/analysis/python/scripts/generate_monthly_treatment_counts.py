@@ -11,27 +11,37 @@ def main():
                                'bluebook_treatment_size_alt_c':'tsc',
                                },inplace=True)
 
-    column_names = ['month','year']
+    column_names = ['d_dec','d_unc','d_inc']
     sizes = [-0.75,-0.5,-.25,0,.25,.5,.75]
     for size in sizes:
-        treatments[str(size)+'a'] = pd.to_numeric(treatments['tsa'],errors='coerce')==size
-        treatments[str(size)+'b'] = pd.to_numeric(treatments['tsb'],errors='coerce')==size
-        treatments[str(size)+'c'] = pd.to_numeric(treatments['tsc'],errors='coerce')==size
-        size_name = 'd_{sign}{val}'.format(
-            sign="m" if size < 0 else "", val=str(abs(int(size * 100))))
-        print(size_name)
+        for alt in ['a','b','c']:
+            treatments[str(size)+alt] = pd.to_numeric(treatments['ts'+alt],errors='coerce')==size
+            treatments['d_dec_'+alt] = pd.to_numeric(treatments['ts'+alt],errors='coerce')<0
+            treatments['d_unc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') == 0
+            treatments['d_inc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') > 0
+
+        size_name = 'd_{sign}0{val}'.format(
+            sign="m" if size < 0 else "", val=str(abs(int(size * 100)))).replace("00","0")
         treatments[size_name] = treatments[[str(size)+'a',str(size)+'b',
                                             str(size)+'c']].sum(axis=1)
+        treatments['d_dec'] = treatments[['d_dec_a','d_dec_b','d_dec_c']].sum(axis=1)
+        treatments['d_unc'] = treatments[['d_unc_a','d_unc_b','d_unc_c']].sum(axis=1)
+        treatments['d_inc'] = treatments[['d_inc_a','d_inc_b','d_inc_c']].sum(axis=1)
+
+
         column_names.append(size_name)
+    treatments[column_names] = treatments[column_names].astype(bool).astype(int)
     treatments['month'] = pd.to_datetime(treatments.date).dt.month
     treatments['year'] = pd.to_datetime(treatments.date).dt.year
+    column_names.append('month')
+    column_names.append('year')
     treatments = treatments[column_names]
     month_df = pd.DataFrame()
     for year in [1988,2009]:
         for month in [1,13]:
             month_df = month_df.append({'month':month,'year':year},ignore_index=True)
     treatments = treatments.merge(month_df,on=['month','year'],how="outer").fillna(0)
-    print(treatments)
-    treatments.to_csv("monthly_treatment_counts.csv")
+    print(treatments.sort_values(by="year"))
+    treatments.to_csv("../output/monthly_treatment_counts.csv")
 if __name__ == "__main__":
     main()
