@@ -12,27 +12,33 @@ def main():
                                'bluebook_treatment_size_alt_b':'tsb',
                                'bluebook_treatment_size_alt_c':'tsc',
                                },inplace=True)
+    for alt in ['a','b','c']:
+        treatments['ts'+alt] = pd.to_numeric(treatments['ts' + alt], errors='coerce')
 
+    treatments['d_dec'] = ((treatments['tsa'] < 0)\
+                        |(treatments['tsb'] < 0)|\
+                        (treatments['tsc'] < 0)).astype(int)
+
+    treatments['d_unc'] = ((treatments['tsa'] == 0) \
+                           | (treatments['tsb'] == 0) | \
+                           (treatments['tsc'] == 0)).astype(int)
+
+    treatments['d_inc'] = ((treatments['tsa'] > 0) \
+                           | (treatments['tsb'] > 0) | \
+                           (treatments['tsc'] > 0)).astype(int)
+    print(treatments)
     column_names = ['d_dec','d_unc','d_inc']
     sizes = [-0.75,-0.5,-.25,0,.25,.5,.75]
     for size in sizes:
-        for alt in ['a','b','c']:
-            treatments[str(size)+alt] = pd.to_numeric(treatments['ts'+alt],errors='coerce')==size
-            treatments['d_dec_'+alt] = pd.to_numeric(treatments['ts'+alt],errors='coerce')<0
-            treatments['d_unc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') == 0
-            treatments['d_inc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') > 0
-
         size_name = 'd_{sign}0{val}'.format(
             sign="m" if size < 0 else "", val=str(abs(int(size * 100)))).replace("00","0")
-        treatments[size_name] = treatments[[str(size)+'a',str(size)+'b',
-                                            str(size)+'c']].sum(axis=1)
-        treatments['d_dec'] = treatments[['d_dec_a','d_dec_b','d_dec_c']].sum(axis=1)
-        treatments['d_unc'] = treatments[['d_unc_a','d_unc_b','d_unc_c']].sum(axis=1)
-        treatments['d_inc'] = treatments[['d_inc_a','d_inc_b','d_inc_c']].sum(axis=1)
-
-
+        treatments[size_name] = ((treatments['tsa']==size)|\
+                                (treatments['tsb']==size)|\
+                                (treatments['tsc']==size)).astype(int)
         column_names.append(size_name)
-    treatments[column_names] = treatments[column_names].astype(bool).astype(int)
+
+
+
     treatments['month'] = pd.to_datetime(treatments.date).dt.month
     treatments['year'] = pd.to_datetime(treatments.date).dt.year
     column_names.append('month')
