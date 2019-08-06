@@ -20,8 +20,8 @@ def main():
             treatments['d_unc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') == 0
             treatments['d_inc_' + alt] = pd.to_numeric(treatments['ts' + alt],errors='coerce') > 0
 
-        size_name = 'd_{sign}{val}'.format(
-            sign="m" if size < 0 else "", val=str(abs(int(size * 100))))
+        size_name = 'd_{sign}0{val}'.format(
+            sign="m" if size < 0 else "", val=str(abs(int(size * 100)))).replace("00","0")
         print(size_name)
         treatments[size_name] = treatments[[str(size)+'a',str(size)+'b',
                                             str(size)+'c']].sum(axis=1)
