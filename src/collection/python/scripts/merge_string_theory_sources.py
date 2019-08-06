@@ -7,9 +7,10 @@ def main():
     dff = pd.read_csv("../data/string_theory/DFF.csv")
     indpro = pd.read_csv("../data/string_theory/INDPRO.csv")
     pcepi = pd.read_csv("../data/string_theory/PCEPI.csv")
+    pcepi_ch = pd.read_csv("../data/string_theory/PCEPI_change.csv")
     unrate = pd.read_csv("../data/string_theory/UNRATE.csv")
 
-    monthly_dataframes = [indpro,pcepi,unrate]
+    monthly_dataframes = [indpro,pcepi,pcepi_ch,unrate]
     for dataframe in monthly_dataframes:
         dataframe['DATE'] = pd.to_datetime(dataframe['DATE'])
     monthly_merged = reduce(lambda left,right: \
@@ -39,7 +40,7 @@ def main():
 
     df_merged['DATE'] = pd.to_datetime(df_merged['DATE'])
 
-    df_merged.to_csv("../output/string_theory_indicators_daily.csv")
+    df_merged.to_csv("../output/string_theory_indicators_daily_new.csv")
 
 if __name__ == "__main__":
     main()
