@@ -11,14 +11,31 @@ gen date_m=mofd(statadate)
 format date_m %tm
 drop statadate date 
 
+	* Define the samples
+gen d_sample1=0
+gen d_sample2=0
+replace d_sample1 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("07/2005","MY")
+replace d_sample2 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("12/2008","MY")
+
 	* Adjusted target following Angrist, Jorda, and Kuersteiner (2017)
 gen target_change_adj=target_change
-replace target_change_adj = 0.5 if target_change > 0.5
+replace target_change_adj = 0.5 if target_change > 0.5 // 4 months of adj.
 replace target_change_adj = -0.5 if target_change < -0.5
-replace target_change_adj = -0.25 if target_change == -.3125
-replace target_change_adj = 0.25 if target_change == .3125
-replace target_change_adj = 0 if target_change == .0625
+replace target_change_adj = -0.25 if target_change == -.3125 // 1 month adj.
 
+	* Show overall sample stats
+tab target_change if d_sample1 ==1 
+// Sample size matches: 192 obs, 60 monthly changes
+tab target_change if d_sample2 ==1
+// Sample size matches: 232 obs, 75 monthly changes (3 changes acc.)
+
+	// QA: Graph some of the raw data for quality check
+gen count = _n
+gen rec_tar = 9
+replace rec_tar = rec_tar[_n-1] + target_change if count != 1
+gen d_check = dfedtar == rec_tar
+tab d_check
+ 
 preserve
 keep target_change_adj 
 sort target_change_adj 
@@ -31,16 +48,7 @@ restore
 merge m:1 target_change_adj using `policy_menu',nogen
 sort date_m
 
-	* Contemporaneous inflation 
-sort date_m
-gen inflation = lagged_infl[_n+1]
-twoway ( line lagged_infl date_m)(line inflation date_m)
-
-
-	* Contemporaneous unemployment
-gen unemployment = lagged_unemp[_n+1]
-twoway line  unemployment date_m
-
+	
 /*
 	* Detrend unemployment
 gen time=_n
@@ -49,37 +57,49 @@ predict det_unemployment,r
 twoway (line unemployment date_m)( line det_unemployment date_m)
 */
 
-	* Define the samples
-gen d_sample1=0
-gen d_sample2=0
-replace d_sample1 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("07/2005","MY")
-replace d_sample2 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("12/2008","MY")
-
 	* Define the range of target rate changes for the estimation of the prop score
-replace lagged_infl=lagged_infl/12
-replace lagged_unemp=lagged_unemp
+*replace lagged_infl=lagged_infl // using annual monthly change of inflation.
+*replace lagged_unemp
 gen d_y2k=monthly("01/2000","MY")==date_m 
-	* table 1, column (1)
-oprobit ord_adj_tchange  lagged_unemp lagged_infl  scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 if d_sample1==1 
-margins if d_sample1==1 , dydx(lagged_unemp lagged_infl) 
-
 sort date_m
-gen l2_infl=lagged_infl[_n-1]
+gen l1_inflation = inflation[_n-1]
+gen l2_inflation = inflation[_n-2]
 gen l2_unemp=lagged_unemp[_n-1]
 
-/*
-gen det_unemployment_l1=det_unemployment[_n-1]
-gen det_unemployment_l2=det_unemployment[_n-2]
-*/
+gen l1_diff_unemp = lagged_unemp - lagged_unemp[_n-1]
+gen l2_diff_unemp = l1_diff_unemp[_n-1]
+
+sort date_m
+
+gen l1_pcepi_pca = pcepi_pca[_n-1]/12
+
+gen ch=(log(pcepi)-log(pcepi[_n-1]))*100
+gen l1_inf=ch[_n-1]
+gen l2_inf=ch[_n-2]
+
+	* table 1, column (1) 
+local spec_c1 "l1_diff_unemp l1_inf"
+oprobit ord_adj_tchange `spec_c1'  if d_sample1==1 
+margins if d_sample1==1 , dydx(`spec_c1') 
+// Very close match
+
+gen l1_target_change = target_change[_n-1]
+gen Fl1_target_change = l1_target_change * d_meeting
+
+	* table 1, column (2)
+local spec_c2 " l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12 d_month_1_fomc d_month_2_fomc d_month_3_fomc d_month_4_fomc d_month_5_fomc d_month_6_fomc d_month_7_fomc d_month_8_fomc d_month_9_fomc d_month_10_fomc d_month_11_fomc d_month_12_fomc "
+oprobit ord_adj_tchange `spec_c2' `controls' if d_sample1==1 
+margins if d_sample1==1 , dydx( `spec_c2' ) 
+
 
 	* table 1, column (4)
-local c4_spec "market_exp lagged_infl l2_infl lagged_unemp l2_unemp  target_change_last target_change_last_fomc lead_dfedtar d_meeting scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_1_fomc d_month_2_fomc d_month_3_fomc d_month_4_fomc d_month_5_fomc d_month_6_fomc d_month_7_fomc d_month_8_fomc d_month_9_fomc d_month_10_fomc d_month_11_fomc d_month_12_fomc"	
-	
-oprobit ord_adj_tchange `c4_spec' if d_sample1==1 
+local spec_c4 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting" 
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12 d_month_1_fomc d_month_2_fomc d_month_3_fomc d_month_4_fomc d_month_5_fomc d_month_6_fomc d_month_7_fomc d_month_8_fomc d_month_9_fomc d_month_10_fomc d_month_11_fomc d_month_12_fomc "
+oprobit ord_adj_tchange `spec_c4' `controls' if d_sample1==1 
+margins if d_sample1==1 , dydx(`spec_c4') 
 
-margins if d_sample1==1 , dydx(`c4_spec') 
-
-predict yhat1-yhat5,pr
+predict yhat1-yhat5 if d_sample1==1,pr
 rename yhat1 yhat_m050
 rename yhat2 yhat_m025
 rename yhat3 yhat_0
@@ -87,47 +107,47 @@ rename yhat4 yhat_025
 rename yhat5 yhat_050
 
 	* Create dummies for outcomes
-tab target_change_adj, gen(d_policy)
-rename d_policy1 d_policy_m050
-rename d_policy2 d_policy_m025
-rename d_policy3 d_policy_0
-rename d_policy4 d_policy_025
-rename d_policy5 d_policy_050
+gen d_policy_m050 = target_change_adj == -.5
+gen d_policy_m025 = target_change_adj == -.25
+gen d_policy_0 = target_change_adj == 0
+gen d_policy_025 = target_change_adj == 0.25
+gen d_policy_050 = target_change_adj == 0.5
 
 	* Remove observations with Pr < 0.025
 foreach element in _m050 _m025 _0 _025 _050{
-replace yhat`element'=. if yhat`element'<0.025 & d_policy`element'==1
+	replace yhat`element'=. if yhat`element' < 0.025 & d_policy`element'==1
 }
 
 	* Weight construction
 foreach element in _m050 _m025 _0 _025 _050{
-gen delta`element' = d_policy`element' / yhat`element' - d_policy_0 / yhat_0
+	gen delta`element' = d_policy`element' / yhat`element' - d_policy_0 / yhat_0
 }
 
 	* Orthogonalize the weight with respect to the conditioning set
 foreach element in _m050 _m025 _0 _025 _050{
-reg delta`element' `c4_spec' if d_sample1==1 
-predict delta_res`element',r
+	reg delta`element' `spec_c4' if d_sample1==1 
+	predict delta_res`element',r
 }
 	
 	* Create changes in the outcome for 24 month
 foreach var of varlist indpro pcepi{
 	foreach horizon of numlist 1/24{
-		gen `var'_g`horizon' = log(`var'[_n+`horizon']) - log(`var'[_n])
+		gen `var'_g`horizon' = (log(`var'[_n+`horizon']) - log(`var'[_n]))*100
 	}
 }
 
-foreach var of varlist unemployment try_3m try_2y try_10y ff_tar{
+foreach var of varlist unemp try_3m try_2y try_10y ff_tar{
 	foreach horizon of numlist 1/24{
 		gen `var'_g`horizon' = `var'[_n+`horizon'] - `var'[_n]
 	}
 }
 
 	* Create auxiliary variables
-foreach var of varlist indpro pcepi unemployment{
+foreach var of varlist indpro pcepi unemp{
 	foreach element in _m050 _m025 _0 _025 _050{
 		foreach horizon of numlist 1/24{
-			gen delta`element'`var'_g`horizon' = `var'_g`horizon'*delta_res`element'
+			gen delta`element'`var'_g`horizon' = ///
+			`var'_g`horizon'*delta_res`element'
 		}
 	}
 }
@@ -147,7 +167,7 @@ gen horizon=_n
 local policies "025 m025"
 
 foreach policy in `policies'{
-	foreach var of varlist  indpro pcepi{
+	foreach var of varlist  indpro pcepi unemp try_3m try_2y try_10y ff_tar{
 		gen b_`var'_`policy'=.
 		gen se_`var'_`policy'=.
 		gen ciub_`var'_`policy'=.
@@ -156,27 +176,7 @@ foreach policy in `policies'{
 		foreach horizon of numlist 1/24{
 			display("This is the estimation policy `policy' and `var' and horizon `horizon'")
 			reg  delta_`policy'`var'_g`horizon' if d_sample1==1
-			capture replace b_`var'_`policy'=_b[_cons] * 100 if horizon==`horizon'
-			capture replace se_`var'_`policy'=_se[_cons] * 100 if horizon==`horizon'
-			replace ciub_`var'_`policy'= b_`var'_`policy' + ///
-			1.68 * se_`var'_`policy' if horizon==`horizon'
-			replace cilb_`var'_`policy'= b_`var'_`policy' - ///
-			1.68 * se_`var'_`policy' if horizon==`horizon'
-		}
-	}
-}
-
-foreach policy in `policies'{
-	foreach var of varlist unemployment try_3m try_2y try_10y ff_tar{
-		gen b_`var'_`policy'=.
-		gen se_`var'_`policy'=.
-		gen ciub_`var'_`policy'=.
-		gen cilb_`var'_`policy'=.
-		
-		foreach horizon of numlist 1/24{
-			display("This is the estimation policy `policy' and `var' and horizon `horizon'")
-			reg  delta_`policy'`var'_g`horizon' if d_sample1==1
-			capture replace b_`var'_`policy'=_b[_cons]  if horizon==`horizon'
+			capture replace b_`var'_`policy'=_b[_cons] if horizon==`horizon'
 			capture replace se_`var'_`policy'=_se[_cons]  if horizon==`horizon'
 			replace ciub_`var'_`policy'= b_`var'_`policy' + ///
 			1.68 * se_`var'_`policy' if horizon==`horizon'
@@ -186,42 +186,45 @@ foreach policy in `policies'{
 	}
 }
 
+set scheme s1mono,perm
+local policies "025 m025"
 foreach policy in `policies'{
-	twoway scatter ciub_indpro_`policy' b_indpro_`policy' cilb_indpro_`policy' ///
+	twoway scatter b_indpro_`policy' ///
 	horizon if horizon<=24, ///
 	c( l l l) lpattern(dash solid dash) m(i oh i) title("`policy'bp on IP") ///
-	name("IP`policy'",replace) legend(off) ytitle("Change IP (in %)")
+	name("IP`policy'",replace) legend(off) ytitle("Change IP (in %)") ///
+	ylabel(-3.5(.5)1,grid) 
 
-	twoway scatter ciub_unemployment_`policy' b_unemployment_`policy' ///
-	cilb_unemployment_`policy' 	horizon if horizon<=24, c( l l l) ///
+	twoway scatter b_unemp_`policy'	horizon if horizon<=24, c( l l l) ///
 	lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on Unemployment") name("U`policy'",replace) ///
-	legend(off) ytitle("Change Unemployment (in %)")
+	legend(off) ytitle("Change Unemployment (in %)") ylabel(-.4(.2).6,grid)
 
-	twoway scatter ciub_pcepi_`policy' b_pcepi_`policy' cilb_pcepi_`policy' ///
+	twoway scatter  b_pcepi_`policy' ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on Inflation") name("I`policy'",replace) ///
-	legend(off) ytitle("Change Inflation (in %)")
+	legend(off) ytitle("Change Inflation (in %)") ylabel(-.6(.2).4,grid)
 
-	twoway scatter ciub_ff_tar_`policy' b_ff_tar_`policy' cilb_ff_tar_`policy' ///
+	twoway scatter  b_ff_tar_`policy'  ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on FFR") name("FFR`policy'",replace) ///
-	legend(off) ytitle("Change on Federal Funds Rate (in %)")
+	legend(off) ytitle("Change on Federal Funds Rate (in %)") ///
+	ylabel(-1.5(.5)1.5,grid)
 		
-	twoway scatter ciub_try_3m_`policy' b_try_3m_`policy' cilb_try_3m_`policy' ///
+	twoway scatter  b_try_3m_`policy'  ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on 3m T-Bill") name("Bill3m`policy'",replace) ///
-	legend(off) ytitle("Change on 3m T-Bill (in %)")
+	legend(off) ytitle("Change on 3m T-Bill (in %)") ylabel(-1(.5)1,grid)
 	
-	twoway scatter ciub_try_2y_`policy' b_try_2y_`policy' cilb_try_2y_`policy' ///
+	twoway scatter  b_try_2y_`policy'  ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on 2y T-Bond") name("Bond2y`policy'",replace) ///
-	legend(off) ytitle("Change on 2y T-Bond (in %)")
+	legend(off) ytitle("Change on 2y T-Bond (in %)") ylabel(-1(.5)1,grid)
 	
-	twoway scatter ciub_try_10y_`policy' b_try_10y_`policy' cilb_try_10y_`policy' ///
+	twoway scatter  b_try_10y_`policy' ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on 10y T-Bond") name("Bond10y`policy'",replace) ///
-	legend(off) ytitle("Change on 10y T-Bond (in %)")
+	legend(off) ytitle("Change on 10y T-Bond (in %)") ylabel(-1(.5)1,grid)
 	
 }
 	

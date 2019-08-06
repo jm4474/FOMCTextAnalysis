@@ -28,7 +28,7 @@ for var in ['TRY_3M', 'TRY-2Y', 'TRY-10Y']:
 
 data_rates[['TRY_3M', 'TRY-2Y', 'TRY-10Y']]=data_rates[['TRY_3M', 'TRY-2Y', 'TRY-10Y']].astype(float)
 data_rates=data_rates.groupby(['year', 'month']).mean()
-data_rates.rename(columns={"TRY-2Y":"TRY_2Y","TRY-10Y":"TRY_10Y","DFEDTAR":"FF_TAR"})
+data_rates=data_rates.rename(columns={"TRY-2Y":"TRY_2Y","TRY-10Y":"TRY_10Y","DFEDTAR":"FF_TAR"})
 
 data_daily=data_daily[['DFEDTAR', 'end_date', 'event_type', 'date', 'year', 'month']]
 
@@ -53,18 +53,20 @@ data_crisis=data_daily[['d_crisis', 'year', 'month']].groupby(['year', 'month'])
 data_meeting=data_daily[['d_meeting', 'year', 'month']].groupby(['year', 'month']).sum()
 data_daily=data_daily[data_daily['day']==data_daily['days_month']]
 
-data_daily.loc[:,'lead_DFEDTAR'] = data_daily['DFEDTAR'].shift(periods=1)
-data_daily['ch_DFEDTAR']=data_daily['DFEDTAR']-data_daily['lead_DFEDTAR'] 
+data_daily.loc[:,'lag_DFEDTAR'] = data_daily['DFEDTAR'].shift(periods=1)
+data_daily['ch_DFEDTAR']=data_daily['DFEDTAR']-data_daily['lag_DFEDTAR'] 
 
-data_pchanges = data_daily[[ 'year', 'month','ch_DFEDTAR','lead_DFEDTAR']]
+data_pchanges = data_daily[[ 'year', 'month','ch_DFEDTAR','lag_DFEDTAR','DFEDTAR']]
 data_pchanges = data_pchanges.dropna()
 
 # Define meeting / non-meeting months
-clean_data=data_df[['date','month','year','INDPRO','PCEPI']]
+clean_data=data_df[['date','month','year','INDPRO','PCEPI','PCEPI_PCA']]
 clean_data=clean_data.sort_values(by=['year', 'month'])
-clean_data.loc[:,'lagged_inflation']=data_df['PCEPI_PCA'].shift(periods=1)
+clean_data.loc[:,'inflation']=data_df['PCEPI_PCH']
+#clean_data.loc[:,'l1_inflation']=data_df['PCEPI_PCH'].shift(periods=1)
 #clean_data.loc[:,'l2m_prices']=data_df['PCEPI'].shift(periods=2)
 #clean_data['lagged_infl']=(np.log(clean_data['lagged_prices'])-np.log(clean_data['l2m_prices']))*100
+clean_data.loc[:,'unemp']=data_df['UNRATE']
 clean_data.loc[:,'lagged_unemp']=data_df['UNRATE'].shift(periods=1)
 #clean_data.drop(columns=['lagged_prices', 'l2m_prices'],inplace=True)
 #
@@ -76,6 +78,11 @@ clean_data=clean_data.merge(data_meeting,how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_scale,how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_crisis,how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_rates,how='outer',on=['year','month'])
+# Merge the policy menu
+menu_df = pd.read_csv('../../../analysis/python/output/monthly_treatment_counts.csv')
+menu_df.drop(columns=['Unnamed: 0'],inplace=True)
+clean_data = clean_data.merge(menu_df,how='outer',on=['year','month'])
+
 clean_data['d_crisis']=clean_data['d_crisis']>0
 clean_data['d_meeting']=clean_data['d_meeting']>0
 clean_data=clean_data[(clean_data['year']>1988) & (clean_data['year']<=2008)]
@@ -94,7 +101,9 @@ for outcome in outcomes:
     
 clean_data['ord_policy']=clean_data['target_change'].map(out_dict)
 clean_data['d_nineeleven']=(clean_data['month']==9) & (clean_data['year']==2001)
-# 
+
+
+# Create the month dummies
 clean_data['date']=clean_data['date'].apply(lambda x:x.strftime("%m/%d/%Y"))
 clean_data=pd.get_dummies(clean_data,columns=['month'],prefix='d_month')
 
@@ -106,8 +115,6 @@ clean_data['target_change_last_fomc']=clean_data['target_change_last']*clean_dat
 
 clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']]=clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']].astype('int32')
 
+
 clean_data.to_csv('../output/matlab_file.csv',index=False)
-
-
-
 
