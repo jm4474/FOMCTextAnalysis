@@ -1,5 +1,3 @@
-
-
 cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/derivation/stata/scripts"
 
 import delimited using ../../python/output/matlab_file,clear
@@ -11,7 +9,16 @@ gen date_m=mofd(statadate)
 format date_m %tm
 drop statadate date 
 
+/*	
+	* Rename the policy dummies
+foreach element in m075 m050 _m025 _0 _025 _050 _075{
+rename d_`element' d_menu_`element'
+}
+*/	 
+
 	* Define the samples
+duplicates drop date_m,force
+	
 gen d_sample1=0
 gen d_sample2=0
 replace d_sample1 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("07/2005","MY")
@@ -88,14 +95,14 @@ gen Fl1_target_change = l1_target_change * d_meeting
 
 	* table 1, column (2)
 local spec_c2 " l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
-local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12 d_month_1_fomc d_month_2_fomc d_month_3_fomc d_month_4_fomc d_month_5_fomc d_month_6_fomc d_month_7_fomc d_month_8_fomc d_month_9_fomc d_month_10_fomc d_month_11_fomc d_month_12_fomc "
+local controls "d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12  scale  d_y2k d_nineeleven"
 oprobit ord_adj_tchange `spec_c2' `controls' if d_sample1==1 
 margins if d_sample1==1 , dydx( `spec_c2' ) 
 
 
 	* table 1, column (4)
 local spec_c4 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting" 
-local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12 d_month_1_fomc d_month_2_fomc d_month_3_fomc d_month_4_fomc d_month_5_fomc d_month_6_fomc d_month_7_fomc d_month_8_fomc d_month_9_fomc d_month_10_fomc d_month_11_fomc d_month_12_fomc "
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
 oprobit ord_adj_tchange `spec_c4' `controls' if d_sample1==1 
 margins if d_sample1==1 , dydx(`spec_c4') 
 
@@ -125,7 +132,7 @@ foreach element in _m050 _m025 _0 _025 _050{
 
 	* Orthogonalize the weight with respect to the conditioning set
 foreach element in _m050 _m025 _0 _025 _050{
-	reg delta`element' `spec_c4' if d_sample1==1 
+	reg delta`element' `spec_c4' `controls'  if d_sample1==1 
 	predict delta_res`element',r
 }
 	
@@ -174,7 +181,7 @@ foreach policy in `policies'{
 		gen cilb_`var'_`policy'=.
 		
 		foreach horizon of numlist 1/24{
-			display("This is the estimation policy `policy' and `var' and horizon `horizon'")
+display("This is the estimation policy `policy' and `var' and horizon `horizon'")
 			reg  delta_`policy'`var'_g`horizon' if d_sample1==1
 			capture replace b_`var'_`policy'=_b[_cons] if horizon==`horizon'
 			capture replace se_`var'_`policy'=_se[_cons]  if horizon==`horizon'
