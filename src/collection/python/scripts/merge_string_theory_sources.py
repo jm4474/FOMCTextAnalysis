@@ -8,9 +8,10 @@ def main():
     indpro = pd.read_csv("../data/string_theory/INDPRO.csv")
     pcepi = pd.read_csv("../data/string_theory/PCEPI.csv")
     pcepi_ch = pd.read_csv("../data/string_theory/PCEPI_change.csv")
+    pcepi_pch = pd.read_csv("../data/string_theory/PCEPI_PCH.csv")
     unrate = pd.read_csv("../data/string_theory/UNRATE.csv")
 
-    monthly_dataframes = [indpro,pcepi,pcepi_ch,unrate]
+    monthly_dataframes = [indpro,pcepi,pcepi_ch,unrate,pcepi_pch]
     for dataframe in monthly_dataframes:
         dataframe['DATE'] = pd.to_datetime(dataframe['DATE'])
     monthly_merged = reduce(lambda left,right: \
