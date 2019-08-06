@@ -40,6 +40,7 @@ def main():
     for year in [1988,2009]:
         for month in [1,13]:
             month_df = month_df.append({'month':month,'year':year},ignore_index=True)
+    treatments = treatments.astype(bool).astype(int)
     treatments = treatments.merge(month_df,on=['month','year'],how="outer").fillna(0)
     print(treatments)
     treatments.to_csv("../output/monthly_treatment_counts.csv")
