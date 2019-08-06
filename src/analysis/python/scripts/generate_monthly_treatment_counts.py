@@ -1,7 +1,9 @@
 import pandas as pd
 def main():
     alternatives = pd.read_csv("../output/alternative_treatment_decisions.csv")
+    alternatives = alternatives[alternatives.end_date!="2003-09-15"]
     treatments = alternatives.copy()
+
     treatments = treatments[['end_date','bluebook_treatment_size_alt_a',
                              'bluebook_treatment_size_alt_b',
                              'bluebook_treatment_size_alt_c'
@@ -37,11 +39,11 @@ def main():
     column_names.append('year')
     treatments = treatments[column_names]
     month_df = pd.DataFrame()
-    for year in [1988,2009]:
-        for month in [1,13]:
+    for year in range(1988,2010):
+        for month in range(1,13):
             month_df = month_df.append({'month':month,'year':year},ignore_index=True)
     treatments = treatments.merge(month_df,on=['month','year'],how="outer").fillna(0)
-    print(treatments.sort_values(by="year"))
+    print(treatments.sort_values(by=['year','month']))
     treatments.to_csv("../output/monthly_treatment_counts.csv")
 if __name__ == "__main__":
     main()
