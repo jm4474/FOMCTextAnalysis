@@ -37,6 +37,6 @@ def main():
                     print("found")
                     raw_text_df.at[i, column_name] = "\n".join(term_matches)
 
-    raw_text_df.to_csv("../output/checking_alternatives.csv")
+    raw_text_df.to_csv("../output/alternative_window_text_topics.csv")
 if __name__ == "__main__":
     main()
