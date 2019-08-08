@@ -32,8 +32,7 @@ def export_bluebook(df,topics):
     for topic in topics:
         df['score']+=df['d_'+topic.replace(" ","_")]
     df['indicator'] = df['score']>0
-    df.to_csv("../output/bluebook_text_expectations.csv")
-    print(df)
+    df.sort_values(by="date").to_csv("../output/bluebook_text_expectations.csv")
 
 def export_news(df,topics):
     df['n_article'] = 1
@@ -48,7 +47,7 @@ def export_news(df,topics):
     grp['indicator'] = grp['score']>0
     grp['score'] = np.divide(grp['score'],grp['n_article'])
     grp.to_csv("../output/news_text_expectations.csv")
-    df.to_csv("../output/news_text_expectations_sentences.csv")
+    df.sort_values(by="date").to_csv("../output/news_text_expectations_sentences.csv")
 def is_negated(words,word):
     negation = ['no','not','lack','wasn','didn']
     word_indexes = []
