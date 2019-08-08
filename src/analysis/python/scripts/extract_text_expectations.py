@@ -38,9 +38,10 @@ def export_news(df,topics):
     grp['year'] = pd.to_datetime(grp.index).year
     for topic in topics:
         score_col = 'std_'+topic.replace(" ","_")
-        grp[score_col] = np.divide(grp["d_"+topic.replace(" ","_")],grp['n_article'])
+        grp[score_col] = grp["d_"+topic.replace(" ","_")]
         grp['score'] += grp[score_col]
-    grp['score'] = grp['score']/len(topics)
+    grp['indicator'] = grp['score']>0
+    grp['score'] = np.divide(grp['score'],grp['n_article'])
     grp.to_csv("../output/news_text_expectations.csv")
     df.to_csv("../output/news_text_expectations_sentences.csv")
 def is_negated(words,word):
