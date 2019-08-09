@@ -38,10 +38,10 @@ def df():
     action.plot(df['date'],df['d_dec'],'bo', markersize=1)
     action.plot(df['date'],df['d_unc'],'bo', markersize=1)
     action.plot(df['date'],df['d_inc'],'bo', markersize=1)
-    action.plot(df['date'],df['effect'],'yo',markersize=2)
+    action.plot(df['date'],df['effect'])
     [action.axvline(x=_date,linestyle="--",linewidth=".5",color="grey") for _date in df['date']]
     print(df)
-    plt.savefig('../output/fig_rateless_alt_actions.png', dpi=300, bbox_inches='tight')
+    plt.savefig('../output/fig_rateless_alt_actions_line_chart.png', dpi=300, bbox_inches='tight')
 
 
 if __name__ == "__main__":

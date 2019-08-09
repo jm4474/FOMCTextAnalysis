@@ -27,25 +27,38 @@ def get_alternatives(ffr):
         apply(lambda x: pd.to_numeric(x,errors="coerce"))
     alternatives['alt_c'] = alternatives['bluebook_treatment_size_alt_c'].\
         apply(lambda x: pd.to_numeric(x,errors="coerce"))
+    alternatives['alt_d'] = alternatives['bluebook_treatment_size_alt_d']. \
+        apply(lambda x: pd.to_numeric(x, errors="coerce"))
+    alternatives['alt_e'] = alternatives['bluebook_treatment_size_alt_e']. \
+        apply(lambda x: pd.to_numeric(x, errors="coerce"))
 
-    alternatives = alternatives[['end_date','alt_a',
-                                 'alt_b',
-                                 'alt_c',
+    alternatives = alternatives[['end_date','alt_a','alt_b',
+                                 'alt_c','alt_d','alt_e',
                                  'bluebook_treatment_size_alt_a',
                                  'bluebook_treatment_size_alt_b',
-                                 'bluebook_treatment_size_alt_c'
+                                 'bluebook_treatment_size_alt_c',
+                                 'bluebook_treatment_size_alt_d',
+                                 'bluebook_treatment_size_alt_e'
                                  ]]
     alternatives['date'] = pd.to_datetime(alternatives['end_date'])
     df_merge = pd.merge(ffr,alternatives,on="date",how="right")
     df_merge['alt_a_rate'] = df_merge[['target_before','alt_a']].sum(axis=1,skipna=False)
     df_merge['alt_b_rate'] = df_merge[['target_before','alt_b']].sum(axis=1,skipna=False)
     df_merge['alt_c_rate'] = df_merge[['target_before','alt_c']].sum(axis=1,skipna=False)
+    df_merge['alt_d_rate'] = df_merge[['target_before','alt_d']].sum(axis=1,skipna=False)
+    df_merge['alt_e_rate'] = df_merge[['target_before','alt_e']].sum(axis=1,skipna=False)
+
 
     df_merge = df_merge[['date','ffrtarget','target_before',
-                         'target_after','alt_a_rate','alt_b_rate','alt_c_rate',
+                         'target_after',
+                         'alt_a_rate','alt_b_rate','alt_c_rate',
+                         'alt_d_rate','alt_e_rate',
                          'bluebook_treatment_size_alt_a',
                          'bluebook_treatment_size_alt_b',
-                         'bluebook_treatment_size_alt_c']]
+                         'bluebook_treatment_size_alt_c',
+                         'bluebook_treatment_size_alt_d',
+                         'bluebook_treatment_size_alt_e',
+                         ]]
     return df_merge
 
 def plot_target(dataffr):
@@ -63,7 +76,10 @@ def plot_target(dataffr):
     ax = fig.add_subplot(1, 1, 1)
     ax.plot(dataffr['date'], dataffr['alt_a_rate'], 'bo',markersize=1)
     ax.plot(dataffr['date'], dataffr['alt_b_rate'], 'bo',markersize=1)
-    ax.plot(dataffr['date'], dataffr['alt_c_rate'], 'bo',markersize=1,label="Policy Menu")
+    ax.plot(dataffr['date'], dataffr['alt_c_rate'], 'bo',markersize=1)
+    ax.plot(dataffr['date'], dataffr['alt_d_rate'], 'bo',markersize=1)
+    ax.plot(dataffr['date'], dataffr['alt_e_rate'], 'bo',markersize=1,label="Policy Menu")
+
     ax.plot(dataffr['date'], dataffr['target_after'], 'yo', markersize=3,fillstyle='none',label="Target After Meeting")
     ax.legend(loc='upper right')
     years = mdates.YearLocator()  # every year
