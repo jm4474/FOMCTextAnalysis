@@ -15,7 +15,10 @@ def extract_alternative_df(df):
     df['end_date'] = pd.to_datetime(df['end_date'])
     sub_df = df[['end_date', 'event_type', 'bluebook_treatment_alt_a', 'bluebook_treatment_size_alt_a',
                  'bluebook_treatment_alt_b', 'bluebook_treatment_size_alt_b', 'bluebook_treatment_alt_c',
-                 'bluebook_treatment_size_alt_c','statement_policy_change','statement_policy_action']]
+                 'bluebook_treatment_size_alt_c',
+                 'bluebook_treatment_size_alt_d','bluebook_treatment_alt_d',
+                 'bluebook_treatment_size_alt_e','bluebook_treatment_alt_e',
+                 'statement_policy_change','statement_policy_action']]
 
     sub_df = sub_df[sub_df.event_type=="Meeting"]
     sub_df = sub_df[(sub_df.end_date.dt.year>=1988) & (sub_df.end_date.dt.year<=2008)]
@@ -31,7 +34,7 @@ def extract_alternative_df(df):
 def get_alternative_treatment_outcome(row):
     if not isinstance(row['statement_policy_action'], str):
         return ""
-    alternatives = ['alt_a','alt_b','alt_c']
+    alternatives = ['alt_a','alt_b','alt_c','alt_d','alt_e']
     result = []
     for alternative in alternatives:
         treat_col = "bluebook_treatment_"+alternative
@@ -49,7 +52,7 @@ def get_alternative_treatment_size_outcome(row):
     except:
         return ""
     results = []
-    alternatives = ['alt_a', 'alt_b', 'alt_c']
+    alternatives = ['alt_a', 'alt_b', 'alt_c','alt_d','alt_e']
     for alternative in alternatives:
         try:
             alternative_size = float(row["bluebook_treatment_size_"+alternative])

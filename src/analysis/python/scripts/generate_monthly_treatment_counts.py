@@ -4,36 +4,52 @@ def main():
     alternatives = alternatives[alternatives.end_date!="2003-09-15"]
     treatments = alternatives.copy()
 
-    treatments = treatments[['end_date','bluebook_treatment_size_alt_a',
+    treatments = treatments[['end_date',
+                             'bluebook_treatment_size_alt_a',
                              'bluebook_treatment_size_alt_b',
-                             'bluebook_treatment_size_alt_c'
+                             'bluebook_treatment_size_alt_c',
+                             'bluebook_treatment_size_alt_d',
+                             'bluebook_treatment_size_alt_e'
                              ]]
-    treatments.rename(columns={"end_date":"date",'bluebook_treatment_size_alt_a':'tsa',
+    treatments.rename(columns={"end_date":"date",
+                               'bluebook_treatment_size_alt_a':'tsa',
                                'bluebook_treatment_size_alt_b':'tsb',
                                'bluebook_treatment_size_alt_c':'tsc',
+                               'bluebook_treatment_size_alt_d':'tsd',
+                               'bluebook_treatment_size_alt_e': 'tse',
+
                                },inplace=True)
-    for alt in ['a','b','c']:
+    for alt in ['a','b','c','d','e']:
         treatments['ts'+alt] = pd.to_numeric(treatments['ts' + alt], errors='coerce')
 
-    treatments['d_dec'] = ((treatments['tsa'] < 0)\
-                        |(treatments['tsb'] < 0)|\
-                        (treatments['tsc'] < 0)).astype(int)
+    treatments['d_dec'] = ((treatments['tsa'] < 0)|
+                           (treatments['tsb'] < 0)|
+                           (treatments['tsc'] < 0)|
+                           (treatments['tsd'] < 0)|
+                           (treatments['tse'] < 0)).astype(int)
 
-    treatments['d_unc'] = ((treatments['tsa'] == 0) \
-                           | (treatments['tsb'] == 0) | \
-                           (treatments['tsc'] == 0)).astype(int)
+    treatments['d_unc'] = ((treatments['tsa'] == 0)|
+                           (treatments['tsb'] == 0)|
+                           (treatments['tsc'] ==  0)|
+                           (treatments['tsd'] == 0)|
+                           (treatments['tse'] == 0)).astype(int)
 
-    treatments['d_inc'] = ((treatments['tsa'] > 0) \
-                           | (treatments['tsb'] > 0) | \
-                           (treatments['tsc'] > 0)).astype(int)
-    column_names = ['d_dec','d_unc','d_inc']
+    treatments['d_inc'] = ((treatments['tsa'] > 0)|
+                           (treatments['tsb'] > 0)|
+                           (treatments['tsc'] > 0)|
+                           (treatments['tsd'] > 0)|
+                           (treatments['tse'] > 0)).astype(int)
+    column_names = ['date','d_dec','d_unc','d_inc']
     sizes = [-0.75,-0.5,-.25,0,.25,.5,.75]
     for size in sizes:
         size_name = 'd_{sign}0{val}'.format(
             sign="m" if size < 0 else "", val=str(abs(int(size * 100)))).replace("00","0")
         treatments[size_name] = ((treatments['tsa']==size)|\
                                 (treatments['tsb']==size)|\
-                                (treatments['tsc']==size)).astype(int)
+                                (treatments['tsc']==size)|
+                                (treatments['tsd'] == size)|
+                                (treatments['tse'] == size)
+                                 ).astype(int)
         column_names.append(size_name)
 
 

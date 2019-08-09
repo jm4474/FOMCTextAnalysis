@@ -30,7 +30,8 @@ def main():
     create_table_df(pivot,"tab_policy_alternative_decisions")
 def get_policy_options(row):
     policy_options = []
-    for alternative in ['bluebook_treatment_alt_a','bluebook_treatment_alt_b','bluebook_treatment_alt_c']:
+    for alternative in ['bluebook_treatment_alt_a','bluebook_treatment_alt_b','bluebook_treatment_alt_c',
+                        'bluebook_treatment_alt_d','bluebook_treatment_alt_e']:
         if str(row[alternative]) in ['U','T','E','?']:
             policy_options += (row[alternative])
     policy_options = sorted(policy_options)
