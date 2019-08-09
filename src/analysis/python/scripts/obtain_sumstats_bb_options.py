@@ -95,7 +95,7 @@ def plot_target(dataffr):
     
     plt.legend(['Federal Funds Target'],frameon=False)
     plt.savefig('../output/fig_fed_target.png', dpi=300,bbox_inches='tight')
-
+    print('fig_fed_target.png is written')
     
 def load_bluebook_data(startyear,endyear):
     data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
