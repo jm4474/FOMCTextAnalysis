@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #                  'federal funds rate',
 
 def main():
-    df = load_news()
+    df = load_bluebook()
     for i in df.index:
         raw_text = str(df.loc[i,'raw_text']).replace("\\","").lower()
         #print(raw_text)
@@ -23,15 +23,19 @@ def main():
                         topic_sents.append(sentence)
                 df.loc[i, "d_" + topic.replace(" ", "_")] = 1
                 df.loc[i, 'sent_' + topic.replace(" ", "_")] = ". ".join(topic_sents)
-    df['n_article'] = 1
-    export_news(df,topics)
+    export_bluebook(df,topics)
 
 def export_bluebook(df,topics):
 
     df = df.sort_values(by="date")
-    df.to_csv("../output/bluebook_text_expectations.csv")
+    df['score'] = 0
+    for topic in topics:
+        df['score']+=df['d_'+topic.replace(" ","_")]
+    df['indicator'] = df['score']>0
+    df.sort_values(by="date").to_csv("../output/bluebook_text_expectations.csv")
 
 def export_news(df,topics):
+    df['n_article'] = 1
     grp = df.groupby('date').sum()
     grp['score'] = 0
     grp['month'] = pd.to_datetime(grp.index).month
@@ -43,7 +47,7 @@ def export_news(df,topics):
     grp['indicator'] = grp['score']>0
     grp['score'] = np.divide(grp['score'],grp['n_article'])
     grp.to_csv("../output/news_text_expectations.csv")
-    df.to_csv("../output/news_text_expectations_sentences.csv")
+    df.sort_values(by="date").to_csv("../output/news_text_expectations_sentences.csv")
 def is_negated(words,word):
     negation = ['no','not','lack','wasn','didn']
     word_indexes = []
