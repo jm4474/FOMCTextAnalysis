@@ -1,16 +1,51 @@
 cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/stata/scripts/"
 
+import delimited using ../../../analysis/python/output/news_text_expectations.csv,clear
+gen statadate=date(date,"YMD",2020)
+format statadate %td
+gen date_m=mofd(statadate)
+format date_m %tm
+drop statadate date month year
+tempfile news_surprise
+save `news_surprise'
+
 import delimited using ../../../derivation/python/output/matlab_file,clear
-
-********************************************************************************
-*** PREPROCESSING ***
-
 	* Clean date
 gen statadate=date(date,"MDY",2020)
 format statadate %td
 gen date_m=mofd(statadate)
 format date_m %tm
 drop statadate date 
+save ../data/master_data,replace
+
+
+use ../../../collection/python/data/Fed_shocks.dta,clear
+gen date_m=mofd(date)
+format date_m %tm
+twoway scatter d_fed_future_scaled date_m
+collapse (sum) d_fed_future_scaled,by(date_m)
+merge 1:1 date_m using `news_surprise'
+drop _merge
+merge 1:1 date_m using ../data/master_data, keepusing(market_exp)
+sort date_m
+replace d_fed_future_scaled = market_exp if d_fed_future_scaled == .
+twoway scatter d_fed_future_scaled date_m
+drop _merge market_exp
+drop if date_m >= monthly("2008/01","YM")
+
+gen d_indicator = (indicator=="True")
+
+gen fed_future_scaled_abs=abs(d_fed_future_scaled )
+twoway scatter d_indicator fed_future_scaled_abs 
+twoway scatter score fed_future_scaled_abs 
+
+browse if d_indicator == 1 & fed_future_scaled_abs < 0.01
+
+
+********************************************************************************
+*** PREPROCESSING ***
+
+use ../data/master_data,clear
 
 	* Rename the policy dummies
 foreach element in m075 m050 m025 0 025 050 075{
@@ -99,6 +134,9 @@ label var d_meeting "FOMC"
 label var d_menu_dec "Option Expansion"
 label var d_menu_unc "Option No Change"
 label var d_menu_inc "Option Tightening"
+
+order date_m
+export delimited ../../matlab/data/matlab_file.csv,replace
 
 ********************************************************************************
 *** REPLICATION - TABLE 1 ***
@@ -215,11 +253,10 @@ order(market_exp l1_inf l2_inf l1_diff_unemp l2_diff_unemp lag_dfedtar l1_target
 
 
 ********************************************************************************
-*** REPLICATION - TABLE 1 ***
+*** Doubly Robust Machine Learning ***
 
 	* Select specification
 local spec="spec_c9"
-
 	***
 local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
 local spec_c9 "lag_dfedtar l1_target_change l2_target_change l3_target_change l4_target_change l5_target_change  `menu_controls'"
@@ -251,18 +288,6 @@ foreach element in _m050 _m025 _0 _025 _050{
 	replace yhat`element'=. if yhat`element' < 0.025 & d_policy`element'==1
 }
 
-	* Weight construction
-foreach element in _m050 _m025 _0 _025 _050{
-	gen delta`element' = d_policy`element' / yhat`element' - d_policy_0 / yhat_0
-}
-
-	* Orthogonalize the weight with respect to the conditioning set
-
-foreach element in _m050 _m025 _0 _025 _050{
-	reg delta`element'   if d_sample1==1 
-	predict delta_res`element',r
-}
-
 	* Create changes in the outcome for 24 month
 foreach var of varlist indpro pcepi{
 	foreach horizon of numlist 1/24{
@@ -276,20 +301,33 @@ foreach var of varlist unemp try_3m try_2y try_10y ff_tar{
 	}
 }
 
-	* Create auxiliary variables
-foreach var of varlist indpro pcepi unemp{
+	* Weight construction
+foreach var of varlist indpro pcepi unemp try_3m try_2y try_10y ff_tar{
 	foreach element in _m050 _m025 _0 _025 _050{
 		foreach horizon of numlist 1/24{
-			gen delta`element'`var'_g`horizon' = ///
-			`var'_g`horizon'*delta_res`element'
+			egen aux`var'`element'_`horizon' = mean(`var'_g`horizon') ///
+			if  d_sample1==1 & d_policy`element'==1
+			egen ybar_`var'`element'_`horizon' = mean(aux`var'`element'_`horizon') ///
+			if d_sample1==1
 		}
 	}
 }
 
-foreach var of varlist  try_3m try_2y try_10y ff_tar{
-	foreach element in _m050 _m025 _0 _025 _050{
+preserve
+egen tag=tag(d_sample1) if d_sample1==1
+keep if tag==1
+reshape long ybar_ff_tar_m025_ ybar_ff_tar_0_ ybar_ff_tar_025_,i(date_m) j(horizon) 
+twoway scatter ybar_ff_tar_m025_ ybar_ff_tar_0_ ybar_ff_tar_025_ ///
+horizon,name(rawmeans,replace)
+restore 
+
+foreach var of varlist indpro pcepi unemp try_3m try_2y try_10y ff_tar{
+	foreach element in _m050 _m025  _025 _050{
 		foreach horizon of numlist 1/24{
-			gen delta`element'`var'_g`horizon' = `var'_g`horizon'*delta`element'
+			gen delta_`var'`element'_g`horizon' = ///
+			ybar_`var'`element'_`horizon' - ybar_`var'_0_`horizon' + ///
+			d_policy`element' * (`var'_g`horizon' - ybar_`var'`element'_`horizon' ) - ///
+			d_policy_0 * (`var'_g`horizon' - ybar_`var'_0_`horizon' )
 		}
 	}
 }
@@ -299,7 +337,7 @@ gen horizon=_n
 
 	// Choose policy action
 local policies "025 m025"
-
+*try_3m try_2y try_10y ff_tar
 foreach policy in `policies'{
 	foreach var of varlist  indpro pcepi unemp try_3m try_2y try_10y ff_tar{
 		gen b_`var'_`policy'=.
@@ -308,17 +346,25 @@ foreach policy in `policies'{
 		gen cilb_`var'_`policy'=.
 		
 		foreach horizon of numlist 1/24{
-display("This is the estimation policy `policy' and `var' and horizon `horizon'")
-			reg  delta_`policy'`var'_g`horizon' if d_sample1==1
-			capture replace b_`var'_`policy'=_b[_cons] if horizon==`horizon'
-			capture replace se_`var'_`policy'=_se[_cons]  if horizon==`horizon'
+			display("This is the estimation policy `policy' and `var' and horizon `horizon'")
+			reg  delta_`var'_`policy'_g`horizon' if d_sample1 == 1
+			capture replace b_`var'_`policy' = _b[_cons] if horizon == `horizon'
+			capture replace se_`var'_`policy' = _se[_cons]  if horizon == `horizon'
 			replace ciub_`var'_`policy'= b_`var'_`policy' + ///
-			1.68 * se_`var'_`policy' if horizon==`horizon'
+			1.68 * se_`var'_`policy' if horizon ==`horizon'
 			replace cilb_`var'_`policy'= b_`var'_`policy' - ///
-			1.68 * se_`var'_`policy' if horizon==`horizon'
+			1.68 * se_`var'_`policy' if horizon ==`horizon'
 		}
 	}
 }
+
+twoway scatter  b_ff_tar_025  ///
+horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
+title("`policy'bp on FFR") name("FFR`policy'",replace) ///
+legend(off) ytitle("Change on Federal Funds Rate (in %)") ///
+ylabel(-1.5(.5)1.5,grid)
+
+
 
 set scheme s1mono,perm
 local policies "025 m025"
@@ -338,6 +384,7 @@ foreach policy in `policies'{
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on Inflation") name("I`policy'",replace) ///
 	legend(off) ytitle("Change Inflation (in %)") ylabel(-.6(.2).4,grid)
+
 
 	twoway scatter  b_ff_tar_`policy'  ///
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
@@ -373,7 +420,7 @@ graph export ../output/fig_tryyields_`spec'.pdf,replace
 graph combine FFR025 FFRm025, rows(1) cols(2) ysize(6) xsize(9) name("FFR",replace)
 graph export ../output/fig_ffrrate_`spec'.pdf,replace	
 
-	
+	/*
 *** OLD STUFF ***
 	
 /*
