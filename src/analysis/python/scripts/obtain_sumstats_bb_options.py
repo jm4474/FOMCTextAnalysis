@@ -16,12 +16,16 @@ import numpy as np
 
 ###############################################################################
 
+
 def main():    
     dataffr=construct_dataset(1988,2008)
     plot_target(dataffr)
     
     data=load_bluebook_data(1988,2008)
     create_totstat(data,'tab_sumstats_menu')
+    
+    
+    data=data.merge()
     
     create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
     
@@ -180,6 +184,8 @@ def create_sumstat_byperiod(data,turning_points,name):
     sum_menu_period.rename(columns=headers,inplace=True)
     create_table_df(sum_menu_period,name)
     print("Table",name,"is written." )
+
+
 
 
 if __name__ == "__main__":
