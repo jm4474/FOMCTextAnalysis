@@ -1,18 +1,23 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
-from nltk import word_tokenize,bigrams,collocations
+from nltk import word_tokenize
 from nltk.corpus import stopwords
 import re
 import pprint
 import math
+import os
 def main():
-    statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
-    statements['date'] = pd.to_datetime(statements['end_date'])
-
+    statement_document_analysis()
+    frequency_counts()
+def frequency_counts():
     terms = ['inflation', 'demand', 'labor', 'price stability',
              'consumption', 'activity', 'investment', 'policy'
              ]
+    statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
+    statements['date'] = pd.to_datetime(statements['end_date'])
+
+
     stop_words = stopwords.words('english')
     corpus_words = []
     for i in statements.index:
@@ -41,10 +46,33 @@ def main():
         term_counts = Counter(term_words)
         print(term.upper())
         pprint.pprint(term_counts)
-
-    statements.to_csv("statement_terms.csv")
+        statements.loc[1,term+"_word_freqs"] = "{}:{}".format(term.upper(),str(term_counts))
+    statements.to_csv("../output/statement_text_analysis/word_grouping_counts.csv")
 
 def statement_document_analysis():
+    if not os.path.exists("../output/statement_text_analysis/graphs"):
+        os.mkdir("../output/statement_text_analysis")
+        os.mkdir("../output/statement_text_analysis/graphs")
+    terms = {
+    "policy":"accommodative",
+    "productivity":"robust",
+    "inflation":"contained",
+    "risks":"balanced",
+    "firming":"measured",
+    'increase': 'interest rates',
+    'sustain':'economic expansion',
+    'enhance':'economic expansion',
+    'accommodate': 'monetary positions',
+    'prolonging': 'economic expansion',
+    'low': 'inflation environment',
+    'fostering': 'economic outlook',
+    'sustain': 'economic outlook',
+    'symmetric': 'economic outlook',
+    'strengthening': 'productivty',
+    'easing': 'demand pressure',
+    'eroded': 'confidence',
+    'spending': 'weakened'
+    }
     statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
     statements['date'] = pd.to_datetime(statements['end_date'])
     for term in terms.keys():
@@ -52,9 +80,13 @@ def statement_document_analysis():
         statements[term_phrase] = ((statements.file_text.str.contains(term))&
                                    (statements.file_text.str.contains(terms[term])))
         statements.sort_values(by="date",inplace=True)
-        plt.plot(statements['date'],statements[term_phrase],'bo')
+        plt.plot(statements['date'],statements[term_phrase],'bo',markersize=1)
         plt.title(term_phrase)
-        plt.show()
+        graph_path = "../output/statement_text_analysis/graphs/"+term_phrase.replace(":","_")+".png"
+        if os.path.exists(graph_path):
+            os.rmdir(graph_path)
+        plt.savefig("../output/statement_text_analysis/graphs/"+term_phrase.replace(":","_")+".png")
+    statements.to_csv("../output/statement_text_analysis/term_connections.csv")
     print(statements)
 if __name__ == "__main__":
     main()
