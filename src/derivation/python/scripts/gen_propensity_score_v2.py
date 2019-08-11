@@ -21,7 +21,7 @@ data_daily['date']=pd.to_datetime(data_daily["DATE"])
 data_daily['year']=data_daily["date"].apply(lambda x:x.year)
 data_daily['month']=data_daily["date"].apply(lambda x:x.month)
 
-data_daily=data_daily[(data_daily['year']>=1988) & (data_daily['year']<2009)]
+data_daily=data_daily[(data_daily['year']>=1987) & (data_daily['year']<2009)]
 data_rates=data_daily[['TRY_3M', 'TRY-2Y', 'TRY-10Y','DFEDTAR','year', 'month']]
 for var in ['TRY_3M', 'TRY-2Y', 'TRY-10Y']:
     data_rates.loc[data_rates[var]=="ND",var]=np.nan
@@ -85,7 +85,7 @@ clean_data = clean_data.merge(menu_df,how='outer',on=['year','month'])
 
 clean_data['d_crisis']=clean_data['d_crisis']>0
 clean_data['d_meeting']=clean_data['d_meeting']>0
-clean_data=clean_data[(clean_data['year']>1988) & (clean_data['year']<=2008)]
+clean_data=clean_data[(clean_data['year']>1987) & (clean_data['year']<=2008)]
 clean_data=clean_data.sort_values(by=['year', 'month'])
 clean_data.rename(columns={'ch_DFEDTAR':'target_change'},inplace=True)
 clean_data.loc[clean_data['scale'].isna(),'scale']=0
