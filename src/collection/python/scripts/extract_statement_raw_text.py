@@ -25,7 +25,7 @@ def extract_statement_raw_text():
 
             file_year = file[0:4]
             statement_csv_row = {}
-            statement_csv_row['meeting_start_date'] = file.split(".")[0]
+            statement_csv_row['end_date'] = file.split(".")[0]
             statement_csv_row['release_date'] = extract_release_date\
                 (file_soup,file_year)
             statement_csv_row['file_text'] = raw_text.decode()

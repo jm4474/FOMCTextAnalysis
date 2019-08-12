@@ -32,7 +32,7 @@ def download_statement():
 
 def download_html(file):
     with open("../output/statement_data.csv","wb") as f:
-        file_path = "../output/statement_webpages/{}.html".format(file['start_date'])
+        file_path = "../output/statement_webpages/{}.html".format(file['end_date'])
         if not os.path.exists(file_path):
             r = requests.get(file['link'])
             with open(file_path, 'wb') as f:
