@@ -39,7 +39,7 @@ gen fed_future_scaled_abs=abs(d_fed_future_scaled )
 twoway scatter d_indicator fed_future_scaled_abs 
 twoway scatter score fed_future_scaled_abs 
 
-browse if d_indicator == 1 & fed_future_scaled_abs < 0.01
+*browse if d_indicator == 1 & fed_future_scaled_abs < 0.01
 
 
 ********************************************************************************
@@ -135,8 +135,46 @@ label var d_menu_dec "Option Expansion"
 label var d_menu_unc "Option No Change"
 label var d_menu_inc "Option Tightening"
 
+	* Create dummies for outcomes
+gen d_policy_m050 = target_change_adj == -.5
+gen d_policy_m025 = target_change_adj == -.25
+gen d_policy_0 = target_change_adj == 0
+gen d_policy_025 = target_change_adj == 0.25
+gen d_policy_050 = target_change_adj == 0.5
+
+	* Create changes in the outcome for 24 month
+foreach var of varlist indpro pcepi{
+	foreach horizon of numlist 1/24{
+		gen `var'_g`horizon' = (log(`var'[_n+`horizon']) - log(`var'[_n]))*100
+	}
+}
+
+foreach var of varlist unemp try_3m try_2y try_10y ff_tar{
+	foreach horizon of numlist 1/24{
+		gen `var'_g`horizon' = `var'[_n+`horizon'] - `var'[_n]
+	}
+}
 order date_m
 export delimited ../../matlab/data/matlab_file.csv,replace
+save ../data/processed_data,replace
+
+use ../data/processed_data,replace
+
+	// Sample counts
+tab d_sample1
+	// Define subsets
+gen d_sub_1 = (d_menu_inc == 1 & d_menu_unc == 1 &  d_menu_dec == 0 & d_sample1 == 1)
+gen d_sub_2 = (d_menu_inc == 1 & d_menu_unc == 1 &  d_menu_dec == 1 & d_sample1 == 1)
+gen d_sub_3 = (d_menu_inc == 1 & d_menu_unc == 0 &  d_menu_dec == 1 & d_sample1 == 1)
+gen d_sub_4 = (d_menu_inc == 0 & d_menu_unc == 1 &  d_menu_dec == 1 & d_sample1 == 1)
+
+gen d_sub_01 = (d_sub_1 == 1 | d_sub_2 == 1 | d_sub_3 == 1)
+gen d_sub_00 = (d_sub_1 == 1 | d_sub_4 == 1 | d_sub_2 == 1)
+gen d_sub_m1 = (d_sub_4 == 1 | d_sub_2 == 1 | d_sub_3 == 1)
+
+tab d_sub_1 
+tab d_sub_13
+ if d_sub_1==1 
 
 ********************************************************************************
 *** REPLICATION - TABLE 1 ***
@@ -276,30 +314,12 @@ rename yhat3 yhat_0
 rename yhat4 yhat_025
 rename yhat5 yhat_050
 
-	* Create dummies for outcomes
-gen d_policy_m050 = target_change_adj == -.5
-gen d_policy_m025 = target_change_adj == -.25
-gen d_policy_0 = target_change_adj == 0
-gen d_policy_025 = target_change_adj == 0.25
-gen d_policy_050 = target_change_adj == 0.5
 
 	* Remove observations with Pr < 0.025
 foreach element in _m050 _m025 _0 _025 _050{
 	replace yhat`element'=. if yhat`element' < 0.025 & d_policy`element'==1
 }
 
-	* Create changes in the outcome for 24 month
-foreach var of varlist indpro pcepi{
-	foreach horizon of numlist 1/24{
-		gen `var'_g`horizon' = (log(`var'[_n+`horizon']) - log(`var'[_n]))*100
-	}
-}
-
-foreach var of varlist unemp try_3m try_2y try_10y ff_tar{
-	foreach horizon of numlist 1/24{
-		gen `var'_g`horizon' = `var'[_n+`horizon'] - `var'[_n]
-	}
-}
 
 	* Weight construction
 foreach var of varlist indpro pcepi unemp try_3m try_2y try_10y ff_tar{

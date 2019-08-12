@@ -25,14 +25,11 @@ def main():
     create_totstat(data,'tab_sumstats_menu')
     
     
-    data=data.merge()
     
     create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
     
     turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
     create_sumstat_byperiod(data,turning_points,'tab_sumstats_menu_byperiod')
-
-
 
 def create_totstat(data,name):
     sum_menu=pd.pivot_table(data,values='end_date',index='treatment_options',aggfunc=np.count_nonzero,fill_value=0)
