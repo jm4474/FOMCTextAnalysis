@@ -179,25 +179,9 @@ tab d_sub_01
 tab d_sub_00
 tab d_sub_m1
 
-tab d_sub_3 if d_sub_01==1 
+tab  d_policy_unc  if d_sub_4 
 
 order date_m
-export delimited ../../matlab/data/matlab_file.csv,replace
-save ../data/processed_data,replace
-
-use ../data/processed_data,replace
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ********************************************************************************
