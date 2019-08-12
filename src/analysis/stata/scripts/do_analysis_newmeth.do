@@ -159,7 +159,7 @@ foreach var of varlist unemp try_3m try_2y try_10y ff_tar{
 	}
 }
 order date_m
-export delimited ../../matlab/data/matlab_file.csv,replace
+*export delimited ../../matlab/data/matlab_file.csv,replace
 save ../data/processed_data,replace
 
 use ../data/processed_data,replace
