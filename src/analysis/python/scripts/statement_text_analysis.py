@@ -7,12 +7,13 @@ import re
 import pprint
 import math
 import os
+import shutil
 def main():
     statement_document_analysis()
     frequency_counts()
 def frequency_counts():
-    terms = ['inflation', 'demand', 'labor', 'price stability',
-             'consumption', 'activity', 'investment', 'policy'
+    cwd = "../output/statement_text_analysis/"
+    terms = ['risk','risks'
              ]
     statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
     statements['date'] = pd.to_datetime(statements['end_date'])
@@ -47,46 +48,40 @@ def frequency_counts():
         print(term.upper())
         pprint.pprint(term_counts)
         statements.loc[1,term+"_word_freqs"] = "{}:{}".format(term.upper(),str(term_counts))
-    statements.to_csv("../output/statement_text_analysis/word_grouping_counts.csv")
+    statements.to_csv(cwd+"word_grouping_counts.csv")
 
 def statement_document_analysis():
-    if not os.path.exists("../output/statement_text_analysis/graphs"):
-        os.mkdir("../output/statement_text_analysis")
-        os.mkdir("../output/statement_text_analysis/graphs")
-    terms = {
-    "policy":"accommodative",
-    "productivity":"robust",
-    "inflation":"contained",
-    "risks":"balanced",
-    "firming":"measured",
-    'increase': 'interest rates',
-    'sustain':'economic expansion',
-    'enhance':'economic expansion',
-    'accommodate': 'monetary positions',
-    'prolonging': 'economic expansion',
-    'low': 'inflation environment',
-    'fostering': 'economic outlook',
-    'sustain': 'economic outlook',
-    'symmetric': 'economic outlook',
-    'strengthening': 'productivty',
-    'easing': 'demand pressure',
-    'eroded': 'confidence',
-    'spending': 'weakened'
-    }
+    cwd = "../output/statement_text_analysis/"
+    if os.path.exists(cwd):
+        shutil.rmtree(cwd)
+    if not os.path.exists(cwd):
+        os.mkdir(cwd)
+        os.mkdir(cwd+"graphs")
+    terms = [
+                ['risks','inflation'],
+                ['risks','committee'],
+                ['risks','upside'],
+                ['risks','downside'],
+                ['risks','balanced'],
+                ['risks','unbalanced']
+    ]
+    print(terms)
     statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
     statements['date'] = pd.to_datetime(statements['end_date'])
-    for term in terms.keys():
-        term_phrase = term+":"+terms[term]
-        statements[term_phrase] = ((statements.file_text.str.contains(term))&
-                                   (statements.file_text.str.contains(terms[term])))
+    for term in terms:
+        term_1 = term[0]
+        term_2 = term[1]
+        term_phrase = term_1+":"+term_2
+        statements[term_phrase] = ((statements.file_text.str.contains(term_1))&
+                                   (statements.file_text.str.contains(term_2)))
         statements.sort_values(by="date",inplace=True)
         plt.plot(statements['date'],statements[term_phrase],'bo',markersize=1)
         plt.title(term_phrase)
-        graph_path = "../output/statement_text_analysis/graphs/"+term_phrase.replace(":","_")+".png"
+        graph_path = cwd+"graphs/"+term_phrase.replace(":","_")+".png"
         if os.path.exists(graph_path):
             os.rmdir(graph_path)
-        plt.savefig("../output/statement_text_analysis/graphs/"+term_phrase.replace(":","_")+".png")
-    statements.to_csv("../output/statement_text_analysis/term_connections.csv")
-    print(statements)
+        plt.savefig(graph_path)
+    statements.to_csv(cwd+"term_connections.csv")
+    #print(statements)
 if __name__ == "__main__":
     main()
