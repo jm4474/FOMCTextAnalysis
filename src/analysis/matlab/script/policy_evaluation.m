@@ -1,6 +1,6 @@
 % Author: Oliver Giesecke
 % Purpose: Calculates the propensity score
-% Data modified: 08/09/2019
+% Data modified: 08/13/2019
 
 cd '/Users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/matlab/script'
 clear all
