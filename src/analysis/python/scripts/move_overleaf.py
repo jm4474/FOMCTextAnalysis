@@ -10,7 +10,7 @@ Purpose: Moves all the figures and tables to Overleaf
 import os  
 import subprocess
 import logging
-
+import sys
 ###############################################################################
 ### Set the working directory ###
 
@@ -46,15 +46,15 @@ def query_yes_no(question, default="yes"):
 
 
 answer=query_yes_no("Remove all files from the Overleaf directory?",None)
-    os.system('rm '+ destination + '/*')
 if answer==True:
+    os.system('rm '+ destination + '/*')
     print('All files cleared')
     
 answer=query_yes_no("Push all the files to the Overleaf directory?",None)
 if answer==True:
-    os.system('cp  ../output/*' )
-    os.system('cp  ../output_man/* ~/Dropbox/Apps/Overleaf/Firms\ and\ Monetary\ Policy/tables_figures/')
-    print('Default_lp_q_bondleverage not found')
+    os.system('cp  ../data/overleaf_manual_files/* '+destination )
+    os.system('cp  ../output/overleaf_files/* '+destination )
+    print('Files pushed to Overleaf')
 
     
     
