@@ -98,6 +98,9 @@ def plot_target(dataffr):
 
     #plt.legend(['Federal Funds Alternatives and Actions'], frameon=False)
     plt.savefig('../output/fig_fed_target_and_alt.png', dpi=300, bbox_inches='tight')
+    dataffr['decision'] = dataffr['target_after']-dataffr['target_before']
+    dataffr.loc[168,'decision'] = -.5
+
     dataffr.to_csv("../output/fed_targets_with_alternatives.csv")
 if __name__ == "__main__":
     main()
