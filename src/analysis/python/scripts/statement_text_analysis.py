@@ -13,7 +13,7 @@ def main():
     frequency_counts()
 def frequency_counts():
     cwd = "../output/statement_text_analysis/"
-    terms = ['risk','risks'
+    terms = ['risk','risks',
              ]
     statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
     statements['date'] = pd.to_datetime(statements['end_date'])
@@ -58,16 +58,22 @@ def statement_document_analysis():
         os.mkdir(cwd)
         os.mkdir(cwd+"graphs")
     terms = [
-                ['risks','inflation'],
-                ['risks','committee'],
-                ['risks','upside'],
-                ['risks','downside'],
                 ['risks','balanced'],
-                ['risks','unbalanced']
+                ['risks','weighted'],
+                ['risks','maintained']
     ]
     print(terms)
     statements = pd.read_csv("../../../collection/python/output/statement_data.csv")
     statements['date'] = pd.to_datetime(statements['end_date'])
+    for i in statements.index:
+        raw_text = statements.loc[i, 'file_text'].lower().replace("\n", " ").strip(",")
+        sentences = raw_text.split(". ")
+        for term in terms:
+            term_sents = []
+            for sentence in sentences:
+                if term[0] and term[1] in sentence:
+                    term_sents.append(sentence)
+            statements.at[i, term[0]+":"+term[1] + "_sents"] = "|".join(term_sents)
     for term in terms:
         term_1 = term[0]
         term_2 = term[1]
