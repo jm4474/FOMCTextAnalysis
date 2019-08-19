@@ -24,8 +24,6 @@ def main():
     data=load_bluebook_data(1988,2008)
     create_totstat(data,'tab_sumstats_menu')
     
-    
-    
     create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
     
     turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
@@ -35,13 +33,14 @@ def create_totstat(data,name):
     sum_menu=pd.pivot_table(data,values='end_date',index='treatment_options',aggfunc=np.count_nonzero,fill_value=0)
     sum_menu=sum_menu.reset_index()
     sum_menu.rename(columns={"end_date":"count"},inplace=True)
-    sum_menu=sum_menu.append({'treatment_options':'Total','count':sum_menu['count'].sum()},ignore_index=True)
-    
+    sum_menu.loc[:,'len_count']=sum_menu["treatment_options"].apply(lambda x:len(x))
+    sum_menu=sum_menu.sort_values(by='len_count')
+    sum_menu=sum_menu.append({'treatment_options':'Total','count':sum_menu['count'].sum()},ignore_index=True)    
     ### Export the dataframe to latex
     # Dictionary for column headers
     headers={"treatment_options":"Policy Options","count":"Number of Meetings"}
     sum_menu.rename(columns=headers,inplace=True)
-    
+    sum_menu.drop(columns="len_count",inplace=True)    
     create_table_df(sum_menu,name)
     print("Table",name,"is written." )
 
