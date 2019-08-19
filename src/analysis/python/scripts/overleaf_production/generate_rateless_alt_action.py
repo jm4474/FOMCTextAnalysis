@@ -64,7 +64,7 @@ def plot_graph(df,out):
     action.plot(df['date'],df['d_unc'],'bo', markersize=1)
     action.plot(df['date'],df['d_inc'],'bo', markersize=1)
     action.plot(df['date'],df['effect'],'yo',markersize=2,fillstyle="none")
-    [action.axvline(x=_date,linestyle="--",linewidth=".5",color="grey") for _date in df['date']]
+    [action.axvline(x=_date,linestyle="--",linewidth=.5,color="grey") for _date in df['date']]
     #print(df)
     plt.savefig('../../output/overleaf_files/fig_rateless_alt_actions_{}.png'.format(out)
                 , dpi=300, bbox_inches='tight')
