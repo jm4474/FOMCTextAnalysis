@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import pprint
 def main():
-    #raw()
-    linearity()
+    raw()
+    #linearity()
     #symmetry()
 def linearity():
     df = pd.read_csv("../output/monthly_treatment_counts.csv")

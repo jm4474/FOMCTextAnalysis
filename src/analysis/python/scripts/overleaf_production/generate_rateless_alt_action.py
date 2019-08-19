@@ -3,8 +3,7 @@ import matplotlib.pyplot as plt
 
 def main():
     pd.options.mode.chained_assignment = None
-    date_partitions = [[pd.to_datetime("1989-08-01")
-                           ,pd.to_datetime("2005-07-31")],
+    date_partitions = [
                        [pd.to_datetime('1989-08-01')
                            ,pd.to_datetime('2008-12-31')]]
     df = pd.read_csv("../../output/fed_targets_with_alternatives.csv")

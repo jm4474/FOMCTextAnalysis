@@ -1,6 +1,6 @@
 import pandas as pd
 def main():
-    df = pd.read_csv("../../../collection/python/output/derived_data.csv")
+    df = pd.read_csv("../../../../collection/python/output/derived_data.csv")
     df['date'] = pd.to_datetime(df['end_date'])
 
     df['decade'] = df['date'].dt.year//10*10
@@ -19,17 +19,6 @@ def main():
     grouped_counts = grouped_counts.drop(drop_docs). \
         rename({"Intermeeting Executive Committee Minutes": "Intermeeting Minutes",
                 "SEP":"Economic Projections (SEP)"})
-    '''
-    columns = {1930:"1936-39",
-               1940:"1940-49",
-               1950:"1950-59",
-               1960:"1960-69",
-               1970:"1970-79",
-               1980:"1980-89",
-               1990:"1990-99",
-               2000:"2000-09",
-               2010:"2010-13"}
-    '''
 
     grouped_counts = grouped_counts.reset_index()
     headers = ["File Type",
@@ -44,7 +33,7 @@ def main():
                "\\shortstack{2010-\\\\2013}",
                "Total"]
     #grouped_counts = grouped_counts.rename(columns=columns)
-    grouped_counts.to_latex("../output/decade_file_counts.tex",index=False,header=headers,escape=False)
+    grouped_counts.to_latex("../../output/overleaf_files/decade_file_counts.tex",index=False,header=headers,escape=False)
 
 
 if __name__ == "__main__":
