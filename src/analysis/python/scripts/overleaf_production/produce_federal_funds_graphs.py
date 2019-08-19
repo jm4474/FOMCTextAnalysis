@@ -58,7 +58,7 @@ def create_plot(rates,datestring):
 
 
     plt.legend(['Pre announcement','Post announcement'],frameon=False)
-    plt.savefig('../output/fed_future_'+datestring+'.png', dpi=300)
+    plt.savefig('../../output/overleaf_files/fed_future_'+datestring+'.png', dpi=300)
 
 if __name__ == "__main__":
     datestring="2002-11-06"
