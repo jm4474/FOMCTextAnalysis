@@ -21,7 +21,7 @@ import logging
 #except:
 #    print('No outputs available')
 
-destination = '~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files/"
+destination = "~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files/"
 
 
 def query_yes_no(question, default="yes"):
