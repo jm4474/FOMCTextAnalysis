@@ -1,7 +1,7 @@
 import pandas as pd
 import pprint
 import numpy as np
-output_dir = "../../../derivation/python/output/"
+output_dir = "../../../../derivation/python/output/"
 from auxfunction_tablecreation import create_table_df
 '''
 @Author Anand Chitale
@@ -35,7 +35,7 @@ def main():
 
 
 def get_merge():
-    derived_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
+    derived_df = pd.read_csv("../../../../collection/python/output/derived_data.csv")
     derived_df['end_date'] = pd.to_datetime(derived_df['end_date'])
     derived_df = derived_df[derived_df.event_type == "Meeting"]
     date_period = derived_df[(derived_df.end_date.dt.year >= 1988) & (derived_df.end_date.dt.year <= 2009)]
