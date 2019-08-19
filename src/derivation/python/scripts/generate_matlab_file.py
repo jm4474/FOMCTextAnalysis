@@ -118,5 +118,7 @@ clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']]=clean_data[['d_meeting', 
 
 # Add additional data adjustments
 
+
+
 clean_data.to_csv('../output/matlab_file.csv',index=False)
 
