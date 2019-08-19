@@ -1,6 +1,6 @@
 % Author: Oliver Giesecke
 % Purpose: Calculates the propensity score
-% Data modified: 08/09/2019
+% Data modified: 08/13/2019
 
 cd '/Users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/matlab/script'
 clear all
@@ -147,6 +147,8 @@ Ughat_dec_DUT=1/n_sample.*weigths(:,1)'*Ug;
 
 %% z = {D,U}
 
+
+
 % Data Selection 
 y = data.target_change_simple(data.d_sub_4==1) ;
 X = table2array(data(data.d_sub_4==1,{'l1_diff_unemp','l2_diff_unemp', 'l1_inf','l2_inf'}));
@@ -229,7 +231,7 @@ subplot(1,3,3);
 plot(1:n_periods,[Ughat_unc_UT;Ughat_unc_DUT;Ughat_unc_DU])
 legend('Menu UT','Menu DUT','Menu DU','Location','northwest') 
 title('Policy U')
-ylabel('Inflation in percent')
+ylabel('Unemployment in percent')
 xlabel('months')
 set(gcf,'position',[x0,y0,width,height])
 saveas(gcf,'../output/fig_policy_U.png')
