@@ -102,7 +102,7 @@ def main():
     output_text = output.to_latex(index=False)
     output_text = output_text.replace("Not Observed","\\hline Not Observed",1)\
         .replace("All","\\hline\\hline All",1)
-    print(output_text)
+    #print(output_text)
     with open("../../output/overleaf_files/rate_change_sources.tex",'w+') as f:
         f.write(output_text)
     '''

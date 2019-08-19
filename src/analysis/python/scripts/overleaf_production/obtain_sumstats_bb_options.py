@@ -24,10 +24,10 @@ def main():
     data=load_bluebook_data(1988,2008)
     create_totstat(data,'tab_sumstats_menu')
     
-    #create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
+    create_sumstat_byyear(data,'tab_sumstats_menu_byyear')
     
-    #turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
-    #create_sumstat_byperiod(data,turning_points,'tab_sumstats_menu_byperiod')
+    turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
+    create_sumstat_byperiod(data,turning_points,'tab_sumstats_menu_byperiod')
 
 def create_totstat(data,name):
     sum_menu=pd.pivot_table(data,values='end_date',index='treatment_options',aggfunc=np.count_nonzero,fill_value=0)
@@ -49,7 +49,7 @@ def create_table_df(data,name):
     columnheaders=list(data.columns)
     numbercolumns=len(columnheaders)
     
-    with open("../../output/overleaf_files/"+name+".tex", "w") as f:
+    with open("../../output/"+name+".tex", "w") as f:
         f.write(r"\begin{tabular}{"+"l" + "".join("c" * (numbercolumns-1)) + "}\n")
         f.write("\\hline\\hline \n")
         f.write("\\addlinespace"+" \n")

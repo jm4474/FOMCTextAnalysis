@@ -26,7 +26,7 @@ def create_plot(rates,datestring):
     date_pre_ann=date_announcement+pd.Timedelta('-1 days')
     date_post_ann=date_announcement+pd.Timedelta('1 days')
     #effr=data[(data['date']>="2002-11-01") & (data['date']<="2002-11-20")][['date','effr']]
-    print(date_announcement)
+    #print(date_announcement)
     rates_annouc=[]
     rate_pre_annouc=[]
     rate_post_annouc=[]

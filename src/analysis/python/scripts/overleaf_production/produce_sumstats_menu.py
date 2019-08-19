@@ -35,7 +35,7 @@ def create_totstat(data,name):
     sum_menu.rename(columns=headers,inplace=True)
     sum_menu.drop(columns="len_count",inplace=True)    
     create_table_df(sum_menu,name)
-    print("Table",name,"is written." )
+    #print("Table",name,"is written." )
 
 
 def create_table_df(data,name):
