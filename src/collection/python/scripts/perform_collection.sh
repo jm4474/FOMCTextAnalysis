@@ -17,4 +17,6 @@ echo Extracting Greenbook Data
 python extract_greenbook_data.py
 echo Extracting Romer Appendix Data
 python extract_romer_appendix.py
+echo Merging String Theory Sources
+python merge_string_theory_sources.py
 echo Finished Execution. Files Viewable in ../output
