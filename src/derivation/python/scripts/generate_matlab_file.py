@@ -104,7 +104,7 @@ clean_data['d_nineeleven']=(clean_data['month']==9) & (clean_data['year']==2001)
 
 
 # Create the month dummies
-clean_data['date']=clean_data['date'].apply(lambda x:x.strftime("%m/%d/%Y"))
+clean_data['date']=clean_data['date_x'].apply(lambda x:x.strftime("%m/%d/%Y"))
 clean_data=pd.get_dummies(clean_data,columns=['month'],prefix='d_month')
 
 for month in range(1,13):
