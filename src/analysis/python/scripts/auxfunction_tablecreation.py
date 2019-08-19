@@ -10,8 +10,8 @@ def create_table_df(data,name,max_columns=7):
     ## Check colum length
     
     if not numbercolumns>max_columns+1:
-    
-        with open("../output/"+name+".tex", "w") as f:
+        #Change made by Anand Chitale: output changed to overleaf_files
+        with open("../output/overleaf_files"+name+".tex", "w") as f:
             f.write(r"\begin{tabular}{"+"l" + "".join("c" * (numbercolumns-1)) + "}\n")
             f.write("\\hline\\hline \n")
             f.write("\\addlinespace"+" \n")
