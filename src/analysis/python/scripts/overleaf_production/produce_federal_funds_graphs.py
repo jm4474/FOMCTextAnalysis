@@ -16,7 +16,7 @@ from calendar import monthrange
 ###############################################################################
 
 def main(datestring):
-    rates=pd.read_csv("../../../derivation/python/output/federal_funds_futures.csv")
+    rates=pd.read_csv("../../../../derivation/python/output/federal_funds_futures.csv")
     rates['date']=pd.to_datetime(rates['date'])
     create_plot(rates,datestring)
 
@@ -57,7 +57,7 @@ def create_plot(rates,datestring):
     ax.set_ylabel('Implied federal funds rate (in \%)')
 
     plt.legend(['Pre announcement','Announcement','Post annoucement'],frameon=False)
-    plt.savefig('../output/fed_future_'+datestring+'.png', dpi=300)
+    plt.savefig('../../output/overleaf_files/fed_future_'+datestring+'.png', dpi=300)
 
 if __name__ == "__main__":
     datestring="2002-11-06"

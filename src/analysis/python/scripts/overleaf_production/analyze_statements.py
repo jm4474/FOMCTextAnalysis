@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from auxfunction_tablecreation import create_table_df      
 
-data_df=pd.read_csv('../../../derivation/python/output/final_derived_file.csv')
+data_df=pd.read_csv('../../../../derivation/python/output/final_derived_file.csv')
 
 # Restrict to period (inclusive)
 start_year=1988
