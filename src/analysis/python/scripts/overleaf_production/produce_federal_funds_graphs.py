@@ -36,11 +36,11 @@ def create_plot(rates,datestring):
     for fff_price in ffrs:
         rates_annouc.append(rates[rates['date']==date_announcement][fff_price+'_rate'].item())
         rate_pre_annouc.append(rates[rates['date']==date_pre_ann][fff_price+'_rate'].item())
-        rate_post_annouc.append(rates[rates['date']==date_post_ann][fff_price+'_rate'].item())
+        #rate_post_annouc.append(rates[rates['date']==date_post_ann][fff_price+'_rate'].item())
     
     rates_annouc[0]=rates[rates['date']==date_announcement]['ffr_future'].item()
     rate_pre_annouc[0]=rates[rates['date']==date_pre_ann]['ffr_future'].item()
-    rate_post_annouc[0]=rates[rates['date']==date_post_ann]['ffr_future'].item()
+    #rate_post_annouc[0]=rates[rates['date']==date_post_ann]['ffr_future'].item()
     
     
     plt.rc('text', usetex=True)
@@ -50,14 +50,15 @@ def create_plot(rates,datestring):
 
     ax.plot(rate_pre_annouc, color='red', ls='solid',marker='o')
     ax.plot(rates_annouc, color='blue', ls='solid',marker='o')
-    ax.plot(rate_post_annouc, color='k', ls='dashed',marker='o')
+    #ax.plot(rate_post_annouc, color='k', ls='dashed',marker='o')
     
   
     ax.set_xlabel('Months into future')
     ax.set_ylabel('Implied federal funds rate (in \%)')
 
-    plt.legend(['Pre announcement','Announcement','Post annoucement'],frameon=False)
-    plt.savefig('../../output/overleaf_files/fed_future_'+datestring+'.png', dpi=300)
+
+    plt.legend(['Pre announcement','Post announcement'],frameon=False)
+    plt.savefig('../output/fed_future_'+datestring+'.png', dpi=300)
 
 if __name__ == "__main__":
     datestring="2002-11-06"
