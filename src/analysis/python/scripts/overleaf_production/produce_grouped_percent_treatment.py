@@ -127,7 +127,7 @@ def raw():
     lat_df = new_df.groupby("perc_group")[columns].sum()
 
     #print(lat_df)
-    lat_df.to_latex("../../output/overleaf_files/perentage_group_counts.tex")
+    lat_df.to_latex("../../output/overleaf_files/percentage_group_counts.tex")
 
 
 def round_quarter(val):
