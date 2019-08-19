@@ -13,7 +13,7 @@ reading in our master news data exporting to a latex file
 '''
 def main():
     comp_df = get_merge()
-    print(comp_df)
+    #print(comp_df)
     comp_df.rename(columns={'meeting_date':'Meetings'},inplace=True)
     pivot = pd.pivot_table(comp_df,
                               values=['Meetings','NYT', 'WSJ', 'FT'],
@@ -30,8 +30,8 @@ def main():
 
     pivot = pivot.reindex([1,0,2,3])
     
-    print(pivot)
-    print(pivot.shape)
+    #print(pivot)
+    #print(pivot.shape)
     create_table_df(pivot,"tab_news_coverage",12)
 
 

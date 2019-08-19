@@ -106,10 +106,10 @@ def produce_by_action_table(df,dates,out):
         group.to_latex("../../output/treatment_counts_action_{}_date_{}"
                                  .format(name,out)
                                  )
-        print("{}:  {}".format(name,group.sum(numeric_only=True).sum()))
-        print(dates)
-        print(group)
-        print()
+        #print("{}:  {}".format(name,group.sum(numeric_only=True).sum()))
+        #print(dates)
+        #print(group)
+        #print()
     return df
 
 if __name__ == "__main__":

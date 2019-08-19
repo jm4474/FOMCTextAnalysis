@@ -30,7 +30,7 @@ def create_table_df(data,name,max_columns=7):
 
     else:
         aux=(numbercolumns-1)//max_columns
-        print("Total number of columns:",numbercolumns)
+        #print("Total number of columns:",numbercolumns)
         if aux==(numbercolumns-1)/max_columns:
             n_tables=aux
         else:

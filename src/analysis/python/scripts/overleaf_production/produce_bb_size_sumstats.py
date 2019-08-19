@@ -21,7 +21,7 @@ def main():
     data_sumstats=prepare_data(1988,2008)
     create_totstat(data_sumstats,'tab_sumstat_sizeoptions')
     turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
-    #create_sumstat_byperiod(data_sumstats,turning_points,'tab_sumstats_sizeoptions_byperiod')
+    create_sumstat_byperiod(data_sumstats,turning_points,'tab_sumstats_sizeoptions_byperiod')
 
     data_graphs=produce_data_graph(1988,2008)
     # Plot individual meeting

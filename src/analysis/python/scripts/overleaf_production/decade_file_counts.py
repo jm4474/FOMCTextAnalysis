@@ -12,7 +12,7 @@ def main():
     grouped_docs = unique_group.groupby("File Type")
     grouped_counts = grouped_docs.sum().astype(int)[decades]
     grouped_counts["Total"] = grouped_counts.sum(axis=1)
-    print(grouped_counts)
+    #print(grouped_counts)
     drop_docs = ["Greenbook and Bluebook accessible materials",
                  "Memos", "Press Conference", "Tealbook accessible materials"
                  ]

@@ -6,7 +6,7 @@ def main():
     #linearity()
     #symmetry()
 def linearity():
-    df = pd.read_csv("../output/monthly_treatment_counts.csv")
+    df = pd.read_csv("../../output/monthly_treatment_counts.csv")
     df = df[df.date!="0"]
     cols = ['d_m025', 'd_0', 'd_025']
     df['d_025'] = (df["d_050"] + df["d_075"]+df['d_025']).astype(bool).astype(int)
@@ -36,11 +36,11 @@ def linearity():
     new_df = pd.merge(left=new_df,right=targets,on="date")
     new_df.to_csv("../output/grouped_percent_treatments_linearity.csv")
     new_df['count'] = 1
-    print(new_df.columns)
+    #print(new_df.columns)
     group_cols = ['date','perc_group','count']+[str(x) for x in sorted(group_cols)]
     lat_df = new_df.groupby("perc_group")[group_cols].sum()
 
-    print(lat_df)
+    #print(lat_df)
     lat_df.to_latex("../output/linearity_percentage_group_counts_no_rounding.tex")
 
 
@@ -74,7 +74,7 @@ def symmetry():
         'date','target_before','target_after']]
     targets['decision'] = abs(targets['target_after']-targets['target_before'])
     targets.loc[168,'decision'] = .5
-    print(new_df[new_df.perc_group=="0,25,50"])
+    #print(new_df[new_df.perc_group=="0,25,50"])
     decisions = set(targets['decision'])
     for decision in decisions:
         #targets[str(decision)] = targets['decision']
@@ -87,10 +87,10 @@ def symmetry():
     group_cols = ['date','perc_group','count','0.0','0.25','0.5']
     lat_df = new_df[group_cols].groupby("perc_group").sum()
 
-    print(lat_df)
+    #print(lat_df)
     lat_df.to_latex("../output/symetry_percentage_group_counts.tex")
 def raw():
-    df = pd.read_csv("../output/monthly_treatment_counts.csv")
+    df = pd.read_csv("../../output/monthly_treatment_counts.csv")
     df = df[df.date!="0"]
     cols = ['d_m075','d_m050','d_m025','d_0','d_025','d_050','d_075']
     #df['d_025'] = (df["d_050"] + df["d_075"]+df['d_025']).astype(bool).astype(int)
@@ -112,7 +112,7 @@ def raw():
                 bucket.add(mappings[col])
         bucket_str = ",".join(sorted(list(bucket)))
         new_df.loc[i, 'perc_group'] = bucket_str
-    targets = pd.read_csv("../output/fed_targets_with_alternatives.csv")[[
+    targets = pd.read_csv("../../output/fed_targets_with_alternatives.csv")[[
         'date', 'decision']]
     targets.loc[168, 'decision'] = -.5
     decisions = set(targets['decision'])
@@ -121,13 +121,13 @@ def raw():
         targets[str(decision)] = targets['decision']==decision
         group_cols.append(decision)
     new_df = pd.merge(left=new_df,right=targets,on="date")
-    new_df.to_csv("../output/grouped_percent_treatments_no_round.csv")
+    new_df.to_csv("../../output/grouped_percent_treatments_no_round.csv")
     new_df['count'] = 1
     columns = ['date','perc_group','count']+[str(x) for x in sorted(group_cols)]
     lat_df = new_df.groupby("perc_group")[columns].sum()
 
-    print(lat_df)
-    lat_df.to_latex("../output/percentage_group_counts_no_round_no_conditions.tex")
+    #print(lat_df)
+    lat_df.to_latex("../../output/overleaf_files/perentage_group_counts.tex")
 
 
 def round_quarter(val):

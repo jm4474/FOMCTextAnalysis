@@ -6,7 +6,7 @@ import matplotlib.cbook as cbook
 def main():
     data_ffr = get_ffr(1988, 2008)
     data_ffr_and_alts = get_alternatives(data_ffr)
-    print(data_ffr_and_alts)
+    #print(data_ffr_and_alts)
     plot_target(data_ffr_and_alts)
 
 def get_ffr(startyear,endyear):
@@ -16,7 +16,7 @@ def get_ffr(startyear,endyear):
     ffr=ffr[(ffr['year']>=startyear) & (ffr['year']<=endyear)]
     ffr['target_before'] = ffr['ffrtarget'].shift(1)
     ffr['target_after'] = ffr['ffrtarget'].shift(-1)
-    print(ffr)
+    #print(ffr)
     return ffr
 
 def get_alternatives(ffr):
