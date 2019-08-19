@@ -116,5 +116,9 @@ clean_data['target_change_last_fomc']=clean_data['target_change_last']*clean_dat
 clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']]=clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']].astype('int32')
 
 
+# Add additional data adjustments
+
+
+
 clean_data.to_csv('../output/matlab_file.csv',index=False)
 
