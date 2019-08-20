@@ -42,7 +42,8 @@ def prepare_data(startdate,enddate):
         try:
             treatments+=data['C_TREATMENT_SIZE_alt_'+alt].unique().tolist()
         except:
-            print('No option found')
+            pass
+            #print('No option found')
     treatments=list(set(treatments))
     
     data.loc[:,'treatment_options']=np.nan
@@ -53,7 +54,8 @@ def prepare_data(startdate,enddate):
             try:
                 treatments.append(row['C_TREATMENT_SIZE_alt_'+alt])
             except:
-                print('No option found')
+                pass
+                #print('No option found')
            
         filtered_treatments=[]
         for treatment in treatments:
@@ -66,7 +68,7 @@ def prepare_data(startdate,enddate):
             except:
                 pass
         filtered_treatments=", ".join([str(x) for x in sorted(filtered_treatments)])
-        print(filtered_treatments)
+        #print(filtered_treatments)
         if not len(filtered_treatments)==0:
             data['treatment_options'].iloc[idx]=filtered_treatments
     return data
@@ -85,7 +87,8 @@ def produce_data_graph(startdate,enddate):
         try:
             treatments+=data['C_TREATMENT_SIZE_alt_'+alt].unique().tolist()
         except:
-            print('No option found')
+            pass
+            #print('No option found')
     treatments=list(set(treatments))
     
     data.loc[:,'treatment_options']=np.nan
@@ -96,7 +99,8 @@ def produce_data_graph(startdate,enddate):
             try:
                 treatments.append(row['C_TREATMENT_SIZE_alt_'+alt])
             except:
-                print('No option found')
+                pass
+                #print('No option found')
            
         filtered_treatments=[]
         for treatment in treatments:
@@ -111,7 +115,7 @@ def produce_data_graph(startdate,enddate):
                                 filtered_treatments.append(treatment)
             except:
                 pass
-        print(filtered_treatments)
+        #print(filtered_treatments)
         if not len(filtered_treatments)==0:
             data['treatment_options'].iloc[idx]=filtered_treatments
         else:

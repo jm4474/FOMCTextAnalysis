@@ -36,9 +36,9 @@ def create_table_df(data,name,max_columns=7):
         else:
             n_tables=aux+1
             
-        print("Split into",n_tables,"tables")
+        #print("Split into",n_tables,"tables")
         n_colums=(numbercolumns-1)//n_tables
-        print("with",n_colums,"columns each")
+        #print("with",n_colums,"columns each")
         aux_columnheaders=[]
         
         for n_table in range(n_tables):

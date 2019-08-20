@@ -71,7 +71,8 @@ def load_bluebook_data(startyear,endyear):
         try:
             treatments+=data['C_TREATMENT_alt_'+alt].unique().tolist()
         except:
-            print('No option found')
+            pass
+            #print('No option found')
     treatments=list(set(treatments))
     
     data.loc[:,'treatment_options']=np.nan
@@ -81,7 +82,8 @@ def load_bluebook_data(startyear,endyear):
             try:
                 treatments+=row['C_TREATMENT_alt_'+alt]
             except:
-                print('No option found')
+                pass
+                #print('No option found')
         
         notvalid_treatments=['N']
         treatments=[x for x in treatments if not x in notvalid_treatments]

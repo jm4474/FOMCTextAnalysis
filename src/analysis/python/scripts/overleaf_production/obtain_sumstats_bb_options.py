@@ -42,7 +42,7 @@ def create_totstat(data,name):
     sum_menu.rename(columns=headers,inplace=True)
     sum_menu.drop(columns="len_count",inplace=True)    
     create_table_df(sum_menu,name)
-    print("Table",name,"is written." )
+    #print("Table",name,"is written." )
 
 
 def create_table_df(data,name):
@@ -95,7 +95,7 @@ def plot_target(dataffr):
     
     plt.legend(['Federal Funds Target'],frameon=False)
     plt.savefig('../../output/fig_fed_target.png', dpi=300,bbox_inches='tight')
-    print('fig_fed_target.png is written')
+    #print('fig_fed_target.png is written')
     
 def load_bluebook_data(startyear,endyear):
     data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
@@ -108,7 +108,8 @@ def load_bluebook_data(startyear,endyear):
         try:
             treatments+=data['C_TREATMENT_alt_'+alt].unique().tolist()
         except:
-            print('No option found')
+            pass
+            #print('No option found')
     treatments=list(set(treatments))
     
     data.loc[:,'treatment_options']=np.nan
@@ -118,7 +119,8 @@ def load_bluebook_data(startyear,endyear):
             try:
                 treatments+=row['C_TREATMENT_alt_'+alt]
             except:
-                print('No option found')
+                pass
+                #print('No option found')
         
         notvalid_treatments=['N']
         treatments=[x for x in treatments if not x in notvalid_treatments]
@@ -148,7 +150,8 @@ def create_sumstat_byyear(data,name):
     headers={"treatment_options":"Policy Options"}
     sum_menu_byyear.rename(columns=headers,inplace=True)
     create_table_df(sum_menu_byyear,name)
-    print("Table",name,"is written." )
+
+    #print("Table",name,"is written." )
 
 
 def create_sumstat_byperiod(data,turning_points,name):
@@ -179,7 +182,7 @@ def create_sumstat_byperiod(data,turning_points,name):
     headers={"treatment_options":"Policy Options"}
     sum_menu_period.rename(columns=headers,inplace=True)
     create_table_df(sum_menu_period,name)
-    print("Table",name,"is written." )
+    #print("Table",name,"is written." )
 
 
 

@@ -1,18 +1,17 @@
 import pandas as pd
 def main():
-    alternatives = pd.read_csv("../output/alternative_treatment_decisions.csv")
-    alternatives = alternatives[alternatives.end_date!="2003-09-15"]
+    alternatives = pd.read_csv("../output/fed_targets_with_alternatives.csv")
+    alternatives = alternatives[alternatives.date!="2003-09-15"]
     treatments = alternatives.copy()
 
-    treatments = treatments[['end_date',
+    treatments = treatments[['date',
                              'bluebook_treatment_size_alt_a',
                              'bluebook_treatment_size_alt_b',
                              'bluebook_treatment_size_alt_c',
                              'bluebook_treatment_size_alt_d',
                              'bluebook_treatment_size_alt_e'
                              ]]
-    treatments.rename(columns={"end_date":"date",
-                               'bluebook_treatment_size_alt_a':'tsa',
+    treatments.rename(columns={'bluebook_treatment_size_alt_a':'tsa',
                                'bluebook_treatment_size_alt_b':'tsb',
                                'bluebook_treatment_size_alt_c':'tsc',
                                'bluebook_treatment_size_alt_d':'tsd',

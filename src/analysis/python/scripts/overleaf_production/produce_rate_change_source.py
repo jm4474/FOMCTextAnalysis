@@ -105,30 +105,6 @@ def main():
     #print(output_text)
     with open("../../output/overleaf_files/rate_change_sources.tex",'w+') as f:
         f.write(output_text)
-    '''
-    events = merge[(merge.change == True) &
-                   (merge['event_type']!="Meeting") &
-                   (merge['event_shift']!="Meeting")]
-    events['size'] = events['dfedtar']-events['shift']
-    events = events[events['date'].dt.year>start_year]
-    events['month'] = events.date.dt.month
-    events['year'] = events.date.dt.year
-    #monthly = events.drop_duplicates(subset=['month','year'])
-    monthly = events
-    #print(monthly)
-    #print(len(monthly))
-
-
-    confs = monthly[(monthly.event_type.notnull())|(monthly.event_shift.notnull())]
-    #print(confs)
-    #print(len(confs))
-
-    out = events[(monthly.event_type.isna())|
-                 (monthly.event_shift.isna())]
-    #print(out)
-    #print(len(out))
-    events = events[['date','size']]
-    '''
 
 
 if __name__ == "__main__":

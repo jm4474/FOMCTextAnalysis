@@ -125,9 +125,9 @@ def raw():
     new_df['count'] = 1
     columns = ['date','perc_group','count']+[str(x) for x in sorted(group_cols)]
     lat_df = new_df.groupby("perc_group")[columns].sum()
-
+    lat_df = lat_df.astype(int).reset_index().rename({"perc_group":"Menu"})
     #print(lat_df)
-    lat_df.to_latex("../../output/overleaf_files/percentage_group_counts.tex")
+    lat_df.to_latex("../../output/overleaf_files/percentage_group_counts.tex",index=False)
 
 
 def round_quarter(val):
