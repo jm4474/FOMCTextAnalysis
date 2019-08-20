@@ -29,7 +29,7 @@ def main():
     pivot.rename(columns={"index": "Newspaper"}, inplace=True)
 
     pivot = pivot.reindex([1,0,2,3])
-    
+    pivot = pivot.astype(int,errors="ignore")
     #print(pivot)
     #print(pivot.shape)
     create_table_df(pivot,"tab_news_coverage",12)

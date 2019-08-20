@@ -1,8 +1,0 @@
-\begin{tabular}{lrrlrrr}
-\toprule
-{} &  t\_size &  op\_size & options &   E &   U &  T \\
-\midrule
-0 &      79 &       33 &      EU &  12 &  21 &  0 \\
-1 &      79 &       46 &     EUT &   5 &  40 &  1 \\
-\bottomrule
-\end{tabular}
