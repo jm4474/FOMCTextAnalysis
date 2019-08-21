@@ -7,6 +7,8 @@
 
 import pandas as pd
 import numpy as np
+import math
+import sys
 
 # Monthly data
 data_df=pd.read_csv('../../../collection/python/output/string_theory_indicators_monthly.csv')
@@ -115,10 +117,117 @@ clean_data['target_change_last_fomc']=clean_data['target_change_last']*clean_dat
 
 clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']]=clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']].astype('int32')
 
+#AC: FURTHER DUMMIES
+print("reached Anand's section")
 
-# Add additional data adjustments
+change_dummies = ['d_m075','d_m050','d_m025','d_0',
+	'd_025','d_050','d_075','d_dec','d_inc','d_unc']
+
+menu_dummies = [d.replace("_","_menu_") for d in change_dummies]
+
+rename_dict = dict(zip(change_dummies,menu_dummies))
+clean_data.rename(columns=rename_dict,inplace=True)
+
+menu_adjusted_dummies = [d.replace("_","_menu_adj_") for d in change_dummies if '0'in d]
+for menu in menu_adjusted_dummies:
+    clean_data[menu] = clean_data[menu.replace("menu_adj_","menu_")]
+clean_data['d_menu_adj_m050'] = (clean_data['d_menu_m050']+clean_data['d_menu_m075'])>0
+clean_data['d_menu_adj_050'] = (clean_data['d_menu_050']+clean_data['d_menu_075'])>0
+
+clean_data.drop(columns=['d_menu_adj_075','d_menu_adj_m075'],inplace=True)
+
+clean_data['d_sample_1'] = (clean_data['date_x']>pd.to_datetime('07-1989'))&\
+	(clean_data['date_x']<pd.to_datetime('07-2005'))
+
+clean_data['d_sample_2'] = (clean_data['date_x']<pd.to_datetime('07-1989'))&\
+	(clean_data['date_x']>pd.to_datetime('12-2008'))
+
+clean_data['target_change_adj'] = clean_data['target_change']
+
+
+clean_data.loc[clean_data.target_change>0.5,'target_change_adj'] = 0.5
+clean_data.loc[clean_data.target_change<-0.5,'target_change_adj'] = -0.5
+clean_data.loc[clean_data.target_change==-0.3125,'target_change_adj'] = -0.25
+clean_data.loc[clean_data.date_x == pd.to_datetime('01-2000'),'d_y2k'] = 1
+
+clean_data["l1_inflation"] = clean_data["inflation"].shift(1)
+clean_data['l2_inflation'] = clean_data["inflation"].shift(2)
+
+
+clean_data['l1_diff_unemp'] = clean_data['lagged_unemp'] - clean_data['lagged_unemp'].shift(3)
+
+clean_data['l2_diff_unemp'] = clean_data['l1_diff_unemp'].shift(3) - clean_data['l1_diff_unemp'].shift(6)
 
 
 
-clean_data.to_csv('../output/matlab_file.csv',index=False)
+clean_data['l1_inf'] = (np.log(clean_data['PCEPI'].shift(1))
+	-np.log(clean_data.PCEPI.shift(4)))*100
+clean_data['l2_inf'] = (np.log(clean_data['PCEPI'].shift(4))\
+	-np.log(clean_data.PCEPI.shift(7)))*100
 
+clean_data['l1_target_change'] = clean_data.target_change.shift(1)
+clean_data['l2_target_change'] = clean_data.target_change.shift(2)
+clean_data['l3_target_change'] = clean_data.target_change.shift(3)
+clean_data['l4_target_change'] = clean_data.target_change.shift(4)
+clean_data['l5_target_change'] = clean_data.target_change.shift(5)
+
+clean_data["Fl1_target_change"] = clean_data.l1_target_change*clean_data.d_meeting
+
+
+clean_data['d_policy_m050'] = clean_data.target_change_adj==-.5
+clean_data['d_policy_m025'] = clean_data.target_change_adj==-.25
+clean_data['d_policy_0'] = clean_data.target_change_adj==0
+clean_data['d_policy_025'] = clean_data.target_change_adj== .25
+clean_data['d_policy_050'] = clean_data.target_change_adj==.5
+
+clean_data['d_policy_inc'] = ( (clean_data.d_policy_025 == 1) |  (clean_data.d_policy_050==1))
+clean_data['d_policy_unc'] = (clean_data.d_policy_0 == 1 )
+clean_data['d_policy_dec'] = ( (clean_data.d_policy_m025 == 1) | (clean_data.d_policy_m050==1))
+
+for indic in ['INDPRO','PCEPI']:
+	for time_shift in range(-1,-25,-1):
+		horizon = abs(time_shift)
+		clean_data[indic+"_g_"+str(horizon)] = (np.log(clean_data[indic].shift(time_shift)
+			)-np.log(clean_data[indic]))*100
+for indic in ['unemp','TRY_3M','TRY_2Y','TRY_10Y','FF_TAR']:
+	for time_shift in range(-1,-25,-1):
+		horizon = abs(time_shift)
+		clean_data[indic+"_g_"+str(horizon)] = clean_data[indic].shift(time_shift)\
+			-clean_data[indic]
+
+
+print(clean_data)
+#clean_data.to_csv('../output/matlab_file.csv',index=False)
+
+clean_data['d_sub_1'] = ((clean_data['d_menu_inc'] == 1)& 
+	(clean_data['d_menu_unc'] == 1) &
+	(clean_data['d_menu_dec'] == 0)& 
+	(clean_data['d_sample_1'] == 1))
+
+clean_data['d_sub_2'] = ((clean_data['d_menu_inc'] == 1) & 
+	(clean_data['d_menu_unc'] == 1) &
+	(clean_data['d_menu_dec'] == 1) & 
+	(clean_data['d_sample_1'] == 1))
+
+clean_data['d_sub_3'] = ((clean_data['d_menu_inc'] == 1) & 
+	(clean_data['d_menu_unc'] == 0) &
+	(clean_data['d_menu_dec'] == 1) & 
+	(clean_data['d_sample_1'] == 1))
+clean_data['d_sub_4'] = ((clean_data['d_menu_inc'] == 0) & 
+	(clean_data['d_menu_unc'] == 1) &
+	(clean_data['d_menu_dec'] == 1) & 
+	(clean_data['d_sample_1'] == 1))
+
+clean_data['d_sub_01'] = ((clean_data['d_sub_1'] == 1)
+	| (clean_data['d_sub_2'] == 1) 
+	| (clean_data['d_sub_3'] == 1))
+clean_data['d_sub_00'] = ((clean_data['d_sub_1'] == 1) 
+	| (clean_data['d_sub_4'] == 1) 
+	| (clean_data['d_sub_2'] == 1))
+clean_data['d_sub_m1'] = ((clean_data['d_sub_4'] == 1) 
+	| (clean_data['d_sub_2'] == 1) 
+	| (clean_data['d_sub_3'] == 1))
+clean_data.rename(columns={"date_x":"date_m"},inplace=True)
+clean_data.drop(columns=["date_y"])
+clean_data = clean_data.astype(int,errors="ignore")
+clean_data.to_csv("../../../analysis/matlab/data/matlab_file.csv",index=False)
