@@ -1,5 +1,5 @@
 # FOMC Text Analysis Project
-## Authors: Jose Luis Montiel Olea, Oliver Giesceke, Anand Chitale
+## Authors: Jose Luis Montiel Olea, Oliver Giesecke, Anand Chitale
 ### Purpose: This repo contains tools to download, extract, and analyze information from the FOMC Website
 ## Organization:
 The Repo is Organized as follows:
