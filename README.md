@@ -50,3 +50,8 @@ Produces final_derived_file.csv
 
 
 ## Analysis
+These scripts read in information from the derived output in order to produce figures, charts, graphs, and data counts for use in published reports.
+
+Key Files:
+src/analysis/python/scripts/extract_fed_targets_with_alternatives.py
+Reads in derived alternative data from final_derived_data.csv in order to produce a time series of fed targets before and after each meeting, along with the rate change proposed by each alternative.
