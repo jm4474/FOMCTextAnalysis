@@ -31,9 +31,22 @@ Reads through each page of the FOMC website to meeting dates, docuemnts and link
 Reads in the raw_doc_metadata and produces a derived file derived_data.csv containing the following fields
 ['year', 'start_date', 'end_date', 'event_type','file_name', 'file_size','file_type', 'link', 'grouping','document_class']
 
-3.python/scripts/perform_collection.sh:\
-The other files in this folder are responsible for downloading and extracting raw text from specific files, as well as manually downloaded data from the data folder. This shell script executes all downloads and text extractions, execute by typing ./perform_collection.sh
+3. python/scripts/perform_collection.sh:\
+The other files in this folder are responsible for downloading and extracting raw text from specific files, as well as manually downloaded data from the data folder. This shell script executes all downloads and text extractions. Execute by running ./perform_collection.sh
 
 ## Derivation
+This folder contains scripts to extract meeting specific information. For the purposes of our experiment, this consisted of policy alternatives extracted from the bluebook of meetings during the greenspan period.
+
+Key Files:
+1. src/derivation/python/scripts/obtain_bluebook_alternatives.py:\
+Reads in the raw text of the bluebooks from collection/python/output/bluebook_raw_text and produces a regular expression analysis to find all sentence mentions of a policy alternive for each meeting. Exports extracted information to derivation/output/bluebook_alt_and_class_output.csv
+
+2. src/derivation/python/scripts/produce_final_derived_file.py\
+Reads in the and merges meeting information for relevant data and output to provide a final derived file containing the following information:
+
+start_date,end_date,event_type,statement_policy_change,statement_policy_action,d_statement,FFF_0_rate,FFF_1_rate,FFF_2_rate,FFF_3_rate,FFF_4_rate,FFF_5_rate,FFF_6_rate,wsj_article_count,nyt_article_count,ft_article_count,DFF_Before_meeting,DFEDTR_before,DFEDTR_end,bluebook_treatment_alt_a,bluebook_treatment_size_alt_a,bluebook_justify_alt_a,bluebook_treatment_alt_b,bluebook_treatment_size_alt_b,bluebook_justify_alt_b,bluebook_treatment_alt_c,bluebook_treatment_size_alt_c,bluebook_justify_alt_c,bluebook_treatment_alt_d,bluebook_treatment_size_alt_d,bluebook_justify_alt_d,bluebook_treatment_alt_e,bluebook_treatment_size_alt_e,bluebook_justify_alt_e,bluebook_comments,year
+
+Produces final_derived_file.csv
+
 
 ## Analysis
