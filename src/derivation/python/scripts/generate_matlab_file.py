@@ -84,7 +84,7 @@ clean_data=clean_data.merge(data_rates,how='outer',on=['year','month'])
 menu_df = pd.read_csv('../../../analysis/python/output/monthly_treatment_counts.csv')
 menu_df.drop(columns=['Unnamed: 0'],inplace=True)
 clean_data = clean_data.merge(menu_df,how='outer',on=['year','month'])
-
+print(clean_data[clean_data['d_m050'].notna()][['month','year','d_m050']])
 clean_data['d_crisis']=clean_data['d_crisis']>0
 clean_data['d_meeting']=clean_data['d_meeting']>0
 clean_data=clean_data[(clean_data['year']>1987) & (clean_data['year']<=2008)]
@@ -131,15 +131,15 @@ clean_data.rename(columns=rename_dict,inplace=True)
 menu_adjusted_dummies = [d.replace("_","_menu_adj_") for d in change_dummies if '0'in d]
 for menu in menu_adjusted_dummies:
     clean_data[menu] = clean_data[menu.replace("menu_adj_","menu_")]
-clean_data['d_menu_adj_m050'] = (clean_data['d_menu_m050']+clean_data['d_menu_m075'])>0
-clean_data['d_menu_adj_050'] = (clean_data['d_menu_050']+clean_data['d_menu_075'])>0
+clean_data['d_menu_adj_m050'] = ((clean_data['d_menu_m050']+clean_data['d_menu_m075'])>0).astype(int)
+clean_data['d_menu_adj_050'] = ((clean_data['d_menu_050']+clean_data['d_menu_075'])>0).astype(int)
 
 clean_data.drop(columns=['d_menu_adj_075','d_menu_adj_m075'],inplace=True)
 
-clean_data['d_sample_1'] = (clean_data['date_x']>pd.to_datetime('07-1989'))&\
+clean_data['d_sample1'] = (clean_data['date_x']>=pd.to_datetime('07-1989'))&\
 	(clean_data['date_x']<pd.to_datetime('07-2005'))
 
-clean_data['d_sample_2'] = (clean_data['date_x']<pd.to_datetime('07-1989'))&\
+clean_data['d_sample2'] = (clean_data['date_x']<=pd.to_datetime('07-1989'))&\
 	(clean_data['date_x']>pd.to_datetime('12-2008'))
 
 clean_data['target_change_adj'] = clean_data['target_change']
@@ -154,16 +154,21 @@ clean_data["l1_inflation"] = clean_data["inflation"].shift(1)
 clean_data['l2_inflation'] = clean_data["inflation"].shift(2)
 
 
-clean_data['l1_diff_unemp'] = clean_data['lagged_unemp'] - clean_data['lagged_unemp'].shift(3)
+#clean_data['l1_diff_unemp'] = clean_data['lagged_unemp'] - clean_data['lagged_unemp'].shift(3)
+#clean_data['l2_diff_unemp'] = clean_data['l1_diff_unemp'].shift(3) - clean_data['l1_diff_unemp'].shift(6)
+clean_data['diff_unemp'] = clean_data['unemp'] - clean_data['unemp'].shift(1)
+clean_data['l1_diff_unemp'] = clean_data['diff_unemp'].shift(1)
+clean_data['l2_diff_unemp'] = clean_data['diff_unemp'].shift(2)
 
-clean_data['l2_diff_unemp'] = clean_data['l1_diff_unemp'].shift(3) - clean_data['l1_diff_unemp'].shift(6)
 
-
-
-clean_data['l1_inf'] = (np.log(clean_data['PCEPI'].shift(1))
-	-np.log(clean_data.PCEPI.shift(4)))*100
-clean_data['l2_inf'] = (np.log(clean_data['PCEPI'].shift(4))\
-	-np.log(clean_data.PCEPI.shift(7)))*100
+#clean_data['l1_inf'] = (np.log(clean_data['PCEPI'].shift(1))
+	#-np.log(clean_data.PCEPI.shift(4)))*100
+#clean_data['l2_inf'] = (np.log(clean_data['PCEPI'].shift(4))\
+	#-np.log(clean_data.PCEPI.shift(7)))*100
+clean_data['ld_inflation'] = (np.log(clean_data['PCEPI'])\
+	-np.log(clean_data['PCEPI'].shift(1)))*100
+clean_data['l1_ld_inflation'] = clean_data['ld_inflation'].shift(1)
+clean_data['l2_ld_inflation'] = clean_data['ld_inflation'].shift(2)
 
 clean_data['l1_target_change'] = clean_data.target_change.shift(1)
 clean_data['l2_target_change'] = clean_data.target_change.shift(2)
@@ -196,27 +201,26 @@ for indic in ['unemp','TRY_3M','TRY_2Y','TRY_10Y','FF_TAR']:
 			-clean_data[indic]
 
 
-print(clean_data)
 #clean_data.to_csv('../output/matlab_file.csv',index=False)
 
 clean_data['d_sub_1'] = ((clean_data['d_menu_inc'] == 1)& 
 	(clean_data['d_menu_unc'] == 1) &
 	(clean_data['d_menu_dec'] == 0)& 
-	(clean_data['d_sample_1'] == 1))
+	(clean_data['d_sample1'] == 1))
 
 clean_data['d_sub_2'] = ((clean_data['d_menu_inc'] == 1) & 
 	(clean_data['d_menu_unc'] == 1) &
 	(clean_data['d_menu_dec'] == 1) & 
-	(clean_data['d_sample_1'] == 1))
+	(clean_data['d_sample1'] == 1))
 
 clean_data['d_sub_3'] = ((clean_data['d_menu_inc'] == 1) & 
 	(clean_data['d_menu_unc'] == 0) &
 	(clean_data['d_menu_dec'] == 1) & 
-	(clean_data['d_sample_1'] == 1))
+	(clean_data['d_sample1'] == 1))
 clean_data['d_sub_4'] = ((clean_data['d_menu_inc'] == 0) & 
 	(clean_data['d_menu_unc'] == 1) &
 	(clean_data['d_menu_dec'] == 1) & 
-	(clean_data['d_sample_1'] == 1))
+	(clean_data['d_sample1'] == 1))
 
 clean_data['d_sub_01'] = ((clean_data['d_sub_1'] == 1)
 	| (clean_data['d_sub_2'] == 1) 
@@ -227,7 +231,17 @@ clean_data['d_sub_00'] = ((clean_data['d_sub_1'] == 1)
 clean_data['d_sub_m1'] = ((clean_data['d_sub_4'] == 1) 
 	| (clean_data['d_sub_2'] == 1) 
 	| (clean_data['d_sub_3'] == 1))
+clean_data['yearly_inflation_change'] = \
+	(clean_data['PCEPI']-(clean_data['PCEPI'].shift(12)))/(clean_data['PCEPI'].shift(12))*100
+#print(clean_data[['date','diff_unemp','l1_diff_unemp','l2_diff_unemp',\
+#	'ld_inflation','l1_ld_inflation','l2_ld_inflation']])
+
+clean_data['l1_diff_unemp_yearly'] = (clean_data['unemp']-clean_data['unemp'].shift(12)).shift(1)
+clean_data['l1_diff_unemp_quarterly'] = (clean_data['unemp']-clean_data['unemp'].shift(3)).shift(1)
+clean_data['l1_ld_inflation_yearly'] = (clean_data['ld_inflation']-clean_data['ld_inflation'].shift(12)).shift(1)
+clean_data['l1_ld_inflation_quarterly'] = (clean_data['ld_inflation']-clean_data['ld_inflation'].shift(3)).shift(1)
+
+
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
-clean_data = clean_data.astype(int,errors="ignore")
 clean_data.to_csv("../../../analysis/matlab/data/matlab_file.csv",index=False)
