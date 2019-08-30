@@ -1,3 +1,5 @@
+%Performs ordered probit in 25 point discrete increments
+
 types = ["simple_controls_yearly","simple_controls_quarterly","simple_controls",...
     "full_controls","full_controls_quarterly","full_controls_yearly"]
 for i = 1:length(types)
