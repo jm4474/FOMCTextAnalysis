@@ -106,11 +106,16 @@ label var d_menu_inc "Option Tightening"
 	* table 1, column (1) 
 local spec_c1 "l1_diff_unemp l1_inf"
 oprobit ord_adj_tchange `spec_c1'   if d_sample1==1 
+predict yhat1-yhat5 if d_sample1==1,pr
 local ll: di %3.2f =e(ll) 
 display `ll'
 margins if d_sample1==1 , dydx(`spec_c1' ) 
-eststo m1: margins if d_sample1==1 , dydx(`spec_c1' ) predict(pr outcome(5)) post 
+eststo m1: margins if d_sample1==1 , dydx(`spec_c1' ) predict(pr outcome(8)) post 
 estadd local loglh `ll'
+
+replace l1_diff_unemp=round(l1_diff_unemp,0.1)
+browse if l1_diff_unemp==-.1
+
 
 	* table 1, column (2)
 local spec_c2 " l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
@@ -119,7 +124,7 @@ oprobit ord_adj_tchange `spec_c2' `controls' if d_sample1==1
 local ll: di %3.2f =e(ll) 
 display `ll'
 margins if d_sample1==1 , dydx( `spec_c2' ) 
-eststo m2: margins if d_sample1==1 , dydx(`spec_c2' ) predict(pr outcome(5)) post 
+eststo m2: margins if d_sample1==1 , dydx(`spec_c2' ) predict(pr outcome(8)) post 
 estadd local loglh `ll'
 estadd local control "\checkmark"
 

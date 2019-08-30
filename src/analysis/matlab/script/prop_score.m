@@ -13,7 +13,7 @@ data_names=data.Properties.VariableNames;
 y = data.ord_adj_tchange(data.d_sample1==1) ;
 % Choose specification 
 % ,'d_month_5','d_month_6','d_month_7','d_month_8','d_month_9','d_month_10','d_month_11',
-X = table2array(data(data.d_sample1==1,{'l1_diff_unemp','l2_diff_unemp', 'l1_inf','l2_inf','scale','d_y2k','d_meeting','dfedtar','d_nineeleven','d_month_1','d_month_2','d_month_3','d_month_4','l1_target_change','market_exp'}));
+X = table2array(data(data.d_sample1==1,{'l1_diff_unemp','l2_diff_unemp', 'l1_inf','l2_inf','scale','d_y2k','d_meeting'}));
 D = table2array(data(data.d_sample1==1,{'d_policy_m050','d_policy_m025','d_policy_0','d_policy_025','d_policy_050'}));
 
 outcome='indpro'
@@ -30,8 +30,7 @@ b_init = (1:n_outcomes-1)./n_outcomes;
 b_init = [b_init, ones(1, size(X,2))]';
 
 % Compute the likelihood
-options = optimset('TolX',1e-8);
-b_opt=fminsearch(@(x)fn_value(y,X,ord_outcome,n_outcomes,n_sample,x), b_init,options);
+b_opt=fminsearch(@(x)fn_value(y,X,ord_outcome,n_outcomes,n_sample,x), b_init);
 
 b_opt
 
