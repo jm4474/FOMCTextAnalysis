@@ -1,5 +1,7 @@
 #Author: Anand Chitale
-#This script reads in the derived 
+#This script reads in the derived matlab file in order to produce files of controls
+#And outcomes for an odered probit. Output should be read and operated on by the matlab
+#do_ord_prob_25.m and do_ord_prob_etu.m scripts. 
 
 
 import pandas as pd

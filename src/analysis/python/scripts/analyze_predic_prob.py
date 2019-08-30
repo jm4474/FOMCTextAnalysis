@@ -1,3 +1,6 @@
+#This file reads in the output of the derived ordered probit matlab script in order to produce 
+#graphs by policy treatment charting predicted probabilities(denoted by color) for levels of inflation and unemployment
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
