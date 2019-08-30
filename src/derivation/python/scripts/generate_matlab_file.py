@@ -128,7 +128,7 @@ menu_dummies = [d.replace("_","_menu_") for d in change_dummies]
 rename_dict = dict(zip(change_dummies,menu_dummies))
 clean_data.rename(columns=rename_dict,inplace=True)
 
-menu_adjusted_dummies = [d.replace("_","_menu_adj_") for d in change_dummies if '0'in d]
+menu_adjusted_dummies = [d.replace("_","_menu_adj_") for d in change_dummies]
 for menu in menu_adjusted_dummies:
     clean_data[menu] = clean_data[menu.replace("menu_adj_","menu_")]
 clean_data['d_menu_adj_m050'] = ((clean_data['d_menu_m050']+clean_data['d_menu_m075'])>0).astype(int)
@@ -238,9 +238,16 @@ clean_data['yearly_inflation_change'] = \
 
 clean_data['l1_diff_unemp_yearly'] = (clean_data['unemp']-clean_data['unemp'].shift(12)).shift(1)
 clean_data['l1_diff_unemp_quarterly'] = (clean_data['unemp']-clean_data['unemp'].shift(3)).shift(1)
-clean_data['l1_ld_inflation_yearly'] = (clean_data['ld_inflation']-clean_data['ld_inflation'].shift(12)).shift(1)
-clean_data['l1_ld_inflation_quarterly'] = (clean_data['ld_inflation']-clean_data['ld_inflation'].shift(3)).shift(1)
 
+clean_data['ld_inflation_yearly'] = (np.log(clean_data['PCEPI'])\
+	-np.log(clean_data['PCEPI'].shift(12)))*100
+clean_data['ld_inflation_quarterly'] = (np.log(clean_data['PCEPI'])\
+	-np.log(clean_data['PCEPI'].shift(3)))*100
+
+clean_data['l1_ld_inflation_yearly'] = clean_data['ld_inflation_yearly'].shift(1)
+clean_data['l1_ld_inflation_quarterly'] = clean_data['ld_inflation_quarterly'].shift(1)
+
+clean_data['etu_outcome'] = np.sign(clean_data['target_change_adj'])
 
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
