@@ -114,7 +114,7 @@ eststo m1: margins if d_sample1==1 , dydx(`spec_c1' ) predict(pr outcome(8)) pos
 estadd local loglh `ll'
 
 replace l1_diff_unemp=round(l1_diff_unemp,0.1)
-browse if l1_diff_unemp==-.1
+*browse if l1_diff_unemp==-.1
 
 
 	* table 1, column (2)
@@ -135,7 +135,7 @@ oprobit ord_adj_tchange `spec_c4' `controls' if d_sample1==1
 local ll: di %3.2f =e(ll) 
 display `ll'
 margins if d_sample1==1 , dydx(`spec_c4') 
-eststo m3: margins if d_sample1==1 , dydx(`spec_c4' ) predict(pr outcome(5)) post 
+eststo m3: margins if d_sample1==1 , dydx(`spec_c4' ) predict(pr outcome(8)) post 
 estadd local loglh `ll'
 estadd local control "\checkmark"
 
@@ -221,21 +221,24 @@ order(market_exp l1_inf l2_inf l1_diff_unemp l2_diff_unemp lag_dfedtar l1_target
 
 ********************************************************************************
 *** REPLICATION - TABLE 1 ***
+drop yhat1-yhat5
 
 	* Select specification
-local spec="spec_c9"
 
+local spec "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting" 
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
 	***
-local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
-local spec_c9 "lag_dfedtar l1_target_change l2_target_change l3_target_change l4_target_change l5_target_change  `menu_controls'"
-local controls "scale d_y2k d_nineeleven " 
+*local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
+*local spec_c9 "lag_dfedtar l1_target_change l2_target_change l3_target_change l4_target_change l5_target_change  `menu_controls'"
+*local controls "scale d_y2k d_nineeleven " 
+
+
 *mlogit ord_adj_tchange ``spec'' `menu_controls' `controls' if d_sample1==1,baseoutcome(3)	
 	***
 *mlogit ord_adj_tchange ``spec'' `controls' if d_sample1==1 , baseoutcome(3)
 
-oprobit ord_adj_tchange ``spec'' `controls' if d_sample1==1 	
-margins if d_sample1==1 , dydx(`spec_c9') predict(pr outcome(5)) 
-
+oprobit ord_adj_tchange `spec' `controls' if d_sample1==1 	
+margins if d_sample1==1 , dydx(`spec') predict(pr outcome(8)) 
 
 predict yhat1-yhat5 if d_sample1==1,pr
 rename yhat1 yhat_m050
@@ -261,12 +264,13 @@ foreach element in _m050 _m025 _0 _025 _050{
 	gen delta`element' = d_policy`element' / yhat`element' - d_policy_0 / yhat_0
 }
 
-	* Orthogonalize the weight with respect to the conditioning set
 
+	* Orthogonalize the weight with respect to the conditioning set
 foreach element in _m050 _m025 _0 _025 _050{
 	reg delta`element'   if d_sample1==1 
 	predict delta_res`element',r
 }
+
 
 	* Create changes in the outcome for 24 month
 foreach var of varlist indpro pcepi{
@@ -369,26 +373,26 @@ foreach policy in `policies'{
 	
 graph combine I025 Im025  IP025 IPm025 U025 Um025, rows(3) ///
 cols(2) ysize(4) xsize(3) name("RealOutcomes",replace) 
-graph export ../output/fig_realoutcomes_`spec'.pdf,replace
+graph export ../output/fig_realoutcomes_repl.pdf,replace
 
 graph combine Bill3m025 Bill3mm025  Bond2y025 Bond2ym025 ///
 Bond10y025 Bond10ym025, rows(3) cols(2) ysize(4) xsize(3) name("TermYields",replace)
-graph export ../output/fig_tryyields_`spec'.pdf,replace
+graph export ../output/fig_tryyields_repl.pdf,replace
 	
 graph combine FFR025 FFRm025, rows(1) cols(2) ysize(6) xsize(9) name("FFR",replace)
-graph export ../output/fig_ffrrate_`spec'.pdf,replace	
+graph export ../output/fig_ffrrate_repl.pdf,replace	
 
-	
+/*	
 *** OLD STUFF ***
 	
-/*
+
 	// QA: Graph some of the raw data for quality check
 gen count = _n
 gen rec_tar = 9
 replace rec_tar = rec_tar[_n-1] + target_change if count != 1
 gen d_check = dfedtar == rec_tar
 tab d_check
-*/
+
 
 	* Weight construction
 foreach element in _m050 _0 _m025 _025 _050{

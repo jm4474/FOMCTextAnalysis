@@ -91,7 +91,7 @@ def ind_pro():
     ax_1.scatter(e_df['lagged_reduced_ind_pro'], y=e_df['l1_ld_inflation_yearly'],
                  c="red", label="ease",alpha=0.5)
     
-    #ax_1.scatter(x=u_df["lagged_reduced_ind_pro"],y=u_df['l1_ld_inflation_yearly'],c="blue")
+    ax_1.scatter(x=u_df["lagged_reduced_ind_pro"],y=u_df['l1_ld_inflation_yearly'],c="blue")
     ax_1.scatter(x=t_df["lagged_reduced_ind_pro"], y=t_df['l1_ld_inflation_yearly'],
                  c="green", label="tighten")
     
