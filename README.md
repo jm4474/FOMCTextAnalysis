@@ -1,9 +1,10 @@
 # FOMC Text Analysis Project
 ## Authors: Jose Luis Montiel Olea, Oliver Giesecke, Anand Chitale
-### Purpose: This repo contains tools to download, extract, and analyze information from the FOMC Website
+
+### Purpose: This repository contains tools (Python and Matlab scripts), raw data and derived datasets that are primarily related to textual data produced in preparation of FOMC decisions.
 ## Organization:
-The Repo is Organized as follows:
-All relevant code is contained in the *src* folder
+The repository is organized as follows:
+All relevant code and data is contained in the *src* folder
 
 The src folder is broken down into three subfolders:
 
