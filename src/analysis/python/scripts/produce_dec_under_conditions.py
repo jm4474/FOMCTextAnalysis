@@ -95,6 +95,7 @@ def ind_pro():
     u_df = s_df[s_df.etu_outcome == 0]
 
     
+
     
     ax_1.plot(u_df["lagged_reduced_ind_pro"],u_df['l1_ld_inflation_yearly'],
                 "ok", label="unchanged",fillstyle="none",
