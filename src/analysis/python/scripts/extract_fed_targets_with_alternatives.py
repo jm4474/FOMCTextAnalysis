@@ -7,7 +7,7 @@ bluebook treatments, and then compares with statement outcome data
 in order to determine which alternative was chosen at each meeting
 '''
 def main():
-    derived_df = pd.read_csv("../../../derivation/python/output/final_derived_file.csv")
+    derived_df = pd.read_csv("../../../derivation/python/output/meeting_derived_file.csv")
     alternative_df = extract_alternative_df(derived_df)
     ffr_df = get_ffr(1988,2008)
     merged_df = merge_ffr_alt_and_dec(ffr_df,alternative_df)

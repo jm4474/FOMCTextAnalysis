@@ -18,7 +18,7 @@ data_df['month'] = data_df['date'].apply(lambda x: x.month)
 data_df['year'] = data_df['date'].apply(lambda x: x.year)
 
 # Daily data
-data_daily=pd.read_csv('../output/daily_policy_data.csv')
+data_daily=pd.read_csv('../../../derivation/python/output/daily_policy_data.csv')
 data_daily['date']=pd.to_datetime(data_daily["DATE"])
 data_daily['year']=data_daily["date"].apply(lambda x:x.year)
 data_daily['month']=data_daily["date"].apply(lambda x:x.month)
@@ -72,7 +72,7 @@ clean_data.loc[:,'unemp']=data_df['UNRATE']
 clean_data.loc[:,'lagged_unemp']=data_df['UNRATE'].shift(periods=1)
 #clean_data.drop(columns=['lagged_prices', 'l2m_prices'],inplace=True)
 #
-market_df=pd.read_csv('../output/derived_monthly_market_exp.csv')
+market_df=pd.read_csv('../../../derivation/python/output/derived_monthly_market_exp.csv')
 
 clean_data=clean_data.merge(market_df[['year','month','market_exp']],how='outer',on=['year','month'])
 clean_data=clean_data.merge(data_pchanges,how='outer',on=['year','month'])
@@ -251,4 +251,4 @@ clean_data['etu_outcome'] = np.sign(clean_data['target_change_adj'])
 
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
-clean_data.to_csv("../../../analysis/matlab/data/final_data_file.csv",index=False)
+clean_data.to_csv("../output/final_data_file.csv",index=False)
