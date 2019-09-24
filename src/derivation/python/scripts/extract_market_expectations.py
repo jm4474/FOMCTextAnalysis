@@ -60,7 +60,7 @@ data_df['day']=data_df['date'].apply(lambda x:x.day)
 # Do iteration by month
 startyear=int(data_df['year'].min())
 endyear=int(data_df['year'].max())
-phi=0.3
+phi=0.2
 
 data_df["exp_change_wmeeting"]=0
 data_df["meetday"]=0
