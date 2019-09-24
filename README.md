@@ -53,7 +53,8 @@ Key Files:
 This shell script runs every file placed in the overleaf_production folder, exporting produced graphs, charts, and figures  overleaf_files output folder.
 
 2. src/analysis/python/scripts/produce_final_data_file.py:\
-This final analysis file reads in all relevant information from data sources and produces a final data file providing monthly values for the following fields:
+This final analysis file reads in all relevant information from data sources and produces a final data file providing monthly values for the following fields:\
+
 |     | Variable Name             | Definition                                                                          |
 |----:|:--------------------------|:------------------------------------------------------------------------------------|
 |   0 | date_m                    | The date of the first day of the month in form YYYY-MM-DD                           |
@@ -317,6 +318,14 @@ This final analysis file reads in all relevant information from data sources and
 | 258 | FF_TAR_g_22               | Future federal funds target rate g_* months in the future                           |
 | 259 | FF_TAR_g_23               | Future federal funds target rate g_* months in the future                           |
 | 260 | FF_TAR_g_24               | Future federal funds target rate g_* months in the future                           |
+| 268 | yearly_inflation_change   | Inflation changed calculated on the yearly level                                    |
+| 269 | l1_diff_unemp_yearly      | l1 difference in unemployment calculated yearly                                     |
+| 270 | l1_diff_unemp_quarterly   | l1 difference in unemployment calculated quarterly                                  |
+| 271 | ld_inflation_yearly       | Inflation[calculated via log difference] calculated yearly                          |
+| 272 | ld_inflation_quarterly    | Inflation[calculated via log difference] calculated quarterly                       |
+| 273 | l1_ld_inflation_yearly    | Lagged Inflation[calculated via log difference] calculated yearly                   |
+| 274 | l1_ld_inflation_quarterly | Lagged Inflation[calculated via log difference] calculated quarterly                |
+| 275 | etu_outcome               | Sign of target change, or 0 if unchanged                                            |
 | 268 | yearly_inflation_change   | Inflation changed calculated on the yearly level                                    |
 | 269 | l1_diff_unemp_yearly      | l1 difference in unemployment calculated yearly                                     |
 | 270 | l1_diff_unemp_quarterly   | l1 difference in unemployment calculated quarterly                                  |
