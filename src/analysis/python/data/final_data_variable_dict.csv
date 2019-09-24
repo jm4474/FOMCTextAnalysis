@@ -1,0 +1,277 @@
+Variable Name,Definition
+date_m,The date of the first day of the month in form YYYY-MM-DD
+year,The year of the month in form YYYY
+INDPRO,The year of the month in form YYYY
+PCEPI,Value of the personal consumption expenditure price index
+PCEPI_PCA,Value of the personal consumption expenditure price index-
+inflation,Value of the PCEPI_PCH
+unemp,Value of unemployment for the month
+lagged_unemp,Value of unemployment for the previous month
+market_exp,"Contains the current Market Expectations, given by derived_monthly_market_exp"
+target_change,Contains the change in the fed target rate for that month
+lag_DFEDTAR,Contains the value of the fed target rate for the previous month
+DFEDTAR,Contains the value of the fed target rate for that month
+d_meeting,Dummy variable representing the occurance of a meeting in the month
+scale,Scale variable for action based on day of the month of meeting
+d_crisis,Dummy variable for values after 2006-08-01
+TRY_3M,Value of treasury bonds with three month maturity
+TRY_2Y,Value of treasury bonds with two year maturity
+TRY_10Y,Value of treasury bonds with two year maturity
+FF_TAR,Value of federal funds target rate
+date_y,
+d_menu_dec,Dummy for occurrence of decreased fed target option in policy menu
+d_menu_unc,Dummy for occurrence of unchanged fed target option in policy menu
+d_menu_inc,Dummy for occurrence of increased fed target option in policy menu
+d_menu_m075,Dummy for occurrence of -0.75% fed target option in policy menu
+d_menu_m050,Dummy for occurrence of -0.50% fed target option in policy menu
+d_menu_m025,Dummy for occurrence of -0.25% fed target option in policy menu
+d_menu_0,Dummy for occurrence of 0.0% fed target option in policy menu
+d_menu_025,Dummy for occurrence of +0.25% fed target option in policy menu
+d_menu_050,Dummy for occurrence of +0.50% fed target option in policy menu
+d_menu_075,Dummy for occurrence of -0.75% fed target option in policy menu
+ord_policy,Ordinal Value for target change
+d_nineeleven,Dummy for 9/11 terror attacks
+date,The date of the first day of the month in format MM/DD/YY
+d_month_1,Dummy for month of row
+d_month_2,Dummy for month of row
+d_month_3,Dummy for month of row
+d_month_4,Dummy for month of row
+d_month_5,Dummy for month of row
+d_month_6,Dummy for month of row
+d_month_7,Dummy for month of row
+d_month_8,Dummy for month of row
+d_month_9,Dummy for month of row
+d_month_10,Dummy for month of row
+d_month_11,Dummy for month of row
+d_month_12,Dummy for month of row
+d_month_1_fomc,Dummy for occurrence of meeting in month
+d_month_2_fomc,Dummy for occurrence of meeting in month
+d_month_3_fomc,Dummy for occurrence of meeting in month
+d_month_4_fomc,Dummy for occurrence of meeting in month
+d_month_5_fomc,Dummy for occurrence of meeting in month
+d_month_6_fomc,Dummy for occurrence of meeting in month
+d_month_7_fomc,Dummy for occurrence of meeting in month
+d_month_8_fomc,Dummy for occurrence of meeting in month
+d_month_9_fomc,Dummy for occurrence of meeting in month
+d_month_10_fomc,Dummy for occurrence of meeting in month
+d_month_11_fomc,Dummy for occurrence of meeting in month
+d_month_12_fomc,Dummy for occurrence of meeting in month
+target_change_last,Target change of last meeting
+target_change_last_fomc,Target change of last FOMC Meeting
+d_menu_adj_m050,"Policy menu dummy in 25% increments in range [-.50,.50]"
+d_menu_adj_m025,"Policy menu dummy in 25% increments in range [-.50,.50]"
+d_menu_adj_0,"Policy menu dummy in 25% increments in range [-.50,.50]"
+d_menu_adj_025,"Policy menu dummy in 25% increments in range [-.50,.50]"
+d_menu_adj_050,"Policy menu dummy in 25% increments in range [-.50,.50]"
+d_menu_adj_dec,
+d_menu_adj_inc,
+d_menu_adj_unc,
+d_sample1,Dummy for meetings in range of 07-1989:07-2005
+d_sample2,Dummy for meetings in range of 07-1989:07-2005
+target_change_adj,Target change in increments of 0.25
+d_y2k,Dummy for the change of century in 2000
+l1_inflation,Inflation variable lagged 1 month
+l2_inflation,Inflation variable lagged 2 months
+diff_unemp,Difference in unemployment between current month and previous month
+l1_diff_unemp,Difference in unemployment between current month and previous month lagged 2 months
+l2_diff_unemp,Difference in unemployment between current month and previous month lagged 2 months
+ld_inflation,Inflation calculated using log difference of pcepi
+l1_ld_inflation,Inflation calculated using log difference of pcepi lagged 1 month
+l2_ld_inflation,Inflation calculated using log difference of pcepi lagged 2 months
+l1_target_change,Target change lagged 1 month
+l2_target_change,Target change lagged 2 months
+l3_target_change,Target change lagged 3 months
+l4_target_change,Target change lagged 4 months
+l5_target_change,Target change lagged 5 months
+Fl1_target_change,Target change multiplied by meeting dummy
+d_policy_m050,Dummy for policy outcome
+d_policy_m025,Dummy for policy outcome
+d_policy_0,Dummy for policy outcome
+d_policy_025,Dummy for policy outcome
+d_policy_050,Dummy for policy outcome
+d_policy_inc,Dummy for policy outcome
+d_policy_unc,Dummy for policy outcome
+d_policy_dec,Dummy for policy outcome
+INDPRO_g_1,Future industrial production by g_* months in the future
+INDPRO_g_2,Future industrial production by g_* months in the future
+INDPRO_g_3,Future industrial production by g_* months in the future
+INDPRO_g_4,Future industrial production by g_* months in the future
+INDPRO_g_5,Future industrial production by g_* months in the future
+INDPRO_g_6,Future industrial production by g_* months in the future
+INDPRO_g_7,Future industrial production by g_* months in the future
+INDPRO_g_8,Future industrial production by g_* months in the future
+INDPRO_g_9,Future industrial production by g_* months in the future
+INDPRO_g_10,Future industrial production by g_* months in the future
+INDPRO_g_11,Future industrial production by g_* months in the future
+INDPRO_g_12,Future industrial production by g_* months in the future
+INDPRO_g_13,Future industrial production by g_* months in the future
+INDPRO_g_14,Future industrial production by g_* months in the future
+INDPRO_g_15,Future industrial production by g_* months in the future
+INDPRO_g_16,Future industrial production by g_* months in the future
+INDPRO_g_17,Future industrial production by g_* months in the future
+INDPRO_g_18,Future industrial production by g_* months in the future
+INDPRO_g_19,Future industrial production by g_* months in the future
+INDPRO_g_20,Future industrial production by g_* months in the future
+INDPRO_g_21,Future industrial production by g_* months in the future
+INDPRO_g_22,Future industrial production by g_* months in the future
+INDPRO_g_23,Future industrial production by g_* months in the future
+INDPRO_g_24,Future industrial production by g_* months in the future
+PCEPI_g_1,Future PCEPI g_* months in the future
+PCEPI_g_2,Future PCEPI g_* months in the future
+PCEPI_g_3,Future PCEPI g_* months in the future
+PCEPI_g_4,Future PCEPI g_* months in the future
+PCEPI_g_5,Future PCEPI g_* months in the future
+PCEPI_g_6,Future PCEPI g_* months in the future
+PCEPI_g_7,Future PCEPI g_* months in the future
+PCEPI_g_8,Future PCEPI g_* months in the future
+PCEPI_g_9,Future PCEPI g_* months in the future
+PCEPI_g_10,Future PCEPI g_* months in the future
+PCEPI_g_11,Future PCEPI g_* months in the future
+PCEPI_g_12,Future PCEPI g_* months in the future
+PCEPI_g_13,Future PCEPI g_* months in the future
+PCEPI_g_14,Future PCEPI g_* months in the future
+PCEPI_g_15,Future PCEPI g_* months in the future
+PCEPI_g_16,Future PCEPI g_* months in the future
+PCEPI_g_17,Future PCEPI g_* months in the future
+PCEPI_g_18,Future PCEPI g_* months in the future
+PCEPI_g_19,Future PCEPI g_* months in the future
+PCEPI_g_20,Future PCEPI g_* months in the future
+PCEPI_g_21,Future PCEPI g_* months in the future
+PCEPI_g_22,Future PCEPI g_* months in the future
+PCEPI_g_23,Future PCEPI g_* months in the future
+PCEPI_g_24,Future PCEPI g_* months in the future
+unemp_g_1,Future Unemployment g_* months in the future
+unemp_g_2,Future Unemployment g_* months in the future
+unemp_g_3,Future Unemployment g_* months in the future
+unemp_g_4,Future Unemployment g_* months in the future
+unemp_g_5,Future Unemployment g_* months in the future
+unemp_g_6,Future Unemployment g_* months in the future
+unemp_g_7,Future Unemployment g_* months in the future
+unemp_g_8,Future Unemployment g_* months in the future
+unemp_g_9,Future Unemployment g_* months in the future
+unemp_g_10,Future Unemployment g_* months in the future
+unemp_g_11,Future Unemployment g_* months in the future
+unemp_g_12,Future Unemployment g_* months in the future
+unemp_g_13,Future Unemployment g_* months in the future
+unemp_g_14,Future Unemployment g_* months in the future
+unemp_g_15,Future Unemployment g_* months in the future
+unemp_g_16,Future Unemployment g_* months in the future
+unemp_g_17,Future Unemployment g_* months in the future
+unemp_g_18,Future Unemployment g_* months in the future
+unemp_g_19,Future Unemployment g_* months in the future
+unemp_g_20,Future Unemployment g_* months in the future
+unemp_g_21,Future Unemployment g_* months in the future
+unemp_g_22,Future Unemployment g_* months in the future
+unemp_g_23,Future Unemployment g_* months in the future
+unemp_g_24,Future Unemployment g_* months in the future
+TRY_3M_g_1,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_2,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_3,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_4,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_5,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_6,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_7,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_8,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_9,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_10,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_11,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_12,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_13,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_14,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_15,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_16,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_17,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_18,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_19,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_20,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_21,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_22,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_23,Future three month maturity treasury securities g_* months in the future
+TRY_3M_g_24,Future three month maturity treasury securities g_* months in the future
+TRY_2Y_g_1,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_2,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_3,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_4,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_5,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_6,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_7,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_8,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_9,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_10,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_11,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_12,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_13,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_14,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_15,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_16,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_17,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_18,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_19,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_20,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_21,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_22,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_23,Future two year maturity treasury securities g_* months in the future
+TRY_2Y_g_24,Future two year maturity treasury securities g_* months in the future
+TRY_10Y_g_1,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_2,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_3,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_4,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_5,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_6,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_7,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_8,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_9,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_10,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_11,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_12,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_13,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_14,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_15,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_16,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_17,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_18,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_19,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_20,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_21,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_22,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_23,Future ten year maturity treasury securities g_* months in the future
+TRY_10Y_g_24,Future ten year maturity treasury securities g_* months in the future
+FF_TAR_g_1,Future federal funds target rate g_* months in the future
+FF_TAR_g_2,Future federal funds target rate g_* months in the future
+FF_TAR_g_3,Future federal funds target rate g_* months in the future
+FF_TAR_g_4,Future federal funds target rate g_* months in the future
+FF_TAR_g_5,Future federal funds target rate g_* months in the future
+FF_TAR_g_6,Future federal funds target rate g_* months in the future
+FF_TAR_g_7,Future federal funds target rate g_* months in the future
+FF_TAR_g_8,Future federal funds target rate g_* months in the future
+FF_TAR_g_9,Future federal funds target rate g_* months in the future
+FF_TAR_g_10,Future federal funds target rate g_* months in the future
+FF_TAR_g_11,Future federal funds target rate g_* months in the future
+FF_TAR_g_12,Future federal funds target rate g_* months in the future
+FF_TAR_g_13,Future federal funds target rate g_* months in the future
+FF_TAR_g_14,Future federal funds target rate g_* months in the future
+FF_TAR_g_15,Future federal funds target rate g_* months in the future
+FF_TAR_g_16,Future federal funds target rate g_* months in the future
+FF_TAR_g_17,Future federal funds target rate g_* months in the future
+FF_TAR_g_18,Future federal funds target rate g_* months in the future
+FF_TAR_g_19,Future federal funds target rate g_* months in the future
+FF_TAR_g_20,Future federal funds target rate g_* months in the future
+FF_TAR_g_21,Future federal funds target rate g_* months in the future
+FF_TAR_g_22,Future federal funds target rate g_* months in the future
+FF_TAR_g_23,Future federal funds target rate g_* months in the future
+FF_TAR_g_24,Future federal funds target rate g_* months in the future
+d_sub_1,
+d_sub_2,
+d_sub_3,
+d_sub_4,
+d_sub_01,
+d_sub_00,
+d_sub_m1,
+yearly_inflation_change,Inflation changed calculated on the yearly level
+l1_diff_unemp_yearly,l1 difference in unemployment calculated yearly
+l1_diff_unemp_quarterly,l1 difference in unemployment calculated quarterly
+ld_inflation_yearly,Inflation[calculated via log difference] calculated yearly
+ld_inflation_quarterly,Inflation[calculated via log difference] calculated quarterly
+l1_ld_inflation_yearly,Lagged Inflation[calculated via log difference] calculated yearly
+l1_ld_inflation_quarterly,Lagged Inflation[calculated via log difference] calculated quarterly
+etu_outcome,"Sign of target change, or 0 if unchanged"

@@ -12,7 +12,7 @@ def main():
 				produce_controls_file(controls,mode,outcome)
 
 def produce_controls_file(controls,mode,outcome):
-	df = pd.read_csv("../../matlab/data/matlab_file.csv")
+	df = pd.read_csv("../../matlab/data/final_data_file.csv")
 	df['d_y2k'] = df["d_y2k"].fillna(0)
 	s_df = df[df.d_sample1==1]
 
