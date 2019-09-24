@@ -12,7 +12,7 @@ def main():
     #moving_average()
     nt_and_ne_no()
 def inf_and_unemp():
-    df = pd.read_csv("../../matlab/data/final_data_file.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
     fig = plt.figure()
     ax_1 = fig.add_subplot(111)
     s_df = df[ (df['d_meeting'] == 1)]
@@ -38,7 +38,7 @@ def inf_and_unemp():
     plt.legend()
     plt.show()
 def nrou():
-    df = pd.read_csv("../../matlab/data/final_data_file.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
     nrou_df = pd.read_csv("../data/NROU.csv")
     
     df['date'] = pd.to_datetime(df.date_m)
@@ -73,7 +73,7 @@ def nrou():
     plt.show()
 
 def ind_pro():
-    df = pd.read_csv("../../matlab/data/final_data_file.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
 
     ind_pro_df = pd.read_csv("../data/ind_pro_ch.csv")
     
@@ -126,7 +126,7 @@ def ind_pro():
         loc='upper right', )
 
 def nt_and_ne():
-    df = pd.read_csv("../../matlab/data/final_data_file.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
 
 
     ind_pro_df = pd.read_csv("../data/ind_pro_ch.csv")
@@ -200,7 +200,7 @@ def nt_and_ne():
 
 def moving_average():
     for period in [5,10,15,20]:
-        df = pd.read_csv("../../matlab/data/final_data_file.csv")
+        df = pd.read_csv("../output/final_data_file.csv")
 
 
         ind_pro_df = pd.read_csv("../data/ind_pro_ch.csv")
@@ -280,7 +280,7 @@ def moving_average():
         plt.show()
         fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_ne_nt_{}_year_m_a.png".format(period))
 def nt_and_ne_no():
-    df = pd.read_csv("../../matlab/data/final_data_file.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
 
 
     ind_pro_df = pd.read_csv("../data/ind_pro_ch.csv")
