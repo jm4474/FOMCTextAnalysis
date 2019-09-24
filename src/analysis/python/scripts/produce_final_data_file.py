@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-* Propensity Score Data Preparation
-* olivergiesecke
+@Author Anand Chitale
+Produces a final derived file containing all information required for data preperation
 """
 
 import pandas as pd
@@ -203,7 +203,7 @@ for indic in ['unemp','TRY_3M','TRY_2Y','TRY_10Y','FF_TAR']:
 			-clean_data[indic]
 
 
-#clean_data.to_csv('../output/matlab_file.csv',index=False)
+#clean_data.to_csv('../output/final_data_file.csv',index=False)
 
 clean_data['d_sub_1'] = ((clean_data['d_menu_inc'] == 1)& 
 	(clean_data['d_menu_unc'] == 1) &
@@ -253,4 +253,4 @@ clean_data['etu_outcome'] = np.sign(clean_data['target_change_adj'])
 
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
-clean_data.to_csv("../../../analysis/matlab/data/matlab_file.csv",index=False)
+clean_data.to_csv("../../../analysis/matlab/data/final_data_file.csv",index=False)
