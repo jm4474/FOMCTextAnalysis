@@ -1,8 +1,10 @@
-cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/derivation/stata/scripts"
+cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/stata/scripts/"
+import delimited using ../../../derivation/python/output/matlab_file,clear
 
-import delimited using ../../python/output/matlab_file,clear
+********************************************************************************
+*** PREPROCESSING ***
 
-	* Clean date
+		* Clean date
 gen statadate=date(date,"MDY",2020)
 format statadate %td
 gen date_m=mofd(statadate)
@@ -22,7 +24,6 @@ replace d_menu_adj_m050 = (d_menu_adj_m050 + d_menu_adj_m075) > 0
 replace d_menu_adj_050 = (d_menu_adj_050 + d_menu_adj_075) > 0
 drop d_menu_adj_m075 d_menu_adj_075
 
-
 foreach element in dec unc inc{
 	rename d_`element' d_menu_`element'
 }
@@ -32,6 +33,9 @@ gen d_sample1=0
 gen d_sample2=0
 replace d_sample1 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("07/2005","MY")
 replace d_sample2 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("12/2008","MY")
+
+	*
+replace scale=1 if scale==0
 
 	* Adjusted target following Angrist, Jorda, and Kuersteiner (2017)
 gen target_change_adj=target_change
@@ -45,15 +49,6 @@ tab target_change if d_sample1 ==1
 tab target_change if d_sample2 ==1
 // Sample size matches: 232 obs, 75 monthly changes (3 changes acc.)
 
-/*
-	// QA: Graph some of the raw data for quality check
-gen count = _n
-gen rec_tar = 9
-replace rec_tar = rec_tar[_n-1] + target_change if count != 1
-gen d_check = dfedtar == rec_tar
-tab d_check
-*/
-
 	* Add the discrete policy choice
 preserve
 keep target_change_adj 
@@ -66,16 +61,8 @@ restore
 merge m:1 target_change_adj using `policy_menu',nogen
 sort date_m
 	
-/*
-	* Detrend unemployment
-gen time=_n
-reg unemployment time
-predict det_unemployment,r
-twoway (line unemployment date_m)( line det_unemployment date_m)
-*/
-
 	* Variable definition
-gen d_y2k=monthly("12/1999","MY")==date_m 
+gen d_y2k=monthly("01/2000","MY")==date_m 
 sort date_m
 gen l1_inflation = inflation[_n-1]
 gen l2_inflation = inflation[_n-2]
@@ -87,66 +74,170 @@ gen ch=(log(pcepi)-log(pcepi[_n-1]))*100
 gen l1_inf=ch[_n-1]
 gen l2_inf=ch[_n-2]
 
+gen l1_target_change = target_change[_n-1]
+gen l2_target_change = target_change[_n-2]
+gen l3_target_change = target_change[_n-3]
+gen l4_target_change = target_change[_n-4]
+gen l5_target_change = target_change[_n-5]
+gen Fl1_target_change = l1_target_change * d_meeting
+
+	* Label variables
+label var d_menu_adj_m050 "Option -50bps"
+label var d_menu_adj_m025 "Option -25bps"
+label var d_menu_adj_0 "Option 0 bps"
+label var d_menu_adj_025 "Option +25bps"
+label var d_menu_adj_050 "Option +50bps"
+label var market_exp "FFR Expectation"
+label var l1_inf "Inflation, Lag 1"
+label var l2_inf "Inflation, Lag 2"
+label var l1_diff_unemp "Unemployment, Lag 1"
+label var l2_diff_unemp "Unemployment, Lag 2"
+label var lag_dfedtar "Target Rate, Lag 1"
+label var l1_target_change "Last Change"
+label var l2_target_change "Change, Lag 2"
+label var l3_target_change "Change, Lag 3"
+label var Fl1_target_change "FOMC $\times$ Last Change"
+label var d_meeting "FOMC"
+label var d_menu_dec "Option Expansion"
+label var d_menu_unc "Option No Change"
+label var d_menu_inc "Option Tightening"
+
+********************************************************************************
+*** REPLICATION - TABLE 1 ***
+	
 	* table 1, column (1) 
 local spec_c1 "l1_diff_unemp l1_inf"
 oprobit ord_adj_tchange `spec_c1'   if d_sample1==1 
+predict yhat1-yhat5 if d_sample1==1,pr
+local ll: di %3.2f =e(ll) 
+display `ll'
 margins if d_sample1==1 , dydx(`spec_c1' ) 
-eststo m1: margins if d_sample1==1 , dydx(`spec_c1' ) predict(pr outcome(5)) post 
+eststo m1: margins if d_sample1==1 , dydx(`spec_c1' ) predict(pr outcome(8)) post 
+estadd local loglh `ll'
 
-// Very close match
+replace l1_diff_unemp=round(l1_diff_unemp,0.1)
+*browse if l1_diff_unemp==-.1
 
-gen l1_target_change = target_change[_n-1]
-gen Fl1_target_change = l1_target_change * d_meeting
 
 	* table 1, column (2)
 local spec_c2 " l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
 local controls "d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12  scale  d_y2k d_nineeleven"
 oprobit ord_adj_tchange `spec_c2' `controls' if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
 margins if d_sample1==1 , dydx( `spec_c2' ) 
-eststo m2: margins if d_sample1==1 , dydx(`spec_c2' ) predict(pr outcome(5)) post 
+eststo m2: margins if d_sample1==1 , dydx(`spec_c2' ) predict(pr outcome(8)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
 
 	* table 1, column (4)
 local spec_c4 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting" 
 local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
 oprobit ord_adj_tchange `spec_c4' `controls' if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
 margins if d_sample1==1 , dydx(`spec_c4') 
-eststo m3: margins if d_sample1==1 , dydx(`spec_c4' ) predict(pr outcome(5)) post 
+eststo m3: margins if d_sample1==1 , dydx(`spec_c4' ) predict(pr outcome(8)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
 
+/*
 	*table 1 -- NEW SPECIFICATION -- 
 local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
 local spec_c5 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting `menu_controls'" 
 local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
 oprobit ord_adj_tchange `spec_c5' `controls' if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
 margins if d_sample1==1 , dydx(`spec_c5') 
 eststo m4: margins if d_sample1==1 , dydx(`spec_c5' ) predict(pr outcome(5)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
 
 	*table 1 -- NEW SPECIFICATION V2 -- 
 local menu_controls "d_menu_dec d_menu_unc d_menu_inc"
 local spec_c6 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting `menu_controls'" 
 local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
 oprobit ord_adj_tchange `spec_c6' `controls' if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
 margins if d_sample1==1 , dydx(`spec_c6') 
 eststo m5: margins if d_sample1==1 , dydx(`spec_c6' ) predict(pr outcome(5)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
 
-	
+	*table 1 -- NEW SPECIFICATION V3 -- 
+local menu_controls "d_menu_dec d_menu_unc d_menu_inc"
+local spec_c7 "l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting `menu_controls'" 
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
+oprobit ord_adj_tchange `spec_c7' `controls' if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
+margins if d_sample1==1 , dydx(`spec_c7') 
+eststo m6: margins if d_sample1==1 , dydx(`spec_c7' ) predict(pr outcome(5)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
+
+
+	*table 1 -- NEW SPECIFICATION V4 -- 
+local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
+local spec_c9 "lag_dfedtar l1_target_change `menu_controls'"
+local controls "scale d_y2k d_nineeleven " 
+oprobit ord_adj_tchange  `spec_c9' `controls'   if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
+margins if d_sample1==1 , dydx(`spec_c9') 
+eststo m7: margins if d_sample1==1 , dydx(`spec_c9') predict(pr outcome(5)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
+
+	*table 1 -- NEW SPECIFICATION V5 -- 
+local menu_controls "d_menu_adj_m050 d_menu_adj_m025 d_menu_adj_0 d_menu_adj_025 d_menu_adj_050"
+local spec_c9 "lag_dfedtar l1_target_change l2_target_change l3_target_change `menu_controls'"
+local controls "scale d_y2k d_nineeleven " 
+oprobit ord_adj_tchange  `spec_c9' `controls'   if d_sample1==1 
+local ll: di %3.2f =e(ll) 
+display `ll'
+margins if d_sample1==1 , dydx(`spec_c9') 
+eststo m8: margins if d_sample1==1 , dydx(`spec_c9') predict(pr outcome(5)) post 
+estadd local loglh `ll'
+estadd local control "\checkmark"
+*/
+
 	*MAKE TABLE
 #delimit;
-esttab  m1 m2 m3 m4 m5 using ../output/Default_Firm_CrossSection.tex, 
-		replace compress b(a3) se(a3) r2  star(* 0.10 ** 0.05 *** 0.01 ) noconstant  nomtitles nogaps
-		obslast booktabs  nonotes scalar("D Date FE" "FE Firm FE" "CT Firm controls" "IS Sector-MP Shock interactions")
-		drop(_cons size cash_oa profitability tangibility log_MB DTI cov_ratio)
-		label substitute(\_ _);
+esttab  m1 m2 m3  using ../output/tab_mx_effects.tex, 
+replace compress b(a3) se(a3) star(* 0.10 ** 0.05 *** 0.01 ) noconstant  ///
+nomtitles nogaps obslast booktabs label ///
+scalar("loglh Log-likelihood" "control Controls") nonotes substitute(\_ _) ///
+order(market_exp l1_inf l2_inf l1_diff_unemp l2_diff_unemp lag_dfedtar l1_target_change Fl1_target_change d_meeting );
 #delimit cr
 
+/*
+#delimit;
+esttab  m4 m5 m6 m7 using ../output/tab_mx_effects_v2.tex, 
+replace compress b(a3) se(a3) star(* 0.10 ** 0.05 *** 0.01 ) noconstant  ///
+nomtitles nogaps obslast booktabs label ///
+scalar("loglh Log-likelihood" "control Controls") nonotes substitute(\_ _) ///
+order(market_exp l1_inf l2_inf l1_diff_unemp l2_diff_unemp lag_dfedtar l1_target_change Fl1_target_change d_meeting );
+#delimit cr
+*/
 
 
-
-
-
+********************************************************************************
+*** REPLICATION - TABLE 1 ***
+drop yhat1-yhat5
 
 	* Select specification
-local spec="spec_c6"
-	
+
+*" l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
+
+local spec_c2 "l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change  Fl1_target_change  d_meeting" 
+local spec_c4 "market_exp  l1_inf l2_inf  l1_diff_unemp  l2_diff_unemp  lag_dfedtar l1_target_change Fl1_target_change  d_meeting" 
+
+local controls "scale d_y2k d_nineeleven d_month_1 d_month_2 d_month_3 d_month_4 d_month_5 d_month_6 d_month_7 d_month_8 d_month_9 d_month_10 d_month_11 d_month_12"
+oprobit ord_adj_tchange `spec_c2' `controls' if d_sample1==1 
+
 predict yhat1-yhat5 if d_sample1==1,pr
 rename yhat1 yhat_m050
 rename yhat2 yhat_m025
@@ -173,10 +264,11 @@ foreach element in _m050 _m025 _0 _025 _050{
 
 	* Orthogonalize the weight with respect to the conditioning set
 foreach element in _m050 _m025 _0 _025 _050{
-	reg delta`element' ``spec'' `controls'  if d_sample1==1 
+	reg delta`element' `spec_c2'  if d_sample1==1 
 	predict delta_res`element',r
 }
-	
+
+
 	* Create changes in the outcome for 24 month
 foreach var of varlist indpro pcepi{
 	foreach horizon of numlist 1/24{
@@ -273,20 +365,62 @@ foreach policy in `policies'{
 	horizon if horizon<=24, c( l l l) lpattern(dash solid dash) m(i oh i) ///
 	title("`policy'bp on 10y T-Bond") name("Bond10y`policy'",replace) ///
 	legend(off) ytitle("Change on 10y T-Bond (in %)") ylabel(-1(.5)1,grid)
-	
 }
 	
 graph combine I025 Im025  IP025 IPm025 U025 Um025, rows(3) ///
 cols(2) ysize(4) xsize(3) name("RealOutcomes",replace) 
-graph export ../../../analysis/python/output/fig_realoutcomes_`spec'.pdf,replace
+graph export ../output/fig_realoutcomes_repl.pdf,replace
 
 graph combine Bill3m025 Bill3mm025  Bond2y025 Bond2ym025 ///
 Bond10y025 Bond10ym025, rows(3) cols(2) ysize(4) xsize(3) name("TermYields",replace)
-graph export ../../../analysis/python/output/fig_tryyields_`spec'.pdf,replace
+graph export ../output/fig_tryyields_repl.pdf,replace
 	
 graph combine FFR025 FFRm025, rows(1) cols(2) ysize(6) xsize(9) name("FFR",replace)
-graph export ../../../analysis/python/output/fig_ffrrate_`spec'.pdf,replace	
+graph export ../output/fig_ffrrate_repl.pdf,replace	
 
-	
-	
-	
+
+/*	
+*** OLD STUFF ***	
+
+	// QA: Graph some of the raw data for quality check
+gen count = _n
+gen rec_tar = 9
+replace rec_tar = rec_tar[_n-1] + target_change if count != 1
+gen d_check = dfedtar == rec_tar
+tab d_check
+
+
+	* Weight construction
+foreach element in _m050 _0 _m025 _025 _050{
+	gen delta1`element' = d_policy`element' / yhat`element' 	
+}
+
+	* Create auxiliary variables
+foreach var of varlist indpro pcepi unemp{
+	foreach element in _m050 _0 _m025  _025 _050{
+		foreach horizon of numlist 1/24{
+			gen delta1`element'`var'_g`horizon' = ///
+			`var'_g`horizon'*delta1`element'
+		}
+	}
+}
+
+foreach var of varlist indpro pcepi unemp{
+	foreach element in _m050 _0 _m025 _025 _050{
+		gen b_base`element'_`var'=.
+		foreach horizon of numlist 1/24{
+		reg delta1`element'`var'_g`horizon' if d_sample1==1 
+		capture replace b_base`element'_`var'=_b[_cons] if horizon==`horizon'
+		}
+	}
+}
+
+gen causal_indpro_025=(b_base_025_indpro-b_base_0_indpro)
+twoway scatter b_base_025_indpro horizon if horizon<=24,name(inc,replace)
+twoway scatter b_base_0_indpro horizon if horizon<=24,name(dec,replace)
+twoway scatter causal_indpro_025 horizon if horizon<=24,name(tot_effect,replace)
+
+gen causal_pcepi_025=(b_base_025_pcepi-b_base_0_pcepi)
+twoway scatter b_base_025_pcepi horizon if horizon<=24,name(inc,replace)
+twoway scatter b_base_0_pcepi horizon if horizon<=24,name(dec,replace)
+twoway scatter causal_pcepi_025 horizon if horizon<=24,name(tot_effect,replace)
