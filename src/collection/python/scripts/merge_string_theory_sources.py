@@ -1,5 +1,6 @@
 import pandas as pd
 from functools import reduce
+import re
 def main():
     dfedtar = pd.read_csv("../data/string_theory/DFEDTAR.csv")
     dfedtarl = pd.read_csv("../data/string_theory/DFEDTARL.csv")
@@ -13,7 +14,8 @@ def main():
 
     monthly_dataframes = [indpro,pcepi,pcepi_ch,unrate,pcepi_pch]
     for dataframe in monthly_dataframes:
-        dataframe['DATE'] = pd.to_datetime(dataframe['DATE'])
+        dataframe['DATE'] = pd.to_datetime(dataframe['DATE'].apply(year_fix))
+        print(dataframe)
     monthly_merged = reduce(lambda left,right: \
                            pd.merge(left,right,on=['DATE'],how='outer'),monthly_dataframes)
     monthly_merged.to_csv("../output/string_theory_indicators_monthly.csv")
@@ -43,5 +45,14 @@ def main():
 
     df_merged.to_csv("../output/string_theory_indicators_daily_new.csv")
 
+def year_fix(d_str):
+    date = d_str.rsplit("/",1) 
+    if len(date)>1:
+        if int(date[1])>30:
+            return date[0]+"/19"+date[1]
+        else:
+            return date[0]+'/20'+date[1]
+    else:
+        return d_str
 if __name__ == "__main__":
     main()
