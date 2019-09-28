@@ -3,7 +3,7 @@ import numpy as np
 def main():
     pd.options.display.max_rows=10000
     start_year = 1987
-    dates = pd.read_csv("../../../../derivation/python/output/final_derived_file.csv")
+    dates = pd.read_csv("../../../../derivation/python/output/meeting_derived_file.csv")
     rates = pd.read_excel("../../../../collection/python/data/FRED_DFEDTAR.xls", skiprows=10)
     rates.columns = ['date', 'dfedtar']
     rates['shift'] = rates['dfedtar'].shift(1)

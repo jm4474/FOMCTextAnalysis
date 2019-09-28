@@ -9,7 +9,7 @@ Reads in
 3) The federal future csv: ../output/federal_funds_futures.csv
 4) The Master news file : ../../../derivation/python/output/all_news_articles.csv
 5) The online validated bluebook file: ../../../analysis/python/data/bluebook_manual_data_online_WORKING.xlsx
-In order to produce a final derived information 
+In order to produce a meeting derived information
 file containing the following columns:
 
 start_date,end_date,event_type,statement_policy_change,statement_policy_action
@@ -31,7 +31,7 @@ def main():
     der_state_ftr_nyt_bb_df = merge_bluebook(der_state_ftr_news_df)
     # Generate year column
     der_state_ftr_nyt_bb_df['year']=der_state_ftr_nyt_bb_df['start_date'].apply(lambda x: x.year)
-    der_state_ftr_nyt_bb_df.to_csv("../output/final_derived_file.csv")
+    der_state_ftr_nyt_bb_df.to_csv("../output/meeting_derived_file.csv")
     
 def merge_statement(cur_df):
     print("merging statements")
@@ -44,13 +44,13 @@ def merge_statement(cur_df):
     statement_df.rename(columns={'statement_meeting_start_date':'start_date'},inplace=True)
     #print(statement_df)
     assert(len(statement_df)<len(cur_df))
-    merge_statment = cur_df.merge(statement_df,how="left",on="start_date",indicator=True)
+    merge_statement = cur_df.merge(statement_df,how="left",on="start_date",indicator=True)
     # OG: Indicator added. It indicates where statement is available despite extraction missing
-    merge_statment.rename(columns={"_merge":"d_statement"},inplace=True)
-    merge_statment['d_statement'].replace({'both':True,'left_only':False},inplace=True)
-    #print(merge_statment)
-    #print(merge_statment.columns)
-    return merge_statment
+    merge_statement.rename(columns={"_merge":"d_statement"},inplace=True)
+    merge_statement['d_statement'].replace({'both':True,'left_only':False},inplace=True)
+    #print(merge_statement)
+    #print(merge_statement.columns)
+    return merge_statement
 def merge_ftr(cur_df):
     print("merging futures")
     future_df = pd.read_csv("../output/federal_funds_futures.csv")
