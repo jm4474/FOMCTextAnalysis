@@ -121,9 +121,6 @@ This final analysis file reads in all relevant information from data sources and
 |  61 | d_menu_adj_0              | Policy menu dummy in 25% increments in range [-.50,.50]                             |
 |  62 | d_menu_adj_025            | Policy menu dummy in 25% increments in range [-.50,.50]                             |
 |  63 | d_menu_adj_050            | Policy menu dummy in 25% increments in range [-.50,.50]                             |
-|  64 | d_menu_adj_dec            | nan                                                                                 |
-|  65 | d_menu_adj_inc            | nan                                                                                 |
-|  66 | d_menu_adj_unc            | nan                                                                                 |
 |  67 | d_sample1                 | Dummy for meetings in range of 07-1989:07-2005                                      |
 |  68 | d_sample2                 | Dummy for meetings in range of 07-1989:07-2005                                      |
 |  69 | target_change_adj         | Target change in increments of 0.25                                                 |

@@ -2,3 +2,5 @@
 *.spyproject
 *.pyc
 *.log
+*.iml
+*.xml
