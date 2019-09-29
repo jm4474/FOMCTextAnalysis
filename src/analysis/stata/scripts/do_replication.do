@@ -1,6 +1,7 @@
 cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/stata/scripts/"
 import delimited using ../../../derivation/python/output/matlab_file,clear
 
+
 ********************************************************************************
 *** PREPROCESSING ***
 
@@ -10,6 +11,12 @@ format statadate %td
 gen date_m=mofd(statadate)
 format date_m %tm
 drop statadate date 
+
+preserve 
+keep date_m dfedtar lag_dfedtar
+save ../data/extract_target,replace
+restore
+
 
 	* Rename the policy dummies
 foreach element in m075 m050 m025 0 025 050 075{

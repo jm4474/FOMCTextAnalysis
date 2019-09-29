@@ -11,7 +11,7 @@ gen date = mdy(month,day,year)
 format date %td
 drop month day year
 
-merge 1:1 date using `propscore'
+merge 1:1 date using `propscore',nogenerate 
 
 	* Export dataset
 save ../data/data_replication,replace
@@ -22,6 +22,7 @@ save ../data/data_replication,replace
 use ../data/data_replication,clear
 
 gen date_m = mofd(date)
+format date_m %tm
 	* Define the samples
 gen d_sample1=0
 gen d_sample2=0
@@ -29,6 +30,14 @@ replace d_sample1 =1 if monthly("07/1989","MY")<date_m & ///
 date_m <= monthly("07/2005","MY")
 replace d_sample2 =1 if monthly("07/1989","MY")<date_m & ///
 date_m <= monthly("12/2008","MY")
+
+/*
+	* Check the target rate in AKJ and our own.
+merge 1:1 date_m using "/Users/olivergiesecke/Dropbox/MPCounterfactual/src//analysis/stata/data/extract_target"
+drop if _merge != 3
+drop _merge
+twoway scatter r lag_dfedtar date_m if d_sample1
+*/
 
 global covariates "DEAJKold PCEH PCEH1 UNRATE UNRATE1  r LastChange FOMCMeetings LastCFOMC Scale  DY2K D911 month2 month3 month4 month5 month6 month7 month8 month9 month10 month11 month12"
 
