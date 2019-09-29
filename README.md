@@ -121,9 +121,6 @@ This final analysis file reads in all relevant information from data sources and
 |  61 | d_menu_adj_0              | Policy menu dummy in 25% increments in range [-.50,.50]                             |
 |  62 | d_menu_adj_025            | Policy menu dummy in 25% increments in range [-.50,.50]                             |
 |  63 | d_menu_adj_050            | Policy menu dummy in 25% increments in range [-.50,.50]                             |
-|  64 | d_menu_adj_dec            | nan                                                                                 |
-|  65 | d_menu_adj_inc            | nan                                                                                 |
-|  66 | d_menu_adj_unc            | nan                                                                                 |
 |  67 | d_sample1                 | Dummy for meetings in range of 07-1989:07-2005                                      |
 |  68 | d_sample2                 | Dummy for meetings in range of 07-1989:07-2005                                      |
 |  69 | target_change_adj         | Target change in increments of 0.25                                                 |
@@ -334,3 +331,16 @@ This final analysis file reads in all relevant information from data sources and
 | 273 | l1_ld_inflation_yearly    | Lagged Inflation[calculated via log difference] calculated yearly                   |
 | 274 | l1_ld_inflation_quarterly | Lagged Inflation[calculated via log difference] calculated quarterly                |
 | 275 | etu_outcome               | Sign of target change, or 0 if unchanged                                            |
+
+
+## AKJ Replication
+
+Contains original data and code and a simplified replication in Stata.
+
+Key files:
+
+1. src/AKJ_Replication/original_code_data:
+This folder contains the original replication files for Angrist, Kuersteiner, Jorda (2017) from the Guido Kuersteiner's website (https://www.econ.umd.edu/facultyprofile/kuersteiner/guido).
+
+2. src/AKJ_Replication/replication
+Replication script, *do_replication_acc_matlab*, in Stata that uses original data as input. Exploration of variations from the original--*do_replication_acc_matlab_mod* and *do_replication_acc_matlab_mod_res*.
