@@ -12,6 +12,7 @@ import sys
 
 # Monthly data
 data_df=pd.read_csv('../../../collection/python/output/string_theory_indicators_monthly.csv')
+#print(data_df)
 data_df.rename(columns={'month':'date'},inplace=True)
 data_df['date']=pd.to_datetime(data_df['DATE'])
 data_df['month'] = data_df['date'].apply(lambda x: x.month)
@@ -23,7 +24,7 @@ data_daily['date']=pd.to_datetime(data_daily["DATE"])
 data_daily['year']=data_daily["date"].apply(lambda x:x.year)
 data_daily['month']=data_daily["date"].apply(lambda x:x.month)
 
-data_daily=data_daily[(data_daily['year']>=1987) & (data_daily['year']<2009)]
+#data_daily=data_daily[(data_daily['year']>=1987) & (data_daily['year']<2009)]
 data_rates=data_daily[['TRY_3M', 'TRY-2Y', 'TRY-10Y','DFEDTAR','year', 'month']]
 for var in ['TRY_3M', 'TRY-2Y', 'TRY-10Y']:
     data_rates.loc[data_rates[var]=="ND",var]=np.nan
@@ -62,7 +63,7 @@ data_pchanges = data_daily[[ 'year', 'month','ch_DFEDTAR','lag_DFEDTAR','DFEDTAR
 data_pchanges = data_pchanges.dropna()
 
 # Define meeting / non-meeting months
-clean_data=data_df[['date','month','year','INDPRO','PCEPI','PCEPI_PCA']]
+clean_data=data_df[['date','month','year','INDPRO_PC1','PCEPI','PCEPI_PCA']]
 clean_data=clean_data.sort_values(by=['year', 'month'])
 clean_data.loc[:,'inflation']=data_df['PCEPI_PCH']
 #clean_data.loc[:,'l1_inflation']=data_df['PCEPI_PCH'].shift(periods=1)
@@ -84,29 +85,32 @@ clean_data=clean_data.merge(data_rates,how='outer',on=['year','month'])
 menu_df = pd.read_csv('../../../analysis/python/output/monthly_treatment_counts.csv')
 menu_df.drop(columns=['Unnamed: 0'],inplace=True)
 clean_data = clean_data.merge(menu_df,how='outer',on=['year','month'])
-print(clean_data[clean_data['d_m050'].notna()][['month','year','d_m050']])
+#print(clean_data[clean_data['d_m050'].notna()][['month','year','d_m050']])
 clean_data['d_crisis']=clean_data['d_crisis']>0
 clean_data['d_meeting']=clean_data['d_meeting']>0
-clean_data=clean_data[(clean_data['year']>1987) & (clean_data['year']<=2008)]
+#clean_data=clean_data[(clean_data['year']>1987) & (clean_data['year']<=2008)]
 clean_data=clean_data.sort_values(by=['year', 'month'])
 clean_data.rename(columns={'ch_DFEDTAR':'target_change'},inplace=True)
 clean_data.loc[clean_data['scale'].isna(),'scale']=0
 
 # Encode changes into a ordinal variable
-outcomes=sorted(list(set(list(clean_data['target_change']))))
+outcomes=sorted(list(set(list(clean_data['target_change'].astype(str)))))
 
 i=1
 out_dict={}
 for outcome in outcomes:
     out_dict.update({outcome:i})
     i+=1
-    
-clean_data['ord_policy']=clean_data['target_change'].map(out_dict)
+#print(outcomes)
+clean_data['ord_policy']=clean_data['target_change'].astype(str).map(out_dict)
+#print(clean_data)
 clean_data['d_nineeleven']=(clean_data['month']==9) & (clean_data['year']==2001)
 
 
 # Create the month dummies
-clean_data['date']=clean_data['date_x'].apply(lambda x:x.strftime("%m/%d/%Y"))
+clean_data = clean_data.dropna(subset=['date_x'])
+#print(clean_data)
+clean_data['date']=clean_data['date_x'].apply(lambda x: x.strftime("%m/%d/%Y"))
 clean_data=pd.get_dummies(clean_data,columns=['month'],prefix='d_month')
 
 for month in range(1,13):
@@ -120,7 +124,7 @@ clean_data[['d_meeting',  'd_crisis', 'd_nineeleven']]=clean_data[['d_meeting', 
 clean_data.to_csv("../output/matlab_file.csv",index=False)
 
 #AC: FURTHER DUMMIES
-print("reached Anand's section")
+#print("reached Anand's section")
 
 change_dummies = ['d_m075','d_m050','d_m025','d_0',
 	'd_025','d_050','d_075','d_dec','d_inc','d_unc']
@@ -191,7 +195,7 @@ clean_data['d_policy_inc'] = ( (clean_data.d_policy_025 == 1) |  (clean_data.d_p
 clean_data['d_policy_unc'] = (clean_data.d_policy_0 == 1 )
 clean_data['d_policy_dec'] = ( (clean_data.d_policy_m025 == 1) | (clean_data.d_policy_m050==1))
 
-for indic in ['INDPRO','PCEPI']:
+for indic in ['INDPRO_PC1','PCEPI']:
 	for time_shift in range(-1,-25,-1):
 		horizon = abs(time_shift)
 		clean_data[indic+"_g_"+str(horizon)] = (np.log(clean_data[indic].shift(time_shift)
@@ -250,7 +254,8 @@ clean_data['l1_ld_inflation_yearly'] = clean_data['ld_inflation_yearly'].shift(1
 clean_data['l1_ld_inflation_quarterly'] = clean_data['ld_inflation_quarterly'].shift(1)
 
 clean_data['etu_outcome'] = np.sign(clean_data['target_change_adj'])
-
+clean_data['d_greenspan'] = (clean_data['date_x']>pd.to_datetime('1987-08-01'))&(clean_data['date_x']<=pd.to_datetime('2006-01-01'))
+print(clean_data[clean_data.d_greenspan==True])
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
-clean_data.to_csv("../output/final_data_file.csv",index=False)
+clean_data.to_csv("../output/final_data_file_full.csv",index=False)
