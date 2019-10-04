@@ -87,21 +87,21 @@ replace c_change = 0  if target_change ==0
 
 	* Produce policy outcome graphs
 twoway (scatter q_inflation_exp_detrend ag_indpro_detrend if c_change == 1 ///
-& d_sample1 ==1,msymbol(-)  ) ///
+& d_sample1 ==1 & d_meeting==1,msymbol(-)  ) ///
 (scatter q_inflation_exp_detrend ag_indpro_detrend if c_change == -1 & ///
-d_sample1 ==1,msymbol(Oh) ) ///
+d_sample1 ==1 & d_meeting==1,msymbol(Oh) ) ///
 (scatter q_inflation_exp_detrend ag_indpro_detrend if c_change == 0 & ///
-d_sample1 ==1,msymbol(+) ) ///
+d_sample1 ==1 & d_meeting==1,msymbol(+) ) ///
 , yline(0) xline(0) xlabel(-10(2)10) title("Policy Outcomes") ///
 legend(order(1 "tightening" 2 "easing" 3 "unchanged"))
 graph export ../output/fig_policy_outcomes_base.pdf,replace
 
 twoway (scatter q_inflation_detrend ag_indpro_detrend if c_change == 1 ///
-& d_sample1 ==1,msymbol(-)  ) ///
+& d_sample1 ==1 & d_meeting==1 ,msymbol(-)  ) ///
 (scatter q_inflation_detrend ag_indpro_detrend if c_change == -1 & ///
-d_sample1 ==1,msymbol(Oh) ) ///
+d_sample1 ==1 & d_meeting==1,msymbol(Oh) ) ///
 (scatter q_inflation_detrend ag_indpro_detrend if c_change == 0 & ///
-d_sample1 ==1,msymbol(+) ) ///
+d_sample1 ==1 & d_meeting==1,msymbol(+) ) ///
 , yline(0) xline(0) xlabel(-10(2)10) title("Policy Outcomes") ///
 legend(order(1 "tightening" 2 "easing" 3 "unchanged"))
 graph export ../output/fig_policy_outcomes_alt.pdf,replace
