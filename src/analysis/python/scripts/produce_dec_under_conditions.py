@@ -14,7 +14,7 @@ def main():
 def moving_average():
     
     for period in [5,10]:
-        df = pd.read_csv("../output/final_data_file_full.csv")
+        df = pd.read_csv("../output/final_data_file.csv")
         df['date'] = pd.to_datetime(df['date_m'])
         
         df['rolling_average_inflation'] = df['l1_ld_inflation_yearly'].rolling(window=period*12).mean()
@@ -281,7 +281,7 @@ def ind_pro():
         loc='upper right', )
 
 def nt_and_ne():
-    df = pd.read_csv("../output/final_data_file_full.csv")
+    df = pd.read_csv("../output/final_data_file.csv")
 
 
     ind_pro_df = pd.read_csv("../data/ind_pro_ch.csv")
