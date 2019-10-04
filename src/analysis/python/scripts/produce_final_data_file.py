@@ -145,8 +145,8 @@ clean_data.drop(columns=['d_menu_adj_075','d_menu_adj_m075'],inplace=True)
 clean_data['d_sample1'] = (clean_data['date_x']>=pd.to_datetime('07-1989'))&\
 	(clean_data['date_x']<pd.to_datetime('07-2005'))
 
-clean_data['d_sample2'] = (clean_data['date_x']<=pd.to_datetime('07-1989'))&\
-	(clean_data['date_x']>pd.to_datetime('12-2008'))
+clean_data['d_sample2'] = (clean_data['date_x']>=pd.to_datetime('07-1989'))&\
+	(clean_data['date_x']<=pd.to_datetime('12-2008'))
 
 clean_data['target_change_adj'] = clean_data['target_change']
 
@@ -258,4 +258,4 @@ clean_data['d_greenspan'] = (clean_data['date_x']>pd.to_datetime('1987-08-01'))&
 print(clean_data[clean_data.d_greenspan==True])
 clean_data.rename(columns={"date_x":"date_m"},inplace=True)
 clean_data.drop(columns=["date_y"])
-clean_data.to_csv("../output/final_data_file_full.csv",index=False)
+clean_data.to_csv("../output/final_data_file.csv",index=False)
