@@ -64,7 +64,7 @@ merge 1:1 date_m using `forecasts',nogen
 gen d_sample1=0
 gen d_sample2=0
 
-replace d_sample1 =1 if monthly("07/1988","MY")<date_m & date_m <= monthly("01/2006","MY")
+replace d_sample1 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("01/2006","MY")
 replace d_sample2 =1 if monthly("07/1989","MY")<date_m & date_m <= monthly("12/2008","MY")
 
 

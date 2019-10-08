@@ -18,7 +18,9 @@ from obtain_sumstats_bb_options import create_totstat, create_sumstat_byperiod
 ### Create the summary statistics including the size.
 
 def main():
-    data_sumstats=prepare_data(1988,2008)
+    sample_startdate=datetime.datetime(1989, 7, 1)
+    sample_enddate=datetime.datetime(2006, 2, 1)
+    data_sumstats=prepare_data(sample_startdate,sample_enddate)
     create_totstat(data_sumstats,'tab_sumstat_sizeoptions')
     #turning_points=['1989-06-01','1993-06-01','1995-04-01','2000-11-01','2004-01-01','2007-02-01']
     #create_sumstat_byperiod(data_sumstats,turning_points,'tab_sumstats_sizeoptions_byperiod')
@@ -29,12 +31,10 @@ def main():
     #produce_graph(data_graphs,datestring)
 
 
-def prepare_data(startdate,enddate):
+def prepare_data(sample_startdate,sample_enddate):
     data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
-    data=data[(data['year']>=startdate) & (data['year']<=enddate)]
-    data['start_date']=pd.to_datetime(data['start_date'])   
-    data['end_date']=pd.to_datetime(data['end_date'])   
+    data=data[(data['start_date']>=sample_startdate) & (data['start_date']<=sample_enddate)]
     data=data.reset_index()
     
     treatments=[]    

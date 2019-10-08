@@ -19,7 +19,9 @@ import numpy as np
 
 
 def main():    
-    data=load_bluebook_data(1988,2008)
+    sample_startdate=datetime.datetime(1989, 7, 1)
+    sample_enddate=datetime.datetime(2006, 2, 1)
+    data=load_bluebook_data(sample_startdate,sample_enddate)
     create_totstat(data,'tab_sumstats_menu')
     
 def create_totstat(data,name):
@@ -60,10 +62,10 @@ def create_table_df(data,name):
         f.write(r"\end{tabular}")
 
     
-def load_bluebook_data(startyear,endyear):
+def load_bluebook_data(sample_startdate,sample_enddate):
     data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
-    data=data[(data['year']>=startyear) & (data['year']<=endyear)]
+    data=data[(data['start_date']>=sample_startdate) & (data['start_date']<=sample_enddate)]
     data=data.reset_index()
     
     treatments=[]    
