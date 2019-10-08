@@ -2,7 +2,11 @@ import pandas as pd
 import numpy as np
 import pprint
 def main():
-    raw()
+    
+    sample_startdate=datetime.datetime(1989, 7, 1)
+    sample_enddate=datetime.datetime(2006, 2, 1)
+   
+    raw(sample_startdate,sample_enddate)
     #linearity()
     #symmetry()
 def linearity():
@@ -77,8 +81,8 @@ def symmetry():
     #print(new_df[new_df.perc_group=="0,25,50"])
     decisions = set(targets['decision'])
     for decision in decisions:
-        #targets[str(decision)] = targets['decision']
-        targets[str(decision)] = targets['decision'].apply(lambda x:1 if round_quarter(x)==decision else 0)
+        targets[str(decision)] = targets['decision']
+    #    targets[str(decision)] = targets['decision'].apply(lambda x:1 if round_quarter(x)==decision else 0)
     columns = [str(x) for x in decisions]
     columns = columns+['date','decision']
     new_df = pd.merge(left=new_df,right=targets,on="date")
@@ -88,8 +92,8 @@ def symmetry():
     lat_df = new_df[group_cols].groupby("perc_group").sum()
 
     #print(lat_df)
-    lat_df.to_latex("../output/symetry_percentage_group_counts.tex")
-def raw():
+    lat_df.to_latex("../output/symmetry_percentage_group_counts.tex")
+def raw(sample_startdate,sample_enddate):
     df = pd.read_csv("../../output/monthly_treatment_counts.csv")
     df = df[df.date!="0"]
     cols = ['d_m075','d_m050','d_m025','d_0','d_025','d_050','d_075']
@@ -114,7 +118,10 @@ def raw():
         new_df.loc[i, 'perc_group'] = bucket_str
     targets = pd.read_csv("../../output/fed_targets_with_alternatives.csv")[[
         'date', 'decision']]
-    targets.loc[168, 'decision'] = -.5
+    
+    targets['newdate']=pd.to_datetime(targets['date'])
+    targets=targets[(targets['newdate']>=sample_startdate) & (targets['newdate']<=sample_enddate)]
+    targets=targets[targets['newdate']!=datetime.datetime(2003, 9, 15)]
     decisions = set(targets['decision'])
     group_cols = []
     for decision in decisions:
@@ -127,6 +134,8 @@ def raw():
     lat_df = new_df.groupby("perc_group")[columns].sum()
     lat_df = lat_df.astype(int).reset_index().rename({"perc_group":"Menu"})
     #print(lat_df)
+    lat_df.rename(columns={'perc_group':'Policy Options'},inplace=True)
+    lat_df.rename(columns={'count':'Count'},inplace=True)
     lat_df.to_latex("../../output/overleaf_files/percentage_group_counts.tex",index=False)
 
 
