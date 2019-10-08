@@ -1,14 +1,17 @@
 import pandas as pd
 import numpy as np
+import datetime
 def main():
     pd.options.display.max_rows=10000
     start_year = 1987
+    end_date=datetime.datetime(2006, 2, 1)
     dates = pd.read_csv("../../../../derivation/python/output/meeting_derived_file.csv")
     rates = pd.read_excel("../../../../collection/python/data/FRED_DFEDTAR.xls", skiprows=10)
     rates.columns = ['date', 'dfedtar']
     rates['shift'] = rates['dfedtar'].shift(1)
     rates['date'] = pd.to_datetime(rates['date'])
     rates = rates[rates.date.dt.year>start_year]
+    rates = rates[rates.date<end_date]    
     rates['change'] = rates['shift'] != rates['dfedtar']
     dates = dates[['end_date', 'event_type']]
     dates['date'] = pd.to_datetime(dates['end_date'])
