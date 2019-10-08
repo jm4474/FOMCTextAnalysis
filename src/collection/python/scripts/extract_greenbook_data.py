@@ -13,6 +13,7 @@ def extract_greenbook_data():
     if os.path.exists(greenbook_path):
         files = os.listdir(greenbook_path)
         for filename in files:
+            print(filename)
             all_projections.extend(extract_variable_forecasts(greenbook_path+filename))
     write_to_csv(all_projections)
 
@@ -46,5 +47,6 @@ def write_to_csv(projections):
         writer.writeheader()
         for projection in projections:
             writer.writerow(projection)
-if __name__ == "main":
+
+if __name__ == "__main__":
     extract_greenbook_data()

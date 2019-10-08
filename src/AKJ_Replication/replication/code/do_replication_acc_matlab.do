@@ -1,6 +1,9 @@
+* Author: Oliver Giesecke
+
+	* set path
 cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/AKJ_Replication/replication/code"
 
-*** Merge datasets
+	* merge original datasets
 import excel using ../../original_code_data/JBES_OprobitSTATA_FINAL/data_guido/Macro_OPF2CRawDataPScoreVariablesStart198908End201012version3Final.xls,clear first
 rename Date date
 tempfile propscore
@@ -13,7 +16,7 @@ drop month day year
 
 merge 1:1 date using `propscore',nogenerate 
 
-	* Export dataset
+	* export dataset
 save ../data/data_replication,replace
 
 ********************************************************************************
@@ -31,13 +34,6 @@ date_m <= monthly("07/2005","MY")
 replace d_sample2 =1 if monthly("07/1989","MY")<date_m & ///
 date_m <= monthly("12/2008","MY")
 
-/*
-	* Check the target rate in AKJ and our own.
-merge 1:1 date_m using "/Users/olivergiesecke/Dropbox/MPCounterfactual/src//analysis/stata/data/extract_target"
-drop if _merge != 3
-drop _merge
-twoway scatter r lag_dfedtar date_m if d_sample1
-*/
 
 global covariates "DEAJKold PCEH PCEH1 UNRATE UNRATE1  r LastChange FOMCMeetings LastCFOMC Scale  DY2K D911 month2 month3 month4 month5 month6 month7 month8 month9 month10 month11 month12"
 
