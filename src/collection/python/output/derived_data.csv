@@ -295,7 +295,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 1950,1950-11-27,1950-11-27,Meeting,Record of Policy Actions,180 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomcropa19501127.pdf,Record of Policy Actions,Meeting Summary
 1950,1950-11-27,1950-11-27,Meeting,Historical Minutes,650 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChistmin19501127.pdf,Historical Minutes,Meeting Summary
 1950,1950-11-27,1950-11-27,Meeting,"Intermeeting Executive Committee Minutes:November 17, 1950",512 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChminec119501117.pdf,Intermeeting Executive Committee Minutes,Meeting Summary
-1950,1950-11-27,1950-11-27,Meeting,"Intermeeting Executive Committee Minutes:November 27, 1950",512 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChminec119501117.pdf,Intermeeting Executive Committee Minutes,Meeting Summary
+1950,1950-11-27,1950-11-27,Meeting,"Intermeeting Executive Committee Minutes:November 27, 1950",132 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChminec19501127.pdf,Intermeeting Executive Committee Minutes,Meeting Summary
 1951,1951-01-31,1951-01-31,Meeting,Record of Policy Actions,200 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomcropa19510131.pdf,Record of Policy Actions,Meeting Summary
 1951,1951-01-31,1951-01-31,Meeting,Historical Minutes,1.56 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChistmin19510131.pdf,Historical Minutes,Meeting Summary
 1951,1951-01-31,1951-01-31,Meeting,"Intermeeting Executive Committee Minutes:December 27, 1950",264 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMChminec119501227.pdf,Intermeeting Executive Committee Minutes,Meeting Summary
@@ -4095,6 +4095,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 1998,1998-06-30,1998-07-01,Meeting,Beige Book:PDF,2.09 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19980701beige19980617.pdf,Beige Book,Economic Information
 1998,1998-06-30,1998-07-01,Meeting,Beige Book:HTML,,HTML,https://www.federalreserve.gov/fomc/beigebook/1998/19980617/default.htm,Beige Book,Economic Information
 1998,1998-06-30,1998-07-01,Meeting,Greenbook:Part 1,2.14 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19980701gbpt119980624.pdf,Greenbook,Economic Information
+1998,1998-06-30,1998-07-01,Meeting,Greenbook:Part 2,4.32 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19980701gbpt219980624.pdf,Greenbook,Economic Information
 1998,1998-06-30,1998-07-01,Meeting,Greenbook:Supplement,391 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19980701gbsup19980626.pdf,Greenbook,Economic Information
 1998,1998-06-30,1998-07-01,Meeting,Bluebook,1.4 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19980701bluebook19980626.pdf,Bluebook,Economic Information
 1998,1998-06-30,1998-07-01,Meeting,Agenda,41 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMC19980701Agenda.pdf,Agenda,Agenda
@@ -4149,6 +4150,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 1999,1999-02-02,1999-02-03,Meeting,Beige Book:PDF,1.9 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19990203beige19990120.pdf,Beige Book,Economic Information
 1999,1999-02-02,1999-02-03,Meeting,Beige Book:HTML,,HTML,https://www.federalreserve.gov/fomc/beigebook/1999/19990120/default.htm,Beige Book,Economic Information
 1999,1999-02-02,1999-02-03,Meeting,Greenbook:Part 1,2.17 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19990203gbpt119990128.pdf,Greenbook,Economic Information
+1999,1999-02-02,1999-02-03,Meeting,Greenbook:Part 2,4.29 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19990203gbpt219990128.pdf,Greenbook,Economic Information
 1999,1999-02-02,1999-02-03,Meeting,Greenbook:Supplement,343 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19990203gbsup19990129.pdf,Greenbook,Economic Information
 1999,1999-02-02,1999-02-03,Meeting,Bluebook,1.65 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19990203bluebook19990129.pdf,Bluebook,Economic Information
 1999,1999-02-02,1999-02-03,Meeting,Agenda,68 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMC19990203Agenda.pdf,Agenda,Agenda
@@ -4201,6 +4203,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 1999,1999-10-05,1999-10-05,Meeting,Beige Book:PDF,2.05 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991005beige19990922.pdf,Beige Book,Economic Information
 1999,1999-10-05,1999-10-05,Meeting,Beige Book:HTML,,HTML,https://www.federalreserve.gov/fomc/beigebook/1999/19990922/default.htm,Beige Book,Economic Information
 1999,1999-10-05,1999-10-05,Meeting,Greenbook:Part 1,2.16 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991005gbpt119990929.pdf,Greenbook,Economic Information
+1999,1999-10-05,1999-10-05,Meeting,Greenbook:Part 2,4.32 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991005gbpt219990929.pdf,Greenbook,Economic Information
 1999,1999-10-05,1999-10-05,Meeting,Greenbook:Supplement,626 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991005gbsup19991001.pdf,Greenbook,Economic Information
 1999,1999-10-05,1999-10-05,Meeting,Bluebook,850 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991005bluebook19991001.pdf,Bluebook,Economic Information
 1999,1999-10-05,1999-10-05,Meeting,Agenda,24 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMC19991005Agenda.pdf,Agenda,Agenda
@@ -4211,6 +4214,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 1999,1999-11-16,1999-11-16,Meeting,Beige Book:PDF,2 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991116beige19991103.pdf,Beige Book,Economic Information
 1999,1999-11-16,1999-11-16,Meeting,Beige Book:HTML,,HTML,https://www.federalreserve.gov/fomc/beigebook/1999/19991103/default.htm,Beige Book,Economic Information
 1999,1999-11-16,1999-11-16,Meeting,Greenbook:Part 1,2.24 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991116gbpt119991110.pdf,Greenbook,Economic Information
+1999,1999-11-16,1999-11-16,Meeting,Greenbook:Part 2,4.75 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991116gbpt219991110.pdf,Greenbook,Economic Information
 1999,1999-11-16,1999-11-16,Meeting,Greenbook:Supplement,399 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991116gbsup19991115.pdf,Greenbook,Economic Information
 1999,1999-11-16,1999-11-16,Meeting,Bluebook,914 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc19991116bluebook19991112.pdf,Bluebook,Economic Information
 1999,1999-11-16,1999-11-16,Meeting,Agenda,27 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMC19991116Agenda.pdf,Agenda,Agenda
@@ -4232,6 +4236,7 @@ year,start_date,end_date,event_type,file_name,file_size,file_type,link,grouping,
 2000,2000-02-01,2000-02-02,Meeting,Beige Book:PDF,2.05 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc20000202beige20000119.pdf,Beige Book,Economic Information
 2000,2000-02-01,2000-02-02,Meeting,Beige Book:HTML,,HTML,https://www.federalreserve.gov/fomc/beigebook/2000/20000119/default.htm,Beige Book,Economic Information
 2000,2000-02-01,2000-02-02,Meeting,Greenbook:Part 1,2.04 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc20000202gbpt120000127.pdf,Greenbook,Economic Information
+2000,2000-02-01,2000-02-02,Meeting,Greenbook:Part 2,4.41 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc20000202gbpt220000127.pdf,Greenbook,Economic Information
 2000,2000-02-01,2000-02-02,Meeting,Greenbook:Supplement,389 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc20000202gbsup20000128.pdf,Greenbook,Economic Information
 2000,2000-02-01,2000-02-02,Meeting,Bluebook,1.91 MB,PDF,https://www.federalreserve.gov/monetarypolicy/files/fomc20000202bluebook20000128.pdf,Bluebook,Economic Information
 2000,2000-02-01,2000-02-02,Meeting,Agenda,67 KB,PDF,https://www.federalreserve.gov/monetarypolicy/files/FOMC20000202Agenda.pdf,Agenda,Agenda
