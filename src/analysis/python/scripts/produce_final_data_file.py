@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Author Anand Chitale
-Produces a final derived file containing all information required for data preperation
+Produces a final derived file containing all information required for data preparation
 """
 
 import pandas as pd

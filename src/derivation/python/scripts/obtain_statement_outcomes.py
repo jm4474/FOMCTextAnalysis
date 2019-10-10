@@ -20,7 +20,7 @@ def main():
 
 
 def do_cleaning(data):
-    data.sort_values("meeting_start_date",inplace=True)
+    data.sort_values("end_date",inplace=True)
     
     total_entries=[]
     for index, row in data.iterrows():
@@ -28,7 +28,7 @@ def do_cleaning(data):
         statement=row['file_text']
         statement=statement.replace("\n"," ")
         
-        entry={"meeting_start_date":row['meeting_start_date']}
+        entry={"meeting_end_date":row['end_date']}
         entry.update({"release_date":row['release_date']})
         entry.update({"statement":statement})
         
@@ -76,7 +76,7 @@ def do_cleaning(data):
         output["policy_action"].loc[i]=finalaction
         
     
-    final=output[['meeting_start_date','release_date','pre_target','post_target','policy_change','policy_action','statement']]
+    final=output[['meeting_end_date','release_date','pre_target','post_target','policy_change','policy_action','statement']]
     return final
 
 
