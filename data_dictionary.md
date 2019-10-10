@@ -19,8 +19,7 @@
 |  15 | TRY_3M                    | Value of treasury bonds with three month maturity                                   |
 |  16 | TRY_2Y                    | Value of treasury bonds with two year maturity                                      |
 |  17 | TRY_10Y                   | Value of treasury bonds with two year maturity                                      |
-|  18 | FF_TAR                    | Value of federal funds target rate                                                  |
-|  19 | date_y                    | nan                                                                                 |
+|  18 | FF_TAR                    | Value of federal funds target rate                                                      
 |  20 | d_menu_dec                | Dummy for occurrence of decreased fed target option in policy menu                  |
 |  21 | d_menu_unc                | Dummy for occurrence of unchanged fed target option in policy menu                  |
 |  22 | d_menu_inc                | Dummy for occurrence of increased fed target option in policy menu                  |
