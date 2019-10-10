@@ -39,12 +39,12 @@ def merge_statement(cur_df):
     cur_df = cur_df.drop_duplicates(subset="start_date")
     cur_df = cur_df[['start_date','end_date','event_type']]
     #print(len(cur_df))
-    statement_df = statement_df[['meeting_start_date','policy_change','policy_action']]
+    statement_df = statement_df[['meeting_end_date','policy_change','policy_action']]
     statement_df = statement_df.add_prefix("statement_")
-    statement_df.rename(columns={'statement_meeting_start_date':'start_date'},inplace=True)
+    statement_df.rename(columns={'statement_meeting_end_date':'end_date'},inplace=True)
     #print(statement_df)
     assert(len(statement_df)<len(cur_df))
-    merge_statement = cur_df.merge(statement_df,how="left",on="start_date",indicator=True)
+    merge_statement = cur_df.merge(statement_df,how="left",on="end_date",indicator=True)
     # OG: Indicator added. It indicates where statement is available despite extraction missing
     merge_statement.rename(columns={"_merge":"d_statement"},inplace=True)
     merge_statement['d_statement'].replace({'both':True,'left_only':False},inplace=True)

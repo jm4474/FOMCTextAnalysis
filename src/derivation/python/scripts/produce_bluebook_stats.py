@@ -1,4 +1,4 @@
- """
+"""
 Purpose: Outputs the statistics of the bluebook alternatives
 Status: Draft
 @author: olivergiesecke
@@ -21,7 +21,6 @@ from gensim.models.phrases import Phrases, Phraser
 # spacy for lemmatization
 from distutils.core import setup
 from Cython.Build import cythonize
-import spacy
 from wordcloud import WordCloud
 import numpy as np
 
