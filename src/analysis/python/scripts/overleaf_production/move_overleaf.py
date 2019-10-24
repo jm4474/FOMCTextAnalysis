@@ -52,8 +52,8 @@ if answer==True:
     
 answer=query_yes_no("Push all the files to the Overleaf directory?",None)
 if answer==True:
-    os.system('cp  ../data/overleaf_manual_files/* '+destination )
-    os.system('cp  ../output/overleaf_files/* '+destination )
+    os.system('cp  ../../data/overleaf_manual_files/* '+destination )
+    os.system('cp  ../../output/overleaf_files/* '+destination )
     print('Files pushed to Overleaf')
 
     
