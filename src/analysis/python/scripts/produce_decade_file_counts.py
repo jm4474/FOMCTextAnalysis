@@ -1,6 +1,6 @@
 import pandas as pd
 def main():
-    df = pd.read_csv("../../../../collection/python/output/derived_data.csv")
+    df = pd.read_csv("../../../collection/python/output/derived_data.csv")
     df['date'] = pd.to_datetime(df['end_date'])
 
     df['decade'] = df['date'].dt.year//10*10
@@ -33,7 +33,7 @@ def main():
                "\\shortstack{2010-\\\\2013}",
                "Total"]
     #grouped_counts = grouped_counts.rename(columns=columns)
-    grouped_counts.to_latex("../../output/overleaf_files/decade_file_counts.tex",index=False,header=headers,escape=False)
+    grouped_counts.to_latex("../output/overleaf_files/decade_file_counts.tex",index=False,header=headers,escape=False)
 
 
 if __name__ == "__main__":

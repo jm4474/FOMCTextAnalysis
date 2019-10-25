@@ -21,7 +21,7 @@ def moving_average():
         df['rolling_average_ind_pro'] = df['INDPRO_PC1'].rolling(window=period*12).mean()
 
         df['l1_ld_inflation_yearly'] = df['l1_ld_inflation_yearly']-df['rolling_average_inflation']
-        df['lagged_ind_pro'] = s_df['INDPRO_PC1'].shift(1)
+        df['lagged_ind_pro'] = df['INDPRO_PC1'].shift(1)
         s_df = df[ (df['d_meeting'] == 1)]
 
         s_df = s_df[s_df.d_greenspan==True]
@@ -34,8 +34,8 @@ def moving_average():
         produce_colored_outcome_and_nte_graph(s_df,additions)
         produce_outcome_graph(s_df,additions)
         produce_ne_nt_graphs(s_df,additions)
-        print(s_df['INDPRO_PC1'].mean())
-        print(s_df[['date_m','INDPRO_PC1','l1_ld_inflation_yearly','rolling_average_inflation','lagged_reduced_ind_pro']])
+        #print(s_df['INDPRO_PC1'].mean())
+        #print(s_df[['date_m','INDPRO_PC1','l1_ld_inflation_yearly','rolling_average_inflation','lagged_reduced_ind_pro']])
         s_df.to_csv("../output/conditions_outcomes/ind_pro_and_inflation_ne_nt_{}.csv".format(additions))
 def produce_ne_nt_graphs(s_df,additions):
     fig = plt.figure()
@@ -77,7 +77,7 @@ def produce_ne_nt_graphs(s_df,additions):
     plt.axvline()
     plt.legend()
     plt.title("Outcome plotted by conditions and menu")
-    plt.show()
+    #plt.show()
     #fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_ne_nt_{}.png".format(additions),dpi=600)
 def produce_outcome_graph(s_df,additions):
     e_df = s_df[s_df.etu_outcome == -1]
@@ -112,7 +112,7 @@ def produce_outcome_graph(s_df,additions):
     plt.axvline()
     plt.legend()
     plt.title("Outcomes plotted by inflation and industrial production")
-    plt.show()
+    #plt.show()
     #fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_outcomes_{}.png".format(additions),dpi=600)
 def produce_colored_outcome_and_nte_graph(s_df,additions):
     nt_df = s_df[s_df.d_menu_adj_inc!=1]
@@ -163,8 +163,8 @@ def produce_colored_outcome_and_nte_graph(s_df,additions):
     plt.axhline()
     plt.axvline()
     plt.legend()
-    plt.title("Outcome plotted by conditions and menu")
-    plt.show()
+    #plt.title("Outcome plotted by conditions and menu")
+    #plt.show()
     #fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_ne_nt_{}.png".format(additions),dpi=600)
 def inf_and_unemp():
     df = pd.read_csv("../output/final_data_file.csv")
@@ -191,7 +191,7 @@ def inf_and_unemp():
     plt.xlabel("lagged unemployment")
     plt.ylabel("lagged inflation")
     plt.legend()
-    plt.show()
+    #plt.show()
 def nrou():
     df = pd.read_csv("../output/final_data_file.csv")
     nrou_df = pd.read_csv("../data/NROU.csv")
@@ -225,7 +225,7 @@ def nrou():
     plt.xlabel("lagged unemployment")
     plt.ylabel("lagged inflation")
     plt.legend()
-    plt.show()
+    #plt.show()
 
 def ind_pro():
     df = pd.read_csv("../output/final_data_file.csv")
@@ -276,7 +276,7 @@ def ind_pro():
     plt.axvline()
     plt.legend()
     plt.title("Outcomes plotted by inflation and industrial production")
-    plt.show()
+    #plt.show()
     fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_outcomes.png",
         loc='upper right', )
 
@@ -347,7 +347,7 @@ def nt_and_ne():
     plt.axvline()
     plt.legend()
     plt.title("Outcome plotted by conditions and menu")
-    plt.show()
+    #plt.show()
     fig.savefig("../output/conditions_outcomes/ind_pro_and_inflation_ne_nt.png",dpi=600)
 
 

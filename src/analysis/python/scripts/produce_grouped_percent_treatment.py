@@ -11,7 +11,7 @@ def main():
     #linearity()
     #symmetry()
 def linearity():
-    df = pd.read_csv("../../output/monthly_treatment_counts.csv")
+    df = pd.read_csv("../output/monthly_treatment_counts.csv")
     df = df[df.date!="0"]
     cols = ['d_m025', 'd_0', 'd_025']
     df['d_025'] = (df["d_050"] + df["d_075"]+df['d_025']).astype(bool).astype(int)
@@ -95,7 +95,7 @@ def symmetry():
     #print(lat_df)
     lat_df.to_latex("../output/symmetry_percentage_group_counts.tex")
 def raw(sample_startdate,sample_enddate):
-    df = pd.read_csv("../../output/monthly_treatment_counts.csv")
+    df = pd.read_csv("../output/monthly_treatment_counts.csv")
     df = df[df.date!="0"]
     cols = ['d_m075','d_m050','d_m025','d_0','d_025','d_050','d_075']
     #df['d_025'] = (df["d_050"] + df["d_075"]+df['d_025']).astype(bool).astype(int)
@@ -117,7 +117,7 @@ def raw(sample_startdate,sample_enddate):
                 bucket.add(mappings[col])
         bucket_str = ",".join(sorted(list(bucket)))
         new_df.loc[i, 'perc_group'] = bucket_str
-    targets = pd.read_csv("../../output/fed_targets_with_alternatives.csv")[[
+    targets = pd.read_csv("../output/fed_targets_with_alternatives.csv")[[
         'date', 'decision']]
     
     targets['newdate']=pd.to_datetime(targets['date'])
@@ -129,7 +129,7 @@ def raw(sample_startdate,sample_enddate):
         targets[str(decision)] = targets['decision']==decision
         group_cols.append(decision)
     new_df = pd.merge(left=new_df,right=targets,on="date")
-    new_df.to_csv("../../output/grouped_percent_treatments_no_round.csv")
+    new_df.to_csv("../output/grouped_percent_treatments_no_round.csv")
     new_df['count'] = 1
     columns = ['date','perc_group','count']+[str(x) for x in sorted(group_cols)]
     lat_df = new_df.groupby("perc_group")[columns].sum()
@@ -137,7 +137,7 @@ def raw(sample_startdate,sample_enddate):
     #print(lat_df)
     lat_df.rename(columns={'perc_group':'Policy Options'},inplace=True)
     lat_df.rename(columns={'count':'Count'},inplace=True)
-    lat_df.to_latex("../../output/overleaf_files/percentage_group_counts.tex",index=False)
+    lat_df.to_latex("../output/overleaf_files/percentage_group_counts.tex",index=False)
 
 
 def round_quarter(val):

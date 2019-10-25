@@ -1,3 +1,16 @@
+echo "Executing Analysis..."
 python extract_fed_targets_with_alternatives.py
-python ord_prob_full.py
-python produce_final_data_file.py
+python generate_monthly_treatment_counts.py
+python generate_final_data_file.py
+python produce_news_stats.py
+python produce_bb_size_sumstats.py
+python produce_dec_under_conditions.py
+python produce_decade_file_counts.py
+python produce_federal_funds_graphs.py
+python produce_grouped_percent_treatment.py
+python produce_rate_change_byevent.py
+python produce_rate_change_source.py
+python produce_sumstats_bb_options.py
+python produce_sumstats_menu.py
+python produce_target_and_alternative_graph.py
+python produce_statement_availability.py

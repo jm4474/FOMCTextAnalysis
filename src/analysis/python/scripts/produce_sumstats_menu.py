@@ -13,6 +13,7 @@ import re
 import os
 import matplotlib.pyplot as plt
 import numpy as np
+import datetime
 
 
 ###############################################################################
@@ -44,7 +45,7 @@ def create_table_df(data,name):
     columnheaders=list(data.columns)
     numbercolumns=len(columnheaders)
     
-    with open("../../output/overleaf_files/"+name+".tex", "w") as f:
+    with open("../output/overleaf_files/"+name+".tex", "w") as f:
         f.write(r"\begin{tabular}{"+"l" + "".join("c" * (numbercolumns-1)) + "}\n")
         f.write("\\hline\\hline \n")
         f.write("\\addlinespace"+" \n")
@@ -63,7 +64,7 @@ def create_table_df(data,name):
 
     
 def load_bluebook_data(sample_startdate,sample_enddate):
-    data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
+    data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
     data=data[(data['start_date']>=sample_startdate) & (data['start_date']<=sample_enddate)]
     data=data.reset_index()
