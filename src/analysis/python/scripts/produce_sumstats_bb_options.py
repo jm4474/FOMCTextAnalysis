@@ -49,7 +49,7 @@ def create_table_df(data,name):
     columnheaders=list(data.columns)
     numbercolumns=len(columnheaders)
     
-    with open("../../output/overleaf_files/"+name+".tex", "w") as f:
+    with open("../output/overleaf_files/"+name+".tex", "w") as f:
         f.write(r"\begin{tabular}{"+"l" + "".join("c" * (numbercolumns-1)) + "}\n")
         f.write("\\hline\\hline \n")
         f.write("\\addlinespace"+" \n")
@@ -68,7 +68,7 @@ def create_table_df(data,name):
 
 
 def construct_dataset(startyear,endyear):
-    ffr=pd.read_excel("../../../../collection/python/data/FRED_DFEDTAR.xls",skiprows=10)
+    ffr=pd.read_excel("../../../collection/python/data/FRED_DFEDTAR.xls",skiprows=10)
     ffr.rename(columns={"observation_date":"date","DFEDTAR":"ffrtarget"},inplace=True)
     ffr['year']=ffr['date'].apply(lambda x: x.year)
     ffr=ffr[(ffr['year']>=startyear) & (ffr['year']<=endyear)]
@@ -94,11 +94,11 @@ def plot_target(dataffr):
         ax.axvline(x=pd.to_datetime(datestring), color='gray', linestyle='--')
     
     plt.legend(['Federal Funds Target'],frameon=False)
-    plt.savefig('../../output/fig_fed_target.png', dpi=300,bbox_inches='tight')
+    plt.savefig('../output/fig_fed_target.png', dpi=300,bbox_inches='tight')
     #print('fig_fed_target.png is written')
     
 def load_bluebook_data(startyear,endyear):
-    data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
+    data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
     data=data[(data['year']>=startyear) & (data['year']<=endyear)]
     data=data.reset_index()
