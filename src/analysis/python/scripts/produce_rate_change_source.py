@@ -5,8 +5,8 @@ def main():
     pd.options.display.max_rows=10000
     start_date = datetime.datetime(1989, 7, 1)
     end_date=datetime.datetime(2006, 2, 1)
-    dates = pd.read_csv("../../../../derivation/python/output/meeting_derived_file.csv")
-    rates = pd.read_excel("../../../../collection/python/data/FRED_DFEDTAR.xls", skiprows=10)
+    dates = pd.read_csv("../../../derivation/python/output/meeting_derived_file.csv")
+    rates = pd.read_excel("../../../collection/python/data/FRED_DFEDTAR.xls", skiprows=10)
     rates.columns = ['date', 'dfedtar']
     rates['shift'] = rates['dfedtar'].shift(1)
     rates['date'] = pd.to_datetime(rates['date'])
@@ -106,7 +106,7 @@ def main():
     output_text = output_text.replace("Not Observed","\\hline Not Observed",1)\
         .replace("All","\\hline\\hline All",1)
     #print(output_text)
-    with open("../../output/overleaf_files/rate_change_sources.tex",'w+') as f:
+    with open("../output/overleaf_files/rate_change_sources.tex",'w+') as f:
         f.write(output_text)
 
 
