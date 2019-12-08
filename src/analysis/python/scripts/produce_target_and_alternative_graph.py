@@ -36,7 +36,7 @@ def plot_target(dataffr):
 
     ax.xaxis.set_major_locator(years)
     ax.xaxis.set_major_formatter(yearsFmt)
-    
+    plt.ylabel("Intended Fed Funds Rate (in \%)")
     #turning_points = ['1989-06-01', '1993-06-01', '1995-04-01', '2000-11-01', '2004-01-01', '2007-02-01']
     #for datestring in turning_points:
     #    ax.axvline(x=pd.to_datetime(datestring), color='gray', linestyle='--')
