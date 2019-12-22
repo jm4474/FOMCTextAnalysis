@@ -37,6 +37,8 @@ date_m <= monthly("12/2008","MY")
 
 global covariates "DEAJKold PCEH PCEH1 UNRATE UNRATE1  r LastChange FOMCMeetings LastCFOMC Scale  DY2K D911 month2 month3 month4 month5 month6 month7 month8 month9 month10 month11 month12"
 
+global covariatesbal "DEAJKold PCEH PCEH1 UNRATE UNRATE1  r LastChange"
+
 oprobit TargetChange $covariates if d_sample1==1
 
 margins if d_sample1==1 , dydx( DEAJKold PCEH PCEH1 UNRATE UNRATE1  r LastChange FOMCMeetings LastCFOMC) predict(pr outcome(.25)) post 
@@ -83,6 +85,31 @@ foreach var of varlist d1_ln_pceh d1_ln_ip d1_ffed d1_unrate{
 		gen l`lead'_`var'= `var'[_n+`lead']
 	}
 }
+
+
+preserve 
+keep if d_sample1
+tab d_policy_m050
+tab d_policy_m025
+tab d_policy_0
+tab d_policy_025
+tab d_policy_050
+
+
+	* Evaluation of covariate balance
+foreach var of varlist $covariatesbal{
+gen `var'bal_m050 = `var' * ( 12 / 192 )  / yhat_m050 if d_policy_m050
+gen `var'bal_m025 = `var' * ( 25 / 192 )  / yhat_m025 if d_policy_m025
+gen `var'bal_0 = `var' * ( 132 / 192 )  / yhat_0 if d_policy_0
+gen `var'bal_025 = `var' * ( 18 / 192 )  / yhat_025 if d_policy_025
+gen `var'bal_050 = `var' * ( 5 / 192 )  / yhat_050 if d_policy_050
+}
+
+keep *bal_*
+export delimited using ../data/covbal.csv
+
+restore
+
 
 	* Residualise the outcomes 
 foreach element in _m050 _m025 _0 _025 _050{
