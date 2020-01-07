@@ -6,7 +6,7 @@ def main():
     #date_partitions = [
     #                   [pd.to_datetime('1989-08-01')
     #                       ,pd.to_datetime('2008-12-31')]]
-    df = pd.read_csv("../../output/fed_targets_with_alternatives.csv")
+    df = pd.read_csv("../output/fed_targets_with_alternatives.csv")
     df = df[df.date != "2003-09-15"]
     df.loc[:,'date'] = pd.to_datetime(df.loc[:,'date'])
     '''

@@ -11,7 +11,8 @@ import pandas as pd
 import re
 import matplotlib.pyplot as plt
 import numpy as np
-from obtain_sumstats_bb_options import create_totstat, create_sumstat_byperiod
+import datetime
+from produce_sumstats_bb_options import create_totstat, create_sumstat_byperiod
 
 ###############################################################################
 
@@ -32,7 +33,7 @@ def main():
 
 
 def prepare_data(sample_startdate,sample_enddate):
-    data=pd.read_excel("../../data/bluebook_manual_data_online_WORKING.xlsx")
+    data=pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     data['year']=data['start_date'].apply(lambda x : x.year)
     data=data[(data['start_date']>=sample_startdate) & (data['start_date']<=sample_enddate)]
     data=data.reset_index()
@@ -144,7 +145,7 @@ def produce_graph(data,datestring):
     ax.set_ylim(-1,1)
     ax.axhline(color='gray',ls="--")
     ax.set_title(title)
-    plt.savefig('../../output/fig_policy_option_'+datestring+'.png', dpi=300,bbox_inches='tight')
+    plt.savefig('../output/fig_policy_option_'+datestring+'.png', dpi=300,bbox_inches='tight')
     
 if __name__ == "__main__":
    main()
