@@ -26,7 +26,7 @@ def get_speaker_statements():
         if doc_index%10 == 0:
             print("Working on producing interjections for doc #{} of ~{}".format(doc_index,len(documents)))
         #THIS METRIC FAILES FOR 59 out of 4857 occurances
-        interjections    = re.split('MR\. |MS\. |CHAIRMAN |VICE CHAIRMAN ', documents[doc_index])[1:] 
+        interjections    = re.split(' MR\. | MS\. | CHAIRMAN | VICE CHAIRMAN ', documents[doc_index])[1:] 
                     
         temp_df          = pd.DataFrame(columns=['Date','Speaker','content'],index=range(len(interjections)))          
                     #Temporary data frame
@@ -41,12 +41,25 @@ def get_speaker_statements():
             temp_df['content'].loc[j] = ''.join(interjection.split('.')[1:])
 
         parsed_text = pd.concat([parsed_text,temp_df],ignore_index=True)
+    parsed_text.to_csv("../../output/interjections.csv")
     
     speaker_statements = parsed_text.groupby(['Date','Speaker']).sum().reset_index()
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:len(x.split())==1)]
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:x.isalpha())]
-    #to_remove = ["[","]","?","(",")"]
-    #speaker_statements['Speaker'] = speaker_statements['Speaker'].apply(lambda x: "".join([c for c in x if c not in to_remove]))
+
+    #Speaker D. Lindsey. messes up our dataset 9 times, so we apply a manual adjustment.
+    speaker_statements["content"] = speaker_statements["content"].apply(lambda x: " ".join(str(x).split()[1:]) if str(x).split()[0]=="LINDSEY" else x)
+    speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
+
+    #Correct Typos
+    with open("../../data/speaker_typos.txt",'r') as f:
+        for line in f.readlines():
+            correct = line.split()[0]
+            errors = line.split()[1:]
+            for error in errors:
+                speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: correct if x==error else x)
+    
+
     speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
     speaker_statements.to_csv("../../output/speaker_data/speaker_corpus.csv")
     print("Completed generating speaker statements!")
@@ -57,7 +70,7 @@ def get_speaker_corps(speaker_statements):
     print("Number of speakers:{}".format(len(speakers)))
     count = 0
     for speaker in speakers:
-        print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
+        #print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
         speaker_df = speaker_statements[speaker_statements["Speaker"]==speaker]
         speaker_path = "{}/{}".format("../../output/speaker_data",speaker)
         if not os.path.exists(speaker_path):
