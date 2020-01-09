@@ -43,7 +43,6 @@ def get_speaker_statements():
         parsed_text = pd.concat([parsed_text,temp_df],ignore_index=True)
     parsed_text.to_csv("../../output/interjections.csv")
     
-    #This modification causes us to drop 217 out of 9417 speaker interjections, or 2%
     speaker_statements = parsed_text.groupby(['Date','Speaker']).sum().reset_index()
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:len(x.split())==1)]
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:x.isalpha())]
@@ -52,13 +51,13 @@ def get_speaker_statements():
     speaker_statements["content"] = speaker_statements["content"].apply(lambda x: " ".join(str(x).split()[1:]) if str(x).split()[0]=="LINDSEY" else x)
     speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
 
-    #Correct Typos, of which there are 18.
+    #Correct Typos
     with open("../../data/speaker_typos.txt",'r') as f:
         for line in f.readlines():
             correct = line.split()[0]
             errors = line.split()[1:]
             for error in errors:
-                speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: correct if x==error else x)
+                speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: correct if x=="error" else x)
     
 
     speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
@@ -71,7 +70,7 @@ def get_speaker_corps(speaker_statements):
     print("Number of speakers:{}".format(len(speakers)))
     count = 0
     for speaker in speakers:
-        print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
+        #print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
         speaker_df = speaker_statements[speaker_statements["Speaker"]==speaker]
         speaker_path = "{}/{}".format("../../output/speaker_data",speaker)
         if not os.path.exists(speaker_path):
