@@ -1,0 +1,106 @@
+a PAR 19 if members see sizable odds that the target funds rate has already been raised sufficiently to check inflationary pressures , the committee would presumably choose to forego a policy move at this meeting , as in alternative a .   with the real funds rate now well within the range of estimates of its equilibrium , it might be desirable to pause at this meeting before deciding whether to move to a position that could entail policy restraint .
+a PAR 19 given the lags in the effects of policy changes on the economy and the already substantial cumulative increase in the target funds rate , the committee may prefer to await further data to assess whether additional tightening steps would risk an undesirable overshooting .
+a PAR 19 indeed , given the deceleration in economic activity in the fourth quarter and the depressed level of longer - term interest rates , members may believe that the staff forecast is too optimistic about the prospects for continued solid growth .
+a PAR 19 moreover , the possibility that the saving rate might rise more rapidly toward historical norms , as discussed in an alternative simulation in the greenbook , may be of sufficient concern to the committee that it would require more evidence of inflationary pressures before firming policy further .
+a PAR 19 i fomc - restricted controlled ( fr ) page 27 of 42 in addition ,
+a PAR 19 if the committee preferred that the core pce inflation rate remain near 2 percent , rather than drop back to 1½ percent , the long - run scenarios discussed earlier would suggest no need to raise the funds rate above 4¼ percent this year .
+a PAR 20 the proposed wording of inflation concerns for alternative a , in row 3 of table 1 , is basically a reordering of the sentences employed in the last announcement .
+a PAR 20 the phrase regarding elevated energy prices and resource utilization is placed first to leave readers with the sense that such concerns have been somewhat assuaged by recent readings on core inflation and inflation expectations .
+a PAR 20 even if members believe that further tightening will likely be needed at some point , they may view those sentiments to be adequately communicated by the asymmetric risk assessment under alterative a.
+
+b PAR 15 although the proposed wording for alternative b suggests greater uncertainty about future policy moves , it continues to indicate that the risks are tilted toward the possibility of further policy firming .
+b PAR 15 it would state that “ some further policy firming may well be needed ” to keep risks in balance , replacing “ is likely to ” with “ may well ” in that phrase .
+b PAR 15 the proposed wording would also drop the word “ measured , ” as some may believe that the phrase may imply more than one future move .
+b PAR 15 the minutes of the december meeting likely helped prepare markets not to interpret the dropping of the word “ measured ” as a signal that the committee expected to move policy in larger increments going forward .
+b PAR 15 if the committee wanted to stress the role incoming data will play in its deliberations on further action , it may want to reverse the order of rows 4 and 5 and delete “ in any event .
+b PAR 15 ”   the wording in table 1 does not do so on the thought that the committee would prefer to make relatively few changes to the statement at this time .
+b PAR 15 some members may be uncomfortable with the language of table 1 either because they believe that further firming will be unnecessary or that the committee should get out of the business of signaling its policy intent .
+b PAR 15 in either case , it might be appropriate to strike row 4 and rely on a revised version of row 5 to underscore the uncertainties surrounding policy and the necessity of being responsive to economic data .
+b PAR 15 in particular , row 5 could class
+b PAR 15 i fomc - restricted controlled ( fr ) page 21 of 42 read ,
+b PAR 15 “ the committee will respond to changes in economic prospects as needed to foster the attainment of sustainable economic growth and price stability .
+b PAR 16 futures markets and surveys suggest that investors are sure of a 25 basis point policy firming at this meeting and place greater than even odds on another such move in march .
+b PAR 16 therefore , selection of this policy move coupled with the language of alternative b likely would not result in substantial changes in financial market prices .
+b PAR 16 short - term interest rates might edge lower and stocks could rally a bit as market participants strengthen their expectations that the tightening phase may be drawing to a close .
+b PAR 16 offsetting this effect somewhat , implied volatilities on options on money market futures may step up as the committee sends a less confident signal about its future action .
+
+c PAR 17 if the committee believes that appreciable further policy firming will likely be needed to address upside risks to inflation―which include the potential pass- through of higher prices of oil and other commodities and a lower foreign exchange value of the dollar―it may prefer to associate a ¼ percentage point increase in the target funds rate at this meeting with the language in alternative c .
+c PAR 17 a firmer tone might also seem appropriate in light of the longer - run scenarios discussed earlier .
+c PAR 17 to achieve a 1½ percent objective for core pce inflation , model - based optimal policy paths , along with several policy rules shown in charts 8 and 9 , point to a need to raise the funds rate above 4½ percent fairly soon.8   even if a target funds rate above 4½ percent needs to be reversed before too long , it might be required to offset near- term pressures on inflation .
+c PAR 17 in addition , the moderation in spending growth in the staff forecast depends in part on some cooling of house price appreciation , which is not yet a foregone conclusion , and projecting a more restrictive stance of policy may be appropriate until such a trend is better established .
+c PAR 17 8 chart 8 presents two new estimated rules , along with confidence bands reflecting uncertainty about the policy path obtained from model - based simulations of future economic shocks and on options quotes , as discussed in the box .
+c PAR 17 i fomc - restricted controlled ( fr ) page 22 of 42 new analysis of monetary policy rules
+c PAR 17 this bluebook introduces two new exhibits related to policy rules .
+c PAR 17 first , chart 8 depicts the implications of estimated policy rules , together with information from futures and options prices .
+c PAR 17 in the top left panel , the dashed line denotes the path implied by a rule that relates the federal funds rate to its own lagged values , to the current four - quarter average core pce inflation rate , and to the current and lagged output gap ( known as an outcome - based rule because it relies on observed macroeconomic variables ) .
+c PAR 17 this empirical specification was chosen using a formal statistical procedure that balances simplicity of the specification with goodness - of - fit over the sample period 1988q1 through 2005q4 .
+c PAR 17 dynamic simulation of the frb / us model was then used to determine the predicted funds rate path that this rule implies over the greenbook horizon.1 the chart also depicts the range of uncertainty for the outcome - based rule associated with the incidence of shocks that might occur over the forecast period .
+c PAR 17 for that purpose , stochastic simulations of the frb / us model were performed using the estimated distribution of shocks over the post-1987 period to every equation of the model , except the policy rule .
+c PAR 17 the dark green region shows the 70 percent confidence interval while the light green region denotes the 90 percent confidence interval .
+c PAR 17 the dotted line in the left panel portrays the path prescribed by a forecast - based rule , estimated using greenbook forecasts for the two - quarter - ahead four - quarter - average core pce inflation rate and the one - quarter - ahead and one - quarter lag of the output gap , along with two lags of the funds rate .
+c PAR 17 this specification was chosen by a procedure similar to that for the outcome - based rule .
+c PAR 17 relative to the outcome - based rule , this rule prescribes a path that is tighter by about ¼ percentage point during 2006 and easier by a similar amount during 2007.2 the right panel of chart 8 provides information from futures and options markets .
+c PAR 17 expectations for the federal funds rate derived from quotes on federal funds and eurodollar futures are shown as a dotted line in the right panel .
+c PAR 17 the expected funds rate has a mild humped shape over the next two years .
+c PAR 17 the confidence bands reflect uncertainty as computed from options prices .
+c PAR 17 note that financial markets have built in somewhat less uncertainty than is suggested by the stochastic simulations of the outcome - based rule .
+c PAR 17 finally , chart 9 reports on prescriptions from simple policy rules that have been included in bluebooks since january 2004 .   using dynamic simulations of the frb / us model , these rule prescriptions are now shown for the entire greenbook horizon .
+c PAR 17 with an inflation objective of 1½ percent , the baseline and aggressive taylor rules prescribe funds rate paths that are lower than the greenbook assumption , whereas the first - difference rule implies a markedly tighter path during 2007 .
+c PAR 17 1 further explanatory notes are given on the page following these charts .
+c PAR 17 2 confidence intervals for this rule are not available .
+c PAR 17 i fomc - restricted controlled ( fr ) page 23 of 42 chart 8 information from estimated policy rules and financial markets percent predicted values are based on the dynamic simulation of the frb / us model .
+c PAR 17 confidence bands , shown only for the outcome - based rule , are based on stochastic simulations of the frb / us model , where the shocks are randomly drawn from 1988 - 2004 set of model equation residuals .
+c PAR 17 expected funds rate path is based on fed funds and eurodollar futures quotes , and the confidence bands come from options on those futures .
+c PAR 17 actual funds rate and greenbook assumption outcome - based rule 70 percent confidence band 90 percent confidence band forecast - based rule percent actual funds rate and greenbook assumption market - based expectations 70 percent confidence band 90 percent confidence band
+c PAR 17 q4 estimated policy rules 70 percent confidence band 90 percent confidence band market expectations 70 percent confidence band 90 percent confidence band memo class
+c PAR 17 i fomc - restricted controlled ( fr ) page 24 of 42 chart 9 information from simple policy rules percent note : rules shown in chart
+c PAR 17 assume a core pce inflation objective of 1.5 percent .
+c PAR 17 predicted values are based on the dynamic simulation of the frb / us model .
+c PAR 17 expected funds rate path is based on fed funds and eurodollar futures quotes .
+c PAR 17 actual federal funds rate and greenbook assumption baseline taylor rule aggressive taylor rule first - difference rule market - based expectations derived from futures quotes q1 q2
+c PAR 17 simple policy rules baseline taylor rule aggressive taylor rule first - difference rule memo class
+c PAR 17 i fomc - restricted controlled ( fr ) page 25 of 42 policy rule charts : explanatory notes in all of the rules below
+c PAR 17 , it denotes the federal funds rate for quarter t , πt the staff estimate ( at quarter t ) of trailing four - quarter core pce inflation , ( yt – yt
+c PAR 17 the staff estimate of the output gap , πt+2|t and πt+3|t the staff ’s two- and three - quarter - ahead forecast of inflation , ( yt+1|t
+c PAR 17 the staff ’s one - quarter - ahead forecast of the output gap , π * policymakers ’ long - run objective for inflation , and
+c PAR 17 ( δyt+3|t – δyt+3|t * )
+c PAR 17 the staff ’s three - quarter - ahead forecast of four - quarter output growth less potential output growth .
+c PAR 17 data are real - time quarterly averages taken from the greenbook and staff memoranda closest to the middle of each quarter .
+c PAR 17 chart on estimated policy rules :   the outcome - based rule is chosen according to the bayesian information criterion over the sample period starting from 1988q1 .
+c PAR 17 this criterion chooses the specific lag structure for the policy rule .
+c PAR 17 the predicted values ( the dashed line in the left panel ) come from a dynamic simulation of this rule using the frb / us model , with add - factors to match the greenbook baseline .
+c PAR 17 the forecast - based rule differs from the outcome - based rule in that it also permits staff forecasts of inflation and the output gap to be among the explanatory variables .
+c PAR 17 its predicted values ( the dotted line in the left panel ) involve the greenbook extension due to its forward - looking feature .
+c PAR 17 chart on simple policy rules :   the predicted values of three simple rules are based on dynamic simulations of these rules using the frb / us model .
+c PAR 17 the predicted values of the first - difference rule involve the greenbook extension .
+c PAR 17 root - mean- square error rule specification
+c PAR 17 2005:4 2001:1- 2005:4 estimated policy rules 1 .
+c PAR 17 outcome - based rule it
+c PAR 17 = 0.27 + 1.14it-1 – 0.36it-2
+c PAR 17 – 0.40(yt-1 – yt-1 * ) 2 .
+c PAR 17 forecast - based rule it
+c PAR 17 = 0.24 + 1.14it-1
+c PAR 17 – 0.35it-2
+c PAR 17 + 0.31πt+2|t + 0.42(yt+1|t
+c PAR 17 – 0.23(yt-1 – yt-1 * ) simple policy rules 3 .
+c PAR 17 baseline taylor rule it
+c PAR 17 = 2 + πt +
+c PAR 17 0.5(πt – π * )
+c PAR 17 .95 a 1.01a 4 .
+c PAR 17 aggressive taylor rule it
+c PAR 17 = 2 + πt +
+c PAR 17 0.5(πt – π
+c PAR 17 + ( yt – yt
+c PAR 17 * )   .67a .61a 5 .
+c PAR 17 first - difference rule it =
+c PAR 17 it-1 + 0.5(πt+3|t
+c PAR 17 – δ yt+3|t
+c PAR 17 a rmse for rules with imposed coefficients is calculated setting π * = 1.5 .
+c PAR 17 i fomc - restricted controlled ( fr ) page 26 of 42 
+c PAR 18 under alternative c , the wording proposed for the inflation outlook , line 3 , would indicate slightly greater concern about the potential for “ increases in resource utilization as well as energy and other cost pressures ” to “ boost underlying inflation .
+c PAR 18 ” the assessment of risks could be quite similar to that announced following the december meeting , including a statement that “ some further measured policy firming is likely to be needed ” to maintain balanced risks to price stability and sustainable growth .
+c PAR 18 markets would probably see the language under alternative c as indicating a greater probability of future policy tightening than they had expected .
+c PAR 18 short- and intermediate - term interest rates would likely rise with the revisions to the market
+c PAR 18 ’s expected path for the funds rate .
+c PAR 18 the stock market might fall back a little , but longer- term interest rates and the foreign exchange value of the dollar probably would not change much .
+

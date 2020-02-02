@@ -1,0 +1,87 @@
+a SENT -- under alternative a , the committee leaves the federal funds rate unchanged at this meeting .
+a PAR 20 in contrast , the committee may believe that further policy tightening at this meeting is not necessary or desirable and that , at least for now , maintaining the current stance of policy is appropriate , as in alternative a .   as noted previously , the cumulative firming of policy to date has been significant , and the real federal funds rate is now well within the range of model - based estimates of its equilibrium value .
+a PAR 20 in these circumstances , the committee may wish to pause to obtain more information that would be useful in assessing whether further action will be necessary .
+a PAR 20 put differently , policy accommodation now appears to have been eliminated , and , with core inflation remaining contained — and perhaps believed likely to edge lower over time — despite sharp increases in energy and commodity prices , the committee may not feel a need to move from a roughly neutral posture to a restrictive stance .
+a PAR 20 that is the message of the simulation presented earlier :   if the equilibrium real rate is in the neighborhood of 2¾ percent , a 2 percent inflation goal could be achieved by holding the nominal funds rate at 4¾ percent .
+a PAR 20 indeed , estimated monetary policy rules imply that the existing stance of policy is about appropriate or even a little firmer than would be predicted by past committee behavior ( chart 8) .
+a PAR 20 model simulations using a number of simple policy rules also suggest that further tightening may not be required at this time ( chart 9 ) .
+a PAR 20 and even if members believe that further tightening could class i fomc - restricted controlled ( fr ) page 22 of 41 chart 8 information from estimated policy rules and financial markets percent actual and greenbook assumption outcome - based rule 70 percent confidence interval 90 percent confidence interval forecast - based rule estimated policy rules percent actual and greenbook assumption market - based expectations 70 percent confidence interval 90 percent confidence interval market expectations q2 q3 q4
+a PAR 20 q4 estimated policy rules 70 percent confidence interval 90 percent confidence interval market expectations 70 percent confidence interval 90 percent confidence interval memo class
+a PAR 20 i fomc - restricted controlled ( fr ) page 23 of 41 chart 9 policy paths under alternative inflation objectives percent actual and greenbook assumption baseline taylor rule aggressive taylor rule first - difference rule 1½ percent inflation objective percent actual and greenbook assumption baseline taylor rule aggressive taylor rule first - difference rule 2 percent inflation objective
+a PAR 20 simple policy rules baseline taylor rule aggressive taylor rule first - difference rule memo class
+a PAR 20 i fomc - restricted controlled ( fr ) page 24 of 41 policy rule charts : explanatory notes for the rules described below
+a PAR 20 , it denotes the federal funds rate for quarter t , while the explanatory variables include the staff ’s estimate of trailing four - quarter core pce inflation ( πt ) , its forecasts of inflation two and three quarters ahead
+a PAR 20 ( πt+2|t and πt+3|t ) , its assessment of the current output gap ( * t ty y− ) , its one - quarter - ahead forecast of the output gap (
+a PAR 20 * 1| 1|t t t ty y+
+a PAR 20 + − ) , its three - quarter - ahead forecast of annual average gdp growth relative to potential ( 4 4
+a PAR 20 * 3| 3|t t t ty y+ + δ − δ ) , and the assumed value of policymakers ’ long - run inflation objective
+a PAR 20 rule prescriptions are computed using dynamic simulations of the frb / us model , implemented as though the rule is followed starting at this fomc meeting .
+a PAR 20 this quarter
+a PAR 20 ’s prescription is a weighted average of the actual value of the federal funds rate thus far this quarter and the value obtained from the frb / us model simulations using the timing of this meeting within the quarter to determine the weights .
+a PAR 20 finally , for the forecast - based rule and the first - difference rule , it should be noted that prescriptions near the end of the greenbook horizon also depend on an extension of the greenbook baseline forecast .
+a PAR 20 estimated policy rules :
+a PAR 20 estimation is performed using real - time quarterly data taken from the greenbook and staff memoranda closest to the middle of each quarter .
+a PAR 20 the specific lag structure of the outcome - based rule is chosen according to the bayesian information criterion over the sample period starting from 1988q1 .
+a PAR 20 the forecast - based rule differs from the outcome - based rule in that it also permits staff forecasts of inflation and the output gap to be among the explanatory variables .
+a PAR 20 confidence intervals , shown only for the outcome - based rule , are based on stochastic simulations of the frb / us model , where the shocks are randomly drawn from the set of model equations residuals for the period 1986 - 2004 .
+a PAR 20 the following table indicates the specification of each rule and its root mean squared error ( rmse ) over the sample
+a PAR 20 1993:1 - 2005:4 .
+a PAR 20 outcome - based rule it =
+a PAR 20 0.27 + 1.14it-1 – 0.36it-2
+a PAR 20 + 0.32πt +
+a PAR 20 0.60 ( * t ty y− )
+a PAR 20 ( * 1 1 t ty y− −− )
+a PAR 20 forecast - based rule it
+a PAR 20 = 0.24 + 1.14it-1
+a PAR 20 – 0.35it-2
+a PAR 20 + 0.31πt+2|t
+a PAR 20 * 1| 1|t t t ty y+ + − )
+a PAR 20 ty y− −− )
+a PAR 20 market expectations :   the expected funds rate path is based on quotes from fed funds and eurodollar futures , and the confidence intervals are obtained from options on those futures .
+a PAR 20 simple policy rules :   the following table indicates the specification of each rule and its rmse over the sample 1993:1 - 2005:4 for two inflation objectives .
+a PAR 20 π*=2 baseline taylor rule it
+a PAR 20 = 2 + πt +
+a PAR 20 ( * t ty y− )
+a PAR 20 .99 .99 aggressive taylor rule it
+a PAR 20 = 2 + πt +
+a PAR 20 ( * t ty y− )
+a PAR 20 .63 first - difference rule it =
+a PAR 20 it-1 + 0.5(πt+3|t
+a PAR 20 + 0.5 ( 4 4
+a PAR 20 * 3| 3|t t t ty y+ + δ − δ )
+a PAR 20 i fomc - restricted controlled ( fr ) page 25 of 41 eventually prove necessary to address upside risks to inflation , they may see no urgency to implement such restraint .
+a PAR 20 such an assessment might be importantly influenced by members ’ regional knowledge of the housing situation .
+a PAR 20 with national data , particularly survey information , pointing to some cooling , the committee may put some weight on the “ housing slump ” alternative simulation in the greenbook , which suggests that if significant confidence effects accompany a drop in housing values , then considerably easier monetary policy would be warranted .
+a PAR 22 both the absence of policy action and the statement associated with alternative a would come as a considerable surprise to market participants .
+a PAR 22 short- term market rates would probably drop by about 25 basis points as market participants removed all but a small probability of near - term policy firming .
+a PAR 22 the effect on bond yields would depend in part on whether inflation expectations were class
+a PAR 22 i fomc - restricted controlled ( fr ) page 26 of 41 adversely affected by the lack of tightening at this meeting and the suggestion that policy could be on hold for some time .
+a PAR 22 if inflation expectations were unperturbed , bond yields most likely would decline , stock markets rally , and the foreign exchange value of the dollar weaken . money and debt forecasts 
+
+b SENT -- under alternative b , the target for the federal funds rate is raised another 25 basis points at this meeting , and the risk assessment suggests that the committee may pause in june .
+b PAR 14 under alternative b , the rationale paragraph could indicate that spending is likely to slow because of a cooling of the housing market and the restraint imparted by increases in energy prices and interest rates .
+b PAR 14 the committee could repeat its analysis in the march statement of recent factors affecting inflation , but then acknowledge that a slight rise in inflation expectations could also add to inflation pressures .
+b PAR 14 to treat its dual objectives symmetrically , row 3 includes the committee ’s expectation that core inflation will remain contained , just as there is forward - looking language on economic growth in the previous row .
+b PAR 14 in view of the additional quarter - point firming that would be implemented under this alternative , the risk assessment might be softened a little relative to that released after the last meeting by adding “ the committee judges that any additional firming is likely to be modest ” and adopting some of the language of the chairman ’s recent testimony :
+b PAR 14 the extent and timing of any such firming will depend importantly on the evolution of the economic outlook as implied by incoming information .
+b PAR 14 ”   inclusion of the reference to “ timing ” is intended to suggest that additional firming would not necessarily take place at the june meeting .
+b PAR 14 if the committee saw only a small probability that it would act again in june , it could tune the message by replacing the second sentence of row 4 with “
+b PAR 14 the committee judges that additional firming , if any , is likely to be modest .
+b PAR 14 in either case , the dependency class i fomc - restricted controlled ( fr ) page 19 of 41 of future policy actions on data could be underscored by essentially reiterating the final sentence from the march announcement .
+b PAR 15 investors seem sure of a 25 basis point hike in the federal funds rate at this meeting and see only about a one - in - three chance of a similar move in june .
+b PAR 15 the statement accompanying alternative b would likely maintain or slightly increase these odds .
+b PAR 15 market interest rates could back up a few basis points , and downward pressure on the dollar might be reduced a bit , at least for a time , and equity prices could decline .
+b SENT -- it could use essentially the same paragraph discussing inflation as that for alternative b , but retain the assertion that “ inflation expectations remain contained ” and emphasize the expectation that core inflation will remain “ well contained . ”   the risk assessment might be revised considerably from that employed at recent meetings .
+
+c SENT -- under alternative c , the target for the funds rate is raised 50 basis points and the risks are described as balanced without mention of additional policy action .
+c PAR 16 the sizable rise over the intermeeting period in long - term nominal interest rates ( which apparently included a significant pickup in compensation for expected inflation   , the weakening of the exchange value of the dollar , and the rise in some survey measures of inflation expectations could be read by members as evidence of an erosion in the public ’s confidence in the committee
+c PAR 16 ’s commitment to price stability .
+c PAR 16 if so , the combination of a half - point action at this meeting and the words presented in alternative c might be appealing .
+c PAR 16 with energy prices having risen sharply further in recent weeks , the committee could be concerned that elevated energy and commodity prices and relatively high levels of resource utilization may begin to leave a more distinct imprint on core inflation and inflation expectations .
+c PAR 16 moreover , members may believe that core inflation currently is already at or above the upper end of an acceptable range , inclining them to foster a steeper downward trajectory in inflation than that forecast in the greenbook .
+c PAR 16 in that regard , the alternative simulation provided earlier suggests that the nominal federal funds rate would need to reach 5¾ percent by year - end to foster a 1½ percent inflation goal over the next few years .
+c PAR 18 the policy action and statement associated with alternative c would catch market participants unawares .
+c PAR 18 real bond yields could jump up noticeably ; the rise in nominal yields would be somewhat less if inflation expectations declined — but that would depend on the extent to which investors took the action as an assertion of the committee ’s anti - inflation resolve .
+c PAR 18 the recent tendency toward weakness in the foreign exchange value of the dollar would likely be checked , and stock prices would decline .
+c PAR 18 given the size of the policy surprise , volatility , both actual and implied , could rise .
+

@@ -1,0 +1,76 @@
+a PAR 23 if members are particularly pessimistic about the growth outlook , or see the downside risks as especially large , then they may prefer to both ease 50 basis points and explicitly point to downside risks in order to maximize the scope for further near - term policy action , as envisioned in alternative a .
+a PAR 23 members might view the current configuration of asset prices and credit spreads as possibly presaging a sharp slowdown in growth or even a recession .
+a PAR 23 ( see box “ financial indicators of recession risk . ” )
+a PAR 23 the committee may be concerned that the housing correction could be more severe than anticipated by the staff , as explored in the “ greater housing correction ” alternative simulation in the greenbook .
+a PAR 23 members may also worry that a serious credit crunch could be emerging with economic consequences of the sort explored in the greenbook “ bank capital crunch ” scenario .
+a PAR 23 if asset - backed commercial paper programs draw even more heavily on bank backup liquidity lines and banks come to hold a large volume of leveraged loans and mortgages on their balance sheets , banks may tighten terms and standards for lending to households and businesses in order to conserve liquidity and balance sheet capacity .
+a PAR 23 continued market volatility or the emergence of news of losses could lead to solvency concerns about one or more major market participants , which would likely worsen counterparty credit concerns and interbank funding problems .
+a PAR 23 the committee may consider these class
+a PAR 23 i fomc - restricted controlled ( fr ) page 27 of 49 financial indicators of recession risk some financial market observers consider the slope of the treasury yield curve to be a useful predictor of future macroeconomic conditions .
+a PAR 23 the yield curve had been inverted or flat until june and recently has steepened somewhat ; thus , by that measure , the risk of recession appears to have diminished in recent months .
+a PAR 23 however , spreads between corporate yields and comparable - maturity treasury yields also have had considerable statistical power in predicting recent recessions .
+a PAR 23 some of those credit spreads have surged over the past month to levels comparable to those reached in 1989 and 2000 .
+a PAR 23 thus , markets may be signaling high odds of imminent macroeconomic deterioration , despite the steepening of the treasury yield curve .
+a PAR 23 combining term and credit spreads in a logistic regression produces a model that performs well in “ predicting ” the last two recessions one year ahead while at the same time minimizing the number of false positives — that is , predictions of recessions that did not occur .
+a PAR 23 different measures of term and credit spreads produce slightly different results in this model , but a good fit is achieved — over the 1988 through 2006 estimation period
+a PAR 23 by using the spread on aa - rated five - year corporate bonds and the difference between ten- and two - year treasury
+a PAR 23 the august 2007 average values of these variables suggest a probability of about 40 percent that the u.s . economy will be in a recession in august 2008 .
+a PAR 23 this is the largest probability that the model has produced since late 2000 , and it is up from virtually zero earlier in the year .
+a PAR 23 if spreads during the first part of september were to persist for the remainder of the month , the estimated probability would rise to over 80 percent .
+a PAR 23 the apparently heightened risk of recession is notable , but some caveats are in order .
+a PAR 23 in particular , given the rather unprecedented nature of recent developments , it is possible that the term and credit spreads currently reflect different factors than they did prior to the previous two recessions .
+a PAR 23 moreover , the aa spread has risen more dramatically than some other credit spreads in recent weeks .
+a PAR 23 for example , high - yield bond spreads remained near their historical averages and thus continued to suggest less than 10 percent odds of a recession as of august .
+a PAR 23 although high - yield spreads have not previously performed as well in predicting business cycles as aa spreads , the sensitivity of the prediction to which credit spread is used indicates that the recent readings should be interpreted with care .
+a PAR 23 1 specifically , these two variables forecast recent recessions and expansions at least as well as alternative measures of term and credit spreads , based on both in- and out - of - sample tests .
+a PAR 23 t. b. ; levin , a. t ; and perli , r. , “ financial market perceptions of recession risk . ”   working paper , july 2007 .
+a PAR 23 i fomc - restricted controlled ( fr ) page 28 of 49 risks sufficiently palpable to warrant a downward tilt to the balance of risks even after a half - point rate cut .
+a SENT -- second , alternative a states that credit conditions and the housing correction “ appear likely to exert appreciable restraint ” on growth , which is stronger than the statement that they have “ the potential   . . .
+a SENT -- ( 25 ) a 50 basis point rate cut and the adoption of the statement language in alternative a would cause short - term interest rates to decline appreciably , as investors would be somewhat surprised by the magnitude of the policy action and would also infer that policy probably would be eased further .
+
+b PAR 20 financial conditions have deteriorated sharply on balance since the august 7 fomc meeting , making it more difficult and costly for households to class
+b PAR 20 i fomc - restricted controlled ( fr ) page 24 of 49 obtain nonconforming mortgages and also leading to tighter credit conditions for some firms .
+b PAR 20 in addition , some nonfinancial indicators , including the august employment report , pending home sales , and anecdotal reports from contacts in private industry , suggest a weaker near - term outlook .
+b PAR 20 in view of these developments , the committee may judge that prospects for economic activity have deteriorated notably , and that the risk of a substantial and protracted slowdown in economic growth is now unacceptably large .   with such an outlook , and with inflation data continuing to be benign , members might see it as appropriate to counter the effect of tighter financial conditions by easing policy by 50 basis points at this meeting , as in alternative b .   if members judge that evolving circumstances will likely warrant easing policy by 50 basis points or more over the next several months , as in the staff forecast , then they might think it prudent to implement a half - percentage - point cut at this meeting .
+b PAR 20 the real federal funds rate is now about 50 basis points above its greenbook - consistent equilibrium value ( chart 5 ) and is also above the range of model - based equilibrium estimates , suggesting that a half - point easing in policy is unlikely to lead to unacceptable pressures on resources .
+b PAR 20 a 50 basis point rate cut is also consistent with the prescriptions of a number of simple policy rules , even with a 1½ percent inflation objective ( chart 7 ) .
+b PAR 20 a relatively aggressive easing of policy might also be viewed as valuable insurance against the risk of a further slide in investor and consumer confidence or a possible further deterioration in financial market conditions .
+b PAR 20 should such fears ultimately prove to be unfounded , and financial markets and the outlook for the economy improve , the committee might believe that it could act quickly to take back some or all of the easing .
+b PAR 21 the draft language of alternative b repeats the observation from the august 7 fomc statement that economic growth was moderate in the first half of the year .
+b PAR 21 however , it drops the assessment from the august 17 statement that “ recent data suggest that the economy has continued to expand at a moderate pace ,
+b PAR 21 ” class i
+b PAR 21 fomc - restricted controlled ( fr ) page 25 of 49 as information that has subsequently become available suggests greater weakness in activity .
+b PAR 21 it then adapts language from the august 17 statement to note the potential dampening effect of financial market turmoil on the housing market and the growth outlook more generally .
+b PAR 21 the statement observes that the rate cut is intended to forestall the effects of these developments on the economy and to promote moderate growth “ over time . ”
+b PAR 21 this wording leaves open the possibility that growth may be weak for a time but suggests that the longer - term outlook remains healthy .
+b PAR 21 although this sentence does not literally express any asymmetry , analysts are likely to read the statement overall as indicating some predelication to ease policy further .
+b PAR 21 this approach could be seen as giving the committee flexibility going forward , either to ease further in response to soft incoming data or to stand pat if the economy appears to be stabilizing .
+b PAR 21 if members find alternative b attractive , but wish to adopt an explicit statement of balanced risks , then they might insert the sentence “ after today ’s action , the committee judges that the downside risks to economic growth are now roughly balanced by the upside risks to inflation ” at the start of the assessment of risk paragraph .
+b PAR 22 measuring market expectations is especially challenging in the current environment , but investors appear to place substantial odds on two possible target rate decisions at this meeting―a quarter - point cut and a half - point cut―and seem to envision cumulative easing of 75 to 100 basis points by the end of this year .
+b PAR 22 with alternative b putting 50 basis points of easing in place and suggesting at least some possibility of further rate cuts , this alternative would likely prompt a modest decline in short - term interest rates and the foreign exchange value of the dollar might edge lower .
+b PAR 22 however , intermediate - term interest rates would probably change relatively class
+b PAR 22 i fomc - restricted controlled ( fr ) page 26 of 49 little .
+b PAR 22 the effect on equity , credit , and term funding markets would depend on how investors interpreted the decision .
+b PAR 22 they would most likely conclude that the sizable policy response may offset some of the macroeconomic effects of credit market turmoil , leading equity prices to rally and risk spreads to narrow .
+b PAR 22 but it is possible that the relatively large policy move and the statement could lead investors to infer that the growth outlook is weaker than they had previously thought , having the opposite effect .
+b PAR 22 going forward , the reference to the committee closely following timely indicators may sharpen the sensitivity of markets to near - term and forward- looking economic data .
+b SENT -- a is similar to that for alternative b , but with four main differences .
+b SENT -- as with alternative b , the effect on equity , credit and term funding markets is ambiguous , but the negative growth outlook in this alternative might well spook investors and cause stock prices to fall and risk spreads to rise .
+
+c SENT -- under alternative c , the policy rate would be lowered 25 basis points to 5 percent , and the statement would indicate that the downside risks to economic growth outweigh the upside risks to inflation .
+c PAR 26 the greenbook forecast is predicated on an assumption of a quarter - point easing in policy at this meeting and a second easing at the october meeting .
+c PAR 26 if the committee finds the staff forecast to be both plausible and likely to be the best attainable outcome under the current difficult circumstances , then it may choose to ease policy 25 basis points at this meeting and issue a statement pointing to downside risks to the outlook , as in alternative c .
+c PAR 26 members may judge that the growth class i fomc - restricted controlled ( fr ) page 29 of 49 outlook has deteriorated , but might not be convinced that the downside risks are sufficient to justify a 50 basis point easing at this meeting .
+c PAR 26 also , they may be unsure of the magnitude of the macroeconomic fallout from recent financial turmoil , and prefer to await more information before responding further .
+c PAR 26 indeed , they may think that financial market conditions could improve quickly , along the lines of the “ faster rebound ” greenbook alternative simulation .
+c PAR 26 that view may be reinforced by the general resilience of equity prices in the face of credit market disruptions , a pattern that does not seem consistent with a serious financial crisis being underway .
+c PAR 26 members may also be concerned that a half - point easing in monetary policy at this time would be misconstrued by some investors as a sign that the committee was responding directly to asset prices , potentially exacerbating moral hazard by encouraging excessive risk taking among market participants in the future .
+c PAR 26 moreover , some members may be concerned that investors could perceive a half - point easing at this meeting as signaling a downweighting of the committee
+c PAR 26 ’s price stability objective .
+c PAR 26 if so , they may prefer to implement a more modest cut in rates at this time while expressing the judgment that the downside risks to growth outweigh the upside risks to inflation , even after the policy easing .
+c PAR 26 members may find this option especially attractive if they are concerned about the speed with which the committee could reverse a larger rate cut should financial markets stabilize sooner than currently expected .
+c PAR 26 a quarter - point easing in policy at this meeting is also in line with the prescription from optimal policy simulations with a 2 percent inflation goal ( chart 6 ) .
+c PAR 28 with investors placing considerable weight on a 50 basis point cut at this meeting , the adoption of alternative c would probably cause short - term interest rates to rise somewhat , even though the downside balance of risks would suggest that class i fomc - restricted controlled ( fr   page 30 of 49 further easing could well be forthcoming .
+c PAR 28 the foreign exchange value of the dollar would likely appreciate modestly .
+c PAR 28 with the federal reserve perhaps perceived as inclined to respond only gradually to the evolving circumstances―an impression that might be amplified by the committtee ’s assessment that the risks are tilted to the downside―investors might mark down their outlook for economic growth , leading long - term yields and equity prices to fall and spreads in credit markets to widen somewhat .
+
