@@ -5,7 +5,7 @@ import pprint
 import shutil
 
 def main():
-    #speaker_statements = get_speaker_statements()
+    speaker_statements = get_speaker_statements()
     get_speaker_corps(pd.read_pickle("../../output/speaker_data/speaker_corpus.pkl"))
 def get_speaker_statements():
     base_directory = base_directory = "../../../../collection/python/data/transcript_raw_text"
@@ -76,7 +76,7 @@ def get_speaker_corps(speaker_statements):
         speaker_path = "{}/{}".format("../../output/speaker_data",speaker)
         if not os.path.exists(speaker_path):
             os.mkdir(speaker_path)
-        speaker_df.to_csv("{}/{}_{}".format(speaker_path,speaker,"_text_by_meeting.csv"))
+        speaker_df[['Date','content']].to_csv("{}/{}_{}".format(speaker_path,speaker,"statements_by_meeting.csv"))
         speaker_list = list(speaker_df["content"])
         with open("{}/{}_{}".format(speaker_path,speaker,"corpus.txt"),"w+") as f:
             f.write(" ".join(speaker_list))
