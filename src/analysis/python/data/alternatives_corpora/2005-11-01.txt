@@ -1,0 +1,81 @@
+a SENT -- under alternative a , the committee would leave its target for the federal funds rate unchanged at 3¾ percent at this meeting ; the statement emphasizes uncertainties surrounding the economic dislocations of the hurricanes and associated effects on consumer and business confidence , but still signals that remaining monetary policy accommodation could likely be removed at a measured pace .
+a PAR 15 committee members may wish to consider alternative a if they think that the recent moderate rates of core inflation are likely to continue and if they see the outlook for the economy as especially uncertain because of the effects of the hurricanes and elevated energy prices .
+a PAR 15 particularly if the committee , like the staff , views the real federal funds rate as in the vicinity of its equilibrium level , a pause in policy firming might be seen as desirable , partly to await further readings on consumer and business sentiment and spending .
+a PAR 15 such a pause may also be chosen if members believe that the real estate market is in the process of softening , which heretofore has been an important spur to household spending .
+a PAR 15 under this alternative , the committee might refer to “ remaining ” policy accommodation in the final risk assessment paragraph .
+a PAR 15 markets would be surprised at the decision to leave the target funds rate unchanged .
+a PAR 15 short - term interest rates would probably decline considerably as markets lowered the probability of near - term tightening moves .
+a PAR 15 longer - term interest rates might be little changed or even back up if investors saw the fomc as more tolerant than they expected of an increase in inflation .
+a PAR 15 the foreign exchange value of the dollar would likely fall , especially if inflation expectations deteriorated .
+a PAR 15 i fomc - restricted controlled ( fr ) page 20 of 36 
+
+b PAR 11 the committee may wish to begin the rationale portion of the statement for alternative b by reaffirming the view that adverse effects of the hurricanes will probably slow the pace of the expansion only temporarily .
+b PAR 11 robust underlying growth in productivity may still be seen as a support for economic activity .
+b PAR 11 the statement could also note the boost to aggregate demand from increased private and public spending associated with rebuilding efforts in hurricane - affected areas .
+b PAR 11 while a 25 basis point move would place the funds rate at about the midpoint of the staff 's range of estimated equilibrium rates , the committee may still prefer to characterize policy as accommodative in light of the underlying strength of demand and upward pressures on inflation .
+b PAR 11 as for inflation , the committee could cite indications , evident in some producer prices and in surveys of near - term inflation expectations , that “
+b PAR 11 the cumulative rise in energy and other costs has added to inflation pressures , ” while still noting that “ core inflation has been relatively low in recent months .
+b PAR 11 ”   the observation that “ longer - term inflation expectations remain contained ” may be seen as appropriate to convey a balanced view of the inflation outlook .
+b PAR 11 i fomc - restricted controlled ( fr ) page 16 of 36 chart 6 actual and assumed
+b PAR 11 federal funds rate and range of values from policy rules and futures markets percent shaded region is the range of values from rules
+b PAR 11 1a , 2a , 4 , 5 , and 6 below actual federal funds rate and greenbook assumption market expectations estimated from futures quotes values of the federal funds rate from policy rules and futures markets q3 q4
+b PAR 11 q3 rules with imposed coefficients rules with estimated coefficients memo note : rule prescriptions for 2005q4 through 2006q3 are calculated using current greenbook projections for inflation and the output gap ( or unemployment gap ) .   for rules that contain the lagged funds rate , the rule ’s previous prescription for the funds rate is used to compute prescriptions for 2006q1 through 2006q3 .
+b PAR 11 it is assumed that there is no feedback from the rule prescriptions to the greenbook projections through 2006q3 .
+b PAR 11 the tips - based rule is computed using average tips and nominal treasury yields to date .
+b PAR 11 i fomc - restricted controlled ( fr ) page 17 of 36 policy rules chart : explanatory notes in all of the rules below
+b PAR 11 , it denotes the federal funds rate , πt the staff estimate at date t of trailing four- quarter core pce inflation , ( yt – yt
+b PAR 11 the staff estimate ( at date t ) of the output gap , π * policymakers ’ long - run objective for inflation , it-1
+b PAR 11 the lagged federal funds rate , gt-1   the residual from the rule ’s prescription the previous quarter , ( yt+3|t – yt+3|t
+b PAR 11 the staff ’s three - quarter - ahead forecast of the output gap , ( δ
+b PAR 11 yt+3|t – δyt+3|t * )
+b PAR 11 the staff ’s forecast of output growth less potential output growth three quarters ahead ,
+b PAR 11 a three - quarter - ahead forecast of inflation , and
+b PAR 11 ( ut+3|t – ut+3|t * ) a three - quarter - ahead forecast of the unemployment gap .
+b PAR 11 data are quarterly averages taken from the greenbook and staff memoranda closest to the middle of each quarter , unless otherwise noted .
+b PAR 11 root - mean- square error rule specification
+b PAR 11 1988:1- 2005:3 2001:1- 2005:3 rules with imposed coefficients 1 .
+b PAR 11 baseline taylor rule it
+b PAR 11 a 1.04a 2 .
+b PAR 11 aggressive taylor rule it
+b PAR 11 + ( yt – yt * )
+b PAR 11 first - difference rule it = it-1 +
+b PAR 11 0.5(δ yt+3|t
+b PAR 11 – δ yt+3|t
+b PAR 11 + 0.5(πt+3|t – π * )
+b PAR 11 rules with estimated coefficients 4 .
+b PAR 11 estimated outcome - based rule rule includes both lagged interest rate and serial correlation in residual .
+b PAR 11 it = .51it-1
+b PAR 11 + 0.49 [ 1.29 + 0.95(yt – yt
+b PAR 11 + 1.45πt]+ 0.53gt-1 5 .
+b PAR 11 estimated greenbook forecast - based rule rule includes both lagged interest rate and serial correlation in residual .
+b PAR 11 + 0.29 [ 0.75 + 1.03(yt+3|t
+b PAR 11 + 1.59πt+3|t ]
+b PAR 11 + 0.38gt-1 6 .   estimated fomc forecast - based rule unemployment and inflation forecasts are from semiannual “ central tendency ” of fomc forecasts , interpolated if necessary to yield 3- qtr - ahead values ; ut * forecast is from staff memoranda .
+b PAR 11 inflation forecasts are adjusted to core pce deflator basis .
+b PAR 11 rule is estimated at semiannual frequency , and projected forward using greenbook forecasts .
+b PAR 11 it = 0.48it-2
+b PAR 11 + 0.52 [ 0.43 – 2.09(ut+3|t
+b PAR 11 – ut+3|t * )
+b PAR 11 1.56πt+3|t ] 7 .   estimated tips - based rule
+b PAR 11 πcomp5|t denotes the time - t difference between 5-yr nominal treasury yields and tips .
+b PAR 11 sample begins in 1999 due to tips volatility in 1997 - 8 .
+b PAR 11 it = 0.97it-1 + [ –1.27 + 0.70πcomp5|t ]
+b PAR 11 .40 b .41 a rmse for rules with imposed coefficients is calculated setting π * = 1.5 .
+b PAR 11 b rmse for tips - based rule is calculated for 1999:1 - 2005:3 .
+b PAR 11 i fomc - restricted controlled ( fr ) page 18 of 36
+b PAR 12 futures market quotes suggest that investors are virtually certain of a 25 basis point firming of policy at this meeting , and surveys reveal that primary dealers expect little change in the nature of the statement .
+b PAR 12 therefore , market prices would likely be essentially unaffected by a 25 basis point increase in the funds rate and the statement language as under alternative b .
+
+c PAR 13 if the committee wished to convey greater concern about upside risks to inflation , it might prefer to combine a 25 basis point increase in the target funds rate with the language included under alternative c .
+c PAR 13 the committee may especially favor this alternative if increases in energy and other costs were viewed as beginning to unmoor inflation expectations , potentially starting an upward shift in inflation dynamics that would be hard to reverse later .
+c PAR 13 even if inflation expectations remain well anchored for a time , a sharper rebound in spending growth as rebuilding in the hurricane - affected areas picks up steam may put excessive strains on resources .
+c PAR 13 the proposed statement drops the characterization of policy as accommodative , but it indicates in the comments on inflation ( row 3 ) that further policy firming likely is necessary on the thought that the committee might soon envision moving the real funds rate past its neutral level — that is , to impose policy restraint .
+c PAR 13 the sentence on the balance of risks is also eliminated ; the committee might see that formula as redundant or possibly misleading about the extent of upside inflation risks at present .
+c PAR 13 the final paragraph on the measured pace language is also dropped , allowing greater flexibility for possible future adjustments of policy .
+c PAR 13 the committee may see this more forceful tone as warranted in light of the backup in market interest rates , increase in inflation compensation , and depreciation of the dollar in recent days , which might be viewed as signs of the emergence of inflation jitters in financial markets .
+c PAR 13 indeed , the committee may prefer to raise the target funds rate 50 basis points at this meeting in association with language similar to that under alternative c to underscore its determination to resist an increase in inflation .
+c PAR 13 i fomc - restricted controlled ( fr ) page 19 of 36 ( 14
+c PAR 13 ) market participants would be surprised by the removal of the measured pace and policy accommodation language and , perhaps , by the explicit indication that additional firming was likely to be necessary .
+c PAR 13 with a 25 basis point move and the language proposed under alternative c , short - term interest rates and the exchange value of the dollar would likely rise , while stock prices would fall .
+c PAR 13 if markets revised down their outlook for longer - term inflation as a result of the statement , however , longer - term interest rates might increase only a little .   with a 50 basis point firming , market participants would likely raise their sense of inflation risks and the near - term path of expected monetary policy substantially ; short- and intermediate - term market interest rates would jump , the dollar would rally , and the stock market could sell off sharply .
+
