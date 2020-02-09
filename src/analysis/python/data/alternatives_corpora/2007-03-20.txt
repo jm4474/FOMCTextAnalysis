@@ -1,0 +1,79 @@
+a SENT -- under alternative a , the committee would lower the intended federal funds rate 25 basis points , to 5 percent .
+a SENT -- the statement associated with alternative a mentions factors that suggest upside risks to inflation and retains the phrase “ some inflation risks remain ; ” it also mentions factors that suggest downside risks to growth and offers an explicit assessment that the risks to growth are tilted to the downside .
+a SENT -- in addition , alternative a replaces the phrase “ the extent and timing of any additional firming ” with the more general “ future policy adjustments .
+a SENT -- if so , members might prefer the quarter - point policy easing in alternative a .
+a PAR 21 the rationale for alternative a points to sluggish business investment and ongoing weakness in housing as likely to exert a drag on growth , thus supporting a judgment that risks to growth remain tilted to the downside even after a quarter- point rate cut .
+a PAR 21 by also pointing to remaining inflation risks and adopting a symmetric characterization of possible future adjustments in the policy rate , the assessment of risk in alternative a is meant to convey that this policy action will not necessarily commence a sequence of rate cuts .
+a PAR 22 although investors apparently expect the committee to begin easing by mid - year , the immediate quarter - point rate cut envisioned in alternative a would be a considerable surprise and likely would lead to a significant easing of financial conditions .
+a PAR 22 long - term yields might follow short - term rates down if markets conclude that the committee believes that prospects for growth have weakened appreciably , reducing the equilibrium real interest rate consistent with sustainable growth .
+a PAR 22 the drop in longer - term yields could be small if markets conclude that the committee is easing sooner than expected but will not cut rates more over the next few years than is already incorporated in financial quotes .
+a PAR 22 but markets might read an announcement along the lines of alternative
+a PAR 22 a as an indication that the committee is willing to forego a medium - term moderation in inflation in order to sustain economic growth .
+a PAR 22 in that case , measures of inflation compensation might rise .
+
+b SENT -- ”   alternative b , too , notes factors that suggest downside risks to growth as well as factors that suggest upside risks to inflation , but states explicitly that the risk that inflation will fail to moderate remains the committee ’s principal concern .
+b SENT -- , it does not mention downside risks to growth and retains directional language referring to “ the extent and timing of any additional firming . ”   with the report on consumer prices in february to be released on friday , after the bluebook closes , the rationale portion of alternative b includes language in brackets that may be appropriate if inflation is disappointingly high .
+b PAR 17 in the staff ’s analysis , the real federal funds rate is essentially equal to the greenbook - consistent estimate of its equilibrium value ( chart 5   , suggesting that the current stance of policy likely would be consistent with closing the small estimated output gap over the next several years .
+b PAR 17 moreover , the current target for the funds rate is very close to prescriptions for near - term policy from the optimal policy path class
+b PAR 17 the federal open market committee decided today to keep its target for the federal funds rate at 5¼ percent .
+b PAR 17 the federal open market committee decided today to lower its target for the federal funds rate 25 basis points to 5 percent .
+b PAR 17 the federal open market committee decided today to keep its target for the federal funds rate at 5¼ percent .
+b PAR 17 the federal open market committee decided today to raise its target for the federal funds rate by 25 basis points to 5½ percent .
+b PAR 17 recent indicators have suggested somewhat firmer economic growth , and some tentative signs of stabilization have appeared in the housing market .
+b PAR 17 overall , the economy seems likely to expand at a moderate pace over coming quarters .
+b PAR 17 the economy seems likely to expand at a moderate pace over coming quarters , supported in part by gains in personal income and consumer spending .
+b PAR 17 however , sluggish business investment and ongoing weakness in the housing sector likely will exert a drag on growth .
+b PAR 17 despite the ongoing adjustment in the housing sector , the economy seems likely to continue to expand at a moderate pace over coming quarters , supported in part by gains in personal income and consumer spending .
+b PAR 17 the economy appears to be expanding at a moderate pace and likely will continue to do so in coming quarters , supported in part by solid gains in personal income and consumer spending .
+b PAR 17 rationale 3 .
+b PAR 17 readings on core inflation have improved modestly in recent months , and inflation pressures seem likely to moderate over time .
+b PAR 17 however , the high level of resource utilization has the potential to sustain inflation pressures .
+b PAR 17 readings on core inflation have improved modestly in recent months , and inflation pressures seem likely to moderate over time .
+b PAR 17 however , the high level of resource utilization has the potential to sustain inflation pressures .
+b PAR 17 readings on core inflation have improved modestly in recent months , and inflation pressures seem likely to moderate over time .
+b PAR 17 [ or :   readings on core inflation have been somewhat elevated .
+b PAR 17 inflation pressures seem likely to moderate over time . ]
+b PAR 17 however , the high level of resource utilization has the potential to sustain inflation pressures .
+b PAR 17 core inflation remains somewhat elevated .
+b PAR 17 inflation pressures seem likely to moderate over time , but considerable uncertainty surrounds that judgment .
+b PAR 17 moreover , the high level of resource utilization has the potential to sustain inflation pressures .
+b PAR 17 assessment of risk 4 .
+b PAR 17 the committee judges that some inflation risks remain .
+b PAR 17 the extent and timing of any additional firming that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth , as implied by incoming information .
+b PAR 17 the committee judges that the risks to growth are tilted to the downside , even after this policy action .
+b PAR 17 however , upside risks to inflation remain .
+b PAR 17 future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth , as implied by incoming information .
+b PAR 17 in these circumstances , the committee ’s principal policy concern remains the risk that inflation will fail to moderate as expected .
+b PAR 17 future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth , as implied by incoming information .
+b PAR 17 in these circumstances , the committee ’s predominant policy concern remains the risk that inflation will fail to moderate as expected .
+b PAR 17 the extent and timing of any additional firming that may be needed to address this risk will depend on the evolution of the outlook for both inflation and economic growth , as implied by incoming information .
+b PAR 17 i fomc - restricted controlled ( fr ) page 21 of 41 simulations of the frb / us model for a 2 percent inflation goal ( chart 6 ) .
+b PAR 17 if the committee sees the combination of gradual convergence to potential output and a 2 percent inflation rate by the end of 2008 as a reasonable and desirable outcome , given current conditions , it might favor no change in policy , as in alternative b .   in that regard , the central tendency of the forecasts submitted by the governors and reserve bank presidents around the time of the january fomc meeting suggested that the committee was more optimistic than the staff about potential output , perhaps implying that keeping the funds rate constant is likely to generate both brisker growth and a larger decline in core inflation than the staff projects .
+b PAR 17 although members may think that dislocations in the subprime mortgage market will reduce funding for home purchases in that sector , tending to deepen the slide in housing construction , they may also be of the view that the drop in market yields in recent weeks will mean lower mortgage rates for prime borrowers going forward , perhaps spurring an earlier recovery in construction and sales of new homes .
+b PAR 17 given these potentially offsetting forces , the committee may be inclined to wait for more information on consumer spending and housing demand before adjusting the stance of policy .
+b PAR 18 the language associated with alternative b could point to gains in personal income and consumer spending as helping to sustain output in the face of weakness in housing and business investment .
+b PAR 18 if the committee ’s view on inflation has not changed appreciably of late , it could choose to repeat the backward - looking language that “ readings on core inflation have improved modestly in recent months ” along with the forward - looking language that “ inflation pressures seem likely to moderate over time ” and the qualification that high resource utilization could sustain inflation pressures .
+b PAR 18 the assessment of risk language for alternative b contains no explicit judgment about the balance of risks .
+b PAR 18 however , by stating that the risk that inflation will fail to moderate as expected remains its principal policy concern , the committee class
+b PAR 18 i fomc - restricted controlled ( fr ) page 22 of 41 would implicitly acknowledge risks to growth .
+b PAR 18 the proposed wording in alternative b replaces the reference to “ additional firming ” that was in the january statement with a balanced characterization of “ future policy adjustments , ” thereby removing the presumption that the next change in policy will be a tightening and providing greater policy flexibility going forward .
+b PAR 19 although economic and financial news during the intermeeting period increased the perceived probability of a cut in the funds rate later this year , market participants continue to see no chance of easing at this meeting .
+b PAR 19 market commentary and surveys also suggest that participants would not be surprised if the statement were to recognize downside risks to growth , but they see a lesser chance of a change in the “ tilt ” in the assessment of risks .
+b PAR 19 thus , pointing to a “ principal concern ” might be read as a more forceful assertion than the wording in january ’s statement .
+b PAR 19 dropping the reference to “ additional firming ” from the risk assessment should convey more balanced odds on the direction of future policy changes and thus weigh against that reading .
+b PAR 19 on balance , the language for alternative b seems likely to elicit little reaction , but with markets apparently skittish , this judgment should be viewed as more tentative than usual .
+b SENT -- this alternative offers an explicit judgment that risks to growth would remain tilted to the downside even after this policy action , thereby conveying greater concern about those risks than alternative b .   at the same time , it would continue to class i
+
+c SENT -- under alternative c , the committee would tighten policy 25 basis points , bringing the target to 5½ percent .
+c SENT -- language for alternative c not only states that the risk that inflation will fail to moderate remains the committee ’s predominant concern
+c PAR 23 though much of the market commentary during the intermeeting period focused on developments pointing to weaker - than - expected growth , the committee might see the recent data releases as only a bit weaker than expected and judge that the fallout from developments in the subprime mortgage sector will be limited , perhaps for the reasons given in part i of the greenbook .
+c PAR 23 if so , the committee might class i
+c PAR 23 fomc - restricted controlled ( fr ) page 24 of 41 place greater weight on the step - up in core inflation in january and the recent depreciation of the dollar .
+c PAR 23 especially if friday ’s inflation report proves markedly higher than expected , the committee may be less confident than the staff that core inflation will decline from its uncomfortably high level with no further increase in the federal funds rate , inclining members toward the quarter - point policy firming of alternative c .   a judgment that tighter policy is appropriate might be buttressed by concerns about the extent to which the labor market currently is stretched thin and the slow pace at which those pressures lessen in the staff forecast .
+c PAR 24 the rationale for alternative c could indicate the committee ’s fundamentally unchanged outlook for growth by stating that the economy “ appears to be expanding at a moderate pace and likely will continue to do so in coming quarters , supported by solid growth in consumer spending ” without mentioning areas of weakness .
+c PAR 24 the rationale could emphasize the committee ’s discomfort with inflation by stating not only that “ core inflation remains somewhat elevated , ” but also that “ considerable uncertainty surrounds ” the judgment that inflation will moderate and that “ the high level of resource utilization has the potential to sustain inflation pressures . ”   if the committee wished to make clear that the 25 basis point increase in the funds rate did not entirely assuage its concern about inflation risks , the committee could replace the first sentence of january ’s assessment of risk with language stating that “ the committee ’s predominant policy concern remains the risk that inflation will fail to moderate as expected ” while retaining the second sentence .
+c PAR 25 a decision to adopt alternative c would come as a complete surprise to the financial markets , likely leading to a sharp upward revision of investors ’ expectations for the federal funds rate over the next few quarters and thus an increase in short- term interest rates .
+c PAR 25 longer - term rates might also jump if market participants were to conclude that the inflation outlook is less benign than they had thought and that short - term real rates will have to be persistently higher to keep inflation contained .
+c PAR 25 i fomc - restricted controlled ( fr ) page 25 of 41 upward pressure on long - term rates would be lessened if investors conclude that the fomc ’s focus on reducing inflation will mean faster progress toward price stability .
+c PAR 25 money and debt forecasts 
+

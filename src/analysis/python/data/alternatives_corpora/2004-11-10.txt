@@ -1,0 +1,92 @@
+a SENT -- under alternative a , the federal funds rate target would be maintained at 1¾ percent at this meeting .
+a PAR 15 given the disappointing data on employment and industrial production in recent months , along with the mixed signals from other economic indicators , the committee ’s assessment of the near - term prospects for spending and employment might be less optimistic than in the staff forecast .
+a PAR 15 in particular , members might read the meager pace of hiring since the spring and weak high - tech spending as evidence of continued reluctance on the part of firms to make significant commitments in the current environment .
+a PAR 15 the still - weak tone in labor markets also might be viewed as a factor depressing consumer confidence and so weighing on household spending .
+a PAR 15 in that circumstance , the committee might see less need to continue removing policy accommodation at this meeting and choose to keep the funds rate at 1¾ percent and issue a statement like that shown in alternative a .   even if the committee judged the staff forecast as likely , it might consider the projected progress in working down slack as too slow to be acceptable , especially given that core pce inflation runs at 1½ percent — only a shade above the level prevailing in the summer of 2003 when concerns about disinflation were acute .
+a PAR 15 the committee might also be concerned about possible downside risks to the forecast from high oil prices and the potential for a deceleration in consumer spending similar to that in the “ faltering expansion ” scenario in the greenbook .
+a SENT -- ( 16 ) the announcement of alternative a would indicate an unchanged target federal funds rate but otherwise might look fairly similar to the announcement for the september meeting .
+
+b PAR 9 the current degree of stimulus provided by financial market prices embodies the expectation of tightening at this meeting followed by a brief pause .
+b PAR 9 if the committee regarded the outlook for economic activity and inflation given these financial conditions as striking an appropriate balance between reducing slack and limiting inflation risks , it might wish to validate those expectations by tightening 25 basis points and issuing a statement similar to that of alternative b in the table , which includes language intended to signal a possible pause in the removal of policy accommodation .
+b PAR 9 the committee might view a further quarter - point tightening at this meeting as an appropriate step in the direction suggested by standard policy benchmarks :   such a tightening would be consonant with the prescriptions from a battery of interest rate rules ( chart 5 ) and would boost the real federal funds rate nearer to the middle of the range of various measures of the equilibrium real interest rate ( chart 6 ) .
+b PAR 9 the committee
+b PAR 9 ’s desire to align the stance of policy more closely with chart 5 actual and assumed federal funds rate and range of values from policy rules and futures markets percent shaded region is the range of values from rules
+b PAR 9 1a , 2a , 4 , 5 , and 6 , below actual federal funds rate and greenbook assumption market expectations estimated from futures quotes values of the federal funds rate from policy rules and futures markets q3 q4
+b PAR 9 q3 rules with imposed coefficients rules with estimated coefficients memo computed using average tips and nominal treasury yields to date .
+b PAR 9 note : rule prescriptions for 2004q4 through 2005q3 are calculated using greenbook projections for inflation and the output gap ( or unemployment gap ) .
+b PAR 9 for rules that contain the lagged funds rate , the rule ’s previous prescription for the funds rate is used to compute prescriptions for 2005q1 through 2005q3 .
+b PAR 9 it is assumed that there is no feedback from the rule prescriptions to the greenbook projections through 2005q3 .
+b PAR 9 rules chart : explanatory notes in all of the rules below , it denotes the federal funds rate , bt the staff estimate at date t of trailing four- quarter core pce inflation ,
+b PAR 9 ( yt - yt * ) the staff estimate ( at date t ) of the output gap , b * policymakers ’ long - run objective for inflation , it-1 the lagged federal funds rate , gt-1
+b PAR 9 the residual from the rule ’s prescription the previous quarter , ( yt+3|t
+b PAR 9 -yt+3|t * )
+b PAR 9 the staff ’s three - quarter - ahead forecast of the output gap , ( ) yt+3|t- )
+b PAR 9 the staff ’s forecast of output growth less potential output growth three quarters ahead , bt+3|t a three - quarter - ahead forecast of inflation , and ( ut+3|t
+b PAR 9 -ut+3|t * ) a three - quarter - ahead forecast of the unemployment gap .
+b PAR 9 data are quarterly averages taken from the greenbook and staff memoranda closest to the middle of each quarter , unless otherwise noted .
+b PAR 9 rule specification root - mean- square error
+b PAR 9 2004:3 2001:1- 2004:3 rules with imposed coefficients 1 .
+b PAR 9 baseline taylor rule it
+b PAR 9 + 0.5(yt - yt
+b PAR 9 -b * ) .95a
+b PAR 9 aggressive taylor rule it
+b PAR 9 + ( yt - yt
+b PAR 9 -b * ) .72a
+b PAR 9 first - difference rule it =
+b PAR 9 ( ) yt+3|t- )
+b PAR 9 + 0.5(bt+3|t - b * )
+b PAR 9 rules with estimated coefficients 4 .
+b PAR 9 estimated outcome - based rule rule includes both lagged interest rate and serial correlation in residual .
+b PAR 9 + 0.47 [ 1.07 + 0.97(yt-
+b PAR 9 + 1.51bt]+ 0.48gt-1 5 .
+b PAR 9 estimated greenbook forecast - based rule rule includes both lagged interest rate and serial correlation in residual .
+b PAR 9 + 0.28 [ 0.46 + 1.07(yt+3|t
+b PAR 9 -yt+3|t * )
+b PAR 9 + 1.66bt+3|t ]
+b PAR 9 estimated fomc forecast - based rule unemployment and inflation forecasts are from semiannual “ central tendency ” of fomc forecasts , interpolated if necessary to yield 3- qtr - ahead values ; ut * forecast is from staff memoranda .
+b PAR 9 inflation forecasts are adjusted to core pce deflator basis .
+b PAR 9 rule is estimated at semiannual frequency , and projected forward using greenbook forecasts .
+b PAR 9 it = 0.49it-2
+b PAR 9 + 0.51 [ 0.27 !
+b PAR 9 2.10(ut+3|t-
+b PAR 9 + 1.60bt+3|t ]
+b PAR 9 .61 7 .   estimated tips - based rule bcomp5|t denotes the time - t difference between 5-yr nominal treasury yields and tips .
+b PAR 9 sample begins in 1999 due to tips volatility in 1997 - 8 .
+b PAR 9 = 0.97it-1 + [ -1.21
+b PAR 9 + 0.66bcomp5|t ]
+b PAR 9 a rmse for rules with imposed coefficients is calculated setting b*=2 .
+b PAR 9 b rmse for tips - based rule is calculated for 1999:1 - 2004:3 .
+b PAR 9 g:\bluebook\rulesnotes.pdf chart 6 actual real federal funds rate and range of estimated equilibrium real rates percent note : the shaded range represents the maximum and the minium values each quarter of four estimates of the equilibrium real federal funds rate based on a statistical filter and the frb / us model .
+b PAR 9 real federal funds rates employ the log difference of the core pce price index over the previous four quarters as a proxy for inflation expectations , with the staff projection used for 2004q4 .
+b PAR 9 the nominal funds rate used for the current quarter is the target federal funds rate as of the close of the bluebook ; the points plotted for all previous quarters are based upon quarterly - average target federal funds rates .
+b PAR 9 25 b.p . tightening current rate actual real funds rate historical average : 2.7 ( 1964q1 - 2004q3 ) tips - based estimate equilibrium real funds rate estimates ( percent ) 2003
+b PAR 9 2004h1 2004q3 2004q4
+b PAR 9 statistical filter - two - sided : september bluebook 0.0 0.1 0.3
+b PAR 9 - one - sided : september bluebook
+b PAR 9 -0.3 -0.3 -0.2
+b PAR 9 us model - two - sided : september bluebook 2.1 2.1 2.1
+b PAR 9 - one - sided : september bluebook 0.8 1.1 1.2 ---- also employs the staff projection for the current and next quarters .
+b PAR 9 also employs the staff projection for the current quarter .
+b PAR 9 adjusts the five - year forward , five - year real rate by an assumed term premium of 75 basis points .
+b PAR 9 such benchmarks might be heightened by the perceived need to be vigilant in response to the decline in the foreign exchange value of the dollar and the jump in some short - term measures of inflation compensation .   looking forward , though , the committee might regard a pause following this firming action as potentially prudent given the uncertainties attending the macroeconomic outlook .
+b PAR 9 such a pause would allow the committee time to assess the underlying strength of aggregate demand and , given relatively anchored longer - term inflation expectations , might be viewed as imposing little cost .
+b PAR 10 regarding the announcement of alternative b , the committee might signal the possibility of a pause by noting that the firming brings “ the cumulative increase in the target rate over the past several months to 1 percentage point . ”   a mention of the cumulative policy tightening would convey the sense that the committee was reflecting upon the extent to which accommodation had been removed .
+b PAR 10 citing cumulative changes is a device last employed in the fomc statements of june and august 2001 .
+b PAR 10 the sense that the committee was inclined to pause for a time might be reinforced by characterizing the stance of policy as remaining “ somewhat accommodative , ” rather than “ accommodative ” as in the september announcement , and would seem to parallel the committee ’s decision in january 2002 when it first characterized policy as accommodative when the funds rate was at 1 - 3/4 percent .
+b PAR 11 the market reaction to the announcement for alternative b is difficult to gauge precisely .
+b PAR 11 futures quotes indicate that market prices have largely , but not completely , built in a quarter - point tightening at wednesday ’s meeting , suggesting that such an action would probably impart a bit of upward pressure to near - term yields .
+b PAR 11 in addition , options data indicate that investors attach some probability to scenarios in which the funds rate remains at 2 percent for a few meetings .
+b PAR 11 nonetheless , the signal of a possible pause might cause investors to mark down the odds they currently seem to attach to tightening over the next several months .
+b PAR 11 in such circumstances , longer- term yields could edge lower and stock prices might tick up .
+b SENT -- given the actual pause in policy adjustment , the “ cumulative increase ” wording employed in alternative b would not seem necessary .
+
+c PAR 12 against the backdrop of higher oil prices and a weaker dollar , the committee might believe that inflation pressures under the greenbook policy assumption are unlikely to be as well - contained as in the staff forecast .
+c PAR 12 indeed , both market- and survey - based measures of near - term inflation expectations moved higher over the intermeeting period .
+c PAR 12 faced with these developments , the committee might wish to tighten policy a quarter - point and adopt the firmer statement language shown for alternative c .   even if the committee found the staff forecast of a gradual decline in inflation to be both likely and generally acceptable as a modal assessment , it might be concerned about upside risks to the outlook .
+c PAR 12 in particular , as discussed in the “ more inflation ” scenario in the greenbook , inflation could pick up markedly if the rise in oil prices were to trigger a significant increase in long - term inflation expectations .
+c PAR 12 moreover , the committee might harbor some concerns that inflation pressures could build if — as envisioned in the “ slower productivity ” greenbook simulation — the favorable productivity growth trends witnessed in recent years fade over time .
+c PAR 12 in such circumstances , policy might need to be tightened relatively briskly at coming meetings , perhaps inclining the committee to be reluctant to hint now that it might pause in the process of firming .
+c PAR 13 the announcement of alternative c could cite the increase in the target rate to 2 percent with no intimation of a pause any time soon .
+c PAR 13 the stance of policy might still be characterized simply as “ accommodative ” and the rationale paragraph might note that “ rising energy prices and an escalation of business costs have the potential to contribute to upward pressure on prices ” so as to highlight concerns about inflation .
+c PAR 13 the committee could retain the measured pace language and might also continue to assess the risks to growth and price stability as balanced , particularly if it viewed that assessment as conditioned on an assumption of appropriate policy .
+

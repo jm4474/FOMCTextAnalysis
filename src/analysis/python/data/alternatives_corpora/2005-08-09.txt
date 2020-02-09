@@ -1,0 +1,166 @@
+a SENT -- in contrast , the announcement accompanying alternative a would hint at a near - term slowing in the pace of policy tightening , in part by noting that policy accommodation has been substantially reduced .
+a PAR 13 recognizing that the cumulative tightening put in place over the past year has substantially reduced the degree of monetary policy accommodation , the committee may believe that the real federal funds rate is now nearing its equilibrium level .
+a PAR 13 in view of such an assessment as well as the subdued readings on core inflation in recent months , the fomc might opt for alternative a ’s combination of a 25-basis - point hike in the funds rate at this meeting and a statement that hints that the committee could soon slow the pace of policy firming .
+a PAR 13 this alternative would seem particularly attractive if members thought that slack in labor markets was greater than in the staff assessment , implying less need to tighten policy than in the greenbook .
+a PAR 13 even if the committee believed that it would probably need to tighten policy somewhat further following a quarter - point step on tuesday , a near - term pause might be viewed as prudent to allow more time to evaluate the effects of its cumulative policy action to date .
+a PAR 13 a funds rate path incorporating a quarter - point tightening at class
+a PAR 13 i fomc - restricted controlled ( fr ) page 15 of 35 this meeting followed by a shallower trajectory of tightening would be consistent with the prescriptions from several policy rules ( chart 6 ) .
+a PAR 14 the draft statement associated with alternative a could indicate that “ the committee believes that the degree of monetary policy accommodation has been substantially reduced , ” while again acknowledging that the expansion remains firm and that labor market conditions continue to improve gradually .
+a PAR 14 particularly if the committee were concerned about a possible slackening in the pace of trend productivity growth , it might wish to eliminate the previous language pointing to robust underlying productivity growth as a factor supporting the expansion .
+a PAR 14 with regard to prices , the statement could indicate that “ core inflation has been relatively low in recent months , and longer - term inflation expectations remain well contained , ” dropping the reference to inflation pressures .
+a PAR 14 in the penultimate sentence , the fomc could indicate that “ remaining ” policy accommodation can likely be removed at a measured pace .
+a PAR 14 alternatively , if the committee judged that the real federal funds rate now was in the neighborhood of its equilibrium level , it might choose to drop the “ measured pace ” sentence entirely , thus suggesting that further firming could prove to be unnecessary .
+a PAR 15 market participants expect that the path of the intended federal funds rate will begin to flatten out around year - end , but market commentary and survey evidence indicate that investors do not anticipate that the fomc will signal any such development next week .
+a PAR 15 accordingly , a statement employing the draft wording shown in alternative a would likely produce a noticeable downward shift in interest rates implied by money market futures quotes , as investors priced in a slower pace of policy action and probably also revised down the likely extent of cumulative tightening .
+a PAR 15 that change in policy outlook would likely prompt a rally in bond and equity markets and some depreciation in the foreign exchange value of the dollar .
+a PAR 15 if class i fomc - restricted controlled ( fr ) page 16 of 35 chart 6 actual and assumed federal funds rate and range of values from policy rules and futures markets percent shaded region is the range of values from rules
+a PAR 15 1a , 2a , 4 , 5 , and 6 below actual federal funds rate and greenbook assumption market expectations estimated from futures quotes values of the federal funds rate from policy rules and futures markets
+a PAR 15 q2 rules with imposed coefficients rules with estimated coefficients memo note : rule prescriptions for 2005q3 through 2006q2 are calculated using current greenbook projections for inflation and the output gap ( or unemployment gap ) .   for rules that contain the lagged funds rate , the rule ’s previous prescription for the funds rate is used to compute prescriptions for 2005q4 through 2006q2 .
+a PAR 15 it is assumed that there is no feedback from the rule prescriptions to the greenbook projections through 2006q2 .
+a PAR 15 the tips - based rule is computed using average tips and nominal treasury yields to date .
+a PAR 15 i fomc - restricted controlled ( fr ) page 17 of 35 policy rules
+a PAR 15 chart : explanatory notes in all of the rules below
+a PAR 15 , it denotes the federal funds rate , πt the staff estimate at date t of trailing four- quarter core pce inflation , ( yt - yt
+a PAR 15 the staff estimate ( at date t ) of the output gap ,
+a PAR 15 π * policymakers ’ long- run objective for inflation , it-1 the lagged federal funds rate , gt-1   the residual from the rule ’s prescription the previous quarter , ( yt+3|t
+a PAR 15 -yt+3|t * )
+a PAR 15 the staff ’s three - quarter - ahead forecast of the output gap , ( δ yt+3|t-
+a PAR 15 δyt+3|t * )
+a PAR 15 the staff ’s forecast of output growth less potential output growth three quarters ahead , πt+3|t a three - quarter - ahead forecast of inflation , and ( ut+3|t
+a PAR 15 -ut+3|t * ) a three - quarter - ahead forecast of the unemployment gap .
+a PAR 15 data are quarterly averages taken from the greenbook and staff memoranda closest to the middle of each quarter , unless otherwise noted .
+a PAR 15 root - mean- square error rule specification
+a PAR 15 1988:1- 2005:2 2001:1- 2005:2 rules with imposed coefficients 1 .
+a PAR 15 baseline taylor rule it
+a PAR 15 0.5(πt - π
+a PAR 15 * ) .96 a 1.05a 2 .
+a PAR 15 aggressive taylor rule it
+a PAR 15 + ( yt - yt
+a PAR 15 0.5(πt - π * )
+a PAR 15 first - difference rule it = it-1 + 0.5(δ
+a PAR 15 yt+3|t - δ yt+3|t
+a PAR 15 0.5(πt+3|t - π * )
+a PAR 15 rules with estimated coefficients 4 .
+a PAR 15 estimated outcome - based rule rule includes both lagged interest rate and serial correlation in residual .
+a PAR 15 it = .51it-1
+a PAR 15 + 0.49 [ 1.29 + 0.95(yt - yt
+a PAR 15 + 1.45πt]+ 0.52gt-1
+a PAR 15 5 .   estimated greenbook forecast - based rule rule includes both lagged interest rate and serial correlation in residual .
+a PAR 15 + 0.29 [ 0.73 + 1.04(yt+3|t
+a PAR 15 -yt+3|t * )
+a PAR 15 + 1.59πt+3|t ]
+a PAR 15 6 .   estimated fomc forecast - based rule unemployment and inflation forecasts are from semiannual “ central tendency ” of fomc forecasts , interpolated if necessary to yield 3- qtr - ahead values ; ut * forecast is from staff memoranda .
+a PAR 15 inflation forecasts are adjusted to core pce deflator basis .
+a PAR 15 rule is estimated at semiannual frequency , and projected forward using greenbook forecasts .
+a PAR 15 it = 0.49it-2
+a PAR 15 + 0.51 [ 0.29 !
+a PAR 15 2.11(ut+3|t-
+a PAR 15 1.59πt+3|t ] 7 .   estimated tips - based rule
+a PAR 15 πcomp5|t denotes the time - t difference between 5-yr nominal treasury yields and tips .
+a PAR 15 sample begins in 1999 due to tips volatility in 1997 - 8 .
+a PAR 15 = 0.97it-1 + [ -1.24
+a PAR 15 + 0.69πcomp5|t ] .40b
+a PAR 15 a rmse for rules with imposed coefficients is calculated setting π*=1.5 .
+a PAR 15 b rmse for tips - based rule is calculated for 1999:1 - 2005:2 .
+a PAR 15 i fomc - restricted controlled ( fr ) page 18 of 35 the “ measured pace ”
+a PAR 15 sentence were included , the extent of the rally might be limited by a recognition that some further policy tightening could still be in the cards .
+
+b SENT -- apart from updating the description of the current economic situation , the proposed announcement associated with alternative b is little changed from that issued after the june meeting .
+b PAR 10 if the committee agrees with the staff ’s assessment that a small amount of slack remains in the economy and that the current configuration of financial asset prices is likely to prove consistent with the expansion of aggregate spending coming into line with potential output growth before long , it may be attracted to the 25-basis- point firming and statement language of alternative b .
+b PAR 10 investors currently anticipate a quarter - point move at this meeting followed by several additional firmings— expectations that should be largely preserved by the combination of policy action and language proposed under this alternative .
+b PAR 10 and , while recent indicators suggest that the growth of aggregate demand has been surprisingly buoyant of late , the committee may interpret the relatively low inflation readings for recent months as indicating that prices are not currently in the process of accelerating .
+b PAR 10 the federal open market committee decided today to raise its target for the federal funds rate by 25 basis points to 3 - 1/4 percent .
+b PAR 10 the federal open market committee decided today to raise its target for the federal funds rate by 25 basis points to 3 - 1/2 percent .
+b PAR 10 the federal open market committee decided today to raise its target for the federal funds rate by 25 basis points to 3 - 1/2 percent .
+b PAR 10 the federal open market committee decided today to raise its target for the federal funds rate by 50 basis points to 3 - 3/4 percent .
+b PAR 10 the committee believes that , even after this action , the stance of monetary policy remains accommodative and , coupled with robust underlying growth in productivity , is providing ongoing support to economic activity .
+b PAR 10 the committee believes that , even after this action , the stance the degree of monetary policy remains accommodative and , coupled with robust underlying growth in productivity , is providing ongoing support to economic activity .
+b PAR 10 accommodation has been substantially reduced .
+b PAR 10 [ no change ] the committee believes that , even after this action , the stance of monetary policy remains accommodative and , coupled with robust underlying growth in productivity , is providing ongoing support to economic activity .
+b PAR 10 3 . although energy prices have risen further , the expansion remains firm and labor market conditions continue to improve gradually .
+b PAR 10 although energy prices have risen further , tthe expansion remains firm despite high energy prices , and labor market conditions continue to improve gradually .
+b PAR 10 although energy prices have risen further , the expansion remains firm aggregate spending , despite high energy prices , appears to have strengthened since late winter , and labor market conditions continue to improve gradually .
+b PAR 10 although energy prices have risen further , the expansion remains firm aggregate spending appears to be expanding briskly despite high energy prices , and labor market conditions continue to improve gradually .
+b PAR 10 rationale 4 .
+b PAR 10 pressures on inflation have stayed elevated , but longer - term inflation expectations remain well contained .
+b PAR 10 pressures on inflation have stayed elevated , but core inflation has been relatively low in recent months , and longer - term inflation expectations remain well contained .
+b PAR 10 pressures on inflation have stayed elevated , but core inflation has been relatively low in recent months and longer - term inflation expectations remain well contained , but pressures on inflation have stayed elevated .
+b PAR 10 pressures on inflation have stayed elevated , but core inflation has been relatively low in recent months and longer - term inflation expectations remain seem well contained , but pressures on business costs and inflation appear to be increasing .
+b PAR 10 the committee perceives that , with appropriate monetary policy action , the upside and downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal .
+b PAR 10 [ no change ]
+b PAR 10 [ no change ]
+b PAR 10 [ none ] assessment of risk 6 .
+b PAR 10 with underlying inflation expected to be contained , the committee believes that policy accommodation can be removed at a pace that is likely to be measured .
+b PAR 10 nonetheless , the committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability .
+b PAR 10 with underlying inflation expected to be contained , the committee believes that remaining policy accommodation can be removed at a pace that is likely to be measured .
+b PAR 10 nonetheless , the committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability .
+b PAR 10 [ no change ]
+b PAR 10 [ none ] class i fomc - restricted controlled ( fr ) page 11 of 35 since mid-2004 ( chart 5 ) .
+b PAR 10 according to those estimates , continued policy firming at a pace of 25 basis points per meeting would bring the real funds rate within the range of staff estimates of its equilibrium value by november .
+b PAR 10 but even if members believe that such a sequence of policy actions is likely to produce sufficient restraint on inflation , they might judge it premature to send any signal at this time that the course of policy tightening is nearing completion .
+b PAR 10 indeed , in light of the recent indications of strong economic activity , policymakers may have boosted their sense of the degree of policy tightening that will prove necessary and may now even see an appreciable probability that the federal funds rate will need to be raised for a time above its estimated short - run equilibrium value .
+b PAR 10 even with such an assessment , though , members may judge that continuing to tighten policy at a measured pace , albeit over a slightly longer period than previously anticipated , should provide adequate restraint on spending and inflation .
+b PAR 11 as shown in table 1 , the statement for alternative b updates the wording employed in june in light of incoming data on spending , output , and employment by noting that “ aggregate spending , despite high energy prices , appears to have strengthened since late winter , and labor market conditions continue to improve gradually.”5   the committee might acknowledge incoming price data by noting that “ core inflation has been relatively low in recent months , ” and , with both survey and tips - based measures of inflation expectations little changed , it could reiterate that “ longer - term inflation expectations remain well contained . ”   however , it might wish to emphasize that “ pressures on inflation have stayed elevated ” by moving that thought to the end of the sentence .
+b PAR 11 the statement could again indicate that “
+b PAR 11 with appropriate monetary policy action , the upside and downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal . ”   that 5 this statement will need to be reviewed in light of friday ’s labor market report .
+b PAR 11 a revised table 1 will be distributed to the committee should changes appear warranted .
+b PAR 11 i fomc - restricted controlled ( fr ) page 12 of 35 chart 5 equilibrium real federal funds rate percent 50 b.p . tightening 25 b.p .
+b PAR 11 tightening current rate notes : the real federal funds rate is constructed as the difference between the quarterly average of the actual nominal funds rate and the log difference of the core pce price index over the previous four quarters .
+b PAR 11 for the current quarter , the nominal funds rate used is the target federal funds rate as of the bluebook publication date .
+b PAR 11 confidence intervals and bands reflect uncertainties about model specification , coefficients , and the level of potential output .
+b PAR 11 the final column indicates the values for the current quarter based on the estimation for the previous bluebook , except that the tips - based measure and the actual real funds rate are the values published in the previous bluebook .
+b PAR 11 short - run estimates with confidence bands short - run and medium - run measures actual real federal funds rate range of model - based estimates 70 percent confidence band 90 percent confidence band greenbook - consistent measure
+b PAR 11 current estimate previous bluebook short - run measures confidence intervals for three model - based estimates 70 percent confidence interval ( 0.7 - 3.6 ( 90 percent confidence interval -0.2 - 4.4 ( medium - run measures confidence intervals for two model - based estimates 70 percent confidence interval ( 1.4 - 3.2 ( 90 percent confidence interval ( 0.7 - 3.7 ( memo class
+b PAR 11 i fomc - restricted controlled ( fr ) page 13 of 35 equilibrium real rate chart :
+b PAR 11 explanatory notes the equilibrium real rate is the real federal funds rate that , if maintained , would be projected to return output to its potential level over time .
+b PAR 11 the short - run equilibrium rate is defined as the rate that would close the output gap in twelve quarters given
+b PAR 11 a model ’s projection of the economy , and the medium - run concept is the value of the real funds rate projected to keep output at potential in seven years under the assumption that monetary policy acts to bring actual and potential output into line in the short run and then keep them equal thereafter .
+b PAR 11 the real federal funds rate employs the log difference of the core pce price index over the previous four quarters as a proxy for expected inflation , with the staff projection used for the current quarter .
+b PAR 11 since tips indexation is based on the total cpi , the tips - consistent measure incorporates an adjustment for the expected difference between cpi inflation and core pce inflation .
+b PAR 11 measure description single - equation model
+b PAR 11 the measure of the equilibrium real rate in the single - equation model is based on an estimated aggregate - demand relationship between the current value of the output gap and its lagged values as well as the lagged values of the real federal funds rate .
+b PAR 11 in light of this model ’s simple structure , the short - run measure of the equilibrium real rate depends only on the recent position of output relative to potential , and the medium - run measure is virtually constant .
+b PAR 11 small structural model the small - scale model of the economy consists of equations for five variables : the output gap , the equity premium , the federal budget surplus , the trend growth rate of output , and the real bond yield .
+b PAR 11 unlike the estimates from the single - equation model , values of the equilibrium real rate also depend directly on conditions associated with output growth , fiscal policy , and capital markets .
+b PAR 11 large model ( frb / us ) estimates of the equilibrium real rate using
+b PAR 11 frb / us—
+b PAR 11 the staff ’s
+b PAR 11 large - scale econometric model of the u.s . economy — depend on a very broad array of economic factors , some of which take the form of projected values of the model ’s exogenous variables .
+b PAR 11 these projections make use of several simple forecasting rules which are appropriate for the three - year horizon relevant for the short - run concept but are less sensible over longer horizons .
+b PAR 11 thus , we report only the short - run measure for the frb / us model .
+b PAR 11 greenbook- consistent measures of the equilibrium real rate can not be directly obtained from the greenbook forecast , because the greenbook is not based on a formal model .
+b PAR 11 rather , we use the frb / us model in conjunction with an extended version of the greenbook forecast to derive a greenbook - consistent measure .
+b PAR 11 frb / us is first add - factored so that its simulation matches the extended greenbook forecast ,
+b PAR 11 and then a second simulation is run off this baseline to determine the value of the real federal funds rate that closes the output gap .
+b PAR 11 the medium - run concept of the equilibrium real rate is not computed because it requires a relatively long extension of the greenbook forecast .
+b PAR 11 tips - consistent yields on tips ( treasury inflation - protected securities ) incorporate investors ’ expectations of the future path of real interest rates .
+b PAR 11 the seven - year instantaneous real forward rate derived from tips yields as of the bluebook publication date reflects the short - term real interest rate expected to prevail in seven years .
+b PAR 11 this forward rate is adjusted down for a term premium , assumed to be 70 basis points , and adjusted up for the difference between total cpi inflation and core pce inflation , projected to be 40 basis points in the medium run .
+b PAR 11 i fomc - restricted controlled ( fr ) page 14 of 35 assessment would also support retention of the phrase indicating that the removal of policy accommodation can likely proceed at a measured pace .
+b PAR 12 investors appear virtually certain that the fomc will increase the target federal funds rate 25 basis points at this meeting , and they reportedly put high odds on an announcement that retains both the measured pace language and the assessment that the risks to sustainable growth and to price stability should remain balanced with appropriate policy action .
+b PAR 12 thus , the market reaction to an announcement along the lines of alternative b should be relatively modest , although rates could back up a little in response to the changes in the wording suggesting that the fomc was focusing on the strength in spending and inflation pressures .
+b PAR 12 barring significant downside surprises in economic data over coming weeks , investors would likely come to boost further the already substantial odds placed on additional policy moves later this year , particularly should public statements by policymakers point to a continuation of firming .
+
+c SENT -- the proposed announcement for alternative c emphasizes the strength of aggregate spending , suggests that pressures on business costs and inflation could be increasing , and eliminates all forward - looking language .
+c PAR 16 if the committee has become significantly more concerned about inflation pressures of late , it may favor the 50-basis - point increase in the federal funds rate of alternative c .
+c PAR 16 greater worries about inflation prospects could have been prompted by the brisk growth in aggregate demand apparently in train in the current quarter , which could be read as suggesting that asset prices are not exerting sufficient restraint on spending to keep actual output from overshooting its potential before long .
+c PAR 16 moreover , members may see the potential for an intensification of cost pressures stemming from a variety of sources .
+c PAR 16 the further rise in far - dated oil futures prices over the intermeeting period , for example , suggests that business energy costs will ratchet up somewhat further in coming months .
+c PAR 16 also , members may be concerned about the potential for further acceleration in unit labor costs if their assessment of the nairu is noticeably higher than the staff ’s estimate of 5 percent or if they judge that structural productivity growth could be slowing more sharply than estimated by the staff .
+c PAR 16 indeed , the slower growth of productivity in recent quarters as well as the lower estimates of productivity implied by the annual revisions to the national income and product accounts might incline policymakers to trim their views of structural productivity even more than has the staff .
+c PAR 16 and , even if they had a baseline outlook for the economy and prices similar to that in the greenbook forecast , members may prefer lower inflation than the 2 percent core pce rate projected by the staff for late 
+c PAR 17 the committee could consider a number of modifications to its statement in conjunction with the selection of alternative c .   for instance , the fomc might wish to delete the reference to “ robust underlying growth in productivity . ”
+c PAR 17 although the staff continues to forecast solid growth of structural productivity , the committee ’s confidence on this score may be diminishing and hence it might not wish to class i fomc - restricted controlled ( fr ) page 19 of 35 characterize the pace of underlying productivity growth so explicitly .
+c PAR 17 the statement could highlight the strength of the economy by stating that “ aggregate spending appears to be expanding briskly despite high energy prices . ”
+c PAR 17 it could acknowledge recent price developments while registering some concern about inflation prospects by noting that “ core inflation has been relatively low in recent months and longer- term inflation expectations seem well contained , but pressures on business costs and inflation appear to be increasing . ”   as discussed in the june bluebook , the committee might also take this opportunity to eliminate the forward - looking language from the statement , dropping both the risk assessment and the last two sentences referring to the measured pace of tightening and to the committee
+c PAR 17 ’s commitment to respond to economic developments as needed to maintain price stability .
+c PAR 18 market participants would no doubt be taken aback by the combination of a 50-basis - point increase in the funds rate at this meeting and the announcement suggested for alternative c .
+c PAR 18 investors might infer that policy firming in the current cycle would likely bring the funds rate appreciably above 4¼ percent , the peak funds rate that seems to be currently incorporated in market prices .
+c PAR 18 moreover , with the elimination of the measured - pace language , market participants might come to believe that at least some of that rate gap could be covered in additional 50-basis - point strides .
+c PAR 18 with the expected policy path pushed sharply upward and little forward- looking guidance provided by the fomc , investors ’ uncertainty regarding the future path of policy would likely increase .
+c PAR 18 in all likelihood , the upward revision to policy expectations would trigger a sell - off in fixed - income and equity markets and a rise in the foreign - exchange value of the dollar , although the increase in long - term yields and appreciation of the dollar could be limited if the drop in share prices were especially sharp .
+c PAR 18 if the fomc were particularly concerned about inflation pressures but was not prepared to hike rates 50 basis points at this meeting , it could couple a quarter- point move with some of the changes in the statement
+c PAR 18 suggested for alternative c . class
+c PAR 18 i fomc - restricted controlled ( fr ) page 20 of 35 such a pairing would temper the surprise to market participants , but it would probably still lead them to mark up significantly their expectations of policy firming .
+c PAR 18 money and debt forecasts 
+
