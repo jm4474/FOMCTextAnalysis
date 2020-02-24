@@ -1,0 +1,2368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMC Conference Call Transcript, May 9, 2010
+
+
+ 
+
+ 
+
+ 
+
+Conference Call of the Federal Open Market Committee on 
+
+May 9, 2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A conference call of the Federal Open Market Committee was held on Sunday, May 9, 
+
+2010, at 11:20 a.m.  Those present were the following: 
+
+Ben Bernanke, Chairman 
+
+William C. Dudley, Vice Chairman 
+
+James Bullard 
+
+Elizabeth Duke 
+
+Thomas M. Hoenig 
+
+Donald L. Kohn 
+
+Sandra Pianalto 
+
+Eric Rosengren 
+
+Daniel K. Tarullo 
+
+Kevin Warsh 
+
+Charles L. Evans, Richard Fisher, Narayana Kocherlakota, and Charles I. Plosser, 
+
+Alternate Members of the Federal Open Market Committee 
+
+Jeffrey M. Lacker, Dennis P. Lockhart, and Janet L. Yellen, Presidents of the Federal 
+
+Reserve Banks of Richmond, Atlanta, and San Francisco, respectively 
+
+Brian F. Madigan, Secretary and Economist 
+
+Matthew M. Luecke, Assistant Secretary 
+
+David W. Skidmore, Assistant Secretary 
+
+Michelle A. Smith, Assistant Secretary 
+
+Scott G. Alvarez, General Counsel 
+
+Nathan Sheets, Economist 
+
+David J. Stockton, Economist 
+
+Alan D. Barkema, Thomas A. Connors, Jeff Fuhrer, Christopher J. Waller, and David W. 
+
+Wilcox, Associate Economists 
+
+Brian Sack, Manager, System Open Market Account 
+
+James A. Clouse, Deputy Director, Division of Monetary Affairs, Board of Governors 
+
+Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors 
+
+Michael Leahy, Senior Associate Director, Division of International Finance, Board of 
+
+Governors 
+
+Valerie Hinojosa and Randall A. Williams, Records Management Analysts, Division of 
+
+Monetary Affairs, Board of Governors 
+
+May 9, 2010 1 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Harvey Rosenblum and John C. Williams, Executive Vice Presidents, Federal Reserve 
+
+Banks of Dallas and San Francisco, respectively 
+
+ 
+
+ 
+
+ 
+
+  
+
+David Altig, Patricia C. Mosser, Arthur J. Rolnick, Daniel G. Sullivan, and John A. 
+
+Weinberg, Senior Vice Presidents, Federal Reserve Banks of Atlanta, New York, 
+
+Minneapolis, Chicago, and Richmond, respectively 
+
+Anna Nordstrom, Assistant Vice President, Federal Reserve Bank of New York 
+
+May 9, 2010 2 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Transcript of the Federal Open Market Committee Conference Call on 
+
+May 9, 2010 
+
+CHAIRMAN BERNANKE.  Good morning, everybody.  I’m sorry to interrupt your 
+
+Mother’s Day.  I hope this won’t be too lengthy a meeting.  The topic for today is the request that 
+
+we now have to activate the foreign currency swaps—when we spoke on Friday, we had not 
+
+received any formal request.  Yesterday Jean-Claude Trichet called me and made what I would 
+
+characterize as a personal appeal to reopen the swaps that we had before.  This morning I have 
+
+gotten, again, personal calls from Mervyn King, of the Bank of England, and Masaaki 
+
+Shirakawa, of the Bank of Japan, also asking us to reopen the swaps.  I’m also informed—and 
+
+later we can ask Nathan Sheets to talk about this—that the Bank of Canada and the Swiss 
+
+National Bank are also interested in joining a multilateral swaps arrangement among the G-7 
+
+plus Switzerland. 
+
+Let me give you general background on the discussions that I have been having, and then 
+
+we can have a couple of comments from staff.  After that, we’ll want to have a go-round or an 
+
+open discussion session, so that I can hear your views on how we should proceed with this. 
+
+First of all, as you know, there has been a lot of activity over the weekend in Europe.  
+
+There’s a great deal of concern there about what’s going to happen tomorrow and this week in 
+
+financial markets.  Friday evening, Ecofin, which is the leadership of the EU for economic 
+
+matters, met and, as you probably read in the paper, announced some plans to set up a financing 
+
+mechanism in Europe that would ultimately be used to guarantee the debt of sovereign nations in 
+
+the euro zone.  Ecofin is meeting today, beginning around 9:00 a.m. our time, and they expect to 
+
+be done around noon or 12:30 p.m. our time.  They will be prepared to announce additional 
+
+measures.  I have a call with the G-7 ministers and governors at 2:00 p.m. our time, where we 
+
+will hear in detail what Ecofin is planning.  Again, I think the basic proposals will be some kind 
+
+May 9, 2010 3 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+of guarantee mechanism for euro debt, plus, we hope—although we’re not certain—that there 
+
+will be new austerity measures from Portugal and Spain, and additional mechanisms or steps 
+
+may be taken as well.  We know that things are being discussed, but nothing concrete has been 
+
+agreed upon. 
+
+Very importantly, the European Central Bank this morning had a meeting of its Executive 
+
+Board and came to some very significant decisions.  Jean-Claude Trichet shared them with me 
+
+this morning on a highly confidential basis.  Of course, I want to tell you about them, but this is 
+
+extremely confidential, so please take that into account.  The ECB is very concerned about the 
+
+situation, and you will be able to see that in terms of the actions that they have decided to take. 
+
+First, they will be restoring their three-month and six-month fixed-rate tenders, which 
+
+essentially provide an unlimited supply of funding to their banking system at fixed rates over 
+
+three and six months; from their perspective, this amounts to reopening the unusual liquidity 
+
+measures that they had shut down before.  That is important, but it’s not the most important 
+
+thing.  The novel intervention, and one that will be highly controversial in Europe, and probably 
+
+here as well, is that the ECB is preparing to have an open-ended intervention policy in any 
+
+market that they deem dysfunctional or illiquid.  That means that they will stand ready to buy 
+
+any public or private security, denominated in euros, that’s traded in a market in which there is 
+
+dysfunction or disorderly movement.  There will be no limit to the amount that they are going to 
+
+be prepared to buy. 
+
+The philosophy underlying this is, I think, analogous to foreign exchange rate 
+
+intervention; that is, they’re not setting up a fixed amount that they are going to buy, as we did 
+
+with our securities purchases, and they are not setting up a facility that will buy bonds as offered 
+
+at a fixed rate.  Rather, they are going to enter markets tactically and randomly in ways that will 
+
+May 9, 2010 4 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+try to make it expensive for speculators to bet against European bonds or even against private 
+
+securities like the debt of European banks.  They intend to sterilize their purchases, so that the 
+
+net effect of these purchases on the monetary base will be nil or small.  By doing so, they hope to 
+
+protect the euro and to avoid any spillover into inflation expectations.  So, to summarize, this 
+
+will be a market-oriented intervention, with the goal of stabilizing markets and preventing 
+
+momentum-driven speculation from creating problems beyond the fundamental problems.  It’s 
+
+worth asking whether or not this will be effective.  It’s certainly an interesting approach, and I 
+
+suspect it will have at least some short-term effects.  But it cannot solve the longer-term problem 
+
+without fiscal support and fiscal action. 
+
+The ECB is waiting to hear the outcome of the Ecofin meeting.  The ECB has not yet 
+
+taken legal steps, and it will not announce anything until tonight—Jean-Claude assures me that 
+
+they will not take these actions unless they are persuaded that there is real help coming on the 
+
+fiscal side.  They view themselves as kind of “holding the fort” for a short period until the 
+
+fiscal/political side can take the necessary action.  So we will see—as I said, I have a call at 
+
+2:00 p.m., and I’m sure I will get all of the Ecofin news at that time. 
+
+I just want to emphasize—and I think it’s obvious to everybody—what an extraordinary 
+
+step this is, particularly for the ECB, which has been relatively conservative on market 
+
+interventions.  It shows that they are very, very concerned about the situation.  As I said, I would 
+
+also characterize Trichet’s call to me as being a personal appeal.  He feels it is very important for 
+
+us to support him, and he understands our concerns, which, I will, of course, discuss.  I got very 
+
+much some of the same tone from Mervyn King, and, to a lesser extent, even from Shirakawa, 
+
+who says that Japan is also facing pressure, and they are very concerned about contagion. 
+
+May 9, 2010 5 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Turning to the swaps, in a moment, I’m going to give Brian Sack a chance to comment in 
+
+more detail on interbank markets and on the foreign exchange markets, and give us some more 
+
+analysis of the market implications of this, so that we can all make our own assessments.  My 
+
+own view is that the swaps would be substantively helpful in addressing some of the interbank 
+
+flows and certain other problems there.  Moreover, everybody I’ve talked to about this in the 
+
+central banking world thinks that at least as important as the direct effect on the dollar funding 
+
+problems would be the psychological effects of an international coordinated effort in size that 
+
+supplements the main actions, which have to be in Europe.  I think we all agree that this is not 
+
+going to work unless the Europeans are taking the lead and are taking strong steps towards 
+
+addressing the fiscal actions.  My own view is that, absent any political considerations, this 
+
+would be a pretty easy call, in that it would support financial markets, both globally and in 
+
+Europe, and would be an important indicator of solidarity.  I noted this morning that Vice 
+
+President Biden is in Europe and said that the United States would do everything possible to 
+
+assist the Europeans; I think that that symbolism is also very important. 
+
+That being said, as you know, we can’t ignore the politics of this by any means.  I think 
+
+the Sanders amendment is now in a good place in terms of providing independence to monetary 
+
+policy and to other activities, including the discount window and international transactions.  The 
+
+vote on that is currently planned for Tuesday.  Clearly, there’s some risk that action of the sort 
+
+that we’re contemplating would be portrayed as a bailout or another Federal Reserve unilateral 
+
+action.  I think that, to be responsible, we really do have to take into account those kinds of risks, 
+
+because they could affect the integrity of the Federal Reserve going forward.  So I think it is an 
+
+appropriate consideration as we discuss the substance of this issue. 
+
+May 9, 2010 6 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Let me talk about that a bit, and I’ll also give Linda Robertson a chance to make her 
+
+comments.  I have had discussions primarily with the Administration—not only the Secretary, 
+
+but also with Rahm Emanuel.  The Administration’s position is as follows:  The Federal Reserve 
+
+needs to make this decision based on its economic merits; the Federal Reserve should do what it 
+
+thinks is right for the world economy; and, whatever that decision may be, the Administration 
+
+will support us 100 percent.  “Support” means:  first, that the President will support the action; 
+
+second, that the President will make clear that he will not accept—that is, perhaps, if necessary, 
+
+he will veto—any bill that circumscribes the Federal Reserve’s independence or its ability to 
+
+function as lender of last resort; and, third, that the Administration will do all that it can to 
+
+communicate these views to the Congress and the congressional leadership, including not just 
+
+folks like Senator Reid and Congresswoman Pelosi, but also people like Senator Sanders and 
+
+others, because we need to make sure they understand what we’re doing and why we’re doing it.  
+
+For what it’s worth, Emanuel’s view was that this was a manageable situation; that, while it was 
+
+not without risks, the Congress would appreciate the severity of the financial risks; that, in any 
+
+case, we should do what’s right from an economic point of view; and that at least the 
+
+Administration would be fully behind us in dealing with any ramifications in the Congress. 
+
+Now, whether to proceed is, of course, going to be a judgment call.  Certainly, if we 
+
+decide to go ahead with this, I will be talking to some Republicans, because I assume the 
+
+Administration will talk to Democrats, and we’ll just try to make sure, within the bounds of 
+
+keeping this quiet—and, obviously, that’s a potential issue—that we get a broad understanding 
+
+of what we’re doing, namely, that it’s part of a U.S. and international effort to stabilize global 
+
+financial markets and not just European financial markets.  But I think we all recognize that this 
+
+May 9, 2010 7 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+is a concern.  Given the importance of maintaining an independent Federal Reserve, I don’t think 
+
+it is inappropriate that that be part of our discussion. 
+
+I’d like to hear your views.  My inclination would be to ask you to consider giving me 
+
+approval to proceed with swap arrangements with all of these other central banks, to be 
+
+announced either this evening or tomorrow morning, in time for market openings, contingent on 
+
+two things.  The primary one is that the Europeans, the Ecofin and the ECB, come through with 
+
+strong and effective measures, at least as strong as those that have already been described to me.  
+
+The second one is that there not be any pushback from the political side that leads us to become 
+
+particularly concerned; if that were to happen, I think it would be important to come back to you 
+
+and let you understand what risks there are.  So that would be where I am, but I would very much 
+
+like to have your advice and counsel.  Before I turn to a go-round, let me just check in with a few 
+
+staff.  Brian Sack, you’re in Basel, correct?  Are you on the line? 
+
+MR. SACK.  Yes, I am. 
+
+CHAIRMAN BERNANKE.  I have not discussed this with you over the weekend.  Could 
+
+you just comment on what you see now and on anything you want to report on your discussions 
+
+in Basel about the state of financial markets in general or swaps markets and the interbank 
+
+market in particular? 
+
+MR. SACK.  Sure.  Let me make a few comments about markets broadly, but I’ll focus 
+
+primarily on the funding markets.  The situation is largely the same as it was when we discussed 
+
+it previously.  Obviously, investors’ concerns about sovereign risk have spilled beyond Greece 
+
+and into other European countries, including Portugal, Spain, Ireland, and Italy.  Investors have 
+
+attempted to reduce exposures to sovereign risk in those countries.  That movement has become 
+
+more widespread and indiscriminate, resulting in a significant increase in the yield spreads for 
+
+May 9, 2010 8 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+the debt of all of those countries.  The pressures in sovereign debt have created concerns about 
+
+European financial institutions and a general flight to liquidity.  In particular, we’ve seen 
+
+substantial pressure in dollar funding markets for European institutions. 
+
+Let me review in more detail where we stand on that.  I think that, at this point, unsecured 
+
+dollar funding in European markets has essentially collapsed to overnight lending, or at least to 
+
+very short-term lending, particularly over the past couple of days.  So term funding is either very 
+
+expensive or simply not available.  You see this in some measures, such as a rise in LIBOR, but 
+
+LIBOR doesn’t really capture the rate at which these institutions are borrowing.  You see it more 
+
+strongly in other measures, such as implied dollar funding rates through FX swaps—of course, a 
+
+lot of these institutions borrow in euros and swap into dollars.  The FX swaps market has come 
+
+under a lot of pressure, and we’ve seen liquidity dry up considerably in that market.  On the repo 
+
+side, repo markets are still functioning, but we are seeing a large degree of tiering across both the 
+
+types of collateral and types of counterparties, and, in general, I think the investor pullback from 
+
+financing European institutions has become wider.  Certainly, the banks that are providers of 
+
+funds are participating in that, but now the money market mutual funds as well seem to be 
+
+pulling back.  It’s not necessarily that they’re actively selling and trying to get out of positions, 
+
+but they’re certainly not willing to roll over investments the way they were.  So they’re basically 
+
+rolling into overnight investments and being much more discriminating, that is, making much 
+
+more differentiation across borrowers. 
+
+There is widespread focus on the potential for government actions this weekend.  I would 
+
+say that the chances of implementing something like FX swaps or liquidity swap lines across the 
+
+central banks are perceived as very likely, and there’s a lot of discussion of other policy 
+
+measures that might be taken over the weekend.  So I do believe that, if the government actions 
+
+May 9, 2010 9 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+are seen as inadequate or incomplete, then funding markets would be under considerable 
+
+pressure early next week. 
+
+Many also say they’re worried about funding conditions for U.S. institutions and U.S. 
+
+markets.  However, the U.S. situation has held up relatively well.  Most anecdotes suggest that 
+
+there hasn’t been much change in haircuts or rates of maturity.  So U.S. institutions are still 
+
+having success at funding themselves in U.S. markets.  I think a lot of funding desks had 
+
+expected to see some pressure on Friday—they were kind of braced for that—but it didn’t 
+
+materialize to the degree they expected.  I think there has been a bit of widening in bid–ask 
+
+spreads and maybe a bit of loss of liquidity, but that’s about it.  We do hear a few exceptions to 
+
+that, such as one or two anecdotes of institutions having to pay up through different vehicles, and 
+
+there was one commentary suggesting there has been a bit more cutback in haircuts and rate 
+
+effects than we see.  I think there’s discussion of, but not evidence of, widespread pressure on 
+
+domestic markets.  So, for now, this is a story of European institutions’ ability to fund 
+
+themselves in dollars.  But I think we’re very cognizant of the risk of spillovers into funding 
+
+markets for U.S. institutions. 
+
+Moving away from money markets, it’s also worth noting that the concerns about 
+
+European sovereign debt and the associated liquidity pressures have prompted a broader flight 
+
+from risk in recent days.  Equity prices have tumbled around the world, and corporate bonds and 
+
+other private debt instruments have suffered.  This response in part reflects worries about the 
+
+economic consequences of the pressures in Europe, but it also simply represents a shift in 
+
+investor sentiment and a flight to safety.  That flight to safety has benefited U.S. Treasuries—
+
+we’ve seen 10-year Treasury yields fall 30 basis points since the FOMC meeting. 
+
+May 9, 2010 10 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Lastly, the euro has weakened notably against the dollar.  It’s down nearly 4 percent 
+
+since the last FOMC meeting, which is an acceleration of the depreciation trend that had been 
+
+seen over previous months. 
+
+Overall, there has been a strong shift in sentiment in the markets.  The situation remains 
+
+fragile, with considerable focus on what government actions might be taken to stem these 
+
+negative dynamics.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thanks.  Are there any questions for Brian, or does 
+
+anybody else want to add any color?  [No response.]  I see no questions.  Let me turn then to 
+
+Nathan Sheets.  Are you there? 
+
+MR. SHEETS.  I am indeed. 
+
+CHAIRMAN BERNANKE.  Nathan, could you just comment on the technicalities of 
+
+getting this together?  I assume that we would not be able actually to implement anything for a 
+
+few days and that we would just want to go with a statement today.  Is that your understanding? 
+
+MR. SHEETS.  That is.  We are having consultations with staff at the foreign central 
+
+banks and essentially dusting off the technical apparatus that we used when the swap lines were 
+
+functioning.  Our sense is that we could certainly do an announcement tonight and that we can 
+
+agree on some common language with them.  That would allow them to do auctions probably by 
+
+Tuesday, and then the disbursement of any auction funds would probably be by Wednesday or 
+
+Thursday of next week.  So if it’s the will of the Committee, our sense on the technical side is 
+
+that we can move pretty quickly with this. 
+
+CHAIRMAN BERNANKE.  Thanks.  I didn’t warn you about this, Nathan, but do you 
+
+have commentary from what you have picked up in Basel about the state of the economy or the 
+
+state of the markets in Europe or anything about sentiment? 
+
+May 9, 2010 11 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. SHEETS.  People are very, very nervous.  In terms of specific policy 
+
+announcements, people are waiting for the press release from Ecofin.  Nobody had as much 
+
+information as you just articulated to us.  One point that came up several times in the meetings 
+
+was that European participants noted that the real risks to their banking systems are tied into this 
+
+sovereign stress:  Their banks are holding sovereign instruments; the increased funding costs for 
+
+the sovereigns are passed through in the increased funding costs to the banking system; and, 
+
+perhaps most importantly, the stressed sovereigns are reducing the capacity of governments to 
+
+provide a backstop for the banking system.  So they see the heart and soul of the stresses on the 
+
+banking system as reflecting these sovereign stresses rather than some sort of previously existing 
+
+balance sheet problems. 
+
+CHAIRMAN BERNANKE.  Nathan, I have a technical question.  If there’s risk that the 
+
+euro might depreciate further, will that affect our security in our swaps?  How can we be sure 
+
+that we have a secure position?  
+
+MR. SHEETS.  My feeling is that our primary source of surety is the goodwill guarantee 
+
+that these major central banks give us that they will make good on unwinding the swap.  Now, if 
+
+the euro were to fall substantially, that would result in our euro holdings being worth less than 
+
+the swap value of the dollars.  One protection we have against that is that these are relatively 
+
+short-term transactions.  In the past, we have not taken steps like trying to do margins or mark to 
+
+market or that sort of thing. 
+
+MR. SACK.  Just to be clear, all we’re talking about here, though, is affecting the value 
+
+of the collateral, not the return of the funds. 
+
+MR. SHEETS.  Yes. 
+
+MR. SACK.  But they still have promised to repay the full amount. 
+
+May 9, 2010 12 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. SHEETS.  That’s right.  That’s the primary source of surety.  Even if the euro falls 
+
+and becomes worth less than the dollar, the ECB is still contractually obligated to repay us.  So 
+
+the decline in the value of the euro would be important only in the state of nature where the ECB 
+
+had defaulted, and we would put essentially zero possibility on that. 
+
+CHAIRMAN BERNANKE.  Trish, did you have something to add to that?   
+
+MS. MOSSER.  I was going to make the same point, namely, that the contracts are such 
+
+that, absent the ECB or one of the central banks defaulting to us, we will get all of our dollars 
+
+back.  The contracts are not dependent on future exchange rate levels. 
+
+CHAIRMAN BERNANKE.  Okay.  Questions?  I see President Plosser. 
+
+MR. PLOSSER.  Thank you, Mr. Chairman.  I have just a quick question.  Can you 
+
+review for us, Nathan or Brian, the terms of these swaps and the maturities that we’re 
+
+considering? 
+
+MR. SHEETS.  I think that that would be at the discretion of the Committee.  But in the 
+
+past these maturities have ranged from overnight, to one week, to one month, out to three 
+
+months.  And we’ve tailored the maturity of various auctions to meet the perceived liquidity 
+
+strains that existed in the markets.  Ideally, we’d continue to have that kind of flexibility to 
+
+determine the tenor of the swap funds based on market conditions. 
+
+VICE CHAIRMAN DUDLEY.  Mr. Chairman, this is Bill Dudley.  I think in our 
+
+discussions here, the general view has probably been to replicate as nearly as possible what we 
+
+had before, because the market has comfort and knowledge of that, and we also have a good 
+
+experience with it.  If we followed what we had before, we would have a penalty of 1 percentage 
+
+point.  And the real decision I think we would have to make is:  Do we want to make it 
+
+unlimited, that is, a fixed-rate tender swap, or do we want to cap the amount?  I would favor a 
+
+May 9, 2010 13 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+fixed-rate tender, with the market taking as much as it wanted at the penalty rate, as we did the 
+
+last time. 
+
+CHAIRMAN BERNANKE.  What was the maturity distribution last time, Bill?  Do you 
+
+remember? 
+
+VICE CHAIRMAN DUDLEY.  Yes.  Different countries had different auction cycles.  
+
+They followed the TAF, so there was a 28-day TAF and an 84-day TAF, obviously.  In addition 
+
+to that, they had weekly cycles. 
+
+I think that that’s really a second-order consideration, because they have to decide what 
+
+the appropriate maturity would be, what would work best from their perspective.  Of course, 
+
+what would be different this time is that we wouldn’t be reintroducing the TAF.  Instead, they 
+
+would just be conducting TAF-like auctions independent from us. 
+
+CHAIRMAN BERNANKE.   Thank you.  Other questions for Nathan?  President Lacker. 
+
+MR. LACKER.  You didn’t state this, but I’m assuming that the intended use of the swap 
+
+lines is for liquidity auctions, as we had last time, and not for intervention in foreign exchange 
+
+markets.  Is that correct?  On a related note, have you been asked to intervene in foreign 
+
+exchange markets? 
+
+CHAIRMAN BERNANKE.  No, we have not been asked to do it.  Go ahead, Nathan. 
+
+MR. SHEETS.  In response to the first question, it would be the case that these funds 
+
+would be restricted to be used for liquidity purposes.  They wouldn’t be available for foreign 
+
+exchange market intervention, as was the case with similar kinds of contracts that prevailed 
+
+when we had the swap lines in place before, with similar kinds of safeguards to keep the funds 
+
+from being used for that purpose. 
+
+MR. LACKER.  Will we sterilize these ourselves? 
+
+May 9, 2010 14 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+CHAIRMAN BERNANKE.  That’s a very good question.  Go ahead, Brian. 
+
+MR. SACK.  At the moment, it’s not clear that we have a need to sterilize them.  We are 
+
+operating with a target band for the funds rate.  We are drifting up to the upper end of that band.  
+
+So we could, but I think it’s not obvious that we need to. 
+
+VICE CHAIRMAN DUDLEY.  We also don’t know what the take-up of these swap lines 
+
+will be in practice. So it would seem to me that it would be premature to consider whether 
+
+sterilization was appropriate when you don’t even know the magnitude of the swaps that will be 
+
+outstanding. 
+
+CHAIRMAN BERNANKE.  I think that’s a very important question for us to discuss, but 
+
+I don’t think we have to decide that today, fortunately.  We may want to discuss it, particularly in 
+
+the context of our reserve-draining tools.  President Lockhart.  
+
+MR. LOCKHART.  Thank you, Mr. Chairman.  When we put the swap lines in place last 
+
+year or the year before, there were questions at that time about what the status of the dollar 
+
+reserves was in the ECB countries, and why would they not use those reserves.  As I recall, the 
+
+answer was that they simply wanted a supplemental capability and that they were protective of 
+
+their reserve positions.  Do we know the status of their reserve positions today?  And what 
+
+likelihood is there that they would actually draw down their reserves to provide some of this 
+
+liquidity? 
+
+CHAIRMAN BERNANKE.  I’ll let Nathan respond to that.  But let me say—just going 
+
+back to our previous discussions—that they saw value and we saw value in segregating the 
+
+reserves, which could be used for exchange rate intervention, and the swaps, which were 
+
+designated and dedicated to providing bank liquidity.  The other aspect of it is that confidence 
+
+May 9, 2010 15 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+and symbolism are important parts of the benefits of this, I think.  Nathan, do you have anything 
+
+to add to that? 
+
+MR. SHEETS.  Brian actually has these data.  
+
+MR. SACK.  We have an estimate of the amount of reserves for the euro area, so that 
+
+would be the ECB and all of the member central banks.  It looks as if it’s somewhere just above 
+
+$150 billion.  About half of that is actually held in custody at the New York Fed, so that gives us 
+
+a chance to have a glimpse at its composition.  In general terms, a lot of it is in Treasuries and 
+
+agencies, not surprisingly.  I think that gives you a sense of the status of their reserves.  But, 
+
+again, for them to use those reserves introduces a couple of complications.  It would require them 
+
+to go out and sell dollar assets, which we might not want to encourage in this market 
+
+environment.  Or, if they’re not going to sell dollar assets, they have to use those securities as 
+
+collateral in dollar repo funding transactions.  And, of course, if they’re taking dollar funding, 
+
+they could be taking it from other market participants.  The FX swaps, in a way, are an addition 
+
+in terms of the amount of dollar funding, whereas using the reserves are not necessarily. 
+
+CHAIRMAN BERNANKE.  Two-hander from President Lacker. 
+
+MR. LACKER.  If we don’t sterilize swap draws, we’re going to be taking dollar funding 
+
+from market participants in the U.S. and passing it on through the ECB.  I’m not quite sure I get 
+
+that.  Plus, there’s the issue of selling U.S. Treasuries.  Treasuries are getting scarce.  Their price 
+
+is going up because of the flight to quality.  So I’m not quite sure I understand your line of 
+
+argument, Brian. 
+
+MR. SACK.  I agree with your second point.  I was just pointing out that it will require 
+
+dollar asset sales.  You’re right that it’s in an asset class where there is demand.  But, relative to 
+
+the case of using swaps, it’s an incremental source of selling. 
+
+May 9, 2010 16 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+I didn’t fully follow the first part.  I think if we sterilize the operations, then, yes, we 
+
+would be removing short-term dollar funding from the market, just as would be the case if the 
+
+euro area countries had to use their holdings as collateral.  But that’s if we sterilize it.  If we 
+
+don’t sterilize, then I think it’s this net addition of dollar funding that I talked about. 
+
+MR. LACKER.  But if we don’t sterilize, we’re adding to bank reserves, we’re 
+
+essentially taking the funding from banks and lending it on through the ECB.  If we do sterilize 
+
+with reserve draining, then what are we doing?  We’re taking it from money market mutual 
+
+funds and handing it on. 
+
+MR. SACK.  If we don’t sterilize, I don’t see how we’re taking funding from anyone.  
+
+We’re just introducing new funding into the market. 
+
+CHAIRMAN BERNANKE.  It’s creating a monetary base.  President Fisher, do you 
+
+have a question? 
+
+MR. FISHER.  Thank you, Mr. Chairman.  I have two questions.  The last time we 
+
+activated our swap lines, of course, others piled on—we had Singapore, Chile, Mexico, and so 
+
+on.  My question is:  What’s the risk of other countries that are going to want to pile on? 
+
+As for my second question, maybe this isn’t the right time to ask it, but I’ll ask it anyway.  
+
+Let’s say Ecofin does come forward and we announce these swap lines.  I agree with you, Mr. 
+
+Chairman, that doing so would serve not only substantive purposes, but it also has a 
+
+psychological impact.  But let’s assume that it doesn’t work.  What are the next steps that we 
+
+might be asked to engage in?  I just want to have us think through a little bit, without taking too 
+
+much time, a decision tree going forward. 
+
+May 9, 2010 17 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+I think my first question presents a different set of political risks from the ones you’ve 
+
+already highlighted, Mr. Chairman.  So I’d be interested in Brian’s and Nathan’s judgment on 
+
+that. 
+
+CHAIRMAN BERNANKE.  We haven’t heard from anybody other than the G-7.  I think 
+
+that there’s a whole new level of political risk if we go to emerging markets.  I would never say 
+
+“never”—it depends on how market conditions evolve, and so on.  But my strong inclination 
+
+would not be to go beyond the G-7. 
+
+In terms of what we do next, I’m not sure there’s a whole lot more that the Federal 
+
+Reserve can do.  The fundamental issues have to do with fiscal stability in Europe, and that’s 
+
+something only they themselves can solve.  I think our additional actions would be along the 
+
+lines of making sure that our banks are stable.  If we had to do some kind of—I’m extrapolating 
+
+wildly here—new SCAP or something in the future, we could consider it.  But, quite honestly, I 
+
+can’t see what else we could do, other than, as I mentioned on Friday, respond to the 
+
+macroeconomic conditions of the United States, as necessary.  But that’s all I can think of. 
+
+MR. FISHER.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  President Plosser. 
+
+MR. PLOSSER.  Thank you, Mr. Chairman.  I’d like to go back to Jeff’s point about 
+
+sterilization for a minute.  I’m wondering about the optics.  If the ECB announces that its 
+
+interventions in these markets are going to be sterilized, and we, on the other hand, say we’re not 
+
+going to sterilize, in effect we’re doing quantitative easing in the United States, whereas they are, 
+
+in fact, resisting by sterilizing their own intervention in the other markets.  So I’m a little bit 
+
+curious about the imbalance in how we’re going to treat that.  It sort of goes back to Jeff’s 
+
+May 9, 2010 18 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+original question.  I think it’s a difficult question.  Do we want to be easing here on behalf of the 
+
+Europeans in that case? 
+
+CHAIRMAN BERNANKE.  You have to understand that our buying U.S. Treasuries and 
+
+the ECB’s buying Greek bonds are very different matters.  They’re taking very significant risks 
+
+with their credibility, with their political standing, and with the value of the euro.  I think what 
+
+they’re trying to do with the sterilization is to ensure that this decision doesn’t bleed over into a 
+
+major run on the euro.  I think that’s why they’re doing what they’re doing.  I don’t think we 
+
+have quite the same risks.  Having said that—and I take Brian Sack’s point that, in terms of 
+
+market conditions, given where we are, we’re probably talking about only a few basis points in 
+
+market conditions—I’m embarrassed that I haven’t brought a proposal on sterilization.  I think 
+
+we do need to talk about it. 
+
+But from the ECB’s point of view, particularly given their relatively more conservative 
+
+approach to this point, they’re the ones who are crossing an important line by expressing a 
+
+willingness to buy any asset, including Greek bank debt or whatever it might be that they deem 
+
+to be part of a disorderly market. 
+
+I don’t think the dollar is going to suffer vis-à-vis the euro on these announcements.  But, 
+
+again, your point about sterilization is important.  We should continue to think about that.  
+
+President Hoenig. 
+
+MR. HOENIG.  I have a couple of questions, and, if the timing isn’t right, we can defer 
+
+the discussion.  One is in reference to what Bill Dudley said, if I understood it correctly.  Were 
+
+you saying that these swaps would be kind of open-ended, subject to the demand for them?  Is 
+
+that correct? 
+
+May 9, 2010 19 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+VICE CHAIRMAN DUDLEY.  Well, it depends on how they’re structured.  They could 
+
+be structured as a fixed size, or they could be structured as a fixed-rate unlimited tender.  In the 
+
+last rounds after Lehman, we did them as fixed-rate unlimited size.  The reason for that, of 
+
+course, is that we’re not making a statement about what amount of liquidity the market demands.  
+
+We’re just saying that we’ll supply whatever liquidity, at a penalty interest rate.  That worked 
+
+pretty well, because, as markets normalized, the amount outstanding went down, and it wound 
+
+down very smoothly as the process unfolded. 
+
+Actually, I would argue that if we were to propose a fixed size, we probably would get 
+
+more demand than if we did an unlimited tender, because with a fixed size, people would be 
+
+worried that it will run out.  But if it’s unlimited, there’s less anxiety—it serves as more of a 
+
+backstop to the market than as something the market has to use.  I would think, from a balance 
+
+sheet perspective, that a fixed-rate tender would result in less demand relative to a large FX swap 
+
+program. 
+
+MR. HOENIG.  That leads to my second question and kind of comes back to the political 
+
+challenge we have, Mr. Chairman.  I think it’s important to have a discussion on how we would 
+
+announce this, because the misinformation or the misinterpretations of our actions could 
+
+multiply, given the history that we’ve just suffered through.  I think it’s very important that we 
+
+be very forthcoming.  If we’ve given any thought to how this announcement would look, it 
+
+would be of interest to me at this point, or before we get off the call. 
+
+CHAIRMAN BERNANKE.  Michelle, do you want to comment? 
+
+MS. SMITH.  Sure.  I had a few sort of unorganized thoughts about this.  One thing that I 
+
+think would be important is that our announcement should follow Ecofin’s announcement, and 
+
+that it should be as international as possible—so it would be the Federal Reserve, the Bank of 
+
+May 9, 2010 20 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Japan, the Bank of Canada, and so on.  In other words, it should be some sort of broader G-7 
+
+effort. 
+
+I would also make a few other points.  This is safe—we have never lost a penny, either in 
+
+the recent crisis experience or in the ongoing swap situations we’ve had with Mexico and 
+
+Canada.  This is not novel—this is what central banks do.  It is not a bailout, it’s not altruism—
+
+this is in our interest.  We have a recovery just getting going here in the United States, and this 
+
+helps keep European problems—and we wouldn’t say this in a statement—in Europe.  
+
+I have a question about whether there’s anything new we can do on transparency in this 
+
+arena.  If we could somehow say that we’re doing this in some newer, more transparent, quicker 
+
+way, I think that would help us to mitigate some of the political risk.  I don’t know if we can do 
+
+that, but if we could, I think that would be helpful. 
+
+VICE CHAIRMAN DUDLEY.  We can publish the amounts of the auction sizes for each 
+
+of the counterparties that we have.  They’re doing an auction, they’re announcing the results, and 
+
+we could just aggregate that information and publish it as it happens.  Each time they have an 
+
+auction, we could publish the individual counterparties and total results. 
+
+MR. KOHN.  We could publish the amounts for each counterparty each week at the same 
+
+time the H.4.1 comes out, so everybody knows everything on a weekly basis. 
+
+MS. SMITH.  The thing I would really try to underscore is that what the central banks are 
+
+doing is not a response to Europe’s problems.  Europe’s problems are being responded to with 
+
+real measures in Europe.  What we’re doing is helping to facilitate—structural plumbing, flows, 
+
+and so on—and protecting ourselves and our interests.  So I’d emphasize that this isn’t about the 
+
+Fed responding, doing a bailout, or anything like that. 
+
+May 9, 2010 21 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+CHAIRMAN BERNANKE.  Are there contracts with the other central banks, or 
+
+agreements, or something similar that we could release?  Nathan?  Brian? 
+
+MR. SHEETS.  We have never released swap agreements to the public.  It could be done, 
+
+but we’d probably want to look them over very carefully first, just for the sake of transparency 
+
+and clarity. 
+
+MS. SMITH.  I would say that it would be better if we could release those.  You saw the 
+
+kinds of things that members of the Congress said in some of the hearings.  Anything that we’re 
+
+keeping secret is just going to fuel their speculation. 
+
+CHAIRMAN BERNANKE.  Nathan, and maybe Scott, as well, assuming we proceed 
+
+with this, it would help if we could look at those agreements and ask if there’s anything there 
+
+that would prevent a release.  If there is, is it possible to rewrite new agreements that would be 
+
+publicly disclosable?  I can’t see fundamentally why there would be any problem with that. 
+
+MR. ALVAREZ.  I can’t either.  We’ve given out the contracts in our other facilities.  I 
+
+don’t see anything off the top of my head that we couldn’t sterilize if we had to.  I think the 
+
+agreements are actually very simple, very straightforward, and could be made available. 
+
+CHAIRMAN BERNANKE.  So all we would have to say today would be that we will be 
+
+releasing those contracts.  President Bullard. 
+
+MR. BULLARD.  These are international agreements, so you would have to get 
+
+agreement from the foreign central bank. 
+
+CHAIRMAN BERNANKE.  Well, we can ask them.  They are, in this case, the ones who 
+
+are asking for the swap lines—they want them very badly.  I think they would let us let us 
+
+characterize the situation—for example, who asked for the swap, or whatever—any way that we 
+
+May 9, 2010 22 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+think is beneficial from a communications point of view.  But your point is correct.  President 
+
+Fisher. 
+
+MR. FISHER.  Mr. Chairman, I just want to underscore that I think all of Michelle’s 
+
+points were spot on, and we need additional efforts, particularly because it’s our money, such as 
+
+releasing the contracts, so that we better inform those who feel we’re conspiring against them.  
+
+Mr. Chairman, I’d also like to talk a bit offline with you—I noticed you were looking at your 
+
+watch, and I’m conscious of that—about certain people I think should be spoken to in a timely 
+
+way, so that there’s no confusion. 
+
+I’d also say—and I’m sure Michelle has already thought this through—that we need to be 
+
+able to state this in the simplest possible English, so that it’s clearly understood that this is 
+
+something where we don’t bear a risk of loss, that it’s in our own best interest to do this, that 
+
+taking this step is a very cheap way to provide insurance against further contagion, and that it’s 
+
+certainly a better option than what might ensue if this were to infect our own system.  So I’m 
+
+basically underscoring the points that Michelle made.  They may have been unorganized 
+
+thoughts, but I think they touched all the right bases. 
+
+I also want to ask that we consider—and, again, this is a question of timing, because we 
+
+can’t run any risk of leaks—broadening our base a little bit in terms of key senators.  I have one, 
+
+as you know, particularly in mind that we have worked with very closely—hand-in-glove—and I 
+
+don’t want to undermine their sense of confidence in, and I want to enhance their understanding, 
+
+which is limited, of these rather esoteric but essential tools.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  I was looking at my watch because I have a 
+
+2:00 p.m. G-7 call, but that leaves us plenty of time, so there’s no concern about that. 
+
+President Hoenig. 
+
+May 9, 2010 23 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. HOENIG.   Thank you.  Just to carry this a bit further, I agree with what you said, 
+
+Michelle.  In terms of the reaction of some members of the Congress, I think their concern is that 
+
+we might be exposing the taxpayer to the risk of having to pick up the tab to save organizations 
+
+in Europe.  I agree with you, and with President Fisher, that it’s important to explain in simple 
+
+language that these are liquidity facilities, that we’re not risking taxpayer money, and that we’re 
+
+willing to show the contracts to verify that we will get paid back in full dollars.  I think doing so 
+
+would go a long ways not to ending the criticism but to mitigating the sense of concern.  So I 
+
+think you’re on the right track.  And I hope that as soon as we hang up here you start drafting 
+
+that, because it’s going to take multiple drafts to get it as simple and yet as thorough as possible.  
+
+That’s my suggestion and an admonition on that.  Thank you. 
+
+CHAIRMAN BERNANKE.  President Bullard. 
+
+MR. BULLARD.  Just to come in with an unpleasant comment—the probability of the 
+
+ECB not surviving has probably moved off of zero to some small positive probability that it 
+
+would actually unravel.  So, in the debate about this, I think people will not be hesitant to 
+
+speculate on the future of the euro and the future of the ECB.  I think it’s something to consider 
+
+when we’re trying to present this.  I think our best point is to say that we’ve been through this 
+
+before, that it worked great before, so we can do it again, and we expect it to work well again 
+
+this time.  But I don’t want to be naïve about the idea that the ECB is forever, because that’s 
+
+exactly what this crisis is about. 
+
+CHAIRMAN BERNANKE.  That’s a good point.  Linda, do you want to add anything?  
+
+Oh, I’m sorry.  Narayana? 
+
+May 9, 2010 24 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. KOCHERLAKOTA.  Thanks, Mr. Chairman.  I have just a quick question for you.  
+
+In terms of these broad-scale interventions the ECB is contemplating, they are going to be 
+
+restricting themselves to euro-denominated assets.  Is that your understanding? 
+
+CHAIRMAN BERNANKE.  Yes, that’s my understanding. 
+
+If you have nothing further, I’ll give Linda a chance to comment on the politics.  I guess 
+
+she’s comfortable with what we’ve described up to now. 
+
+MR. HOENIG.  I have a question. 
+
+CHAIRMAN BERNANKE.  Oh, sorry.  President Hoenig. 
+
+MR. HOENIG.  Would there be pushback on this in the political context, where someone 
+
+might say, “Well, shouldn’t you collateralize this with their reserves?”  Is that going to come up?  
+
+And if it is, how do we answer that? 
+
+CHAIRMAN BERNANKE.  Well, it is collateralized with euros. 
+
+MR. HOENIG.  I mean, with the reserves they have denominated in dollars that they 
+
+could then collateralize, so if it did go into default we would— 
+
+CHAIRMAN BERNANKE.  Oh, I see. 
+
+MR. HOENIG.  It’s a question that I fear someone will ask, so I’ll ask it now, so we can 
+
+anticipate it. 
+
+CHAIRMAN BERNANKE.  Nathan, maybe you can jump in here.  I think we have done 
+
+that in the past, but we have given the major central banks the courtesy of taking their signature. 
+
+MR. SHEETS.  Yes, that’s right.  We had what was called offset rights with the emerging 
+
+market economies.  That meant that we could attach anything that they were holding at the New 
+
+York Fed in the event that they failed to unwind the swap that had been contractually agreed 
+
+upon.  We haven’t had that with the advanced economies, with the ECB and the like. 
+
+May 9, 2010 25 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. KOHN.  It would look like a vote of no confidence. 
+
+MR. SHEETS.  Yes. 
+
+MR. KOHN.  And it would be at a time when that would be pretty counterproductive. 
+
+CHAIRMAN BERNANKE.  Particularly if we were not releasing the contract. 
+
+MR. HOENIG.  I agree with you.  But someone is going to ask you that. 
+
+CHAIRMAN BERNANKE.  The answer is that we have both the euros and the ECB’s 
+
+commitment, and the ECB will be effectively backed up by Ecofin and the European Union.  If 
+
+the continent of Europe is bankrupt, we all have problems.  But it seems relatively unlikely, to 
+
+put it mildly. 
+
+MR. HOENIG.  Agreed. 
+
+CHAIRMAN BERNANKE.  We still have a chance for a go-round.  Let me just make 
+
+sure everyone is getting a chance to speak.  Is there anyone else who has a question for any staff 
+
+member or for me?  I’m happy to respond if you have questions.  President Lacker. 
+
+MR. LACKER.  Yes, I have just one more question.  The fundamental issue these are 
+
+addressing is dollar-denominated maturity transformation by European banking institutions that 
+
+are exposed to euro-denominated sovereign credit risk, which has led some to have trouble 
+
+funding.  I’m familiar with the change in liquidity management by some large active U.S. 
+
+institutions over the last three years.  This maturity transformation by European institutions was 
+
+obviously a problem very early on, in late 2007.  I wonder if anyone on the call has some insight 
+
+into or would be able to characterize the relative progress made by European institutions in 
+
+reducing the riskiness of their dollar-denominated maturity transformation activities since late 
+
+2007.  If that progress has lagged notably behind the progress of U.S. institutions, I wonder 
+
+whether this would be a good opportunity, as part of the conversations around this service we’re 
+
+May 9, 2010 26 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+offering the Europeans, to urge them to take stronger action to assure that they make progress in 
+
+reducing the riskiness of their dollar portfolios. 
+
+CHAIRMAN BERNANKE.  That’s a good question.   
+
+MR. KOHN.  We’ve been asking that question in Basel this weekend.  President Lacker 
+
+is absolutely right in the way he characterized it.  But the euro area banks have taken some pretty 
+
+strong actions; they’ve reduced their dollar exposures by about half from the peak.  Like U.S. 
+
+banks, they have lots of legacy dollar assets that they’re trying to get rid of that are slowing 
+
+running off, but they still have some left.  From the chart I’m looking at, it’s down by about 50 
+
+percent. 
+
+CHAIRMAN BERNANKE.  Governor Tarullo. 
+
+MR. TARULLO.  Jeff, there are two things I’d say.  One, while Don has given the 
+
+aggregate statistics, my impression is that some of the institutions have made a good deal more 
+
+progress than others in changing their maturity structures, so the problems are acute in some of 
+
+the European institutions and significant but less acute in others. 
+
+With respect to your question about whether to use this opportunity for lecturing them on 
+
+the need to make more progress, my instinct would be that, at this juncture, right when we’re 
+
+activating the swap lines, it’s probably not the moment to say that and to kind of offer a quid pro 
+
+quo, namely, that we want you to do more.  But I do think that, as we go back to Basel on both 
+
+capital and liquidity reforms, this is going to strengthen our hand for making some of the 
+
+arguments we want to make. 
+
+CHAIRMAN BERNANKE.  Thanks.  Any other questions?  President Evans. 
+
+MR. EVANS.  Thank you, Mr. Chairman.  I wanted to ask a slightly different question 
+
+about the outlook in Europe.  With all of the austerity measures for Southern Europe, it looks as 
+
+May 9, 2010 27 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+if it would be very difficult for Europe to avoid a recession.  For example, what’s the chance that 
+
+Germany can avoid a recession, given that they export so much to the rest of Europe?  And if 
+
+we’re going to talk about the ECB sterilizing, which short-term interest rates are going to be 
+
+driven up in Europe?  I’d say it’s probably the stronger sovereign debt.  If anybody on the staff 
+
+could give us an idea of what our increasing risk is there, and how it affects the U.S., that would 
+
+be appreciated.  
+
+CHAIRMAN BERNANKE.  I’ll go to Nathan in just a second, but let me comment that, 
+
+in all of these calls, the Germans keep saying what a great example they’re going to set by 
+
+consolidating their own fiscal position.  And we keep trying to point out to them that it may not 
+
+necessarily be in the overall interest of the continent—it’s a strange mind-set. 
+
+Nathan, or anyone, do you have a view on the outlook for Europe?  
+
+MR. SHEETS.  The recent data for Europe, particularly for Germany, have been 
+
+surprisingly strong.  I think the characterization by President Evans is right on.  For the Germans, 
+
+particularly, their export machine is getting cranked up, and they’re doing a lot of exporting to 
+
+emerging Asia and to some of the oil-producing countries. 
+
+I very much share your view that there are risks to all of them moving together to do 
+
+fiscal consolidation and that this would ideally be a time when the Germans were taking steps to 
+
+strengthen their domestic demand and provide a buffer for the necessary, unavoidable fiscal 
+
+consolidation that has to go on elsewhere in the euro area. 
+
+All in all, I would say there’s a reasonable chance that the Germans would be able to 
+
+avoid recession, but, if everybody moves together on fiscal consolidation, I would expect to see 
+
+some not very good growth numbers coming out of Europe over the next number of quarters. 
+
+May 9, 2010 28 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. KOHN.  I would add to that, Mr. Chairman, that I think that the ECB monetary base 
+
+will rise quite substantially, because they’re not going to sterilize the term lending that they’re 
+
+doing to the banks—the sterilization is very limited, and their base will be rising quite a lot. 
+
+CHAIRMAN BERNANKE.  Thank you.  Any other questions?  [No response.]  Let’s 
+
+have a quick go-round.  A lot of the issues have already been discussed, but I certainly want 
+
+everybody to have a chance to give a view.  Governor Tarullo had a few comments on banking, 
+
+so let’s start with you, Dan. 
+
+MR. TARULLO.  Thank you, Mr. Chairman.  Actually, I managed to get my comments 
+
+in in response to some of the questions.  Just to rehearse a bit of what we discussed on Friday 
+
+afternoon, to this point we haven’t seen an impact in our financial system of any substantial 
+
+magnitude.  But, as everybody recalls, such an impact isn’t seen until the moment it occurs. 
+
+None of us is happy with where we are.  I think I would have done things differently 
+
+from the Europeans three months ago.  I would have done things differently from the Europeans 
+
+two months ago.  And I probably would have done things differently two weeks ago.  But we’re 
+
+in this position now, and, although optimally we could use the contribution of the swaps as a way 
+
+to leverage a better package from Ecofin, I just don’t see that as a realistic possibility right now.  
+
+There will likely be a lot of unpleasantness in markets tomorrow no matter what all this looks 
+
+like, and I don’t think we are in a position to calibrate whether it would be better to wait one day, 
+
+two days, three days, or four days.  I think it’s something that we’re just going to have to make a 
+
+judgment on.  To the degree that we can stop this unpleasant spiral from getting going with any 
+
+more speed than it will already assume tomorrow, I think that a reestablishment of swap lines is 
+
+probably the best thing we can do for our own financial system.  Therefore, I would support the 
+
+May 9, 2010 29 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Chairman’s request that we give him authority to activate the swap lines at such time as he 
+
+deems prudent. 
+
+CHAIRMAN BERNANKE.  Thank you.  I’m now going to go around the Reserve Banks 
+
+by order of District, so I will start with President Rosengren. 
+
+MR. ROSENGREN.  I’m supportive of having the swap line.  I think we should do things 
+
+for economic reasons, not political reasons.  And I think the economics, given that we’re in the 
+
+middle of a crisis, indicate that it’s appropriate to have a swap line with the other central banks 
+
+that are in the G-7.  So I support the move to open up the swap lines.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  Vice Chairman. 
+
+VICE CHAIRMAN DUDLEY.  I support doing this.  Obviously, it would be better if we 
+
+could get greater concessions and fiscal consolidation in Europe.  But the reality is that the swaps 
+
+will mitigate the bad feedback loop that’s occurring because of the intersection of the sovereign 
+
+risk problems with the state of the European banks.  If we weren’t to do this now, I think things 
+
+would just get worse, and we would be forced into doing it later.  The reality is that doing it 
+
+earlier will actually mitigate the extent of the problems to some degree.  But we shouldn’t fool 
+
+ourselves.  The swaps are addressing a symptom of the problem.  The underlying problem is the 
+
+European fiscal situation, the credibility of their fiscal plans, and the health of the European 
+
+banks.  This just will mitigate how that spreads.  Still, I think it’s worth doing, because, as we’ve 
+
+seen, the propagation mechanisms and these amplifying dynamics that we’ve seen in the earlier 
+
+parts of the crisis can be pretty important.  So I think anything we can do to get out in front of 
+
+that is a good thing rather than a bad thing. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Plosser. 
+
+May 9, 2010 30 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. PLOSSER.  Thank you, Mr. Chairman.  I’m broadly supportive as well.  I think this 
+
+is something that we need to do.  I would just stress two points.  I think the discussion we’ve had 
+
+up to now about transparency is incredibly important.  I agree that we should make the contracts 
+
+available, if we can.  Explaining this as carefully as we can is in our own best interest at this 
+
+point and helps protect us not only on the political side but on other sides as well.  I also hope 
+
+that we will continue to have further discussion at some point about the issue of sterilization—
+
+where we stand and how we want to think about that as we go forward.  We don’t know what the 
+
+amounts are going to end up being, and it may partly depend on how we think about that.  With 
+
+those two stipulations, I agree mostly with what President Dudley said, namely that we’re 
+
+attacking a symptom, not a root cause of the problem—Europe has to deal with that—but we 
+
+need to cooperate where we can.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  Again, I take your point on sterilization.  It 
+
+interacts with our tools one way or another—we’d have to do something specific to sterilize, and 
+
+we need to talk very soon about the availability of the reserve-draining tools as well as what 
+
+we’re going to do about potential asset sales.  I understand that. 
+
+Again, Michelle, Nathan, and Scott, we want to be sure to work towards as much 
+
+transparency as possible.  President Pianalto. 
+
+MS. PIANALTO.  Thank you, Mr. Chairman.  I, too, am supportive of giving you 
+
+approval to proceed with the swap lines, contingent upon Ecofin coming up with strong 
+
+measures, as well as some follow-up that you’re going to do to control some of the political 
+
+fallout.  Like others, I believe it’s critical that we take these actions based on the economic 
+
+merits, so I’m supportive of your moving forward.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  Don Kohn wanted to come in. 
+
+May 9, 2010 31 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. KOHN.  I think I can be brief.  I also support authorizing you to reinstate these swap 
+
+lines.  I think we’re in a very dangerous situation.  We saw on Thursday and Friday the 
+
+beginnings of a generalized flight from risk, and the United States will not be immune from the 
+
+effects of that if it gathers any kind of momentum.  My understanding from talking to some 
+
+Japanese central bankers is that it’s not only European banks that are beginning to encounter 
+
+trouble, but other banks as well.  So extending the swap lines, say, to the Bank of Japan makes 
+
+some sense. 
+
+I think there are a lot of reasons why it’s so dangerous.  Dan cited one, namely, the 
+
+halting, insufficient response of the Europeans at first, and the fact that the governments are 
+
+involved, so there’s no backstop.  When the sovereigns are involved, it’s as dangerous a situation 
+
+as you could ever get into.  I also think the private sector remembers September and October of 
+
+2008, and they’re going to that adverse equilibrium as fast as they can.  They are protecting 
+
+themselves very, very rapidly.  So I think that, as sort of an addendum to a basically European 
+
+package, we need to be there if we can.  
+
+I agree with everything that has been said about transparency, releasing the contracts, 
+
+instantaneous or nearly instantaneous publishing of which central banks are drawing on the lines, 
+
+and so on.  I also think, unfortunately, from your perspective, Mr. Chairman, that you shouldn’t 
+
+leave the Democrats to the Administration while you do the Republicans.  I think you ought to be 
+
+contacting both sides of the aisle as the central banker.  And we can talk about sterilization later.  
+
+Thank you. 
+
+CHAIRMAN BERNANKE.  I’m sure I will be.  Sorry—back to the go-around order.   
+
+President Lacker. 
+
+May 9, 2010 32 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. LACKER.  Thank you, Mr. Chairman.  In the past, I’ve generally opposed swaps as 
+
+a matter of regime choice.  I still oppose them, but this is not the time to take a gigantic bold leap 
+
+towards a regime I’d like.  So I won’t oppose this now, and I’ll support giving you the discretion 
+
+to enter into these, as you said.  I think the political risks are tremendous.  I think there’s a good 
+
+chance we will dodge them with expert communication, and I think the comments of President 
+
+Fisher and others about needing to manage those aggressively are worthwhile.  I think the 
+
+confluence of those risks with this environment and what we’re doing here isn’t an accident.  
+
+This is one of a set of essentially fiscal policy actions we’ve taken in the last three years that 
+
+have generated this firestorm around us.  The continuing fallout of that generates the 
+
+environment that makes this fiscal policy action more politically risky for us. 
+
+On sterilization, I’d love to use this as an opportunity to argue for selling an equivalent 
+
+amount of MBS, but we can wait until another date for that.  Those are my comments.  I support 
+
+your decision. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Lockhart. 
+
+MR. LOCKHART.  Thank you, Mr. Chairman.  I, too, support giving you the authority to 
+
+agree with the Europeans to reinstate the swap lines.  Michelle Smith actually captured one of 
+
+my sentiments, and that is that we should do what’s necessary to combat this within the 
+
+European banking sector, trying to keep it from having a contagion effect and hitting us here in 
+
+the United States.  I think the contagion risk is real, and it is, as Don said, not inconceivable that 
+
+it beats a path to the United States, and we all know that the result would be a possibly severe 
+
+adjustment in the United States at a very delicate time.  So, in weighing the political risks versus 
+
+doing the right thing economically, I think we should subordinate the political considerations to 
+
+the economic intervention. 
+
+May 9, 2010 33 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+I agree with all the commentary on transparency.  This is a situation where we should lay 
+
+out all the information necessary in order to try to keep the discussion of it at a serious level as 
+
+opposed to the kind of discussion we’ve seen in the last year or so in the political circles.  Those 
+
+are my thoughts.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Evans. 
+
+MR. EVANS.  Thank you, Mr. Chairman.  I support giving you the authority for the 
+
+swap lines.  I’m really concerned that Europe is likely to be on fire by our June meeting.  I’m 
+
+worried that the Asian response is not going to be as helpful as everybody would like and that we 
+
+might have more serious trade discussions about what the appropriate exchange rate values will 
+
+be for some of those trading partners.  I’m not sure if I heard it correctly, but if we’re talking 
+
+about swaps on the order of $150 billion or so, and if that’s feasible and it would have a 
+
+beneficial effect, then that seems to be an extremely reasonable and acceptable degree of risk, 
+
+and I clearly support that.  Thank you. 
+
+CHAIRMAN BERNANKE.  We didn’t specify a maximum.  My proposal, at this point, 
+
+would be uncapped.  But we’ll certainly monitor that very carefully. 
+
+MR. EVANS.  I only mentioned that because I think somebody mentioned a number like 
+
+that, but that’s fine. 
+
+CHAIRMAN BERNANKE.  That’s the amount of reserves that the ECB has.  President 
+
+Bullard. 
+
+MR. BULLARD.  Thank you, Mr. Chairman.  I’m generally supportive of reactivating 
+
+the swap lines with major central banks around the world to respond to this crisis.  When I heard 
+
+Jean-Claude Trichet talking a few months ago about the recent crisis, he called the swaps 
+
+“decisive” in dealing with it. 
+
+May 9, 2010 34 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+I think there will possibly be heavy political pushback.  I would caution everyone that the 
+
+bailout debate is not really a rational debate about what has actually happened—people are 
+
+confusing the Treasury and the Fed, they’re confusing everything with everything else.  So the 
+
+political environment may be very difficult.  It may require all of us to talk to whomever we can 
+
+to try to get information out.  If we do not get information out, other people define us and take 
+
+over the debate.  I think that’s an important consideration. 
+
+Our best point is that the swaps worked quite well the last time around with the penalty 
+
+rate, and that they are a backstop mechanism.  I agree with the unlimited size idea.  I would 
+
+expect that, if the crisis worsens, we would see a swelling of this similar to the one we saw last 
+
+time—probably not as bad as the last time—but then that would eventually go away as the 
+
+situation improved. 
+
+I think we can also make some progress on this by emphasizing that there are still a lot of 
+
+government guarantees in place at major financial institutions around the world.  It’s a little bit 
+
+irrational at this point for markets to be worried about the backing of financial institutions, when 
+
+countries around the world have said repeatedly that they’re going to back these institutions, 
+
+come hell or high water.  I think if we can emphasize that, it will get some of the irrational 
+
+expectations out of the market. 
+
+I do think there is a non-zero risk of euro disintegration in this process and that we have 
+
+to track that very carefully.  I don’t think it’s very likely at this point, but the probability has 
+
+clearly moved off zero, and sometimes, in a crisis like this, things can happen very rapidly.  You 
+
+may get a country that unilaterally, say, decides to withdraw and the entire agreement falls apart. 
+
+I’m not actually that big a fan of announcing a lot of coordinated actions all at once.  I 
+
+think that that confuses markets.  I would prefer to dribble out good news one bit at a time, but I 
+
+May 9, 2010 35 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+know I’m probably in the minority on that.  For that reason, I think that it may be that 
+
+reactivation of the swap lines is not the main news story, and that actually might be helpful in 
+
+this case.  But my preference would be to announce various actions one a time as they happen.  
+
+Those are my comments.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Kocherlakota. 
+
+MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  I support giving you the authority 
+
+to enter into swap line agreements with the G-7.  At times I’m a little confused by which central 
+
+banks you’re talking about, but I would be supportive of the central banks of the G-7 plus 
+
+Switzerland. 
+
+I agree totally with President Rosengren’s opening remarks that we should be doing this 
+
+based on economics, not based on politics.  However, the main political demand I’ve heard over 
+
+and over again is for more transparency.  I’m delighted to hear that we’re contemplating being as 
+
+transparent as possible about these agreements, and I counsel you to follow up on that as much as 
+
+you can.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  Just to be clear, you’re right.  It’s the G-7, plus 
+
+Switzerland—the ECB, the Bank of England, the Bank of Japan, the Bank of Canada, and the 
+
+Swiss National Bank.  President Hoenig. 
+
+MR. HOENIG.  Mr. Chairman, I support reengaging these swaps.  We are the most 
+
+important central bank.  For liquidity, we need to provide the dollars to make sure this doesn’t 
+
+unwind on us into a global disaster.  To reemphasize, I think the quality of our statement 
+
+announcing this is probably the most important challenge we have, because we are going to get 
+
+pushback.  We are going to get some off-the-wall questions, and I think we need to anticipate 
+
+them, including the point about our being in an economic recovery.  We want to maintain that, 
+
+May 9, 2010 36 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+both for ourselves and for the globe.  And then, how transparent we are should be described.  
+
+With that encouragement, I’m supportive of this action, Mr. Chairman.  
+
+CHAIRMAN BERNANKE.  Thank you.  President Fisher. 
+
+MR. FISHER.  I’m supportive, Mr. Chairman.  I think we should do what’s right for the 
+
+sake of the economy, and yet we should be wary of the politics, which have been discussed at 
+
+great length. 
+
+I think we should not just issue a statement, but we should have Michelle draft an FAQ.  
+
+We want to answer the questions we want to have asked, anticipate them, state very clearly and 
+
+in simple English what our answers are.  I was asking myself earlier if it might be worth your 
+
+actually doing a press conference.  There are risks to doing so, but, in this atmosphere now, all of 
+
+us are being asked different questions, and I want to make sure we have clarity and a 
+
+straightforward explanation coming from one source, which, of course, has to be you, as 
+
+Chairman.  So consider either a press conference or, in addition to a statement, in some other 
+
+format answering questions that we know will be asked of us in the most direct fashion. 
+
+I would urge you, as Don mentioned, not just to reach out to Republicans, but also to 
+
+Democrats.  And, again, I want to have an offline discussion, if I can, with Linda and you 
+
+quickly about one particular senator who I think needs to be included in that group.  But, 
+
+obviously, I’d recommend front-running to the degree you can, with regard to sensitive time and 
+
+risk of leakage, as well as contact with key Ds and Rs from you directly before the 
+
+announcement is made, or simultaneously, or however it can be done. 
+
+In sum, I’m supportive and continue to be worried about the politics of this, but I think 
+
+they can be handled.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Yellen. 
+
+May 9, 2010 37 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MS. YELLEN.  Thank you, Mr. Chairman.  I’m very strongly supportive of giving you 
+
+the discretion to enter into these swap arrangements.  I think this is an incredibly perilous 
+
+moment and that it’s essential that we participate in a forceful, coordinated global effort to 
+
+contain the risks to the global financial system and economy at this point.  I think it’s clearly the 
+
+right thing for us to do for the sake of the global economy and the U.S. economy.   
+
+We’ve had a very good discussion, I think, and very helpful suggestions in this go-around 
+
+about the political and communications challenges.  And I’m very supportive of the comments 
+
+that you’ve heard about the need to manage the communications and the potential political 
+
+fallout. 
+
+CHAIRMAN BERNANKE.  Thank you.  Governor Warsh. 
+
+MR. WARSH.  Thank you, Mr. Chairman.  I have just a few comments.  First, to state 
+
+what everyone has been saying, this is a mess.  I would say this is as fundamental a weekend for 
+
+the global financial architecture as any we have had over the last few years.  I think for some 
+
+difficult risks to the system we need systemic risk councils and triangles, and the like, to get to 
+
+the bottom of them.  This wasn’t one of them.  So it’s disappointing that we find ourselves 
+
+collectively in a global economic mire at this point.  I would say that policymakers, particularly 
+
+in Europe, have underestimated the risks of spending by those who can ill afford it, have been 
+
+made complacent by low sovereign costs of credit, and did not take advantage of the window of 
+
+opportunity that our firms did to recapitalize.  So I think the banking system in Europe will now 
+
+get asked the hardest questions.  And I think that, unlike the U.S. experience, the question in 
+
+markets will be whether the sovereigns have the ability, the financial wherewithal, to write the 
+
+kinds of checks that the United States at least underwrote some time ago.  I think the risks in the 
+
+near term are probably mostly about a disorderly move in the euro and a walk-back from 
+
+May 9, 2010 38 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+exposure to European financial institutions, even those that were thought to be tiered into a 
+
+stronger category. 
+
+With respect to the moves by the European Central Bank, if they come about as Jean-
+
+Claude said to Ben earlier today, then they bring to my mind the well-known bazooka that we 
+
+heard about a couple of years ago at the end of the last Administration.  I would be surprised if 
+
+this bazooka isn’t tested, and that’s a huge challenge.  That the ECB is willing to do this, I think, 
+
+shows how seriously they assess the risks. 
+
+I think talk will quickly turn to the “malicious shorts” that brought this on Europe, and 
+
+they will likely look to U.S. financial institutions that had the gall to hedge themselves over the 
+
+last weeks and months as somehow precipitating this.  So I think our financial institutions will be 
+
+part of this narrative, even if from a prudential perspective we would think that for them to pare 
+
+back their exposures as risks mounted was perfectly appropriate. 
+
+The ECB is putting itself in a position of having to be a transitional authority; but I think 
+
+markets will wonder, “As a transitional authority to what?”  These sovereigns are going to have 
+
+very tough questions, and I would tend to think that the political challenges among many of these 
+
+member states will be massive. 
+
+On the swaps themselves, I think what we’ve all said is that we’re making this decision 
+
+based on what is in the best interest of the U.S. economy.  We’re certainly sensitive to the 
+
+integrated nature of our financial markets and global economies, but I think I’d put myself in the 
+
+category of thinking that this is important to do for our own sake. 
+
+With respect to the communications of this, I think it’s important to describe our role as 
+
+supportive but secondary.  This is not the antidote to problems in Europe or the U.S., and I think 
+
+we ought not to oversell its relative import.  The half-life of policy initiatives out of Europe in 
+
+May 9, 2010 39 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+this cycle has been falling.  I wouldn’t expect that to change with dramatic speed, so we should 
+
+be in the business here of under-promising, but being as supportive as we can in the interests of 
+
+the U.S.  Finally, I think we’re going to see massive flows into U.S. safe-haven securities, for 
+
+liquidity at least as much as for safety, but we should not be lulled into that false sense of 
+
+complacency that others have. 
+
+I think this is a very tough period in front of us, and I regret to say that I suspect we will 
+
+have another videoconference before our next regularly scheduled FOMC meeting.  Thank you. 
+
+CHAIRMAN BERNANKE.  Your forecasting has been good on that so far. 
+
+MR. WARSH.  Regrettably. 
+
+CHAIRMAN BERNANKE.  Governor Duke. 
+
+MS. DUKE.  Thank you, Mr. Chairman.  I fully support giving you the authority to open 
+
+the swap lines, subject to the conditions you outlined.  I think we have to take the right actions 
+
+for the economy, and, frankly, the fact that we have to discuss the political risk underscores the 
+
+seriousness of the GAO audit provision.  I do have a little bit of a faint hope—there are some 
+
+lawmakers that were supporting the GAO audit issue, not so much because they thought it was a 
+
+great idea but because they didn’t see the harm in it.  And, while it can’t go in Michelle’s 
+
+statement, I think that this is an opportunity for some one-on-one conversations to use this as an 
+
+illustration of how important it is that we be able to take the right action and to take it quickly, 
+
+without concern about political interference.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you very much.  We will have a formal vote in a 
+
+second.  Brian, are you going to read this?  Before we take the vote, I’ll ask if there are any final 
+
+questions or comments.  Brian. 
+
+May 9, 2010 40 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+MR. MADIGAN.  The Committee would be asked to vote on the following resolution.  
+
+The Committee authorizes the Chairman to agree to establish swap lines with the European 
+
+Central Bank, the Bank of England, the Swiss National Bank, the Bank of Japan, and the Bank of 
+
+Canada, as discussed by the Committee today. 
+
+CHAIRMAN BERNANKE.  Any comments on the statement?  President Bullard. 
+
+MR. BULLARD.  On the Bank of Canada, it just occurred to me that we, of course, have 
+
+a swap line with Canada already, and we also have one with Mexico, and I wonder if there would 
+
+be any considerations about that situation. 
+
+CHAIRMAN BERNANKE.  We doubled up before, right, Nathan? 
+
+MR. SHEETS.  That’s right.  We had temporary liquidity swap lines with both of them at 
+
+the same time that we had the NAFA lines.  And it didn’t create any operational or 
+
+communication or other kinds of problems. 
+
+CHAIRMAN BERNANKE.  Anything else? 
+
+MR. BULLARD.  So we’re intentionally leaving Mexico out of this list, I guess. 
+
+CHAIRMAN BERNANKE.  I’m sorry?  No, Mexico is not on this list. 
+
+MR. BULLARD.  Intentionally?  Should you say something like, “The existing swap 
+
+lines will remain in place,” or something like that?  I don’t know. 
+
+CHAIRMAN BERNANKE.  No.  I don’t think so. 
+
+MS. SMITH.  We’ll answer that question if we get it. 
+
+CHAIRMAN BERNANKE.  Michelle says we’ll answer that question if we get it.  
+
+Maybe that is a better way to handle it.  Anything else?  [No response.]  All right.  Matt, could 
+
+you call the roll? 
+
+MR. LUECKE.   Yes.  This vote will encompass the text that Brian Madigan has read. 
+
+May 9, 2010 41 of 42
+
+
+
+ 
+
+ 
+
+ 
+
+Chairman Bernanke  Yes 
+
+Vice Chairman Dudley  Yes 
+
+President Bullard   Yes 
+
+Governor Duke   Yes 
+
+President Hoenig   Yes 
+
+Governor Kohn   Yes 
+
+President Pianalto   Yes 
+
+President Rosengren  Yes 
+
+Governor Tarullo   Yes 
+
+Governor Warsh   Yes  
+
+CHAIRMAN BERNANKE.  Did you get Governor Duke?  Yes—okay.  Thank you very 
+
+much.  This was an extremely helpful conversation with many good ideas.  I will proceed as 
+
+directed, and we will keep in close communication as the day and the weekend progress.  
+
+Thanks, and I hope you enjoy the rest of your Mother’s Day. 
+
+END OF MEETING 
+
+May 9, 2010 42 of 42
+
+
+
+
