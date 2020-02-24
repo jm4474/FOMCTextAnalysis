@@ -1,0 +1,2530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMC Conference Call Transcript, October 16, 2013
+
+
+Conference Call of the Federal Open Market Committee on 
+October 16, 2013 
+
+A joint conference call of the Federal Open Market Committee and the Board of 
+Governors of the Federal Reserve System was held on Wednesday, October 16, 2013, at 
+2:00 p.m.  Those present were the following: 
+
+Ben Bernanke, Chairman 
+William C. Dudley, Vice Chairman 
+James Bullard 
+Charles L. Evans 
+Esther L. George 
+Jerome H. Powell 
+Sarah Bloom Raskin 
+Eric Rosengren 
+Jeremy C. Stein 
+Daniel K. Tarullo 
+Janet L. Yellen 
+
+Christine Cumming, Richard W. Fisher, Narayana Kocherlakota, and Sandra Pianalto, 
+Alternate Members of the Federal Open Market Committee 
+
+Jeffrey M. Lacker, Dennis P. Lockhart, and John C. Williams, Presidents of the Federal 
+Reserve Banks of Richmond, Atlanta, and San Francisco, respectively 
+
+William B. English, Secretary and Economist 
+Deborah J. Danker, Deputy Secretary 
+Matthew M. Luecke, Assistant Secretary 
+David W. Skidmore, Assistant Secretary 
+Michelle A. Smith, Assistant Secretary 
+Scott G. Alvarez, General Counsel 
+Thomas C. Baxter, Deputy General Counsel 
+Steven B. Kamin, Economist 
+David W. Wilcox, Economist 
+
+Troy Davig, Michael P. Leahy, James J. McAndrews, Daniel G. Sullivan, Geoffrey 
+Tootell, and Christopher J. Waller, Associate Economists 
+
+Simon Potter, Manager, System Open Market Account 
+
+Robert deV. Frierson, Secretary, Office of the Secretary, Board of Governors 
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation, Board of 
+Governors; Louise L. Roseman, Director, Division of Reserve Bank Operations and 
+Payment Systems, Board of Governors 
+
+October 16, 2013 1 of 50
+
+
+
+Nellie Liang, Director, Office of Financial Stability Policy and Research, Board of 
+Governors 
+ 
+James A. Clouse and William Nelson, Deputy Directors, Division of Monetary Affairs, 
+Board of Governors; Matthew J. Eichner, Deputy Director, Division of Research and 
+Statistics, Board of Governors 
+ 
+Jon W. Faust, Special Adviser to the Board, Office of Board Members, Board of 
+Governors 
+ 
+Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors 
+ 
+Susan V. Foley, Senior Associate Director, Division of Reserve Bank Operations and 
+Payment Systems, Board of Governors 
+ 
+Thomas Laubach and David E. Lebow, Associate Directors, Division of Research and 
+Statistics, Board of Governors; Fabio M. Natalucci, Associate Director, Division of 
+Monetary Affairs, Board of Governors 
+ 
+Jane E. Ihrig, Deputy Associate Director, Division of Monetary Affairs, Board of 
+Governors 
+ 
+Brian J. Gross, Special Assistant to the Board, Office of Board Members, Board of 
+Governors 
+ 
+Penelope A. Beattie, Assistant to the Secretary, Office of the Secretary, Board of 
+Governors 
+ 
+Randall A. Williams, Records Project Manager, Division of Monetary Affairs, Board of 
+Governors 
+ 
+David Sapenaro, First Vice President, Federal Reserve Bank of St. Louis 
+ 
+David Altig, Jeff Fuhrer, Loretta J. Mester, Glenn D. Rudebusch, and Mark S. 
+Sniderman, Executive Vice Presidents, Federal Reserve Banks of Atlanta, Boston, 
+Philadelphia, San Francisco, and Cleveland, respectively 
+ 
+Ron Feldman, Craig S. Hakkio, Evan F. Koenig, Lorie K. Logan, Anthony Turcinov, 
+John A. Weinberg, and Kei-Mu Yi, Senior Vice Presidents, Federal Reserve Banks of 
+Minneapolis, Kansas City, Dallas, New York, Cleveland, Richmond, and Minneapolis, 
+respectively 
+ 
+John Duca, Joshua L. Frost, and Sylvain Leduc, Vice Presidents, Federal Reserve Banks 
+of Dallas, New York, and San Francisco, respectively 
+ 
+Satyajit Chatterjee, Senior Economic Advisor, Federal Reserve Bank of Philadelphia 
+
+October 16, 2013 2 of 50
+
+
+
+ 
+Hesna Genay, Economic Advisor, Federal Reserve Bank of Chicago 
+
+October 16, 2013 3 of 50
+
+
+
+Transcript of the Federal Open Market Committee Conference Call on 
+October 16, 2013 
+
+ 
+CHAIRMAN BERNANKE.  Welcome, everybody.  This is a joint meeting of the Board 
+
+and the FOMC, so I need a motion to close the meeting. 
+
+MS. YELLEN.  So moved. 
+
+CHAIRMAN BERNANKE.  Thank you.  The purpose of the discussion today is to talk 
+
+about debt ceiling–related issues and potential responses should the debt ceiling be breached.  As 
+
+you know, and Linda will explain in more detail, the Congress has made considerable progress 
+
+today toward, at least for the time being, solving that problem.  So, in that respect, this is very 
+
+much like the August 1, 2011, meeting, where Granger causality suggests that our meeting was 
+
+sufficient to solve the problem. 
+
+I did consult about whether we needed this meeting today, but first of all the Congress 
+
+has not finally acted.  Second, they are only putting off this issue until early February, possibly 
+
+into March, with extraordinary measures.  Third, we haven’t discussed these issues for a couple 
+
+of years.  And it was also pointed out to me that the minutes of this discussion might be a 
+
+potentially useful way to communicate some of our thinking to the markets in preparation for 
+
+another episode, which, unfortunately, seems more likely than not to occur at some point.  So the 
+
+focus of the meeting today will be some briefings from staff members, and then we can take as 
+
+much time as we want to talk about issues and things we need to think about for this problem if 
+
+it’s not resolved now or if it arises in the future. 
+
+For the purpose of the minutes, I think it is probably worth my saying that a default on 
+
+U.S. Treasury securities would be a grave threat both to the economy and to the financial system.  
+
+And what we are talking about here today are steps that the Federal Reserve could take to 
+
+mitigate on the margin the potential effect of such a default, but, obviously, this is not a problem 
+
+October 16, 2013 4 of 50
+
+
+
+that we could eliminate, by any means.  I just wanted to make sure that was part of the 
+
+discussion. 
+
+Unless there are any questions or preliminary comments, what I’d like to do is turn now 
+
+to staff members for briefings and allow time for Q&A after each briefing.  I will begin with 
+
+Linda Robertson, who is feverishly trying to keep up with the latest congressional developments.  
+
+Linda. 
+
+MS. ROBERTSON.  Thank you, Mr. Chairman.  I’ll start with the current 
+government shutdown and debt ceiling debacle, which are nearly at an end.  There are 
+many ways to account for the tremendous losses from this episode.  Jobs in the 
+private and public sector, consumer confidence, our international standing, a possible 
+and perhaps permanent erosion in the full faith and credit standing, critical 
+government data, and a calling into question of our systems of governance are just a 
+few of the many losses from this self-inflicted wound.  But the even more remarkable 
+thing about this episode is that the proposed deal does not do anything whatsoever to 
+resolve our longer-term budget or fiscal-related questions.  I’m afraid that when we 
+look back on this episode perhaps the biggest loss is that there were absolutely no 
+lessons learned from this crisis. 
+
+So with that introduction, let me quickly cover three questions.  Where are we?  
+What are the terms of the deal?  And what happens next? 
+
+In terms of the deal, it appears, if all goes to plan, that the government will be 
+reopened in the next day or two.  A budget conference of some sort will be asked to 
+convene and to report back by December 13 to set in place the fiscal appropriation 
+and budget parameters for 2014.  It’s probably worth noting that since 2010 we have 
+had eight such budget commissions, all of which have failed to produce much of 
+anything.  In addition to that, the continuing resolution would be extended for fiscal 
+year 2014 appropriations until January 15.  This will be done at basically the current 
+sequestration levels of $986 billion.  Why January 15?  It’s an important date for the 
+formulation of congressional strategy because that is when the next round of 
+sequestration for 2014 kicks in, at about a $967 billion level.  Now, that is roughly a 
+$20 billion difference, most of which falls on defense spending.  So one would ask, 
+why all of this for $20 billion?  The answer to that is this number greatly diminishes 
+the real divide between the two chambers.  And that was evidenced by the collapse of 
+the appropriation process earlier this summer. 
+
+The Senate had been moving on a pathway that pretty much ignored sequestration 
+for the coming year and, consequently, targeted an overall level of government 
+spending about $90 billion above the House level.  The House, while meeting the 
+targets, had its own problems, and they, too, sort of collapsed around themselves 
+earlier this summer because they were trying to make up for what it perceived to be 
+
+October 16, 2013 5 of 50
+
+
+
+inadequate levels of spending in the defense arena by taking from all of the 
+nondefense discretionary spending paths.  For example, the IRS would have had 
+about a 25 percent cut.  Consequently, both the House and Senate paths were 
+troubled.  They got nothing done.  And, consequently, it rolled up into this morass 
+that we have had over the last several weeks.  So they are now going to have another 
+commission—“conference,” if you will—that is going to look at this and report back 
+by December 13 in order to deal with the January 15 deadlines.  So that’s on the 
+government spending side. 
+
+The debt ceiling has been wrapped up into this—and we’ve got conflicting 
+information at this point, so I may want to update you as the meeting goes along—but 
+it appears that they are going to have a debt ceiling date of February 7.  And because 
+of the extraordinary measures, the way those work, and the time of year at which the 
+Secretary of the Treasury will be exercising them, the extraordinary measures don’t 
+provide much benefit to the Treasury, extending the debt ceiling date from February 7 
+to probably mid-March.  If this had been taking place after June 1 or September 1, 
+those extraordinary measures would have given a lot more leeway to the Treasury 
+Department because of the way the tools interact. 
+
+Now, the unknown, and what we are checking our BlackBerrys about, is that 
+apparently they are still negotiating, and perhaps some of the McConnell language on 
+the debt ceiling has made its way into this agreement.  Maybe that’s just for this vote 
+or it could be a more permanent part of the debt ceiling deliberation, and that would 
+be a big deal.  Basically, what the so-called McConnell rule does is provide that the 
+President has the authority to raise the debt ceiling, and it takes a two-thirds majority 
+of both chambers to reject the President’s action.  I find it hard to believe they are 
+going to do this on a permanent basis because that’s a pretty fundamental change.  
+But it seems that something akin to that has at least made its way at this hour into the 
+agreement.  
+
+MR. TARULLO.  I don’t know that that’s constitutional. 
+
+MS. ROBERTSON.  Well, that’s an interesting thing. 
+
+What started all of this in terms of this process were, of course, concerns about 
+the Affordable Care Act, and it looks like the final agreement has a very small 
+provision having to do with income-verification processes. 
+
+So what’s next, and where do we find ourselves at this point in time?  I anticipate 
+that once the two chambers have legislative language, which is still evolving—that 
+the Senate will go first.  They have an apparent understanding with the senators who 
+have been leading the Affordable Care Act efforts that those senators will not use 
+their parliamentary tools, their process tools, to delay the votes through cloture 
+motions.  It sounds like the Senate will probably vote sometime in the early evening, 
+then allowing the House to act perhaps into the midnight hour tonight. 
+
+October 16, 2013 6 of 50
+
+
+
+The House Republicans are going to caucus at 3:00.  That’s always an interesting 
+dynamic, so we’ll see what happens there.  But I think we’re on a good trajectory—if 
+anything about this could be called good—to get this wrapped up probably sometime 
+this evening. 
+
+The last element here is, what do these next three fiscal moments—December 13, 
+January 15, February 7 (that is, mid-March)—mean?  Probably not a great deal, 
+probably a bit more drama, particularly around the January 15 date when the 
+sequestration kicks in.  And it could create a dynamic for a small package to emerge 
+where some relief is given for 2014 and ’15 on the sequestration, perhaps in exchange 
+for a few long-term entitlement provisions, but all of that is pretty unclear at this 
+point.  So, with that, I think there is more fiscal drama to come. 
+
+CHAIRMAN BERNANKE.  Thank you.  Any questions for Linda?  [No response]  
+
+Okay.  I don’t see any questions.  Let me turn now to Simon Potter to talk a little bit about 
+
+market developments over the past few days as well as anything you’d like to say, Simon, about 
+
+market preparedness. 
+
+MR. POTTER.  Thank you, Mr. Chairman.  Concerns about the approaching debt 
+ceiling began to affect financial markets when the government shut down on October 
+1 and intensified significantly early last week.  The effects on the Treasury bill and 
+repo markets have been most pronounced, and outflows from money market funds 
+have been sizable.  Yesterday, Fitch placed the U.S. triple-A credit rating on negative 
+watch.  Nonetheless, broader financial conditions have not been materially affected. 
+
+Since the start of October, yields on Treasury bills maturing between October 17 
+and November 14 had increased as much as 66 basis points.  The most concerning 
+development has been soft demand in recent bill auctions, some of which have 
+cleared at unusually high spreads to pre-auction yields and had multiyear-low bid-to-
+cover ratios.  However, today’s bill auctions were relatively well received, and bill 
+rates have declined substantially during the trading session today. 
+
+Yields on longer-term Treasury securities, including those with interest payments 
+scheduled for the end of the month or later this year, have been relatively little 
+changed. 
+
+Turning to secured funding markets, overnight Treasury GC repo rates had 
+increased as much as 16 basis points since the start of the month.  Term Treasury GC 
+repo rates have also increased, with mid-November and year-end tenors rising as 
+much as about 20 basis points.  Lenders reportedly pulled back from term lending 
+amid concerns that, without the ability to modify collateral eligibility schedules over 
+the term of the contract, they might receive securities at risk of delayed payment.  The 
+resulting rise in term rates, along with concerns regarding the possible receipt of at-
+risk securities in overnight transactions, reportedly pressured overnight rates higher.  
+
+October 16, 2013 7 of 50
+
+
+
+Despite increased volatility, contacts have characterized overnight GC repo markets 
+as relatively liquid, though they have reported some deterioration in the liquidity of 
+term markets. 
+
+Amid the rise in repo rates, the Desk’s dealer repo survey shows that the amount 
+of Treasury securities financed by dealers in overnight repo was relatively little 
+changed through last week, but has trended up so far this week.  Money market fund 
+outflows have been sizable, and several large fund complexes and banks indicated 
+that they had sold their holdings of Treasury securities maturing from mid-October to 
+early November or announced they had no holdings of these securities.  Many 
+reported taking related proceeds and placing them in overnight repo or leaving cash 
+uninvested, and available data indicate sharp increases in deposit balances at 
+custodian banks this week.   
+
+Turning to Desk operations, we have not seen any material change in dealer 
+pricing of Treasury coupon securities with at-risk interest payments in our purchases, 
+the composition of collateral in securities lending transactions, or participation in the 
+daily overnight RRP operations.  However, the Desk has received numerous 
+questions and concerns about Federal Reserve activities and market practices more 
+broadly.  The general confusion on several important operational issues appears to 
+have weighed on confidence and possibly on industry preparedness and contingency 
+planning.  The most frequent questions have related to the eligibility of securities with 
+delayed payments in open market operations and at the discount window. 
+
+I would be happy to take any questions. 
+
+CHAIRMAN BERNANKE.  Simon, in the event of a temporary default, what would you 
+
+categorize as the most important risks to financial stability?  You mentioned money market 
+
+funds, repo. 
+
+MR. POTTER.  In the case of delayed payment, the most crucial risk is that the Treasury 
+
+loses market access.  In most of the assumptions that we are working under, the Treasury would 
+
+still have market access.  So in that sense the principal payments would be rolling over.  I guess 
+
+I’m not answering the right question.  In the case of an actual default, the Treasury would have 
+
+issues there.  The scenario we’ve been thinking about is that the risk of a delayed payment gets 
+
+very high, and then the Treasury might lose market access.  That causes problems for them in 
+
+rolling over the large amount of debt, and it’s the principal payments that are most sizable. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Lacker. 
+
+October 16, 2013 8 of 50
+
+
+
+MR. LACKER.  I’m not sure what “losing market access” means.  Do you mean they 
+
+wouldn’t like the price they’d get? 
+
+MR. POTTER.  The most obvious would be that they would fail to cover the auction 
+
+amount.  I would view that as losing market access.  Pricing is clearly one concern.  We saw 
+
+quite adverse pricing, relative to where bills were before the auctions, last week.  I think that’s 
+
+something that we could absorb, but it would be the lack of coverage of the auction that would 
+
+be the problem.  And that would mean that they wouldn’t be able to roll over the principal. 
+
+CHAIRMAN BERNANKE.  Thank you.  Other questions for Simon?  [No response]  
+
+Okay.  Thank you.  Our next briefer is Susan Foley, who is going to talk about planning for 
+
+handling government payments. 
+
+MS. FOLEY.  Thank you.  Louise Roseman briefed the Committee in 2011 on 
+three principles that underlie the procedures to handle government payments during a 
+debt ceiling impasse.  Those principles largely continue to apply today based on 
+current discussions with Treasury staff.  The first one is that principal and interest 
+payments on Treasury securities would continue to be made on time.  The second 
+principle is that the Treasury would decide each day whether to make or delay other 
+government payments.  The third principle is that any payments made would settle as 
+usual. 
+
+In terms of principal and interest payments, principal payments on maturing 
+Treasury securities would be funded by Treasury auctions that roll over the maturing 
+securities into new issues, so the new issues would fund the redemption of the 
+maturing securities.  Interest would be paid based on available cash in the Treasury 
+general account.  To make a coupon payment, however, the Treasury may need to 
+delay or hold back making other government payments, even if it had sufficient 
+balances on a given day, in order to accumulate sufficient funds to pay a future large 
+coupon payment. 
+
+While not expected based on current discussions, if the Treasury decided not to 
+prioritize principal and interest payments and had insufficient balances to redeem 
+maturing securities, it would instruct the Reserve Banks to roll forward in one-day 
+increments the maturity date of maturing securities.  The securities would then 
+continue to be transferable on the Fedwire® Securities system.  Interest payments 
+would also be held within the system until the Treasury authorized their release.  
+When the Treasury could make its payments, it would pay principal and interest in a 
+manner that market participants have indicated would be the least disruptive to their 
+operations.  
+
+October 16, 2013 9 of 50
+
+
+
+Each evening, the Treasury will make a decision whether to release or delay 
+payments based on balance projections for the next day.  The Reserve Banks have 
+worked closely with the Treasury staff to implement technological and operational 
+controls to ensure that government payments would not be made until the Treasury 
+has authorized their release each evening.  Such procedures exist for payment 
+systems, such as ACH and Fedwire Funds, as well as other lines of business where 
+the Reserve Banks serve as fiscal agents.  The Reserve Banks have been in close 
+communication with the Treasury staff regarding all of the operational details. 
+
+Payments that are made would be settled as usual, and financial institutions and 
+consumers should have confidence that payments made would not be rescinded.  
+Payments made over the ACH, however, would be originated for overnight 
+processing rather than the normal several days before settlement.  This operational 
+change could mean that some consumers would receive benefit payments or payroll 
+payments somewhat later in the day on the settlement date, rather than first thing in 
+the morning (or even the day before) as is usual industry practice.  The Treasury is 
+considering providing information to the public later this week regarding how the 
+debt ceiling would affect government payments (assuming the Congress does not act 
+as expected), and we understand that the Treasury’s communications may address 
+many of these issues. 
+
+I’m happy to take some questions. 
+
+CHAIRMAN BERNANKE.  Any questions?  President Fisher. 
+
+MR. FISHER.  Mr. Chairman, as I understand it, the period we’re in now is one of the 
+
+periods when, given the way the tax income flows are, we are most dependent for outflows on 
+
+the issuance of debt.  I think the ratio is 65 to 35.  Does that change in this new period, this new 
+
+time frame that now runs through February?  In other words, my understanding was that we were 
+
+most vulnerable during this period to the dependence on debt issuance.  Is there a different 
+
+dynamic at the beginning of the year than there was at this time of year?  Do we know? 
+
+VICE CHAIRMAN DUDLEY.  You mean the composition of receipts versus outlays? 
+
+MR. FISHER.  Yes, 65 percent of all outlays.  Thirty-five percent were going to be 
+
+covered basically by borrowing needs rather than by tax input.  So I’m curious as to the 
+
+difference of the dynamics on that front for the beginning of the year.  Do we know?  
+
+October 16, 2013 10 of 50
+
+
+
+MS. IHRIG.  I don’t believe so.  It’s tax season in the March–April time frame when we 
+
+see the big receipts.  But for a February time frame, I don’t think so. 
+
+VICE CHAIRMAN DUDLEY.  The refunds go out early, and the receipts tend to come 
+
+in late.  So I would imagine that February–March is probably pretty problematic. 
+
+MR. FISHER.  So they probably picked this period for the same reason that we have 
+
+now.  That’s the point.  Nothing changes on that front.   
+
+CHAIRMAN BERNANKE.  Other questions?  [No response]  Susan, what is your sense 
+
+of the understanding of banks and the public about how this is going to work?  What are the 
+
+main weak points at this juncture in terms of their understanding of how payments would 
+
+operate? 
+
+MS. FOLEY.  I think that there are assumptions being made by market participants.  I do 
+
+know that there are some who are making scenarios that say, “Okay, if it happens in terms of 
+
+prioritizing principal and interest, this is what we would do.  If there is not going to be 
+
+prioritization of principal and interest, here are some other assumptions that are made.”  I think if 
+
+you are in a situation where principal and interest are not prioritized, there is a big question of 
+
+how a lot of institutions would handle that situation in terms of their contingency planning.  
+
+That’s a big open question.  So I think there’s a lot of uncertainty in the market. 
+
+CHAIRMAN BERNANKE.  Thank you.  Linda gave me a note here saying that the 
+
+McConnell debt ceiling rule will apply once to the February 7 date.  Does that mean that 
+
+February 7 is not in fact a concern at this point? 
+
+MS. ROBERTSON.  No.  It means it will apply for this vote to get to February 7.  So 
+
+when they hit the new “X” date in March, it will be a real vote, a real moment. 
+
+October 16, 2013 11 of 50
+
+
+
+CHAIRMAN BERNANKE.  I see.  So they are applying the McConnell rule at this 
+
+instance so that they can raise the debt ceiling without voting for it. 
+
+MS. ROBERTSON.  Without having to, theoretically, vote for it. 
+
+CHAIRMAN BERNANKE.  But they have to vote for the rule. 
+
+MR. POWELL.  But then it’s up to the President whether he acts or not. 
+
+CHAIRMAN BERNANKE.  Okay. 
+
+MS. ROBERTSON.  The only good news is that they sort of dipped their toe in the water 
+
+of a disapproval method. 
+
+CHAIRMAN BERNANKE.  All right.  Well, at least it’s a step in the right direction, I 
+
+guess. 
+
+Okay.  Thank you, Susan.  If there are no other questions, let me turn to Mike Gibson to 
+
+talk about supervision and other bank issues. 
+
+MR. GIBSON.  I’d just like to talk briefly about two things:  what we are 
+prepared to do in the supervision area and a little bit about what we are seeing from 
+institutions we supervise. 
+
+In terms of what we are prepared to do, back in 2011, in the previous debt ceiling 
+episode, we developed some draft interagency guidance in the form of a press release, 
+and we have refreshed that guidance and talked with the other banking agencies, and 
+we have agreed that we would be ready to move forward with it if and when needed.   
+
+The guidance covers three issues.  First, it makes it clear that the supervisory and 
+regulatory treatment of Treasury securities, other securities issued or guaranteed by 
+the U.S. government or its agencies, and U.S. GSEs, for which a payment has been 
+missed—these will not have any change in their risk-based capital treatment.  Their 
+risk weights don’t change.  They will not be adversely classified or criticized by 
+examiners, and their treatment under other regulations, such as Regulation W, would 
+not be affected.  Second, the guidance says that potential balance sheet growth from 
+unusually large deposit inflows or draws on existing lines of credit may result in a 
+temporary decline in regulatory capital ratios, and that institutions that experience 
+such a decline should contact their primary supervisor to discuss how to address the 
+situation, and that supervisors would consider whether such an institution is still in 
+fundamentally sound condition, even if there is a temporary drop in its regulatory 
+capital ratio.  And, third, the guidance would encourage institutions to work with their 
+affected customers and use the flexibility that already exists to work with borrowers 
+
+October 16, 2013 12 of 50
+
+
+
+who may experience temporary financial stress.  We have discussed with the other 
+agencies the draft guidance, and we would be ready to issue that if and when needed. 
+
+On what we are seeing from institutions we supervise, we have already seen some 
+signs of defensive positioning.  As Simon already noted, we have seen some increase 
+in bank deposits and corresponding reductions in Treasury positions, although the 
+amounts are still small so far.  We have seen some selling of U.S. Treasury securities 
+that mature in the so-called red-zone period when the potential default could happen.  
+Of course, on the other side, others have been buying those securities who are 
+apparently willing to hold them.  And we have seen some substitution of collateral 
+away from Treasuries that pay a coupon or mature in the so-called red zone and 
+replacement of them with other Treasury securities.  We have seen some banking 
+organizations activate their contingency plans that they already have in existence.  
+We have seen less availability of term repo and term commercial paper.  And if 
+conditions continued in the direction of a default, we would expect that that could 
+lead some firms that have short-term refinancing needs to come under pressure, 
+although we haven’t seen that happening yet.  I’ll stop there. 
+
+CHAIRMAN BERNANKE.  This is basically the same guidance that we were planning 
+
+in 2011. 
+
+MR. GIBSON.  Yes.  It’s the same.   
+
+CHAIRMAN BERNANKE.  Okay.  Any questions for Mike?  Governor. 
+
+MR. TARULLO.  Mike, in 2011, as I recall, at least one or two banks really did start to 
+
+scrape up against the leverage ratio.  Is that not happening this time around?  They have seen 
+
+some surges of deposits, but not so much that they are getting toward the leverage-ratio limit? 
+
+MR. GIBSON.  Not yet.  And we have been tracking the headroom that the different 
+
+banks have.  As Simon mentioned, the custody banks are the ones where it’s the most relevant, 
+
+and so far, not yet. 
+
+MR. TARULLO.  Yes, that’s what happened last time.  Okay.  Thanks. 
+
+CHAIRMAN BERNANKE.  Is there any discussion of negative interest rates on 
+
+deposits?  Bank of New York did that last time.  
+
+MR. GIBSON.  There has been some discussion of “we might have to charge a fee if we 
+
+get excessive deposit inflows.” 
+
+October 16, 2013 13 of 50
+
+
+
+CHAIRMAN BERNANKE.  Governor Powell. 
+
+MR. POWELL.  Was there a discussion last time about, or do you have thinking on, 
+
+when it would be appropriate to issue this?  Is it post-default?  Is it pre-default?  What’s the 
+
+thinking? 
+
+MR. GIBSON.  I think, generally, we have not been issuing anything in advance of an 
+
+event actually occurring.  I think our posture had been consistent with other parts of the Fed that 
+
+had been not going out with statements.  So I don’t know exactly the answer to your question, 
+
+but I think we are intending to wait. 
+
+CHAIRMAN BERNANKE.  It’s a very complicated question.  In this particular instance, 
+
+the first, most likely, contingency would be that the Treasury would pay principal and interest, 
+
+and so it wouldn’t become directly relevant.  But even in the case where it was not doing that, 
+
+the first risk of not paying was after November 1.  So the question of, “When is the appropriate 
+
+time?” is a difficult one, and I think the best thing we could probably do, if possible, would be to 
+
+try to coordinate with the Treasury and the announcements that it makes.  Obviously, we haven’t 
+
+gotten to that point. 
+
+MR. POWELL.  To amplify that:  If the real risk is of a failed auction, then saying 
+
+something before it happens actually plays into whether it happens or not.  It’s worth thinking 
+
+about that. 
+
+CHAIRMAN BERNANKE.  That’s right.  Vice Chairman Dudley. 
+
+VICE CHAIRMAN DUDLEY.  I was just going to make the point that Governor Powell 
+
+made, that the presumption that you could get to November 1 is predicated on two assumptions:  
+
+one, that the Treasury is going to run down that cash balance to a much lower number, and, two, 
+
+that the auctions that are taking place over that period actually do occur and do settle.  So there is 
+
+October 16, 2013 14 of 50
+
+
+
+a risk of something going wrong even if you have more runway than you think.  And I think we 
+
+would want to reflect on that a little bit. 
+
+CHAIRMAN BERNANKE.  I think that’s right.  As Simon said, the rollovers are 
+
+perhaps the most serious risk point because it’s very hard to predict what would happen there. 
+
+VICE CHAIRMAN DUDLEY.  We had the Treasury bill auction—what, last week?—
+
+where some of the dealers did not bid an amount equal to their market share of primary 
+
+dealership.  They did not show up to their pro rata share.  If two dealers wouldn’t show up to 
+
+their pro rata share, there’s always a risk that more wouldn’t.  And they could actually potentially 
+
+have a failed auction. 
+
+CHAIRMAN BERNANKE.  That’s fair.  Any other questions for Mike?  [No response]  
+
+Seeing none, let me ask Bill English—Bill, are you going to present the joint memo? 
+
+MR. ENGLISH.  Yes. 
+
+CHAIRMAN BERNANKE.  We come now to some issues that are FOMC 
+
+responsibilities specifically, and also some Board responsibilities.   
+
+MR. ENGLISH.  With a deal on the debt limit still not assured, I thought I would 
+summarize the possible actions that Simon and I noted in our memo that was 
+distributed Friday.  I should emphasize that while the Federal Reserve does not want 
+to get entangled in fiscal policy decisions, a technical default triggered by a lack of 
+government action to raise the debt limit—or even the imminent risk of such a 
+default—could create very substantial market strains that might have significant 
+consequences for financial stability and our dual mandate.  In such circumstances, the 
+Committee might well want to take steps to address the market strains and so help 
+support economic activity and keep inflation near its longer-term objective.  That 
+being said, the Committee would presumably want to avoid the impression that the 
+Federal Reserve was effectively financing government spending.   
+
+In our memo, we divided the possible actions that the Federal Reserve could take 
+into three groups.  The first group included five actions that fall within the current 
+authorization of the Desk and the authority of the Board and the Reserve Banks: 
+outright purchases, securities lending, rollovers, repos to keep the federal funds rate 
+in its target range, and discount window lending.  These actions were discussed at the 
+time of the debt limit scare in August 2011, and at that time Committee participants 
+generally thought their use would be appropriate, so long as it was clear that Treasury 
+
+October 16, 2013 15 of 50
+
+
+
+securities with delayed principal or interest payments, while still accepted in our 
+operations on the usual terms, would be valued at their potentially reduced market 
+prices.  This basic conceptual approach seems appropriate so long as it seems certain 
+that delayed interest and principal payments will be made in full and in relatively 
+short order.  An interesting question is at what point it would be appropriate to tell the 
+public of the Federal Reserve’s planned procedures, perhaps along with information 
+on Reserve Bank and payment system operations; if it were possible, the Committee 
+might prefer to wait until the Treasury was providing information on its intentions.  
+That said, market participants have expressed considerable interest in how we are 
+likely to treat securities with delayed payments.  It is also worth noting that 
+operational issues could limit the effectiveness of some of these actions, particularly 
+securities lending operations.   
+
+The second group of actions we discussed in our memo addressed two different 
+possible strains in money markets:  Action 6 involved conducting reverse repurchase 
+operations, under which we would provide unblemished Treasury collateral to the 
+market; such a step might be appropriate if heavy demand for such Treasury 
+securities was pushing RP rates below zero.  Action 7 involved conducting 
+repurchase operations—that is, providing funding to dealers—which might be 
+appropriate if disruptions in the repo market drove repo rates and perhaps other 
+money market rates up substantially even if the federal funds rate was relatively little 
+affected.  As Simon noted, some market developments over the past week or so point 
+toward the second scenario.  
+
+With the federal funds rate little changed over the past week, a natural question is 
+whether the repo rate has idiosyncratically diverged from the overall constellation of 
+money market rates, or whether it is a symptom of broader dislocations in money 
+markets that could interfere with the transmission of the Committee’s intended 
+monetary policy stance.  If the Committee thought that conditions in the repo market 
+were likely to deteriorate further, and would be associated with a tightening in 
+broader financial conditions that would have adverse consequences for the overall 
+economy, it could take action 7—for example, by directing the Desk to engage in 
+repo operations sufficient to maintain the overnight Treasury general collateral repo 
+rate in the same 0 to 25 basis point range as the federal funds rate. 
+
+In the third group of actions, the Committee could, if it chose, engage in either 
+outright purchases (action 8) or CUSIP swaps (action 9).  Such operations could be 
+warranted if the Committee determined that there was a need to increase its support of 
+market functioning by removing securities with delayed payments (or those seen as 
+likely to have delayed payments) from the market—for example, if operational 
+problems were impeding market functioning.  Outright purchases would increase the 
+size of the Federal Reserve’s balance sheet and the supply of reserve balances.  
+CUSIP swaps would not.  However, note that in the case of CUSIP swaps, the Desk 
+would likely be selling securities with longer average maturities than those of the 
+securities it would be purchasing—reducing the effects of SOMA holdings on longer-
+term interest rates.  In either case, such actions would insert the Federal Reserve into 
+
+October 16, 2013 16 of 50
+
+
+
+a very strained political situation and could raise questions about its independence 
+from Treasury debt management issues.  
+
+I thought I’d end by reminding you that we circulated suggested questions for 
+your discussion on Friday.  Simon, do you have anything to add before we take 
+questions? 
+
+MR. POTTER.  Yes.  I would like to briefly highlight some of the operational 
+issues the Desk would encounter with the possible policy actions and delayed-
+payment scenarios.  Some of these issues are also faced by market participants in 
+their own transactions. 
+
+First, in order for the Desk to accept Treasury securities with delayed principal 
+payments in operations, the Treasury would need to authorize the New York Fed to 
+extend on Fedwire the maturity date of any security maturing the next day—by  
+10:00 p.m. at the very latest. 
+
+Second, the Desk’s current Treasury LSAP purchases are not likely to 
+substantially mitigate market disruptions in delayed-payment scenarios.  As a simple 
+example, we have about $22 billion left to purchase in October, and even if we only 
+purchased securities that will pay a coupon on October 31 during eligible operations 
+for those securities, it would amount to about $9 billion of the $700 billion in affected 
+securities. 
+
+Third, while the Desk’s securities lending operation would be one way for market 
+participants to borrow unaffected securities, the legal agreements and some of the 
+processing infrastructure around these transactions make them less effective in 
+delayed-payment scenarios.  In particular, the timing of operations will not allow 
+dealers to finance their borrowed securities in the triparty repo market.  
+
+Fourth, repo operations could provide cash against affected securities, providing a 
+direct response to funding pressures.  However, the current structure of triparty 
+settlement practices for any cash lender, including the Desk, may result in large 
+intraday credit exposures for securities that mature during the course of the repo term.  
+That finishes the operational issues I wanted to highlight. 
+
+CHAIRMAN BERNANKE.  Thank you very much.  Are there any questions for Bill or 
+
+Simon?  Governor Tarullo.  
+
+MR. TARULLO.  Thank you, Mr. Chairman.  Bill, this question may be for both you and 
+
+Bill Nelson.  How long would it take us to ramp up a TAF 2.0? 
+
+MR. ENGLISH.  TAF would be, operationally, perhaps in New York.  I’m not sure how 
+
+long that would take.  Simon, do you have a sense? 
+
+October 16, 2013 17 of 50
+
+
+
+CHAIRMAN BERNANKE.  The thrust of your question is if we can’t lend to the 
+
+discount window because of stigma, we need— 
+
+MR. TARULLO.  Yes.  I’ve gotten very mixed views from bankers as to whether they 
+
+thought stigma would attach.  But the fact that at least some think it would makes me wonder 
+
+what would happen if, the day after we made this announcement and there was a liquidity 
+
+squeeze in the market, guys don’t want to come to the window. 
+
+MR. ENGLISH.  I don’t have a good answer. 
+
+MR. POTTER.  I think Lorie is telling me maybe about two weeks, and I think she means 
+
+two weeks, not 10 business days.  Is that right?  Yes. 
+
+VICE CHAIRMAN DUDLEY.  And the TAF also has the flexibility that you’re bidding 
+
+the date for settlement forward.  So it doesn’t really solve your current liquidity need.  I’m not 
+
+sure it’s that well suited for this particular set of problems. 
+
+MR. TARULLO.  I’m sorry.  What’s that again, Bill? 
+
+VICE CHAIRMAN DUDLEY.  The auction takes place on day T, but then doesn’t settle 
+
+for several days, that’s how the original TAF was set up.  So you have that delay between the 
+
+day when you bid and then you find out whether you actually won in the auction, and then you 
+
+get the money several days later.  You can’t solve your term liquidity through the TAF. 
+
+MR. TARULLO.  Yes.  That was part of the reason I was asking the question.  First, to 
+
+learn how long it would take actually to get it up as it was before, but, second, whether it would 
+
+have to be reconceived in any fashion in order to be effective in current circumstances.  It sounds 
+
+like the answer is “yes.” 
+
+MR. ENGLISH.  Right, we’d have to move up the settlement, though we thought that the 
+
+delay was one of the reasons why it helped with the stigma, because it was clear you didn’t need 
+
+October 16, 2013 18 of 50
+
+
+
+the cash immediately, and it was an auction, so you might not even get it.  Those were attractive 
+
+features in dealing with stigma.  They are potentially unattractive features here.  
+
+CHAIRMAN BERNANKE.  President Lockhart. 
+
+MR. LOCKHART.  Thank you, Mr. Chairman.  I have two questions for either Bill or 
+
+Simon.  First, as regards numbers 8 and 9, where we would actually be removing securities from 
+
+the market, is there an interpretation that we would be forbearing in some way?  Is there an 
+
+implicit forbearance associated with the Fed’s taking securities out of the markets that have due 
+
+dates in the coming days?  First question. 
+
+MR. ENGLISH.  I don’t think so, or at least not necessarily so.  We’d be running 
+
+operations to purchase securities.  We’d go out to purchase particularly CUSIPs.  We’d be taking 
+
+competitive bids.  We’d be doing a certain size of purchase, and the competitive operation would 
+
+yield, presumably, market prices and revive those market prices.  So I don’t think that there’s 
+
+necessarily a problem.  If we bought them all, or something like that, then there might be an 
+
+issue.  But there are limits on how large a fraction of an outstanding issue the Desk will buy.  
+
+Simon, did you have any other thoughts? 
+
+MR. POTTER.  So that would be 70 percent.  I think that’s a very large number relative 
+
+to the securities we’re talking about.  If I understand President Lockhart, it’s the Fed’s 
+
+intervening when there are delayed payments on U.S. Treasuries and taking those out of the 
+
+market that has a strange appearance.  I think what Bill English was trying to say is that we 
+
+would do the operation using market prices, and a lot of us think that the operational difficulties 
+
+of dealing with delayed payments are what we are trying to deal with then, not providing 
+
+forbearance to the U.S. government, because it would be at market prices. 
+
+October 16, 2013 19 of 50
+
+
+
+MR. LOCKHART.  In terms of the independence or perception-of-independence 
+
+question—again, this is a little bit more of an atmospheric question—do you see a bright line 
+
+between coupon payments and principal payments?  That is, for those securities that involve a 
+
+principal payment due, is there likely to be a perception that that’s materially a different step 
+
+than coupon payments? 
+
+MR. ENGLISH.  I’m not sure there would be a big distinction there.  In the case of bills, 
+
+it’s principal and interest.  There are strips where you’d be picking up just coupon payments.  I 
+
+think the two would be viewed broadly similarly.  But again, Simon, do you have a different 
+
+assessment? 
+
+MR. POTTER.  I would agree with what you said, Bill.  The slight difference that I think 
+
+President Lockhart might be indicating is that we are basically asserting a confidence that we’ll 
+
+be paid back the principal, which requires the Treasury to be well over at auction, because those 
+
+are much larger amounts than the coupon payments. 
+
+CHAIRMAN BERNANKE.  Correct me if I’m wrong here—we’re required to buy in the 
+
+market.  Obviously, we can’t buy directly from the Treasury.  So our decision to buy, in some 
+
+sense, if it’s helping anybody, it’s helping the private counterparties, not the U.S. government, 
+
+except that there is an indirect price effect on their Treasuries.  If it’s monetization, it’s a very 
+
+indirect monetization. 
+
+MR. ENGLISH.  The assistance it’s providing would be by contributing to better market 
+
+functioning in the Treasury market, and that would presumably improve Treasury pricing. 
+
+VICE CHAIRMAN DUDLEY.  Presumably it would make it easier to continue to 
+
+auction securities because you’d know that anything that defaulted would subsequently have a 
+
+place to go.  
+
+October 16, 2013 20 of 50
+
+
+
+CHAIRMAN BERNANKE.  Right.  Yes, it’s pretty indirect help.  Well, except there’s 
+
+the practical issue that the amounts of defaults could swamp our ability to do that, and so I guess 
+
+there wouldn’t be any implied guarantee.  President Fisher, do you have a question? 
+
+MR. FISHER.  Yes.  I was going to basically make the same point.  Thank you, Mr. 
+
+Chairman.  
+
+CHAIRMAN BERNANKE.  Okay.  Any other questions for Bill or Simon?  While 
+
+you’re thinking, I will report one more comment from Linda Robertson.  Apparently, according 
+
+to her information, the debt ceiling disapproval vote, where there will be a vote to see if there are 
+
+two-thirds of either house to disapprove the President’s decision to raise the debt ceiling, will 
+
+take place possibly next week, implying that there may be a little bit of uncertainty between now 
+
+and when that vote takes place.  That being said, I presume that when the President raises the 
+
+debt ceiling, borrowing will be available immediately, so that there won’t be any delay in getting 
+
+access back to the market.  Any other questions? 
+
+MS. RASKIN.  I have one question. 
+
+CHAIRMAN BERNANKE.  Governor Raskin. 
+
+MS. RASKIN.  Yes, for Bill, and that has to do with the position we took in 2011 
+
+regarding money market funds, where my sense is that we weren’t particularly supportive of a 
+
+new liquidity facility.  Has anything changed in terms of your assessment on the feasibility or 
+
+advisability of a new liquidity facility in terms of money market fund stability?  
+
+MR. ENGLISH.  Not really, no.  I think in the discussion in 2011 the Committee 
+
+expressed no particular interest in such a program.  There are issues that our money fund experts 
+
+have raised about whether it even helps to lend to money funds if they have losses, or if you are 
+
+buying things out of them.  That may just be concentrating the losses on the remaining money 
+
+October 16, 2013 21 of 50
+
+
+
+fund investors who haven’t yet fled, and thereby giving them an even greater incentive to then 
+
+flee the money fund.  So there are real questions about whether it helps, and there was a lot of 
+
+discomfort, I think, on the Committee with providing assistance to money funds, where we think 
+
+they are, in some sense, just a bad idea.  If there were problems with money funds, the way that 
+
+the Committee could address that is by potentially buying bills or doing RPs to provide some 
+
+liquidity and to provide a way for the money funds to sell their holdings rapidly in a market that 
+
+might not be very liquid.  That would work as well as, or better, perhaps, than a lending program 
+
+specifically for money funds. 
+
+CHAIRMAN BERNANKE.  Any other questions?  [No response]  If not, let me proceed 
+
+as follows.  The questions that were circulated basically asked for your views on three subsets of 
+
+the questions that Bill and Simon raised.  I’d like to proceed in that way, one group at a time. 
+
+If we could start with the first five, those were purchases of defaulted Treasuries as part 
+
+of normal LSAPs; rollovers of maturing securities, which is not relevant because we don’t have 
+
+any significant number of rollovers; acceptance of securities with delayed coupon payments as 
+
+collateral in securities lending activity; injection of reserves to address the situation where the 
+
+federal funds rate went above the 25 basis point top of the range set by the FOMC, with delayed-
+
+payment Treasuries eligible as collateral; and, finally, discount window lending against delayed-
+
+payment or impaired Treasuries.  All of these actions would be at market prices.  We have, 
+
+essentially, a process by which the auctions are set in a way that sets a price for each CUSIP 
+
+separately, so that we would be able to differentiate between securities that are similar in other 
+
+respects but differ in whether they have had a delayed coupon or not. 
+
+Those are the five that were very broadly supported in 2011.  I would add to that that we 
+
+still, of course, have the currency swap agreements with our five counterparties, and that is 
+
+October 16, 2013 22 of 50
+
+
+
+another action that could become relevant that has been authorized by the FOMC.  In particular, 
+
+the Desk already has the flexibility to change schedules or terms of currency swap arrangements.  
+
+So if there was a need to auction dollars on short notice, for example, we have the authority to do 
+
+that currently, although of course we would want to keep the FOMC informed about any such 
+
+developments.  Let me throw that into the first five, and let me ask if there’s anyone who would 
+
+like to address any of these or has any particular concerns about these potential policy actions.  
+
+President Kocherlakota. 
+
+MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  It’s not so much about the actions 
+
+themselves, but about the communication issue that others have already touched on.  I’m a little 
+
+concerned about the prospect of simply letting our communications take a backseat to whatever 
+
+the Treasury happens to decide.  The Treasury’s incentives might well be shaped by incentives 
+
+that are different from our own; our own incentives, of course, are to promote price stability and 
+
+promote maximum employment.  I would encourage us to be using our own mandates as the 
+
+governing principles under which we think about how to communicate.  What I can conclude 
+
+from that is that, once we had a breach, we should start communicating pretty rapidly about what 
+
+our intentions are, in terms of how we would be treating, say, defaulted-upon Treasury securities, 
+
+the discount window.  I understand why we sort of took a backseat to the Treasury leading up to 
+
+a breach, but I think once a breach takes place we really should start to drive our own bus, so to 
+
+speak, in terms of communication so as to best achieve our own objectives. 
+
+CHAIRMAN BERNANKE.  I think that is reasonable and a pretty conservative 
+
+approach—to communicate once there is a breach.  I guess the question remains, what kind of 
+
+communication we should do even prior to a breach, because some of the operational issues, for 
+
+example, take longer to resolve. 
+
+October 16, 2013 23 of 50
+
+
+
+MR. KOCHERLAKOTA.  Speaking for myself, I would have been a little more 
+
+aggressive with communication even leading up to the date of October 17, because I think that 
+
+would be better designed to safeguard the economy against the kinds of financial dislocations 
+
+that we’re concerned about having downward pressures on prices and downward pressures on 
+
+employment in the near term. 
+
+CHAIRMAN BERNANKE.  Any other comments?  I see Vice Chairman Dudley first, 
+
+and then President Fisher. 
+
+VICE CHAIRMAN DUDLEY.  Assuming all of this gets resolved in a smooth way, 
+
+which is our hope, I think it would be very useful to get out, now, 1 to 5.  If we do agree on 1 to 
+
+5, we should get that out in the marketplace.  I think we saw it with the TPMG—the fact that the 
+
+minutes were out there was actually helpful to get it out in the debate.  Now, I know that the 
+
+Treasury never wants to get this out in the middle of the situation because they view that as 
+
+making it more likely that you won’t get to agreement on the debt limit, but once we get it out 
+
+once, it will be out there forever, and I think that would be actually very reassuring.  I think that 
+
+if we can find some low-risk medium, perhaps the minutes to this meeting, to get out the idea 
+
+that we agree on 1 to 5 in these kinds of situations would be very helpful. 
+
+CHAIRMAN BERNANKE.  President Fisher. 
+
+MR. FISHER.  I agree with Bill.  We were just both mentioning that we spoke in Mexico 
+
+yesterday, the day before I spoke here.  You get questions, and all you can say is, “We will take 
+
+every initiative feasible to maintain market stability.”  Especially if we get through this little 
+
+exercise that Linda described, there might be a space in time where we could be proactive, in the 
+
+right kind of way, to make sure that we, the central bank, have the capacity to take certain 
+
+actions and will do so.  The risk is that it gets interpreted politically, so it’s best if it’s a period of 
+
+October 16, 2013 24 of 50
+
+
+
+calm.  The question is how we get it out there, and this is what needs to be considered.  The idea 
+
+of releasing minutes of our meeting, when we hold minutes back for other meetings—I’m not 
+
+sure, Mr. Chairman, if that’s the right idea.  It may be either a technical communication from the 
+
+Desk or a statement by you.  But I do think it is wise to communicate it ex ante here, particularly 
+
+if we get through this little exercise that Linda just mentioned, and we have some time to do it.  
+
+Thank you.  
+
+CHAIRMAN BERNANKE.  Thank you.  Governor Yellen. 
+
+MS. YELLEN.  I was just going to mention that it seemed to me you mentioned at the 
+
+outset that the minutes of this meeting would be a good opportunity.  It looks like we’re going to 
+
+get through this episode.  The minutes would come out at a normal time.  If we have a 
+
+reasonably detailed discussion indicating that the Committee supports 1 to 5 and that’s 
+
+articulated clearly in the minutes of this meeting, while it doesn’t bind a future Committee in 
+
+terms of what they’ll do in some future crisis, it certainly could be pointed to and would be 
+
+suggestive that the Committee has considered this and would regard this as normal.  And 
+
+depending on what we say on the next set of issues, it might also be helpful for the minutes to 
+
+provide at least some indication of the Committee’s inclination, say, on RPs. 
+
+MR. FISHER.  Actually, on second thought, Mr. Chairman, I just realized that we’re 
+
+talking about a three-week time interval.  So that gives us space.  I think the important thing is to 
+
+have space.  
+
+CHAIRMAN BERNANKE.  Actually, more than three weeks because it would come out 
+
+with the minutes of the next FOMC meeting. 
+
+MS. SMITH.  November 20. 
+
+CHAIRMAN BERNANKE.  November 20, I’m informed. 
+
+October 16, 2013 25 of 50
+
+
+
+MR. FISHER.  Well, that gives us even more space.  That’s good. 
+
+CHAIRMAN BERNANKE.  Governor Powell. 
+
+MR. POWELL.  I’m not totally resolved.  I’m completely fine with 1 through 5 and more 
+
+than that.  Just let me say that.   
+
+MR. TARULLO.  You’re fine as a policy matter? 
+
+MR. POWELL.  As a policy matter, yes.  I wonder, on a number of grounds, whether it is 
+
+wise for us to be disclosing the things we will and won’t do right now, a month and a half before 
+
+the next debt ceiling crisis.  It seems to me you could argue—and I’d like to hear, obviously, 
+
+what others think—that the very thought that we actually countenance a debt default would be 
+
+destabilizing.  You can also argue that—here is your game plan—if it actually looks like a good 
+
+game plan, then it will make it less likely that the Congress will feel enough pressure to actually 
+
+raise the ceiling.  I do think that the right time to be making disclosures is before a default; you 
+
+don’t wait until after a default.  I think you want to have a plan before there’s a failed auction, 
+
+and to be saying we’re here to provide liquidity and assure the orderly function of the short-term 
+
+money markets.  And that, ideally, is enough to avoid a default.  The real risk is of a failed 
+
+auction, is the loss of market access at any price.  It’s not that I want to wait until there is a 
+
+default.  I think that’s the wrong thing.  But I wonder whether just dropping this in the minutes 
+
+on November 20 is wise. 
+
+CHAIRMAN BERNANKE.  It’s just very difficult.  There is no perfect time.  If you do it 
+
+right after we breach the limit, which would be another natural time, then that would potentially 
+
+send a signal that we are anticipating a default. 
+
+MR. POWELL.  Let me just make one last point, which is that we’re doing two things 
+
+here.  We’re acting as the Treasury’s agent, and we’re also concerned about the dual mandate.  
+
+October 16, 2013 26 of 50
+
+
+
+We obviously have an independent role to play, and I think that when financial stability threatens 
+
+our execution of the dual mandate, at that time we should communicate as we see fit.  I see that 
+
+as coming later, but I guess that’s a good question. 
+
+CHAIRMAN BERNANKE.  Governor Tarullo. 
+
+MR. TARULLO.  Thank you, Mr. Chairman.  I have thoughts along the same lines as 
+
+Jay, but maybe slightly different or perhaps complementary.   That is, my observation in the past 
+
+has been that in periods where there is a lot of financial turmoil for one reason or another, 
+
+somewhat, to me, initially, counterintuitively, some of the most effective statements, whether 
+
+from the Treasury secretary or from the Chairman of the Fed, have been very pithy—one or two 
+
+sentences that state the willingness of the government or the central bank essentially to do what it 
+
+takes to maintain financial stability.  I have a little bit of concern that if we intentionally put out 
+
+the list of things that we’ve got unanimity for, and then on things where we don’t have 
+
+unanimity—and maybe since we’re not under the gun right now there’s not as much pressure and 
+
+the circumstances aren’t upon us, so we want to keep thinking about 6 or 7 or 8 or 9, and maybe 
+
+some other measures—that we might inadvertently communicate to markets that we could do 1 
+
+through 5 and maybe that’s about it.  In that case the game plan might be read by some market 
+
+actors as insufficient to deal with some of the concerns that they have, and then in an odd and 
+
+almost paradoxical fashion be unhelpful as opposed to helpful.  I’m not asserting it.  I’m asking 
+
+the question as to whether that is a possibility, in which case we might want to reserve the 
+
+option, when we get to the time—whether it’s before the default, right around the default, 
+
+whenever it is—of a pithy statement from the Chairman with the backing of the Committee that 
+
+basically says something along the lines that Jay said a moment ago. 
+
+October 16, 2013 27 of 50
+
+
+
+CHAIRMAN BERNANKE.  Those pithy statements are usually in the form of the 
+
+statement “The Federal Reserve stands ready to provide liquidity as needed.”  We could do 
+
+something like that in the sense that it expresses a general willingness to address these issues by 
+
+unstinting provision of liquidity without necessarily listing each individual item; that would be 
+
+perhaps another way forward. 
+
+I have Vice Chairman Dudley and President Fisher again. 
+
+VICE CHAIRMAN DUDLEY.  I take Governor Tarullo’s point, but you could list the 
+
+things that you are willing to do without saying that that’s exclusive.  I mean, it could be “plus 
+
+whatever additional measures are necessary consistent with the Federal Reserve’s financial 
+
+stability mandate.”  It’s being specific about certain things, like that we’re willing to take 
+
+defaulted securities at the discount window, which is quite different than saying what you would 
+
+do in terms of open market operations—for example, in terms of reverse repos.  I think you can 
+
+be specific on certain technical issues, and you can be general on broader open market 
+
+intervention issues.  I think you can reconcile those two views. 
+
+MR. FISHER.  Mr. Chairman, if we agreed on the first five, I would include that.  But, 
+
+obviously, you’d leave the door open that we will take other initiatives.  What I worry about is, 
+
+with each passing incident like this, markets discount things well ahead of time.  We don’t know 
+
+when they’re beginning to discount, or sniff out—and I would defer to the Desk here, but my 
+
+sense is that they sniff things out a little bit more quickly.  And if we wait until just before 
+
+default or default, already markets and market operators are beginning to position themselves.  
+
+So I think we should show that we have discussed the matter, have agreement on certain tools we 
+
+can use, but that we haven’t shut the door to taking other initiatives to maintain market stability.  
+
+The market is moving faster with every passing day, and I don’t think we have the luxury to 
+
+October 16, 2013 28 of 50
+
+
+
+wait.  I would like, in a market-operation sense, to at least take advantage of a period here where 
+
+there seems to be a little bit of an opening to make it clear:  “We’ve thought this stuff through.  
+
+We have some tools.  There are other tools we can apply,” without stating the specifics of those 
+
+tools.  But I would defer to Simon on that. 
+
+CHAIRMAN BERNANKE.  President Kocherlakota. 
+
+MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  President Fisher pretty eloquently 
+
+already said a lot of what I wanted to say.  The one thing I would add to what he said is that 
+
+Governor Powell pointed to the fact that we do serve as the Treasury’s fiscal agent, and I think 
+
+we should draw a pretty bright line between those activities in which we’re serving as the 
+
+Treasury’s fiscal agent—and we should not be communicating ahead of the gun without the 
+
+Treasury’s say-so about how we would respond along those operational issues, the issues that 
+
+Susan talked through.  I think 1 to 5, as far as I’m reading them, don’t come into that role at all.  
+
+So I would be pretty comfortable with, if we reach unanimity about 1 to 5, our reporting that 
+
+unanimity in the minutes, and absolutely leaving the door open that the Federal Reserve is a very 
+
+inventive, imaginative organization.  We have other ways to provide support if needed. 
+
+CHAIRMAN BERNANKE.  I absolutely agree that we have to make those decisions 
+
+based on our own calculations and not based on the Treasury’s views.  But they are difficult 
+
+calculations, and we don’t want to understate the complexity of trying to decide exactly when the 
+
+right time is to make these kinds of statements.  President Lacker. 
+
+MR. LACKER.  Thank you, Mr. Chairman.  I’d like to follow up on the point that I think 
+
+President Lockhart was driving toward, and this was sparked in my mind reading the memo and 
+
+coming across the phrase “prevailing market prices” so many times.  There are a number of 
+
+things in 1 to 5 where we’re doing things at prevailing market prices, and at issue are particular 
+
+October 16, 2013 29 of 50
+
+
+
+CUSIPs where the payment has been delayed or defaulted in some way or another.  The first 
+
+question that arises in my mind is whether our actions—our willingness to take them in RPs, or 
+
+whatever—would affect prevailing market prices.  Now, if it wouldn’t, because the market for 
+
+those things is so large and ours is tiny, I’m wondering why we would do it.  And if it would, 
+
+then I think there is this issue. 
+
+There are a lot of different cases to piece out here, and I started thinking about this in 
+
+terms of what principles I’d start with, with this whole endeavor, to guide our choices.  And one 
+
+of them is that we really ought to be ensuring monetary stability, in the sense that we’re 
+
+accommodating significant shifts in the demand for money, like we did on 9/11, where there was 
+
+a $100 billion shift in the demand for money in one day, and we accommodated it. 
+
+But then I think—and Bill English mentioned this in his presentation and remarks—
+
+preserving the measure of independence we won in 1951, and I mean specifically avoiding the 
+
+subservience of our monetary policy objectives to the Treasury’s financing needs, is important, 
+
+too.  And I’m wondering whether intervening in a way that affects the relative price of the 
+
+defaulted CUSIPs would risk raising the appearance of our essentially buffering private-sector 
+
+market participants from the effects of the Treasury’s default.  And while that’s not forbearance 
+
+that benefits the Treasury directly, it does, to some extent, insulate markets from the effect of its 
+
+action in a way that implicates the kind of issues that came up in ’51 and that Bill alluded to.  So 
+
+I’m wondering, is there something in between our intervening in the way that 1 to 5 describe in 
+
+the CUSIPs that are defaulted and our staying away from those CUSIPs altogether?  If our 
+
+actions won’t affect prevailing market prices, and if we stay away that won’t affect prevailing 
+
+market prices, then I’m not sure what the value of our intervening in those CUSIPs is. 
+
+October 16, 2013 30 of 50
+
+
+
+CHAIRMAN BERNANKE.  Well, that’s a complicated question.  I think, though, that 
+
+it’s a far stretch to put an Arrow-Debreu kind of market structure on this, because at a basic 
+
+operational level, these defaulted Treasuries can’t be handled very well, and then there are legal 
+
+questions, like how we treat them as capital, and so on.  I think we learned from the crisis that 
+
+there are externalities associated with massive financial disruption, and here is a case where 
+
+operational and other considerations—legal considerations, transactions costs—create problems 
+
+for the market dealing with these securities.  Our ability to provide liquidity against these less 
+
+liquid securities seems like part of our general financial stability function.  But I’d be the first to 
+
+admit that it’s not an easy analysis. 
+
+MR. LACKER.  If I could, Mr. Chairman, follow up.  I wasn’t basing this on the 
+
+assumptions of an Arrow-Debreu environment.  I was just reacting to the staff who seem to be 
+
+asserting that our actions with regard to particular CUSIPs wouldn’t affect the prevailing market 
+
+price.  There could be externalities, there could be operational issues that make that valuable, but 
+
+that is not really the case that the staff made on this.  It was that it’s innocuous with respect to the 
+
+market value of these things, and so I’m sort of puzzled about the rationale to intervene and 
+
+whether there is some other way to go here with respect to these CUSIPs. 
+
+CHAIRMAN BERNANKE.  Governor Stein. 
+
+MR. STEIN.  I just wanted to reiterate something that I thought I heard Bill English say.  
+
+I don’t think the claim is that it is not affecting market prices.  It’s that we are effectively taking 
+
+operational risk out of the system rather than taking default risk out of the system.  And I think if 
+
+we’re doing that, and that’s the overarching principle, in some sense that’s monetary policy, 
+
+right?  These things are functioning less well as a transactions medium because of the 
+
+operational risk, and we replace them, in some sense, with something that functions better, 
+
+October 16, 2013 31 of 50
+
+
+
+without absorbing default risk from the Treasury.  I think that’s the case.  I didn’t hear Bill 
+
+making a case that it was not going to affect market prices.  If it didn’t affect some kind of 
+
+market prices, it would be an irrelevant proposition in the first place. 
+
+MR. ENGLISH.  I think that’s right.  But our point was, in part, that in our operations, we 
+
+would want to, for example, run competitive auctions and make our purchases and not set a price 
+
+or try to fix the price of a security with a deferred payment equal to those of similar securities 
+
+without a deferred payment, and so on.  But the open market operations, presumably because of 
+
+the operational problems that some people would be facing, would affect the price of these 
+
+securities.  
+
+CHAIRMAN BERNANKE.  Okay.  Any other comments on 1 through 5?  President 
+
+Kocherlakota. 
+
+MR. KOCHERLAKOTA.  Yes, I will just follow up briefly on what President Lacker 
+
+said, because I think he raises some very good points that I have certainly been troubled by.  I 
+
+think it is important that when we are thinking through 1 through 5, one of the backdrops for that 
+
+—at least for me—is that we are thinking about this as being a relatively short-term event where 
+
+the Treasury will eventually make us whole.  If we buy a defaulted-upon security, we expect that 
+
+within a relatively short period of time, the Treasury will actually act to make us whole on that.  
+
+If we didn’t have that expectation, I think that 1 through 5 wouldn’t look as attractive to me.  But 
+
+I think our interventions that are being described in 1 through 5 are expressing that confidence 
+
+that we will be made whole, and in that way moving market prices.  That’s very similar to—as 
+
+you, Mr. Chairman, referred to—how we operated in a crisis.  We expressed a level of 
+
+confidence that maybe the private-sector agents, because they were operating on their own, 
+
+couldn’t have. 
+
+October 16, 2013 32 of 50
+
+
+
+CHAIRMAN BERNANKE.  Okay.  Thank you. 
+
+MS. GEORGE.  Mr. Chairman? 
+
+CHAIRMAN BERNANKE.  Yes. 
+
+MS. GEORGE.  I, too, have no concerns with 1 through 5, but I wanted to align myself 
+
+on this issue of communications; my sense is that it is important to communicate ahead, for two 
+
+reasons.  One is the confidence component of that.  However pithily or broadly we could 
+
+describe the fact that we have or are discussing a range of scenarios or tools, I think that could be 
+
+helpful.  The second thing that I think is important, particularly as it relates to these facilities, is 
+
+giving people a sense of how we would treat collateral.  Thousands of smaller institutions have 
+
+collateral pledged, and already over the past two weeks, we have heard from them regularly 
+
+asking questions about, “How should I position myself?” “What should I do?” “How will you be 
+
+treating this collateral?”  So I think those two components—to the extent that we can be more 
+
+conclusive about how we might act and still address the broader confidence issue—could be 
+
+important to communications ahead of any actual default.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  Vice Chairman Dudley. 
+
+VICE CHAIRMAN DUDLEY.  Simon wanted to jump in. 
+
+MR. POTTER.  I was going to give the example of the Treasury Market Practices Group 
+
+(TMPG), which put out some guidance in the summer of 2012 about how we would roll 
+
+securities as being a good market practice.  One way of looking at getting clarity over the 
+
+discount window and open market operations would be to give the market—assuming 1 through 
+
+5 would actually happen—certainty about that.  And the way that the TMPG put this is, even 
+
+with this clarity, the actual event of either a delayed payment or getting very close to it, would be 
+
+a very serious event.  And I think what I was trying to capture when I went through the 
+
+October 16, 2013 33 of 50
+
+
+
+operational issues is even though, say, 1 through 5 is out there, that doesn’t really deal with those 
+
+fundamental operational issues.  It just takes one of them off the table for the market.  They still 
+
+have the rest of them to deal with. 
+
+For President Lacker’s point, we gave the example in our existing LSAPs that there 
+
+would be $700 billion at risk for the October 31 coupon.  At most, under our existing regime, we 
+
+will be able to buy 9 of those.  So it’s unlikely we could directly affect whatever the market 
+
+would want to do with those $700 billion if the market had a strong view on those securities. 
+
+CHAIRMAN BERNANKE.  President Pianalto. 
+
+MS. PIANALTO.  I was just going to make the comment that we couldn’t hear Esther’s 
+
+comments.  But listening to Simon’s response, I think we got the gist of it. 
+
+CHAIRMAN BERNANKE.  Okay.  President Evans. 
+
+VICE CHAIRMAN DUDLEY.  We couldn’t hear her either, Sandy. 
+
+CHAIRMAN BERNANKE.  Okay.  I don’t want to try to paraphrase Esther, but I took 
+
+her as supporting providing some basic information about our decisions today about policy 
+
+responses.  President Evans. 
+
+MR. EVANS.  Thank you, Mr. Chairman.  I just want to be clear that I support the 
+
+existing authority that the Markets Group and you have for actions 1 through 5.  In Simon’s 
+
+response, he touched on something that I recall from previous videoconferences, which is that he 
+
+alluded to this group—I think you called it the TMPG—Treasury Management Planning Group, 
+
+or something like that.  I assume that’s what that meant.  We’re working under the assumption 
+
+that the markets either do know about this or they don’t know about this, but the New York Fed 
+
+talks to the market people all the time, and I thought I heard something like they are already 
+
+October 16, 2013 34 of 50
+
+
+
+expecting us to use our authorities under 1 through 5, which seems to be more detail than many 
+
+of us know ourselves or thought about before.  Could you provide some more clarity on that?  
+
+CHAIRMAN BERNANKE.  Yes.  The TMPG is the Treasury Market Practices Group, 
+
+and they, in consultation with the New York Fed, put in their minutes some descriptions of how 
+
+defaulted Treasuries would be handled in payments—in particular, this notion that the maturity 
+
+could be artificially extended by one day as a way of letting systems deal with the defaulted 
+
+coupon Treasuries.  I do not believe there was anything in their minutes about Fed actions, 
+
+including discount window actions and the like, so those things are not out there. 
+
+MR. POTTER.  It’s actually the opposite, President Evans.  When this came up at the 
+
+most recent TMPG meeting, and people repeatedly asked us, we would not give an answer to 
+
+this, because our understanding is there hadn’t been an agreement to give clarity on this issue.  
+
+So we have various nonanswers that we give to people. 
+
+MR. EVANS.  Okay.  Thank you. 
+
+VICE CHAIRMAN DUDLEY.  Simon, can I just add one thing?  I think there is a 
+
+general view that people have trouble perceiving why we wouldn’t do that, because they 
+
+recognize that not only do we wear the fiscal agent hat, which I think they are quite sympathetic 
+
+to, but they don’t understand our silence on monetary policy and financial stability issues.  So I 
+
+think we’re in an awkward position when we don’t clarify our role in terms of financial stability 
+
+and monetary policy issues.  This is going back to President Kocherlakota’s point. 
+
+MR. POTTER.  I think most people perfectly understand why we’re not saying anything.  
+
+But they might not understand why they’re supposed to understand that—if people can follow 
+
+that. 
+
+CHAIRMAN BERNANKE.  Okay.  President Bullard. 
+
+October 16, 2013 35 of 50
+
+
+
+MR. BULLARD.  Thank you, Mr. Chairman.  To weigh in on the communications issue 
+
+a little bit, I think markets are making assumptions about what we will do anyway, whether we 
+
+announce something or not.  And so I think that’s where it becomes a little bit odd to say, “Well, 
+
+we are not going to communicate about something where markets have clear assumptions about 
+
+what we do anyway,” because all that’s doing is putting a cloud of uncertainty around what 
+
+might actually happen in the case of a default.  I would say also that the Treasury has long had 
+
+the policy of not wanting to talk about this issue publicly.  But there again, markets are making 
+
+assumptions about what the Treasury will do, and in particular that they will prioritize principal 
+
+and interest payments, which has really been something Treasury secretaries for a long time have 
+
+said.  So I think that this idea about not communicating ahead of the crisis because you might 
+
+bring the crisis on maybe isn’t the best way to think about this, if you start thinking about the fact 
+
+that private-sector guys are making assumptions anyway.  All the Treasury is doing is putting a 
+
+cloud of uncertainty about what it might do in the case of a crisis, so if we actually got into the 
+
+crisis, it would make things much worse than they would otherwise have to be.  I think there is 
+
+room for some change in thinking on this if we get past this particular round so that you could at 
+
+least have some contingency planning and some statements on the table, frankly, both by the 
+
+Treasury and by the Fed here—if we could get the Treasury to come around to that view, which 
+
+it probably won’t.  Then when we actually got into the crisis we would be able to mitigate it 
+
+further, or better than we otherwise would be able to.  And this would be an important 
+
+component of meeting our price stability goals.  This probably dovetails a little bit with President 
+
+Kocherlakota’s leading comments earlier in this meeting.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you very much.  I wonder, in the interest of time, if 
+
+we could get to the second half, and of course the communications issues are relevant there as 
+
+October 16, 2013 36 of 50
+
+
+
+well.  Let me try to do this in an efficient way.  Actions 6 and 7 had to do with the use of RRPs 
+
+or RPs in the Treasury repo market.  Let me focus particularly on number 7.  The idea here is:  
+
+Suppose that repo rates jump sharply because of liquidity pressures in the market, would there be 
+
+circumstances, not all circumstances, in which we would be willing to intervene in order to bring 
+
+those rates down somewhat?  For concreteness, I think there are at least a couple of situations 
+
+where we might want to at least consider that.  One has to do with the transmission of monetary 
+
+policy.  Even though our explicit target is the federal funds rate, if the effects of the federal funds 
+
+rate on broader market rates are being obscured or interfered with by very high short-term repo 
+
+rates, arguably our monetary policy mandate would lead us to want to make sure that interest 
+
+rates generally were consistent with achievement of our policy mandate.  So that’s one possible 
+
+reason.  The other reason that I can think of offhand goes back to Governor Raskin’s question 
+
+about money market funds.  This might be a situation in which spikes in Treasuries—short-term 
+
+Treasury bills, for example—are putting a lot of pressure on money market funds, perhaps 
+
+generating runs.  And by reducing those yields, we might be able to take some of the pressure off 
+
+of that indirectly.  I’m not suggesting that under 7 we would always move to address any kind of 
+
+spike in repo rates.  But if they affected monetary policy, or threatened financial stability, say, in 
+
+the context of money market funds, then we might want to consider that.  So let me put that out 
+
+there for consideration. 
+
+And finally, at the same time, I’ll mention 8 and 9.  Number 8 is purchasing Treasuries 
+
+with delayed coupons in an effort to take them out of the market.  We wouldn’t be able to do that 
+
+in any kind of comprehensive way, given the size of the Treasury market.  Number 9 is a 
+
+sterilized version of that, where we essentially swap undefaulted Treasuries for defaulted 
+
+Treasuries.  It was the presumption of the staff that we would not want to do that, but let me raise 
+
+October 16, 2013 37 of 50
+
+
+
+both of these things at the same time and get reactions to number 7, which is the circumstances 
+
+in which we might want to intervene because of a spike in repo rates.  And if there is no support 
+
+for 8 or 9, we can take that as given.  But if anyone wants to make the case for 8 or 9, then this 
+
+would be an opportunity to do that.  So let me open the floor for any comments on those issues.  
+
+Vice Chairman Dudley. 
+
+VICE CHAIRMAN DUDLEY.  I support giving discretion to the Chairman on 6 and 7, 
+
+because you don’t really know exactly how market conditions are going to evolve.  And you may 
+
+not always be able to call the FOMC together to decide, if things are moving very, very rapidly. 
+
+Six seems like a little bit of an obscure one.  But I can also imagine a problem where you could 
+
+actually have a lot of liquidity hoarding, lots of large cash balances built up at the clearing banks.  
+
+And I can imagine that you might want to find another avenue for that cash to flow, and that 
+
+might be through the reverse repurchase full-allotment facility that we have in place today.  One 
+
+thing you could do with respect to 6 is to give the Chairman the discretion to either raise the limit 
+
+or just take the ceiling off altogether.  This isn’t going to be relevant once this is fully in place, 
+
+perhaps, but in the near term, if this comes up over the next few months, we might want to have 
+
+the ability for the money not to pile up at the banks but to have another way of flowing to the 
+
+Fed.  So I think 6 is something we should think about. 
+
+On 7, I think the repo market is much more the money market now than the federal funds 
+
+rate market.  You know, in the old regime, you could sort of say the federal funds rate market 
+
+was really this deep, liquid market.  But in the current regime, the fed funds market is tiny.  The 
+
+repo market is really, really big, and so I think that you definitely want to have the ability to react 
+
+if the GC repo rate climbs above your target range of 25 basis points.  I not only think it’s 
+
+completely consistent with our monetary policy mandate, but there’s also a financial stability 
+
+October 16, 2013 38 of 50
+
+
+
+aspect to this as well, because if that’s happening, markets are probably going to be very 
+
+disrupted.  I also think that there would be a separate benefit of potentially doing this:  It would 
+
+have the effect of signaling that the Federal Reserve is concerned about what’s happening to 
+
+market functioning.  And to the extent that we did intervene, that would be helpful in terms of 
+
+calming markets down.  Imagine the opposite, if the repo rate climbed to 50 basis points and the 
+
+Fed just sat there on our hands.  You can imagine that could lead to a whole bunch of knockout 
+
+effects, behaviors that we can’t even anticipate today that could actually make this an even 
+
+bigger financial stability issue.  So I think it’s worthy to do for its own sake, from a monetary 
+
+policy perspective, but I also think there is a financial stability angle as well as a signaling effect 
+
+of the intervention that is much broader than the action itself. 
+
+CHAIRMAN BERNANKE.  Thank you.  Any other comments?  President Kocherlakota. 
+
+MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  I am actually interested in what 
+
+other people have to say about 8 and 9, so I don’t necessarily want to speak about 8 and 9 at this 
+
+point.  In terms of 6 and 7, I think that Vice Chairman Dudley raised a great point in terms of 7, 
+
+that maybe the fed funds rate isn’t really necessarily the right marker for the way we are 
+
+influencing interest rates.  I think that should force us to be thinking about a very broad question 
+
+about how we are communicating our monetary policy and the state of monetary policy.  Is it 
+
+enough to say we’re targeting the fed funds rate between 0 and 25 basis points?  It really 
+
+transcends what’s happening in the context of a financial crisis.  I’m not sure of the scenarios in 
+
+which we would be moving so rapidly, with respect to 7, that we wouldn’t be able to call a 
+
+meeting as we did in the past four or five business days, to address this.  What I’m working 
+
+toward is that I would like us to begin talking in a more holistic way about how we want to 
+
+communicate the stance of monetary policy.  Is it really through targeting the fed funds rate, or 
+
+October 16, 2013 39 of 50
+
+
+
+do we want to have a broader discussion of other interest rates?  And then I think it becomes 
+
+very natural to think of 7 as just fitting in with that broader context.  In the absence of that, we’ll 
+
+have to deal with it on a more case-by-case basis.  It’s hard for me to think about scenarios in 
+
+which things are so fast-moving that we wouldn’t be able to come together to think about 7. 
+
+Six seems very different to me.  It just feels like we’ve been struggling with the problem 
+
+of making monetary policy easy, at least that’s the way I think about it.  We have this zero lower 
+
+bound on the fed funds rate, and on other interest rates.  A lot of times it looks like we’d like to 
+
+lower that, and now we’re coming along and saying, “Boy, we’d like to actually make rates 
+
+higher.”  So 6 seems weird to me, and I guess at this point, at least, I would have to have a much 
+
+better understanding of what we’re trying to accomplish.   
+
+Finally, one quick point:  When I think about these issues, I actually don’t think about 
+
+financial stability as some separate goal of monetary policy, or of this Committee.  I think of us 
+
+as trying to achieve our goals of promoting price stability and promoting maximum employment.  
+
+Financial stability certainly interacts with that in the sense that it introduces risks for our ability 
+
+to make progress on our goals.  But certainly with an alternative like 6, where I think it sounds 
+
+more like you’re trying to actually address a market problem, then I would have to know a lot 
+
+more than I know right now about how raising rates in this way is actually helpful in terms of 
+
+promoting maximum employment and price stability. 
+
+So to summarize, I can see myself being in favor of 7, but I think I would want to do it on 
+
+a case-by-case basis.  I actually think Vice Chairman Dudley’s comments open up a much 
+
+broader question that we should really be thinking about as the Committee, outside of any debt 
+
+crisis.  And, I would just need to know a lot more about 6 before we sign on in the abstract to it. 
+
+CHAIRMAN BERNANKE.  Governor Powell, did you have a comment?  
+
+October 16, 2013 40 of 50
+
+
+
+MR. POWELL.  Yes, please.  I want to come back to what the risk is here.  I think the 
+
+risk is of a failed auction.  Specifically, it’s a failed bill auction; it’s a bill auction where the bill 
+
+is going to be due in the middle of the next crisis.  And if you look at options 1 through 5—
+
+again, which I am happy to support—they don’t really help with that.  Bills are excluded from 
+
+many of the options, and the discount window has got stigma.  So I think you get to 6 and 7, and 
+
+really 7 is the one that puts us in a position to address what is in fact the main issue that we could 
+
+be facing here.  You’re offering repo; you’re offering liquidity against short-term securities.  
+
+And, again, I would be doing this, as Governor Tarullo suggested, in connection with an 
+
+announcement that we are providing liquidity to assure the working of the cash markets. 
+
+As long as I’m talking, I find 8 and 9 to be loathsome.  I hope that gets into the minutes.  
+
+[Laughter]  But I don’t want to say today what I would and wouldn’t do, if we have to actually 
+
+deal with a catastrophe on this. 
+
+CHAIRMAN BERNANKE.  So you are willing to accept “loathsome” under some 
+
+certain circumstances.  [Laughter] 
+
+MR. POWELL.  Yes, under certain circumstances.  
+
+CHAIRMAN BERNANKE.  President Evans, I think you had raised your hand.   
+
+MR. EVANS.  Thank you, Mr. Chairman.  I agree with Vice Chairman Dudley’s 
+
+suggestion.  I would be willing to give you the discretion to act on options 6 and 7 between 
+
+meetings if you thought that the markets really required that.  In particular, option 7 makes a lot 
+
+of sense.  The way I heard Vice Chairman Dudley describe this, it harkened back to the period in 
+
+the late ’80s and early ’90s when the Fed was targeting the funds rate and they gave the 
+
+Chairman discretion between meetings, if economic events warranted, to move the funds rate in 
+
+the direction that they thought the bias was.  If short-term market rates are inconsistent with our 
+
+October 16, 2013 41 of 50
+
+
+
+0 to 25 range for the funds rate, that strikes me as being very similar to past practices, and we 
+
+would very quickly get to another meeting where we could revisit that.  I think repos are the way 
+
+to do it, because they’re temporary so they don’t necessarily have to be confused with more 
+
+permanent actions that we’re looking at.  And I think that they would be conveying that we’re 
+
+interested in keeping market functioning going properly.  So I support that. 
+
+I will take note that option 6 included the footnote where it mentioned that an alternative 
+
+would be the Term Securities Lending Facility; we might want to think about that one a little 
+
+more carefully.  If that’s an option, in some cases swapping security for security might be more 
+
+direct, and in certain cases, it might have also a beneficial effect on the rates for the other people 
+
+involved in that.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  Governor Stein. 
+
+MR. STEIN.  First, very quickly, I also support 6 and 7, pretty much for the same 
+
+reasoning that Vice Chairman Dudley laid out, and I’d happily give my proxy on that.   
+
+Let me wade into 8 and 9 and take on “loathsome.”  I sort of understand that people are 
+
+extremely uncomfortable with this stuff.  I have to say, I don’t fully understand the discomfort.  
+
+Of course, we have to put ourselves in the state of the world in which you would need to do this.  
+
+It’s a bad state of the world.  You want to go at it first with option 7.  That is to say, you’d like to 
+
+say, “Here, we’ll lend to you against these securities.”  But imagine the state of the world in 
+
+which, for whatever operational reasons, the money funds said, “I can’t be long in this stuff.  I 
+
+don’t want to borrow to be long.  I just can’t hold it.”  So there are just huge sales of these things.  
+
+I don’t quite see the cost-benefit going the wrong way here.  In other words, I’m taking the 
+
+stipulation that Bill laid out before, that it’s an operational problem.  We’re not buying default 
+
+risk; we’re buying operational risk in a very, very bad state of the world.  In that state of the 
+
+October 16, 2013 42 of 50
+
+
+
+world, I would basically be willing to do it.  I understand it’s optically problematic, so I wouldn’t 
+
+want to be making statements ahead of time that I was planning to do that, because you’re going 
+
+to bear all of the cost and not get the benefit.  But I think in the state of the world where there are 
+
+basically huge sales of the red-zone T-bills, and we can step up and stem that to some degree, I 
+
+don’t see the problem.   
+
+MR. POWELL.  Perhaps I can amplify what I meant by “loathsome.” 
+
+MR. STEIN.  Yes.  Please do. 
+
+MR. POWELL.  I don’t disagree with a word of that.  I’m just saying that these are 
+
+decisions you really, really don’t ever want to have to make.  It’s a terrible decision to have to 
+
+make.  And by my last comment, I meant to suggest that, in extremis, I wouldn’t rule it out.  And 
+
+that’s kind of where you are at that point. 
+
+MR. STEIN.  I understand why it’s optically bad, but I don’t quite see the economic 
+
+argument.  In other words, we are all sort of on board with action 1, which is that because we 
+
+happen to have an LSAP program going, we’re pretty happy to buy defaulted coupons.  But 
+
+defaulted bills, because we wouldn’t normally be buying them under the LSAP?  I don’t see 
+
+where the Rubicon is being crossed here.  You know, we’re taking on some of these types of 
+
+securities. 
+
+MR. TARULLO.  Another martial metaphor. 
+
+MR. STEIN.  So I just don’t see—I mean, maybe then action 1 is sort of a small 
+
+“loathsome?” 
+
+MR. POWELL.  The institutional risk would be huge.  The economics of it are right, but 
+
+you’d be stepping into this difficult political world and looking like you are making the problem 
+
+go away.  I mean, I wouldn’t say we wouldn’t do it or I wouldn’t support doing it. 
+
+October 16, 2013 43 of 50
+
+
+
+CHAIRMAN BERNANKE.  I think we agree we are going to have to have an FOMC 
+
+vote on that particular one. 
+
+MR. POWELL.  Can I amplify one question?  I see 7 as going much broader than 
+
+defaulted securities, though.  I don’t see 7 as being limited to defaulted securities. 
+
+SEVERAL.  Right. 
+
+MR. POWELL.  Okay. 
+
+CHAIRMAN BERNANKE.  Governor Tarullo. 
+
+MR. TARULLO.  Thank you, Mr. Chairman.  I would not take any options off the table, 
+
+even though for some of the reasons just discussed it is not clear we would want to exercise those 
+
+options.  I think Jeremy made the key point, which is that you have to imagine us in particular 
+
+states of the world that could be quite bad.  One thing I have been struck by in the run-up to this 
+
+fiscal cliff, unlike the 2011 one, is the degree to which some of the key people in financial 
+
+markets are much more focused on this than they were before.  Number two, they have difficulty 
+
+articulating exactly what bad things they think would happen, but they are pretty sure some 
+
+really bad stuff would happen.  And that suggests to me that if this were to come to pass, we 
+
+would be in really an unprecedented situation in which we would be ill-advised to, ex ante, say 
+
+that we are going to restrain ourselves from doing things that we otherwise wouldn’t do, but in 
+
+the circumstances where the alternative is sufficiently bad, we might want to collectively hold 
+
+our noses and do.  I think that’s really the most important point coming out of this, which is why 
+
+I was so concerned that the way in which we communicate what we are willing to do not be an 
+
+implicit exclusion of things that we might otherwise want to think about doing. 
+
+CHAIRMAN BERNANKE.  I think several people supported you on that, and I think 
+
+Governor Powell did not exclude this. 
+
+October 16, 2013 44 of 50
+
+
+
+MR. TARULLO.  No, he didn’t.  And Bill Dudley put it well when he tried to sort of 
+
+marry the two things together. 
+
+CHAIRMAN BERNANKE.  President Lacker. 
+
+MR. LACKER.  Yes.  I wanted to follow up on Governor Stein, and on this whole 
+
+6/7/8/9 question.  For me, 7 is consistent with our broad monetary stability objectives.  A broad 
+
+rise in RP rates, across the spectrum of red-zone and non-red-zone securities, would suggest an 
+
+increasing demand for liquidity that we’re ideally situated to supply.  We did this on 9/11.  We 
+
+just fixed the RP rate and offered to intervene at whatever quantity people wanted.  Moreover, 
+
+we did this strange thing.  We usually keep a spread between Treasury-only, agency, and MBS 
+
+RP rates, and we flattened that out and just took them all at the same rate.  We were making a 
+
+judgment there that we were willing to squash those spreads.  And the same question would arise 
+
+with regard to these “red-zone CUSIPs,” I guess we could call them.  So, subject to the proviso 
+
+that there’s some delicacy about that, I’d support 7. 
+
+The same for 6 too, I think, but “undesirable from a policy point of view” was a phrase 
+
+that had me scratching my head.  I thought we wanted to get rates low, but the broader question 
+
+here has to do with transitory versus permanent, more persistent changes, because a rate that 
+
+spikes for a day or two is not going to really affect our monetary policy objectives in any 
+
+meaningful way.  You know, we are thinking about things flowing through longer-term rates and 
+
+monetary policy being transmitted that way.  Yes, some people would lose some money if rates 
+
+go up or down by a lot in one particular day or not.  But I think it’s for something that’s expected 
+
+to persist for a couple of days that we would want to intervene.  I don’t think we’d want to 
+
+intervene just for something that we were sure was only going to last a day.  I think President 
+
+Kocherlakota’s comments are germane here, and I think going down this path is consequential 
+
+October 16, 2013 45 of 50
+
+
+
+enough that I would like to see some check-in with the Committee on this.  But I would be 
+
+willing to delegate if that’s the broad group’s view. 
+
+About 8 and 9, I was going to use the phrase “beyond the pale.”  Governor Stein invites 
+
+us to put ourselves in the position of a state of the world, ex post, in which things are really bad.  
+
+And back to President Kocherlakota’s observation that our willingness to intervene in these red-
+
+zone CUSIPs reflects an underlying assessment on our part that the government is not going to 
+
+default.  Well, if this is a bad state of the world, like Governor Stein describes, there would be a 
+
+difference of views between us and members of the financial public on that.  Otherwise, the price 
+
+declines would be arrested, and yields wouldn’t go up so much.  So if it’s really a disaster for 
+
+those red-zone CUSIPs, it must be that a lot of the market participants don’t have the confidence 
+
+that President Kocherlakota suggests we should act on in buying these.  I think that raises 
+
+delicate questions, and I don’t think that ex post is the sole perspective you want to consider that 
+
+from.  I think you want to ask the question of, what do you want markets to think we are going to 
+
+do in that situation?  And you want to look at things from an ex ante perspective.  This is sort of 
+
+a general proposition.  From that point of view, it strikes me that Governor Powell’s 
+
+“loathsomeness” is really germane here.  So I’m opposed to 8 or 9. 
+
+CHAIRMAN BERNANKE.  President Fisher. 
+
+MR. FISHER.  Mr. Chairman, I am comfortable with 6 and 7—of course, 7 is an FOMC 
+
+matter, but I am very comfortable in delegating to you, on an intermeeting basis, the authority 
+
+that was discussed.  As far as 8 and 9 are concerned, I see Governor Stein’s argument from an 
+
+economic standpoint, as Governor Powell mentioned.  I think Governor Powell is guilty of 
+
+understatement in terms of my description of the politics of those two options.  I would like, if 
+
+we can—and I don’t know how we’re going to write the minutes to this meeting—say that we’ve 
+
+October 16, 2013 46 of 50
+
+
+
+agreed to 1 through 7, but I would not, if we can, specifically articulate 8 and 9 and just say that 
+
+other options are still on the table. 
+
+The one thing I would ask us to consider over time, and maybe to discuss in a more 
+
+fulsome manner when we have the time to do it, is that if we do everything in this menu, we are 
+
+going to have a pretty odd-looking balance sheet, and I still don’t have a sense of what the limits 
+
+are.  And I would like to have that discussed at some juncture.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Williams. 
+
+MR. WILLIAMS.  Thank you, Mr. Chairman.  I also support actions 6 and 7 in the event 
+
+the repo market showed serious signs of strains or impairment for the reasons that Vice 
+
+Chairman Dudley outlined.  Also, in the context of an emergency, obviously, the Chairman may 
+
+need to authorize such actions on his own.  But that said, I am very sympathetic to what 
+
+President Kocherlakota said.  If we’re really thinking about this as part of our monetary policy 
+
+framework—in other words, if we don’t want repo rates to persistently be above 25 basis points, 
+
+or something that like—I do see that as something for the Committee to discuss and decide upon 
+
+a policy on that. 
+
+In terms of actions 8 and 9, apparently I am beyond the pale.  I agree with Governor 
+
+Stein’s comments fully.  I would just add that in our public communications, it will be important 
+
+in such a situation to distinguish between our lender-of-last-resort actions to enhance liquidity 
+
+and our monetary policy actions aimed at macro stabilization.  And obviously for actions 8 and 9 
+
+that’s a difficult challenge, and obviously the bar would be very high for taking these actions.  It 
+
+would be very important for us to explain that these purchases or swaps would not in any way 
+
+interfere with our ability to pursue our macro mandate goals of price stability and maximum 
+
+employment.  And I think it’s really important, as always, to communicate that, in our 
+
+October 16, 2013 47 of 50
+
+
+
+transactions for our Treasury securities, we are transacting at market prices, and in no way 
+
+propping up the fiscal authority through our actions.  Thank you. 
+
+CHAIRMAN BERNANKE.  Thank you.  President Rosengren. 
+
+MR. ROSENGREN.  I support 1 through 7.  I view 1 through 5 more as providing 
+
+operational clarity—I think operational uncertainty is counterproductive—and those should be 
+
+communicated in the minutes.  Six and 7 are a little bit different.  I support the discretion of the 
+
+Chairman for the reasons that were highlighted by Vice Chairman Dudley.  I view it as reducing 
+
+stresses in the liquid markets where the lender is solvent and has the capacity to pay, and I view 
+
+that as fundamental to what central bank functions are.  So I think 6 and 7, with the discretion of 
+
+the Chairman—I think it would be useful to have a meeting if it was possible, but I could easily 
+
+imagine circumstances where that wouldn’t be possible and we should be providing discretion. 
+
+For the reasons that Governor Stein highlighted, I don’t find 8 or 9 repugnant.  I do think 
+
+that we shouldn’t do it without having severe stress in the markets, but I think we certainly 
+
+shouldn’t take it off the table.  Thank you, Mr. Chairman.  
+
+CHAIRMAN BERNANKE.  Thank you.  President Bullard. 
+
+MR. BULLARD.  Thank you, Mr. Chairman.  On option 7, I do think we should consider 
+
+this as part of our toolkit.  However, if we made a decision like that, it could be a momentous 
+
+decision for the Committee—arguing that we would possibly be targeting repo in the future 
+
+instead of fed funds.  That’s a decision that should be made by the Committee and not by a crisis 
+
+or by the Chairman alone.  So I would say that the Committee should authorize that if we get to 
+
+that.  I doubt that there would be a situation that would be so dramatic that we would have to go 
+
+ahead with a decision of that magnitude without consulting the Committee. 
+
+October 16, 2013 48 of 50
+
+
+
+The other options I think we should put in our pocket for now, and just table them for the 
+
+time being. 
+
+CHAIRMAN BERNANKE.  Thank you.  Governor Yellen. 
+
+MS. YELLEN.  I would just say, to be brief, I agree completely with President 
+
+Rosengren that on 7 particularly, it’s something we should be prepared to do for the sake of 
+
+financial stability and our monetary policy objectives, if there’s real pressure on repo rates.  The 
+
+ways in which this can occur have been well articulated by Vice Chairman Dudley and Governor 
+
+Powell.  And if there is time to consult with the FOMC, I think it’s advisable to do so.  But I can 
+
+easily imagine situations where there wouldn’t be time to consult, and I think the Chairman 
+
+should have the discretion. 
+
+And on 8 and 9, I agree with Governors Stein, Tarullo, and Rosengren—these are things I 
+
+wouldn’t take off the table.  I wouldn’t be eager to do them, but I wouldn’t say “never.” 
+
+CHAIRMAN BERNANKE.  Thank you.  President Pianalto. 
+
+MS. PIANALTO.  Thank you, Mr. Chairman.  I, like others, support giving you the 
+
+authority to take actions along the lines of 6 and 7 for financial stability reasons or for our 
+
+monetary policy objectives.  And then I also believe that the threshold for actions 8 and 9 would 
+
+be very, very high.  I’d be very reluctant for the Federal Reserve to take those actions. 
+
+I want to go back to the issue of communications.  On 6 and 7, I was going to comment 
+
+that I would avoid early communication of our willingness to take these actions.  I am concerned 
+
+that announcing them in advance could lead some market participants to assume that the Federal 
+
+Reserve expects problems to occur, and, thereby, we would foster some uncertainty in markets.  
+
+For other market participants, though, announcing these potential tools in advance might 
+
+engender overconfidence that the Fed could substantially offset market disruptions.  And so I 
+
+October 16, 2013 49 of 50
+
+
+
+would prefer to hold off communications about 6 and 7 until it becomes clear that action is 
+
+warranted.  That raises the question of how what we’ve talked about today is going to appear in 
+
+minutes.  When this happened back in 2011, the minutes of that discussion were very brief.  I’m 
+
+just wondering whether minutes are going to be more detailed this time around, given the 
+
+discussion we’ve had today. 
+
+CHAIRMAN BERNANKE.  Well, I think we need to review the discussion we had, not 
+
+only in terms of the substance but also in terms of communication.  And of course the minutes, 
+
+as always, will be circulated, and we will try to come to some agreement.  My sense of the 
+
+meeting is that we should provide somewhat more detail in terms of our broad willingness to 
+
+address liquidity issues without limiting the range of things that we are willing to do.  But we 
+
+have a few weeks yet.  We can work on trying to find language that will meet the concerns that 
+
+were raised. 
+
+But I’m actually very glad that we had this discussion, notwithstanding that it may be 
+
+moot for the time being, in part because it was useful to talk about some of these tools, but also 
+
+precisely because of this communication issue, which is relevant, even now, because it may be 
+
+that this is the right time to communicate some of these things to the market.  So we will give 
+
+this some thought and circulate something for Committee approval, obviously, at the appropriate 
+
+time. 
+
+We are at 4:00.  Is there anyone who has not been able to speak who would like to speak?  
+
+[No response]  Okay.  Again, I’m glad we had this discussion.  I thought it was actually very 
+
+useful, and I thank you for making the time. 
+
+END OF MEETING 
+
+October 16, 2013 50 of 50
+
+
+
+

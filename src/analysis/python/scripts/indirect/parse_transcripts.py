@@ -41,17 +41,26 @@ def get_speaker_statements():
             temp_df['content'].loc[j] = ''.join(interjection.split('.')[1:])
 
         parsed_text = pd.concat([parsed_text,temp_df],ignore_index=True)
+    parsed_text.to_pickle("parsed_text.pkl")
+    parsed_text = pd.read_pickle("parsed_text.pkl")
+    #Speaker D. Lindsey. messes up our dataset 9 times, so we apply a manual adjustment.
+    parsed_text["content"] = parsed_text["content"].apply(lambda x: " ".join(str(x).split()[1:]) if len(str(x).split())>1 and str(x).split()[0]=="LINDSEY" else x)
+    parsed_text["Speaker"] = parsed_text["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
+    
     parsed_text.to_csv("../../output/interjections.csv")
     
-    #This modification causes us to drop 217 out of 9417 speaker interjections, or 2%
+    
+    
+    
     speaker_statements = parsed_text.groupby(['Date','Speaker']).sum().reset_index()
+    
+
+
+    #This modification causes us to drop 217 out of 9417 speaker interjections, or 2%
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:len(x.split())==1)]
     speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:x.isalpha())]
 
-    #Speaker D. Lindsey. messes up our dataset 9 times, so we apply a manual adjustment.
-    speaker_statements["content"] = speaker_statements["content"].apply(lambda x: " ".join(str(x).split()[1:]) if str(x).split()[0]=="LINDSEY" else x)
-    speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
-
+    
     #Correct Typos, of which there are 18.
     with open("../../data/speaker_typos.txt",'r') as f:
         for line in f.readlines():

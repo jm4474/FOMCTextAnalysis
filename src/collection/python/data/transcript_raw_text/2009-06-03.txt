@@ -1,0 +1,1188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMC Conference Call Transcript, June 3, 2009
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 1 of 20
+
+Conference Call of the Federal Open Market Committee on 
+
+June 3, 2009 
+
+
+A joint conference call of the Federal Open Market Committee and Board of Governors 
+of the Federal Reserve System was held on Wednesday, June 3, 2009, at 2:30 p.m.  Those 
+present were the following: 
+
+Mr. Bernanke, Chairman 
+
+Mr. Dudley, Vice Chairman 
+
+Ms. Duke 
+
+Mr. Evans 
+
+Mr. Kohn 
+
+Mr. Lacker 
+
+Mr. Lockhart 
+
+Mr. Tarullo
+ 
+Mr. Warsh 
+
+Ms. Yellen
+ 
+
+Mr. Bullard, Mses. Cumming and Pianalto, and Mr. Rosengren, Alternate Members of 
+the Federal Open Market Committee 
+
+Mr. Fisher, President, Federal Reserve Bank of Dallas 
+
+Mr. Madigan, Secretary and Economist 
+
+Ms. Danker, Deputy Secretary 
+
+Mr. Luecke, Assistant Secretary
+ 
+Mr. Skidmore, Assistant Secretary
+ 
+Ms. Smith, Assistant Secretary
+ 
+Mr. Alvarez, General Counsel 
+
+Mr. Sheets, Economist 
+
+Mr. Stockton, Economist 
+
+
+Messrs. Altig, Clouse, Connors, Kamin, Slifman, Sullivan, Tracy, Weinberg, and Wilcox, 
+Associate Economists 
+
+Mr. Sack, Manager, System Open Market Account 
+
+Ms. Johnson, Secretary of the Board, Office of the Secretary, Board of Governors 
+
+Mr. Frierson, Deputy Secretary, Office of the Secretary, Board of Governors 
+
+Mr. English, Deputy Director, Division of Monetary Affairs, Board of Governors 
+
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 2 of 20
+
+Ms. Liang, Messrs. Nelson and Reifschneider, Associate Directors, Divisions of Research 
+and Statistics, Monetary Affairs, and Research and Statistics, respectively, Board of 
+Governors 
+
+Mr. Oliner, Senior Adviser, Division of Research and Statistics, Board of Governors 
+
+Mr. Perli, Deputy Associate Director, Division of Monetary Affairs, Board of Governors 
+
+Ms. Richards, Manager, Division of Reserve Bank Operations and Payment Systems, 
+Board of Governors 
+
+Ms. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors 
+
+Ms. Hinojosa and Mr. Williams, Records Management Analysts, Division of Monetary 
+Affairs, Board of Governors 
+
+Messrs. Fuhrer and Rosenblum, Executive Vice Presidents, Federal Reserve Banks of 
+Boston and Dallas, respectively 
+
+Mr. Judd, Advisor to the President, Federal Reserve Bank of San Francisco 
+
+Ms. Mosser, Messrs. Rasche, Rolnick, Schweitzer, and Sellon, Senior Vice Presidents, 
+Federal Reserve Banks of New York, St. Louis, Minneapolis, Cleveland, and Kansas 
+City, respectively  
+
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis 
+
+
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 3 of 20
+
+Transcript of the Federal Open Market Committee Conference Call on 
+
+June 3, 2009
+ 
+
+CHAIRMAN BERNANKE. We have seen in recent weeks some significant increases in 
+
+Treasury yields and mortgage rates. 
+
+MR. KOHN. Are you going to close the meeting? 
+
+CHAIRMAN BERNANKE. I am sorry.  This is a joint FOMC–Board meeting.  I need a 
+
+motion to close the Board meeting. 
+
+MR. KOHN. So move. 
+
+CHAIRMAN BERNANKE. Thank you. Again, we have seen a significant rise in 
+
+Treasury yields and mortgage rates, and the reason for having the meeting is just to have a bit of 
+
+interaction, I hope informal, about whether any policy action is worthwhile at this stage, and 
+
+whether it is or not, if we want to talk at all about how we communicate about this issue.  As 
+
+usual in an FOMC meeting, we are going to have a presentation from the Desk and an economic 
+
+outlook update from Dave Stockton.  Before doing that, we have one piece of business, which is 
+
+to vote to approve the selection of Brian Sack as manager of the SOMA.  Many of you know 
+
+Brian, I am sure.  He was here. He went off to work with Larry Meyer for a while.  Now we 
+
+welcome him back to the Fed family.  May I have a motion? 
+
+MR. KOHN. So move. 
+
+CHAIRMAN BERNANKE. Without objection.  All right. Seeing none, the motion is 
+
+carried. Let me turn now to New York for a report on the Desk.  Brian started yesterday, so I 
+
+guess we will leave him a little more slack and go to Trish Mosser.  Trish. 
+
+MS. MOSSER. You are stuck with me for one more round.  Thank you very 
+
+much, Mr. Chairman.  In spite of the recent hiccup—a pretty big hiccup actually—in 
+
+mortgage markets, financial market conditions have continued to improve for the 
+
+most part in recent weeks.  Most credit spreads continue to narrow, the availability of
+ 
+funding for financial firms has improved while the cost of that funding continues to 
+
+
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+June 3, 2009 4 of 20
+
+fall, and the banks’ capital-raising efforts since the release of the stress test results 
+have exceeded expectations.  Gains in both equity and commodity prices reflect a 
+growing belief that global economic growth has stabilized, if not exactly turned the 
+corner. In short, the perceived tail risk of a sustained free-fall in the economy, 
+combined with another financial meltdown, has receded fairly significantly.  The 
+improvement in risky asset markets has been accompanied by significant increases in 
+government bond yields and steeper yield curves around the globe.  This, of course, 
+includes Treasuries and has some implications for our purchase programs.  Similarly, 
+the notable improvement in funding conditions is reflected in reduced use of Fed 
+liquidity facilities—and that’s a good thing—but it affects our balance sheet. 
+
+I will talk about our programs and our balance sheet in a few moments, but let me 
+start first with what is mostly good news.  Since the April FOMC meeting, global 
+equity markets are up 10 to 30 percent, led by particularly strong increases in 
+emerging markets and stock prices of all types of financial firms.  The improvement 
+in the global growth outlook and the portfolio reallocation toward riskier assets is 
+reflected in the narrowing of credit spreads nearly everywhere—with the largest 
+declines in spreads occurring in the riskiest asset classes and the riskiest countries.  
+Not surprisingly, the dollar has weakened notably, but in an orderly way.  It’s fallen 
+about 8 percent on a trade-weighted basis since the April FOMC meeting.  Generally 
+speaking, the dollar depreciation has been largest against currencies where equity 
+performance has been the strongest and the credit-spread tightening has been the 
+largest.  The one exception to this, which is a bit of a puzzle, is the euro, where the 
+dollar is nearly 9 percent weaker since late April. 
+
+Turning to the United States, corporate credit spreads have tightened nearly 
+125 basis points for investment-grade companies and 350 basis points for high-yield 
+companies since late April.  In fact, corporate bond rates themselves have actually 
+fallen despite the backup in Treasury yields.  The largest banks continue to raise 
+capital and issue non-FDIC guaranteed debt at a fairly fast pace, and the ease with 
+which this capital has been raised is notable.  Several of the issues have been 
+significantly oversubscribed, and the relatively muted effect of what in many cases is 
+very significant dilution reflects both better economic news and increased confidence 
+in the long-term viability of the large banks. 
+
+Similarly, the spreads on most securitized products continue to narrow.  
+Yesterday’s TALF subscription supported $15½ billion of asset-backed securities, 
+$11½ billion of which was financed in the TALF.  That’s 13 issues, and they covered 
+nearly all the eligible asset classes.  Indicatives, which are quoted spreads on existing 
+consumer ABS, have continued to tighten, and the spreads on actual transactions have 
+narrowed more than anticipated. Compared with the May TALF, the June 
+subscription spreads are anywhere from 15 to 30 basis points narrower.  For a little 
+longer term comparison, a Ford auto loan securitization yesterday priced 130 basis 
+points lower than a very similar issue in the inaugural March subscription of the 
+TALF. Thinking ahead to exit—and this may be too soon—but there were several 
+non-TALF credit card securitizations in the last week or two that were sold at spreads 
+
+
+
+ 
+
+ 
+ 
+
+June 3, 2009 5 of 20
+
+at or below 100 basis points. In other words, they were sold at prices that make their 
+financing uneconomical in the TALF.  The notable exception to this trend is the 
+commercial-mortgage-backed securities market, where spreads widened very sharply 
+last week in response to a proposed change in ratings methodology by Standard & 
+Poor’s. S&P’s changes, if implemented, could result in downgrades of nearly half of 
+the most senior CMBS tranches eligible for legacy TALF.  (It would also place 
+S&P’s ratings judgments very far from its peers.)  Prior to the S&P announcement, 
+the CMBS spreads had narrowed steadily in response to the expansion of the TALF to 
+new and then to legacy CMBS; but since the announcement, they have widened more 
+than 100 basis points. 
+
+All the factors I noted at the last briefing have continued to push Treasury yields 
+higher. Less macro tail risk, an unwinding of last winter’s “flight to quality” 
+investments, upward revisions to both current and future Treasury supply, and the 
+U.S. Treasury’s intentional shift of issuance out the yield curve have all contributed 
+to an increase of nearly 65 basis points in the spread between two-year and ten-year 
+Treasuries in recent weeks.  It’s worth noting that the 2-year yield hasn’t budged—all 
+of the steepening is due to an increase in the 10-year yield.  The yield curve is 
+exceptionally steep, even by the standards of past recessions.  Typically, the spread 
+between the two-year and the ten-year yield steepens steadily throughout recessions 
+and continues to steepen into the recovery.  The current spread is 270 basis points— 
+that is above the post-recession peaks in the last few recessions and certainly much 
+higher than previous levels late in recessionary periods in the past.  In addition to the 
+factors I’ve noted, a minority of market participants have interpreted this steepness as 
+evidence of significantly increased inflation risk, but that doesn’t seem to us at the 
+Desk to be the consensus view in markets.  Reduced risk of deflation and improved 
+liquidity in the TIPS market are the most commonly cited explanations for the rise in 
+long-dated breakeven rates. I’ll repeat myself one more time by noting that the 
+Treasury purchase program is not large enough to offset the factors that are increasing 
+long-term yields.  We continue to purchase securities at a steady pace, with purchases 
+concentrated in the 2-year to 10-year maturity range.  You won’t be surprised that our 
+operations continue to be met with very strong offers to sell securities to us. 
+
+Turning finally to mortgage markets, until the middle of last week, the effect of 
+both the MBS and the agency purchase programs had been to narrow spreads to 
+more-normal levels in these markets and, in the case of MBS, to encourage the 
+refinancing wave that began in March. However, there is a clear limit to how low the 
+Desk could and should push MBS and agency yields relative to rising Treasury rates.  
+We don’t wish to push spreads so low that we “become the market.”  This would not 
+only be detrimental to market functioning but would also likely impair our ability to 
+exit successfully when the time comes.  In the MBS market, we reached that limit last 
+Tuesday, when the MBS–Treasury spread was 130 basis points, about 10 basis points 
+below where it had been at the time of the April FOMC meeting.  On Wednesday of 
+last week, MBS yields jumped over 40 basis points, and the 10-year Treasury yield 
+rose 20 basis points, with most of those increases occurring in just a couple of hours 
+during the afternoon. The proximate cause of the jump in yields was convexity 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 6 of 20
+
+hedging by mortgage servicers and originators as the primary mortgage rate rose 
+above 5 percent—the level widely viewed as the “trigger” for households to 
+refinance, or not refinance. But more fundamentally, the backup in MBS yields and 
+mortgage rates was, frankly, inevitable given the steady rise in Treasury yields. 
+
+As is typical in the MBS market, once mortgage rates rose far enough that 
+refinancing became unattractive, mortgage extension risk caused a positive feedback 
+loop to ensue. With slower expected refinancings, the duration of existing mortgages 
+and their associated servicing rights increased, which prompted selling of long-
+duration assets (MBS, swaps, and Treasuries), which in turn pushed long-term rates 
+even higher, which caused more duration extension, more selling, and even higher 
+long-term rates.  You get the picture. By the end of Wednesday, it was clear that the 
+spring refinancing wave that we had been experiencing was over.  The mortgage 
+convexity vortex—that’s one of my favorite descriptive terms of this—has waxed and 
+waned over the past week. There were large increases in rates on Wednesday and on 
+Monday and modest declines in rates on other days.  Regardless of the daily pattern, 
+there is no doubt that mortgage rates have moved to a higher level, and there is likely 
+to be additional volatility in fixed-income markets in the near term. 
+
+So what does this mean for the MBS purchase program?  Except for a single day 
+last week, we have not significantly increased our pace of purchases, nor are we 
+planning to. To do so, we believe, would only narrow MBS–Treasury spreads to the 
+point that other investors would leave the market.  Moreover, the supply of low-
+coupon MBS is likely to slow significantly in coming weeks, and so over time we 
+will shift the composition of our purchases toward higher-coupon, more-seasoned 
+mortgages. If the rise in long-term rates persists—which it may if there continue to 
+be macro improvements, large Treasury supply, and convexity hedging—then the 
+new supply of MBS is likely to fall to very low levels, at which point we will 
+consider additional tactical changes to the MBS program.  We are already considering 
+several ways to adjust both the MBS and the agency-debt purchase programs in such 
+circumstances, and we will be reporting back to you with our findings and 
+recommendations at the next meeting. 
+
+Finally, as Brian and I noted in the memo last week, the balance sheet has not 
+grown as quickly as we had forecasted just a few weeks ago.  Essentially, the 
+improvement in private funding markets—evidenced by a 40 basis point decline in 
+the three-month LIBOR rate—has accelerated the shrinkage in our liquidity facilities.  
+As of the end of May, the liquidity facilities were $255 billion smaller than we 
+expected a few weeks ago—mainly because of very large declines in participation in 
+the TAF, swap-financed foreign dollar operations, and the CPFF.  Figures from this 
+week’s operations suggest that the use of our liquidity facilities will continue to 
+shrink, although perhaps not quite as rapidly as in the last few weeks.  As a result, our 
+near-term projections for the balance sheet and the monetary base have been revised 
+down. We now expect the balance sheet to grow about 3 percent per month over the 
+summer. We will provide more details on balance sheet projections in a couple of 
+weeks. In the meantime, I’m happy to take any questions. 
+
+
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 7 of 20
+
+CHAIRMAN BERNANKE. Thank you very much, Trish.  And thank you for many 
+
+good reports. Questions for Trish?  Governor Kohn. 
+
+MR. KOHN. Thank you. Trish, you noted that foreign yields went up.  Compare the 
+
+increase in foreign yields with the increase in U.S. yields—I am trying to get a diagnosis here.  
+
+Also you said that there were upward revisions to expected Treasury supply in the last couple of 
+
+weeks, and I wondered what was going on there.  You said that the Treasury said it was 
+
+concentrating further out the yield curve, so there might be pressure out there.  But have there 
+
+been upward revisions to budget deficit projections—or why the increase in Treasury supply?  I 
+
+wasn’t aware of anything. 
+
+MS. MOSSER. This is actually over the whole last month, so it isn’t just the last couple 
+
+of weeks. It is really since the end of April.  The April tax receipts were substantially below 
+
+even the Treasury’s estimates, so that has added to supply; and they are revising up the deficit 
+
+projections a bit. I should have been more precise and said that the Street continues to increase 
+
+their projections of Treasury supply.  We know that Treasury’s announcements on this are more 
+
+discreet than that, but the analysts on the Street continue to increase their forecasts.  The 
+
+Treasury is absolutely pursuing pushing its issuance out the yield curve.  It had shortened up 
+
+quite substantially the weighted average maturity of the debt, and over the course of this year, it 
+
+is going to be increasing the maturity of the Treasury debt pretty substantially. 
+
+Back to your first question about foreign yields, the increase in 10-year yields in the 
+
+United States is slightly larger than the increases, say, in Germany and Spain.  It is about 10 or 
+
+15 basis points larger than, say, in France and the United Kingdom.  Japan is much smaller, only 
+
+about 15 basis points. But the ranges go from about 15 basis points to about 50 or 60.  The 
+
+United States is toward the top, but there is no question that yields have gone up everywhere. 
+
+
+
+ 
+
+ 
+
+  
+
+June 3, 2009 8 of 20
+
+MR. KOHN. Thank you. 
+
+CHAIRMAN BERNANKE. President Fisher. 
+
+MR. FISHER. Trish, I also want to add my appreciation for the good reports you have 
+
+been giving, particularly from someone who likes to eat the stuff up, as you know that I do.  I 
+
+wanted to ask you—going back to Don’s question—we were talking about $2½ trillion for the 
+
+fiscal year, which gives another trillion or so to run in terms of net new debt issuance.  You 
+
+mentioned that the Street estimates are going up.  What are they talking about? 
+
+MS. MOSSER. There is a wide variety of estimates.  I would like to get the Treasury 
+
+staff here at the Desk to report back to you with the details.  But everyone’s median number 
+
+keeps getting revised up. I think the range is still between $1 trillion and something over 
+
+$1½ trillion. But the fact is that all of the increments to everyone’s forecast are positive 
+
+numbers.  No one is revising things down. But we can get back to you with more details. 
+
+MR. FISHER. How far are we now into the Treasury purchase program of $300 billion? 
+
+MS. MOSSER. We are almost exactly on schedule, so we are at about $100 billion or 
+
+maybe a little over $100 billion.  Did I do that right?  Yes. 
+
+MR. FISHER. Then, my last question is with regard to the TALF.  You said the magic 
+
+words “exit strategy” when you were giving your monologue.  A general question: In your 
+
+opinion, has the TALF been effective or marginal in alleviating some of these market pressures? 
+
+Or has this just happened in conjunction with a general improvement in the marketplace? 
+
+MS. MOSSER. We think the TALF has had an important role to play in the consumer 
+
+ABS markets in allowing for price discovery.  When a market goes dormant for months on end, 
+
+it is very difficult for investors and issuers to know what the right price is, particularly when the 
+
+secondary markets are so illiquid that the prices being quoted there are just so exceptionally 
+
+
+
+ 
+
+ 
+
+ 
+
+June 3, 2009 9 of 20
+
+outside historical experience. The advantage of the TALF providing some financing has been 
+
+that there is price discovery.  Every time there is new issuance, that new issuance comes in just a 
+
+little below the previous issuance, and the bid-asked spreads narrow just a bit.  So we think that 
+
+has actually been its main benefit, frankly, because the sheer size is not huge.  It has been more 
+
+like a kick-start mechanism for the rest of the market. 
+
+MR. FISHER. Thank you. And thanks again for your reports. 
+
+CHAIRMAN BERNANKE. Thank you.  President Rosengren. 
+
+MR. ROSENGREN. Trish, can you talk a bit about the mortgage-backed security 
+
+ARMs?  In particular, you mentioned that the Desk was going to look at the three-, five-, and 
+
+seven-year ARMs. So given that the long end has moved up so much, is there anything you are 
+
+thinking of doing with the mortgage ARMs? 
+
+MS. MOSSER. Yes. As a matter of fact, that is one of the topics that we are planning to 
+
+talk about at the end of the month at the in-person meeting.  We are going to discuss some of the 
+
+near-term strategy issues with the purchase programs, including some of the changes that we 
+
+could make.  And ARMs are one of the areas that we, along with the New York and Board staff, 
+
+are studying.  We will have probably a note for you and, if not a note, certainly a presentation on 
+
+that topic. 
+
+CHAIRMAN BERNANKE. President Pianalto. 
+
+MS. PIANALTO. Trish, in your report you mentioned the potential downgrade by S&P 
+
+of some of the CMBS.  How is that going to affect our participation in that program?  Is it going 
+
+to reduce the number of CMBS that are going to be available for the TALF, and does that change 
+
+any of our plans for that program? 
+
+
+
+ 
+
+ 
+
+June 3, 2009 10 of 20
+
+VICE CHAIRMAN DUDLEY. I talked to the senior people from S&P this morning 
+
+about this issue. What is happening is that they are changing their methodology, so the actual 
+
+credit quality of the CMBS tranches that we are talking about isn’t changing; it is really that they 
+
+are changing how they characterize them.  And we are going to have to make a decision, frankly.  
+
+If their characterization is way outside what we think is appropriate, we may want to modify our 
+
+criteria. For example, let’s imagine a situation in which there are five rating agencies, and four 
+
+rank a given tranche triple-A, and S&P is the outlier.  If we really judge that the outlier is 
+
+inappropriate—in other words, that there isn’t a lot of credit risk associated with that tranche— 
+
+we might want to change our criteria to allow one exception among the credit-rating agencies.  
+
+So that is something that we are going to have to evaluate.  We are going to have to see what 
+
+they do and then (1) evaluate what that means for the size of the eligible market and (2) consider 
+
+what it means, if we modified the criteria, in terms of what sort of credit risk we would be 
+
+actually taking. So we are going to have to wait and see what they actually do in terms of what 
+
+the impact is and then feed that into what is appropriate for the program.  But it is not a change in 
+
+their perception of the actual underlying credit quality; it is how they are characterizing that 
+
+credit quality because they are changing their methodology. 
+
+MS. MOSSER. That is true. 
+
+CHAIRMAN BERNANKE. I just want to say, to be clear, that we have not made any 
+
+changes. We are maintaining the triple-A requirement.  So if we don’t make changes, that would 
+
+eliminate close to half—or something like that—of the eligible assets. 
+
+VICE CHAIRMAN DUDLEY. My point is that I think we just want to make sure that 
+
+we control our own destiny. It may be completely appropriate for S&P to do these downgrades, 
+
+and we may feel completely comfortable with that.  We may want to rule out all of those 
+
+
+
+June 3, 2009 11 of 20
+
+tranches. I am just saying that it is possible that we may view them as such outliers in terms of 
+
+their assessment of credit quality that we may not want to give full weight to it.  So you are 
+
+absolutely correct:  We haven’t changed our policy, and we haven’t committed to changing our 
+
+policy. But we might want to reevaluate that.   
+
+MS. MOSSER. One other notable difference is that with TALF 2.0 we have been fairly 
+
+clear in the information we have released to the public that we are going to do much more credit 
+
+analysis ourselves and we are going to hire a collateral evaluation agent to give us an 
+
+independent, security-by-security evaluation of the quality of the collateral.  One of the reasons 
+
+for that was, frankly, concern among the team working on the TALF that we might run into a 
+
+situation like this, where there were potentially significant disagreements across the rating 
+
+agencies, and we really do want to have more control of our destiny, as Bill calls it.  So no 
+
+decisions at all have been made, and this is one of the things that the team is working on very 
+
+actively. 
+
+VICE CHAIRMAN DUDLEY. Another whole issue about the question of credit rating 
+
+is that, when you are talking about a new securitization selling at par, the ratings are comparable 
+
+across different assets, but when you are talking about a legacy security, where the security 
+
+might be selling at a very big discount to par, it is not really clear how that price and rating map 
+
+into actual credit risk. In other words, if I could buy a double-A-rated CMBS that is selling at 
+
+5 cents on the dollar and then I am haircutting it on top of that, the risk I am taking is probably 
+
+de minimis.  So it is very important to recognize that there is a whole second set of complications 
+
+when you are talking about legacy securities because a lot of these securities are not selling at 
+
+par. They are selling at deep discounts to par, so a lot of the risk is already embodied in that 
+
+
+
+June 3, 2009 12 of 20
+
+price. But the rating agencies don’t think of it that way.  They are rating it as if it were an 
+
+instrument trading at par, and the risk of taking actually any losses whatsoever on that.  
+
+CHAIRMAN BERNANKE. Okay. Thank you. President Bullard. 
+
+MR. BULLARD. Yes, a question for Bill Dudley.  Wouldn’t the other rating agencies 
+
+follow suit and then change their methodology eventually, so the idea of having just one outlier 
+
+maybe isn’t that realistic over a medium term?  
+
+VICE CHAIRMAN DUDLEY. That is certainly possible.  I think that, in our 
+
+conversations with the different rating agencies, we have felt the least comfortable that S&P was 
+
+up to snuff in how they rate the commercial mortgage products.  So you are absolutely right. 
+
+Everyone could converge to S&P’s new standard—or maybe not.  But at the end of the day, what 
+
+we really have to think about is that this shouldn’t be driven by one rating agency.  It should be 
+
+driven by what we are trying to do with the program and what is an acceptable level of credit risk 
+
+to us. Now, obviously, the acceptable level of credit risk to us is de minimis.  So I am not 
+
+suggesting that we are going to be widening the program to take on a lot more risk, but I don’t 
+
+think we want to absolutely pre-commit ourselves to go wherever S&P drives the bus.  That’s all. 
+
+CHAIRMAN BERNANKE. The staff will keep working on these issues, and we will see 
+
+where that goes. Anyone else, questions for Trish?  Not seeing anybody, I turn now to Dave 
+
+Stockton for a brief update on the outlook. 
+
+MR. STOCKTON. Thank you, Mr. Chairman.  The bottom line is that the 
+
+forecast has strengthened somewhat further since the April Greenbook.  The 
+
+incoming data have been a little stronger than we were looking for, and there has 
+
+been, on net, some continued improvement in the key factors conditioning our 
+
+forecast. In the near term, the main qualitative features of the story that we have been 
+
+telling for some time continue to receive support from the incoming data.  
+
+Consumption looks as though it has flattened out in the first half after declining very 
+
+steeply late last year. Housing looks to be stabilizing.  Businesses are continuing to 
+
+slash production and by enough to achieve some sizable liquidations of excess 
+
+inventories. And we are still seeing capital spending decline at a pretty rapid clip.   
+
+
+
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+June 3, 2009 13 of 20
+
+There have been a few surprises in the data, and most of them have been to the 
+upside. In the first quarter, with imports declining much more rapidly than exports, 
+the contribution of net exports to GDP was larger than we had expected.  And in the 
+second quarter, we have received somewhat stronger, or maybe I should say less 
+weak, readings on housing, equipment spending, and nonresidential construction.  On 
+that last factor, we received two months now of data on construction put in place that 
+were much stronger than we had expected.  Those surprises have been concentrated in 
+power generation and refinery construction.  We checked with the Census Bureau, 
+and it stands by its data. But I think I can say with some confidence that we are not 
+looking for refinery construction to be the engine of growth to propel us out of 
+recession here.  So we are not really attaching much signal going forward to any of 
+the strength in this nonresidential construction, where we still see the fundamentals as 
+pretty terrible. 
+
+As was the case at the April meeting, we are still not seeing any signs of 
+appreciable improvement yet in labor markets.  And I would say that the readings on 
+the labor market, if anything, have been a bit worse than we were anticipating.  Initial 
+claims have flattened out some in recent weeks, but at very high levels.  And insured 
+unemployment has continued to soar.  In fact, those data led us to mark down further 
+our near-term labor forecast, and we are expecting this Friday’s May employment 
+report to show a drop in private payrolls of a bit more than 500,000.  I expect that that 
+figure would be pretty close to the ADP estimate but would be 100,000 weaker than 
+our forecast at the April meeting.  And given the increase in insured unemployment, 
+we are also expecting the unemployment rate in May to increase to 9¼ percent, and 
+that is about ¼ percentage point higher than we had in our previous projection.  
+Putting together the spending data, what we see in the labor market, and what we 
+know about production, we are now estimating that real GDP declined at an annual 
+rate of about 5½ percent in the first quarter and at about a 1 percent rate in the second 
+quarter. Both of those figures are about ½ percentage point stronger than our April 
+projection. 
+
+It is still the case, looking further ahead, that we think that the contraction in 
+activity that we have experienced in the first half is going to give way to, first, a 
+stabilization and then a modest upturn in activity in the second half.  That is 
+predicated on the expectation, which we are seeing supported in the data at this point, 
+that final demands more broadly are going to be stabilizing in the second half, 
+supported by fiscal stimulus and the easing that has occurred in financial conditions. 
+And we continue to expect some lessening in the pace of inventory liquidation going 
+forward as stocks move into better alignment with sales, and that ought to provide a 
+boost to production as well in the second half. 
+
+As I mentioned at the outset, the key factors conditioning the longer-term forecast 
+have shown further improvement and would lead us to revise up the projection later 
+this year and in 2010. Stock prices are about 10 percent higher than was anticipated 
+at the time of our April forecast, and the foreign exchange value of the dollar is down 
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+June 3, 2009 14 of 20
+
+about 5 percent relative to our previous projection.  As for interest rates, the backup 
+in mortgage interest rates certainly would hold back housing some, but the 
+quantitative effect of that increase would be offset by the decline in corporate rates 
+that we are seeing and the decline in the corporate cost of capital.  So on net, the 
+higher stock market and the lower dollar would provide some significant impetus.  
+That is offset only a bit by the higher oil prices, which are more than $10 a barrel 
+higher across the forecast period. In combination with the stronger incoming data for 
+the first half, the net effect of these changes in the conditioning assumptions would 
+add about ½ percentage point to the growth in GDP in both 2009 and 2010.  That 
+would put us at about minus 1 percent this year and about plus 3 percent in 2010.  As 
+for our projection for the unemployment rate, as I noted earlier, despite the stronger 
+spending data, the labor market is looking weaker to us.  As a consequence, we now 
+expect the unemployment rate to top out later this year at somewhat above 
+9½ percent. But then given the stronger outlook for real GDP growth over the next 
+year and a half, we project a larger decline in the unemployment rate from that higher 
+level, so that we would probably have a forecast of an unemployment rate a bit below 
+9 percent by the end of 2010, in contrast to our April forecast, which had it ending at 
+a bit above 9 percent. 
+
+Our inflation projection will likely be revised up a bit.  The incoming data on core 
+consumer prices have been somewhat higher than we expected, but almost all of that 
+surprise has been tobacco price increases that we just do not expect to persist.  Still, 
+we are working with higher energy prices and a lower dollar that is likely to put some 
+upward pressure on import prices.  Those are going to combine to provide a small 
+boost, all else being equal, to core prices in both 2009 and 2010 of about a tenth or so.  
+Obviously this year is going to get some further boost in terms of total PCE prices of 
+about ½ percentage point from higher energy prices and a bit higher core prices.  I 
+will be happy to take questions. 
+
+CHAIRMAN BERNANKE. Thank you, David, for this intermeeting report.  Questions 
+
+for Dave? Vice Chairman. 
+
+VICE CHAIRMAN DUDLEY. David, where would you put the unconstrained 
+
+equilibrium federal funds rate today compared with, say, the April meeting and earlier in the 
+
+year?  And roughly how much of that is driven just by the forecast turning out differently than 
+
+we expected versus how much of that is due to the easing in financial conditions that we’ve 
+
+seen? 
+
+
+
+ 
+
+ 
+
+June 3, 2009 15 of 20
+
+MR. STOCKTON. Vice Chairman, we haven’t done that calculation yet.  We’re just 
+
+getting started. But we would be happy to do that and get it to the Committee as soon as we get 
+
+a little better fix on tying down the forecast at this point.  
+
+VICE CHAIRMAN DUDLEY.  Okay. 
+
+CHAIRMAN BERNANKE. Other questions?  President Lockhart. 
+
+MR. LOCKHART. Yes, thank you, Mr. Chairman.  Dave, on the question of risks to 
+
+your outlook, there has been a lot of discussion of commercial real estate.  Can you give some 
+
+sense of how you would quantify any risk to the outlook associated with worse-than-expected 
+
+problems in the commercial real estate sector? 
+
+MR. STOCKTON. Luckily that sector is a small enough share of total GDP that, even 
+
+with an appreciable error on our part to the downside, there would not be a whole lot of direct 
+
+effect on GDP. Nevertheless, it is still the case that the fundamentals there look extremely soft, 
+
+and aside from the power generation and refinery surprises that we have had, the rest of 
+
+commercial real estate is coming pretty close to our expectations in the forecast.  It is easy to see 
+
+how we could have a sharper decline there than we have built into the forecast.  But I do not 
+
+think we would be looking at something that did more than affect the top-line GDP by a tenth or 
+
+two, even if we were to see a more significant decline.  Now, whether or not there would be 
+
+feedback effects through the financial system of a continued deterioration in commercial real 
+
+estate and sharper price declines there, I think that would probably be the bigger concern.  And if 
+
+I were more concerned about the downside risk to the outlook, I would look for effects probably 
+
+coming through that channel rather than through the direct construction channel alone. 
+
+CHAIRMAN BERNANKE. Other questions? Okay. Let me make just a couple of 
+
+comments about the situation, and then we’ll open it up for any questions or comments that 
+
+
+
+June 3, 2009 16 of 20
+
+participants may have.  Looking at the increase in yields, it is not an entirely benign 
+
+development, obviously.  There is the undercurrent of huge deficits, and on a few specific days, 
+
+like the day on which the United Kingdom got the warning, we saw a bad combination of 
+
+movements:  a decline in the dollar, a rise in yields, and a fall in equity prices, which is sort of 
+
+indicative of a flight from U.S. debt.  So a couple of days like that were somewhat worrisome. 
+
+Having said that, my own view—and I will want to hear views of others and from the 
+
+staff—is that most of what we have seen since the FOMC meeting is the result of more-positive 
+
+influences, notably, first, the better outlook, which has caused the term premium to increase or 
+
+the yield curve to steepen, and second, the reversal in the flight to quality.  We are seeing the 
+
+dollar decline and the yields rise at the same time that equity prices go up, which suggests a more 
+
+positive interpretation of the development.  It is not clear what role inflation expectations are 
+
+playing. It is certainly true that, mechanically, a significant part of the increase is tied to the 
+
+increase in 5- to 10-year breakevens. But whether that is really a change in inflation 
+
+expectations arising, say, from reduced fear of deflation or whether it’s just better operation and 
+
+more liquidity in the TIPS market is not entirely clear.  But either one, I think, is not particularly 
+
+worrisome because the breakevens now suggest a still well-controlled rate of inflation, pretty 
+
+close to what our target would be.  So I guess my overall assessment is that, although we need to 
+
+watch carefully in terms of the risks associated with flight from the dollar or flight from 
+
+Treasuries, that this is mostly a benign development.  Based on that, if I were recommending at 
+
+this point, I would not recommend any change in our policy.  To the extent that this increase in 
+
+yields is being driven by a better outlook that is an endogenous part of the improvement of the 
+
+economy, I think our best approach there would just be to wait and watch and see how things go. 
+
+
+
+ 
+
+ 
+
+June 3, 2009 17 of 20
+
+I would also mention, as I did in my note to the Committee earlier, that I think that June’s 
+
+meeting is going to be very informative.  We have presentations in June on a wide variety of 
+
+aspects of our program, including the effects of large-scale asset purchases; as Trish mentioned, 
+
+the tactics of making purchases; the exit strategy both from individual programs and from the 
+
+balance sheet; and managing the balance sheet more broadly.  So I personally would think that 
+
+we would want to wait and hear more about those issues, particularly the exit strategy, before 
+
+making any changes in our programs. 
+
+On communication, my suggestion would be, to the extent that you agree that this is 
+
+primarily a benign development, that we communicate that we are comfortable, that we are 
+
+taking a wait-and-see approach, and that we will just review as necessary our policies as the data 
+
+come in.  That would be the summary of my own view at this point, but if others disagree or 
+
+want to amplify, I certainly would be happy and interested to hear that.  So are there any 
+
+questions or comments?  President Lacker. 
+
+MR. LACKER. Thank you, Mr. Chairman.  I did suggest that this be a formal FOMC 
+
+meeting to you in conversation last Friday.  I did this for three reasons.  One, to make sure we 
+
+would be able to elect Brian Sack as soon as possible.  Second, the staff noted that the change in 
+
+the monetary base projections or the balance sheet or however you look at it was going to be 
+
+substantially different from what they had told us they would expect, given our plans coming out 
+
+of the last meeting.  And I think in light of our uncertainty about just how transmission 
+
+mechanisms are working right now, a little consultation was warranted even if one’s expectation 
+
+coming into this might not be that recalibrating or recrafting our plans was warranted.  My own 
+
+sense—I agree with you, Mr. Chairman—is that we shouldn’t alter our purchase programs right 
+
+now. Maybe we view that as warranted at the next meeting, but I do not at this meeting want to 
+
+
+
+June 3, 2009 18 of 20
+
+suggest that we ought to change our purchase programs, even though the trajectory for the 
+
+balance sheet seems significantly lower.  The third reason I wanted to suggest that this would be 
+
+a fruitful discussion had to do with the Treasury market selloffs that occurred over the last couple 
+
+of weeks, which you alluded to and Trish Mosser and others have talked about.  One notable 
+
+feature of those selloffs is that they at times were accompanied by substantial market chatter 
+
+about the possibility that we might intervene or increase our purchase programs in order to limit 
+
+yield increases. 
+
+Now, this highlights for me a communication challenge that I think we are likely to face 
+
+several times again.  We have embarked on an asset-purchase program of a certain size, and we 
+
+didn’t discuss much how program size could or would or should or ought to vary with 
+
+circumstances.  Even though there is language in the directive that says it ought to vary with 
+
+circumstances, we didn’t really talk about the way in which it ought to change with evolving 
+
+circumstances.  That language is in the directive.  So you can see how the private sector might 
+
+have been encouraged to think that, if we get surprised by something, we might react by 
+
+changing our purchase programs.  I think that market participants believe about our programs 
+
+that we want to lower borrowing costs and to lower them in particular markets like mortgages, 
+
+credit cards, or auto loans. And that connection, which I think has been made in a lot of market 
+
+participants’ minds, would lead naturally to the supposition that we want to reduce yields on 
+
+things like Treasuries and mortgage-backed securities.  From there it is just a short step to the 
+
+notion that we might react to unexpected increases in yields with an expansion of our purchase 
+
+program. 
+
+But as you pointed out, Mr. Chairman, there are a lot of reasons that yields could increase 
+
+in ways that wouldn’t imply that we would have a motive to increase purchases.  In fact, some of 
+
+
+
+ 
+
+ 
+
+June 3, 2009 19 of 20
+
+these reasons, if anything, would imply that we might want to consider backing off or reducing 
+
+the scale of our purchases. Better growth prospects, for example, indicate perhaps a reduced 
+
+need for stimulus. Higher expected inflation or reduced probability attached to the possibility of 
+
+deflation would seem to suggest reduced stimulus.  Higher federal deficits—again, if we were to 
+
+increase our purchases, that would amount to sort of monetizing the debt.  Or if we were to try to 
+
+offset the effect of higher deficits on yields, that would amount essentially to monetizing some of 
+
+the debt, which would be inflationary. I do not think we want to do that. 
+
+To my mind, this arises in part because of the degree to which we have emphasized the 
+
+asset side of our balance sheet rather than the liability side.  The way I have communicated about 
+
+our stimulus and our asset purchases is to refer to them generally in terms of the overall stimulus 
+
+that the programs are supplying.  So in the weeks ahead and maybe even the months ahead, when 
+
+we get to episodes in which yields change in an unexpected way and people are talking about 
+
+how we are going to react, my own view is that articulating this in terms of the overall stimulus 
+
+we are providing and de-emphasizing borrowing costs and interest rates in particular market 
+
+segments might be useful.  In addition, sort of in conjunction with that, it might be useful to 
+
+emphasize other developments that could be affecting yields for plausible reasons that would 
+
+obviously not warrant an increase in stimulus—improving credit market conditions, reduced 
+
+downside risks to inflation, and so on. 
+
+So those are just the remarks I have, but again, it was out of a concern that recent market 
+
+events and commentary on them seemed to indicate some uncertainty and confusion about our 
+
+potential reaction function—in this case, thinking of our reaction function as being asset 
+
+purchases as a function of incoming information, like yields.  I was just struck by the extent to 
+
+which markets put some probability on the notion that we might increase the scale of our 
+
+
+
+ 
+
+ 
+
+June 3, 2009 20 of 20
+
+intervention to try to damp the increase in yields, which I think in this case would be pretty 
+
+clearly the wrong thing to do.  Thank you, Mr. Chairman. 
+
+CHAIRMAN BERNANKE. Thank you, President Lacker.  You raise some interesting 
+
+points. In testimony and other contexts, I have said a couple of times that we weren’t trying to 
+
+defend any particular interest rate, which I think is appropriate given that, as you point out, 
+
+interest rates can change for different reasons.  So I think that your point is well taken.  Other 
+
+questions or comments?  All right.  If there is no other discussion, I appreciate the opportunity to 
+
+talk a bit about these issues.  Clearly, there is a lot more that we are going to learn between now 
+
+and a couple of weeks from now, and in particular, we do have a very full program of staff 
+
+materials about various aspects of this.  I hope that we are going to show some “learning by 
+
+doing” here and that, as we go forward, we will refine our tactics and our strategy; and having 
+
+this input is very helpful. 
+
+I would like to just mention to you that Debbie is pointing out to me that everyone has 
+
+now agreed with the proposed schedule of 2010 FOMC meetings, and so if there are no 
+
+objections, we are going to release that schedule to the public at the end of this week.  Anything 
+
+else?  Okay.  Thank you very much for your time, and we will see you in Washington in a few 
+
+weeks, if not sooner. Thank you. 
+
+END OF MEETING 
+
+
+
+
