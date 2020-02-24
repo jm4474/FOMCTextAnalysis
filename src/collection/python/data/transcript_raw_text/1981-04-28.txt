@@ -1,0 +1,1178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOMC Conference Call Transcript
+
+
+Federal Open Market Committee
+Conference Call
+
+April 28, 1981
+
+PRESENT: Mr. Volcker,
+Mr. Solomon,
+Mr. Boykin
+Mr. Corrigan
+Mr. Gramley
+Mr. Partee
+Mr. Rice
+Mr. Schultz
+Mrs. Teeters
+Mr. Wallich
+
+Chairman
+Vice Chairman
+
+Messrs. Balles, Black, Ford, and Winn, Alternate
+Members of the Federal Open Market Committee
+
+Messrs. Guffey, Morris, and Roos, Presidents of the
+Federal Reserve Banks of Kansas City, Boston, and
+St. Louis, respectively
+
+Messrs. Doyle and Smoot, First Vice Presidents, Federal
+Reserve Banks of Chicago and Philadelphia,
+respectively
+
+Axilrod, Staff Director
+Altmann, Secretary
+Kichline, Economist
+Sternlight, Manager for Domestic Operations,
+System Open Market Account (New York)
+
+Note: A complete record of staff attendance at this session was not
+available in the Committee's files.
+
+
+
+Transcript of Federal Open Market Committee Conference Call of
+April 28, 1981
+
+CHAIRMAN VOLCKER. [Unintelligible] money supply figure. The
+next money supply figure, in case any of you don't know it, shows a
+sizable increase, which is not particularly in line with anybody's
+expectation or projection and puts us well above the last path we had.
+I'll get to that in a minute, but I want to put it in the perspective
+of these seasonals. And I'm afraid there was some misleading of the
+Committee at the last meeting in that it was said that it just doesn't
+make much difference. It makes quite a lot of difference--not the
+seasonal changes themselves, but how we treat NOW accounts. On the
+seasonals themselves, a tentative decision has been made to use the
+technique which, in effect, knocks out April to September of last
+year. If we don't, and just run an ordinary seasonal, a lot of the
+seasonal adjustment factors move in the opposite direction from [the
+way] they have been moving in recent years and the year-to-year
+changes in seasonal adjustment factors are much bigger than has been
+typical. There are 0.5 changes and 0.6 changes in particular months,
+which is very exceptional and doesn't look very reliable. Moreover,
+the other technique is at least consistent with what our outside
+consultants said to do when we had something unusual occur in a series
+in the space of a year. Also, it gives seasonal adjustment factors
+that are at least no more different than they ordinarily are; they
+change either 0 or 0.1 or, in a few months, 0.2; and they all tend to
+move in the same direction they have been moving in recent years. So,
+tentatively at least, we're operating with those kind of revisions in
+the seasonals.
+
+As for NOW accounts, we are putting in the NOW accounts and
+seasonally adjusting them. Of course, they've gotten quite big this
+year, and there is a decision as to what to do. I think we can say
+there is no right way of doing it. We don't have any history that
+gives a particular seasonal for NOW accounts. We could do what we've
+been doing up to now, which is to assume they have no seasonal. We
+can do what we are tentatively doing, which is to assume that the
+proportion of NOW accounts that came out of demand deposits acts like
+demand deposits and the other portion acts like savings accounts. Or
+we can just seasonally adjust the [M1] series with NOW accounts in it,
+which is presumably what we would do in the long run. But, of course,
+we haven't got much experience for that either. So, tentatively, what
+we're doing is taking that middle course, which is to seasonally
+adjust the total of M-1B adjusted, in effect; and we get a seasonal
+that is almost the same as the demand deposit seasonal, but there's a
+big difference in the fact that we're including NOW accounts where we
+didn't before. This question arose at the Committee meeting [in late
+March], and the response was that it didn't make much difference.
+Well, it turns out that it makes quite a lot of difference on a month-
+to-month basis. An advantage of publishing this now is that it makes
+almost no difference from December through April. In other words, it
+would not change the April level appreciably. It would raise it by
+$100 or $200 million or something, according to our current estimates.
+But it does not make a very appreciable difference for the whole
+period from December through April. It does make a big difference for
+particular months. I'll read you what we tentatively have for the
+monthly adjusted figures.
+
+MR. PARTEE. For M-1B.
+
+
+
+4/28/81
+
+CHAIRMAN VOLCKER. What we now have shows: +1.5 in January;
+-2.3 in February; and +8.2 in March. Just extrapolating what we have,
+with that big jump in the week we haven't published yet, April would
+be +18 percent. Now, choosing the seasonal that includes in effect
+two-thirds of the NOW accounts or a little more than that for the
+early part of this year, the monthly numbers would be: January, +4.1;
+February, +2.3, which is a particularly big change; March, +7.3; and
+April, +13.6. The quarterly change, which on the old method was
+-.2, becomes +1.3. The December-to-April seasonally adjusted annual
+rate, again using that April estimate, is 6.3 percent on the old basis
+and approximately 6.9 percent on the new basis. That change of about
+1/2 percentage point is only a third of [the difference in the
+quarterly change] because this seasonally adjusted annual rate
+actually looks at the April level. The difference in the April level
+is between 0.1 and 0.2 percent, and 0.1 is maybe a little more than
+$400 million, I guess.
+
+MR. AXILROD. Well, it's about 0.2 off.
+
+CHAIRMAN VOLCKER. It obviously shows a smoother pattern on
+the new basis, but it doesn't change the general trend. April looks
+much lower and February looks much higher. Let me just stop there and
+see whether there are any questions or comments.
+
+MR. BLACK. Mr. Chairman, Bob Black. I commend you for this.
+I think this really ought to be done.
+
+CHAIRMAN VOLCKER. Well, I think it ought to be done, too.
+But I'm not very happy about the fact that it involves such big
+changes and that the pattern looks somewhat different than what we had
+before.
+
+MR. BLACK. But if we end up with 13.6 percent in April, that
+will look a lot better than 18 percent.
+
+CHAIRMAN VOLCKER. I agree with that. People will say that's
+why we did it.
+
+VICE CHAIRMAN SOLOMON. Paul, when we publish this on Friday,
+if that's what you intend to do, are we going to give it month by
+month?
+
+CHAIRMAN VOLCKER. Yes, we'll give the back data for last
+year and all the back data for this year, including the weekly
+numbers. We haven't got the weekly changes worked out yet. It
+obviously won't change the direction of week-to-week movements, but it
+will change the week-to-week movements in some way that corresponds
+with this monthly change.
+
+VICE CHAIRMAN SOLOMON. But the week-to-week numbers that
+we've been publishing--
+
+CHAIRMAN VOLCKER. We would also publish a long explanation
+of just what we did.
+
+VICE CHAIRMAN SOLOMON. All right. And in the future when we
+give the monthly adjustments for the correction of the NOW accounts,
+we would give it seasonally adjusted?
+
+
+
+4/28/81
+
+CHAIRMAN VOLCKER. Well, that adjustment factor I don't think
+is seasonally adjusted, but we will show the adjusted figures
+seasonally adjusted. We have two adjustments here: The first
+adjustment is called shift adjustment; the second adjustment is called
+seasonal adjustment. We will print seasonally adjusted, shift-
+adjusted, figures.
+
+VICE CHAIRMAN SOLOMON. And that will be just once a month?
+
+CHAIRMAN VOLCKER. Yes.
+
+MR. SCHULTZ. And that's going to clear everything up!
+
+CHAIRMAN VOLCKER. Now, on this seasonal--nobody knows what
+May is going to bring anyway--it reduces the April growth and it would
+increase whatever May growth there is. Or if May went down, it would
+go down less because the seasonal happens to work in the other
+direction. The way it works out, these NOW account additions don't
+make much difference on a quarterly basis. But they make a lot of
+difference in the months within a quarter. The seasonal adjustment
+factor tends to come back to about the same thing in the first month
+in every quarter as a kind of first approximation. So, when you look
+at a figure from January to April, or April to July, or July to
+October, it doesn't make much difference whether you seasonally adjust
+the NOW accounts or not. But whenever the seasonal adjustment factor
+moves by a large amount, it makes a large difference because NOW
+accounts are now $60 billion or whatever.
+
+SPEAKER(?). Well, let's just forget about this--
+
+CHAIRMAN VOLCKER. We have another conversation on [this
+telephone line], I guess. Either that or I can't hear somebody.
+
+MR. CORRIGAN. No, there's at least one other conversation
+going on here, Paul.
+
+CHAIRMAN VOLCKER. I don't know whether it's more interesting
+than ours. Mr. Secretary, can we clear this up?
+
+MR. ALTMANN. We've been working on it since before we got
+started.
+
+MR. BLACK. Mr. Chairman, he said what had been done couldn't
+be undone. He must know what the April figure is!
+
+MR. SCHULTZ. I don't think we're in any danger. Anybody
+listening in on this conversation is going to be totally confused!
+
+CHAIRMAN VOLCKER. Well, I wish this could get cleared up.
+Is there any more comment on this?
+
+MR. BALLES. John Balles, Paul. Am I understanding
+correctly--
+
+CHAIRMAN VOLCKER. Just a second, John. We have to get that
+other conversation off of here. Can we start it over again or what?
+
+MR. ALTMANN. We can.
+
+
+
+4/28/81
+
+CHAIRMAN VOLCKER. Look, we're going to hang up and start
+over again.
+
+MR. PARTEE. Communications.
+
+CHAIRMAN VOLCKER. All that fancy telephone [junk] they've
+put in here.
+
+MR. PARTEE. Well, that's just for within the Board.
+
+CHAIRMAN VOLCKER. Can't I call someone now and--
+
+MR. PARTEE. That doesn't take care of outside; in fact, we
+can't call outside.
+
+MR. ALTMANN. When we started out, at least, we interrupted a
+conversation.
+
+MR. PARTEE. I thought we had dedicated lines. I didn't
+think that could happen.
+
+MS. TEETERS. Well, maybe it's because they're switching all
+the other ones.
+
+MR. PARTEE. What is our range for M-1B adjusted?
+
+MR. AXILROD. 3-1/2 to 6 percent.
+
+MR. PARTEE. So 6 to 9 is distinctly high?
+
+MR. ALTMANN. Oh, I don't think they hear us.
+
+MR. AXILROD. But that's not what it would be quarter--
+
+MS. TEETERS. It's a quarterly target.
+
+MR. PARTEE. Naturally, we get a funny first quarter
+because--
+
+MR. ALTMANN. Does anyone still hear the other voices?
+I think we need to run down the list once again, which we can do
+quickly, to make sure we haven't lost anybody. [Secretary's note:
+All Reserve Banks reported that they had been reconnected.]
+
+CHAIRMAN VOLCKER. I guess we interrupted John Balles, but
+let me just say one other thing. The implication of taking this kind
+of middle course on the seasonal adjustment, which looks best at the
+moment, is that we're going to have to change it again. At some
+point--I don't know when--we should just be seasonally adjusting the
+total series. You know, two years from now we're going to face this
+same problem and what to do about it. Presumably at that point, we
+may just shift over and seasonally adjust the whole series.
+
+MR. PARTEE. We'll only have one M-1.
+
+MR. BALLES. Paul, this is John Balles. I was just going to
+ask a couple of questions. It is my understanding, and I'm asking for
+
+
+
+4/28/81
+
+confirmation, that this is the first time the shift-adjusted M-1B
+figures would have been published.
+
+CHAIRMAN VOLCKER. No, we published them in footnotes at the
+end of every month.
+
+MR. AXILROD. With the wrong seasonal.
+
+CHAIRMAN VOLCKER. They were not seasonally adjusted. We had
+this bastardized series; the demand deposit component was seasonally
+adjusted, but not the NOW account component. But those figures with
+that earlier seasonal are in the public domain.
+
+MR. BALLES. The one thing that's worrying me is the point
+that some of you will remember from past years when we got into this
+seasonal adjustment problem. It is what Arthur Burns used to call the
+4 equals 12 problem. The different techniques are all equally valid
+but yield different answers. I'm just wondering whether by publishing
+the new seasonals we're adequately going to guard our flank, so to
+speak, by pointing out that the seasonals are a matter of some
+judgment.
+
+CHAIRMAN VOLCKER. We certainly intend to say that. And it's
+very unusual for [alternative techniques] to make so much difference.
+As I said earlier, I don't think there's any theoretically right
+answer to this. The fact is, first of all, that we don't know the
+shift adjustment, which bears upon it a little; that's an estimate.
+But we don't know whether NOW accounts behave the way demand deposits
+did before they became a NOW account. There's no way of knowing that
+until we get some experience.
+
+MR. BALLES. Certainly, these published seasonals will be for
+weekly as well as for monthly [data]?
+
+CHAIRMAN VOLCKER. Yes.
+
+VICE CHAIRMAN SOLOMON. Paul, this is Solomon. Is the staff
+taking one average shift adjustment assumption? Or are they taking it
+month by month as far as where the NOW accounts came from?
+
+CHAIRMAN VOLCKER. Well, we made the arbitrary judgment that
+it's two-thirds [from demand deposits], I guess, throughout 1980.
+Then in 1981 it's month by month. It started at 80 percent, Steve?
+
+MR. AXILROD. It started at 77-1/2 percent out of demand
+deposits, then 72-1/2 and 72-1/2 percent. Now we're estimating 70
+percent for April, but we don't have any real data yet for April.
+
+CHAIRMAN VOLCKER. Okay, did you get that? It's 77-1/2
+percent for January; 72-1/2 percent for February and March, and a
+guess of 70 percent for April. That's based upon some analysis of
+asking banks and asking consumers.
+
+MR. AXILROD. Also, we did a cross-sectional analysis of
+9,000 commercial banks through an econometric technique. And we're
+planning to--
+
+
+
+4/28/81
+
+CHAIRMAN VOLCKER. Whatever that means, it came out to the
+same answer.
+
+MR. MORRIS. Paul, this is Frank Morris. It seems to me that
+the new numbers are a little more compatible with what we know about
+the real economy than the old numbers were, if that's any consolation.
+
+CHAIRMAN VOLCKER. Yes. Well, it reduces that extraordinary
+velocity in the first quarter by 1-1/2 percent. It's still an
+extraordinary velocity figure, but it runs in that direction. When
+they revise the GNP figure downward, we'll lose another 1-1/2.
+
+MR. WINN. Paul, what does this do to M2?
+
+CHAIRMAN VOLCKER. I don't have the M2 figures with me now.
+
+MR. AXILROD. I don't have it.
+
+CHAIRMAN VOLCKER. It's obviously not going to move as much
+because this is a small part of the M2 series. But I presume it will
+raise January and February and lower March and whatever estimate we
+have for April. I presume I can say this: That it won't change the
+April level of M2.
+
+MR. AXILROD. We have M-1B and then we have to seasonally
+adjust the other components.
+
+CHAIRMAN VOLCKER. Okay, have we finished with that subject?
+
+MR. WALLICH. Could I ask?
+
+CHAIRMAN VOLCKER. Wait a minute. Henry Wallich.
+
+MR. WALLICH. Have we tried alternative seasonal adjustments
+of the kind that in the past gave us these wide variations?
+
+CHAIRMAN VOLCKER. I'm not sure what you mean.
+
+MR. WALLICH. Have we tried different systems of adjusting
+the same data?
+
+CHAIRMAN VOLCKER. Well, we did the two systems. We did just
+the straightforward X-11, or whatever it's called, leaving in April
+through September. And we tried it basically by flattening out those
+April through September figures. Those were the two main alternatives
+that were looked at.
+
+MR. AXILROD. Well, one can combine those in a way. We tried
+6 or 8 different ones because we had this technique that the Chairman
+mentioned of, in effect, leaving out part of last year. We also made
+a similar kind of intervention for late '78 and early '79 when the ATS
+accounts were introduced; that would distort the demand deposit
+figures for M-1A and we had to do something. So we could do it with
+or without that. And then we used 3 or 4 different methods of trying
+to figure out what to do with the other checkable deposits.
+
+MR. WALLICH. But always on the X-11?
+
+
+
+4/28/81
+
+MR. AXILROD. Always on the X-11, which the consultants who
+were making the report found to be the best thing to do, although they
+had certain other things they would like to maneuver. But essentially
+it was an X-11 program. We have not found a superior program, but we
+felt assured by the consultants in some sense on that.
+
+CHAIRMAN VOLCKER. Let me just repeat something Steve
+mentioned, in case you missed it, because I didn't mention it before.
+The staff did this same so-called intervention technique, smoothing
+out a three- or four-month period, when ATS accounts were first
+introduced. This led to a valley in demand deposits at that time.
+That valley was smoothed out; that was at the of '79, I guess.
+
+MR. AXILROD. '78.
+
+CHAIRMAN VOLCKER. The end of '78.
+
+MR. BLACK. Mr. Chairman, could I ask Steve one minor
+technical question? Steve, it looked to us as if the 18 percent April
+figure was based on a 72-1/2 and 27-1/2 percent break rather than a 70
+and 30 percent break. If we are right on that, you'd get a little
+lower figure than this with a 70/30 split.
+
+MR. AXILROD. We'll recheck, Bob. That would make about a
+1/2 point difference.
+
+MR. BLACK. Right, [unintelligible] comes out 74. I don't
+know exactly what it would do on that seasonally adjusted figure that
+had been previously shifted; we figured about 0.6 of a percentage
+point on that one.
+
+MR. AXILROD. Well, we'll recheck that. It should have been
+worked out on a 70/30 split. We may in the end have to go back to the
+other, but we'll recheck.
+
+MR. BLACK. Okay.
+
+VICE CHAIRMAN SOLOMON. I'd like to ask Steve a question,
+too. Forgetting about the seasonal adjustment of the NOW accounts--
+looking at the regular-type seasonal adjustments--have you assumed as
+speedy a check processing by the IRS this April as last April or are
+you going back to the earlier pattern?
+
+CHAIRMAN VOLCKER. I think I can answer that. They didn't
+assume anything. But that is relevant to the next subject of
+discussion.
+
+VICE CHAIRMAN SOLOMON. Okay.
+
+MR. AXILROD. Yes, that didn't affect our seasonals. We
+couldn't find any effect. Looking through the data that we have here
+for '78, '79, and '80, one can't find any acceleration in collections
+over the course of April. A little more was collected in April in the
+past two years relative to earlier years, in terms of percentage
+distribution. But over the course of April you can't find any
+acceleration in collection looking at '78, '79, and '80. In '81 there
+might have been; it looks as if a little more was collected through
+April 28--leaving out two days in the month--than in earlier Aprils.
+
+
+
+4/28/81
+
+MR. CORRIGAN. Paul, may I ask one other question, please?
+Somebody mentioned M2. When we swing over and incorporate the new
+seasonal for M-1B, is anything going to be done in terms of the fact
+that the money market funds component of M2 is also not seasonally
+adjusted?
+
+MR. AXILROD. We hadn't been planning on it. I don't think
+we have any experience whatsoever to find the seasonal on that.
+
+MR. CORRIGAN. I don't suppose you do, but I just raised the
+question because those--
+
+CHAIRMAN VOLCKER. It's the same kind of problem in theory.
+
+MR. CORRIGAN. I know it's the same problem in theory. The
+question that has been running through my mind is: Is there any merit
+at all to applying the same solution to the problem, recognizing that
+the solution is imperfect?
+
+MR. AXILROD. Well, one trouble, Jerry, is that here we felt
+reasonably confident about how much was coming out of demand deposits.
+And there we literally have no idea, and it's probably small.
+
+MR. CORRIGAN. That's true.
+
+MR. AXILROD. We don't know what came out of Treasury bills
+and what came out of savings accounts. It seems to me that it would
+be almost an impossible problem. And one would hope, since M2 is so
+big--it's $1.7 trillion--that [the seasonal effects] would get much
+more swallowed up in M2 than they are getting swallowed up in M-1B.
+
+MR. CORRIGAN. It might not be a bad idea to mention that in
+your explanation. Having done this with other checkable deposits is
+going to draw attention to the fact that we haven't done anything
+there and [that will] then raise more questions.
+
+MR. AXILROD. We didn't seasonally adjust other checkable
+deposits separately. That ought to be clear. What we did for M-1B--
+
+MR. CORRIGAN. I understand.
+
+MR. AXILROD. --was the seasonally adjusted total of demand
+deposits plus two-thirds or whatever fraction of other checkable
+deposits.
+
+MR. CORRIGAN. I understand what you did, Steve. I'm just
+raising the point that it might be a bad idea to be totally silent.
+
+CHAIRMAN VOLCKER. Yes, I think you're probably right. Maybe
+we ought to fiddle around just for our own edification to see what
+difference it makes. We have time. I should mention one other thing,
+just for the sake of completeness, so long as we have M-1A. That is
+being seasonally adjusted with a demand deposit seasonal, which is
+probably wrong theoretically because a certain type of demand
+deposits, namely consumer demand deposits, is a smaller component of
+that now and that presumably changes the seasonal. But we don't know
+how [it does so] and there's nothing much we can do about it.
+
+
+
+4/28/81
+
+If that is behind us, let me just introduce the more current
+discussion by saying that, obviously, we have a high April figure. We
+have had upward revisions for about three weeks, which is always an
+ominous sign to me. Last week's preliminary number showed a fairly
+sizable decline. By the time we got around to publishing it--every
+day it got whittled down--it was practically no decline. At the same
+time, we have this high preliminary figure for the [week] we will
+publish next. And that is a little surprising, just with reference to
+the earlier question, because if the IRS is really processing tax
+payments more quickly, one would have expected a seasonally adjusted
+decline. I don't know what up-to-date information we have on that. I
+keep hearing that they are doing it quickly but, if that is really
+true, it makes the increase even more ominous. Let me just say that
+for several weeks the reserve path would have indicated some
+tightening; and in some statistical sense, that was right. But the
+market hasn't reflected it until the last day or two; it is now
+reflecting it quite strongly. But last week, on these normal
+conventions we use, we expected borrowing to be $1-1/2 billion and it
+was well below $1 billion because instead of having positive excess
+reserves we had minus excess reserves of $450 million. That is
+bigger, I understand, than anybody has been able to find in recorded
+history. Let me have Steve describe the last few weeks and the
+outlook and then Peter can describe the market.
+
+MR. AXILROD. Well, Mr. Chairman, just to step back a minute,
+I think the Committee will recall that two weeks ago we were expecting
+borrowing to rise to about $1.3 billion, given the shortfall we had in
+borrowing in the week of April 8th. In the event, in the week of
+April 15th, we did get borrowing of close to that; it was $1.1
+billion. [As a result] of an overshoot in market factors affecting
+reserves, we had somewhat higher nonborrowed reserves in the week of
+the 15th--by about $100 million or so--because, as I say, on Wednesday
+market factors supplied more reserves than projections had suggested
+they would. On April 22, the week just past, we had assumed the
+nonborrowed path implied borrowing of $1-1/2 billion. Again the Desk
+was very close to path; in fact, Peter, if my memory's right, we ended
+up a little below path even, and borrowing turned out to be only $864
+million. That was because, instead, the market reduced excess
+reserves by $700 million from a plus $300 million that we thought
+they'd have to a minus $435 million. That was the actual number. So,
+borrowing, in effect, was $700 million less than planned and there was
+very little pressure on the markets, even with this large negative
+excess reserve number. Given the shortfall in borrowing in that week,
+borrowing falling out of the path for the current week, the week
+ending April 29th, looked like $1.7 billion. And we left the path
+there, implying that level of borrowing for the current week. In a
+very technical sense, it turned out that the data we got last Friday
+suggested more downward multiplier adjustments than we had made. We
+had made none because we had evidence of only small amounts, but it
+suddenly got large. And if all those had been made that were possible
+to make, this $1.7 billion would have risen to an order of magnitude
+of $2-1/2 to $2-3/4 billion.
+
+Now, this week is the end of a so-called four-week period;
+and for the next three weeks the path would have implied borrowing of
+$1.7 billion. So, in a sense, to smooth the transition between the
+two paths we left in that $1.7 billion for the week of the 29th; it
+would move toward $1.7 billion in the weeks of the 6th, 13th, and the
+
+
+
+4/28/81
+
+20th. That $1.7 billion in this forthcoming three-week period
+reflects essentially the strength in required reserves above what one
+would have expected if we were on target with the Committee's
+objectives for M-1B and M2. In essence, it's M-1B that is running a
+lot stronger than had been expected and that is strengthening the
+required reserves. It's also, of course, strengthening the total
+reserves; with borrowing running at $1.7 billion, total reserves are
+running about $500 million above the path for total reserves that had
+been set at the time of the Committee's meeting. Over the next three
+weeks we would expect total reserves to be coming in about $500
+million above the path. So, this level of borrowing of $1.7 billion
+does not reflect any downward adjustment in the nonborrowed reserve
+path to compensate, as it were, for the increased bank demand for
+reserves and to try to put even more pressure on the banking system.
+It is at the moment, as it were, the minimal borrowing that would fall
+out of just merely holding the nonborrowed path where we were. As the
+Chairman mentioned, the funds market, yesterday and today, is
+beginning to show the pressures of the squeeze on reserve availability
+relative to demand; but the market didn't show it for a couple of
+weeks--last week largely because of this sharp drop in [demands for]
+excess. Prior to that, the market was just going ahead as if the
+funds rate wouldn't change and banks didn't do any borrowing until
+extremely late in the statement week.
+
+CHAIRMAN VOLCKER. Peter, do you want to report on your view
+of what has happened here?
+
+MR. STERNLIGHT. Well, as you said, Mr. Chairman, the banking
+system has been slow in catching up with the increased degree of
+pressures that should be falling on it as the aggregates strengthened
+and as their demand for reserves grew. Much of that, as Steve noted,
+is that they just didn't cover their reserve needs last week. But
+yesterday and today it is catching up more forcibly so that the funds
+rate, which had been averaging pretty close to 15-1/2 percent for a
+few weeks, was around 16 percent yesterday. Today it started out
+around 16 percent but it got up to the 17-1/2 percent area. We're
+looking at a very large reserve need in this week just to meet path.
+And even if we met path, there would still be a need; but because
+available collateral has been in short supply we haven't been able to
+put in very many of the reserves that we had planned to supply today.
+We said [when we presented] our program this morning that we would be
+putting in something like $4 billion in two-day RPs and we've only
+been shown about $1-1/2 billion; we may do a couple of hundred million
+or more than that later. So, we're building up to what looks like a
+very large reserve need and borrowing need over today and tomorrow.
+Probably most of it will fall on tomorrow. That's all I have, Mr.
+Chairman.
+
+CHAIRMAN VOLCKER. Well, we have a situation where we have
+had some statistical pressure, but it was all in the statistics and
+not in the market until very recently. And now this statistical
+pressure may be even greater just because technically we can't get the
+reserves in. That may be a good thing; I don't know. But there is
+going to be a lot of borrowing, I suspect, today and tomorrow, as
+Peter suggested. It will probably be tomorrow because there has been
+no eagerness to borrow before people are really under the gun. I
+don't think we require, in any technical sense, any Committee
+decision. What I would plan here--and we can discuss it--is that we
+
+-10-
+
+
+
+4/28/81
+
+might think of taking some of the adjustment implied by the high level
+of total reserves, which we would normally do in this kind of
+circumstance. Since even without that we have a level of borrowing
+going toward $1.7 billion, if these calculations mean anything, that
+does imply a sharply tighter market for the next few weeks unless the
+money supply turns around. Obviously, this high figure, which is
+supposed to be published on Friday, hasn't been confirmed yet. My
+short-run error analysis says it's going to go even higher than the
+preliminary figure. But we don't have anything for the following week
+yet; and if we have a big decline, then things will look quite
+different for May. But I just have no evidence of that at all at this
+point. And if something is going on here in the tax collection area
+that is affecting this--we do know these are extremely difficult weeks
+because of the big tax collections--we just don't know how it's
+affecting these weekly figures. One other thing I should mention in
+this connection is that, while we're obviously above the path that we
+set at the last Committee meeting, we are still, I understand--but
+Steve better confirm this--just slightly below the midpoint of the
+basic annual path.
+
+MR. AXILROD. Yes. On the new numbers we would be $300
+million, and on the old numbers $500 million, below the midpoint.
+
+MS. TEETERS. May I ask a question?
+
+CHAIRMAN VOLCKER. Sure.
+
+MS. TEETERS. Steve, you said that you thought the total
+borrowing would end up about $500 million above the path. Is that
+correct?
+
+MR. AXILROD. Yes, $500 million above where it had been
+originally set by the Committee at $1150 million.
+
+MS. TEETERS. Now, if we adjust for that, won't that just
+send the borrowing up to [nearly] $2.3 billion instead of $1.7
+billion? Won't the total reserves be approximately the same, and we
+would just be adjusting the split between borrowed and nonborrowed?
+
+MR. AXILROD. In the very short run, that may be the result.
+Of course, the question would then be: Over a longer run than two or
+three weeks, would it begin to cause faster adjustments in the money
+supply back toward the Committee's path?
+
+MS. TEETERS. So the short-run decision here is whether we
+shoot the borrowings up to $2.3 billion, is that correct?
+
+MR. AXILROD. No, I don't think--
+
+CHAIRMAN VOLCKER. Well, we won't go all that way, I don't
+think, but typically we take a partial--
+
+MR. AXILROD. Governor Teeters, maybe I wasn't clear enough.
+What I tried to say was that if the full multiplier adjustment had
+been made--. We divide the period into a four-week and a three-week
+period. We're now in the last week of the first four-week period. We
+got a surprising downward multiplier adjustment. If we had taken that
+in the current week, we could have had borrowing as high as $2.7
+
+
+
+4/28/81
+
+billion. We didn't because, without doing it, borrowing was $1.7
+billion and taking that multiplier adjustment for the next three-week
+period would have left the borrowing at $1.7 billion. So, in effect,
+we just left one week of it off.
+
+MS. TEETERS. But any of the actions that you are talking
+about now implies borrowing rising?
+
+CHAIRMAN VOLCKER. Yes.
+
+MR. AXILROD. Yes, that is right.
+
+MR. PARTEE. Right.
+
+CHAIRMAN VOLCKER. Just let me interject another question.
+Does anybody have a feel about what economic activity is doing now? I
+would personally volunteer that on the basis of very little--just
+casual comments one picks up--I don't have a feeling that April was a
+terribly weak month. Quite the contrary. But I don't know whether
+anybody out there is getting a feel on the change in the business
+situation.
+
+VICE CHAIRMAN SOLOMON. Paul, I have the impression from
+people I've been talking to in the financial market--not business
+people so much--who are following this very closely that they expect a
+significantly higher rate of real growth than the completely flat
+forecast that the staff had last time. People here are talking about
+1-1/2 to 2 percent real GNP in the second quarter. Has the staff
+revised its forecast for the second quarter?
+
+MR. KICHLINE. No, we have not at this point. I would not
+think that the difference between zero and 2 or zero and 1-1/2 percent
+would be that large. I think if we were to take all the incoming
+information available and redo the forecast, we'd be close to very
+little growth, which I define as within that kind of range.
+
+VICE CHAIRMAN SOLOMON. Well, let me make a general comment
+then. It seems to me that there is a much greater probability of
+overshooting in the second half of the year, and I think we want to
+take as much advantage of undershooting as we can get in the meantime
+so that we don't repeat the pattern of the second half of last year.
+It would seem to me, therefore, notwithstanding the big seasonal
+question mark for April, that it would be best to reduce the
+nonborrowed reserve path substantially, let the fed funds rate move
+up, and not be as timid and as late as we were in the second half of
+last year. I think it's quite clear, even if the tax cut gets delayed
+until October 1st, that with defense spending building up the way it
+is and the very big real increase in business spending that we've been
+seeing we're going to have a heck of a problem later on. So, my
+instinct would be to move quite vigorously, to the extent that we work
+out the adjustment of the nonborrowed reserve path.
+
+MR. SCHULTZ. This is Fred Schultz. I agree with that
+statement.
+
+MR. BLACK. This is Bob Black. I do, too. I think these
+seasonals will scare the devil out of the market even though they're a
+touch below what we originally thought.
+
+-12-
+
+
+
+4/28/81
+
+MR. PARTEE. This is Chuck Partee. I don't think it's so
+much a question of undershooting, Tony. I think our problem may now
+be that we're beginning to move into a surge that will give us an
+overshoot right now, regardless of what happens in the second half of
+the year. I realize all these seasonal changes are very complicated
+and confusing, but whether we say that March was 8.2 percent and April
+looks like 18 percent or that March was 7.3 percent and April looks
+like 13.6 percent, they both have the smell of a surge in growth that
+is awfully difficult to control and awfully difficult to know how far
+it might go. So, I would agree with the thrust of your remarks, and
+those of others, too, in that I think we have to resist this and we
+have to resist it strongly--not so much to save our pennies for the
+second half, but to keep within a reasonable range right now.
+
+CHAIRMAN VOLCKER. April has used up our pennies.
+
+MR. MORRIS. This is Frank Morris. I would agree with Chuck
+and Tony. One other element in the picture is that, while the M-1B
+figure may be near the middle of the range, the broader aggregates,
+which are probably more reliable guides now, are above the tops of
+their ranges.
+
+CHAIRMAN VOLCKER. That is correct. I haven't got those
+figures right in front of me but they are all hovering just above or a
+little more than above the top of their ranges. They are also not
+showing this surge and this seasonal [adjustment revision] shouldn't
+change that. You're quite right that they're high. If anything,
+they're showing somewhat decelerated growth but they are high.
+
+MR. WALLICH. This is Henry Wallich. I think we need to show
+a strong effort to get the aggregates back on track. We want to do a
+good job. Also, we don't want to lose further credibility. The
+question is how we should do this. One way is to lower the
+nonborrowed path. The other would be to increase the discount rate
+and surcharge. That clearly would be a more visible action.
+
+SPEAKER(?). Sure.
+
+VICE CHAIRMAN SOLOMON. Henry, I think it's a little
+premature to move that quickly on the discount rate, given the
+question mark of April. Right now we could lower the nonborrowed
+reserve path pretty strongly but at the same time keep an eye on the
+discount rate. [The picture] may begin to sharpen and we could move
+then.
+
+CHAIRMAN VOLCKER. Well, obviously the discount rate question
+arises here. We're not going to make that decision today.
+
+MR. BOYKIN. This is Boykin. I would agree very much with
+what Tony Solomon has been saying.
+
+MR. WALLICH. Henry Wallich. I've always argued for a higher
+upper limit on the funds rate, and this may be my chance for testing
+your feeling on that. It's now 13 to 18 percent, isn't it?
+
+CHAIRMAN VOLCKER. Yes, I'm at your service. But I don't
+think we have to take any Committee [actions] today. That would be
+one. This situation may bear some watching and we may want to have
+
+-13-
+
+
+
+4/28/81
+
+another telephone meeting next week because what this next money
+supply figure shows, I think, could be quite important in view of all
+this uncertainty surrounding the tax [processing]. I think we have to
+play it safe now--defining safe as has been discussed--but things
+could look either quite worse or better very quickly.
+
+MR. GRAMLEY. Mr. Chairman, Lyle Gramley. I would support
+that. We have a piece of information coming out this week on Friday--
+the employment report for April--that will be quite useful in finding
+out whether our judgments on the second quarter are right or wrong.
+In general, I think the economy this year has been a lot stronger than
+anybody had expected. The first quarter may get revised but, if it
+does, it could just as well get revised up as down. The inventory
+figures assumed for March look funny. And I have come to the
+conclusion that interest rates are not high enough yet to control
+either economic growth generally or money supply growth in line with
+the Committee's desires. So, I think it is time to move now on the
+nonborrowed reserve path. Then, if on Friday we see figures on
+employment that indicate that the economy is still going like
+gangbusters in the second quarter, we can take the next action: that
+is, to change the fed funds rate range.
+
+MR. CORRIGAN. This is Jerry Corrigan. I will be brief. I
+agree with almost everything that has been said, certainly in terms of
+adjusting the nonborrowed path now.
+
+MR. BALLES. This is John Balles. I would add my support to
+that proposal. I would also want to keep a careful eye on that
+discount rate in case we [get the] higher funds rate that appears to
+be in prospect.
+
+MR. ROOS. This is Larry Roos. I want to agree with the
+reduction of the nonborrowed reserve path and with almost everything
+that has been said.
+
+MR. SMOOT. Philadelphia can agree with that also.
+
+MR. DOYLE. This is Dan Doyle in Chicago. I would certainly
+agree with the general direction here, but I have to point out like a
+broken record that this part of the country in particular, as it
+reflects the auto industry and housing, is still in a very bearish
+situation. And, if anything, those sales numbers are expected to
+deteriorate rather markedly over the next several weeks.
+
+CHAIRMAN VOLCKER. You remind me to note, in connection with
+the broader aggregates, that bank credit, which was quite strong
+earlier in the year, is quite weak now. It's still above the range as
+I remember, but that is the one measure that has shown the most
+pronounced weakness recently.
+
+VICE CHAIRMAN SOLOMON. That may be, when you add the foreign
+branches in. The bond market and commercial paper market all together
+do not add up to a weak credit picture, though.
+
+MR. RICE. This is Emmett Rice. I agree with most of what
+everybody has said here, particularly with what Chuck said.
+
+-14-
+
+
+
+4/28/81
+
+CHAIRMAN VOLCKER. Well, I don't know if anybody else wants
+to say anything. I think, at this stage, this is not a Committee
+decision in any formal sense. We are confirming that we will tighten
+up the nonborrowed path, which is what we would normally do under
+circumstances of this sort.
+
+MR. PARTEE. Do you have a feeling for how much, Paul? A
+couple hundred million?
+
+CHAIRMAN VOLCKER. I would say we have a choice between $200
+or $300 million, I suppose.
+
+MR. AXILROD. I should mention that when I said total
+reserves are running $500 million above the path, that assumed a
+certain multiplier adjustment. These things change quite rapidly.
+
+CHAIRMAN VOLCKER. These get looked at every week in that
+sense.
+
+MR. AXILROD. So, by Friday it may--
+
+CHAIRMAN VOLCKER. I think I am correct, but I stand to be
+corrected if I'm not right, that we have not had borrowings above $2
+billion. Late last year when we had the maximum tightness, the
+borrowing level was something short of $2 billion, as I remember it.
+
+MS. TEETERS. Well, on Wednesday--
+
+MR. AXILROD. Borrowing was $2.1 billion on average in
+November 1980, and in December it was $1.7 billion.
+
+CHAIRMAN VOLCKER. Okay, I stand corrected. It got a little
+over $2 billion, right?
+
+MR. PARTEE. It's tight, though; there's no question about
+it.
+
+MR. GUFFEY. Mr. Chairman, Roger Guffey. If I understand
+where everything ends up--and you appear to have a fairly good
+consensus--we're talking about dropping the nonborrowed path, which I
+assume would elevate our borrowing level above the $1.7 billion that
+Steve was talking about earlier.
+
+CHAIRMAN VOLCKER. Yes.
+
+MR. GUFFEY. My understanding, at least according to my
+staff, is that that implies an interest rate level that is at least at
+the top of the range--18 percent--and quite likely something more than
+18 percent.
+
+CHAIRMAN VOLCKER. Well, maybe yes. I would say it's quite
+likely, too. But the reserve path that we had for the last three
+weeks should have been implying a federal funds rate about 2
+percentage points higher than it in fact was. So, unfortunately,
+those guesses are not too reliable. But I think you're probably right
+that the market has gotten in a different mood after the last couple
+of days or is getting there.
+
+-15-
+
+
+
+4/28/81
+
+MR. GUFFEY. I think that's right, Mr. Chairman. I'd like to
+suggest that this time we observe the upper limits for the purpose of
+consultation and that at the time we crack through the 18 percent we
+have another telephone session.
+
+CHAIRMAN VOLCKER. Well, I think we have to have one if it
+goes above 18 percent. But I was not suggesting that we just stop it
+at 18 percent.
+
+MR. GUFFEY. Well, [with] the path on the down side, I'd just
+like to urge that we have a consultation at or near 18 percent.
+
+CHAIRMAN VOLCKER. Well, we won't let it go too long before
+having a consultation. Any other comment? I think we have disposed
+of everything that I had on my mind. Thank you.
+
+MR. WINN. Paul, do you get any indication of institutional
+stresses and strains?
+
+MR. ALTMANN. He said: "Any indications of institutional
+stress or strain?"
+
+CHAIRMAN VOLCKER. I'm just getting your question repeated to
+me, Willis. I haven't gotten anything new, no.
+
+MR. WINN. I was just wondering if the interest rate pickup
+is going to cause panic in certain sectors.
+
+CHAIRMAN VOLCKER. That has been so recent. What is
+surprising here is that the market has just refused to go up despite
+this statistical tightening.
+
+MR. WINN. I agree.
+
+VICE CHAIRMAN SOLOMON. Has any progress been made, Paul, on
+the regulatory proposal?
+
+CHAIRMAN VOLCKER. Well, we are in rather intensive
+consultation with Congress, and I guess the answer to that question is
+"yes." The Administration is remaining in a posture of silence on the
+thing basically. But we are going ahead and trying to get a
+definitive bill, in consultation with the Congress. We are right in
+the midst of that process now and maybe by the end of the week we will
+have a definitive version.
+
+MR. SCHULTZ. The Secretary of the Treasury said this morning
+that they were watching the situation and did not believe it to be
+critical and were not ready to propose any legislation. That,
+however, is not the position of the regulatory agencies.
+
+VICE CHAIRMAN SOLOMON. I've looked at the mutual savings
+banks in New York and for some of them the situation is going to be
+quite bad by the first quarter of next year. A few of them, a
+handful, are going to have a very major problem.
+
+CHAIRMAN VOLCKER. I'm glad this question was raised. Let me
+just say one thing in that connection and one thing in another
+connection. We're in the midst of this consultation process now. It
+
+-16-
+
+
+
+4/28/81
+
+may be that when we get a bill it would be useful for you people to
+have a meeting with your thrift advisory committees or whatever
+equivalent you may have at your particular Bank to bring them up to
+date and talk with them about it. We have a potential problem of
+legislative tactics and all the rest in trying to get this bill
+through in a hurry with a minimum of controversy. And that requires,
+among other things, that the thrifts not bring out their laundry list
+of highly controversial amendments that they might want to make such
+as restoring differentials on money market certificates, doing
+something about money market funds, and mortgage warehousing schemes.
+
+MR. PARTEE. Real estate.
+
+CHAIRMAN VOLCKER. They have all sorts of proposals or wish
+lists, none of which, in my judgment, can conceivably go anyplace at
+the moment. And they would only make it difficult to pass this
+legislation if they press to try to amend the bill. I think this bill
+is in their interest, but they have to see it in their interest and
+let it go through and fight their other battles later. I don't know
+whether they will take that position or not. I suppose some of them
+will and some of them won't. I think what makes people edgy either in
+the Congress or among some of the trade associations is any smell of
+bank takeovers in extremis, which is in the bill, or any interstate
+mergers or acquisitions, which is also in the bill as kind of a last
+resort measure in the case of failing institutions. The capital
+injection side I don't think is going to raise many hackles, but this
+other stuff might.
+
+VICE CHAIRMAN SOLOMON. Some of them also are very unhappy
+about conditions that might be laid down such as salary [constraints].
+
+CHAIRMAN VOLCKER. I saw an article to that effect in the
+American Banker this morning. I've heard no discussion about
+salaries. It is true that there's nothing in the bill about
+conditions, but presumably the agencies would put on conditions, at
+least of a standby kind. They would write a contract--this has been
+their practice--that would give them very strong residual authority in
+a great many areas. I think that's part of the price they're going to
+have to pay. But it's not in the bill itself as now written. Now,
+this is all subject to further negotiation. The bill itself is one of
+those things that you can't understand when you read it because it
+amends a lot of existing language in random fashion. But it basically
+has only three provisions: authority for liberalizing capital
+injections; cleaning up some issues regarding mergers and acquisitions
+of failing institutions or at least broadening that authority; and
+adding a bit to the FSLIC draw on the Treasury. That's all that's in
+the bill.
+
+VICE CHAIRMAN SOLOMON. When do you want us to consult, after
+publication of the bill?
+
+CHAIRMAN VOLCKER. I don't know myself. We may do a little
+consultation with the national associations, but we haven't decided
+whether to do so before the bill goes up or when the bill goes up.
+So, I don't know [the answer to] that yet. There are conflicting
+feelings on the Hill about that. I wouldn't do anything at the
+moment, but I'd just be ready to do it.
+
+-17-
+
+
+
+4/28/81 -18-
+
+The other thing I wanted to mention, and I don't think we
+ought to take any more time now, is that as time passes, I keep
+wondering about the attitude of the banks toward the discount window.
+We have the same dilemmas there that we've had before. I'm a little
+suspicious that one of the reasons that on some occasions we don't
+have much reaction in the market to a statistical tightening is that
+the banks all sit there and figure they can borrow from the discount
+window at the end of the week. We may want to do a little thinking
+about talking with some of the banks, if they're persistently running
+reserve deficits and not borrowing during the week but then popping in
+late on Wednesday afternoon when we can't say much to them. That's
+all I have. I'll resume my conclusion. Thank you.
+
+END OF SESSION
+
+
