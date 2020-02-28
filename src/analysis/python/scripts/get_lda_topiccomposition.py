@@ -14,34 +14,22 @@ import numpy as np
 from gensim.utils import simple_preprocess
 import itertools  
 import os
+import gensim
+from gensim import corpora, models
+from nltk.stem.porter import PorterStemmer
+from sklearn.decomposition import TruncatedSVD
+import matplotlib.pyplot as plt
+import re
+
+import create_lda_data
+
+###############################################################################
 
 
-os.chdir(r"/users/olivergiesecke/Dropbox/MPCounterfactual/src/analysis/python/scripts")
+# Define functions
 
-## %% 1) Condense all the data in a sinle dataframe
-
-# Speaker text
-speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv")
-
-# Alternatives that Anand collected
-alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
-
-alternatives = alternatives[["date","alt a corpus","alt b corpus","alt c corpus"]]
-names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
-alternatives.rename(columns=names,inplace=True)
-alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="date", j="alternatives", suffix='\w+')
-alts=alts.reset_index()
-alts.rename(columns={'date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
-
-data = pd.concat([speakers,alts])
-data.drop(columns="Unnamed: 0",inplace=True)
-
-## %% 2) Text pre-processing
-
-# Extract tokens
 def extract_token(sentence):
     return simple_preprocess(str(sentence), deacc=True)
-
 
 def count_mostcommon(myList):
     counts = {}
@@ -50,89 +38,46 @@ def count_mostcommon(myList):
     return counts
 
 def remove_stopwords(words,stopwords):
-    nostopwords=[]
-    for word in words:
-        if word not in stopwords:
-            nostopwords.append(word)        
+    nostopwords=[ word for word in words if word not in stopwords]
     return nostopwords
+
+def do_stemming(words):
+    p_stemmer = PorterStemmer()
+    stemmed_words = [p_stemmer.stem(i) for i in words]
+    return stemmed_words 
+
+def create_wordcounts(stop_words):
+        # List the 100 most common terms
+    tot_token=[]
+    for row_index,row in data.iterrows():
+        tot_token.extend(row['parsed'])
+    print('The corpus has %d token' % len(tot_token) )
+    counts=count_mostcommon(tot_token)
+    sorted_counts={k: v for k, v in sorted(counts.items(), key=lambda item: item[1],reverse=True)}
     
-data['parsed']=data['content'].apply(extract_token)
-
-# List the 100 most common terms
-tot_token=[]
-for row_index,row in data.iterrows():
-    tot_token.extend(row['parsed'])
+    N = 100
+    out = dict(itertools.islice(sorted_counts.items(), N))  
+    words100 = [(k, v) for k, v in out.items()]
+    print(f'This are the most common {N} tokens without removing stopwords:')
+    print(words100)
     
-print('The corpus has %d token' % len(tot_token) )
-counts=count_mostcommon(tot_token)
-sorted_counts={k: v for k, v in sorted(counts.items(), key=lambda item: item[1],reverse=True)}
-
-N = 100
-out = dict(itertools.islice(sorted_counts.items(), N))  
-words100 = [(k, v) for k, v in out.items()]
-print('This are the most common 100 tokens without removing stopwords:')
-print(words100)
-
-
-# Remove stopwords
-stop_words = stopwords.words('english')
-stop_words.extend(["mr","chairman"])
-wo_stopwords = remove_stopwords(tot_token,stop_words)
-
-wo_counts=count_mostcommon(wo_stopwords)
-sorted_wo_counts={k: v for k, v in sorted(wo_counts.items(), key=lambda item: item[1],reverse=True)}
-
-# Do stemming
-
-from nltk.stem.porter import PorterStemmer
-p_stemmer = PorterStemmer()
-wo_stem_word = [p_stemmer.stem(i) for i in wo_stopwords]
-
-wo_counts=count_mostcommon(wo_stem_word)
-sorted_wo_counts={k: v for k, v in sorted(wo_counts.items(), key=lambda item: item[1],reverse=True)}
-
-N = 100
-out = dict(itertools.islice(sorted_wo_counts.items(), N))  
-wo_words100 = [(k, v) for k, v in out.items()]
-print('This are the most common 100 tokens without removing stopwords:')
-print(wo_words100)
-
-
-# Do the LDA
-import gensim
-from gensim import corpora, models
-
-texts=[]
-for row_index,row in data.iterrows():
-    item=row['parsed']
-    item_wo_stem=[p_stemmer.stem(i) for i in remove_stopwords(item,stop_words)]
-    texts.append(item_wo_stem)    
-
-dictionary = corpora.Dictionary(texts)
-corpus = [dictionary.doc2bow(text) for text in texts]
-
-num_topics=5
-ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20)
-
-sent_topics_df = pd.DataFrame()
-for i, row in enumerate(ldamodel[corpus]):
-    # Get the Dominant topic, Perc Contribution and Keywords for each document
-    emptylist=[]
-    for k in range(num_topics):          
-        emptylist.append(0)
-        for j, (topic_num, prop_topic) in enumerate(row):    
-            if k==topic_num:
-                emptylist[-1]=(round(prop_topic,4))
-    sent_topics_df = sent_topics_df.append(pd.Series(emptylist), ignore_index=True)
-
-coln = sent_topics_df.columns
-coln = ['topic_%s'%c for c in coln]
-sent_topics_df.columns=coln
-
-data_lda = data.join(sent_topics_df)
-
-# Apply SVD for dimensionality reduction
-from sklearn.decomposition import TruncatedSVD
+    # Remove stopwords
+    wo_stopwords = remove_stopwords(tot_token,stop_words)
+    
+    wo_counts=count_mostcommon(wo_stopwords)
+    sorted_wo_counts={k: v for k, v in sorted(wo_counts.items(), key=lambda item: item[1],reverse=True)}
+    
+    # Do stemming
+    
+    wo_stem_word = do_stemming(wo_stopwords)
+    
+    wo_counts=count_mostcommon(wo_stem_word)
+    sorted_wo_counts={k: v for k, v in sorted(wo_counts.items(), key=lambda item: item[1],reverse=True)}
+    
+    out = dict(itertools.islice(sorted_wo_counts.items(), N))  
+    wo_words100 = [(k, v) for k, v in out.items()]
+    print(f'This are the most common {N} tokens with removing stopwords and stemming:')
+    print(wo_words100)
 
 def reduce_to_k_dim(M, k=2):
     """ Reduce a co-occurence count matrix of dimensionality (num_corpus_words, num_corpus_words)
@@ -148,58 +93,95 @@ def reduce_to_k_dim(M, k=2):
     """    
     n_iters = 10     # Use this parameter in your call to `TruncatedSVD`
     M_reduced = None
-    print("Running Truncated SVD over %i words..." % (M.shape[0]))
+    print("Running Truncated SVD over %i texts..." % (M.shape[0]))
     
-        # ------------------
-        # Write your implementation here.
     svd = TruncatedSVD(n_components=k, n_iter=n_iters)
     svd.fit(M)
     M_reduced=svd.transform(M)
-
-
-        # ------------------
-
+ 
     print("Done.")
     return M_reduced
 
-abc=sent_topics_df.values
-
-twodim = reduce_to_k_dim(abc)
-df=pd.DataFrame(twodim )
-df.columns=['PCI1','PCI2']
-
-data_lda_pca = data_lda.join(df)
-
-
-### Show the output based on a single example
-import matplotlib.pyplot as plt
-import re
+def extract_vectors(ldamodel,num_topics,corpus): 
+    sent_topics_df = pd.DataFrame()
+    for i, row in enumerate(ldamodel[corpus]):
+        # Get the Dominant topic, Perc Contribution and Keywords for each document
+        emptylist=[]
+        for k in range(num_topics):          
+            emptylist.append(0)
+            for j, (topic_num, prop_topic) in enumerate(row):    
+                if k==topic_num:
+                    emptylist[-1]=(round(prop_topic,4))
+        sent_topics_df = sent_topics_df.append(pd.Series(emptylist), ignore_index=True)
+    
+    coln = sent_topics_df.columns
+    coln = ['topic_%s'%c for c in coln]
+    sent_topics_df.columns=coln
+    return sent_topics_df
 
 def output_plot(date,data):
     plt.figure()
-    data_example=data[data['Date']==date]
-    for i, row in data_example.iterrows():
-        if re.search("^alt[a-d]", row["Speaker"]):
+    for i, row in data.iterrows():
+        if re.search("^alt[a-d]", row["speaker"]):
             plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='b')
-            plt.text(row['PCI1'],row['PCI2'], row["Speaker"])
+            plt.text(row['PCI1'],row['PCI2'], row["speaker"])
             
         else:
             plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='r')
-            plt.text(row['PCI1'],row['PCI2'], row["Speaker"])
+            plt.text(row['PCI1'],row['PCI2'], row["speaker"])
     plt.title('Example %s' %date )
     plt.savefig('../output/example_%s.pdf'%date)
-            
-       
-output_plot("1992-05-19",data_lda_pca)
 
-output_plot("1999-11-16",data_lda_pca)
 
-     
-        
-        
-data_example=data[data['Date']=="1992-05-19"]
-data_example["Speaker"]
-        
+###############################################################################
+    
+    # Import data
+data = create_lda_data.main()
+data = data.reset_index()
+data_light = data[['d_alt','date', 'speaker', 'speaker_id', 'votingmember', 'ambdiss','tighterdiss', 'easierdiss']]
+
+    # Do simple preprocessing
+data['parsed']=data['content'].apply(extract_token)
+
+    # Revome stopwords and do stemming
+stopwords = stopwords.words('english')
+stopwords.extend(["mr","chairman"])
+data['parsed_cleaned']=data['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwords)))
+
+    # Build corpus
+texts=[]
+for row_index,row in data.iterrows():
+    item=row['parsed_cleaned']
+    texts.append(item)    
+
+dictionary = corpora.Dictionary(texts)
+corpus = [dictionary.doc2bow(text) for text in texts]
+
+    # Do LDA
+num_topics=5
+ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20)
+
+    # Extract topic vectors
+sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
+data_lda =  pd.concat([data_light,sent_topics_df],axis=1, join='inner')
+
+    # Apply SVD for dimensionality reduction
+col_topics = [ col for col in data_lda.columns if re.match("^topic",col)]
+dfvalues=data_lda[col_topics].values
+twodim = reduce_to_k_dim(dfvalues)
+df_pca=pd.DataFrame(twodim)
+df_pca.rename(columns={0:'PCI1',1:'PCI2'},inplace=True)
+data_lda_pca = pd.concat([data_lda,df_pca],axis=1, join='inner')
+
+    # Show a single example
+
+data_lda_pca['date'].unique()
+
+date='1995-07-05'
+dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
+output_plot("1992-11-17",dataexample)
+
+
         
     
 
