@@ -4,9 +4,85 @@ import re
 import pprint
 import shutil
 
-def main():
-    speaker_statements = get_speaker_statements()
-    get_speaker_corps(pd.read_pickle("../../output/speaker_data/speaker_corpus.pkl"))
+    # Clean all the obvious typos
+corrections ={'BAUGHWJV':'BAUGHMAN',
+              'BOHNE':'BOEHNE',
+              'EISEMENGER':'EISENMENGER',
+              'GEITHER':'GEITHNER',
+              'KELLEY': 'KELLY', 
+              'KIMBREL':'KIMEREL',
+              'MATTINGLY': 'MATTLINGLY',
+              'FORESTALL':'FORRESTAL',
+              'GRENSPAN':'GREENSPAN',
+              'GREESPAN':'GREENSPAN',
+              'GREENPSAN':'GREENSPAN',
+              'GREENPAN':'GREENSPAN',
+              'McANDREWS':'MCANDREWS',
+              'MCDONUGH':'MCDONOUGH',
+              'MOSCOW':'MOSKOW',
+              'MORRIS':'MORRRIS',
+              'MONHOLLAN':'MONHOLLON',
+              'MILIER':'MILLER',
+              'MILER':'MILLER',
+              'SCWLTZ':'SCHULTZ',
+              'SCHELD':'SCHIELD',
+              'WILLZAMS':'WILLIAMS',
+              'WALLJCH':'WALLICH',
+              'VOLCKFR':'VOLCKER',
+              'VOLCRER':'VOLKER',
+              'ALLISON for':'ALLISON',
+              'ALTMA"':'ALTMANN',
+              'B A U G W':'BAUGW',
+              'BIES (as read by Ms':'BIES',
+              'BLACK &':'BLACK',
+              'MAYO/MR':'MAYO',
+              'Greene':"GREENE",
+              'CROSS,':'CROSS',
+              'GREENSPAN,':'GREENSPAN',
+              'HOSKINS,':'HOSKINS',
+              'MACCLAURY':'MACLAURY',
+              'MORRRIS':'MORRIS',
+              "O'CONNELL":'O’CONNELL',
+              'SOLOMON]':'SOLOMON',
+              'TRUMAN-':'TRUMAN',
+              'VOLCKER,':'VOLCKER',
+              'VOLKER,':'VOLCKER',
+              'WALLlCH':'WALLICH',
+              '[BALLES]':'BALLES',
+              '[GARDNER]':'GARDNER',
+              '[KICHLINE]?':'KICHLINE',
+              '[PARDEE]':'PARDEE',
+              '[ROOS]':'ROOS',
+              '[STERN':'STERN',
+              '[WILLES]':'WILLES',
+              'ŞAHIN':'SAHIN',
+              '[STERN(?)':'STERN'}
+
+              
+            
+                  
+def name_corr(val):
+    sentence=""
+    dictkeys=[key for key, value in corrections.items()]
+    if val in dictkeys:
+        val = corrections[val]    
+    else:
+        if re.match(".*\(\?\)",val):
+            val = re.search("(.*)(\(\?\))",val)[1]
+            
+        if len(val.split(" "))>1:
+            #print(val.split(" ")[0])
+            #print(val.split(" ")[1:])
+            sentencehelp = " ".join(val.split(" ")[1:])
+            if not len(re.findall("Yes",sentencehelp))>7:
+                if len(sentencehelp)>10:
+                    sentence = sentencehelp
+                    #print(sentence)
+            val = val.split(" ")[0]
+            
+    #print(val)       
+    return val,sentence
+
 def get_speaker_statements():
     base_directory = base_directory = "../../../../collection/python/data/transcript_raw_text"
     raw_doc = os.listdir(base_directory)
@@ -15,7 +91,7 @@ def get_speaker_statements():
     if os.path.exists("../../output/speaker_data"):
         shutil.rmtree("../../output/speaker_data")
     os.mkdir("../../output/speaker_data")
-
+    
     for doc_path in filelist:
         with open("{}/{}".format(base_directory,doc_path),'r') as f:
             documents.append(f.read().replace("\n"," ").replace(":",".").replace(r"\s\s+"," "))
@@ -30,46 +106,52 @@ def get_speaker_statements():
                     
         temp_df          = pd.DataFrame(columns=['Date','Speaker','content'],index=range(len(interjections)))          
                     #Temporary data frame
-
+    
         for j in range(len(interjections)):
             interjection           = interjections[j]
-
+    
             temp_df['Date'].loc[j]    = date[doc_index]
             #speaker = "".join([char for char in  if char.isalnum()])
-            temp_df['Speaker'].loc[j] = interjection.split('.')[0].strip()
-
-            temp_df['content'].loc[j] = ''.join(interjection.split('.')[1:])
-
+            
+            speakercontent = interjection.split('.')[0].strip()
+            
+            name,sentence = name_corr(speakercontent)
+            
+            content = ''.join(interjection.split('.')[1:])
+            
+            if not sentence=="":
+                content = sentence +" "+content
+                #print(content)
+            
+            temp_df['Speaker'].loc[j] = name
+    
+            temp_df['content'].loc[j] = content
+    
         parsed_text = pd.concat([parsed_text,temp_df],ignore_index=True)
+        
+        
     parsed_text.to_pickle("parsed_text.pkl")
     parsed_text = pd.read_pickle("parsed_text.pkl")
-    #Speaker D. Lindsey. messes up our dataset 9 times, so we apply a manual adjustment.
+    
+    #speakerlist = sorted(parsed_text["Speaker"].unique().tolist())
+    
+    
+    # Get names of indexes for which we have an unidentified speaker and drop those
+    indexNames = parsed_text[ (parsed_text['Speaker'] == 'mY0') | (parsed_text['Speaker'] == 'WL”') | (parsed_text['Speaker'] == 'W') | (parsed_text['Speaker'] == 'AL"N')  ].index
+    parsed_text.drop(indexNames , inplace=True)
+    
     parsed_text["content"] = parsed_text["content"].apply(lambda x: " ".join(str(x).split()[1:]) if len(str(x).split())>1 and str(x).split()[0]=="LINDSEY" else x)
     parsed_text["Speaker"] = parsed_text["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
     
+    # Delete content with a check for presence of members.
+    #parsed_text['check']=parsed_text['content'].apply(lambda x: len(re.findall("Yes",x)))
+    #parsed_text['d_presence']=parsed_text['check']>7
+    
+     
     parsed_text.to_csv("../../output/interjections.csv")
     
-    
-    
-    
-    speaker_statements = parsed_text.groupby(['Date','Speaker']).sum().reset_index()
-    
-
-
-    #This modification causes us to drop 217 out of 9417 speaker interjections, or 2%
-    speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:len(x.split())==1)]
-    speaker_statements = speaker_statements[speaker_statements['Speaker'].apply(lambda x:x.isalpha())]
-
-    
-    #Correct Typos, of which there are 18.
-    with open("../../data/speaker_typos.txt",'r') as f:
-        for line in f.readlines():
-            correct = line.split()[0]
-            errors = line.split()[1:]
-            for error in errors:
-                speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: correct if x==error else x)
-    
-
+    speaker_statements = parsed_text.groupby(['Date','Speaker'])['content'].apply(lambda x: "%s" % " ".join(x))
+    speaker_statements = speaker_statements.reset_index()
     speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
     speaker_statements.to_csv("../../output/speaker_data/speaker_corpus.csv")
     print("Completed generating speaker statements!")
@@ -90,6 +172,14 @@ def get_speaker_corps(speaker_statements):
         with open("{}/{}_{}".format(speaker_path,speaker,"corpus.txt"),"w+") as f:
             f.write(" ".join(speaker_list))
         count+=1
+        
+def main():
+    speaker_statements = get_speaker_statements()
+    get_speaker_corps(speaker_statements)
+
+  
+
+
 
 if __name__ == "__main__":
         main()

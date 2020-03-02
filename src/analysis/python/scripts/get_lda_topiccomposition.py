@@ -105,6 +105,7 @@ def reduce_to_k_dim(M, k=2):
 def extract_vectors(ldamodel,num_topics,corpus): 
     sent_topics_df = pd.DataFrame()
     for i, row in enumerate(ldamodel[corpus]):
+        
         # Get the Dominant topic, Perc Contribution and Keywords for each document
         emptylist=[]
         for k in range(num_topics):          
@@ -137,20 +138,43 @@ def output_plot(date,data):
     
     # Import data
 data = create_lda_data.main()
-data = data.reset_index()
-data_light = data[['d_alt','date', 'speaker', 'speaker_id', 'votingmember', 'ambdiss','tighterdiss', 'easierdiss']]
+print("The total data length is: %s" % len(data))
+
+    # Produce summary stats
+data['new']=1
+df_balt=data[data['d_alt']==1].pivot_table(index="date",values='new',aggfunc=np.sum).reset_index()
+df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','votingmember'],aggfunc=np.sum)
+#print(df_summary)
+
+###############################################################################
+    # Make a data selection and learn the model #
+
+## Keep only dates for which alternatives are available and speakers who are votingmembers
+data_speakers=data[data['votingmember']==1].merge(df_balt,on='date',how='inner')
+data_alternatives=data[data['d_alt']==1]
+
+print("Number of words for the speakers is: %s" % len(" ".join(data_speakers['content'].tolist())))
+print("Number of words for the alternatives is: %s" % len(" ".join(data_alternatives['content'].tolist())))
+## Speakers have roughly 10x the number of words
+
+    # Subsample the speakers -- only to learn the model
+data_speakers_subsample = data_speakers.sample(frac =.10,random_state=5) 
+print("Number of words for the subsample ofspeakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
+
+data_sel = pd.concat([data_speakers_subsample,data_alternatives])
+data_sel = data_sel.reset_index()
 
     # Do simple preprocessing
-data['parsed']=data['content'].apply(extract_token)
+data_sel['parsed']=data_sel['content'].apply(extract_token)
 
     # Revome stopwords and do stemming
-stopwords = stopwords.words('english')
-stopwords.extend(["mr","chairman"])
-data['parsed_cleaned']=data['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwords)))
+stopwordsnltk = stopwords.words('english')
+stopwordsnltk.extend(["mr","chairman","yes","govenor"])
+data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwordsnltk)))
 
     # Build corpus
 texts=[]
-for row_index,row in data.iterrows():
+for row_index,row in data_sel.iterrows():
     item=row['parsed_cleaned']
     texts.append(item)    
 
@@ -158,12 +182,42 @@ dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
 
     # Do LDA
-num_topics=5
-ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20)
+num_topics=10
+ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
+
+x=ldamodel.show_topics(num_topics, num_words=10,formatted=False)
+topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
+
+#Below Code Prints Topics and Words
+for topic,words in topics_words:
+    print(str(topic)+ "::"+ str(words))
+
+
+###############################################################################
+
+data=pd.concat([data_speakers,data_alternatives],axis=0, join='inner')
+data = data.reset_index()
+data_light = data[['d_alt','date', 'speaker', 'speaker_id', 'votingmember', 'ambdiss','tighterdiss', 'easierdiss']]
+
+    # Do simple preprocessing
+data['parsed']=data['content'].apply(extract_token)
+
+    # Revome stopwords and do stemming
+data['parsed_cleaned']=data['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwordsnltk)))
+
+    # Build corpus
+texts=[]
+for row_index,row in data.iterrows():
+    item=row['parsed_cleaned']
+    texts.append(item)    
+
+corpus = [dictionary.doc2bow(text) for text in texts]
 
     # Extract topic vectors
 sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
-data_lda =  pd.concat([data_light,sent_topics_df],axis=1, join='inner')
+data_lda =  pd.concat([data,sent_topics_df],axis=1, join='inner')
+
+
 
     # Apply SVD for dimensionality reduction
 col_topics = [ col for col in data_lda.columns if re.match("^topic",col)]
@@ -177,9 +231,11 @@ data_lda_pca = pd.concat([data_lda,df_pca],axis=1, join='inner')
 
 data_lda_pca['date'].unique()
 
-date='1995-07-05'
-dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
-output_plot("1992-11-17",dataexample)
+for date in ['2005-05-03','2006-08-08','1993-05-18','1992-05-19','2007-05-09','2000-11-15']:
+    #date='1991-10-01'
+    dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
+    #print(dataexample[["speaker"]+col_topics+['PCI1','PCI2']])
+    output_plot(date,dataexample)
 
 
         
