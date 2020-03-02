@@ -5,12 +5,13 @@ import pprint
 import shutil
 
 def main():
-    speaker_statements = get_speaker_statements()
-    get_speaker_corps(pd.read_pickle("../../output/speaker_data/speaker_corpus.pkl"))
-def get_speaker_statements():
-    base_directory = base_directory = "../../../../collection/python/data/transcript_raw_text"
+    #extract_speakers()
+    #speaker_statements = generate_corpus()
+    create_speaker_folders(pd.read_pickle("../../output/speaker_data/speaker_corpus.pkl"))
+def extract_speakers():
+    base_directory = "../../../../collection/python/data/transcript_raw_text"
     raw_doc = os.listdir(base_directory)
-    filelist = sorted(raw_doc)
+    filelist = [x for x in sorted(raw_doc) if ".txt" in x]
     documents = []
     if os.path.exists("../../output/speaker_data"):
         shutil.rmtree("../../output/speaker_data")
@@ -41,17 +42,17 @@ def get_speaker_statements():
             temp_df['content'].loc[j] = ''.join(interjection.split('.')[1:])
 
         parsed_text = pd.concat([parsed_text,temp_df],ignore_index=True)
-    parsed_text.to_pickle("parsed_text.pkl")
-    parsed_text = pd.read_pickle("parsed_text.pkl")
+    
+    
     #Speaker D. Lindsey. messes up our dataset 9 times, so we apply a manual adjustment.
     parsed_text["content"] = parsed_text["content"].apply(lambda x: " ".join(str(x).split()[1:]) if len(str(x).split())>1 and str(x).split()[0]=="LINDSEY" else x)
     parsed_text["Speaker"] = parsed_text["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
+    parsed_text.to_pickle("parsed_text.pkl")
     
     parsed_text.to_csv("../../output/interjections.csv")
     
-    
-    
-    
+def generate_corpus():
+    parsed_text = pd.read_pickle("parsed_text.pkl")
     speaker_statements = parsed_text.groupby(['Date','Speaker']).sum().reset_index()
     
 
@@ -69,13 +70,14 @@ def get_speaker_statements():
             for error in errors:
                 speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: correct if x==error else x)
     
+    speaker_statements = speaker_statements.groupby(['Date','Speaker']).sum().reset_index()
 
     speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
     speaker_statements.to_csv("../../output/speaker_data/speaker_corpus.csv")
     print("Completed generating speaker statements!")
     return speaker_statements
 
-def get_speaker_corps(speaker_statements):
+def create_speaker_folders(speaker_statements):
     speakers = [speaker for speaker in set(speaker_statements["Speaker"])]
     print("Number of speakers:{}".format(len(speakers)))
     count = 0
