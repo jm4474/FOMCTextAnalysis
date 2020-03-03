@@ -9,13 +9,13 @@ corrections ={'BAUGHWJV':'BAUGHMAN',
               'BOHNE':'BOEHNE',
               'EISEMENGER':'EISENMENGER',
               'GEITHER':'GEITHNER',
-              'KELLEY': 'KELLY', 
               'KIMBREL':'KIMEREL',
               'MATTINGLY': 'MATTLINGLY',
               'FORESTALL':'FORRESTAL',
               'GRENSPAN':'GREENSPAN',
               'GREESPAN':'GREENSPAN',
               'GREENPSAN':'GREENSPAN',
+              'GREENSPAN,':'GREENSPAN',
               'GREENPAN':'GREENSPAN',
               'McANDREWS':'MCANDREWS',
               'MCDONUGH':'MCDONOUGH',
@@ -56,7 +56,10 @@ corrections ={'BAUGHWJV':'BAUGHMAN',
               '[STERN':'STERN',
               '[WILLES]':'WILLES',
               'ŞAHIN':'SAHIN',
-              '[STERN(?)':'STERN'}
+              '[STERN(?)':'STERN',
+              '[STERN]':'STERN',
+              'GRALEY':'GRAMLEY',
+              'ALTMA”':'ALTMANN'}
 
               
             
@@ -69,6 +72,8 @@ def name_corr(val):
     else:
         if re.match(".*\(\?\)",val):
             val = re.search("(.*)(\(\?\))",val)[1]
+            if val in dictkeys:
+                val = corrections[val]  
             
         if len(val.split(" "))>1:
             #print(val.split(" ")[0])
@@ -79,7 +84,8 @@ def name_corr(val):
                     sentence = sentencehelp
                     #print(sentence)
             val = val.split(" ")[0]
-            
+            if val in dictkeys:
+                val = corrections[val]              
     #print(val)       
     return val,sentence
 
@@ -177,9 +183,22 @@ def main():
     speaker_statements = get_speaker_statements()
     get_speaker_corps(speaker_statements)
 
-  
-
-
 
 if __name__ == "__main__":
-        main()
+    main()
+        
+# =============================================================================
+# ## Do some checks:  
+# with open('../../output/data.json', 'r') as speakerids:
+#     speakerid = json.load(speakerids)
+#     
+# speakerlist = [ x.lower() for x in speaker_statements["Speaker"].unique().tolist()]
+# 
+# for key,value in speakerid.items():
+#     if key.lower() not in speakerlist:
+#         print(key)
+#     else:
+#         print('in list')
+# 
+# =============================================================================
+
