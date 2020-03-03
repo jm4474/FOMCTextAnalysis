@@ -51,12 +51,9 @@ def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
             
     #sorted(list(newspeakerids.keys()))
     #sorted([ int(i.strip('id_')) for  i in sorted(list(newspeakerids.values()))])
-    
-    
+        
         # Clean dataset
-    newdic={'eisemenger':'eismenger', 'bohne':'boehne', 'geither':'geithner',  'kelley': 'kelly', 'kimbrel':'kimerel',  'mattingly': 'mattlingly'}
     data["speaker"] = data["Speaker"].apply(lambda x: x.lower())
-    data.replace({"speaker":newdic},inplace=True)
     data["speaker_id"] = data["speaker"]
     data.replace({"speaker_id":newspeakerids},inplace=True)
     data.drop(columns="Speaker",inplace=True)

@@ -135,7 +135,7 @@ def output_plot(date,data):
 
 
 ###############################################################################
-    
+pd.set_option('mode.chained_assignment', None)
     # Import data
 data = create_lda_data.main()
 print("The total data length is: %s" % len(data))
@@ -158,10 +158,10 @@ print("Number of words for the alternatives is: %s" % len(" ".join(data_alternat
 ## Speakers have roughly 10x the number of words
 
     # Subsample the speakers -- only to learn the model
-data_speakers_subsample = data_speakers.sample(frac =.10,random_state=5) 
-print("Number of words for the subsample ofspeakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
+data_speakers_subsample = data_speakers.sample(frac =.5,random_state=5) 
+print("Number of words for the subsample of speakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
 
-data_sel = pd.concat([data_speakers_subsample,data_alternatives])
+data_sel = pd.concat([data_speakers_subsample,data_alternatives],axis=0, join='inner')
 data_sel = data_sel.reset_index()
 
     # Do simple preprocessing
@@ -169,8 +169,9 @@ data_sel['parsed']=data_sel['content'].apply(extract_token)
 
     # Revome stopwords and do stemming
 stopwordsnltk = stopwords.words('english')
-stopwordsnltk.extend(["mr","chairman","yes","govenor"])
-data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwordsnltk)))
+stopwordsnltk.extend(["mr","chairman","yes"])
+add_list = ["presid", "governor", "would","think","altern"]
+data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: remove_stopwords(do_stemming(remove_stopwords(x,stopwordsnltk)),add_list))
 
     # Build corpus
 texts=[]
@@ -178,11 +179,20 @@ for row_index,row in data_sel.iterrows():
     item=row['parsed_cleaned']
     texts.append(item)    
 
+# =============================================================================
+# new =[]
+# for el in texts:
+#     for ele in el:
+#         new.append(ele)
+# 
+# "altern" in new
+# =============================================================================
+
 dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
 
     # Do LDA
-num_topics=10
+num_topics = 15
 ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
 
 x=ldamodel.show_topics(num_topics, num_words=10,formatted=False)
@@ -203,7 +213,7 @@ data_light = data[['d_alt','date', 'speaker', 'speaker_id', 'votingmember', 'amb
 data['parsed']=data['content'].apply(extract_token)
 
     # Revome stopwords and do stemming
-data['parsed_cleaned']=data['parsed'].apply(lambda x: do_stemming(remove_stopwords(x,stopwordsnltk)))
+data['parsed_cleaned']=data['parsed'].apply(lambda x: remove_stopwords(do_stemming(remove_stopwords(x,stopwordsnltk)),add_list))
 
     # Build corpus
 texts=[]
@@ -217,8 +227,6 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
 data_lda =  pd.concat([data,sent_topics_df],axis=1, join='inner')
 
-
-
     # Apply SVD for dimensionality reduction
 col_topics = [ col for col in data_lda.columns if re.match("^topic",col)]
 dfvalues=data_lda[col_topics].values
@@ -227,17 +235,53 @@ df_pca=pd.DataFrame(twodim)
 df_pca.rename(columns={0:'PCI1',1:'PCI2'},inplace=True)
 data_lda_pca = pd.concat([data_lda,df_pca],axis=1, join='inner')
 
-    # Show a single example
-
+    # Show a few examples
 data_lda_pca['date'].unique()
 
-for date in ['2005-05-03','2006-08-08','1993-05-18','1992-05-19','2007-05-09','2000-11-15']:
+for date in ['2005-05-03','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
     #date='1991-10-01'
     dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
     #print(dataexample[["speaker"]+col_topics+['PCI1','PCI2']])
     output_plot(date,dataexample)
 
-
+    # Do a manual check
+pd.set_option('display.max_columns', 500)
+data_lda_pca[data_lda_pca['date']=='1993-05-18'][['speaker']+col_topics]
+newlist=data_lda_pca[(data_lda_pca['date']=='1993-05-18') & (data_lda_pca['d_alt']==1)]['parsed_cleaned'].tolist()[1]
         
+corpus = [dictionary.doc2bow(newlist)]  
+sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
+#print(sent_topics_df)
+
+    # Calculate Bhattacharyya distance for Greenspan
+def bhattacharyya(x,y,col_topics):
+    array1 = x[col_topics].values[0]
+    array2 = y[col_topics].values[0]
+    helpvar = -np.log(np.sum(np.sqrt(np.multiply(array1,array2))))
+    return helpvar
+
+emptylist=[]
+for date in data_lda_pca['date'].unique():
+    dic={'date':date}
+    z=data_lda_pca[(data_lda_pca['date']==date) & (data_lda_pca['speaker']=="greenspan")]
+    #print(z)
+    for alt in ['a','b','c','d','e']:
+        zz=data_lda_pca[(data_lda_pca['date']==date) & (data_lda_pca['speaker']=='alt'+alt)]
+        #print(zz)
+        
+        if zz.index.empty or z.index.empty:
+            pass
+        else:
+            dist=bhattacharyya(z,zz,col_topics)
+            dic.update({'alt'+alt:dist})
+    emptylist.append(dic)        
     
+chairman = pd.DataFrame(emptylist)
+chairman["newdate"]=pd.to_datetime(chairman['date'])
+    
+plt.rcParams["figure.figsize"] = [15, 8]
+chairman.plot(x='newdate', y=['alta','altb','altc'], style=".")
+
+
+
 
