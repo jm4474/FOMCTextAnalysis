@@ -158,7 +158,7 @@ print("Number of words for the alternatives is: %s" % len(" ".join(data_alternat
 ## Speakers have roughly 10x the number of words
 
     # Subsample the speakers -- only to learn the model
-data_speakers_subsample = data_speakers.sample(frac =.5,random_state=5) 
+data_speakers_subsample = data_speakers.sample(frac =.5 ,random_state=5) 
 print("Number of words for the subsample of speakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
 
 data_sel = pd.concat([data_speakers_subsample,data_alternatives],axis=0, join='inner')
@@ -243,6 +243,42 @@ for date in ['2005-05-03','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
     dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
     #print(dataexample[["speaker"]+col_topics+['PCI1','PCI2']])
     output_plot(date,dataexample)
+    
+    # Show the outcome for a specific speaker
+speaker ='greenspan'
+dataexample = data_lda_pca[data_lda_pca['speaker']=='alta']
+dataexamplealt = data_lda_pca[data_lda_pca['speaker']=='alta']
+
+
+data[(data['date']=='2007-09-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+data[(data['date']=='2008-03-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+data[(data['date']=='2004-05-04') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+data[(data['date']=='1998-12-22') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+
+plt.figure()
+for i, row in dataexample.iterrows():
+    plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='b')
+    plt.text(row['PCI1'],row['PCI2'], row["date"])
+for i, row in dataexamplealt.iterrows():
+    plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='r')
+    plt.text(row['PCI1'],row['PCI2'], row["date"])
+
+        
+plt.title( f'History {speaker}')
+plt.savefig(f'../output/fig_history_{speaker}')
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     # Do a manual check
 pd.set_option('display.max_columns', 500)
@@ -280,8 +316,8 @@ chairman = pd.DataFrame(emptylist)
 chairman["newdate"]=pd.to_datetime(chairman['date'])
     
 plt.rcParams["figure.figsize"] = [15, 8]
-chairman.plot(x='newdate', y=['alta','altb','altc'], style=".")
-
+chairman.plot(x='newdate', y=['alta','altb','altc'], style=".",title="Bhattacharyya distance Greenspan")
+plt.savefig('../output/distance_greenspan.pdf')
 
 
 
