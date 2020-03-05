@@ -124,7 +124,7 @@ def merge_error_correction(voter_df):
     voter_df.to_csv("../output/voting_members.csv",index=False)
 
 def merge_voting_members_with_alternatives():
-    voting_df = pd.read_csv("../output/get_voting_members.csv")
+    voting_df = pd.read_csv("../output/voting_members.csv")
     alt_df = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
     voting_df['date'] = pd.to_datetime(voting_df['Date'])
     alt_df['date'] = pd.to_datetime(alt_df['date'])
