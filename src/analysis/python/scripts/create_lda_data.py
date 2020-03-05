@@ -21,8 +21,7 @@ import json
 
 
 def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date):
-
-        # Alternatives
+            # Alternatives
     alternatives = alternatives[["date","alt a corpus","alt b corpus","alt c corpus"]]
     names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
     alternatives.rename(columns=names,inplace=True)
@@ -52,12 +51,9 @@ def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
             
     #sorted(list(newspeakerids.keys()))
     #sorted([ int(i.strip('id_')) for  i in sorted(list(newspeakerids.values()))])
-    
-    
+        
         # Clean dataset
-    newdic={'eisemenger':'eismenger', 'bohne':'boehne', 'geither':'geithner',  'kelley': 'kelly', 'kimbrel':'kimerel',  'mattingly': 'mattlingly'}
     data["speaker"] = data["Speaker"].apply(lambda x: x.lower())
-    data.replace({"speaker":newdic},inplace=True)
     data["speaker_id"] = data["speaker"]
     data.replace({"speaker_id":newspeakerids},inplace=True)
     data.drop(columns="Speaker",inplace=True)
@@ -70,13 +66,13 @@ def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     data.drop(columns="_merge",inplace=True)
     
         # Contrain dataset
-    data = data[(data["date"]>begin_date) & (data["date"]<end_date) ]
+    newdata = data[(data["date"]>begin_date) & (data["date"]<end_date) ]
 
-    return data
+    return newdata
 
 def main():
     # Load dictionary
-    with open('data.json', 'r') as speakerids:
+    with open('../output/data.json', 'r') as speakerids:
         speakerid = json.load(speakerids)
     
     # Load votingrecord
@@ -88,10 +84,10 @@ def main():
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
     
-    begin_date = "1988-01-01"
+    begin_date = "1989-07-01"
     end_date = "2008-12-31"
     
     dataout = clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     
     return dataout
-    
+ 

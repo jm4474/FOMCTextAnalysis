@@ -30,7 +30,7 @@ def create_speakerids(data):
     index=[f"id_{i}" for i in range(0,len(votingmembers))]
     speakerid = dict(zip(votingmembers,index))
     
-    with open('data.json', 'w') as speakerids:
+    with open('../output/data.json', 'w') as speakerids:
         json.dump(speakerid, speakerids)
         
     return speakerid
