@@ -138,6 +138,11 @@ def output_plot(date,data):
 pd.set_option('mode.chained_assignment', None)
     # Import data
 data = create_lda_data.main()
+
+len(data[data['votingmember']==1])
+
+data.to_csv("../output/lda_dataset.csv",index=False)
+
 print("The total data length is: %s" % len(data))
 
     # Produce summary stats
