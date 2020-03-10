@@ -22,14 +22,14 @@ import json
 
 def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date):
             # Alternatives
-    alternatives = alternatives[["date","alt a corpus","alt b corpus","alt c corpus"]]
+    alternatives = alternatives[["start_date","alt a corpus","alt b corpus","alt c corpus"]]
     names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
     alternatives.rename(columns=names,inplace=True)
-    alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="date", j="alternatives", suffix='\w+')
+    alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
     alts=alts.reset_index()
-    alts.rename(columns={'date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
+    alts.rename(columns={'start_date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
     
-    data = pd.concat([speakers,alts],sort=False,keys=[0, 1])
+    data = pd.concat([speakers,alts],axis=0,keys=[0, 1])
     data = data.reset_index()
     data.drop(columns=["Unnamed: 0","level_1"],inplace=True)
     data.rename(columns={"level_0":"d_alt"},inplace=True)
@@ -84,10 +84,54 @@ def main():
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
     
-    begin_date = "1989-07-01"
+    begin_date = "1988-01-01"
     end_date = "2008-12-31"
     
     dataout = clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     
     return dataout
- 
+
+data = main()
+
+# Number of alternatives is 168 in subperiod
+len(data.loc[data["d_alt"]==1,'date'].unique())
+
+# Number of transcripts is 234
+len(data.loc[data["d_alt"]==0,'date'].unique())
+
+
+# Determine whether we have transcripts for each date of alternative
+new_alt = data.loc[data["d_alt"]==1,'date'].drop_duplicates().reset_index()
+new_speeches = data.loc[data["d_alt"]==0,'date'].drop_duplicates().reset_index()
+new = new_alt.merge(new_speeches,on="date",how="outer")
+
+
+with open('../output/data.json', 'r') as speakerids:
+    speakerid = json.load(speakerids)
+
+# Load votingrecord
+votingrecord = pd.read_csv("../output/votingrecord.csv")
+
+# Load speaker text
+speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv")
+
+# Alternatives that Anand collected
+alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
+
+begin_date = "1988-01-01"
+end_date = "2008-12-31"
+
+alternatives = alternatives[["start_date","alt a corpus","alt b corpus","alt c corpus"]]
+names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
+alternatives.rename(columns=names,inplace=True)
+alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
+alts=alts.reset_index()
+
+
+data =alts.merge(new_speeches,left_on='start_date',right_on='date',how='left')
+
+
+
+
+
+

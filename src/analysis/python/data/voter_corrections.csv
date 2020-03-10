@@ -1,25 +1,28 @@
 Date,Voters,voters_expected,voters_observed
-1966-06-07,"['Mr. 'Martin', 'Mr. Brimmer', 'Mr. Clay', 'Mr. Daane', 'Mr. Irons', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Shepardson', 'Mr. Scanlon', 'Mr. Treiber', 'Mr. Wayne’]",11,12
-1967-11-27,"['Mr. Martin', 'Mr. Brimmer', 'Mr. Francis', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Scanlon', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Wayne’]",9,10
-1968-04-19,"['Mr. Martin', 'Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Ellis', 'Mr. Galusha', 'Mr. Hickman', 'Mr. Kimbrel', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson’]",11,10
-1968-08-19,"['Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Galusha', 'Mr. Hickman', 'Mr. Kimbrel', 'Mr. Maisel', 'Mr. Robertson', 'Mr. Sherill', 'Mr. Bopp’]",10,9
-1969-11-25,"['Mr. Martin', 'Mr. Hayes', 'Mr. Bopp', 'Mr. Brimmer', 'Mr. Clay', 'Mr. Coldwell', 'Mr. Daane', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Scanlon', 'Mr. Sherrill’]",11,10
-1970-06-23,"['Mr. Burns', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Francis', 'Mr. Heflin', 'Mr. Hickman', 'Mr. Maisel 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Treiber’]",12,11
-1971-02-09,"['Mr. Burns', 'Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Francis', 'Mr. Heflin', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Mayo']",11,12
-1975-02-19,"['Mr. Burns', 'Mr. Hayes', 'Mr. Black', 'Mr. Bucher', 'Mr. Clay', 'Mr. Coldwell', 'Mr. Holland', 'Mr. Kimbrel', 'Mr. 'Mitchel', 'Mr. Sheehan', 'Mr. Wallich', 'Mr. Winn']",11,12
-1975-08-19,"['Mr. Burns', 'Mr. Volcker', 'Mr. Baughman', 'Mr. Bucher', 'Mr. Coldwell', 'Mr. Eastburn', 'Mr. Holland', 'Mr. Jackson', 'Mr. MacLaury', 'Mr. Mayo', 'Mr. Mitchell', 'Mr. Wallich']",12,11
-1978-05-05,"['Mr. Miller', 'Mr. Baughman', 'Mr. Gardner', 'Mr. Jackson', 'Mr. Partee', 'Mr. Wallich', 'Mr. Willes', 'Mr. Winn', 'Mr. Volcker', 'Mr. Black', 'Mr. Eastburn']",10,4
-1979-05-22,"['Mr. Miller', 'Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mrs. Teeters', 'Mr. Wallich']",10,5
-1979-10-06,"['Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mr. Rice', 'Mr Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12,5
-1987-03-31,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Seger', 'Mr. Stern']",10,10
-2010-03-16,,10,1
-2010-04-28,,10,1
-2010-06-23,,10,1
-2010-08-10,,10,1
-2010-11-03,,11,1
-2011-01-26,,11,1
-2011-08-09,,10,1
-2011-09-21,,10,1
-2011-11-02,,10,1
-2011-12-13,,10,2
-1993-03-23,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips']",12,12
+6/7/66,"['Mr. 'Martin', 'Mr. Brimmer', 'Mr. Clay', 'Mr. Daane', 'Mr. Irons', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Shepardson', 'Mr. Scanlon', 'Mr. Treiber', 'Mr. Wayne’]",11,12
+11/27/67,"['Mr. Martin', 'Mr. Brimmer', 'Mr. Francis', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Scanlon', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Wayne’]",9,10
+4/19/68,"['Mr. Martin', 'Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Ellis', 'Mr. Galusha', 'Mr. Hickman', 'Mr. Kimbrel', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson’]",11,10
+8/19/68,"['Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Galusha', 'Mr. Hickman', 'Mr. Kimbrel', 'Mr. Maisel', 'Mr. Robertson', 'Mr. Sherill', 'Mr. Bopp’]",10,9
+11/25/69,"['Mr. Martin', 'Mr. Hayes', 'Mr. Bopp', 'Mr. Brimmer', 'Mr. Clay', 'Mr. Coldwell', 'Mr. Daane', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Scanlon', 'Mr. Sherrill’]",11,10
+6/23/70,"['Mr. Burns', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Francis', 'Mr. Heflin', 'Mr. Hickman', 'Mr. Maisel 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Treiber’]",12,11
+2/9/71,"['Mr. Burns', 'Mr. Hayes', 'Mr. Brimmer', 'Mr. Daane', 'Mr. Francis', 'Mr. Heflin', 'Mr. Maisel', 'Mr. Mitchell', 'Mr. Robertson', 'Mr. Sherrill', 'Mr. Swan', 'Mr. Mayo']",11,12
+2/19/75,"['Mr. Burns', 'Mr. Hayes', 'Mr. Black', 'Mr. Bucher', 'Mr. Clay', 'Mr. Coldwell', 'Mr. Holland', 'Mr. Kimbrel', 'Mr. 'Mitchel', 'Mr. Sheehan', 'Mr. Wallich', 'Mr. Winn']",11,12
+8/19/75,"['Mr. Burns', 'Mr. Volcker', 'Mr. Baughman', 'Mr. Bucher', 'Mr. Coldwell', 'Mr. Eastburn', 'Mr. Holland', 'Mr. Jackson', 'Mr. MacLaury', 'Mr. Mayo', 'Mr. Mitchell', 'Mr. Wallich']",12,11
+5/5/78,"['Mr. Miller', 'Mr. Baughman', 'Mr. Gardner', 'Mr. Jackson', 'Mr. Partee', 'Mr. Wallich', 'Mr. Willes', 'Mr. Winn', 'Mr. Volcker', 'Mr. Black', 'Mr. Eastburn']",10,4
+5/22/79,"['Mr. Miller', 'Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mrs. Teeters', 'Mr. Wallich']",10,5
+10/6/79,"['Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mr. Rice', 'Mr Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12,5
+3/31/87,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Seger', 'Mr. Stern']",10,10
+3/16/10,,10,1
+4/28/10,,10,1
+6/23/10,,10,1
+8/10/10,,10,1
+11/3/10,,11,1
+1/26/11,,11,1
+8/9/11,,10,1
+9/21/11,,10,1
+11/2/11,,10,1
+12/13/11,,10,2
+3/23/93,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips']",12,12
+2/8/89,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black' , 'Mr. Forrestal' , 'Mr. Heller' , 'Mr. Hoskins', 'Mr. Johnson' , 'Mr. Kelley', 'Mr. LaWare', 'Mr. Parry' , 'Mr. Seger']",,
+7/6/89,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey' , 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Mr. Seger', 'Mr. Syron']",,
+7/3/90,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne' , 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Mr. Seger', 'Mr. Stern']",,

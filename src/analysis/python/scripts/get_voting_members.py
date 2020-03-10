@@ -22,8 +22,12 @@ def get_voters():
     df["Date"] = df["FOMC Meeting"].apply(lambda x:str(x).split(" ")[0])
     df['FOMC Votes'] = df['FOMC Votes'].apply(lambda x:0 if np.isnan(x) else x)
 
-    
-    
+    df['date'] = pd.to_datetime(df["Date"])
+    df['start_date'] = df['date'] - pd.Timedelta('1 days')
+    df['start_date']=df['start_date'].dt.date
+    df['date']=df['date'].dt.date
+    df[['date','start_date']].head()
+        
     voter_df = pd.DataFrame()
 
     for index,row in df.iterrows():
@@ -31,7 +35,13 @@ def get_voters():
         num_voters = int(row['FOMC Votes'])
         date_path = '../../../collection/python/data/minutes_raw_text/{}.txt'.format(row['Date'])
         if not os.path.exists(date_path):
-            continue
+            print("Date not found")
+            date_path = '../../../collection/python/data/transcript_raw_text/{}.txt'.format(row['start_date'])
+            if not os.path.exists(date_path):
+                print("Alternative date not found")
+                continue
+            else:
+                print('Process alternative date')
         with open(date_path) as f:
             broken = False
             broken_starts = 0
