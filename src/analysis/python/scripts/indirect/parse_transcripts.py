@@ -158,6 +158,10 @@ def get_speaker_statements():
     
     speaker_statements = parsed_text.groupby(['Date','Speaker'])['content'].apply(lambda x: "%s" % " ".join(x))
     speaker_statements = speaker_statements.reset_index()
+    
+    dates_df = pd.read_csv("../../../../collection/python/output/derived_data.csv")
+    speaker_statements = speaker_statements.merge(dates_df[["start_date","end_date"]].drop_duplicates(),left_on="Date",right_on="start_date",how="left")
+        
     speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
     speaker_statements.to_csv("../../output/speaker_data/speaker_corpus.csv")
     print("Completed generating speaker statements!")

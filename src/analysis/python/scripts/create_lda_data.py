@@ -22,13 +22,14 @@ import json
 
 def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date):
             # Alternatives
-    alternatives = alternatives[["start_date","alt a corpus","alt b corpus","alt c corpus"]]
-    names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
+    alternatives = alternatives[["start_date","date","alt a corpus","alt b corpus","alt c corpus"]]
+    names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc","date":"end_date"}
     alternatives.rename(columns=names,inplace=True)
     alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
     alts=alts.reset_index()
     alts.rename(columns={'start_date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
     
+   
     data = pd.concat([speakers,alts],axis=0,keys=[0, 1])
     data = data.reset_index()
     data.drop(columns=["Unnamed: 0","level_1"],inplace=True)
@@ -60,13 +61,16 @@ def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     data.rename(columns={"Date":"date"},inplace=True)
     
         # Merge voting record
-    data = data.merge(votingrecord,on=["speaker_id","date"],how="left",indicator=True,sort=False)
+    data = data.merge(votingrecord,left_on=["speaker_id","end_date"],right_on=["speaker_id","date"],how="outer",indicator=True,sort=False)
     data.dropna(subset=["content"],inplace=True,axis=0)
     data.fillna(value={'votingmember':0, 'ambdiss':0,'tighterdiss':0, 'easierdiss':0},inplace=True)
-    data.drop(columns="_merge",inplace=True)
+    data.drop(columns=["_merge","start_date","date_y"],inplace=True)
+    data.rename(columns={"date_x":"start_date"},inplace=True)
+    
+    
     
         # Contrain dataset
-    newdata = data[(data["date"]>begin_date) & (data["date"]<end_date) ]
+    newdata = data[(data["start_date"]>begin_date) & (data["start_date"]<end_date) ]
 
     return newdata
 
@@ -76,10 +80,10 @@ def main():
         speakerid = json.load(speakerids)
     
     # Load votingrecord
-    votingrecord = pd.read_csv("../output/votingrecord.csv")
+    votingrecord = pd.read_csv("../output/votingrecord.csv").sort_values(by="date")
     
     # Load speaker text
-    speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv")
+    speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv").sort_values(by="Date")
     
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
@@ -91,44 +95,37 @@ def main():
     
     return dataout
 
-data = main()
-
-# Number of alternatives is 168 in subperiod
-len(data.loc[data["d_alt"]==1,'date'].unique())
-
-# Number of transcripts is 234
-len(data.loc[data["d_alt"]==0,'date'].unique())
 
 
-# Determine whether we have transcripts for each date of alternative
-new_alt = data.loc[data["d_alt"]==1,'date'].drop_duplicates().reset_index()
-new_speeches = data.loc[data["d_alt"]==0,'date'].drop_duplicates().reset_index()
-new = new_alt.merge(new_speeches,on="date",how="outer")
+# =============================================================================
+# ### Do a variety of checks on the data
+# data = main()
+# num = len(data.loc[data["d_alt"]==1,'start_date'].unique())
+# print(f"Alternative dates: {num} of 168")
+# 
+# num =len(data.loc[(data["d_alt"]==0) & (data["votingmember"]==1)])
+# print(f"Votes: {num} out of 1905")
+# 
+# # Check for the missing votes
+# new = data.loc[(data["d_alt"]==0) & (data["votingmember"]==1)].pivot_table(index="end_date",values="votingmember",aggfunc=sum).reset_index()
+# excel_df = pd.read_excel("../data/fomc_dissents_data.xlsx",skiprows=3)
+# excel_df['FOMC Votes'] = excel_df['FOMC Votes'].apply(lambda x:0 if np.isnan(x) else x)
+# excel_df['date'] = excel_df["FOMC Meeting"].dt.date
+# excel_df = excel_df[~excel_df["Chair"].isna()]
+# new["end_date"] = pd.to_datetime(new["end_date"]).dt.date
+# newn = new.merge(excel_df,left_on="end_date",right_on="date",how="left")
+# newn['dev'] = newn['FOMC Votes'] == newn['votingmember']
+# bb = newn[newn['dev']==False]
+# check = data[data['end_date']=="2007-06-28"]
+# ## All of the missing votes are on 01/05/1988: Voters don't have interjections. 
+# ## This is a date without bluebooks. Hence voting record is complete.
+# 
+# 
+# =============================================================================
 
 
-with open('../output/data.json', 'r') as speakerids:
-    speakerid = json.load(speakerids)
-
-# Load votingrecord
-votingrecord = pd.read_csv("../output/votingrecord.csv")
-
-# Load speaker text
-speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv")
-
-# Alternatives that Anand collected
-alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
-
-begin_date = "1988-01-01"
-end_date = "2008-12-31"
-
-alternatives = alternatives[["start_date","alt a corpus","alt b corpus","alt c corpus"]]
-names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc"}
-alternatives.rename(columns=names,inplace=True)
-alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
-alts=alts.reset_index()
 
 
-data =alts.merge(new_speeches,left_on='start_date',right_on='date',how='left')
 
 
 

@@ -22,7 +22,9 @@ def create_speakerids(data):
     for idx,row in data["Voters"].dropna().iteritems():
         name_list=ast.literal_eval(row)
         for item in name_list:
-            newitem=re.search("(^M[r-s]\.\s)(\w+)",item)[2]
+            #print(item)
+            newitem=re.search("(^M[r-s]\.\s+)(\w+)",item)[2]
+
             if newitem not in votingmembers:
                 votingmembers.append(newitem)
     
@@ -40,7 +42,7 @@ def create_votingrecord(datainput,speakerid):
     data=[]
     for idx,row in datainput[~datainput["Voters"].isna()].iterrows():
         dic={}
-        date=row["date"]
+        date=row["Date"]
         #print(date)
         dic.update({"date":date})
         for key, value in speakerid.items():
@@ -103,10 +105,20 @@ def create_votingrecord(datainput,speakerid):
     
     
 def main():
-    voterdata = pd.read_csv("../output/alternatives_corpus_and_voting_information.csv")
-    speakerid = create_speakerids(voterdata)
-    dataout = create_votingrecord(voterdata,speakerid )
-
+    voterdata = pd.read_csv("../output/voting_members.csv")
+    voterdata['date'] = pd.to_datetime(voterdata['Date']).dt.date
+    excel_df = pd.read_excel("../data/fomc_dissents_data.xlsx",skiprows=3)
+    excel_df['FOMC Votes'] = excel_df['FOMC Votes'].apply(lambda x:0 if np.isnan(x) else x)
+    excel_df['date'] = excel_df["FOMC Meeting"].dt.date
+    excel_df = excel_df[~excel_df["Chair"].isna()]
+    merge_df = voterdata.merge(excel_df,left_on="date",right_on="date",how="left")
+      
+    speakerid = create_speakerids(merge_df)
+    dataout = create_votingrecord(merge_df,speakerid ).sort_values(by="date")
+    
+ 
+    dataout=dataout[dataout["date"]<="2008-12-31"] # 1905 voters as in D. Thornton
+ 
     dataout.to_csv("../output/votingrecord.csv",index=False)
 
 if __name__== "__main__":

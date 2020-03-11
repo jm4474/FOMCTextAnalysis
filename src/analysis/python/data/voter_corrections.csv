@@ -22,7 +22,15 @@ Date,Voters,voters_expected,voters_observed
 9/21/11,,10,1
 11/2/11,,10,1
 12/13/11,,10,2
-3/23/93,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips']",12,12
 2/8/89,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black' , 'Mr. Forrestal' , 'Mr. Heller' , 'Mr. Hoskins', 'Mr. Johnson' , 'Mr. Kelley', 'Mr. LaWare', 'Mr. Parry' , 'Mr. Seger']",,
-7/6/89,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey' , 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Mr. Seger', 'Mr. Syron']",,
-7/3/90,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne' , 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Mr. Seger', 'Mr. Stern']",,
+3/29/88,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black' , 'Mr. Forrestal' , 'Mr. Heller' , 'Mr. Hoskins', 'Mr. Johnson' , 'Mr. Kelley', 'Mr. Parry' , 'Mr. Seger']",,
+7/6/89,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Johnson' , 'Mr. Keehn',  'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Mr. Seger', 'Mr. Syron']",,
+7/3/90,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin' , 'Mr. Hoskins',  'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Mr. Seger', 'Mr. Stern']",,
+5/19/92,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan' , 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Mr. Phillips', 'Mr. Syron']",,
+12/20/94,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",,
+7/6/95,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
+12/19/95,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
+2/1/95,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
+3/22/05,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern', 'Mr. Guynn']",,
+12/12/06,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen', 'Mr. Poole']",,
+6/28/07,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",,
