@@ -1,81 +1,7 @@
 Date,Voters,voters_expected,voters_observed
-1980-01-09,"['Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Altmann']",12.0,12.0
-1980-02-05,"['Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Coldwell', 'Mr. Kimbrel', 'Mr. Mayo', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Altmann']",12.0,12.0
-1980-03-07,"['Mr. Volcker', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn', 'Mr. Altmann']",11.0,11.0
-1980-03-18,"['Mr. Volcker', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn', 'Mr. Altmann']",11.0,11.0
-1980-04-22,"['Mr. Volcker', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",11.0,11.0
-1980-05-06,"['Mr. Volcker', 'Mr. Guffey', 'Mr. Morris', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Altmann']",10.0,10.0
-1980-05-20,"['Mr. Volcker', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",11.0,11.0
-1980-07-09,"['Mr. Volcker', 'Mr. Gramley', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn', 'Mr. Black']",12.0,12.0
-1980-08-12,"['Mr. Volcker', 'Mr. Gramley', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn', 'Mr. Altmann']",12.0,12.0
-1980-09-16,"['Mr. Volcker', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",12.0,12.0
-1980-10-21,"['Mr. Volcker', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mr. Solomon', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",12.0,12.0
-1980-11-18,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",12.0,12.0
-1980-11-26,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Altmann']",11.0,11.0
-1980-12-05,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",11.0,11.0
-1980-12-12,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Winn']",11.0,11.0
-1980-12-19,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",12.0,12.0
-1981-02-03,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",12.0,12.0
-1981-02-24,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roos', 'Mr. Schultz', 'Mrs. Teeters']",10.0,10.0
-1981-03-31,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Axilrod']",11.0,11.0
-1981-05-06,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters']",9.0,9.0
-1981-05-18,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Axilrod']",12.0,12.0
-1981-07-07,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1981-08-18,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Axilrod']",12.0,12.0
-1981-10-06,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1981-11-17,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1981-12-22,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1982-02-02,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Partee', 'Mr. Rice', 'Mr. Schultz', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1982-03-30,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Winn']",11.0,11.0
-1982-05-18,"['Mr. Volcker', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Timlen']",12.0,12.0
-1982-07-01,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich', 'Mr. Keehn']",12.0,12.0
-1982-08-24,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",11.0,11.0
-1982-10-05,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1982-11-16,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1982-12-21,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-02-09,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Balles', 'Mr. Black', 'Mr. Ford', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-03-29,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-05-24,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-07-13,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-08-23,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-10-04,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-11-15,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1983-12-20,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1984-01-31,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Gramley', 'Mr. Guffey', 'Mr. Keehn', 'Mr. Martin', 'Mr. Morris', 'Mr. Partee', 'Mr. Rice', 'Mr. Roberts', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1984-03-27,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mrs. Teeters', 'Mr. Wallich']",12.0,12.0
-1984-05-22,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Mr. Wallich']",11.0,11.0
-1984-07-17,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1984-08-21,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1984-10-02,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs Martin', 'Mr. Partee', 'Mr. Rice', 'Mr. Seger', 'Ms. Wallich', 'Mr. Chairman']",12.0,12.0
-1984-11-07,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1984-12-18,"['Mr. Volcker', 'Mr. Solomon', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Corrigan', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1985-02-13,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Gramley', 'Mrs. Horn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich', 'Mr. Axilrod']",12.0,12.0
-1985-03-26,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1985-05-21,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Gramley', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1985-07-10,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1985-08-20,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1985-10-01,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1985-11-05,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Balles', 'Mr. Black', 'Mr. Forrestal', 'Mr. Keehn', 'Mr. Martin', 'Mr. Partee', 'Mr. Rice', 'Ms. Seger']",10.0,10.0
-1985-12-17,,10.0,9.0
-1986-02-12,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Martin', 'Mr. Parry', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1986-04-01,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mrs. Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1986-05-20,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mrs Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1986-07-09,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mrs. Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",11.0,11.0
-1986-08-19,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mrs Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1986-09-23,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mrs. Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger', 'Mr. Wallich']",12.0,12.0
-1986-11-05,"['Mr. Volcker', 'Mr. Corrigan', 'Mr, Angell', 'Mr. Guffey', 'Mr. Heller', 'Mrs Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Mr. Rice', 'Ms. Seger']",11.0,11.0
-1986-12-16,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mrs. Horn', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Ms. Seger']",10.0,10.0
-1987-02-11,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mr. Johnson', 'Mr. Melzer', 'Mr. Morris', 'Ms. Seger', 'Mr. Keehn']",10.0,10.0
-1987-03-31,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Seger', 'Mr. Stern']",10.0,10.0
-1987-05-19,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Ms. Seger', 'Mr. Stern']",10.0,10.0
-1987-07-07,"['Mr. Volcker', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1987-08-18,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1987-09-22,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1987-11-03,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1987-12-16,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1988-01-05,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1988-02-10,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1988-03-29,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Heller', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. Parry', 'Ms. Seger']",11.0,11.0
+1988-03-29,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black' , 'Mr. Forrestal' , 'Mr. Heller' , 'Mr. Hoskins', 'Mr. Johnson' , 'Mr. Kelley', 'Mr. Parry' , 'Mr. Seger']",,
 1988-05-17,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Heller', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. Parry', 'Ms. Seger']",11.0,11.0
 1988-06-30,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Heller', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. Parry', 'Ms. Seger']",11.0,11.0
 1988-08-16,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Heller', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. LaWare', 'Mr. Parry', 'Ms. Seger']",11.0,11.0
@@ -85,7 +11,7 @@ Date,Voters,voters_expected,voters_observed
 1989-02-08,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black' , 'Mr. Forrestal' , 'Mr. Heller' , 'Mr. Hoskins', 'Mr. Johnson' , 'Mr. Kelley', 'Mr. LaWare', 'Mr. Parry' , 'Mr. Seger']",,
 1989-03-28,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Ms. Seger', 'Mr. Syron']",12.0,12.0
 1989-05-16,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Heller', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Ms. Seger', 'Mr. Syron']",12.0,12.0
-1989-07-06,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey' , 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Mr. Seger', 'Mr. Syron']",,
+1989-07-06,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Johnson' , 'Mr. Keehn',  'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Mr. Seger', 'Mr. Syron']",,
 1989-08-22,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Ms. Seger', 'Mr. Syron']",11.0,11.0
 1989-10-03,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Ms. Seger', 'Mr. Syron']",11.0,11.0
 1989-11-14,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Guffey', 'Mr. Johnson', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Melzer', 'Ms. Seger', 'Mr. Syron']",11.0,11.0
@@ -93,7 +19,7 @@ Date,Voters,voters_expected,voters_observed
 1990-02-07,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. LaWare', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1990-03-27,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. LaWare', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1990-05-15,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Johnson', 'Mr. Kelley', 'Mr. LaWare', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
-1990-07-03,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne' , 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Mr. Seger', 'Mr. Stern']",,
+1990-07-03,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin' , 'Mr. Hoskins',  'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Mr. Seger', 'Mr. Stern']",,
 1990-08-21,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1990-10-02,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
 1990-11-13,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Boykin', 'Mr. Hoskins', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Mullins', 'Ms. Seger', 'Mr. Stern']",11.0,11.0
@@ -108,18 +34,18 @@ Date,Voters,voters_expected,voters_observed
 1991-12-17,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Black', 'Mr. Forrestal', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Mullins', 'Mr. Parry', 'Ms. Phillips']",12.0,12.0
 1992-02-05,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hendricks', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1992-03-31,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
-1992-05-19,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
+1992-05-19,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan' , 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Mr. Phillips', 'Mr. Syron']",,
 1992-07-01,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1992-08-18,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1992-10-06,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1992-11-17,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1992-12-22,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Syron']",12.0,12.0
 1993-02-03,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
-1993-03-23,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips']",12.0,12.0
+1993-03-23,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
 1993-05-18,"['Mr. Greenspan', 'Mr. Corrigan', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
 1993-07-07,"['Mr. Greenspan', 'Mr. Mullins', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Oltman', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
 1993-08-17,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
-1993-09-21,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
+1993-09-21,"['Mr. Fisher', 'Ms. White', 'Mr. Prell', 'Mr. Truman', 'Mr. Kohn', 'Mr. Greenspan', 'Mr. McDonough', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare']",12.0,12.0
 1993-11-16,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
 1993-12-21,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Angell', 'Mr. Boehne', 'Mr. Keehn', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Mullins', 'Ms. Phillips', 'Mr. Stern']",12.0,12.0
 1994-02-04,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips']",10.0,10.0
@@ -129,37 +55,37 @@ Date,Voters,voters_expected,voters_observed
 1994-08-16,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",12.0,12.0
 1994-09-27,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",12.0,12.0
 1994-11-15,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",12.0,12.0
-1994-12-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",12.0,12.0
-1995-02-01,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",12.0,12.0
-1995-03-28,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Mr. Kohn']",11.0,11.0
+1994-12-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Broaddus', 'Mr. Forrestal', 'Mr. Jordan', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Parry', 'Ms. Phillips', 'Ms. Yellen']",,
+1995-02-01,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. LaWare', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
+1995-03-28,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
 1995-05-23,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
-1995-07-06,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
+1995-07-06,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
 1995-08-22,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
 1995-09-26,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
 1995-11-15,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
-1995-12-19,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",11.0,11.0
+1995-12-19,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Blinder', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. Melzer', 'Ms. Minehan', 'Mr. Moskow', 'Ms. Phillips', 'Ms. Yellen']",,
 1996-01-31,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Ms. Phillips', 'Mr. Stern', 'Ms. Yellen']",10.0,10.0
 1996-03-26,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Ms. Phillips', 'Mr. Stern', 'Ms. Yellen']",10.0,10.0
 1996-05-21,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Ms. Phillips', 'Mr. Stern', 'Ms. Yellen']",10.0,10.0
 1996-07-03,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Meyer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen']",12.0,12.0
-1996-08-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Meyer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen']",12.0,12.0
-1996-09-24,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Meyer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen']",12.0,12.0
+1996-08-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen', 'Ms. Minehan']",12.0,12.0
+1996-09-24,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen', 'Ms. Minehan']",12.0,12.0
 1996-11-13,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Meyer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen']",12.0,12.0
 1996-12-17,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Lindsey', 'Mr. McTeer', 'Mr. Meyer', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Stern', 'Ms. Yellen']",12.0,12.0
 1997-02-05,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Moskow', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
-1997-03-25,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Moskow', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
-1997-05-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Moskow', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
+1997-03-25,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
+1997-05-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
 1997-07-02,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
 1997-08-19,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
 1997-09-30,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",10.0,10.0
-1997-11-12,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",12.0,12.0
+1997-11-12,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Moskow', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",12.0,12.0
 1997-12-16,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Moskow', 'Mr. Meyer', 'Mr. Parry', 'Ms. Phillips', 'Ms. Rivlin']",12.0,12.0
 1998-02-04,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Ms. Phillips', 'Ms. Rivlin', 'Mr. Kohn']",12.0,12.0
 1998-03-31,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Ms. Phillips', 'Mr. Poole', 'Ms. Rivlin']",12.0,12.0
 1998-05-19,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Ms. Phillips', 'Mr. Poole', 'Ms. Rivlin']",12.0,12.0
 1998-07-01,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
 1998-08-18,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
-1998-09-29,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
+1998-09-29,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Hoenig', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
 1998-11-17,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
 1998-12-22,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Poole', 'Ms. Rivlin']",11.0,11.0
 1999-02-03,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Boehne', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Kelley', 'Mr. McTeer', 'Mr. Meyer', 'Mr. Moskow', 'Ms. Rivlin', 'Mr. Stern']",11.0,11.0
@@ -178,11 +104,14 @@ Date,Voters,voters_expected,voters_observed
 2000-10-03,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Parry']",10.0,10.0
 2000-11-15,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Parry', 'Mr. Hoenig']",10.0,10.0
 2000-12-19,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Broaddus', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Guynn', 'Mr. Jordan', 'Mr. Kelley', 'Mr. Meyer', 'Mr. Parry']",10.0,10.0
+2001-01-03,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-01-31,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-03-20,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
+2001-04-18,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-05-15,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-06-27,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-08-21,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
+2001-09-17,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-10-02,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-11-06,"['Mr. Greenspan', 'Mr. McDonough', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kelley', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Poole']",10.0,10.0
 2001-12-11,"['Mr. Greenspan', 'Mr. McDonough', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Meyer', 'Ms. Minehan', 'Mr. Moskow', 'Mr. Olson', 'Mr. Poole']",11.0,11.0
@@ -211,7 +140,7 @@ Date,Voters,voters_expected,voters_observed
 2004-11-10,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kohn', 'Ms. Minehan', 'Mr. Olson', 'Ms. Pianalto', 'Mr. Poole']",12.0,12.0
 2004-12-14,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Hoenig', 'Mr. Kohn', 'Ms. Minehan', 'Mr. Olson', 'Ms. Pianalto', 'Mr. Poole']",12.0,12.0
 2005-02-02,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern', 'Mr. Hoenig']",12.0,12.0
-2005-03-22,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern', 'Ms. Cumming']",12.0,12.0
+2005-03-22,"['Mr. Greenspan', 'Mr. Geithner', 'Mr. Bernanke', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern', 'Mr. Guynn']",,
 2005-05-03,"['Mr. Greenspan', 'Mr. Geithner', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Fisher', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern']",11.0,11.0
 2005-06-30,"['Mr. Greenspan', 'Mr. Geithner', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Fisher', 'Mr. Gramlich', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern']",11.0,11.0
 2005-08-09,"['Mr. Greenspan', 'Mr. Geithner', 'Ms. Bies', 'Mr. Ferguson', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Moskow', 'Mr. Olson', 'Mr. Santomero', 'Mr. Stern']",10.0,10.0
@@ -225,28 +154,30 @@ Date,Voters,voters_expected,voters_observed
 2006-08-08,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Guynn', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
 2006-09-20,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Guynn', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen']",11.0,11.0
 2006-10-25,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen', 'Mr. Hoenig']",11.0,11.0
-2006-12-12,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen', 'Ms. Cumming']",11.0,11.0
+2006-12-12,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Lacker', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Warsh', 'Ms. Yellen', 'Mr. Poole']",,
 2007-01-31,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Bies', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",11.0,11.0
 2007-03-21,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",10.0,10.0
 2007-05-09,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",10.0,10.0
-2007-06-28,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",10.0,10.0
-2007-08-07,"['Mr. Bernanke', 'Ms. Cumming', 'Ms. Yellen', 'Ms. Liang', 'Mr. Blanchard', 'Mr. Meyer', 'Ms. Dykes', 'Mr. Luecke', 'Mr. Driscoll', 'Ms. Low']",10.0,10.0
+2007-06-28,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Minehan', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Warsh']",,
+2007-08-07,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Mr. Moskow', 'Mr. Poole', 'Mr. Rosengren', 'Mr. Warsh']",10.0,10.0
 2007-09-18,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Evans', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Mr. Poole', 'Mr. Rosengren', 'Mr. Warsh']",10.0,10.0
-2007-10-31,"['Mr. Bernanke', 'Ms. Cumming', 'Ms. Yellen', 'Mr. Madigan', 'Mr. Dudley', 'Mr. Struckmeyer', 'Mr. English', 'Mr. Wright', 'Mr. Zakraj', 'Mr. Blanchard']",10.0,10.0
+2007-10-31,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Evans', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Mr. Poole', 'Mr. Rosengren', 'Mr. Warsh']",10.0,10.0
 2007-12-11,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Evans', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Mr. Poole', 'Mr. Rosengren', 'Mr. Warsh']",10.0,10.0
-2008-01-30,"['Mr. Bernanke', 'Ms. Yellen', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Mr. Struckmeyer', 'Mr. Parkinson', 'Mr. Clouse', 'Ms. Liang', 'Ms. Barger']",10.0,10.0
-2008-03-18,"['Mr. Bernanke', 'Ms. Yellen', 'Mr. Sapenaro', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Mr. Struckmeyer', 'Mr. Parkinson', 'Ms. Bailey', 'Mr. Clouse']",10.0,10.0
-2008-04-30,"['Mr. Bernanke', 'Ms. Cumming', 'Mr. Lyon', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Ms. J', 'Ms. Roseman', 'Mr. Struckmeyer', 'Mr. Blanchard']",10.0,10.0
-2008-06-25,"['Mr. Bernanke', 'Ms. Cumming', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Ms. J', 'Mr. Cole', 'Mr. Struckmeyer', 'Mr. Blanchard', 'Mr. Frierson']",10.0,10.0
+2008-01-21,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Evans', 'Mr. Hoenig', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Poole', 'Mr. Rosengren', 'Mr. Warsh']",9.0,9.0
+2008-01-30,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
+2008-03-18,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
+2008-04-30,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
+2008-06-25,"['Mr. Bernanke', 'Mr. Geithner', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
 2008-08-05,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Duke', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Mr. Mishkin', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",11.0,11.0
 2008-09-16,"['Mr. Bernanke', 'Ms. Duke', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh', 'Ms. Cumming']",10.0,10.0
-2008-10-29,"['Mr. Bernanke', 'Ms. Cumming', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Ms. Bailey', 'Mr. Clouse', 'Mr. Struckmeyer', 'Mr. Blanchard', 'Ms. Kole']",10.0,10.0
-2008-12-16,"['Mr. Bernanke', 'Ms. Cumming', 'Mr. Madigan', 'Ms. Mester', 'Mr. Dudley', 'Mr. Cole', 'Ms. Johnson', 'Mr. Struckmeyer', 'Mr. Blanchard', 'Mr. Frierson']",10.0,10.0
-2009-01-28,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Madigan', 'Ms. Mosser', 'Ms. Johnson', 'Mr. Frierson', 'Mr. Struckmeyer', 'Ms. Bailey', 'Mr. English']",9.0,9.0
-2009-03-18,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Madigan', 'Ms. Mosser', 'Ms. Johnson', 'Mr. Frierson', 'Mr. Struckmeyer', 'Ms. Bailey', 'Mr. Blanchard', 'Mr. Gagnon']",10.0,10.0
-2009-04-29,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Madigan', 'Ms. Mosser', 'Ms. Johnson', 'Mr. Frierson', 'Ms. Barger', 'Mr. Blanchard', 'Mr. Meyer', 'Mr. Carpenter']",10.0,10.0
-2009-06-24,"['Mr. Bernanke', 'Ms. Pianalto', 'Mr. Madigan', 'Mr. Sack', 'Ms. Johnson', 'Mr. Frierson', 'Mr. Struckmeyer', 'Mr. English', 'Mr. Blanchard', 'Mr. Gagnon']",10.0,10.0
-2009-08-12,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Madigan', 'Mr. Sack', 'Ms. Johnson', 'Ms. George', 'Mr. Frierson', 'Mr. Struckmeyer', 'Mr. English', 'Ms. Robertson']",10.0,10.0
-2009-09-23,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Lyon', 'Mr. Madigan', 'Mr. Sack', 'Ms. Johnson', 'Mr. Struckmeyer', 'Ms. Barger', 'Ms. Robertson', 'Ms. Edwards']",10.0,10.0
-2009-11-04,"['Mr. Bernanke', 'Mr. Bullard', 'Mr. Madigan', 'Mr. Sack', 'Ms. Johnson', 'Mr. Frierson', 'Mr. Struckmeyer', 'Mr. English', 'Ms. Robertson', 'Ms. Edwards']",10.0,10.0
+2008-10-07,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Duke', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
+2008-10-29,"['Mr. Bernanke', 'Mr. Geithner', 'Ms. Duke', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh']",10.0,10.0
+2008-12-16,"['Mr. Bernanke', 'Ms. Duke', 'Mr. Fisher', 'Mr. Kohn', 'Mr. Kroszner', 'Ms. Pianalto', 'Mr. Plosser', 'Mr. Stern', 'Mr. Warsh', 'Ms. Cumming']",10.0,10.0
+2009-01-28,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Warsh', 'Ms. Yellen']",9.0,9.0
+2009-03-18,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
+2009-04-29,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
+2009-06-24,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
+2009-08-12,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
+2009-09-23,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
+2009-11-04,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0
 2009-12-16,"['Mr. Bernanke', 'Mr. Dudley', 'Ms. Duke', 'Mr. Evans', 'Mr. Kohn', 'Mr. Lacker', 'Mr. Lockhart', 'Mr. Tarullo', 'Mr. Warsh', 'Ms. Yellen']",10.0,10.0

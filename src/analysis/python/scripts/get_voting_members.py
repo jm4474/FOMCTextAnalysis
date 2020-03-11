@@ -33,7 +33,7 @@ def get_voters():
     for index,row in df.iterrows():
         voters = []
         num_voters = int(row['FOMC Votes'])
-        date_path = '../../../collection/python/data/minutes_raw_text/{}.txt'.format(row['Date'])
+        date_path = '../../../collection/python/data/transcript_raw_text/{}.txt'.format(row['Date'])
         if not os.path.exists(date_path):
             print("Date not found")
             date_path = '../../../collection/python/data/transcript_raw_text/{}.txt'.format(row['start_date'])
@@ -130,21 +130,26 @@ def merge_error_correction(voter_df):
     voter_df['Date'] = pd.to_datetime(voter_df['Date'])
     voter_df = pd.concat([voter_df,correction_df])
     voter_df = voter_df.drop_duplicates(['Date'], keep="last").sort_values(by="Date")
-    voter_df = voter_df[(voter_df['Date'].dt.year>1979)&(voter_df['Date'].dt.year<2010)]
+    voter_df = voter_df[(voter_df['Date'].dt.year>1987)&(voter_df['Date'].dt.year<2010)]
     voter_df.to_csv("../output/voting_members.csv",index=False)
 
 def merge_voting_members_with_alternatives():
     voting_df = pd.read_csv("../output/voting_members.csv")
     alt_df = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
-    voting_df['date'] = pd.to_datetime(voting_df['Date'])
-    alt_df['date'] = pd.to_datetime(alt_df['date'])
-    merge_df = pd.merge(alt_df,voting_df,on="date")
+
+    alt_df['date'] = pd.to_datetime(alt_df['date']).dt.date
+    
+    merge_df = pd.merge(alt_df,voting_df,left_on="date",right_on="Date",how="outer")
     
     excel_df = pd.read_excel("../data/fomc_dissents_data.xlsx",skiprows=3)
-    excel_df["Date"] = excel_df["FOMC Meeting"].apply(lambda x:str(x).split(" ")[0])
     excel_df['FOMC Votes'] = excel_df['FOMC Votes'].apply(lambda x:0 if np.isnan(x) else x)
-    excel_df['date'] = pd.to_datetime(excel_df["Date"])
-    merge_df = pd.merge(merge_df,excel_df)
+    excel_df['date'] = excel_df["FOMC Meeting"].dt.date
+    excel_df = excel_df[~excel_df["Chair"].isna()]
+    merge_df = merge_df.merge(excel_df,left_on="date",right_on="date",how="outer")
+    
+    
+    
+    
     merge_df = merge_df[[
         'date', 'alt a corpus', 'bluebook_treatment_size_alt_a', 'alt b corpus',
        'bluebook_treatment_size_alt_b', 'alt c corpus',
@@ -158,7 +163,7 @@ def merge_voting_members_with_alternatives():
        'Dissenters Tighter', 'Dissenters Easier',
        'Dissenters Other/Indeterminate'
     ]]
-    merge_df = merge_df[(merge_df['date'].dt.year>1979)&(merge_df['date'].dt.year<2010)]
+    merge_df = merge_df[(pd.to_datetime(merge_df['date']).dt.year>=1988)&(pd.to_datetime(merge_df['date']).dt.year<2010)]
     merge_df.to_csv("../output/alternatives_corpus_and_voting_information.csv",index=False)
 
 if __name__ == "__main__":
