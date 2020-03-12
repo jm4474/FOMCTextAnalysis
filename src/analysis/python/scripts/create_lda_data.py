@@ -93,18 +93,35 @@ def main():
     
     dataout = clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     
+        
     return dataout
 
 
-
 # =============================================================================
-# ### Do a variety of checks on the data
+# # ### Do a variety of checks on the data
+# 
 # data = main()
 # num = len(data.loc[data["d_alt"]==1,'start_date'].unique())
 # print(f"Alternative dates: {num} of 168")
 # 
+# num = len(data.loc[(data["d_alt"]==0) & (data["votingmember"]==1) ,'start_date'].unique())
+# print(f"Dates with votes: {num} of 174")
+#  
 # num =len(data.loc[(data["d_alt"]==0) & (data["votingmember"]==1)])
 # print(f"Votes: {num} out of 1905")
+#  
+# # Check the number of dissents tighter
+# num =len(data.loc[(data["d_alt"]==0) & (data["tighterdiss"]==1)])
+# print(f"Dissent tighter: {num} out of 57")
+# 
+# # Check the number of dissents easier
+# num =len(data.loc[(data["d_alt"]==0) & (data["easierdiss"]==1)])
+# print(f"Dissent tighter: {num} out of 23")
+# 
+# # Check the number of dissents easier
+# num =len(data.loc[(data["d_alt"]==0) & (data["ambdiss"]==1)])
+# print(f"Dissent tighter: {num} out of 14")
+# 
 # 
 # # Check for the missing votes
 # new = data.loc[(data["d_alt"]==0) & (data["votingmember"]==1)].pivot_table(index="end_date",values="votingmember",aggfunc=sum).reset_index()
@@ -119,10 +136,9 @@ def main():
 # check = data[data['end_date']=="2007-06-28"]
 # ## All of the missing votes are on 01/05/1988: Voters don't have interjections. 
 # ## This is a date without bluebooks. Hence voting record is complete.
-# 
-# 
+#  
+#  
 # =============================================================================
-
 
 
 

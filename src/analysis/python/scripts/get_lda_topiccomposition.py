@@ -138,6 +138,7 @@ def output_plot(date,data):
 pd.set_option('mode.chained_assignment', None)
     # Import data
 data = create_lda_data.main()
+data.rename(columns={"start_date":"date"},inplace=True)
 
 len(data[data['votingmember']==1])
 
@@ -163,7 +164,7 @@ print("Number of words for the alternatives is: %s" % len(" ".join(data_alternat
 ## Speakers have roughly 10x the number of words
 
     # Subsample the speakers -- only to learn the model
-data_speakers_subsample = data_speakers.sample(frac =.5 ,random_state=5) 
+data_speakers_subsample = data_speakers.sample(frac =.1 ,random_state=5) 
 print("Number of words for the subsample of speakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
 
 data_sel = pd.concat([data_speakers_subsample,data_alternatives],axis=0, join='inner')
@@ -268,20 +269,8 @@ for i, row in dataexamplealt.iterrows():
     plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='r')
     plt.text(row['PCI1'],row['PCI2'], row["date"])
 
-        
 plt.title( f'History {speaker}')
 plt.savefig(f'../output/fig_history_{speaker}')
-
-
-
-
-
-
-
-
-
-
-
 
 
 
