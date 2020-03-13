@@ -9,7 +9,7 @@ and the corresponding corpus. This fills in the deviations in the
 import pandas as pd
 import os
 import re
-
+import numpy as np
 # =============================================================================
 #     # what is the bluebook count in the period
 #     
@@ -137,7 +137,23 @@ fillin_df['start_date']=pd.to_datetime(fillin_df['start_date'] )
 all_df = pd.concat([merge_df,fillin_df],join="inner",axis=0,ignore_index=True)
 
 all_df.sort_values(by="date",inplace=True)
+
+all_df = all_df.reset_index()
+for alt in ['a','b','c','d']:
+    all_df[f"bluebook_treatment_size_alt_{alt}"] = pd.to_numeric(all_df[f"bluebook_treatment_size_alt_{alt}"], errors='coerce')
+    # Create tie breaker    
+    all_df[f"d{alt}"] = pd.DataFrame(np.divide((np.sign(all_df['decision'].values) == np.sign(all_df[f"bluebook_treatment_size_alt_{alt}"].values)).astype(int), 100))    
+for alt in ['a','b','c','d']:    
+    all_df[f"alt{alt}"] = pd.DataFrame(np.abs(all_df['decision'].values - all_df[f"bluebook_treatment_size_alt_{alt}"].values) - all_df[f"d{alt}"].values)
+
+col_alts = [col for col in all_df.columns if re.match("^alt[a-d]",col)]
+all_df["act_vote"] = all_df[col_alts].idxmin(axis=1)
+all_df.loc[all_df['date']=="2008-12-16" , "act_vote"]="alta"
+
+
+
 all_df.to_csv("../output/alternative_outcomes_and_corpus.csv")
+
 
 # =============================================================================
 # 
