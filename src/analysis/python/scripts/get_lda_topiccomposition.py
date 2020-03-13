@@ -22,11 +22,18 @@ import matplotlib.pyplot as plt
 import re
 
 import create_lda_data
+pd.set_option('mode.chained_assignment', None)
 
 ###############################################################################
 
 
 # Define functions
+    # Calculate Hellinger distance which is between 0 and 1.
+def hellinger(x,y,col_topics):
+    array1 = x[col_topics].values[0]
+    array2 = y[col_topics].values[0]
+    helpvar = np.sqrt(1 - np.sum(np.sqrt(np.multiply(array1,array2))))
+    return helpvar
 
 def extract_token(sentence):
     return simple_preprocess(str(sentence), deacc=True)
@@ -135,22 +142,16 @@ def output_plot(date,data):
 
 
 ###############################################################################
-pd.set_option('mode.chained_assignment', None)
+
     # Import data
 data = create_lda_data.main()
 data.rename(columns={"start_date":"date"},inplace=True)
-
-len(data[data['votingmember']==1])
-
 data.to_csv("../output/lda_dataset.csv",index=False)
-
-print("The total data length is: %s" % len(data))
 
     # Produce summary stats
 data['new']=1
 df_balt=data[data['d_alt']==1].pivot_table(index="date",values='new',aggfunc=np.sum).reset_index()
 df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','votingmember'],aggfunc=np.sum)
-#print(df_summary)
 
 ###############################################################################
     # Make a data selection and learn the model #
@@ -159,16 +160,23 @@ df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','voting
 data_speakers=data[data['votingmember']==1].merge(df_balt,on='date',how='inner')
 data_alternatives=data[data['d_alt']==1]
 
-print("Number of words for the speakers is: %s" % len(" ".join(data_speakers['content'].tolist())))
-print("Number of words for the alternatives is: %s" % len(" ".join(data_alternatives['content'].tolist())))
+print("Number of speaker dates: %d" % len(data_speakers['date'].unique()))
+print("Number of alternative dates: %d" % len(data_alternatives['date'].unique()))
+
+print("Number of words for the speakers is: %s million" % (len(" ".join(data_speakers['content'].tolist())) / 1e6))
+print("Number of words for the alternatives is: %s million" % (len(" ".join(data_alternatives['content'].tolist())) / 1e6 ))
 ## Speakers have roughly 10x the number of words
 
-    # Subsample the speakers -- only to learn the model
-data_speakers_subsample = data_speakers.sample(frac =.1 ,random_state=5) 
-print("Number of words for the subsample of speakers is: %s" % len(" ".join(data_speakers_subsample ['content'].tolist())))
+# =============================================================================
+#     # Subsample the speakers -- only to learn the model
+# data_speakers_subsample = data_speakers.sample(frac =.1 ,random_state=5) 
+# print("Number of words for the subsample of speakers is: %s" % (len(" ".join(data_speakers_subsample ['content'].tolist())) / 1e6))
+# data_sel = pd.concat([data_speakers_subsample,data_alternatives],axis=0, join='inner')
+# data_sel = data_sel.reset_index()
+# =============================================================================
 
-data_sel = pd.concat([data_speakers_subsample,data_alternatives],axis=0, join='inner')
-data_sel = data_sel.reset_index()
+    # Learn the model based only on basis of the alternatives
+data_sel = data_alternatives.reset_index()
 
     # Do simple preprocessing
 data_sel['parsed']=data_sel['content'].apply(extract_token)
@@ -176,7 +184,7 @@ data_sel['parsed']=data_sel['content'].apply(extract_token)
     # Revome stopwords and do stemming
 stopwordsnltk = stopwords.words('english')
 stopwordsnltk.extend(["mr","chairman","yes"])
-add_list = ["presid", "governor", "would","think","altern"]
+add_list = ["presid", "governor", "would","think","altern","could","committe","may"]
 data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: remove_stopwords(do_stemming(remove_stopwords(x,stopwordsnltk)),add_list))
 
     # Build corpus
@@ -185,26 +193,24 @@ for row_index,row in data_sel.iterrows():
     item=row['parsed_cleaned']
     texts.append(item)    
 
-# =============================================================================
-# new =[]
-# for el in texts:
-#     for ele in el:
-#         new.append(ele)
-# 
-# "altern" in new
-# =============================================================================
-
 dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
 
     # Do LDA
-num_topics = 15
-ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
+num_topics = 10
+ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.1)
 
+    # Inpect the topics
 x=ldamodel.show_topics(num_topics, num_words=10,formatted=False)
 topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
+for topic,words in topics_words:
+    print(str(topic)+ "::"+ str(words))
 
-#Below Code Prints Topics and Words
+ldamodel1 = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
+
+    # Inpect the topics
+x=ldamodel1.show_topics(num_topics, num_words=10,formatted=False)
+topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
 for topic,words in topics_words:
     print(str(topic)+ "::"+ str(words))
 
@@ -244,74 +250,105 @@ data_lda_pca = pd.concat([data_lda,df_pca],axis=1, join='inner')
     # Show a few examples
 data_lda_pca['date'].unique()
 
-for date in ['2005-05-03','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
+for date in ['1990-10-02','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
     #date='1991-10-01'
     dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
     #print(dataexample[["speaker"]+col_topics+['PCI1','PCI2']])
     output_plot(date,dataexample)
     
-    # Show the outcome for a specific speaker
-speaker ='greenspan'
-dataexample = data_lda_pca[data_lda_pca['speaker']=='alta']
-dataexamplealt = data_lda_pca[data_lda_pca['speaker']=='alta']
+pd.set_option('display.max_rows', 20)
+pd.set_option('display.max_columns', 20)
+data_lda_pca.sort_values(by="date",inplace=True)
+
+    # Compute the preferred alternative for each speaker and contrast it with the voting outcome
 
 
-data[(data['date']=='2007-09-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
-data[(data['date']=='2008-03-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
-data[(data['date']=='2004-05-04') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
-data[(data['date']=='1998-12-22') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
-
-plt.figure()
-for i, row in dataexample.iterrows():
-    plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='b')
-    plt.text(row['PCI1'],row['PCI2'], row["date"])
-for i, row in dataexamplealt.iterrows():
-    plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='r')
-    plt.text(row['PCI1'],row['PCI2'], row["date"])
-
-plt.title( f'History {speaker}')
-plt.savefig(f'../output/fig_history_{speaker}')
-
-
-
-    # Do a manual check
-pd.set_option('display.max_columns', 500)
-data_lda_pca[data_lda_pca['date']=='1993-05-18'][['speaker']+col_topics]
-newlist=data_lda_pca[(data_lda_pca['date']=='1993-05-18') & (data_lda_pca['d_alt']==1)]['parsed_cleaned'].tolist()[1]
+def create_distance(date,data):
+    emptylist=[]
+    for speaker in data.loc[(data['date']==date) & (data['votingmember']==1),"speaker"].to_list():
+        dic={'date':date,'speaker':speaker}
+        z=data[(data['date']==date) & (data['speaker']==speaker)]
+        #print(z)
+        for alt in ['a','b','c','d','e']:
+            zz=data[(data['date']==date) & (data['speaker']=='alt'+alt)]
+            #print(zz)
+            
+            if zz.index.empty or z.index.empty:
+                pass
+            else:
+                dist=hellinger(z,zz,col_topics)
+                dic.update({'alt'+alt:dist})
+        emptylist.append(dic)        
         
-corpus = [dictionary.doc2bow(newlist)]  
-sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
-#print(sent_topics_df)
+    distances = pd.DataFrame(emptylist)
+    return distances
 
-    # Calculate Bhattacharyya distance for Greenspan
-def bhattacharyya(x,y,col_topics):
-    array1 = x[col_topics].values[0]
-    array2 = y[col_topics].values[0]
-    helpvar = -np.log(np.sum(np.sqrt(np.multiply(array1,array2))))
-    return helpvar
+    # Individual date for all speakers
+date = '1990-10-02'
+pref_distance = create_distance(date,data_lda_pca)
 
-emptylist=[]
+col_alts = [ col for col in distances.columns if re.match("^alt",col)]
+distances["pred_vote"] = distances[col_alts].idxmin(axis=1)
+distances["act_vote"] = "alta"
+confusion_matrix = pd.crosstab(distances["act_vote"], distances["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
+print (confusion_matrix)
+
+    # All dates and all speakers 
+pref_distance = pd.DataFrame()
 for date in data_lda_pca['date'].unique():
-    dic={'date':date}
-    z=data_lda_pca[(data_lda_pca['date']==date) & (data_lda_pca['speaker']=="greenspan")]
-    #print(z)
-    for alt in ['a','b','c','d','e']:
-        zz=data_lda_pca[(data_lda_pca['date']==date) & (data_lda_pca['speaker']=='alt'+alt)]
-        #print(zz)
-        
-        if zz.index.empty or z.index.empty:
-            pass
-        else:
-            dist=bhattacharyya(z,zz,col_topics)
-            dic.update({'alt'+alt:dist})
-    emptylist.append(dic)        
+    help_df = create_distance(date,data_lda_pca)
+    pref_distance = pd.concat([pref_distance,help_df])    
+
+pref_distance["pred_vote"] = pref_distance[col_alts].idxmin(axis=1)
+pref_distance["act_vote"] = "alta"
+confusion_matrix = pd.crosstab(pref_distance["act_vote"], pref_distance["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
+print (confusion_matrix)
     
-chairman = pd.DataFrame(emptylist)
-chairman["newdate"]=pd.to_datetime(chairman['date'])
+    # Greenspan
+pref_distance = pd.DataFrame()
+for date in data_lda_pca['date'].unique():
+    help_df = create_distance(date,data_lda_pca[(data_lda_pca['speaker']=="greenspan") | (data_lda_pca['d_alt']==1)])
+    pref_distance = pd.concat([pref_distance,help_df])   
+    
+pref_distance["newdate"]=pd.to_datetime(pref_distance['date'])
     
 plt.rcParams["figure.figsize"] = [15, 8]
-chairman.plot(x='newdate', y=['alta','altb','altc'], style=".",title="Bhattacharyya distance Greenspan")
+pref_distance.plot(x='newdate', y=['alta','altb','altc'], style=".",title="Hellinger distance Greenspan")
 plt.savefig('../output/distance_greenspan.pdf')
 
 
 
+# =============================================================================
+#     # Show the outcome for a specific speaker
+# speaker ='greenspan'
+# dataexample = data_lda_pca[data_lda_pca['speaker']=='alta']
+# dataexamplealt = data_lda_pca[data_lda_pca['speaker']=='alta']
+# 
+# 
+# data[(data['date']=='2007-09-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+# data[(data['date']=='2008-03-18') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+# data[(data['date']=='2004-05-04') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+# data[(data['date']=='1998-12-22') & (data['speaker']=='alta') ]['parsed_cleaned'].tolist()
+# 
+# plt.figure()
+# for i, row in dataexample.iterrows():
+#     plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='b')
+#     plt.text(row['PCI1'],row['PCI2'], row["date"])
+# for i, row in dataexamplealt.iterrows():
+#     plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='r')
+#     plt.text(row['PCI1'],row['PCI2'], row["date"])
+# 
+# plt.title( f'History {speaker}')
+# plt.savefig(f'../output/fig_history_{speaker}')
+# 
+# =============================================================================
+# =============================================================================
+#     # Do a manual check
+# pd.set_option('display.max_columns', 500)
+# data_lda_pca[data_lda_pca['date']=='1993-05-18'][['speaker']+col_topics]
+# newlist=data_lda_pca[(data_lda_pca['date']=='1993-05-18') & (data_lda_pca['d_alt']==1)]['parsed_cleaned'].tolist()[1]
+#         
+# corpus = [dictionary.doc2bow(newlist)]  
+# sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
+# 
+# =============================================================================

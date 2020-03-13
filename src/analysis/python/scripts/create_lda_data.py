@@ -101,6 +101,8 @@ def main():
 # # ### Do a variety of checks on the data
 # 
 # data = main()
+# print("The total data length is: %s" % len(data))   
+#
 # num = len(data.loc[data["d_alt"]==1,'start_date'].unique())
 # print(f"Alternative dates: {num} of 168")
 # 
@@ -136,7 +138,10 @@ def main():
 # check = data[data['end_date']=="2007-06-28"]
 # ## All of the missing votes are on 01/05/1988: Voters don't have interjections. 
 # ## This is a date without bluebooks. Hence voting record is complete.
-#  
+#
+# data['new']=1
+# df_balt=data[data['d_alt']==1].pivot_table(index="date",values='new',aggfunc=np.sum).reset_index()
+# df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','votingmember'],aggfunc=np.sum)
 #  
 # =============================================================================
 
