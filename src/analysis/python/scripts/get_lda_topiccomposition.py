@@ -140,6 +140,25 @@ def output_plot(date,data):
     plt.title('Example %s' %date )
     plt.savefig('../output/example_%s.pdf'%date)
 
+def create_distance(date,data):
+    emptylist=[]
+    for speaker in data.loc[(data['date']==date) & (data['votingmember']==1),"speaker"].to_list():
+        dic={'date':date,'speaker':speaker}
+        z=data[(data['date']==date) & (data['speaker']==speaker)]
+        #print(z)
+        for alt in ['a','b','c','d','e']:
+            zz=data[(data['date']==date) & (data['speaker']=='alt'+alt)]
+            #print(zz)
+            
+            if zz.index.empty or z.index.empty:
+                pass
+            else:
+                dist=hellinger(z,zz,col_topics)
+                dic.update({'alt'+alt:dist})
+        emptylist.append(dic)        
+        
+    distances = pd.DataFrame(emptylist)
+    return distances
 
 ###############################################################################
 
@@ -160,6 +179,7 @@ df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','voting
 data_speakers=data[data['votingmember']==1].merge(df_balt,on='date',how='inner')
 data_alternatives=data[data['d_alt']==1]
 
+print("### SUMMARY STATISTICS ###\n")
 print("Number of speaker dates: %d" % len(data_speakers['date'].unique()))
 print("Number of alternative dates: %d" % len(data_alternatives['date'].unique()))
 
@@ -176,6 +196,7 @@ print("Number of words for the alternatives is: %s million" % (len(" ".join(data
 # =============================================================================
 
     # Learn the model based only on basis of the alternatives
+print("\n### MODEL ESTIMATION - ALTERNATIVES ONLY ###\n")
 data_sel = data_alternatives.reset_index()
 
     # Do simple preprocessing
@@ -197,23 +218,32 @@ dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
 
     # Do LDA
+
 num_topics = 10
-ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.1)
+eta_p = 0.1
+rnd_state = 5
+print(f"# Model parameter: Number of topics = {num_topics}, eta = {eta_p}, random state = {rnd_state}\n")
+ldamodel = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=eta_p ,random_state=rnd_state)
 
     # Inpect the topics
 x=ldamodel.show_topics(num_topics, num_words=10,formatted=False)
 topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
+
+print("# These are the topic distributions for the estimated model:\n")
 for topic,words in topics_words:
     print(str(topic)+ "::"+ str(words))
 
-ldamodel1 = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
 
-    # Inpect the topics
-x=ldamodel1.show_topics(num_topics, num_words=10,formatted=False)
-topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
-for topic,words in topics_words:
-    print(str(topic)+ "::"+ str(words))
-
+# =============================================================================
+# ldamodel1 = models.ldamodel.LdaModel(corpus, num_topics, id2word = dictionary, passes=20,eta=0.01)
+# 
+#     # Inpect the topics
+# x=ldamodel1.show_topics(num_topics, num_words=10,formatted=False)
+# topics_words = [(tp[0], [wd[0] for wd in tp[1]]) for tp in x]
+# for topic,words in topics_words:
+#     print(str(topic)+ "::"+ str(words))
+# 
+# =============================================================================
 
 ###############################################################################
 
@@ -240,6 +270,7 @@ sent_topics_df = extract_vectors(ldamodel,num_topics,corpus)
 data_lda =  pd.concat([data,sent_topics_df],axis=1, join='inner')
 
     # Apply SVD for dimensionality reduction
+print("\n### DIMENSIONALITY REDUCTION FOR VISUAL OUTPUT ###\n")
 col_topics = [ col for col in data_lda.columns if re.match("^topic",col)]
 dfvalues=data_lda[col_topics].values
 twodim = reduce_to_k_dim(dfvalues)
@@ -247,8 +278,35 @@ df_pca=pd.DataFrame(twodim)
 df_pca.rename(columns={0:'PCI1',1:'PCI2'},inplace=True)
 data_lda_pca = pd.concat([data_lda,df_pca],axis=1, join='inner')
 
+
+### Compute the preferred alternative for each speaker and contrast it with the voting outcome
+
+    # Individual date for all speakers
+date = '1990-10-02'
+print(F"\n### CONFUSION MATRIX FOR {date} - HELLINGER DISTANCE ###\n")
+pref_distance = create_distance(date,data_lda_pca)
+
+col_alts = [ col for col in pref_distance.columns if re.match("^alt",col)]
+pref_distance["pred_vote"] = pref_distance[col_alts].idxmin(axis=1)
+pref_distance = pref_distance.merge(data_lda_pca[['date','speaker','act_vote']],on=['speaker','date'])
+confusion_matrix = pd.crosstab(pref_distance["act_vote"], pref_distance["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
+print (confusion_matrix)
+
+    # All dates and all speakers 
+print("\n### CONFUSION MATRIX ALL DATA - HELLINGER DISTANCE ###\n")
+pref_distance = pd.DataFrame()
+for date in data_lda_pca['date'].unique():
+    help_df = create_distance(date,data_lda_pca)
+    pref_distance = pd.concat([pref_distance,help_df])    
+
+pref_distance["pred_vote"] = pref_distance[col_alts].idxmin(axis=1)
+pref_distance = pref_distance.merge(data_lda_pca[['date','speaker','act_vote']],on=['speaker','date'])
+confusion_matrix = pd.crosstab(pref_distance["act_vote"], pref_distance["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
+print (confusion_matrix)
+
+
     # Show a few examples
-data_lda_pca['date'].unique()
+print("\n### VISUAL OUTPUT ###\n")
 
 for date in ['1990-10-02','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
     #date='1991-10-01'
@@ -259,52 +317,9 @@ for date in ['1990-10-02','2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
 pd.set_option('display.max_rows', 20)
 pd.set_option('display.max_columns', 20)
 data_lda_pca.sort_values(by="date",inplace=True)
-
-    # Compute the preferred alternative for each speaker and contrast it with the voting outcome
-
-
-def create_distance(date,data):
-    emptylist=[]
-    for speaker in data.loc[(data['date']==date) & (data['votingmember']==1),"speaker"].to_list():
-        dic={'date':date,'speaker':speaker}
-        z=data[(data['date']==date) & (data['speaker']==speaker)]
-        #print(z)
-        for alt in ['a','b','c','d','e']:
-            zz=data[(data['date']==date) & (data['speaker']=='alt'+alt)]
-            #print(zz)
-            
-            if zz.index.empty or z.index.empty:
-                pass
-            else:
-                dist=hellinger(z,zz,col_topics)
-                dic.update({'alt'+alt:dist})
-        emptylist.append(dic)        
-        
-    distances = pd.DataFrame(emptylist)
-    return distances
-
-    # Individual date for all speakers
-date = '1990-10-02'
-pref_distance = create_distance(date,data_lda_pca)
-
-col_alts = [ col for col in distances.columns if re.match("^alt",col)]
-distances["pred_vote"] = distances[col_alts].idxmin(axis=1)
-distances["act_vote"] = "alta"
-confusion_matrix = pd.crosstab(distances["act_vote"], distances["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
-print (confusion_matrix)
-
-    # All dates and all speakers 
-pref_distance = pd.DataFrame()
-for date in data_lda_pca['date'].unique():
-    help_df = create_distance(date,data_lda_pca)
-    pref_distance = pd.concat([pref_distance,help_df])    
-
-pref_distance["pred_vote"] = pref_distance[col_alts].idxmin(axis=1)
-pref_distance["act_vote"] = "alta"
-confusion_matrix = pd.crosstab(pref_distance["act_vote"], pref_distance["pred_vote"], rownames=['Actual'], colnames=['Predicted'])
-print (confusion_matrix)
     
     # Greenspan
+print("\n### GREENSPAN - HELLINGER DISTANCE ###\n")
 pref_distance = pd.DataFrame()
 for date in data_lda_pca['date'].unique():
     help_df = create_distance(date,data_lda_pca[(data_lda_pca['speaker']=="greenspan") | (data_lda_pca['d_alt']==1)])

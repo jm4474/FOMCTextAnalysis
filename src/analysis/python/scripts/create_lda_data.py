@@ -20,7 +20,7 @@ import json
 ###############################################################################
 
 
-def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date):
+def clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,begin_date,end_date):
             # Alternatives
     alternatives = alternatives[["start_date","date","alt a corpus","alt b corpus","alt c corpus"]]
     names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc","date":"end_date"}
@@ -60,14 +60,24 @@ def clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
     data.drop(columns="Speaker",inplace=True)
     data.rename(columns={"Date":"date"},inplace=True)
     
+        # Merge alternative outcomes
+    data = data.merge(alternative_results,left_on = "end_date",right_on='date',how="left",indicator=True)
+    data.drop(columns=[ 'Unnamed: 0'],inplace=True)
+    
         # Merge voting record
-    data = data.merge(votingrecord,left_on=["speaker_id","end_date"],right_on=["speaker_id","date"],how="outer",indicator=True,sort=False)
+    data = data.merge(votingrecord,left_on=["speaker_id","end_date"],right_on=["speaker_id","date"],how="outer",indicator=False,sort=False)
     data.dropna(subset=["content"],inplace=True,axis=0)
     data.fillna(value={'votingmember':0, 'ambdiss':0,'tighterdiss':0, 'easierdiss':0},inplace=True)
-    data.drop(columns=["_merge","start_date","date_y"],inplace=True)
+    data.drop(columns=["start_date","date_y","date"],inplace=True)
     data.rename(columns={"date_x":"start_date"},inplace=True)
     
-    
+    data.loc[(data['votingmember']==1) & (data["_merge"]=='both') ,'act_vote'] = data.loc[(data['votingmember']==1) & (data["_merge"]=='both') ,'act_chosen']
+    data.loc[(data['votingmember']==1) & (data['tighterdiss']==1) & (data["_merge"]=='both'),'act_vote'] = data.loc[(data['votingmember']==1) & (data['tighterdiss']==1) & (data["_merge"]=='both'),'vote_tighter']
+    data.loc[(data['votingmember']==1) & (data['tighterdiss']==1) & (data['vote_tighter'].isna()) & (data["_merge"]=='both'),'act_vote'] = "tighterdiss"
+    data.loc[(data['votingmember']==1) & (data['easierdiss']==1) & (data["_merge"]=='both'),'act_vote'] = data.loc[(data['votingmember']==1) & (data['easierdiss']==1)& (data["_merge"]=='both'),'vote_easier']
+    data.loc[(data['votingmember']==1) & (data['easierdiss']==1) & (data['vote_easier'].isna()) & (data["_merge"]=='both'),'act_vote'] = "easierdiss"
+    data.loc[(data['votingmember']==1) & (data['ambdiss']==1) & (data["_merge"]=='both'),'act_vote'] = "ambdissent"
+    data.drop(columns = ["_merge"],inplace=True)
     
         # Contrain dataset
     newdata = data[(data["start_date"]>begin_date) & (data["start_date"]<end_date) ]
@@ -88,13 +98,18 @@ def main():
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
     
+    # Alternative results
+    alternative_results = pd.read_csv("../output/alternative_results.csv")
+    
     begin_date = "1988-01-01"
     end_date = "2008-12-31"
     
-    dataout = clean_data(alternatives,speakers,votingrecord,speakerid,begin_date,end_date)
+    dataout = clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,begin_date,end_date)
     
         
     return dataout
+
+
 
 
 # =============================================================================

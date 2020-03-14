@@ -138,6 +138,7 @@ all_df = pd.concat([merge_df,fillin_df],join="inner",axis=0,ignore_index=True)
 
 all_df.sort_values(by="date",inplace=True)
 
+    # Try to identify the alternative that has been chosen
 all_df = all_df.reset_index()
 for alt in ['a','b','c','d']:
     all_df[f"bluebook_treatment_size_alt_{alt}"] = pd.to_numeric(all_df[f"bluebook_treatment_size_alt_{alt}"], errors='coerce')
@@ -147,11 +148,32 @@ for alt in ['a','b','c','d']:
     all_df[f"alt{alt}"] = pd.DataFrame(np.abs(all_df['decision'].values - all_df[f"bluebook_treatment_size_alt_{alt}"].values) - all_df[f"d{alt}"].values)
 
 col_alts = [col for col in all_df.columns if re.match("^alt[a-d]",col)]
-all_df["act_vote"] = all_df[col_alts].idxmin(axis=1)
-all_df.loc[all_df['date']=="2008-12-16" , "act_vote"]="alta"
+all_df["act_chosen"] = all_df[col_alts].idxmin(axis=1)
+all_df.loc[all_df['date']=="2008-12-16" , "act_chosen"]="alta"
 
+    # Identify easier and tighter policy alternatives
+all_df["vote_tighter"]=np.nan
+all_df["vote_easier"]=np.nan
+for idx,row in all_df.iterrows():
+    ch_alt = row["act_chosen"][-1:]
+    treatment_size = row[f"bluebook_treatment_size_alt_{ch_alt}"] 
+       
+    easierlist=[]
+    tighterlist=[]
+    for alt in ['a','b','c','d']:
+        if row[f"bluebook_treatment_size_alt_{alt}"] < treatment_size:
+            easierlist.append(f"alt{alt}")        
+        if row[f"bluebook_treatment_size_alt_{alt}"] > treatment_size:
+            tighterlist.append(f"alt{alt}")        
+    
+    all_df.loc[idx,"vote_tighter"]=", ".join(tighterlist)
+    all_df.loc[idx,"vote_easier"]=", ".join(easierlist)
+    
 
+alternative_results = all_df[['date','act_chosen', 'vote_tighter', 'vote_easier']]
+all_df = all_df.drop(columns=['act_chosen', 'vote_tighter', 'vote_easier','da', 'db', 'dc', 'dd', 'alta', 'altb', 'altc', 'altd'])
 
+alternative_results.to_csv("../output/alternative_results.csv")
 all_df.to_csv("../output/alternative_outcomes_and_corpus.csv")
 
 
