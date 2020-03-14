@@ -1,0 +1,169 @@
+,date,act_chosen,vote_tighter,vote_easier
+0,1988-02-10,altb,altc,alta
+1,1988-03-29,altc,,"alta, altb"
+2,1988-05-17,altb,altc,alta
+3,1988-06-30,altb,altc,alta
+4,1988-08-16,altb,altc,
+5,1988-09-20,altb,altc,alta
+6,1988-11-01,altb,altc,alta
+7,1988-12-14,altc,,altb
+8,1989-02-08,altb,altc,
+9,1989-03-28,altb,altc,alta
+10,1989-05-16,altb,altc,alta
+11,1989-07-06,alta,"altb, altc",
+12,1989-08-22,altb,altc,alta
+13,1989-10-03,altb,altc,alta
+14,1989-11-14,altb,,alta
+15,1989-12-19,alta,"altb, altc",
+16,1990-02-07,altb,altc,alta
+17,1990-03-27,altb,altc,alta
+18,1990-05-15,altb,altc,alta
+19,1990-07-03,altb,altc,alta
+20,1990-08-21,altb,altc,alta
+21,1990-10-02,altb,altc,alta
+22,1990-11-13,alta,"altb, altc",
+23,1990-12-18,alta,altb,
+24,1991-02-06,altb,,alta
+25,1991-03-26,altb,altc,alta
+26,1991-05-14,altb,,alta
+27,1991-07-03,altb,altc,alta
+28,1991-08-20,altb,,alta
+29,1991-10-01,altb,,alta
+30,1991-11-05,alta,altb,
+31,1991-12-17,altb,,alta
+32,1992-02-05,altb,,alta
+33,1992-03-31,altb,altc,alta
+34,1992-05-19,altb,altc,alta
+35,1992-07-01,alta,"altb, altc",
+36,1992-08-18,altb,altc,alta
+37,1992-10-06,altb,,alta
+38,1992-11-17,altb,,alta
+39,1992-12-22,altb,altc,alta
+40,1993-02-03,altb,altc,alta
+41,1993-03-23,altb,altc,alta
+42,1993-05-18,altb,altc,alta
+43,1993-07-07,altb,altc,alta
+44,1993-08-17,altb,altc,alta
+45,1993-09-21,altb,altc,alta
+46,1993-11-16,altb,altc,alta
+47,1993-12-21,altb,altc,alta
+48,1994-02-04,altc,,"alta, altb"
+49,1994-03-22,altc,,altb
+50,1994-05-17,altd,,"altb, altc"
+51,1994-07-06,altb,"altc, altd",
+52,1994-08-16,altd,,"altb, altc"
+53,1994-09-27,altb,"altc, altd",
+54,1994-11-15,altc,,altb
+55,1994-12-20,altb,altc,
+56,1995-02-01,altc,,altb
+57,1995-03-28,altb,altc,alta
+58,1995-05-23,altb,altc,alta
+59,1995-07-06,alta,altb,
+60,1995-08-22,altb,altc,alta
+61,1995-09-26,altb,altc,alta
+62,1995-11-15,altb,altc,alta
+63,1995-12-19,alta,"altb, altc",
+64,1996-01-31,alta,"altb, altc",
+65,1996-03-26,altb,altc,alta
+66,1996-05-21,altb,altc,
+67,1996-07-03,altb,altc,
+68,1996-08-20,altb,altc,
+69,1996-09-24,altb,altc,
+70,1996-11-13,altb,altc,alta
+71,1996-12-17,altb,altc,alta
+72,1997-02-05,altb,altc,
+73,1997-03-25,altc,,altb
+74,1997-05-20,altb,altc,
+75,1997-07-02,altb,altc,
+76,1997-08-19,altb,altc,
+77,1997-09-30,altb,altc,
+78,1997-11-12,altb,altc,
+79,1997-12-16,altb,altc,alta
+80,1998-02-04,altb,,alta
+81,1998-03-31,altb,altc,alta
+82,1998-05-19,altb,altc,
+83,1998-07-01,altb,altc,
+84,1998-08-18,altb,altc,alta
+85,1998-09-29,alta,altb,
+86,1998-11-17,alta,altb,
+87,1998-12-22,altb,altc,alta
+88,1999-02-03,altb,altc,alta
+89,1999-03-30,altb,altc,
+90,1999-05-18,altb,altc,
+91,1999-06-30,altc,,altb
+92,1999-08-24,altc,,altb
+93,1999-10-05,altb,altc,
+94,1999-11-16,altc,,altb
+95,1999-12-21,altb,altc,
+96,2000-02-02,altc,altd,altb
+97,2000-03-21,altc,altd,altb
+98,2000-05-16,altd,,altc
+99,2000-06-28,altb,altc,
+100,2000-08-22,altb,altc,
+101,2000-10-03,altb,altc,
+102,2000-11-15,altb,altc,alta
+103,2000-12-19,altb,altc,alta
+104,2001-01-31,alta,"altb, altc",
+105,2001-03-20,alta,altc,altb
+106,2001-05-15,alta,altb,altc
+107,2001-06-27,altb,alta,altc
+108,2001-08-21,altb,alta,altc
+109,2001-10-02,altb,alta,
+110,2001-11-06,altc,"alta, altb",
+111,2001-12-11,altb,alta,altc
+112,2002-01-30,alta,,altb
+113,2002-03-19,alta,,altb
+114,2002-05-07,alta,altc,
+115,2002-06-26,alta,altc,altb
+116,2002-08-13,alta,,altc
+117,2002-09-24,alta,,altc
+118,2002-11-06,altc,"alta, altb",
+119,2002-12-10,alta,,altb
+120,2003-01-29,alta,,altb
+121,2003-03-18,alta,,"altb, altc"
+122,2003-05-06,alta,,altb
+123,2003-06-25,alta,altc,altb
+124,2003-08-12,alta,,altb
+125,2003-09-16,alta,,altb
+126,2003-10-28,alta,,altb
+127,2003-12-09,alta,,altb
+128,2004-01-28,alta,altc,altb
+129,2004-03-16,alta,,
+130,2004-05-04,alta,altc,
+131,2004-06-30,altb,altc,alta
+132,2004-08-10,altb,altc,alta
+133,2004-09-21,altb,,alta
+134,2004-11-10,altb,,alta
+135,2004-12-14,altb,,alta
+136,2005-02-02,altb,altc,alta
+137,2005-03-22,alta,altc,
+138,2005-05-03,alta,altc,
+139,2005-06-30,alta,altc,
+140,2005-08-09,alta,altc,
+141,2005-09-20,altb,,alta
+142,2005-11-01,altb,altc,alta
+143,2005-12-13,altb,,
+144,2006-01-31,alta,,
+145,2006-03-28,altb,,alta
+146,2006-05-10,altb,altc,alta
+147,2006-06-29,altb,altc,alta
+148,2006-08-08,alta,"altc, altd",
+149,2006-09-20,alta,altc,
+150,2006-10-25,alta,altc,
+151,2006-12-12,alta,altc,
+152,2007-01-31,alta,altc,
+153,2007-03-21,altb,altc,alta
+154,2007-05-09,altb,altc,alta
+155,2007-06-28,altb,altc,alta
+156,2007-08-07,altb,altc,alta
+157,2007-09-18,alta,"altc, altd",
+158,2007-10-31,alta,"altb, altc",
+159,2007-12-11,alta,altc,
+160,2008-01-30,altb,"altc, altd",alta
+161,2008-03-18,alta,"altb, altc, altd",
+162,2008-04-30,altb,altc,alta
+163,2008-06-25,altb,altc,alta
+164,2008-08-05,altb,altc,
+165,2008-09-16,alta,altc,
+166,2008-10-29,alta,"altb, altc",
+167,2008-12-16,alta,"altb, altc, altd",
