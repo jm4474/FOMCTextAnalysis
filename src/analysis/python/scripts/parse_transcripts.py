@@ -90,13 +90,13 @@ def name_corr(val):
     return val,sentence
 
 def get_speaker_statements():
-    base_directory = base_directory = "../../../../collection/python/data/transcript_raw_text"
+    base_directory = base_directory = "../../../collection/python/data/transcript_raw_text"
     raw_doc = os.listdir(base_directory)
     filelist = sorted(raw_doc)
     documents = []
-    if os.path.exists("../../output/speaker_data"):
-        shutil.rmtree("../../output/speaker_data")
-    os.mkdir("../../output/speaker_data")
+    if os.path.exists("../output/speaker_data"):
+        shutil.rmtree("../output/speaker_data")
+    os.mkdir("../output/speaker_data")
     
     for doc_path in filelist:
         with open("{}/{}".format(base_directory,doc_path),'r') as f:
@@ -154,16 +154,16 @@ def get_speaker_statements():
     #parsed_text['d_presence']=parsed_text['check']>7
     
      
-    parsed_text.to_csv("../../output/interjections.csv")
+    parsed_text.to_csv("../output/interjections.csv")
     
     speaker_statements = parsed_text.groupby(['Date','Speaker'])['content'].apply(lambda x: "%s" % " ".join(x))
     speaker_statements = speaker_statements.reset_index()
     
-    dates_df = pd.read_csv("../../../../collection/python/output/derived_data.csv")
+    dates_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
     speaker_statements = speaker_statements.merge(dates_df[["start_date","end_date"]].drop_duplicates(),left_on="Date",right_on="start_date",how="left")
         
-    speaker_statements.to_pickle("../../output/speaker_data/speaker_corpus.pkl")
-    speaker_statements.to_csv("../../output/speaker_data/speaker_corpus.csv")
+    speaker_statements.to_pickle("../output/speaker_data/speaker_corpus.pkl")
+    speaker_statements.to_csv("../output/speaker_data/speaker_corpus.csv")
     print("Completed generating speaker statements!")
     return speaker_statements
 
@@ -174,7 +174,7 @@ def get_speaker_corps(speaker_statements):
     for speaker in speakers:
         print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
         speaker_df = speaker_statements[speaker_statements["Speaker"]==speaker]
-        speaker_path = "{}/{}".format("../../output/speaker_data",speaker)
+        speaker_path = "{}/{}".format("../output/speaker_data",speaker)
         if not os.path.exists(speaker_path):
             os.mkdir(speaker_path)
         speaker_df[['Date','content']].to_csv("{}/{}_{}".format(speaker_path,speaker,"statements_by_meeting.csv"))
