@@ -204,15 +204,80 @@ data_sel['parsed']=data_sel['content'].apply(extract_token)
 
     # Revome stopwords and do stemming
 stopwordsnltk = stopwords.words('english')
-stopwordsnltk.extend(["mr","chairman","yes"])
+stopwordsnltk.extend(["mr","chairman","yes",'restrict', 'control'])
 add_list = ["presid", "governor", "would","think","altern","could","committe","may"]
-data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: remove_stopwords(do_stemming(remove_stopwords(x,stopwordsnltk)),add_list))
+data_sel['parsed_cleaned']=data_sel['parsed'].apply(lambda x: remove_stopwords(do_stemming(remove_stopwords(x,stopwordsnltk)),add_list+stopwordsnltk))
 
     # Build corpus
 texts=[]
 for row_index,row in data_sel.iterrows():
     item=row['parsed_cleaned']
     texts.append(item)    
+
+    # Add bigrams and trigrams
+from nltk.util import ngrams
+from collections import Counter    
+tokens =[]
+for text in texts:
+    for word in text:
+        tokens.append(word)
+        
+bi_grams = list(ngrams(tokens, 2)) 
+counter = Counter(bi_grams)
+counter.most_common(5)
+
+tri_grams = list(ngrams(tokens, 3)) 
+counter = Counter(tri_grams)
+counter.most_common(5)
+
+
+
+
+
+    # Plot TF-IDF figure to decide on the terms
+
+# Unique words
+unique_tokens =sorted(list(set(tokens)))
+
+
+n_v = np.zeros(len(unique_terms))
+d_v = np.zeros(len(unique_terms))
+d = len(texts)
+for idx,term in enumerate(unique_terms):
+    n_v[idx] =  emptylist.count(term) # total count of word
+    counter = 0
+    for text in texts:
+        if term in text:
+            counter+=1
+    d_v[idx] = counter
+
+tf = 1 + np.log(n_v)
+idf = np.log(d / d_v )
+
+tf_idf = np.multiply(tf,idf)
+
+tf_idf_sort =np.sort(tf_idf)
+tf_idf_invsort = tf_idf_sort[::-1]  
+
+plt.figure()
+plt.plot(np.arange(len(unique_terms)),tf_idf_invsort)
+plt.ylabel('Tf-idf weight')
+plt.xlabel('Rank of terms ordered by tf-idf')
+plt.savefig('../output/fig_alt_tfidf.pdf')
+
+# terms with the largest ranking
+nn=25
+indices = tf_idf.argsort()[-nn:][::-1]
+tfidf_top = tf_idf[indices]
+word_arr = np.asarray(unique_terms)
+word_top= word_arr[indices]
+
+for i in range(25):
+    print(f"{i} :: {word_top[i] } \t \t {tfidf_top[i]}")
+    
+    
+
+
 
 dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
