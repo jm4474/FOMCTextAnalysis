@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import os
 from bs4 import BeautifulSoup
-import regex as re
+import re
 
 def download(ftype):
     data_file_name = "../output/derived_data.csv"
