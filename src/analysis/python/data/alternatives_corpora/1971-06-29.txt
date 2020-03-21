@@ -161,3 +161,4 @@ c PAR 15 table 8 reserve absorbtion by type of deposit -- selected periods ( mil
 c PAR 15 1971 reserves absorbed by : eurodollars and commercial adjustment due to per cent of total reserve change absorbed by : eurodollars and commercial adjustment due to 1/ member bank borrowings from own foreign branches subject to regulation
 c PAR 15 m reserve requirements and commercial paper subject to regulation
 
+
