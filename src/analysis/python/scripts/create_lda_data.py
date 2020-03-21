@@ -22,8 +22,8 @@ import json
 
 def clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,begin_date,end_date):
             # Alternatives
-    alternatives = alternatives[["start_date","date","alt a corpus","alt b corpus","alt c corpus"]]
-    names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc","date":"end_date"}
+    alternatives = alternatives[["start_date","date","alt a corpus","alt b corpus","alt c corpus","alt d corpus"]]
+    names = {"alt a corpus":"corpus_alta","alt b corpus":"corpus_altb","alt c corpus":"corpus_altc","alt d corpus":"corpus_altd","date":"end_date"}
     alternatives.rename(columns=names,inplace=True)
     alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
     alts=alts.reset_index()
