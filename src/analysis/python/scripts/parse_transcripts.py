@@ -89,7 +89,7 @@ def name_corr(val):
     #print(val)       
     return val,sentence
 
-def get_speaker_statements():
+def get_interjections():
     base_directory = base_directory = "../../../collection/python/data/transcript_raw_text"
     raw_doc = os.listdir(base_directory)
     filelist = sorted(raw_doc)
@@ -154,12 +154,76 @@ def get_speaker_statements():
     #parsed_text['d_presence']=parsed_text['check']>7
     
      
-    parsed_text.to_csv("../output/interjections.csv")
-    
-    speaker_statements = parsed_text.groupby(['Date','Speaker'])['content'].apply(lambda x: "%s" % " ".join(x))
+    parsed_text.to_csv("../output/interjections.csv",index=False)
+    return parsed_text
+
+'''
+The FOMC Transcript is split into 2 sections:
+1)Economic Discussion, 2) Policy Discussion
+
+This function tags each interjection by an FOMC member with their assosiated FOMC discussion
+'''
+def tag_interjections_with_section(interjection_df):
+
+    separation_df = pd.read_excel("../data/Separation.xlsx")
+
+    meeting_df = pd.read_csv("../../../derivation/python/output/meeting_derived_file.csv")
+
+    separation_df = separation_df.rename(columns={separation_df.columns[0]:"date_string"})
+    separation_df.date_string = separation_df.date_string.apply(str)
+
+    separation_df['Date'] = pd.to_datetime(separation_df.date_string,format="%Y%m")
+
+    interjection_df['Date'] = pd.to_datetime(interjection_df.Date)
+    interjection_df = interjection_df[(interjection_df.Date>pd.to_datetime("1987-07-31"))&
+                                    (interjection_df.Date<pd.to_datetime("2006-02-01"))]
+
+
+    interjection_df['date_string'] = interjection_df.Date.\
+        apply(lambda x: x.strftime("%Y%m")).apply(str)
+
+    cc_df = meeting_df[meeting_df.event_type=="Meeting"]
+    cc_df['Date'] = pd.to_datetime(cc_df['end_date'])
+    interjection_df = interjection_df[interjection_df['Date'].isin(cc_df['Date'])]
+
+    separation_df['date_ind'] = separation_df.date_string.astype(int)
+    separation_df = separation_df.set_index('date_ind')
+
+    meeting_groups = interjection_df.groupby("Date")
+    tagged_interjections = pd.DataFrame(columns=interjection_df.columns)
+    for meeting_number,date_ind in enumerate(interjection_df['date_string'].drop_duplicates().astype(int)):
+        meeting_date = interjection_df[interjection_df.date_string.astype(int)==date_ind].reset_index(drop=True)
+        meeting_date['FOMC_Section'] = 0
+        if date_ind not in list(separation_df.index):
+            tagged_interjections = pd.concat([tagged_interjections, meeting_date], ignore_index = True)
+            continue
+        try:
+            meeting_date.loc[separation_df['FOMC1_start'][date_ind]:
+                                    separation_df['FOMC1_end'][date_ind],"FOMC_Section"] = 1
+            #print(FOMC1)
+            if separation_df['FOMC2_end'][date_ind] == 'end':
+                meeting_date.loc[separation_df['FOMC2_start'][date_ind]:
+                                ,"FOMC_Section"] = 2
+            else:
+                meeting_date.loc[separation_df['FOMC2_start'][date_ind]:
+                                separation_df['FOMC2_end'][date_ind],"FOMC_Section"]=2
+            #FOMC2 = meeting_date.iloc[separation['FOMC2_start'][date]:]
+
+            tagged_interjections = pd.concat([tagged_interjections, meeting_date], ignore_index = True)
+        except:
+            tagged_interjections = pd.concat([tagged_interjections, meeting_date], ignore_index = True)
+    #tagged_interjections.to_csv("tagged_interjections.csv",index=False)
+    return tagged_interjections
+
+def generate_speaker_corpus(tagged_interjections):
+    tagged_interjections['content'] = tagged_interjections['content'].fillna("")
+    tagged_interjections['Date'] = pd.to_datetime(tagged_interjections['Date'])
+    speaker_statements = tagged_interjections.groupby(['Date','Speaker','FOMC_Section'])['content'].apply(lambda x: "%s" % " ".join(x))
     speaker_statements = speaker_statements.reset_index()
     
     dates_df = pd.read_csv("../../../collection/python/output/derived_data.csv")
+    dates_df['start_date'] = pd.to_datetime(dates_df['start_date'])
+    dates_df['end_date'] = pd.to_datetime(dates_df['end_date'])
     speaker_statements = speaker_statements.merge(dates_df[["start_date","end_date"]].drop_duplicates(),left_on="Date",right_on="start_date",how="left")
         
     speaker_statements.to_pickle("../output/speaker_data/speaker_corpus.pkl")
@@ -167,7 +231,7 @@ def get_speaker_statements():
     print("Completed generating speaker statements!")
     return speaker_statements
 
-def get_speaker_corps(speaker_statements):
+def generate_speaker_files(speaker_statements):
     speakers = [speaker for speaker in set(speaker_statements["Speaker"])]
     print("Number of speakers:{}".format(len(speakers)))
     count = 0
@@ -184,13 +248,15 @@ def get_speaker_corps(speaker_statements):
         count+=1
         
 def main():
-    speaker_statements = get_speaker_statements()
-    get_speaker_corps(speaker_statements)
+    interjection_df = get_interjections()
+    tagged_interjections = tag_interjections_with_section(interjection_df)
+    speaker_statements = generate_speaker_corpus(pd.read_csv("tagged_interjections.csv"))
+    generate_speaker_files(speaker_statements)
 
 
 if __name__ == "__main__":
     main()
-        
+    
 # =============================================================================
 # ## Do some checks:  
 # with open('../../output/data.json', 'r') as speakerids:
