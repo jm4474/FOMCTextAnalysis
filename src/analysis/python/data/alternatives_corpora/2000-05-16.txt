@@ -1,9 +1,5 @@
 
 
-c PAR 7 at its march meeting , the fomc indicated that the balance of risks was weighted toward higher inflation .
-c PAR 7 during the intermeeting period , inflation pressures have intensified , judging by the strength in incoming data on output , employment , and prices .
-c PAR 7 accordingly , the issue addressed in this bluebook is not whether to tighten the stance of monetary policy but by how much .
-c PAR 7 two basic alternatives are presented for consideration by the committee : alternative c , under which the target federal funds rate would be raised 25 basis points , and alternative d , under which it would be increased 50 basis points .
 c PAR 8 even if the committee 's assessment of the outlook is such that a substantial firming of policy ultimately will be necessary to prevent underlying inflation from rising , it still may favor a continued gradual approach , as under alternative c . signs of an actual acceleration in prices are quite recent , and the committee may require further evidence that inflation is on the upswing before firming policy more aggressively .
 c PAR 8 while some measures of labor compensation gains recently have shown signs of strengthening , this development may be largely a lagged response to previous increases in productivity growth rather than a signal of heightened inflation pressures .
 c PAR 8 moreover , the elevated uncertainty about the economy 's sustainable level of resource utilization and rate of output growth -- which contributes to the sense that forecasts of inflation are less reliable -- might justify continuing the incremental approach to policy firming .
@@ -16,4 +12,15 @@ c PAR 9 on the latter score , market participants might infer from the small siz
 c PAR 9 equity prices could rally , while the value of the dollar on foreign exchange markets might change little .
 c PAR 9 but it can not be ruled out that financial market participants would adopt a more skeptical interpretation of limited federal reserve action .
 c PAR 9 if a sense that the committee had fallen behind the curve of requisite policy firming became prevalent , which would be made more likely by a disquieting cpi release , longer - term rates could back up , equity prices weaken , and the dollar come under downward pressure .
+
+d PAR 11 the reaction of asset prices to the adoption of alternative d would probably depend on the committee 's decision about the balance of risks .
+d PAR 11 if the policy move were accompanied by a statement that the balance of risks remains tilted toward higher inflation , short - term rates would likely increase slightly as market participants revise up a bit their expectations for the path of the funds rate .
+d PAR 11 these elevated expectations would tend to boost the yields on longer - term private instruments a little as well , and equity prices might weaken some .
+d PAR 11 the increase in rates on treasury securities , however , could be more limited if demands for safety and liquidity were to increase in an environment of more aggressive policy tightening .
+d PAR 12 if alternative d instead were accompanied by a statement that the risks were now seen as balanced , the market reaction would be more difficult to predict .
+d PAR 12 on average , investors appear currently to expect another 100 basis points or so of monetary policy tightening over the next twelve months , rather than just the 50 basis points at this meeting embodied in alternative
+d PAR 12 most would infer from such a balance - of - risks statement that monetary policy would be on hold for a while .
+d PAR 12 some investors might conclude that inflation pressures were not as strong as they had previously thought and that the peak in short - term rates could well have been reached , while others might be concerned that the federal reserve had misgauged the situation and eventually was likely to need to firm policy much further , particularly given the possibility that subsequent policy adjustment would be too slow in the near term .
+d PAR 12 on net , longer - term interest rates probably would increase a bit less , initially , than if the committee indicated that the balance of risks was skewed toward higher inflation . if developments over the following weeks were to unfold along the lines of the staff forecast , most market participants likely would conclude that additional policy firming was needed .
+d PAR 12 longer - term yields would then tend to rise further , reflecting increases both in real rates and in inflation expectations .
 

@@ -36,3 +36,4 @@ c PAR 14 the current wide spreads between long - term private and treasury rates
 c PAR 14 interest rates rising relative to foreign rates , the dollar would be likely to strengthen on foreign exchange markets .
 c PAR 14 directive language 
 
+
