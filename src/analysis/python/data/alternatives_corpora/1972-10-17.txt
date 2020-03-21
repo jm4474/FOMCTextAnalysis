@@ -15,3 +15,4 @@ c PAR 9 + 18.3 + 12.4 s11 £ ( 11 )
 c SENT -- under alternative c , the range is skewed even more in an upward direction .
 c SENT -- " alternative c " to implement this policy , while taking [ del : special ] account of the effects of possible bank regulatory changes , treasury financing operations , and developments in credit markets , [ del : and international developments , ] the committee seeks to achieve bank reserve and money market conditions that will support [ del : more ] moderate growth in monetary aggregates over the months ahead .
 
+

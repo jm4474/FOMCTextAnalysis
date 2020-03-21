@@ -39,8 +39,17 @@ c PAR 34 a decision to adopt alternative c would come as a significant surprise 
 c PAR 34 investors would presumably revise up sharply their expectations for the path of policy over the next few quarters , leading to an increase in short- and intermediate- term interest rates .
 c PAR 34 at the same time , long - term nominal treasury yields would likely rise by less or could even fall if investors concluded that the fomc had a lower tolerance for inflation than they had previously thought .
 c PAR 34 with real rates higher , equities would fall , credit spreads on corporate debt would widen , strains in financial markets would intensify , and the foreign exchange value of the dollar could rise .
-c PAR 36 the first paragraph of the rationale portion of the statement associated with alternative d would acknowledge that economic activity has been weak and that financial markets remain under considerable stress .
-c PAR 36 it would also state that although “ downside risks to growth remain , recent policy actions should help to promote moderate growth over time .
-c PAR 36 ”   the rationale portion pertaining to the outlook for inflation would be identical to that in alternative c .
-c PAR 36 the risk assessment section in alternative d would stress that the committee “ will act in a timely manner as needed to promote price stability and sustainable economic growth .
+c SENT -- ”   the rationale portion pertaining to the outlook for inflation would be identical to that in alternative c .
+
+d PAR 35 if the committee believes that economic growth is likely to resume an acceptable pace before long and that inflation is on a higher trajectory than in the greenbook , it might prefer to leave the stance of policy unchanged , as in alternative d .
+d PAR 35 although measures of consumer and business sentiment have declined , the committee might view the data on final demand as only a bit weaker than expected class i fomc - restricted - controlled ( fr ) 32 of 39 and judge that financial turmoil , while posing significant risks , is likely to have less of an effect on aggregate demand than anticipated by the staff .
+d PAR 35 moreover , monetary policy has been eased considerably and substantial fiscal stimulus has been enacted , factors that are likely to provide a significant boost to aggregate demand in coming quarters .
+d PAR 35 accordingly , policymakers might prefer to wait for additional information about the extent of that boost before making any further policy adjustments .
+d PAR 35 in addition , given the recent run - up in energy and other commodity prices , the drop in the foreign exchange value of the dollar , and the apparent slight increase in long - term inflation expectations , the committee might now see it as increasingly unlikely that inflation will decline at an acceptable pace and might believe that the upside risks to inflation have risen unacceptably .
+d PAR 35 a pause at this juncture might be particularly appealing to policymakers who prefer a more distinct downward tilt to the trajectory for inflation over the next few years than that shown in the greenbook , such as that illustrated by the optimal - control simulation with an inflation goal of 1½ percent .
+d SENT -- ( 36 ) the first paragraph of the rationale portion of the statement associated with alternative d would acknowledge that economic activity has been weak and that financial markets remain under considerable stress .
+d PAR 37 given the expectations embedded in financial market prices of further substantial policy easing at this meeting , a decision to adopt alternative d would stun market participants , leading to a sharp upward revision of their short - term outlook for the path of policy and a significant increase in short - term interest rates .
+d PAR 37 despite the indication in the announcement that recent policy actions should help to promote moderate growth class
+d PAR 37 i fomc - restricted - controlled ( fr ) 33 of 39 over time , investors would likely become gravely concerned about the economic outlook , a development that would cause credit spreads on corporate debt to widen substantially , market functioning to deteriorate further , equity prices to tumble , and longer - term nominal yields to decline .
+d PAR 37 money and debt forecasts 
 
