@@ -10,6 +10,111 @@ import pandas as pd
 import os
 import re
 import numpy as np
+
+# =============================================================================
+
+    # Import alternatives that Lea extracted
+emptylist=[]
+filenames = sorted(os.listdir("../data/alternatives_corpora"))
+for filename in filenames:
+    if ".txt" not in filename:
+        print("not a txt file")
+        continue
+    # get start date
+    start_date = filename.replace(".txt","")
+        
+    alternatives = {'start_date_string':start_date,'a':[],'b':[],'c':[],'d':[],'e':[]}
+    with open(f"../data/alternatives_corpora/{filename}") as f:
+        for line in f.readlines():
+            if line.strip():
+                split = re.split("[a-z]\s[A-Z]{3,4}\s\d*",line.strip(),1)
+                if len(split)>1:
+                    alt = line.strip()[0]
+                    alternatives[alt].append(split[1])
+    emptylist.append(alternatives)
+corpus_df = pd.DataFrame(emptylist)
+
+    # Restrict time period
+corpus_df['start_date']=pd.to_datetime(corpus_df['start_date_string'])
+corpus_df= corpus_df[(corpus_df['start_date']>="1988-01-01") & (corpus_df['start_date']<="2008-12-31")]                    
+                    
+    # Import target
+target_df = pd.read_csv("../output/fed_targets_with_alternatives.csv")
+target_df.drop(columns="Unnamed: 0",inplace=True)
+target_df.rename(columns={'start_date':'datestring'},inplace=True)
+target_df['start_date']=pd.to_datetime(target_df['datestring'])
+target_df = target_df[target_df['date']!="2003-09-15"] # drop erroneous entry
+
+    # Merge alternatives and the target.
+merge_df = pd.merge(target_df,corpus_df,on="start_date",how='outer',indicator=False)
+new_col = dict(zip([alt for alt in ['a','b','c','d','e']],[f"alt {alt} corpus" for alt in ['a','b','c','d','e']]))
+merge_df.rename(columns = new_col ,inplace=True)
+# merge is perfect -- 168 bbs #
+
+    # Fill-in the missing corpora for time 3/20/01 - 1/27/04
+merge_df = merge_df[(merge_df['date']<"2001-03-20") | (merge_df['date']>"2004-01-29")]
+fillin_df = pd.read_csv("../output/fed_targets_with_alternatives_missinbb.csv")
+fillin_df['start_date']=pd.to_datetime(fillin_df['start_date'] )
+all_df = pd.concat([merge_df,fillin_df],join="inner",axis=0,ignore_index=True)
+all_df.sort_values(by="date",inplace=True)
+
+
+    # Try to identify the alternative that has been chosen
+all_df = all_df.reset_index()
+for alt in ['a','b','c','d']:
+    all_df[f"bluebook_treatment_size_alt_{alt}"] = pd.to_numeric(all_df[f"bluebook_treatment_size_alt_{alt}"], errors='coerce')
+    # Create tie breaker    
+    all_df[f"d{alt}"] = pd.DataFrame(np.divide((np.sign(all_df['decision'].values) == np.sign(all_df[f"bluebook_treatment_size_alt_{alt}"].values)).astype(int), 100))    
+for alt in ['a','b','c','d']:    
+    all_df[f"alt{alt}"] = pd.DataFrame(np.abs(all_df['decision'].values - all_df[f"bluebook_treatment_size_alt_{alt}"].values) - all_df[f"d{alt}"].values)
+
+col_alts = [col for col in all_df.columns if re.match("^alt[a-d]",col)]
+all_df["act_chosen"] = all_df[col_alts].idxmin(axis=1)
+all_df.loc[all_df['date']=="2008-12-16" , "act_chosen"]="alta"
+
+    # Identify easier and tighter policy alternatives
+all_df["vote_tighter"]=np.nan
+all_df["vote_easier"]=np.nan
+for idx,row in all_df.iterrows():
+    ch_alt = row["act_chosen"][-1:]
+    treatment_size = row[f"bluebook_treatment_size_alt_{ch_alt}"] 
+       
+    easierlist=[]
+    tighterlist=[]
+    for alt in ['a','b','c','d']:
+        if row[f"bluebook_treatment_size_alt_{alt}"] < treatment_size:
+            easierlist.append(f"alt{alt}")        
+        if row[f"bluebook_treatment_size_alt_{alt}"] > treatment_size:
+            tighterlist.append(f"alt{alt}")        
+    
+    all_df.loc[idx,"vote_tighter"]=", ".join(tighterlist)
+    all_df.loc[idx,"vote_easier"]=", ".join(easierlist)
+    
+
+alternative_results = all_df[['date','act_chosen', 'vote_tighter', 'vote_easier']]
+all_df = all_df.drop(columns=['act_chosen', 'vote_tighter', 'vote_easier','da', 'db', 'dc', 'dd', 'alta', 'altb', 'altc', 'altd'])
+
+alternative_results.to_csv("../output/alternative_results.csv")
+all_df.to_csv("../output/alternative_outcomes_and_corpus.csv")
+
+
+# =============================================================================
+# 
+# 
+# all_df['date'] = pd.to_datetime(all_df['date'])
+# all_df['mergetime']=all_df['date'].dt.date
+# 
+# voting_mem= pd.read_csv("../output/voting_members.csv")
+# voting_mem['date'] = pd.to_datetime(voting_mem["Date"]).dt.date
+# 
+# all_df = all_df.merge( voting_mem , left_on="mergetime",right_on="date",how="left")
+# 
+# 
+# 
+# =============================================================================
+
+
+
 # =============================================================================
 #     # what is the bluebook count in the period
 #     
@@ -94,104 +199,3 @@ import numpy as np
 # print(alternatives)
 # 
 # =============================================================================
-        
-emptylist=[]
-filenames = sorted(os.listdir("../data/alternatives_corpora"))
-for filename in filenames:
-    if ".txt" not in filename:
-        print("not a txt file")
-        continue
-    # get start date
-    start_date = filename.replace(".txt","")
-        
-    alternatives = {'start_date_string':start_date,'a':[],'b':[],'c':[],'d':[],'e':[]}
-    with open(f"../data/alternatives_corpora/{filename}") as f:
-        for line in f.readlines():
-            if line.strip():
-                split = re.split("[a-z]\s[A-Z]{3,4}\s\d*",line.strip(),1)
-                if len(split)>1:
-                    alt = line.strip()[0]
-                    alternatives[alt].append(split[1])
-    emptylist.append(alternatives)
-corpus_df = pd.DataFrame(emptylist)
-
-corpus_df['start_date']=pd.to_datetime(corpus_df['start_date_string'])
-corpus_df= corpus_df[(corpus_df['start_date']>="1988-01-01") & (corpus_df['start_date']<="2008-12-31")]                    
-                    
-target_df = pd.read_csv("../output/fed_targets_with_alternatives.csv")
-target_df.drop(columns="Unnamed: 0",inplace=True)
-target_df.rename(columns={'start_date':'datestring'},inplace=True)
-target_df['start_date']=pd.to_datetime(target_df['datestring'])
-target_df = target_df[target_df['date']!="2003-09-15"] # drop erroneous entry
-
-merge_df = pd.merge(target_df,corpus_df,on="start_date",how='outer',indicator=False)
-new_col = dict(zip([alt for alt in ['a','b','c','d','e']],[f"alt {alt} corpus" for alt in ['a','b','c','d','e']]))
-merge_df.rename(columns = new_col ,inplace=True)
-# merge is perfect -- 168 bbs #
-
-    # Fill-in the missing corpora for time 3/20/01 - 1/27/04
-merge_df = merge_df[(merge_df['date']<"2001-03-20") | (merge_df['date']>"2004-01-29")]
-fillin_df = pd.read_csv("../output/fed_targets_with_alternatives_missinbb.csv")
-fillin_df['start_date']=pd.to_datetime(fillin_df['start_date'] )
-
-all_df = pd.concat([merge_df,fillin_df],join="inner",axis=0,ignore_index=True)
-
-all_df.sort_values(by="date",inplace=True)
-
-    # Try to identify the alternative that has been chosen
-all_df = all_df.reset_index()
-for alt in ['a','b','c','d']:
-    all_df[f"bluebook_treatment_size_alt_{alt}"] = pd.to_numeric(all_df[f"bluebook_treatment_size_alt_{alt}"], errors='coerce')
-    # Create tie breaker    
-    all_df[f"d{alt}"] = pd.DataFrame(np.divide((np.sign(all_df['decision'].values) == np.sign(all_df[f"bluebook_treatment_size_alt_{alt}"].values)).astype(int), 100))    
-for alt in ['a','b','c','d']:    
-    all_df[f"alt{alt}"] = pd.DataFrame(np.abs(all_df['decision'].values - all_df[f"bluebook_treatment_size_alt_{alt}"].values) - all_df[f"d{alt}"].values)
-
-col_alts = [col for col in all_df.columns if re.match("^alt[a-d]",col)]
-all_df["act_chosen"] = all_df[col_alts].idxmin(axis=1)
-all_df.loc[all_df['date']=="2008-12-16" , "act_chosen"]="alta"
-
-    # Identify easier and tighter policy alternatives
-all_df["vote_tighter"]=np.nan
-all_df["vote_easier"]=np.nan
-for idx,row in all_df.iterrows():
-    ch_alt = row["act_chosen"][-1:]
-    treatment_size = row[f"bluebook_treatment_size_alt_{ch_alt}"] 
-       
-    easierlist=[]
-    tighterlist=[]
-    for alt in ['a','b','c','d']:
-        if row[f"bluebook_treatment_size_alt_{alt}"] < treatment_size:
-            easierlist.append(f"alt{alt}")        
-        if row[f"bluebook_treatment_size_alt_{alt}"] > treatment_size:
-            tighterlist.append(f"alt{alt}")        
-    
-    all_df.loc[idx,"vote_tighter"]=", ".join(tighterlist)
-    all_df.loc[idx,"vote_easier"]=", ".join(easierlist)
-    
-
-alternative_results = all_df[['date','act_chosen', 'vote_tighter', 'vote_easier']]
-all_df = all_df.drop(columns=['act_chosen', 'vote_tighter', 'vote_easier','da', 'db', 'dc', 'dd', 'alta', 'altb', 'altc', 'altd'])
-
-alternative_results.to_csv("../output/alternative_results.csv")
-all_df.to_csv("../output/alternative_outcomes_and_corpus.csv")
-
-
-# =============================================================================
-# 
-# 
-# all_df['date'] = pd.to_datetime(all_df['date'])
-# all_df['mergetime']=all_df['date'].dt.date
-# 
-# voting_mem= pd.read_csv("../output/voting_members.csv")
-# voting_mem['date'] = pd.to_datetime(voting_mem["Date"]).dt.date
-# 
-# all_df = all_df.merge( voting_mem , left_on="mergetime",right_on="date",how="left")
-# 
-# 
-# 
-# =============================================================================
-
-
-
-
