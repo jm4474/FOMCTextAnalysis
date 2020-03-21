@@ -17,3 +17,4 @@ c SENT -- the third scenario corresponds to alternative c in the policy alternat
 c SENT -- for alternative c , the balance sheet peaks at $ 2.4 trillion at the end of 2009 , and assets decline to $ 1.4 trillion at the end of
 c SENT -- in the scenario corresponding to alternative c , purchases of agency mbs are decreased by $ 250 billion to $ 1.0 trillion by the end of the year .
 
+

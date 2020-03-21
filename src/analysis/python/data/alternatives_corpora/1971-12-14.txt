@@ -115,3 +115,4 @@ c PAR 20 +1,340 +1,257 + 108 + 317 + 72 + 111 + 181 + 22 + 45 + 277 + 450 + 197 
 c PAR 20 2/ includes $ 400 million in special drawing account .
 c PAR 20 p - preliminary .
 
+

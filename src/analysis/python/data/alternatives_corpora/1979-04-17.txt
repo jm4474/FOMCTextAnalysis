@@ -24,3 +24,4 @@ c PAR 14 it is less clear what might happen to long - term rates .
 c PAR 14 they may rise some in sympathy with the increase in short rates .
 c PAR 14 but it is equally likely that they may show little net change , or perhaps even decline some , if the market comes to believe that interest rates may peak sooner than otherwise .
 
+
