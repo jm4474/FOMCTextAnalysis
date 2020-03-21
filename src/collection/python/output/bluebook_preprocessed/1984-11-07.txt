@@ -1,0 +1,4315 @@
+(	(	PUNCT	-LRB-		punct	False
+1	1	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+preliminary	preliminary	ADJ	JJ		amod	False
+data	datum	NOUN	NNS		nsubj	False
+for	for	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+indicate	indicate	VERB	VBP		ROOT	False
+that	that	SCONJ	IN		mark	True
+m1	m1	PROPN	NNP	PRODUCT_B	nsubj	False
+declined	decline	VERB	VBD		ccomp	False
+last	last	ADJ	JJ	DATE_B	amod	True
+month	month	NOUN	NN	DATE_I	npadvmod	False
+at	at	ADP	IN		prep	True
+an	an	DET	DT		det	True
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+around	around	ADV	RB		quantmod	True
+6	6	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+,	,	PUNCT	,		punct	False
+following	follow	VERB	VBG		prep	False
+growth	growth	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+that	that	DET	WDT		nsubj	True
+turned	turn	VERB	VBD		relcl	False
+out	out	ADP	RP		prt	True
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+4	4	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+3/4	3/4	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	attr	False
+(	(	PUNCT	-LRB-		punct	False
+or	or	CCONJ	CC		cc	True
+about	about	ADV	RB	CARDINAL_B	advmod	True
+2	2	NUM	CD	CARDINAL_I	nummod	False
+percentage	percentage	NOUN	NN		compound	False
+points	point	NOUN	NNS		npadvmod	False
+less	less	ADJ	JJR		amod	True
+than	than	SCONJ	IN		mark	True
+expected	expect	VERB	VBN		advcl	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+time	time	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+previous	previous	ADJ	JJ		amod	False
+fomc	fomc	ADJ	JJ		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+)	)	PUNCT	-RRB-		punct	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+estimated	estimate	VERB	VBN		amod	False
+level	level	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	ORG_B	pobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+was	be	AUX	VBD		ROOT	True
+well	well	ADV	RB		advmod	True
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+growth	growth	NOUN	NN		compound	False
+path	path	NOUN	NN		pobj	False
+adopted	adopt	VERB	VBN		acl	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+last	last	ADJ	JJ		amod	True
+fomc	fomc	ADJ	JJ		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT		det	True
+september	september	PROPN	NNP	DATE_B	compound	False
+-	-	PUNCT	HYPH	DATE_I	punct	False
+december	december	PROPN	NNP	DATE_I	compound	False
+period	period	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+in	in	ADP	IN		conj	True
+the	the	DET	DT		det	True
+lower	low	ADJ	JJR		amod	False
+half	half	NOUN	NN	CARDINAL_B	pobj	False
+of	of	ADP	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+longer	long	ADJ	JJR		advmod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		amod	False
+target	target	NOUN	NN		compound	False
+range	range	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+both	both	DET	DT		det	True
+demand	demand	NOUN	NN		compound	False
+deposits	deposit	NOUN	NNS		nsubjpass	False
+and	and	CCONJ	CC		cc	True
+other	other	ADJ	JJ		amod	True
+checkable	checkable	ADJ	JJ		amod	False
+deposits	deposit	NOUN	NNS		conj	False
+were	be	AUX	VBD		auxpass	True
+drawn	draw	VERB	VBN		ROOT	False
+down	down	ADP	RP		prt	True
+last	last	ADJ	JJ	DATE_B	amod	True
+month	month	NOUN	NN	DATE_I	npadvmod	False
+,	,	PUNCT	,		punct	False
+while	while	SCONJ	IN		mark	True
+currency	currency	NOUN	NN		nsubj	False
+continued	continue	VERB	VBD		advcl	False
+to	to	PART	TO		aux	True
+grow	grow	VERB	VB		xcomp	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+slower	slow	ADJ	JJR		amod	False
+pace	pace	NOUN	NN		pobj	False
+than	than	SCONJ	IN		prep	True
+in	in	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+first	first	ADJ	JJ	DATE_I	amod	True
+half	half	NOUN	NN	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+2	2	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+nontransactions	nontransaction	NOUN	NNS		compound	False
+component	component	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+m2	m2	PROPN	NNP	ORG_B	pobj	False
+grew	grow	VERB	VBD		ROOT	False
+a	a	DET	DT		det	True
+bit	bit	NOUN	NN		npadvmod	False
+faster	faster	ADV	RBR		advmod	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+than	than	SCONJ	IN		prep	True
+the	the	DET	DT		det	True
+advanced	advanced	ADJ	JJ		amod	False
+september	september	PROPN	NNP	DATE_B	compound	False
+pace	pace	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+boosted	boost	VERB	VBN		dep	False
+particularly	particularly	ADV	RB		advmod	False
+by	by	ADP	IN		prep	True
+strength-	strength-	NOUN	NNS		nmod	False
+ened	ene	VERB	VBN		amod	False
+inflows	inflow	NOUN	NNS		pobj	False
+to	to	ADP	IN		prep	True
+mmdas	mmdas	NOUN	NN		nmod	False
+and	and	CCONJ	CC		cc	True
+money	money	NOUN	NN		compound	False
+market	market	NOUN	NN		conj	False
+funds	fund	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+whose	whose	DET	WP$		poss	True
+yields	yield	NOUN	NNS		nsubj	False
+lagged	lag	VERB	VBD		relcl	False
+declines	decline	NOUN	NNS		dobj	False
+in	in	ADP	IN		prep	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+market	market	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+but	but	CCONJ	CC		cc	True
+with	with	ADP	IN		prep	True
+the	the	DET	DT		det	True
+drop	drop	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+m1	m1	PROPN	NNP	GPE_B	pobj	False
+,	,	PUNCT	,		punct	False
+growth	growth	NOUN	NN		nsubjpass	False
+of	of	ADP	IN		prep	True
+m2	m2	PROPN	NNP	ORG_B	pobj	False
+for	for	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+is	be	AUX	VBZ		auxpass	True
+estimated	estimate	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+have	have	AUX	VB		aux	True
+been	be	AUX	VBN		xcomp	True
+around	around	ADP	IN	PERCENT_B	quantmod	True
+6	6	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	attr	False
+,	,	PUNCT	,		punct	False
+somewhat	somewhat	ADV	RB		advmod	False
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		poss	False
+'s	's	PART	POS		case	True
+three	three	NUM	CD	DATE_B	nummod	True
+-	-	PUNCT	HYPH	DATE_I	punct	False
+month	month	NOUN	NN	DATE_I	compound	False
+objective	objective	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+7	7	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+m3	m3	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		nsubj	False
+,	,	PUNCT	,		punct	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+other	other	ADJ	JJ		amod	True
+hand	hand	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+appears	appear	VERB	VBZ		ROOT	False
+to	to	PART	TO		aux	True
+have	have	AUX	VB		aux	True
+picked	pick	VERB	VBN		xcomp	False
+up	up	ADP	RP		prt	True
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+to	to	ADP	IN		prep	True
+a	a	DET	DT		det	True
+10	10	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+somewhat	somewhat	ADV	RB		advmod	False
+above	above	ADP	IN		prep	True
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		poss	False
+'s	's	PART	POS		case	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		amod	False
+path	path	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+cd	cd	NOUN	NN		compound	False
+issuance	issuance	NOUN	NN		nsubj	False
+strengthened	strengthen	VERB	VBD		ROOT	False
+considerably	considerably	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+,	,	PUNCT	,		punct	False
+as	as	SCONJ	IN		prep	True
+the	the	DET	DT		det	True
+runoff	runoff	NOUN	NN		pobj	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+thrift	thrift	NOUN	NN		pobj	False
+
+subsi-	subsi-	PROPN	NNP		compound	False
+diary	diary	PROPN	NNP		nsubj	False
+of	of	ADP	IN		prep	True
+fca	fca	PROPN	NNP		pobj	False
+stopped	stop	VERB	VBD		ROOT	False
+and	and	CCONJ	CC		cc	True
+as	as	SCONJ	IN		mark	True
+banks	bank	NOUN	NNS		nsubj	False
+stepped	step	VERB	VBD		advcl	False
+up	up	ADP	RP		prt	True
+sales	sale	NOUN	NNS		dobj	False
+of	of	ADP	IN		prep	True
+cds	cd	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+part	part	NOUN	NN		pobj	True
+to	to	PART	TO		prep	True
+off-	off-	ADV	RB		dep	False
+set	set	VERB	VB		nmod	False
+declining	decline	VERB	VBG		amod	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+deposits	deposit	NOUN	NNS		pobj	False
+;	;	PUNCT	:		punct	False
+in	in	ADP	IN		prep	True
+addition	addition	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+institution	institution	NOUN	NN		dep	False
+-	-	PUNCT	HYPH		punct	False
+only	only	ADJ	JJ		advmod	True
+money	money	NOUN	NN		conj	False
+
+mar-	mar-	PROPN	NNP		nummod	False
+ket	ket	PROPN	NNP	PERSON_B	compound	False
+funds	fund	NOUN	NNS		nsubj	False
+expanded	expand	VERB	VBN		ROOT	False
+by	by	ADP	IN		agent	True
+a	a	DET	DT		det	True
+very	very	ADV	RB		advmod	True
+substantial	substantial	ADJ	JJ		amod	False
+amount	amount	NOUN	NN		pobj	True
+.	.	PUNCT	.		punct	False
+
+key	key	ADJ	JJ		amod	False
+monetary	monetary	ADJ	JJ		amod	False
+policy	policy	NOUN	NN		compound	False
+aggregates	aggregate	NOUN	NNS		nsubj	False
+(	(	PUNCT	-LRB-		punct	False
+seasonally	seasonally	ADV	RB	DATE_B	advmod	False
+adjusted	adjust	VERB	VBN		amod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rates	rate	NOUN	NNS		appos	False
+of	of	ADP	IN		prep	True
+growth	growth	NOUN	NN		pobj	False
+)	)	PUNCT	-RRB-		punct	False
+qiv	qiv	PROPN	NNP	PERSON_B	ROOT	False
+to	to	ADP	IN		prep	True
+money	money	NOUN	NN		nmod	False
+and	and	CCONJ	CC		cc	True
+credit	credit	NOUN	NN		compound	False
+aggregates	aggregate	NOUN	NNS		conj	False
+domestic	domestic	ADJ	JJ		amod	False
+nonfinancial	nonfinancial	ADJ	JJ		amod	False
+debt	debt	NOUN	NN		compound	False
+bank	bank	NOUN	NN		compound	False
+credit	credit	NOUN	NN		compound	False
+reserve	reserve	NOUN	NN		compound	False
+measures1	measures1	NOUN	NN		pobj	False
+
+nonborrowed	nonborrowed	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		nmod	False
+2	2	NUM	CD	CARDINAL_B	nummod	False
+total	total	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		nmod	False
+monetary	monetary	PROPN	NNP		amod	False
+base	base	PROPN	NNP		compound	False
+memo	memo	PROPN	NNP		ROOT	False
+:	:	PUNCT	:		punct	False
+(	(	PUNCT	-LRB-		punct	False
+millions	million	NOUN	NNS	MONEY_B	appos	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+)	)	PUNCT	-RRB-		punct	False
+adjustment	adjustment	NOUN	NN		conj	False
+and	and	CCONJ	CC		cc	True
+seasonal	seasonal	ADJ	JJ		amod	False
+borrowing	borrowing	NOUN	NN		conj	False
+excess	excess	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		appos	False
+1	1	NUM	CD	CARDINAL_B	nummod	False
+.	.	PUNCT	.		punct	False
+
+growth	growth	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		nsubjpass	False
+of	of	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+measures	measure	NOUN	NNS		pobj	False
+are	be	AUX	VBP		auxpass	True
+adjusted	adjust	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+remove	remove	VERB	VB		advcl	False
+the	the	DET	DT		det	True
+effects	effect	NOUN	NNS		dobj	False
+of	of	ADP	IN		prep	True
+dis-	dis-	ADP	IN		nummod	False
+continuities	continuity	NOUN	NNS		pobj	False
+resulting	result	VERB	VBG		acl	False
+from	from	ADP	IN		prep	True
+phased	phase	VERB	VBN		amod	False
+changes	change	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+ratios	ratio	NOUN	NNS		pobj	False
+under	under	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	PROPN	NNP		amod	False
+control	control	PROPN	NNP		compound	False
+act	act	PROPN	NNP		pobj	False
+.	.	PUNCT	.		punct	False
+
+2	2	X	LS	CARDINAL_B	meta	False
+.	.	PUNCT	.		punct	False
+includes	include	VERB	VBZ		ROOT	False
+"	"	PUNCT	``		punct	False
+other	other	ADJ	JJ		amod	True
+extended	extended	ADJ	JJ		amod	False
+credit	credit	NOUN	NN		dobj	False
+"	"	PUNCT	''		punct	False
+from	from	ADP	IN		prep	True
+the	the	DET	DT	ORG_B	det	True
+federal	federal	PROPN	NNP	ORG_I	compound	False
+reserve	reserve	PROPN	NNP	ORG_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+3	3	X	LS	CARDINAL_B	ROOT	False
+.	.	PUNCT	.		punct	False
+
+average	average	VERB	VB		ROOT	False
+through	through	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	nmod	False
+24	24	NUM	CD	DATE_I	nummod	False
+reserve	reserve	NOUN	NN		compound	False
+maintenance	maintenance	NOUN	NN		compound	False
+period	period	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+pe	pe	ADJ	JJ		compound	False
+-	-	PUNCT	HYPH		punct	False
+preliminary	preliminary	ADJ	JJ		amod	False
+estimate	estimate	NOUN	NN		ROOT	False
+.	.	PUNCT	.		punct	False
+
+note	note	NOUN	NN		ROOT	False
+:	:	PUNCT	:		punct	False
+monthly	monthly	PROPN	NNP	DATE_B	amod	False
+reserve	reserve	NOUN	NN		compound	False
+measures	measure	NOUN	NNS		nsubjpass	False
+,	,	PUNCT	,		punct	False
+including	include	VERB	VBG		prep	False
+excess	excess	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+borrowing	borrowing	NOUN	NN		conj	False
+,	,	PUNCT	,		punct	False
+are	be	AUX	VBP		auxpass	True
+calculated	calculate	VERB	VBN		ccomp	False
+by	by	ADP	IN		agent	True
+prorating	prorate	VERB	VBG		pcomp	False
+averages	average	NOUN	NNS		dobj	False
+for	for	ADP	IN		prep	True
+2-week	2-week	NUM	CD		nummod	False
+reserve	reserve	NOUN	NN		compound	False
+maintenance	maintenance	NOUN	NN		compound	False
+periods	period	NOUN	NNS		pobj	False
+that	that	DET	WDT	DATE_B	det	True
+overlap	overlap	VERB	VBP	DATE_I	compound	False
+months	month	NOUN	NNS	DATE_I	npadvmod	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+3	3	X	LS	CARDINAL_B	nummod	False
+)	)	PUNCT	-RRB-		punct	False
+expansion	expansion	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+debt	debt	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+private	private	ADJ	JJ		amod	False
+domestic	domestic	ADJ	JJ		amod	False
+sectors	sector	NOUN	NNS		pobj	False
+moderated	moderate	VERB	VBD		ROOT	False
+further	further	ADV	RBR		advmod	True
+in	in	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+to	to	ADP	IN		prep	True
+an	an	DET	DT		det	True
+estimated	estimate	VERB	VBN		amod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+11	11	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+with	with	ADP	IN		prep	True
+borrowing	borrowing	NOUN	NN		pcomp	False
+by	by	ADP	IN		prep	True
+the	the	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+sector	sector	NOUN	NN		pobj	False
+temporarily	temporarily	ADV	RB		advmod	False
+slowing	slow	VERB	VBG		acl	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+same	same	ADJ	JJ		amod	True
+time	time	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+growth	growth	NOUN	NN		nsubj	False
+in	in	ADP	IN		prep	True
+total	total	ADJ	JJ		amod	False
+nonfinancial	nonfinancial	ADJ	JJ		amod	False
+debt	debt	NOUN	NN		pobj	False
+fell	fall	VERB	VBD		conj	False
+to	to	ADP	IN		prep	True
+11	11	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/4	1/4	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+from	from	ADP	IN		prep	True
+over	over	ADP	IN	PERCENT_B	quantmod	True
+13	13	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+previous	previous	ADJ	JJ	DATE_I	amod	False
+two	two	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+at	at	ADP	IN		prep	True
+banks	bank	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+a	a	DET	DT		det	True
+slackening	slackening	NOUN	NN		nsubj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+pace	pace	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+consumer	consumer	NOUN	NN		compound	False
+lending	lending	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+slower	slow	ADJ	JJR		amod	False
+growth	growth	NOUN	NN		conj	False
+in	in	ADP	IN		prep	True
+business	business	NOUN	NN		compound	False
+borrowing	borrowing	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+as	as	SCONJ	IN		mark	True
+merger	merger	NOUN	NN		compound	False
+financing	financing	NOUN	NN		nsubj	False
+dropped	drop	VERB	VBD		advcl	False
+off	off	ADP	RP		prt	True
+and	and	CCONJ	CC		cc	True
+declines	decline	NOUN	NNS		conj	False
+in	in	ADP	IN		prep	True
+bond	bond	NOUN	NN		compound	False
+yields	yield	NOUN	NNS		pobj	False
+encouraged	encourage	VERB	VBD		ROOT	False
+greater	great	ADJ	JJR		amod	False
+reliance	reliance	NOUN	NN		dobj	False
+on	on	ADP	IN		prep	True
+long	long	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+finance	finance	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+contributed	contribute	VERB	VBD		conj	False
+to	to	ADP	IN		prep	True
+a	a	DET	DT		det	True
+moderation	moderation	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+credit	credit	NOUN	NN		compound	False
+growth	growth	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+partial	partial	PROPN	NNP		amod	False
+data	data	PROPN	NNP		nsubj	False
+for	for	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+suggest	suggest	VERB	VBP		ROOT	False
+some	some	DET	DT		det	True
+additional	additional	ADJ	JJ		amod	False
+slowing	slowing	NOUN	NN		ccomp	False
+in	in	ADP	IN		prep	True
+bank	bank	NOUN	NN		compound	False
+credit	credit	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+but	but	CCONJ	CC		cc	True
+with	with	ADP	IN		prep	True
+bond	bond	NOUN	NN		compound	False
+issuance	issuance	NOUN	NN		nsubj	False
+by	by	ADP	IN		prep	True
+business	business	NOUN	NN		nmod	False
+and	and	CCONJ	CC		cc	True
+state	state	NOUN	NN		conj	False
+and	and	CCONJ	CC		cc	True
+local	local	ADJ	JJ		conj	False
+governments	government	NOUN	NNS		pobj	False
+strengthening	strengthen	VERB	VBG		acl	False
+con-	con-	NOUN	NN		dobj	False
+siderably	siderably	ADV	RB		advmod	False
+further	further	ADV	RBR		advmod	True
+and	and	CCONJ	CC		cc	True
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+borrowing	borrowing	PROPN	NNP		conj	False
+rebounding	rebounding	PROPN	NNP		pobj	False
+,	,	PUNCT	,		punct	False
+total	total	ADJ	JJ		amod	False
+credit	credit	NOUN	NN		compound	False
+growth	growth	NOUN	NN		nsubj	False
+probably	probably	ADV	RB		advmod	False
+was	be	AUX	VBD		conj	True
+at	at	ADV	RB		advmod	True
+least	least	ADJ	JJS		advmod	True
+as	as	ADV	RB		advmod	True
+rapid	rapid	ADJ	JJ		acomp	False
+as	as	SCONJ	IN		prep	True
+in	in	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+4	4	X	LS	CARDINAL_B	nummod	False
+)	)	PUNCT	-RRB-		punct	False
+total	total	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		nsubj	False
+fell	fall	VERB	VBD		ROOT	False
+at	at	ADP	IN		prep	True
+about	about	ADV	RB		advmod	True
+a	a	DET	DT		det	True
+13	13	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+,	,	PUNCT	,		punct	False
+reflecting	reflect	VERB	VBG		advcl	False
+a	a	DET	DT		det	True
+decline	decline	NOUN	NN		dobj	False
+in	in	ADP	IN		prep	True
+required	require	VERB	VBN		amod	False
+reserves	reserve	NOUN	NNS		pobj	False
+mainly	mainly	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+response	response	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+weakness	weakness	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+transactions	transaction	NOUN	NNS		compound	False
+deposits	deposit	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+and	and	CCONJ	CC		cc	True
+the	the	DET	DT		det	True
+runoff	runoff	NOUN	NN		conj	False
+of	of	ADP	IN		prep	True
+cds	cd	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+nonborrowed	nonborrowed	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		nsubj	False
+plus	plus	CCONJ	CC		cc	False
+extended	extend	VERB	VBD		amod	False
+credit	credit	NOUN	NN		conj	False
+also	also	ADV	RB		advmod	True
+declined	decline	VERB	VBD		ROOT	False
+sharply	sharply	ADV	RB		advmod	False
+.	.	PUNCT	.		punct	False
+
+use	use	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+discount	discount	NOUN	NN		compound	False
+window	window	NOUN	NN		pobj	False
+was	be	AUX	VBD		ROOT	True
+especially	especially	ADV	RB		advmod	False
+heavy	heavy	ADJ	JJ		acomp	False
+early	early	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+each	each	DET	DT		pobj	True
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+two	two	NUM	CD	CARDINAL_B	nummod	True
+maintenance	maintenance	NOUN	NN		compound	False
+periods	period	NOUN	NNS		pobj	False
+ending	end	VERB	VBG		acl	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+,	,	PUNCT	,		punct	False
+particularly	particularly	ADV	RB		advmod	False
+by	by	ADP	IN		prep	True
+large	large	ADJ	JJ		amod	False
+banks	bank	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+which	which	DET	WDT		nsubj	True
+appear	appear	VERB	VBP		relcl	False
+to	to	PART	TO		aux	True
+have	have	AUX	VB		aux	True
+become	become	VERB	VBN		xcomp	True
+more	more	ADV	RBR		advmod	True
+willing	willing	ADJ	JJ		acomp	False
+to	to	PART	TO		aux	True
+borrow	borrow	VERB	VB		xcomp	False
+after	after	ADP	IN		prep	True
+the	the	DET	DT		det	True
+increasingly	increasingly	ADV	RB		advmod	False
+cautious	cautious	ADJ	JJ		amod	False
+approach	approach	NOUN	NN		pobj	False
+that	that	DET	WDT		nsubj	True
+had	have	AUX	VBD		aux	True
+developed	develop	VERB	VBN		relcl	False
+since	since	SCONJ	IN		prep	True
+last	last	ADJ	JJ	DATE_B	amod	True
+spring	spring	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+adjustment	adjustment	PROPN	NNP		nsubj	False
+plus	plus	CCONJ	CC		cc	False
+seasonal	seasonal	ADJ	JJ	DATE_B	amod	False
+borrowing	borrowing	NOUN	NN		conj	False
+averaged	average	VERB	VBD		ROOT	False
+$	$	SYM	$	MONEY_B	quantmod	False
+762	762	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	dobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+four	four	NUM	CD	CARDINAL_B	nummod	True
+wednesday	wednesday	PROPN	NNP	DATE_B	npadvmod	False
+-	-	PUNCT	HYPH	DATE_I	punct	False
+ending	end	VERB	VBG	DATE_I	amod	False
+weeks	week	NOUN	NNS	DATE_I	pobj	False
+since	since	SCONJ	IN		prep	True
+the	the	DET	DT		det	True
+last	last	ADJ	JJ		amod	True
+committee	committee	NOUN	NN		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+level	level	NOUN	NN		nsubjpass	False
+of	of	ADP	IN		prep	True
+borrowing	borrowing	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+$	$	SYM	$	MONEY_B	quantmod	False
+700	700	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	pobj	False
+most	most	ADV	RBS		advmod	True
+recently	recently	ADV	RB		advmod	False
+has	have	AUX	VBZ		aux	True
+been	be	AUX	VBN		auxpass	True
+assumed	assume	VERB	VBN		ROOT	False
+in	in	ADP	IN		prep	True
+constructing	construct	VERB	VBG		pcomp	False
+the	the	DET	DT		det	True
+reserve	reserve	NOUN	NN		compound	False
+paths	path	NOUN	NNS		dobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+5	5	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+greater	great	ADJ	JJR		amod	False
+willingness	willingness	NOUN	NN		ROOT	False
+of	of	ADP	IN		prep	True
+banks	bank	NOUN	NNS		pobj	False
+to	to	PART	TO		aux	True
+use	use	VERB	VB		acl	False
+discount	discount	NOUN	NN		compound	False
+window	window	NOUN	NN		compound	False
+credit	credit	NOUN	NN		dobj	False
+,	,	PUNCT	,		punct	False
+market	market	NOUN	NN		compound	False
+expectations	expectation	NOUN	NNS		dobj	False
+of	of	ADP	IN		prep	True
+monetary	monetary	ADJ	JJ		amod	False
+easing	ease	VERB	VBG		pobj	False
+as	as	SCONJ	IN		mark	True
+m1	m1	PROPN	NNP	ORG_B	nsubj	False
+weakened	weaken	VERB	VBD		advcl	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+a	a	DET	DT		det	True
+drop	drop	NOUN	NN		conj	False
+in	in	ADP	IN		prep	True
+other	other	ADJ	JJ		amod	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+contributed	contribute	VERB	VBD		acl	False
+to	to	ADP	IN		prep	True
+a	a	DET	DT		det	True
+decline	decline	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		pobj	False
+from	from	ADP	IN		prep	True
+around	around	ADP	IN	PERCENT_B	quantmod	True
+11	11	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+just	just	ADV	RB		advmod	True
+before	before	ADP	IN		prep	True
+the	the	DET	DT		det	True
+october	october	PROPN	NNP	DATE_B	compound	False
+fomc	fomc	NOUN	NN		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+neighborhood	neighborhood	NOUN	NN		pobj	False
+of	of	ADP	IN		quantmod	True
+10	10	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	conj	False
+most	most	ADV	RBS		advmod	True
+recently	recently	ADV	RB		advmod	False
+;	;	PUNCT	:		punct	False
+funds	fund	NOUN	NNS		appos	False
+traded	trade	VERB	VBN		acl	False
+below	below	ADP	IN		prep	True
+that	that	DET	DT		det	True
+level	level	NOUN	NN		pobj	False
+on	on	ADP	IN		prep	True
+a	a	DET	DT	DATE_B	det	True
+number	number	NOUN	NN	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+days	day	NOUN	NNS	DATE_I	pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+latter	latter	ADJ	JJ		amod	True
+part	part	NOUN	NN		pobj	True
+of	of	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+rates	rate	NOUN	NNS		nsubj	False
+on	on	ADP	IN		prep	True
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+bills	bill	NOUN	NNS		pobj	False
+have	have	AUX	VBP		aux	True
+dropped	drop	VERB	VBN		ccomp	False
+about	about	ADV	RB	CARDINAL_B	quantmod	True
+120	120	NUM	CD	CARDINAL_I	nummod	False
+basis	basis	NOUN	NN		compound	False
+points	point	NOUN	NNS		dobj	False
+and	and	CCONJ	CC		cc	True
+on	on	ADP	IN		conj	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		nmod	False
+private	private	ADJ	JJ		amod	False
+instruments	instrument	NOUN	NNS		pobj	False
+by	by	ADP	IN		prep	True
+125	125	NUM	CD	CARDINAL_B	quantmod	False
+to	to	PART	TO	CARDINAL_I	quantmod	True
+150	150	NUM	CD	CARDINAL_I	nummod	False
+basis	basis	NOUN	NN		compound	False
+points	point	NOUN	NNS		pobj	False
+during	during	ADP	IN		prep	True
+the	the	DET	DT		det	True
+intermeeting	intermeete	VERB	VBG		amod	False
+period	period	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+bringing	bring	VERB	VBG		advcl	False
+the	the	DET	DT		det	True
+3-month	3-month	NUM	CD		nummod	False
+bank	bank	NOUN	NN		compound	False
+cd	cd	NOUN	NN		compound	False
+rate	rate	NOUN	NN		dobj	False
+to	to	ADP	IN		prep	True
+about	about	ADV	RB		quantmod	True
+9	9	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+;	;	PUNCT	:		punct	False
+most	most	ADJ	JJS		amod	True
+major	major	ADJ	JJ		amod	False
+banks	bank	NOUN	NNS		nsubj	False
+reduced	reduce	VERB	VBD		ROOT	False
+their	-PRON-	DET	PRP$		poss	True
+prime	prime	ADJ	JJ		amod	False
+rates	rate	NOUN	NNS		dobj	False
+to	to	ADP	IN		prep	True
+12	12	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+late	late	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+treasury	treasury	PROPN	NNP	ORG_B	nsubj	False
+and	and	CCONJ	CC		cc	True
+corporate	corporate	ADJ	JJ		amod	False
+bond	bond	NOUN	NN		compound	False
+yields	yield	NOUN	NNS		conj	False
+have	have	AUX	VBP		aux	True
+declined	decline	VERB	VBN		ROOT	False
+by	by	ADP	IN		prep	True
+about	about	ADV	RB	CARDINAL_B	advmod	True
+80	80	NUM	CD	CARDINAL_I	nummod	False
+basis	basis	NOUN	NN		compound	False
+points	point	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+responding	respond	VERB	VBG		advcl	False
+as	as	ADV	RB		advmod	True
+well	well	ADV	RB		advmod	True
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+apparently	apparently	ADV	RB		advmod	False
+improved	improve	VERB	VBN		pobj	False
+out-	out-	ADJ	JJ		punct	False
+look	look	NOUN	NN		dobj	False
+for	for	ADP	IN		prep	True
+inflation	inflation	NOUN	NN		pobj	False
+from	from	ADP	IN		prep	True
+the	the	DET	DT		det	True
+weakness	weakness	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+oil	oil	NOUN	NN		compound	False
+prices	price	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+
+to	to	ADP	IN		ROOT	True
+information	information	NOUN	NN		pobj	False
+suggest-	suggest-	PROPN	NNP		punct	False
+ing	e	VERB	VBG		pobj	False
+a	a	DET	DT		det	True
+more	more	ADV	RBR		advmod	True
+moderate	moderate	ADJ	JJ		amod	False
+pace	pace	NOUN	NN		dobj	False
+of	of	ADP	IN		prep	True
+economic	economic	ADJ	JJ		amod	False
+activity	activity	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+6	6	X	LS	CARDINAL_B	nummod	False
+)	)	PUNCT	-RRB-		punct	False
+exchange	exchange	NOUN	NN		compound	False
+market	market	NOUN	NN		compound	False
+conditions	condition	NOUN	NNS		nsubj	False
+were	be	AUX	VBD		ROOT	True
+fairly	fairly	ADV	RB		advmod	False
+volatile	volatile	ADJ	JJ		acomp	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+since	since	SCONJ	IN		prep	True
+the	the	DET	DT		det	True
+last	last	ADJ	JJ		amod	True
+committee	committee	NOUN	NN		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+dollar	dollar	NOUN	NN		nsubj	False
+has	have	AUX	VBZ		aux	True
+dropped	drop	VERB	VBN		ROOT	False
+about	about	ADV	RB	CARDINAL_B	quantmod	True
+2	2	NUM	CD	CARDINAL_I	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+percent	percent	NOUN	NN	CARDINAL_I	dobj	False
+on	on	ADP	IN		prep	True
+balance	balance	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+after	after	ADP	IN		prep	True
+first	first	ADV	RB	ORDINAL_B	advmod	True
+rising	rise	VERB	VBG		pcomp	False
+to	to	ADP	IN		prep	True
+a	a	DET	DT		det	True
+new	new	ADJ	JJ		amod	False
+record	record	NOUN	NN		pobj	False
+high	high	ADJ	JJ		amod	False
+in	in	ADP	IN		prep	True
+mid	mid	PROPN	NNP	DATE_B	dep	False
+-	-	PROPN	NNP	DATE_I	dep	False
+october	october	PROPN	NNP	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+desk	desk	NOUN	NN		nsubj	False
+intervened	intervene	VERB	VBD		ROOT	False
+on	on	ADP	IN		prep	True
+one	one	NUM	CD	DATE_B	nummod	True
+day	day	NOUN	NN	DATE_I	pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+selling	sell	VERB	VBG		advcl	False
+$	$	SYM	$	MONEY_B	quantmod	False
+95	95	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	dobj	False
+.	.	PUNCT	.		punct	False
+
+prospective	prospective	ADJ	JJ		amod	False
+developments	development	NOUN	NNS		nsubj	False
+(	(	PUNCT	-LRB-		punct	False
+7	7	X	LS		appos	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+table	table	NOUN	NN		nsubj	False
+below	below	ADV	RB		advmod	True
+gives	give	VERB	VBZ		ROOT	False
+two	two	NUM	CD	CARDINAL_B	nummod	True
+alternative	alternative	ADJ	JJ		amod	False
+specifications	specification	NOUN	NNS		dobj	False
+for	for	ADP	IN		prep	True
+growth	growth	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	ADJ	JJ		amod	False
+aggregates	aggregate	NOUN	NNS		pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+from	from	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+to	to	ADP	IN	DATE_I	prep	True
+december	december	PROPN	NNP	DATE_I	pobj	False
+,	,	PUNCT	,		punct	False
+along	along	ADP	IN		prep	True
+with	with	ADP	IN		prep	True
+associated	associated	ADJ	JJ		amod	False
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		compound	False
+ranges	range	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+more	more	ADV	RBR		advmod	True
+detailed	detailed	ADJ	JJ		amod	False
+data	datum	NOUN	NNS		ROOT	False
+,	,	PUNCT	,		punct	False
+
+in-	in-	ADV	RB		intj	False
+cluding	clude	VERB	VBG		csubjpass	False
+implied	imply	VERB	VBN		amod	False
+growth	growth	NOUN	NN		dobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT		det	True
+qiv	qiv	PROPN	NNP	ORG_B	nmod	False
+1983-to	1983-to	PROPN	NNP		nummod	False
+-	-	PUNCT	HYPH		punct	False
+qiv	qiv	PROPN	NNP		nmod	False
+1984	1984	NUM	CD	DATE_B	nummod	False
+period	period	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+for	for	ADP	IN		conj	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+through	through	ADP	IN	DATE_I	prep	True
+december	december	PROPN	NNP	DATE_I	pobj	False
+,	,	PUNCT	,		punct	False
+can	can	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+found	find	VERB	VBN		ROOT	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+table	table	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+charts	chart	NOUN	NNS		conj	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+following	follow	VERB	VBG		amod	False
+pages	page	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+)	)	PUNCT	-RRB-		punct	False
+
+given	give	VERB	VBN		prep	False
+the	the	DET	DT		det	True
+substantial	substantial	ADJ	JJ		amod	False
+weakness	weakness	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	ORG_B	pobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+,	,	PUNCT	,		punct	False
+both	both	DET	DT		det	True
+alternatives	alternative	NOUN	NNS		nsubj	False
+contemplate	contemplate	VERB	VBP		ROOT	False
+growth	growth	NOUN	NN		dobj	False
+in	in	ADP	IN		prep	True
+this	this	DET	DT		det	True
+aggregate	aggregate	NOUN	NN		pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+three	three	NUM	CD	DATE_B	nummod	True
+-	-	PUNCT	HYPH	DATE_I	punct	False
+month	month	NOUN	NN	DATE_I	nmod	False
+september	september	PROPN	NNP		nmod	False
+-	-	PUNCT	HYPH		punct	False
+to	to	ADP	IN		prep	True
+-	-	PUNCT	HYPH		punct	False
+december	december	PROPN	NNP	DATE_B	pobj	False
+period	period	NOUN	NN		pobj	False
+well	well	ADV	RB		advmod	True
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		amod	False
+objective	objective	NOUN	NN		pobj	False
+specified	specify	VERB	VBN		acl	False
+by	by	ADP	IN		agent	True
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		pobj	False
+at	at	ADP	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+last	last	ADJ	JJ		amod	True
+meeting	meeting	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+but	but	CCONJ	CC		cc	True
+growth	growth	NOUN	NN		nsubjpass	False
+of	of	ADP	IN		prep	True
+m2	m2	PROPN	NNP	PRODUCT_B	pobj	False
+and	and	CCONJ	CC	PRODUCT_I	cc	True
+m3	m3	PROPN	NNP	PRODUCT_I	conj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+expected	expect	VERB	VBN		conj	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+near	near	SCONJ	IN		prep	False
+their	-PRON-	DET	PRP$		poss	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		amod	False
+objectives	objective	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+alternative	alternative	PROPN	NNP		ROOT	False
+
+a	a	DET	DT		nsubj	True
+involves	involve	VERB	VBZ		ROOT	False
+an	an	DET	DT		det	True
+initial	initial	ADJ	JJ		amod	False
+easing	easing	NOUN	NN		dobj	False
+in	in	ADP	IN		prep	True
+bank	bank	NOUN	NN	ORG_B	compound	False
+reserve	reserve	NOUN	NN	ORG_I	compound	False
+positions	position	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+while	while	SCONJ	IN		mark	True
+no	no	DET	DT		det	True
+substantial	substantial	ADJ	JJ		amod	False
+change	change	NOUN	NN		nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+contemplated	contemplate	VERB	VBN		advcl	False
+by	by	ADP	IN		agent	True
+alternative	alternative	PROPN	NNP		amod	False
+b.	b.	PROPN	NNP		nmod	False
+no	no	DET	DT		det	True
+alternative	alternative	NOUN	NN		pobj	False
+that	that	DET	WDT		nsubj	True
+would	would	VERB	MD		aux	True
+initially	initially	ADV	RB		advmod	False
+tighten	tighten	VERB	VB	ORG_B	relcl	False
+bank	bank	NOUN	NN	ORG_I	compound	False
+reserve	reserve	NOUN	NN	ORG_I	compound	False
+positions	position	NOUN	NNS		dobj	False
+is	be	AUX	VBZ		auxpass	True
+presented	present	VERB	VBN		conj	False
+in	in	ADP	IN		prep	True
+view	view	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+size	size	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+recent	recent	ADJ	JJ		amod	False
+shortfalls	shortfall	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+and	and	CCONJ	CC		cc	True
+m2	m2	PROPN	NNP	PRODUCT_B	conj	False
+,	,	PUNCT	,		punct	False
+with	with	ADP	IN		prep	True
+both	both	DET	DT		det	True
+aggregates	aggregate	NOUN	NNS		pobj	False
+now	now	ADV	RB		advmod	True
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+lower	low	ADJ	JJR		amod	False
+halves	half	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+their	-PRON-	DET	PRP$		poss	True
+ranges	range	NOUN	NNS		pobj	False
+for	for	ADP	IN		prep	True
+1984	1984	NUM	CD	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+memo	memo	PROPN	NNP		ROOT	False
+:	:	PUNCT	.		punct	False
+current	current	ADJ	JJ		amod	False
+alt	alt	NOUN	NN		appos	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+alt	alt	NOUN	NN		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	PROPN	NNP		det	False
+fomc	fomc	ADJ	JJ		compound	False
+specifications	specification	NOUN	NNS		compound	False
+growth	growth	NOUN	NN		nsubjpass	False
+from	from	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+to	to	ADP	IN		prep	True
+m1	m1	PROPN	NNP	LAW_B	nmod	False
+3	3	NUM	CD	LAW_I	compound	False
+-	-	SYM	SYM	LAW_I	punct	False
+1/2	1/2	NUM	CD	LAW_I	nummod	False
+2	2	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+6	6	NUM	CD		nummod	False
+m2	m2	PROPN	NNP		nmod	False
+7	7	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+7	7	NUM	CD		quantmod	False
+7	7	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+m3	m3	PROPN	NNP		nmod	False
+9	9	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+9	9	NUM	CD	CARDINAL_B	compound	False
+-	-	PUNCT	HYPH	CARDINAL_I	punct	False
+1/4	1/4	NUM	CD	CARDINAL_I	nummod	False
+9	9	NUM	CD		nummod	False
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		compound	False
+range	range	NOUN	NN		pobj	False
+7	7	NUM	CD	DATE_B	npadvmod	False
+to	to	PART	TO	DATE_I	prep	True
+11	11	NUM	CD	DATE_I	pobj	False
+8	8	NUM	CD	DATE_I	pobj	False
+to	to	PART	TO	DATE_I	prep	True
+12	12	NUM	CD	DATE_I	pobj	False
+8	8	NUM	CD	DATE_I	pobj	False
+to	to	PART	TO	DATE_I	prep	True
+12	12	NUM	CD	DATE_I	pobj	False
+(	(	PUNCT	-LRB-		punct	False
+8)	8)	NUM	CD		pobj	False
+under	under	ADP	IN		prep	True
+alternative	alternative	PROPN	NNP		amod	False
+b	b	PROPN	NNP		pobj	False
+,	,	PUNCT	,		punct	False
+m1	m1	PROPN	NNP	PRODUCT_B	nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+grow	grow	VERB	VB		xcomp	False
+fairly	fairly	ADV	RB		advmod	False
+rapidly	rapidly	ADV	RB		advmod	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+last	last	ADJ	JJ	DATE_I	amod	True
+two	two	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+-	-	PUNCT	,	DATE_I	punct	False
+at	at	ADP	IN	DATE_I	prep	True
+about	about	ADV	RB		advmod	True
+a	a	DET	DT		det	True
+7	7	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+some	some	DET	DT		nsubj	True
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+unusual	unusual	ADJ	JJ		amod	False
+factors	factor	NOUN	NNS		pobj	False
+that	that	DET	WDT		nsubj	True
+depressed	depress	VERB	VBD		relcl	False
+m1	m1	PROPN	NNP	WORK_OF_ART_B	dobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+-	-	PUNCT	,		punct	False
+such	such	ADJ	JJ		amod	True
+as	as	SCONJ	IN		prep	True
+the	the	DET	DT		det	True
+possible	possible	ADJ	JJ		amod	False
+pull	pull	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+relatively	relatively	ADV	RB		advmod	False
+high	high	ADV	RB		advmod	False
+-	-	PUNCT	HYPH		punct	False
+yielding	yield	VERB	VBG		amod	False
+mmda	mmda	ADJ	JJ		compound	False
+accounts	account	NOUN	NNS		ROOT	False
+on	on	ADP	IN		prep	True
+funds	fund	NOUN	NNS		pobj	False
+that	that	SCONJ	IN		dobj	True
+alternative	alternative	ADJ	JJ		amod	False
+levels	level	NOUN	NNS		intj	False
+and	and	CCONJ	CC		cc	True
+growth	growth	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		conj	False
+for	for	ADP	IN		prep	True
+
+key	key	ADJ	JJ		amod	False
+monetary	monetary	ADJ	JJ		amod	False
+aggregates	aggregate	NOUN	NNS		nmod	False
+monthly	monthly	ADJ	JJ	DATE_B	amod	False
+levels	level	NOUN	NNS		nsubj	False
+1984	1984	NUM	CD	DATE_B	nummod	False
+-	-	SYM	SYM		punct	False
+-july	-july	PROPN	NNP		prep	False
+growth	growth	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		ROOT	False
+monthly	monthly	ADV	RB	DATE_B	advmod	False
+
+1984	1984	NUM	CD	DATE_B	ROOT	False
+-	-	SYM	SYM		punct	False
+-july	-july	PROPN	NNP		ROOT	False
+1984	1984	NUM	CD	DATE_B	nummod	False
+june	june	PROPN	NNP	DATE_B	appos	False
+to	to	ADP	IN		prep	True
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		compound	False
+rates	rate	VERB	VBZ		pobj	False
+quarterly	quarterly	ADV	RB	DATE_B	advmod	False
+average	average	ADJ	JJ		amod	False
+1984	1984	NUM	CD	DATE_B	nummod	False
+-	-	PUNCT	HYPH	DATE_I	punct	False
+-q1	-q1	NOUN	NN	DATE_I	compound	False
+memo	memo	NOUN	NN		appos	False
+:	:	PUNCT	:		punct	False
+'	'	PUNCT	''		punct	False
+83	83	NUM	CD	CARDINAL_B	nummod	False
+q4	q4	PROPN	NNP		appos	False
+to	to	ADP	IN		prep	True
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		compound	False
+'84	'84	NUM	CD	DATE_B	nummod	False
+'	'	PART	POS		punct	False
+83	83	NUM	CD		nummod	False
+q4	q4	PROPN	NNP		pobj	False
+to	to	ADP	IN		prep	True
+'	'	PUNCT	''		punct	False
+84	84	NUM	CD		nummod	False
+q4	q4	PROPN	NNP		compound	False
+alt	alt	PROPN	NNP		pobj	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+alt	alt	NOUN	NN		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	PROPN	NNP		det	False
+alt	alt	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+alt	alt	NOUN	NN		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	PROPN	NNP		det	False
+alt	alt	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+alt	alt	NOUN	NN		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	X	LS		meta	False
+chart	chart	NOUN	NN		ROOT	False
+1	1	NUM	CD	CARDINAL_B	nummod	False
+actual	actual	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+targeted	target	VERB	VBN		conj	False
+m1	m1	PROPN	NNP	CARDINAL_B	appos	False
+confidential	confidential	ADJ	JJ		advmod	False
+
+(	(	PUNCT	-LRB-		punct	False
+fr	fr	PROPN	NNP		ROOT	False
+)	)	PUNCT	-RRB-		punct	False
+class	class	PROPN	NNP		compound	False
+ii	ii	PROPN	NNP		pobj	False
+fomc	fomc	ADJ	JJ		compound	False
+billions	billion	NOUN	NNS	MONEY_B	dobj	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+/	/	SYM	SYM		punct	False
+8	8	NUM	CD	PERCENT_B	nummod	False
+%	%	NOUN	NN	PERCENT_I	npadvmod	False
+-	-	PUNCT	HYPH		punct	False
+actual	actual	ADJ	JJ		amod	False
+levels	level	NOUN	NNS		appos	False
+--	--	PUNCT	:		punct	False
+estimated	estimate	VERB	VBN		amod	False
+levels	level	NOUN	NNS		nmod	False
+short	short	ADJ	JJ		amod	False
+run	run	NOUN	NN		compound	False
+alternatives	alternative	NOUN	NNS		appos	False
+
+-j510	-j510	PUNCT	NFP		punct	False
+chart	chart	NOUN	NN		ROOT	False
+2	2	NUM	CD	CARDINAL_B	nummod	False
+
+actual	actual	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+targeted	target	VERB	VBN		conj	False
+m2	m2	PROPN	NNP		nmod	False
+confidential	confidential	PROPN	NNP		nmod	False
+(	(	PUNCT	-LRB-		punct	False
+fr	fr	PROPN	NNP		nmod	False
+)	)	PUNCT	-RRB-		punct	False
+class	class	PROPN	NNP		compound	False
+ii	ii	PROPN	NNP		ROOT	False
+
+fomc	fomc	ADJ	JJ		amod	False
+billions	billion	NOUN	NNS	MONEY_B	ROOT	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+1	1	NUM	CD		nummod	False
+
+*	*	PUNCT	NFP		punct	False
+a	a	DET	DT		det	True
+aa	aa	PROPN	NNP		compound	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+actual	actual	ADJ	JJ		amod	False
+levels	level	NOUN	NNS		ROOT	False
+--	--	PUNCT	:		punct	False
+estimated	estimate	VERB	VBN		amod	False
+levels	level	NOUN	NNS		compound	False
+sshort	sshort	VERB	VBP		nsubj	False
+run	run	NOUN	NN		acl	False
+alternatives	alternative	NOUN	NNS		dobj	False
+•	•	PUNCT	:		nmod	False
+7	7	NUM	CD	CARDINAL_B	nummod	False
+chart	chart	NOUN	NN		npadvmod	False
+3	3	NUM	CD	CARDINAL_B	nummod	False
+confidential	confidential	ADJ	JJ		amod	False
+
+(	(	PUNCT	-LRB-		punct	False
+fr	fr	PROPN	NNP		nmod	False
+)	)	PUNCT	-RRB-		punct	False
+class	class	PROPN	NNP		compound	False
+ii	ii	PROPN	NNP		pobj	False
+fomc	fomc	NOUN	NN		nsubj	False
+actual	actual	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+targeted	target	VERB	VBN		conj	False
+m3	m3	PROPN	NNP	MONEY_B	compound	False
+billions	billion	NOUN	NNS	MONEY_I	ROOT	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+b-	b-	X	XX		punct	False
+
+2960	2960	NUM	CD		ROOT	False
+
+/9	/9	ADJ	JJ		punct	False
+%	%	NOUN	NN		ROOT	False
+2940	2940	NUM	CD	DATE_B	nummod	False
+--	--	PUNCT	:		punct	False
+actual	actual	ADJ	JJ		amod	False
+levels	level	NOUN	NNS		appos	False
+/	/	PUNCT	NFP		punct	False
+--	--	PUNCT	.		punct	False
+
+estimated	estimate	VERB	VBN		amod	False
+levels	level	NOUN	NNS		ROOT	False
+//	//	PUNCT	.		punct	False
+
+sshort	sshort	NOUN	NN		nsubj	False
+run	run	NOUN	NN		ROOT	False
+alternatives	alternative	NOUN	NNS	DATE_B	npadvmod	False
+-	-	PUNCT	:	DATE_I	punct	False
+2920	2920	NUM	CD	DATE_I	npadvmod	False
+//	//	SYM	SYM		punct	False
+2900	2900	NUM	CD		punct	False
+
+/v-	/v-	NUM	CD		punct	False
+2880	2880	NUM	CD	DATE_B	ROOT	False
+
+s2860	s2860	PROPN	NNP		ROOT	False
+/	/	SYM	SYM		punct	False
+
+-2840	-2840	PRON	PRP		ROOT	False
+
+s2820	s2820	PROPN	NNP		ROOT	False
+/	/	SYM	SYM		punct	False
+
+-2800	-2800	PROPN	NNP		ROOT	False
+
+s-	s-	PROPN	NNP		ROOT	False
+2780	2780	NUM	CD		nummod	False
+
+s2760	s2760	PROPN	NNP		dep	False
+s-	s-	X	XX		ROOT	False
+
+2740	2740	NUM	CD	DATE_B	ROOT	False
+
+i	i	PRON	PRP		ROOT	True
+
+11	11	NUM	CD	CARDINAL_B	nummod	False
+1i	1i	NUM	CD	CARDINAL_I	ROOT	False
+
+i	i	PRON	PRP		ROOT	True
+
+i	i	PRON	PRP		ROOT	True
+
+i	i	PRON	PRP		nsubj	True
+2640	2640	NUM	CD	DATE_B	appos	False
+might	may	VERB	MD		aux	True
+have	have	AUX	VB		aux	True
+otherwise	otherwise	ADV	RB		advmod	True
+gone	go	VERB	VBN		ROOT	False
+into	into	ADP	IN		prep	True
+transactions	transaction	NOUN	NNS		compound	False
+balances	balance	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+possible	possible	ADJ	JJ		amod	False
+shifts	shift	NOUN	NNS		conj	False
+out	out	SCONJ	IN		prep	True
+of	of	ADP	IN		prep	True
+cash	cash	NOUN	NN		pobj	False
+into	into	ADP	IN		prep	True
+longer	long	ADJ	JJR		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+market	market	NOUN	NN		compound	False
+instruments	instrument	NOUN	NNS		pobj	False
+as	as	SCONJ	IN		mark	True
+expectations	expectation	NOUN	NNS		nsubj	False
+of	of	ADP	IN		prep	True
+declining	decline	VERB	VBG		amod	False
+rates	rate	NOUN	NNS		pobj	False
+became	become	VERB	VBD		advcl	True
+more	more	ADV	RBR		advmod	True
+widespread	widespread	ADJ	JJ		acomp	False
+--	--	PUNCT	:		punct	False
+are	be	AUX	VBP		auxpass	True
+expected	expect	VERB	VBN		conj	False
+to	to	PART	TO		aux	True
+abate	abate	VERB	VB		xcomp	False
+.	.	PUNCT	.		punct	False
+
+moreover	moreover	ADV	RB		advmod	True
+,	,	PUNCT	,		punct	False
+demand	demand	NOUN	NN		nsubjpass	False
+for	for	ADP	IN		prep	True
+this	this	DET	DT		det	True
+aggregate	aggregate	NOUN	NN		pobj	False
+will	will	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+boosted	boost	VERB	VBN		ROOT	False
+over	over	ADP	IN		prep	True
+coming	coming	ADJ	JJ	DATE_B	amod	False
+months	month	NOUN	NNS	DATE_I	pobj	False
+by	by	ADP	IN		agent	True
+increases	increase	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+nominal	nominal	ADJ	JJ		amod	False
+income	income	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+spending	spending	NOUN	NN		conj	False
+and	and	CCONJ	CC		cc	True
+by	by	ADP	IN		conj	True
+the	the	DET	DT		det	True
+usual	usual	ADJ	JJ		amod	False
+lagged	lag	VERB	VBN		amod	False
+effects	effect	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+sizable	sizable	ADJ	JJ		amod	False
+declines	decline	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+since	since	SCONJ	IN		prep	True
+early	early	ADJ	JJ	DATE_B	amod	False
+september	september	PROPN	NNP	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+expected	expect	VERB	VBN		amod	False
+pickup	pickup	NOUN	NN		nsubj	False
+in	in	ADP	IN		prep	True
+m1	m1	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+november	november	PROPN	NNP	DATE_B	pobj	False
+and	and	CCONJ	CC	DATE_I	cc	True
+december	december	PROPN	NNP	DATE_I	conj	False
+would	would	VERB	MD		aux	True
+yield	yield	VERB	VB		ROOT	False
+only	only	ADV	RB	CARDINAL_B	advmod	True
+about	about	ADV	RB	CARDINAL_I	quantmod	True
+a	a	DET	DT	CARDINAL_I	quantmod	True
+2	2	NUM	CD	CARDINAL_I	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	nummod	False
+percent	percent	NOUN	NN	CARDINAL_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+growth	growth	NOUN	NN		compound	False
+rate	rate	NOUN	NN		dobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+last	last	ADJ	JJ	DATE_I	amod	True
+three	three	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+and	and	CCONJ	CC		cc	True
+only	only	ADV	RB		advmod	True
+1	1	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	conj	False
+on	on	ADP	IN		prep	True
+a	a	DET	DT		det	True
+quarterly	quarterly	ADJ	JJ	DATE_B	amod	False
+average	average	ADJ	JJ		amod	False
+basis	basis	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+as	as	SCONJ	IN		prep	True
+a	a	DET	DT		det	True
+whole	whole	NOUN	NN		amod	True
+(	(	PUNCT	-LRB-		punct	False
+qiv	qiv	PROPN	NNP	PERSON_B	nsubj	False
+to	to	ADP	IN		aux	True
+qiv	qiv	PROPN	NNP	PERSON_B	pobj	False
+)	)	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+m1	m1	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+around	around	ADV	RB	PERCENT_B	quantmod	True
+5	5	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	attr	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+9	9	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+assuming	assume	VERB	VBG		advcl	False
+gnp	gnp	PROPN	NNP		nsubj	False
+grows	grow	VERB	VBZ		ccomp	False
+as	as	SCONJ	IN		mark	True
+projected	project	VERB	VBN		advcl	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+green	green	ADJ	JJ		amod	False
+book	book	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+fourth	fourth	ADJ	JJ	DATE_I	amod	False
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+,	,	PUNCT	,		punct	False
+the	the	DET	DT		det	True
+velocity	velocity	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+would	would	VERB	MD		aux	True
+rise	rise	VERB	VB		ROOT	False
+by	by	ADP	IN		prep	True
+about	about	ADV	RB	CARDINAL_B	quantmod	True
+5	5	NUM	CD	CARDINAL_I	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+3/4	3/4	NUM	CD	CARDINAL_I	nummod	False
+percent	percent	NOUN	NN		pobj	False
+at	at	ADP	IN		prep	True
+an	an	DET	DT		det	True
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+that	that	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+such	such	DET	PDT		predet	True
+a	a	DET	DT		det	True
+relatively	relatively	ADV	RB		advmod	False
+rapid	rapid	ADJ	JJ		amod	False
+rise	rise	NOUN	NN		nsubj	False
+in	in	ADP	IN		prep	True
+velocity	velocity	NOUN	NN		pobj	False
+appears	appear	VERB	VBZ		ROOT	False
+unusual	unusual	ADJ	JJ		oprd	False
+,	,	PUNCT	,		punct	False
+looking	look	VERB	VBG		advcl	False
+back	back	ADV	RB		advmod	True
+over	over	ADP	IN		prep	True
+previous	previous	ADJ	JJ		amod	False
+experience	experience	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+periods	period	NOUN	NNS		pobj	False
+when	when	ADV	WRB		advmod	True
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		nsubj	False
+have	have	AUX	VBP		aux	True
+dropped	drop	VERB	VBN		advcl	False
+.	.	PUNCT	.		punct	False
+
+in	in	ADP	IN		prep	True
+part	part	NOUN	NN		pobj	True
+,	,	PUNCT	,		punct	False
+it	-PRON-	PRON	PRP		nsubj	True
+reflects	reflect	VERB	VBZ		ROOT	False
+the	the	DET	DT		det	True
+shifts	shift	NOUN	NNS		dobj	False
+out	out	SCONJ	IN		prep	True
+of	of	ADP	IN		prep	True
+cash	cash	NOUN	NN		pobj	False
+that	that	DET	WDT		nsubj	True
+have	have	AUX	VBP		aux	True
+already	already	ADV	RB		advmod	True
+occurred	occur	VERB	VBN		relcl	False
+.	.	PUNCT	.		punct	False
+
+but	but	CCONJ	CC		cc	True
+still	still	ADV	RB		advmod	True
+,	,	PUNCT	,		punct	False
+such	such	DET	PDT		predet	True
+a	a	DET	DT		det	True
+large	large	ADJ	JJ		amod	False
+implied	imply	VERB	VBN		amod	False
+velocity	velocity	NOUN	NN		compound	False
+growth	growth	NOUN	NN		nsubj	False
+does	do	AUX	VBZ		aux	True
+raise	raise	VERB	VB		ROOT	False
+questions	question	NOUN	NNS		dobj	False
+about	about	ADP	IN		prep	True
+whether	whether	SCONJ	IN		mark	True
+the	the	DET	DT		det	True
+actual	actual	ADJ	JJ		amod	False
+outcome	outcome	NOUN	NN		nsubj	False
+might	may	VERB	MD		aux	True
+instead	instead	ADV	RB		advmod	False
+involve	involve	VERB	VB		pcomp	False
+more	more	ADJ	JJR		amod	True
+money	money	NOUN	NN		compound	False
+growth	growth	NOUN	NN		dobj	False
+and/or	and/or	CCONJ	CC		punct	False
+less	less	ADJ	JJR		amod	True
+gnp	gnp	PROPN	NNP		compound	False
+expansion	expansion	NOUN	NN		conj	False
+,	,	PUNCT	,		punct	False
+given	give	VERB	VBN		prep	False
+the	the	DET	DT		det	True
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+contemplated	contemplate	VERB	VBN		acl	False
+in	in	ADP	IN		prep	True
+this	this	DET	DT		det	True
+alternative	alternative	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+10	10	NUM	CD	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+pickup	pickup	NOUN	NN		nsubjpass	False
+in	in	ADP	IN		prep	True
+m1	m1	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		pobj	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+lead	lead	VERB	VB		xcomp	False
+to	to	ADP	IN		prep	True
+more	more	ADV	RBR		advmod	True
+rapid	rapid	ADJ	JJ		amod	False
+expansion	expansion	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+m2	m2	PROPN	NNP	ORG_B	pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+balance	balance	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+as	as	SCONJ	IN		prep	True
+a	a	DET	DT		det	True
+whole	whole	NOUN	NN		pobj	True
+,	,	PUNCT	,		punct	False
+m2	m2	PROPN	NNP	ORG_B	nsubj	False
+should	should	VERB	MD		aux	True
+grow	grow	VERB	VB		ROOT	False
+about	about	ADP	IN		prep	True
+in	in	ADP	IN		prep	True
+line	line	NOUN	NN		pobj	False
+with	with	ADP	IN		prep	True
+nominal	nominal	ADJ	JJ		amod	False
+gnp	gnp	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+bringing	bring	VERB	VBG		advcl	False
+its	-PRON-	DET	PRP$		poss	True
+growth	growth	NOUN	NN		dobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+to	to	ADP	IN		prep	True
+around	around	ADP	IN	PERCENT_B	quantmod	True
+7	7	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+,	,	PUNCT	,		punct	False
+somewhat	somewhat	ADV	RB		advmod	False
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+mid	mid	NOUN	NN		dep	False
+-	-	NOUN	NN		dep	False
+point	point	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+longer	long	ADJ	JJR		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+range	range	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+m3	m3	PROPN	NNP	ORG_B	nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ccomp	False
+to	to	PART	TO		aux	True
+increase	increase	VERB	VB		xcomp	False
+in	in	ADP	IN		prep	True
+november	november	PROPN	NNP	DATE_B	pobj	False
+and	and	CCONJ	CC	DATE_I	cc	True
+december	december	PROPN	NNP	DATE_I	conj	False
+at	at	ADP	IN		prep	True
+somewhat	somewhat	ADV	RB		advmod	False
+less	less	ADJ	JJR		pobj	True
+than	than	SCONJ	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+october	october	PROPN	NNP	DATE_B	compound	False
+pace	pace	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+in	in	ADP	IN		prep	True
+part	part	NOUN	NN		pobj	True
+as	as	SCONJ	IN		prep	True
+yields	yield	NOUN	NNS		pobj	False
+on	on	ADP	IN		prep	True
+institution	institution	NOUN	NN		pobj	False
+-	-	PUNCT	:		punct	False
+only	only	ADJ	JJ		advmod	True
+money	money	NOUN	NN		compound	False
+funds	fund	NOUN	NNS		nsubj	False
+adjust	adjust	VERB	VBP		advcl	False
+to	to	ADP	IN		prep	True
+market	market	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+;	;	PUNCT	:		punct	False
+growth	growth	NOUN	NN		nsubj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+a	a	DET	DT		det	True
+bit	bit	NOUN	NN		npadvmod	False
+above	above	ADP	IN		prep	True
+the	the	DET	DT		det	True
+upper	upper	ADJ	JJ		amod	False
+end	end	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+comittee	comittee	NOUN	NN		poss	False
+'s	's	PART	POS		case	True
+longer	longer	ADV	RBR		advmod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	VERB	VBN		amod	False
+range	range	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+outstanding	outstanding	ADJ	JJ		amod	False
+cds	cd	NOUN	NNS		nsubjpass	False
+at	at	ADP	IN		prep	True
+banks	bank	NOUN	NNS		pobj	False
+are	be	AUX	VBP		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+grow	grow	VERB	VB		xcomp	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+moderate	moderate	ADJ	JJ		amod	False
+rate	rate	NOUN	NN		pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+balance	balance	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+,	,	PUNCT	,		punct	False
+with	with	ADP	IN		prep	True
+expansion	expansion	NOUN	NN		pobj	False
+restrained	restrain	VERB	VBD		acl	False
+in	in	ADP	IN		prep	True
+part	part	NOUN	NN		pobj	True
+by	by	ADP	IN		agent	True
+efforts	effort	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+a	a	DET	DT		det	True
+number	number	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+larger	large	ADJ	JJR		amod	False
+banks	bank	NOUN	NNS		pobj	False
+to	to	PART	TO		aux	True
+manage	manage	VERB	VB		acl	False
+their	-PRON-	DET	PRP$		poss	True
+balance	balance	NOUN	NN		compound	False
+sheets	sheet	NOUN	NNS		dobj	False
+more	more	ADV	RBR		advmod	True
+conservatively	conservatively	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+wake	wake	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+summer	summer	NOUN	NN	DATE_B	poss	False
+'s	's	PART	POS		case	True
+banking	banking	NOUN	NN		compound	False
+difficulties	difficulty	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+issuance	issuance	NOUN	NN		conj	False
+of	of	ADP	IN		prep	True
+proposed	propose	VERB	VBN		amod	False
+new	new	ADJ	JJ		amod	False
+capital	capital	NOUN	NN		nmod	False
+guide-	guide-	NOUN	NN		compound	False
+lines	line	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+11	11	X	LS	CARDINAL_B	nummod	False
+)	)	PUNCT	-RRB-		punct	False
+credit	credit	NOUN	NN		nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+projected	project	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+expand	expand	VERB	VB		xcomp	False
+more	more	ADV	RBR		advmod	True
+slowly	slowly	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+fourth	fourth	ADJ	JJ	DATE_I	amod	False
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+than	than	SCONJ	IN		prep	True
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+third	third	ADJ	JJ	ORDINAL_B	pobj	True
+,	,	PUNCT	,		punct	False
+owing	owe	VERB	VBG		advcl	False
+entirely	entirely	ADV	RB		advmod	False
+to	to	ADP	IN		prep	True
+a	a	DET	DT		det	True
+drop	drop	NOUN	NN		compound	False
+-	-	PUNCT	HYPH		punct	False
+off	off	NOUN	NN		pobj	True
+in	in	ADP	IN		prep	True
+private	private	ADJ	JJ		amod	False
+borrow-	borrow-	NOUN	NN		pobj	False
+
+ing	ing	PROPN	NNP	ORG_B	ROOT	False
+,	,	PUNCT	,		punct	False
+while	while	SCONJ	IN		mark	True
+federal	federal	ADJ	JJ		amod	False
+government	government	NOUN	NN		compound	False
+borrowing	borrowing	NOUN	NN		nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		advcl	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+substantially	substantially	ADV	RB		advmod	False
+stronger	strong	ADJ	JJR		acomp	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+current	current	ADJ	JJ	DATE_I	amod	False
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+than	than	SCONJ	IN		prep	True
+during	during	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+summer	summer	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+business	business	NOUN	NN		compound	False
+borrowing	borrowing	NOUN	NN		nsubjpass	False
+for	for	ADP	IN		prep	True
+mergers	merger	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+the	the	DET	DT		det	True
+like	like	ADJ	JJ		conj	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+continue	continue	VERB	VB		xcomp	False
+to	to	PART	TO		aux	True
+decline	decline	VERB	VB		xcomp	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+needs	need	NOUN	NNS		nsubj	False
+for	for	ADP	IN		mark	True
+credit	credit	NOUN	NN		nsubj	False
+to	to	PART	TO		aux	True
+fund	fund	NOUN	NN		advcl	False
+outlays	outlay	NOUN	NNS		dobj	False
+may	may	VERB	MD		aux	True
+edge	edge	VERB	VB		conj	False
+lower	low	ADJ	JJR		advmod	False
+from	from	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+third	third	ADJ	JJ	DATE_I	amod	True
+quarter	quarter	NOUN	NN	DATE_I	compound	False
+pace	pace	NOUN	NN		pobj	False
+as	as	SCONJ	IN		mark	True
+inventory	inventory	NOUN	NN		compound	False
+accumulation	accumulation	NOUN	NN		nsubj	False
+slows	slow	NOUN	NNS		advcl	False
+.	.	PUNCT	.		punct	False
+
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+household	household	NOUN	NN		compound	False
+sector	sector	NOUN	NN		compound	False
+mortgage	mortgage	NOUN	NN		compound	False
+takedowns	takedown	NOUN	NNS		pobj	False
+should	should	VERB	MD		aux	True
+continue	continue	VERB	VB		ROOT	False
+to	to	PART	TO		aux	True
+slow	slow	VERB	VB		xcomp	False
+,	,	PUNCT	,		punct	False
+as	as	SCONJ	IN		mark	True
+housing	housing	NOUN	NN		compound	False
+expenditures	expenditure	NOUN	NNS		nsubj	False
+weaken	weaken	VERB	VBP		advcl	False
+a	a	DET	DT		det	True
+little	little	ADJ	JJ		npadvmod	False
+further	further	ADV	RBR		advmod	True
+in	in	ADP	IN		prep	True
+reflection	reflection	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+increase	increase	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		pobj	False
+earlier	earlier	ADV	RBR	DATE_B	advmod	False
+this	this	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	npadvmod	False
+.	.	PUNCT	.		punct	False
+
+consumer	consumer	NOUN	NN		compound	False
+credit	credit	NOUN	NN		nsubj	False
+will	will	VERB	MD		aux	True
+probably	probably	ADV	RB		advmod	False
+continue	continue	VERB	VB		ROOT	False
+to	to	PART	TO		aux	True
+expand	expand	VERB	VB		xcomp	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+pace	pace	NOUN	NN		pobj	False
+well	well	ADV	RB		advmod	True
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+extra-	extra-	ADJ	JJ		nmod	False
+ordinary	ordinary	ADJ	JJ		amod	False
+rate	rate	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+earlier	earlier	ADV	RBR	DATE_B	advmod	False
+this	this	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+12	12	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+aggregate	aggregate	ADJ	JJ		amod	False
+specifications	specification	NOUN	NNS		nsubjpass	False
+of	of	ADP	IN		prep	True
+alternative	alternative	PROPN	NNP		compound	False
+b	b	PROPN	NNP		pobj	False
+are	be	AUX	VBP		auxpass	True
+thought	think	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+involve	involve	VERB	VB		xcomp	False
+pressures	pressure	NOUN	NNS		dobj	False
+on	on	ADP	IN		prep	True
+bank	bank	NOUN	NN	ORG_B	compound	False
+reserve	reserve	NOUN	NN	ORG_I	compound	False
+positions	position	NOUN	NNS		pobj	False
+indexed	index	VERB	VBN		acl	False
+by	by	ADP	IN		agent	True
+discount	discount	NOUN	NN		compound	False
+window	window	NOUN	NN		compound	False
+borrowing	borrowing	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+around	around	ADV	RB	MONEY_B	quantmod	True
+$	$	SYM	$	MONEY_I	quantmod	False
+700	700	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+this	this	DET	DT		nsubjpass	True
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		auxpass	True
+associated	associate	VERB	VBN		xcomp	False
+with	with	ADP	IN		prep	True
+a	a	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		pobj	False
+averaging	average	VERB	VBG		acl	False
+around	around	ADP	IN	PERCENT_B	quantmod	True
+10	10	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	dobj	False
+,	,	PUNCT	,		punct	False
+given	give	VERB	VBN		prep	False
+the	the	DET	DT		det	True
+apparent	apparent	ADJ	JJ		amod	False
+considerable	considerable	ADJ	JJ		amod	False
+diminution	diminution	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+banks	bank	NOUN	NNS		poss	False
+'	'	PART	POS		case	False
+reluctance	reluctance	NOUN	NN		pobj	False
+to	to	PART	TO		aux	True
+borrow	borrow	VERB	VB		acl	False
+over	over	ADP	IN		prep	True
+recent	recent	ADJ	JJ	DATE_B	amod	False
+weeks	week	NOUN	NNS	DATE_I	pobj	False
+and	and	CCONJ	CC		cc	True
+also	also	ADV	RB		advmod	True
+assuming	assume	VERB	VBG		conj	False
+that	that	SCONJ	IN		mark	True
+the	the	DET	DT		det	True
+"	"	PUNCT	``		punct	False
+frictional	frictional	ADJ	JJ		amod	False
+"	"	PUNCT	''		punct	False
+level	level	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+borrowing	borrowing	NOUN	NN		pobj	False
+is	be	AUX	VBZ		ccomp	True
+,	,	PUNCT	,		punct	False
+at	at	ADP	IN		prep	True
+$	$	SYM	$		quantmod	False
+300	300	NUM	CD	MONEY_B	quantmod	False
+to	to	PART	TO		quantmod	True
+$	$	SYM	$	MONEY_B	quantmod	False
+400	400	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	pobj	False
+,	,	PUNCT	,		punct	False
+somewhat	somewhat	ADV	RB		advmod	False
+higher	high	ADJ	JJR		amod	False
+than	than	SCONJ	IN		prep	True
+usual	usual	ADJ	JJ		amod	False
+.	.	PUNCT	.		punct	False
+
+such	such	DET	PDT		predet	True
+an	an	DET	DT		det	True
+assumption	assumption	NOUN	NN		nsubj	False
+for	for	ADP	IN		prep	True
+"	"	PUNCT	``		punct	False
+frictional	frictional	ADJ	JJ		amod	False
+"	"	PUNCT	''		punct	False
+borrowing	borrowing	NOUN	NN		pobj	False
+appears	appear	VERB	VBZ		ROOT	False
+consistent	consistent	ADJ	JJ		oprd	False
+with	with	ADP	IN		prep	True
+the	the	DET	DT		det	True
+recent	recent	ADJ	JJ		amod	False
+sustained	sustained	ADJ	JJ		amod	False
+level	level	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+seasonal	seasonal	ADJ	JJ		amod	False
+borrowing	borrowing	NOUN	NN		pobj	False
+at	at	ADP	IN		prep	True
+an	an	DET	DT		det	True
+unusually	unusually	ADV	RB		advmod	False
+large	large	ADJ	JJ		amod	False
+$	$	SYM	$	MONEY_B	quantmod	False
+300	300	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+after	after	ADP	IN		prep	True
+declining	decline	VERB	VBG		pcomp	False
+sharply	sharply	ADV	RB		advmod	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+,	,	PUNCT	,		punct	False
+nonborrowed	nonborrowed	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+total	total	ADJ	JJ		conj	False
+reserves	reserve	NOUN	NNS		nsubjpass	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+expand	expand	VERB	VB		xcomp	False
+at	at	ADP	IN		prep	True
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rates	rate	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+around	around	ADP	IN	PERCENT_B	advmod	True
+9	9	NUM	CD	PERCENT_I	nummod	False
+and	and	CCONJ	CC	PERCENT_I	cc	True
+6	6	NUM	CD	PERCENT_I	conj	False
+percent	percent	NOUN	NN	PERCENT_I	pobj	False
+,	,	PUNCT	,		punct	False
+respectively	respectively	ADV	RB		advmod	False
+,	,	PUNCT	,		punct	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+last	last	ADJ	JJ	DATE_I	amod	True
+two	two	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+13	13	NUM	CD	CARDINAL_B	nummod	False
+)	)	PUNCT	-RRB-		punct	False
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		nsubj	False
+are	be	AUX	VBP		ROOT	True
+not	not	PART	RB		neg	True
+likely	likely	ADJ	JJ		acomp	False
+to	to	PART	TO		aux	True
+change	change	VERB	VB		xcomp	False
+substantially	substantially	ADV	RB		advmod	False
+under	under	ADP	IN		prep	True
+this	this	DET	DT		det	True
+alternative	alternative	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+although	although	SCONJ	IN		mark	True
+they	-PRON-	PRON	PRP		nsubj	True
+could	could	VERB	MD		aux	True
+back	back	VERB	VB		advcl	True
+up	up	ADP	RP		prt	True
+somewhat	somewhat	ADV	RB		advmod	False
+from	from	ADP	IN		prep	True
+current	current	ADJ	JJ		amod	False
+levels	level	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+given	give	VERB	VBN		prep	False
+apparent	apparent	ADJ	JJ		amod	False
+expectations	expectation	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+market	market	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+a	a	DET	DT		det	True
+further	further	ADJ	JJ		advmod	True
+easing	easing	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+pressures	pressure	NOUN	NNS		pobj	False
+on	on	ADP	IN		prep	True
+bank	bank	NOUN	NN	ORG_B	compound	False
+reserve	reserve	NOUN	NN	ORG_I	compound	False
+positions	position	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+3-month	3-month	NUM	CD		nummod	False
+bill	bill	NOUN	NN		compound	False
+rate	rate	NOUN	NN		nsubj	False
+may	may	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+in	in	ADP	IN		prep	True
+a	a	DET	DT		quantmod	True
+8	8	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+7/8	7/8	NUM	CD	CARDINAL_I	quantmod	False
+to	to	ADP	IN		quantmod	True
+9	9	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+3/8	3/8	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	compound	False
+range	range	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+probably	probably	ADV	RB		advmod	False
+moving	move	VERB	VBG		advcl	False
+into	into	ADP	IN		prep	True
+the	the	DET	DT		det	True
+upper	upper	ADJ	JJ		amod	False
+part	part	NOUN	NN		pobj	True
+of	of	ADP	IN		prep	True
+that	that	DET	DT		det	True
+range	range	NOUN	NN		pobj	False
+if	if	SCONJ	IN		mark	True
+funds	fund	NOUN	NNS		nsubj	False
+trade	trade	VERB	VBP		advcl	False
+persistently	persistently	ADV	RB		advmod	False
+around	around	ADP	IN	PERCENT_B	advmod	True
+10	10	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	dobj	False
+.	.	PUNCT	.		punct	False
+
+long	long	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+markets	market	NOUN	NNS		nsubj	False
+,	,	PUNCT	,		punct	False
+too	too	ADV	RB		advmod	True
+,	,	PUNCT	,		punct	False
+remain	remain	VERB	VBP		ROOT	False
+sensitive	sensitive	ADJ	JJ		acomp	False
+to	to	ADP	IN		prep	True
+expectations	expectation	NOUN	NNS		pobj	False
+about	about	ADP	IN		prep	True
+the	the	DET	DT		det	True
+near	near	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+stance	stance	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+monetary	monetary	ADJ	JJ		amod	False
+policy	policy	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+as	as	ADV	RB		advmod	True
+well	well	ADV	RB		advmod	True
+as	as	SCONJ	IN		cc	True
+to	to	ADP	IN		prep	True
+incoming	incoming	ADJ	JJ		pcomp	False
+data	datum	NOUN	NNS		dobj	False
+on	on	ADP	IN		prep	True
+inflation	inflation	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+economic	economic	ADJ	JJ		amod	False
+activity	activity	NOUN	NN		conj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+pressure	pressure	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+credit	credit	NOUN	NN		compound	False
+demands	demand	NOUN	NNS		pobj	False
+on	on	ADP	IN		prep	True
+longer	long	ADJ	JJR		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+markets	market	NOUN	NNS		pobj	False
+may	may	VERB	MD		aux	True
+moderate	moderate	VERB	VB		ROOT	False
+,	,	PUNCT	,		punct	False
+though	though	ADV	RB		advmod	True
+,	,	PUNCT	,		punct	False
+as	as	SCONJ	IN		mark	True
+the	the	DET	DT		det	True
+effects	effect	NOUN	NNS		nsubj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+previous	previous	ADJ	JJ		amod	False
+relatively	relatively	ADV	RB		advmod	False
+steep	steep	ADJ	JJ		amod	False
+declines	decline	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+rates	rate	NOUN	NNS		pobj	False
+on	on	ADP	IN		prep	True
+corporate	corporate	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+state	state	NOUN	NN		conj	False
+and	and	CCONJ	CC		cc	True
+local	local	ADJ	JJ		conj	False
+issuance	issuance	NOUN	NN		pobj	False
+wear	wear	VERB	VBP		advcl	False
+off	off	ADP	RP		prt	True
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+14	14	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+alternative	alternative	NOUN	NN		ROOT	False
+a	a	DET	DT		det	True
+contemplates	contemplate	NOUN	NNS		dobj	False
+a	a	DET	DT		det	True
+more	more	ADV	RBR		advmod	True
+expansive	expansive	ADJ	JJ		amod	False
+reserve	reserve	NOUN	NN		compound	False
+posture	posture	NOUN	NN		npadvmod	False
+that	that	DET	WDT		nsubj	True
+would	would	VERB	MD		aux	True
+encourage	encourage	VERB	VB		relcl	False
+more	more	ADV	RBR		advmod	True
+rapid	rapid	ADJ	JJ		amod	False
+growth	growth	NOUN	NN		dobj	False
+in	in	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+and	and	CCONJ	CC		cc	True
+m2	m2	PROPN	NNP	PRODUCT_B	conj	False
+.	.	PUNCT	.		punct	False
+
+growth	growth	NOUN	NN		nsubjpass	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+last	last	ADJ	JJ	DATE_I	amod	True
+two	two	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+anticipated	anticipate	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+around	around	ADV	RB		quantmod	True
+8	8	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	attr	False
+,	,	PUNCT	,		punct	False
+encouraged	encourage	VERB	VBN		acl	False
+by	by	ADP	IN		agent	True
+growth	growth	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+nonborrowed	nonborrowed	ADJ	JJ		amod	False
+reserves	reserve	NOUN	NNS		pobj	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+15	15	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+three	three	NUM	CD	DATE_B	nummod	True
+-	-	PUNCT	HYPH	DATE_I	punct	False
+month	month	NOUN	NN	DATE_I	nmod	False
+september	september	PROPN	NNP		nmod	False
+-	-	PUNCT	HYPH		punct	False
+to	to	ADP	IN		prep	True
+-	-	PUNCT	HYPH		punct	False
+december	december	PROPN	NNP	DATE_B	pobj	False
+period	period	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+m1	m1	PROPN	NNP	ORG_B	nsubj	False
+would	would	VERB	MD		aux	True
+expand	expand	VERB	VB		ROOT	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+3	3	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	nmod	False
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+m2	m2	NOUN	NN	WORK_OF_ART_B	conj	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+7	7	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+1/2	1/2	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	compound	False
+rate	rate	NOUN	NN		pobj	False
+-	-	PUNCT	:		punct	False
+still	still	ADV	RB		advmod	True
+below	below	ADP	IN		prep	True
+objectives	objective	NOUN	NNS		pobj	False
+set	set	VERB	VBN		acl	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+last	last	ADJ	JJ		amod	True
+meeting	meeting	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+m1	m1	PROPN	NNP	FAC_B	pobj	False
+but	but	CCONJ	CC		cc	True
+on	on	ADP	IN		conj	True
+target	target	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+m2	m2	PROPN	NNP	ORG_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+growth	growth	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+m3	m3	PROPN	NNP	LAW_B	pobj	False
+may	may	VERB	MD		aux	True
+turn	turn	VERB	VB		ROOT	False
+out	out	ADP	RP		prt	True
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+somewhat	somewhat	ADV	RB		advmod	False
+further	further	ADV	RB		advmod	True
+above	above	ADP	IN		prep	True
+the	the	DET	DT		det	True
+currently	currently	ADV	RB		advmod	False
+specified	specify	VERB	VBN		amod	False
+3-month	3-month	NUM	CD		nummod	False
+growth	growth	NOUN	NN		compound	False
+rate	rate	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+as	as	SCONJ	IN		mark	True
+an	an	DET	DT		det	True
+additional	additional	ADJ	JJ		amod	False
+easing	easing	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+market	market	NOUN	NN		compound	False
+conditions	condition	NOUN	NNS		pobj	False
+encourages	encourage	VERB	VBZ		advcl	False
+credit	credit	NOUN	NN		compound	False
+expansion	expansion	NOUN	NN		dobj	False
+.	.	PUNCT	.		punct	False
+
+(	(	PUNCT	-LRB-		punct	False
+15	15	X	LS	CARDINAL_B	meta	False
+)	)	PUNCT	-RRB-		punct	False
+the	the	DET	DT		det	True
+behavior	behavior	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+monetary	monetary	ADJ	JJ		amod	False
+aggregates	aggregate	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+aggregate	aggregate	VERB	VBP		conj	False
+re-	re-	ADJ	JJ		dobj	False
+serves	serve	NOUN	NNS		ccomp	False
+under	under	ADP	IN		prep	True
+alternative	alternative	NOUN	NN		pobj	False
+a	a	DET	DT		nsubjpass	True
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+consistent	consistent	ADJ	JJ		acomp	False
+with	with	ADP	IN		prep	True
+borrowing	borrowing	NOUN	NN		pcomp	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+discount	discount	NOUN	NN		compound	False
+window	window	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+around	around	ADV	RB	MONEY_B	quantmod	True
+$	$	SYM	$	MONEY_I	quantmod	False
+400	400	NUM	CD	MONEY_I	compound	False
+million	million	NUM	CD	MONEY_I	pobj	False
+,	,	PUNCT	,		punct	False
+near	near	SCONJ	IN		prep	False
+the	the	DET	DT		det	True
+currently	currently	ADV	RB		advmod	False
+esti-	esti-	NOUN	NN		nmod	False
+mated	mate	VERB	VBN		amod	False
+"	"	PUNCT	``		punct	False
+frictional	frictional	ADJ	JJ		amod	False
+"	"	PUNCT	''		punct	False
+level	level	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+decline	decline	VERB	VB		ROOT	False
+to	to	PART	TO		aux	True
+close	close	VERB	VB		advcl	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+9	9	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	compound	False
+discount	discount	NOUN	NN		compound	False
+rate	rate	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+probably	probably	ADV	RB		advmod	False
+just	just	ADV	RB		advmod	True
+above	above	ADP	IN		prep	True
+it	-PRON-	PRON	PRP		pobj	True
+.	.	PUNCT	.		punct	False
+
+other	other	ADJ	JJ		amod	True
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		nsubj	False
+,	,	PUNCT	,		punct	False
+both	both	DET	DT		preconj	True
+short-	short-	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+long	long	ADJ	JJ		conj	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		appos	False
+,	,	PUNCT	,		punct	False
+would	would	VERB	MD		aux	True
+decline	decline	VERB	VB		ccomp	False
+sharply	sharply	ADV	RB		advmod	False
+,	,	PUNCT	,		punct	False
+with	with	ADP	IN		prep	True
+the	the	DET	DT		det	True
+3-month	3-month	NUM	CD		nummod	False
+treasury	treasury	NOUN	NN	ORG_B	compound	False
+bill	bill	NOUN	NN		compound	False
+rate	rate	NOUN	NN		nsubj	False
+falling	fall	VERB	VBG		pcomp	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+8	8	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/4	1/4	NUM	CD	CARDINAL_I	quantmod	False
+to	to	PART	TO		quantmod	True
+8	8	NUM	CD	PERCENT_B	compound	False
+-	-	SYM	SYM	PERCENT_I	punct	False
+3/4	3/4	NUM	CD	PERCENT_I	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	compound	False
+area	area	NOUN	NN		pobj	False
+;	;	PUNCT	:		punct	False
+the	the	DET	DT		det	True
+dollar	dollar	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+probably	probably	ADV	RB		advmod	False
+decline	decline	VERB	VB		ROOT	False
+substantially	substantially	ADV	RB		advmod	False
+further	further	ADV	RB		advmod	True
+on	on	ADP	IN		prep	True
+exchange	exchange	NOUN	NN		compound	False
+markets	market	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+expecta-	expecta-	ADJ	JJ		compound	False
+tions	tion	NOUN	NNS		nsubj	False
+of	of	ADP	IN		prep	True
+a	a	DET	DT		det	True
+discount	discount	NOUN	NN		compound	False
+rate	rate	NOUN	NN		compound	False
+cut	cut	NOUN	NN		pobj	False
+would	would	VERB	MD		aux	True
+become	become	VERB	VB		ROOT	True
+widespread	widespread	ADJ	JJ		acomp	False
+.	.	PUNCT	.		punct	False
+
+in	in	ADP	IN		prep	True
+credit	credit	NOUN	NN		compound	False
+markets	market	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+bond	bond	NOUN	NN		compound	False
+issuance	issuance	NOUN	NN		nsubjpass	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+enlarged	enlarge	VERB	VBN		ROOT	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+mortgage	mortgage	NOUN	NN		compound	False
+commitments	commitment	NOUN	NNS		nsubj	False
+and	and	CCONJ	CC		cc	True
+borrowing	borrowing	NOUN	NN		conj	False
+could	could	VERB	MD		aux	True
+begin	begin	VERB	VB		conj	False
+to	to	PART	TO		aux	True
+pick	pick	VERB	VB		xcomp	False
+up	up	ADP	RP		prt	True
+in	in	ADP	IN		prep	True
+late	late	ADJ	JJ	DATE_B	amod	False
+fall	fall	NOUN	NN	DATE_I	pobj	False
+and	and	CCONJ	CC		cc	True
+winter	winter	NOUN	NN	DATE_B	conj	False
+in	in	ADP	IN		prep	True
+response	response	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+lower	low	ADJ	JJR		amod	False
+rates	rate	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+the	the	DET	DT		det	True
+greater	great	ADJ	JJR		amod	False
+willingness	willingness	NOUN	NN		conj	False
+of	of	ADP	IN		prep	True
+thrifts	thrift	NOUN	NNS		pobj	False
+to	to	PART	TO		aux	True
+supply	supply	VERB	VB		advcl	False
+credit	credit	NOUN	NN		dobj	False
+aggressively	aggressively	ADV	RB		advmod	False
+as	as	SCONJ	IN		mark	True
+their	-PRON-	DET	PRP$		poss	True
+financial	financial	ADJ	JJ		amod	False
+condition	condition	NOUN	NN		nsubj	False
+improved	improve	VERB	VBD		advcl	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+decline	decline	NOUN	NN		nsubj	False
+in	in	ADP	IN		prep	True
+rates	rate	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+november	november	PROPN	NNP	DATE_B	pobj	False
+and	and	CCONJ	CC	DATE_I	cc	True
+december	december	PROPN	NNP	DATE_I	conj	False
+would	would	VERB	MD		aux	True
+tend	tend	VERB	VB		ROOT	False
+to	to	PART	TO		aux	True
+boost	boost	VERB	VB		xcomp	False
+money	money	NOUN	NN		compound	False
+demand	demand	NOUN	NN		dobj	False
+in	in	ADP	IN		prep	True
+1985	1985	NUM	CD	DATE_B	pobj	False
+both	both	DET	DT		advmod	True
+through	through	ADP	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+direct	direct	ADJ	JJ		amod	False
+effect	effect	NOUN	NN		pobj	False
+on	on	ADP	IN		prep	True
+opportunity	opportunity	NOUN	NN		compound	False
+costs	cost	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+indirectly	indirectly	ADV	RB		advmod	False
+by	by	ADP	IN		conj	True
+fostering	foster	VERB	VBG		pcomp	False
+somewhat	somewhat	ADV	RB		advmod	False
+faster	fast	ADJ	JJR		amod	False
+growth	growth	NOUN	NN		dobj	False
+of	of	ADP	IN		prep	True
+income	income	NOUN	NN		nmod	False
+and	and	CCONJ	CC		cc	True
+credit	credit	NOUN	NN		conj	False
+demands	demand	NOUN	NNS		pobj	False
+than	than	SCONJ	IN		mark	True
+currently	currently	ADV	RB		advmod	False
+projected	project	VERB	VBN		advcl	False
+.	.	PUNCT	.		punct	False
+
+this	this	DET	DT		nsubj	True
+would	would	VERB	MD		aux	True
+increase	increase	VERB	VB		ROOT	False
+the	the	DET	DT		det	True
+odds	odd	NOUN	NNS		dobj	False
+of	of	ADP	IN		prep	True
+some	some	DET	DT		det	True
+backup	backup	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+rates	rate	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+first	first	ADJ	JJ	ORDINAL_B	amod	True
+part	part	NOUN	NN		pobj	True
+of	of	ADP	IN		prep	True
+next	next	ADJ	JJ	DATE_B	amod	True
+year	year	NOUN	NN	DATE_I	pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+process	process	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+restraining	restrain	VERB	VBG		pcomp	False
+money	money	NOUN	NN		compound	False
+growth	growth	NOUN	NN		dobj	False
+to	to	ADP	IN		prep	True
+around	around	ADP	IN		prep	True
+the	the	DET	DT		det	True
+mid-	mid-	NOUN	NN		compound	False
+points	point	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		poss	False
+'s	's	PART	POS		case	True
+tentative	tentative	ADJ	JJ		amod	False
+long	long	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		compound	False
+ranges	range	NOUN	NNS		pobj	False
+for	for	ADP	IN		prep	True
+1985	1985	NUM	CD	DATE_B	pobj	False
+.	.	PUNCT	.		punct	False
+
+directive	directive	ADJ	JJ		amod	False
+language	language	NOUN	NN		nsubjpass	False
+(	(	PUNCT	-LRB-		punct	False
+16	16	X	LS	CARDINAL_B	appos	False
+)	)	PUNCT	-RRB-		punct	False
+two	two	NUM	CD	CARDINAL_B	nummod	True
+alternative	alternative	ADJ	JJ		amod	False
+operational	operational	ADJ	JJ		amod	False
+paragraphs	paragraph	NOUN	NNS		nsubjpass	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT		det	True
+directive	directive	NOUN	NN		pobj	False
+are	be	AUX	VBP		auxpass	True
+given	give	VERB	VBN		ROOT	False
+below	below	ADV	RB		advmod	True
+.	.	PUNCT	.		punct	False
+
+alternative	alternative	PROPN	NNP		ROOT	False
+
+i	i	PRON	PRP		nsubj	True
+represents	represent	VERB	VBZ		ROOT	False
+the	the	DET	DT		det	True
+current	current	ADJ	JJ		amod	False
+paragraph	paragraph	NOUN	NN		dobj	False
+,	,	PUNCT	,		punct	False
+with	with	ADP	IN		prep	True
+updating	updating	ADJ	JJ		pcomp	False
+modifications	modification	NOUN	NNS		dobj	False
+(	(	PUNCT	-LRB-		punct	False
+shown	show	VERB	VBN		acl	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+usual	usual	ADJ	JJ		amod	False
+way	way	NOUN	NN		pobj	False
+)	)	PUNCT	-RRB-		punct	False
+.	.	PUNCT	.		punct	False
+
+this	this	DET	DT		det	True
+approach	approach	NOUN	NN		nsubj	False
+involves	involve	VERB	VBZ		ROOT	False
+a	a	DET	DT		det	True
+potential	potential	ADJ	JJ		amod	False
+drawback	drawback	NOUN	NN		dobj	False
+that	that	DET	WDT		nsubj	True
+,	,	PUNCT	,		punct	False
+based	base	VERB	VBN		prep	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+staff	staff	NOUN	NN		poss	False
+'s	's	PART	POS		case	True
+current	current	ADJ	JJ		amod	False
+estimates	estimate	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+relationships	relationship	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+the	the	DET	DT		det	True
+directive	directive	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+specify	specify	VERB	VB		relcl	False
+an	an	DET	DT		det	True
+m1	m1	PROPN	NNP		compound	False
+growth	growth	NOUN	NN		dobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+fourth	fourth	ADJ	JJ	DATE_I	amod	False
+quarter	quarter	NOUN	NN	DATE_I	pobj	False
+that	that	DET	WDT		nsubj	True
+is	be	AUX	VBZ		relcl	True
+well	well	ADV	RB		advmod	True
+below	below	ADP	IN		prep	True
+the	the	DET	DT		det	True
+previously	previously	ADV	RB		advmod	False
+adopted	adopt	VERB	VBN		amod	False
+target	target	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+that	that	DET	DT		det	True
+drawback	drawback	NOUN	NN		nsubjpass	False
+might	may	VERB	MD		aux	True
+be	be	AUX	VB		auxpass	True
+avoided	avoid	VERB	VBN		ROOT	False
+by	by	ADP	IN		prep	True
+showing	show	VERB	VBG		pcomp	False
+m1	m1	PROPN	NNP	PRODUCT_B	dobj	False
+as	as	SCONJ	IN		prep	True
+a	a	DET	DT		det	True
+range	range	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+possibly	possibly	ADV	RB		advmod	False
+encompassing	encompass	VERB	VBG		advcl	False
+the	the	DET	DT		det	True
+previous	previous	ADJ	JJ		amod	False
+decision	decision	NOUN	NN		dobj	False
+.	.	PUNCT	.		punct	False
+
+a	a	DET	DT		det	True
+second	second	ADJ	JJ	ORDINAL_B	amod	False
+possibility	possibility	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+to	to	PART	TO		aux	True
+show	show	VERB	VB		xcomp	True
+a	a	DET	DT		det	True
+growth	growth	NOUN	NN		compound	False
+rate	rate	NOUN	NN		dobj	False
+for	for	ADP	IN		prep	True
+m1	m1	PROPN	NNP		pobj	False
+near	near	SCONJ	IN		prep	False
+that	that	DET	DT		pobj	True
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+earlier	early	ADJ	JJR		amod	False
+decision	decision	NOUN	NN		pobj	False
+-	-	PUNCT	,		punct	False
+which	which	DET	WDT		nsubj	True
+,	,	PUNCT	,		punct	False
+however	however	ADV	RB		advmod	True
+,	,	PUNCT	,		punct	False
+would	would	VERB	MD		aux	True
+tilt	tilt	VERB	VB		relcl	False
+the	the	DET	DT		det	True
+directive	directive	NOUN	NN		dobj	False
+toward	toward	ADP	IN		prep	True
+ease	ease	NOUN	NN		pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT		det	True
+intermeeting	intermeete	VERB	VBG		amod	False
+period	period	NOUN	NN		pobj	False
+(	(	PUNCT	-LRB-		punct	False
+if	if	SCONJ	IN		mark	True
+staff	staff	NOUN	NN		compound	False
+estimates	estimate	NOUN	NNS		nsubj	False
+are	be	AUX	VBP		advcl	True
+near	near	SCONJ	IN		prep	False
+correct	correct	ADJ	JJ		pobj	False
+)	)	PUNCT	-RRB-		punct	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+language	language	NOUN	NN		nsubj	False
+under	under	ADP	IN		prep	True
+alternative	alternative	PROPN	NNP		amod	False
+ii	ii	PROPN	NNP		pobj	False
+partially	partially	ADV	RB		advmod	False
+restructures	restructure	VERB	VBZ		ROOT	False
+the	the	DET	DT		det	True
+existing	exist	VERB	VBG		amod	False
+directive	directive	NOUN	NN		dobj	False
+as	as	SCONJ	IN		prep	True
+another	another	DET	DT		det	True
+approach	approach	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+resolving	resolve	VERB	VBG		pcomp	False
+the	the	DET	DT		det	True
+difficulties	difficulty	NOUN	NNS		dobj	False
+.	.	PUNCT	.		punct	False
+
+alternative	alternative	PROPN	NNP		advcl	False
+i	i	PRON	PRP		dobj	True
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+implementation	implementation	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+policy	policy	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+short	short	ADJ	JJ		amod	False
+run	run	NOUN	NN		pobj	False
+,	,	PUNCT	,		punct	False
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		nsubj	False
+seeks	seek	VERB	VBZ		ROOT	False
+to	to	PART	TO		aux	True
+decrease	decrease	VERB	VB		xcomp	False
+somewhat	somewhat	ADV	RB		advmod	False
+(	(	PUNCT	-LRB-		punct	False
+alt	alt	VERB	VB		dep	False
+.	.	PUNCT	.		punct	False
+
+a	a	X	LS		meta	True
+)	)	PUNCT	-RRB-		punct	False
+/maintain	/maintain	PUNCT	.		punct	False
+(	(	PUNCT	-LRB-		punct	False
+alt	alt	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	X	LS		meta	False
+)	)	PUNCT	-RRB-		punct	False
+existing	exist	VERB	VBG		amod	False
+pressures	pressure	NOUN	NNS		ROOT	False
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		appos	False
+:	:	PUNCT	:		punct	False
+the	the	DET	DT		det	True
+lesser	less	ADJ	JJR		amod	False
+degree	degree	NOUN	NN		appos	False
+of	of	ADP	IN		prep	True
+restraint	restraint	NOUN	NN		pobj	False
+]	]	PUNCT	-RRB-		punct	False
+on	on	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+positions	position	NOUN	NNS		pobj	False
+
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		dep	False
+:	:	PUNCT	:		punct	False
+sought	seek	VERB	VBN		ROOT	False
+in	in	ADP	IN		prep	True
+recent	recent	ADJ	JJ	DATE_B	amod	False
+]	]	PUNCT	-RRB-	DATE_I	punct	False
+weeks	week	NOUN	NNS	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+this	this	DET	DT		det	True
+action	action	NOUN	NN		nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+consistent	consistent	ADJ	JJ		acomp	False
+with	with	ADP	IN		prep	True
+growth	growth	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+,	,	PUNCT	,		punct	False
+m2	m2	PROPN	NNP	PRODUCT_B	conj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+m3	m3	PROPN	NNP	CARDINAL_B	conj	False
+at	at	ADP	IN		prep	True
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rates	rate	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+around	around	ADV	RB		pcomp	True
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		nmod	False
+:	:	PUNCT	:		punct	False
+6	6	NUM	CD		pobj	False
+]	]	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		dep	False
+:	:	PUNCT	:		punct	False
+7	7	NUM	CD	CARDINAL_B	nummod	False
+-	-	SYM	SYM	CARDINAL_I	punct	False
+1/2	1/2	NUM	CD	CARDINAL_I	dep	False
+]	]	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+ 	 	SPACE	_SP			False
+and	and	CCONJ	CC		cc	True
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		nmod	False
+:	:	PUNCT	:		punct	False
+9	9	NUM	CD	CARDINAL_B	nummod	False
+]	]	PUNCT	-RRB-		punct	False
+ 	 	SPACE	_SP			False
+percent	percent	NOUN	NN		conj	False
+during	during	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+from	from	ADP	IN		prep	True
+september	september	PROPN	NNP	DATE_B	pobj	False
+to	to	ADP	IN	DATE_I	prep	True
+december	december	PROPN	NNP	DATE_I	pobj	False
+.	.	PUNCT	.		punct	False
+
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		nsubj	False
+:	:	PUNCT	:		punct	False
+a	a	DET	DT		det	True
+somewhat	somewhat	ADV	RB		advmod	False
+further	further	ADV	RB		amod	True
+lessening	lessening	NOUN	NN		appos	False
+of	of	ADP	IN		prep	True
+]	]	PUNCT	-RRB-		punct	False
+lesser	less	ADJ	JJR		amod	False
+restraint	restraint	NOUN	NN		pobj	False
+on	on	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+positions	position	NOUN	NNS		pobj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+acceptable	acceptable	ADJ	JJ		acomp	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+event	event	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+significantly	significantly	ADV	RB		advmod	False
+slower	slow	ADJ	JJR		amod	False
+growth	growth	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	ADJ	JJ		amod	False
+aggregates	aggregate	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+evaluated	evaluate	VERB	VBD		acl	False
+in	in	ADP	IN		prep	True
+relation	relation	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+strength	strength	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+business	business	NOUN	NN		compound	False
+expansion	expansion	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+inflationary	inflationary	ADJ	JJ		amod	False
+pressures	pressure	NOUN	NNS		conj	False
+,	,	PUNCT	,		punct	False
+domestic	domestic	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+international	international	ADJ	JJ		conj	False
+financial	financial	ADJ	JJ		amod	False
+market	market	NOUN	NN		compound	False
+conditions	condition	NOUN	NNS		conj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+the	the	DET	DT		det	True
+rate	rate	NOUN	NN		conj	False
+of	of	ADP	IN		prep	True
+credit	credit	NOUN	NN		compound	False
+growth	growth	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+conversely	conversely	ADV	RB		advmod	False
+,	,	PUNCT	,		punct	False
+greater	great	ADJ	JJR		amod	False
+restraint	restraint	NOUN	NN		nsubj	False
+might	may	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+acceptable	acceptable	ADJ	JJ		acomp	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+event	event	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+substantially	substantially	ADV	RB		advmod	False
+more	more	ADV	RBR		advmod	True
+rapid	rapid	ADJ	JJ		amod	False
+monetary	monetary	ADJ	JJ		amod	False
+growth	growth	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+indications	indication	NOUN	NNS		conj	False
+of	of	ADP	IN		prep	True
+significant	significant	ADJ	JJ		amod	False
+strengthening	strengthening	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+economic	economic	ADJ	JJ		amod	False
+activity	activity	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+inflationary	inflationary	ADJ	JJ		amod	False
+pressures	pressure	NOUN	NNS		conj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+chairman	chairman	NOUN	NN		nsubj	False
+may	may	VERB	MD		aux	True
+call	call	VERB	VB		ROOT	True
+for	for	ADP	IN		prep	True
+committee	committee	NOUN	NN		compound	False
+consultation	consultation	NOUN	NN		pobj	False
+if	if	SCONJ	IN		mark	True
+it	-PRON-	PRON	PRP		nsubj	True
+appears	appear	VERB	VBZ		advcl	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+manager	manager	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+domestic	domestic	ADJ	JJ		amod	False
+operations	operation	NOUN	NNS		pobj	False
+that	that	DET	WDT		nsubj	True
+pursuit	pursuit	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	ADJ	JJ		amod	False
+objectives	objective	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+related	related	ADJ	JJ		amod	False
+reserve	reserve	NOUN	NN		compound	False
+paths	path	NOUN	NNS		conj	False
+during	during	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+before	before	ADP	IN		prep	True
+the	the	DET	DT		det	True
+next	next	ADJ	JJ		amod	True
+meeting	meeting	NOUN	NN		nsubj	False
+is	be	AUX	VBZ		ccomp	True
+likely	likely	ADJ	JJ		acomp	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		auxpass	True
+associated	associate	VERB	VBN		xcomp	False
+with	with	ADP	IN		prep	True
+a	a	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		pobj	False
+persistently	persistently	ADV	RB		advmod	False
+outside	outside	ADP	IN		prep	False
+a	a	DET	DT		det	True
+range	range	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		pobj	False
+:	:	PUNCT	:		punct	False
+8	8	NUM	CD	CARDINAL_B	quantmod	False
+to	to	PART	TO	CARDINAL_I	quantmod	True
+12	12	NUM	CD	CARDINAL_I	pobj	False
+]	]	PUNCT	-RRB-		punct	False
+ 	 	SPACE	_SP			False
+to	to	PART	TO		prep	True
+ 	 	SPACE	_SP			False
+percent	percent	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+alternative	alternative	PROPN	NNP		amod	False
+ii	ii	PROPN	NNP		ROOT	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+implementation	implementation	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+policy	policy	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	VERB	VBN		pobj	False
+,	,	PUNCT	,		punct	False
+the	the	DET	DT		det	True
+committee	committee	NOUN	NN		nsubj	False
+seeks	seek	VERB	VBZ		ROOT	False
+to	to	PART	TO		aux	True
+decrease	decrease	VERB	VB		xcomp	False
+somewhat	somewhat	ADV	RB		advmod	False
+(	(	PUNCT	-LRB-		punct	False
+alt	alt	VERB	VB		dep	False
+.	.	PUNCT	.		punct	False
+
+a	a	X	LS		meta	True
+)	)	PUNCT	-RRB-		punct	False
+/maintain	/maintain	PUNCT	.		punct	False
+(	(	PUNCT	-LRB-		punct	False
+alt	alt	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+b	b	X	LS		meta	False
+)	)	PUNCT	-RRB-		punct	False
+existing	exist	VERB	VBG		amod	False
+pressures	pressure	NOUN	NNS		ROOT	False
+on	on	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+positions	position	NOUN	NNS		pobj	False
+.	.	PUNCT	.		punct	False
+
+this	this	DET	DT		det	True
+action	action	NOUN	NN		nsubjpass	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ccomp	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+consistent	consistent	ADJ	JJ		acomp	False
+with	with	ADP	IN		prep	True
+growth	growth	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	PRODUCT_B	pobj	False
+at	at	ADP	IN		prep	True
+around	around	ADV	RB		nmod	True
+ 	 	SPACE	_SP			False
+percent	percent	NOUN	NN		pobj	False
+at	at	ADP	IN		prep	True
+an	an	DET	DT		det	True
+annual	annual	ADJ	JJ	DATE_B	amod	False
+rate	rate	NOUN	NN		pobj	False
+over	over	ADP	IN		prep	True
+the	the	DET	DT	DATE_B	det	True
+last	last	ADJ	JJ	DATE_I	amod	True
+two	two	NUM	CD	DATE_I	nummod	True
+months	month	NOUN	NNS	DATE_I	pobj	False
+of	of	ADP	IN	DATE_I	prep	True
+the	the	DET	DT	DATE_I	det	True
+year	year	NOUN	NN	DATE_I	pobj	False
+;	;	PUNCT	:		punct	False
+more	more	ADV	RBR		advmod	True
+rapid	rapid	ADJ	JJ		amod	False
+growth	growth	NOUN	NN		nsubj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+acceptable	acceptable	ADJ	JJ		acomp	False
+in	in	ADP	IN		prep	True
+view	view	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+substantial	substantial	ADJ	JJ		amod	False
+decline	decline	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+m1	m1	PROPN	NNP	ORG_B	pobj	False
+in	in	ADP	IN		prep	True
+october	october	PROPN	NNP	DATE_B	pobj	False
+which	which	DET	WDT		nsubj	True
+brought	bring	VERB	VBD		advcl	False
+that	that	DET	DT		det	True
+aggregate	aggregate	NOUN	NN		dobj	False
+into	into	ADP	IN		prep	True
+the	the	DET	DT		det	True
+bottom	bottom	ADJ	JJ		amod	True
+half	half	NOUN	NN	CARDINAL_B	pobj	False
+of	of	ADP	IN		prep	True
+its	-PRON-	DET	PRP$		poss	True
+long	long	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+run	run	NOUN	NN		compound	False
+range	range	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+growth	growth	NOUN	NN		nsubjpass	False
+of	of	ADP	IN		prep	True
+m2	m2	PROPN	NNP	PRODUCT_B	pobj	False
+and	and	CCONJ	CC	PRODUCT_I	cc	True
+m3	m3	PROPN	NNP	PRODUCT_I	conj	False
+is	be	AUX	VBZ		auxpass	True
+expected	expect	VERB	VBN		ROOT	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		xcomp	True
+generally	generally	ADV	RB		advmod	False
+consistent	consistent	ADJ	JJ		acomp	False
+with	with	ADP	IN		prep	True
+the	the	DET	DT		det	True
+7	7	NUM	CD	CARDINAL_B	compound	False
+-	-	SYM	SYM		punct	False
+1/2	1/2	NUM	CD		nummod	False
+and	and	CCONJ	CC		cc	True
+9	9	NUM	CD	PERCENT_B	nummod	False
+percent	percent	NOUN	NN	PERCENT_I	conj	False
+growth	growth	NOUN	NN		compound	False
+paths	path	NOUN	NNS		pobj	False
+for	for	ADP	IN		prep	True
+the	the	DET	DT		det	True
+september	september	PROPN	NNP	DATE_B	nmod	False
+-	-	PUNCT	HYPH		punct	False
+to	to	ADP	IN		prep	True
+-	-	PUNCT	HYPH		punct	False
+december	december	PROPN	NNP	DATE_B	pobj	False
+period	period	NOUN	NN		pobj	False
+set	set	VERB	VBN		acl	False
+at	at	ADP	IN		prep	True
+the	the	DET	DT		det	True
+last	last	ADJ	JJ		amod	True
+committee	committee	NOUN	NN		compound	False
+meeting	meeting	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+lesser	less	ADJ	JJR		amod	False
+restraint	restraint	NOUN	NN		nsubj	False
+on	on	ADP	IN		prep	True
+reserve	reserve	NOUN	NN		compound	False
+positions	position	NOUN	NNS		pobj	False
+would	would	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+acceptable	acceptable	ADJ	JJ		acomp	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+event	event	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+significantly	significantly	ADV	RB		advmod	False
+slower	slow	ADJ	JJR		amod	False
+growth	growth	NOUN	NN		pobj	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	ADJ	JJ		amod	False
+aggregates	aggregate	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+evaluated	evaluate	VERB	VBD		acl	False
+in	in	ADP	IN		prep	True
+relation	relation	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+strength	strength	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+business	business	NOUN	NN		compound	False
+expansion	expansion	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+inflationary	inflationary	ADJ	JJ		amod	False
+pressures	pressure	NOUN	NNS		conj	False
+,	,	PUNCT	,		punct	False
+domestic	domestic	ADJ	JJ		amod	False
+and	and	CCONJ	CC		cc	True
+international	international	ADJ	JJ		conj	False
+financial	financial	ADJ	JJ		amod	False
+market	market	NOUN	NN		compound	False
+conditions	condition	NOUN	NNS		conj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+the	the	DET	DT		det	True
+rate	rate	NOUN	NN		conj	False
+of	of	ADP	IN		prep	True
+credit	credit	NOUN	NN		compound	False
+growth	growth	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+conversely	conversely	ADV	RB		advmod	False
+,	,	PUNCT	,		punct	False
+greater	great	ADJ	JJR		amod	False
+restraint	restraint	NOUN	NN		nsubj	False
+might	may	VERB	MD		aux	True
+be	be	AUX	VB		ROOT	True
+acceptable	acceptable	ADJ	JJ		acomp	False
+in	in	ADP	IN		prep	True
+the	the	DET	DT		det	True
+event	event	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+substantially	substantially	ADV	RB		advmod	False
+more	more	ADV	RBR		advmod	True
+rapid	rapid	ADJ	JJ		amod	False
+monetary	monetary	ADJ	JJ		amod	False
+growth	growth	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+indications	indication	NOUN	NNS		conj	False
+of	of	ADP	IN		prep	True
+significant	significant	ADJ	JJ		amod	False
+strengthening	strengthening	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+economic	economic	ADJ	JJ		amod	False
+activity	activity	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+inflationary	inflationary	ADJ	JJ		amod	False
+pressures	pressure	NOUN	NNS		conj	False
+.	.	PUNCT	.		punct	False
+
+the	the	DET	DT		det	True
+chairman	chairman	NOUN	NN		nsubj	False
+may	may	VERB	MD		aux	True
+call	call	VERB	VB		ROOT	True
+for	for	ADP	IN		prep	True
+committee	committee	NOUN	NN		compound	False
+consultation	consultation	NOUN	NN		pobj	False
+if	if	SCONJ	IN		mark	True
+it	-PRON-	PRON	PRP		nsubj	True
+appears	appear	VERB	VBZ		advcl	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+manager	manager	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+domestic	domestic	ADJ	JJ		amod	False
+operations	operation	NOUN	NNS		pobj	False
+that	that	DET	WDT		nsubj	True
+pursuit	pursuit	NOUN	NN		nsubj	False
+of	of	ADP	IN		prep	True
+the	the	DET	DT		det	True
+monetary	monetary	ADJ	JJ		amod	False
+objectives	objective	NOUN	NNS		pobj	False
+and	and	CCONJ	CC		cc	True
+related	related	ADJ	JJ		amod	False
+reserve	reserve	NOUN	NN		compound	False
+paths	path	NOUN	NNS		conj	False
+during	during	ADP	IN		prep	True
+the	the	DET	DT		det	True
+period	period	NOUN	NN		pobj	False
+before	before	ADP	IN		prep	True
+the	the	DET	DT		det	True
+next	next	ADJ	JJ		amod	True
+meeting	meeting	NOUN	NN		nsubj	False
+is	be	AUX	VBZ		ccomp	True
+likely	likely	ADJ	JJ		acomp	False
+to	to	PART	TO		aux	True
+be	be	AUX	VB		auxpass	True
+associated	associate	VERB	VBN		xcomp	False
+with	with	ADP	IN		prep	True
+a	a	DET	DT		det	True
+federal	federal	ADJ	JJ		amod	False
+funds	fund	NOUN	NNS		compound	False
+rate	rate	NOUN	NN		pobj	False
+persistently	persistently	ADV	RB		advmod	False
+outside	outside	ADP	IN		prep	False
+a	a	DET	DT		det	True
+range	range	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+[	[	PUNCT	-LRB-		punct	False
+del	del	PROPN	NNP		pobj	False
+:	:	PUNCT	:		punct	False
+8	8	NUM	CD	CARDINAL_B	quantmod	False
+to	to	PART	TO	CARDINAL_I	quantmod	True
+12	12	NUM	CD	CARDINAL_I	pobj	False
+]	]	PUNCT	-RRB-		punct	False
+ 	 	SPACE	_SP			False
+to	to	PART	TO		prep	True
+ 	 	SPACE	_SP			False
+percent	percent	NOUN	NN		pobj	False
+.	.	PUNCT	.		punct	False
+
+selected	select	VERB	VBN		amod	False
+interest	interest	NOUN	NN		compound	False
+rates	rate	NOUN	NNS		compound	False
+percent	percent	NOUN	NN		ROOT	False
+november	november	PROPN	NNP	DATE_B	npadvmod	False
+5	5	NUM	CD	DATE_I	nummod	False
+,	,	PUNCT	,	DATE_I	punct	False
+1984	1984	NUM	CD	DATE_I	nummod	False
+1983	1983	NUM	CD	DATE_I	nummod	False
+
+--high	--high	PROPN	NNP		ROOT	False
+
+low	low	ADJ	JJ		amod	False
+1984	1984	NUM	CD	DATE_B	ROOT	False
+-	-	SYM	SYM		punct	False
+-high	-high	NUM	CD		compound	False
+lou	lou	NOUN	NN		compound	False
+enr	enr	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+hkey	hkey	PROPN	NNP		ROOT	False
+
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		compound	False
+september	september	PROPN	NNP	DATE_B	ROOT	False
+5	5	NUM	CD	DATE_I	nummod	False
+october	october	PROPN	NNP	DATE_I	appos	False
+3	3	NUM	CD	DATE_I	nummod	False
+10.2	10.2	NUM	CD	DATE_I	nummod	False
+'	'	NOUN	NN	DATE_I	punct	False
+9.01	9.01	NUM	CD		nummod	False
+
+10.54	10.54	NUM	CD	CARDINAL_B	ROOT	False
+10.65	10.65	NUM	CD	CARDINAL_I	nummod	False
+11.51	11.51	NUM	CD	CARDINAL_B	nummod	False
+11.26	11.26	NUM	CD		nummod	False
+10.62	10.62	NUM	CD	QUANTITY_B	nummod	False
+1i.00	1i.00	NUM	CD	QUANTITY_I	compound	False
+lon	lon	NOUN	NN	QUANTITY_I	appos	False
+
+-term	-term	PROPN	NNP		ROOT	False
+
+u.s	u.s	PROPN	NNP		nmod	False
+government	government	NOUN	NN		nmod	False
+constant	constant	ADJ	JJ		amod	False
+copoate	copoate	NOUN	NN		nsubj	False
+munl	munl	VERB	VBZ		compound	False
+home	home	PROPN	NNP		advmod	False
+moiga	moiga	PROPN	NNP		compound	False
+maturity	maturity	PROPN	NNP		nsubj	False
+yields	yield	VERB	VBZ		ROOT	False
+a	a	DET	DT		det	True
+ultlty	ultlty	ADJ	JJ		amod	False
+cipal	cipal	PROPN	NNP		nmod	False
+conne	conne	PROPN	NNP		nmod	False
+fha	fha	PROPN	NNP	ORG_B	nmod	False
+/	/	SYM	SYM	ORG_I	punct	False
+va	va	PROPN	NNP	ORG_I	nmod	False
+fnma	fnma	PROPN	NNP	ORG_I	amod	False
+recently	recently	ADV	RB		advmod	False
+bond	bond	NOUN	NN		compound	False
+tlon	tlon	NOUN	NNS		dobj	False
+
+l	l	PROPN	NNP		ROOT	False
+
+i	i	PRON	PRP		nsubj	True
+year	year	VERB	VBP		ROOT	False
+3_yea	3_yea	PROPN	NNP		nummod	False
+
+1_ye6r	1_ye6r	NUM	CD		ROOT	False
+30-y	30-y	NUM	CD		nummod	False
+ear	ear	X	XX		compound	False
+celing	cele	VERB	VBG		compound	False
+arm	arm	NOUN	NN		ROOT	False
+
+o	o	X	LS		ROOT	False
+10	10	NUM	CD	CARDINAL_B	nummod	False
+11	11	NUM	CD	CARDINAL_I	nummod	False
+
+12	12	NUM	CD	CARDINAL_B	nummod	False
+13	13	NUM	CD	CARDINAL_I	ROOT	False
+
+14	14	NUM	CD	CARDINAL_B	ROOT	False
+_	_	PROPN	NNP		ROOT	False
+15	15	NUM	CD	CARDINAL_B	nummod	False
+
+1	1	NUM	CD	CARDINAL_B	compound	False
+14.00	14.00	NUM	CD	CARDINAL_I	nummod	False
+1j.25	1j.25	NUM	CD	CARDINAL_B	nsubj	False
+note	note	VERB	VB		ROOT	False
+weekly	weekly	ADJ	JJ	DATE_B	amod	False
+data	datum	NOUN	NNS		dobj	False
+for	for	ADP	IN		prep	True
+columns	column	NOUN	NNS		pobj	False
+1	1	NUM	CD	CARDINAL_B	nummod	False
+through	through	ADP	IN		mark	True
+i	i	PRON	PRP		nsubj	True
+are	be	AUX	VBP		advcl	True
+statement	statement	NOUN	NN		compound	False
+week	week	NOUN	NN		compound	False
+averages	average	NOUN	NNS		attr	False
+.	.	PUNCT	.		punct	False
+
+dta	dta	PROPN	NNP		nsubjpass	False
+in	in	ADP	IN		prep	True
+column	column	NOUN	NN	DATE_B	pobj	False
+7	7	NUM	CD	DATE_I	nummod	False
+are	be	AUX	VBP		auxpass	True
+laken	laken	VERB	VBN		ROOT	False
+from	from	ADP	IN		prep	True
+rallos	rallo	NOUN	NNS		pobj	False
+at	at	ADP	IN		prep	True
+a	a	DET	DT		det	True
+sample	sample	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+savings	saving	NOUN	NNS		nmod	False
+and	and	CCONJ	CC		cc	True
+loan	loan	NOUN	NN		conj	False
+associations	association	NOUN	NNS		pobj	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+friday	friday	PROPN	NNP		pobj	False
+following	follow	VERB	VBG		prep	False
+the	the	DET	DT		det	True
+end	end	NOUN	NN		pobj	False
+ol	old	PROPN	NNP		prep	False
+the	the	DET	DT		det	True
+statemenl	statemenl	PROPN	NNP		amod	False
+week	week	PROPN	NNP		pobj	False
+donoghue	donoghue	PROPN	NNP		poss	False
+'s	's	PART	POS		case	True
+money	money	PROPN	NNP		compound	False
+fund	fund	PROPN	NNP		compound	False
+report	report	NOUN	NN		nsubj	False
+columns	column	NOUN	NNS		conj	False
+12	12	NUM	CD	CARDINAL_B	nummod	False
+and	and	CCONJ	CC		cc	True
+13	13	NUM	CD	CARDINAL_B	conj	False
+se	se	NOUN	NNS		nummod	False
+
+1-day	1-day	NUM	CD	DATE_B	nsubj	False
+quotes	quote	NOUN	NNS		ROOT	False
+
+lor	lor	PROPN	NNP		ROOT	False
+friday	friday	PROPN	NNP	DATE_B	npadvmod	False
+and	and	CCONJ	CC		cc	True
+thursday	thursday	PROPN	NNP	DATE_B	conj	False
+
+,	,	PUNCT	,		punct	False
+respeclively	respeclively	ADV	RB		compound	False
+alter	alter	NOUN	NN		ROOT	False
+november	november	PROPN	NNP	DATE_B	npadvmod	False
+30	30	NUM	CD	DATE_I	nummod	False
+.	.	PUNCT	.		punct	False
+
+193	193	NUM	CD	CARDINAL_B	ROOT	False
+
+,	,	PUNCT	,		punct	False
+column	column	NOUN	NN		nsubj	False
+15	15	NUM	CD	CARDINAL_B	nummod	False
+trers	trer	NOUN	NNS		appos	False
+only	only	ADV	RB		advmod	True
+to	to	ADP	IN		prep	True
+va	va	VERB	VB	ORG_B	npadvmod	False
+-	-	PUNCT	HYPH	ORG_I	punct	False
+guaranleed	guaranleed	VERB	VB	ORG_I	amod	False
+loans	loan	NOUN	NNS		compound	False
+column	column	NOUN	NN		pobj	False
+16	16	NUM	CD	CARDINAL_B	nsubj	False
+is	be	AUX	VBZ		ROOT	True
+the	the	DET	DT		det	True
+nlllial	nlllial	ADJ	JJ		amod	False
+gross	gross	ADJ	JJ		amod	False
+yield	yield	NOUN	NN		attr	False
+following	follow	VERB	VBG		prep	False
+the	the	DET	DT		det	True
+end	end	NOUN	NN		pobj	False
+ol	old	PROPN	NNP		punct	False
+
+the	the	DET	DT		det	True
+stalement	stalement	ADJ	JJ		compound	False
+week	week	NOUN	NN	DATE_B	compound	False
+column	column	NOUN	NN	DATE_I	nsubj	False
+13	13	NUM	CD	DATE_I	nummod	False
+is	be	AUX	VBZ		ROOT	True
+the	the	DET	DT		det	True
+bond	bond	NOUN	NN		compound	False
+buyt	buyt	PROPN	NNP		compound	False
+revenue	revenue	PROPN	NNP		compound	False
+index	index	PROPN	NNP		attr	False
+.	.	PUNCT	.		punct	False
+
+column	column	NOUN	NN		nsubj	False
+14	14	NUM	CD	CARDINAL_B	nummod	False
+is	be	AUX	VBZ		ROOT	True
+an	an	DET	DT		det	True
+average	average	NOUN	NN		attr	False
+posted	post	VERB	VBN		acl	False
+by	by	ADP	IN		agent	True
+fnma	fnma	ADJ	JJ		pobj	False
+,	,	PUNCT	,		punct	False
+on	on	ADP	IN		prep	True
+the	the	DET	DT		det	True
+friday	friday	PROPN	NNP	DATE_B	pobj	False
+lollowing	lollowe	VERB	VBG		pcomp	False
+the	the	DET	DT		det	True
+end	end	NOUN	NN		dobj	False
+
+o	o	INTJ	UH		intj	False
+the	the	DET	DT	DATE_B	det	True
+statement	statement	NOUN	NN	DATE_I	compound	False
+week	week	NOUN	NN	DATE_I	ROOT	False
+.	.	PUNCT	.		punct	False
+
+in	in	ADP	IN		prep	True
+ts	ts	PROPN	NNP		det	False
+purchase	purchase	NOUN	NN		compound	False
+program	program	NOUN	NN		pobj	False
+lor	lor	PROPN	NNP		compound	False
+adjuslable	adjuslable	ADJ	JJ		amod	False
+ol	old	ADJ	JJ		amod	False
+contract	contract	NOUN	NN		compound	False
+interest	interest	NOUN	NN		compound	False
+tales	tale	NOUN	NNS		nsubj	False
+on	on	ADP	IN		prep	True
+new	new	ADJ	JJ		amod	False
+commnment	commnment	NOUN	NN		pobj	False
+lor	lor	PROPN	NNP		nmod	False
+conventional	conventional	ADJ	JJ		amod	False
+lurst	lurst	ADJ	JJ		compound	False
+mortgages	mortgage	NOUN	NNS		dobj	False
+with	with	ADP	IN		prep	True
+a	a	DET	DT		det	True
+percent	percent	NOUN	NN		compound	False
+loanlto	loanlto	NOUN	NN		compound	False
+value	value	NOUN	NN		pobj	False
+late	late	ADJ	JJ		advmod	False
+ntome	ntome	ADJ	JJ		compound	False
+mortgages	mortgage	NOUN	NNS		ROOT	False
+having	have	VERB	VBG		acl	False
+ite	ite	ADJ	JJ	ORG_B	nmod	False
+and	and	CCONJ	CC		cc	True
+payment	payment	NOUN	NN		conj	False
+adjustments	adjustment	NOUN	NNS		dobj	False
+once	once	ADV	RB		advmod	True
+a	a	DET	DT		det	True
+year	year	NOUN	NN		npadvmod	False
+fr136714184	fr136714184	NOUN	NN		appos	False
+)	)	PUNCT	-RRB-		punct	False
+
+security	security	NOUN	NN		compound	False
+dealer	dealer	NOUN	NN		nsubj	False
+positions	position	VERB	VBZ		ROOT	False
+millions	million	NOUN	NNS	MONEY_B	dobj	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+si	si	NOUN	NN		prep	False
+cash	cash	NOUN	NN		compound	False
+posltions	posltion	NOUN	NNS		compound	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+coupons	coupon	NOUN	NNS		compound	False
+treasury	treasury	PROPN	NNP	ORG_B	pobj	False
+under	under	ADP	IN		prep	True
+over	over	ADP	IN		prep	True
+federal	federal	ADJ	JJ		amod	False
+bills	bill	NOUN	NNS		pobj	False
+1	1	NUM	CD	DATE_B	nummod	False
+year	year	NOUN	NN	DATE_I	npadvmod	False
+1	1	NUM	CD	DATE_I	nummod	False
+year	year	NOUN	NN	DATE_I	compound	False
+agency	agency	NOUN	NN	DATE_I	appos	False
+1983	1983	NUM	CD	DATE_I	nummod	False
+
+--high	--high	PROPN	NNP		ROOT	False
+
+low	low	ADJ	JJ		amod	False
+1984	1984	NUM	CD	DATE_B	ROOT	False
+-	-	SYM	SYM		punct	False
+-high	-high	NUM	CD		prep	False
+
+low	low	ADJ	JJ		amod	False
+i)ec	i)ec	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+1984	1984	NUM	CD	DATE_B	ROOT	False
+
+--	--	PUNCT	:		punct	False
+an	an	DET	DT		ROOT	True
+.	.	PUNCT	.		punct	False
+
+sept	sept	PROPN	NNP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		npadvmod	False
+5	5	NUM	CD		nummod	False
+private	private	ADJ	JJ		amod	False
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		npadvmod	False
+forward	forward	ADV	RB		ROOT	False
+and	and	CCONJ	CC		cc	True
+fut	fut	PROPN	NNP		compound	False
+ecash	ecash	PROPN	NNP		conj	False
+
+..	..	PUNCT	.		ROOT	False
+
+p	p	X	LS		compound	False
+i	i	PROPN	NNP		nmod	True
+-	-	PUNCT	HYPH		punct	False
+on	on	ADP	IN		prt	True
+fra	fra	NOUN	NN		compound	False
+ad	ad	NOUN	NN		compound	False
+u	u	NOUN	NN		ROOT	False
+---	---	PUNCT	.		punct	False
+
+-posiions	-posiions	PROPN	NNP		compound	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+coupons	coupon	NOUN	NNS		compound	False
+treasury	treasury	PROPN	NNP	ORG_B	ROOT	False
+under	under	ADP	IN		prep	True
+over	over	ADP	IN		prep	True
+bills	bill	NOUN	NNS		pobj	False
+1	1	NUM	CD	DATE_B	nummod	False
+year	year	NOUN	NN	DATE_I	npadvmod	False
+
+i	i	PRON	PRP		nsubj	True
+year	year	NOUN	NN		nsubj	False
+note	note	VERB	VBP		ROOT	False
+government	government	NOUN	NN		compound	False
+securities	security	NOUN	NNS		compound	False
+dealer	dealer	NOUN	NN		compound	False
+cash	cash	NOUN	NN		compound	False
+positions	position	NOUN	NNS		nsubj	False
+consist	consist	VERB	VBP		nsubj	False
+of	of	ADP	IN		prep	True
+securities	security	NOUN	NNS		pobj	False
+already	already	ADV	RB		advmod	True
+delivered	deliver	VERB	VBN		ccomp	False
+,	,	PUNCT	,		punct	False
+cor	cor	PROPN	NNP	ORG_B	compound	False
+mitments	mitment	NOUN	NNS		conj	False
+to	to	PART	TO		aux	True
+buy	buy	VERB	VB		acl	False
+(	(	PUNCT	-LRB-		punct	False
+sell	sell	VERB	VB		nmod	False
+)	)	PUNCT	-RRB-		punct	False
+securities	security	NOUN	NNS		dobj	False
+on	on	ADP	IN		prep	True
+an	an	DET	DT		det	True
+outright	outright	ADJ	JJ		amod	False
+basis	basis	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+immediate	immediate	ADJ	JJ		amod	False
+delivery	delivery	NOUN	NN		pobj	False
+(	(	PUNCT	-LRB-		punct	False
+5	5	NUM	CD	DATE_B	nummod	False
+business	business	NOUN	NN	DATE_I	compound	False
+days	day	NOUN	NNS	DATE_I	appos	False
+or	or	CCONJ	CC		cc	True
+less	less	ADV	RBR		conj	True
+)	)	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+certain	certain	ADJ	JJ		amod	False
+"	"	PUNCT	''		punct	False
+when	when	ADV	WRB		advmod	True
+issued	issue	VERB	VBN		intj	False
+"	"	PUNCT	``		punct	False
+securities	security	NOUN	NNS		dobj	False
+for	for	ADP	IN		prep	True
+delayed	delay	VERB	VBN		amod	False
+delivery	delivery	NOUN	NN		pobj	False
+(	(	PUNCT	-LRB-		punct	False
+more	more	ADJ	JJR	CARDINAL_B	amod	True
+than	than	SCONJ	IN	CARDINAL_I	quantmod	True
+5	5	NUM	CD	CARDINAL_I	nummod	False
+business	business	NOUN	NN	CARDINAL_I	compound	False
+days	day	NOUN	NNS	CARDINAL_I	npadvmod	False
+)	)	PUNCT	-RRB-		punct	False
+futures	future	NOUN	NNS		conj	False
+and	and	CCONJ	CC		cc	True
+
+for-	for-	ADP	IN		nummod	False
+ward	ward	NOUN	NN		compound	False
+positions	position	NOUN	NNS		nsubj	False
+include	include	VERB	VBP		ccomp	False
+all	all	DET	DT		det	True
+other	other	ADJ	JJ		amod	True
+commitments	commitment	NOUN	NNS		dobj	False
+involving	involve	VERB	VBG		acl	False
+delayed	delay	VERB	VBN		amod	False
+delivery	delivery	NOUN	NN		dobj	False
+,	,	PUNCT	,		punct	False
+futures	future	NOUN	NNS		compound	False
+contracts	contract	NOUN	NNS		nsubj	False
+are	be	AUX	VBP		ROOT	True
+arrang-	arrang-	ADP	IN		punct	False
+
+ed	ed	PROPN	NNP	PERSON_B	ROOT	False
+on	on	ADP	IN		prep	True
+organized	organized	ADJ	JJ		amod	False
+exchanges	exchange	NOUN	NNS		pobj	False
+1	1	NUM	CD	CARDINAL_B	nummod	False
+cash	cash	NOUN	NN		appos	False
+plus	plus	CCONJ	CC		cc	False
+forward	forward	ADV	RB		advmod	False
+plus	plus	CCONJ	CC		cc	False
+futures	future	NOUN	NNS		conj	False
+positions	position	NOUN	NNS		conj	False
+in	in	ADP	IN		prep	True
+treasury	treasury	PROPN	NNP	ORG_B	pobj	False
+,	,	PUNCT	,		punct	False
+federal	federal	ADJ	JJ		amod	False
+agency	agency	NOUN	NN		conj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+private	private	ADJ	JJ		amod	False
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		compound	False
+securities	security	NOUN	NNS		conj	False
+sstrictly	sstrictly	ADV	RB		advmod	False
+confidential	confidential	ADJ	JJ		amod	False
+la	la	PROPN	NNP		compound	False
+s	s	PROPN	NNP		appos	False
+,	,	PUNCT	,		punct	False
+.	.	PUNCT	.		punct	False
+
+h	h	PROPN	NNP		dep	False
+n	n	NOUN	NN		ROOT	False
+5	5	NUM	CD		nummod	False
+
+$	$	SYM	$		nmod	False
+500),00()1.10	500),00()1.10	NUM	CD	MONEY_B	nummod	False
+period	period	NOUN	NN		compound	False
+federal	federal	ADJ	JJ		amod	False
+agency	agency	NOUN	NN		ROOT	False
+
+private	private	ADJ	JJ		amod	False
+short	short	ADJ	JJ		amod	False
+-	-	PUNCT	HYPH		punct	False
+term	term	NOUN	NN		ROOT	False
+
+i	i	PROPN	NNP		ROOT	True
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	.		punct	False
+
+i	i	PRON	PRP		ROOT	True
+-	-	PUNCT	HYPH		punct	False
+
+i	i	PRON	PRP		ROOT	True
+-	-	PUNCT	:		punct	False
+i	i	PRON	PRP		dobj	True
+--	--	PUNCT	:		punct	False
+.	.	PUNCT	.		punct	False
+
+i	i	PRON	PRP		nsubj	True
+november	november	PROPN	NNP	DATE_B	npadvmod	False
+5	5	NUM	CD	DATE_I	nummod	False
+,	,	PUNCT	,	DATE_I	punct	False
+1984	1984	NUM	CD	DATE_I	nummod	False
+net	net	ADJ	JJ		amod	False
+changes	change	NOUN	NNS		appos	False
+in	in	ADP	IN		prep	True
+system	system	NOUN	NN		compound	False
+holdings	holding	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+securities	security	NOUN	NNS		pobj	False
+1	1	NUM	CD	MONEY_B	nummod	False
+millions	million	NOUN	NNS	MONEY_I	conj	False
+of	of	ADP	IN	MONEY_I	prep	True
+dollars	dollar	NOUN	NNS	MONEY_I	pobj	False
+,	,	PUNCT	,		punct	False
+not	not	PART	RB		neg	True
+seasonally	seasonally	ADV	RB		advmod	False
+adjusted	adjust	VERB	VBN		ROOT	False
+strictly	strictly	ADV	RB		advmod	False
+confidential	confidential	ADJ	JJ		advmod	False
+
+(	(	PUNCT	-LRB-		punct	False
+fr	fr	PROPN	NNP		dep	False
+)	)	PUNCT	-RRB-		punct	False
+class	class	PROPN	NNP		nmod	False
+ii	ii	PROPN	NNP		compound	False
+-	-	PUNCT	HYPH		punct	False
+fomc	fomc	ADJ	JJ		pobj	False
+november	november	PROPN	NNP	DATE_B	npadvmod	False
+5	5	NUM	CD	DATE_I	nummod	False
+,	,	PUNCT	,	DATE_I	punct	False
+1984	1984	NUM	CD	DATE_I	nummod	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+coupons	coupon	NOUN	NNS		ROOT	False
+
+net	net	ADJ	JJ		amod	False
+purchases	purchase	NOUN	NNS		ROOT	False
+3	3	NUM	CD	CARDINAL_B	nummod	False
+ 	 	SPACE	_SP			False
+federal	federal	ADJ	JJ		amod	False
+agencies	agency	NOUN	NNS		appos	False
+
+net	net	ADJ	JJ		amod	False
+purchases	purchase	NOUN	NNS		nsubj	False
+4	4	NUM	CD	CARDINAL_B	nummod	False
+ 	 	SPACE	_SP			False
+net	net	ADJ	JJ		amod	False
+change	change	NOUN	NN		compound	False
+period	period	NOUN	NN		appos	False
+bills	bill	NOUN	NNS		ROOT	False
+net	net	PROPN	NNP		amod	False
+outright	outright	ADJ	JJ		amod	False
+net	net	ADJ	JJ		amod	False
+rps	rps	NOUN	NN		compound	False
+change2	change2	NOUN	NN		dobj	False
+within	within	ADP	IN		prep	True
+within	within	ADP	IN		prep	True
+1	1	NUM	CD	CARDINAL_B	nummod	False
+-	-	SYM	SYM		punct	False
+5	5	NUM	CD		prep	False
+10	10	NUM	CD		pobj	False
+over	over	ADP	IN		prep	True
+holdinchange	holdinchange	ADJ	JJ		pobj	False
+1-year	1-year	NUM	CD		punct	False
+1	1	NUM	CD	CARDINAL_B	intj	False
+-	-	SYM	SYM		punct	False
+5	5	NUM	CD		prep	False
+5	5	NUM	CD		quantmod	False
+-	-	SYM	SYM		punct	False
+10	10	NUM	CD		prep	False
+over	over	ADP	IN		quantmod	True
+10	10	NUM	CD		nummod	False
+total	total	ADJ	JJ		amod	False
+1-year	1-year	NUM	CD		punct	False
+1	1	NUM	CD	CARDINAL_B	intj	False
+-	-	SYM	SYM		punct	False
+5	5	NUM	CD		compound	False
+510	510	NUM	CD		quantmod	False
+over	over	ADP	IN		quantmod	True
+10	10	NUM	CD	CARDINAL_B	nummod	False
+total	total	ADJ	JJ		amod	False
+total	total	ADJ	JJ		amod	False
+1983	1983	NUM	CD	DATE_B	npadvmod	False
+-	-	PUNCT	HYPH		punct	False
+-qtr	-qtr	PUNCT	-RRB-		intj	False
+.	.	PUNCT	.		punct	False
+
+ii	ii	PROPN	NNP		ROOT	False
+5,116	5,116	NUM	CD	CARDINAL_B	nummod	False
+173	173	NUM	CD		nummod	False
+595	595	NUM	CD		npadvmod	False
+326	326	NUM	CD		nummod	False
+
+108	108	NUM	CD	CARDINAL_B	ROOT	False
+1,203	1,203	NUM	CD	CARDINAL_I	nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+6,208	6,208	NUM	CD		nummod	False
+
+-793	-793	PROPN	NNP		punct	False
+iii	iii	PROPN	NNP		ROOT	False
+4,617	4,617	NUM	CD	CARDINAL_B	nummod	False
+
+156	156	NUM	CD	CARDINAL_B	nummod	False
+481	481	NUM	CD	CARDINAL_B	nummod	False
+215	215	NUM	CD	CARDINAL_B	ROOT	False
+
+124	124	NUM	CD	CARDINAL_B	ROOT	False
+975	975	NUM	CD	CARDINAL_B	acomp	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+--	--	PUNCT	:		punct	False
+5,439	5,439	NUM	CD	CARDINAL_B	appos	False
+9,412	9,412	NUM	CD		nummod	False
+
+iv	iv	ADP	IN		ROOT	False
+4,738	4,738	NUM	CD	CARDINAL_B	nummod	False
+
+155	155	NUM	CD	CARDINAL_B	ROOT	False
+820	820	NUM	CD		nummod	False
+
+349	349	NUM	CD	CARDINAL_B	nummod	False
+151	151	NUM	CD	CARDINAL_I	nummod	False
+1,474	1,474	NUM	CD	CARDINAL_B	ROOT	False
+-	-	PUNCT	HYPH		punct	False
+
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+--	--	PUNCT	:		ROOT	False
+--	--	PUNCT	.		punct	False
+
+6,120	6,120	X	LS	CARDINAL_B	ROOT	False
+
+-10,739	-10,739	PROPN	NNP		compound	False
+1984-	1984-	NUM	CD		ROOT	False
+
+-qtr	-qtr	PUNCT	NFP		ROOT	False
+.	.	PUNCT	.		punct	False
+
+i	i	PRON	PRP		ROOT	True
+-1,168	-1,168	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	HYPH		punct	False
+-300	-300	PROPN	NNP		punct	False
+--	--	PUNCT	:		punct	False
+-300	-300	PROPN	NNP		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-1,555	-1,555	PUNCT	NFP		punct	False
+-286	-286	PROPN	NNP		compound	False
+ii	ii	PROPN	NNP		appos	False
+491	491	NUM	CD		nummod	False
+
+198	198	NUM	CD	CARDINAL_B	nummod	False
+808	808	NUM	CD	CARDINAL_I	ROOT	False
+
+200	200	NUM	CD	CARDINAL_B	ROOT	False
+
+277	277	NUM	CD	CARDINAL_B	ROOT	False
+1,484	1,484	NUM	CD	CARDINAL_B	nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+1,918	1,918	NUM	CD	CARDINAL_B	ROOT	False
+
+70	70	NUM	CD	CARDINAL_B	nummod	False
+iii	iii	NUM	CD		ROOT	False
+
+-424	-424	PROPN	NNP		ROOT	False
+600	600	NUM	CD	CARDINAL_B	nummod	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+600	600	NUM	CD	CARDINAL_B	nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+--	--	PUNCT	.		punct	False
+--	--	PUNCT	.		punct	False
+
+--	--	PUNCT	:		punct	False
+169	169	NUM	CD	CARDINAL_B	ROOT	False
+1,982	1,982	NUM	CD	CARDINAL_I	nummod	False
+june	june	PROPN	NNP		npadvmod	False
+801	801	NUM	CD		nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	HYPH		punct	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	HYPH		punct	False
+786	786	NUM	CD		pobj	False
+-3,572	-3,572	PUNCT	HYPH		punct	False
+july	july	PROPN	NNP	DATE_B	npadvmod	False
+-1,497	-1,497	X	FW		punct	False
+-	-	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+--	--	PUNCT	.		punct	False
+
+-1,499	-1,499	PUNCT	.		ROOT	False
+
+-656	-656	PROPN	NNP		ROOT	False
+
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		ROOT	False
+3,178	3,178	NUM	CD		nummod	False
+
+600	600	NUM	CD	CARDINAL_B	nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+3,777	3,777	NUM	CD		nummod	False
+-2,312	-2,312	PUNCT	:		punct	False
+sept	sept	PROPN	NNP		dep	False
+.	.	PROPN	NNP		ROOT	False
+5	5	NUM	CD	CARDINAL_B	nummod	False
+1,950	1,950	NUM	CD	CARDINAL_I	nummod	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+-	-	PUNCT	HYPH		punct	False
+--	--	PUNCT	:		punct	False
+--	--	PUNCT	:		punct	False
+-	-	PUNCT	:		punct	False
+1,950	1,950	NUM	CD	CARDINAL_B	nummod	False
+114	114	NUM	CD		compound	False
+1	1	NUM	CD	CARDINAL_B	nummod	False
+change	change	NOUN	NN		npadvmod	False
+from	from	ADP	IN		prep	True
+end	end	NOUN	NN		pobj	False
+of	of	ADP	IN		prep	True
+period	period	NOUN	NN		pobj	False
+to	to	PART	TO		aux	True
+end	end	NOUN	NN		relcl	False
+of	of	ADP	IN		prep	True
+period	period	NOUN	NN		pobj	False
+2	2	NUM	CD	CARDINAL_B	nummod	False
+outright	outright	ADJ	JJ		amod	False
+transactions	transaction	NOUN	NNS		dobj	False
+in	in	ADP	IN		prep	True
+market	market	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+with	with	ADP	IN		conj	True
+foreign	foreign	ADJ	JJ		amod	False
+accounts	account	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+redemptions	redemption	NOUN	NNS		conj	False
+(	(	PUNCT	-LRB-		punct	False
+-	-	PUNCT	,		punct	False
+)	)	PUNCT	-RRB-		punct	False
+in	in	ADP	IN		prep	True
+bill	bill	NOUN	NN		compound	False
+auctions	auction	VERB	VBZ		pobj	False
+3	3	NUM	CD	CARDINAL_B	nummod	False
+outright	outright	ADJ	JJ		amod	False
+transactions	transaction	NOUN	NNS		nsubj	False
+in	in	ADP	IN		prep	True
+market	market	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+with	with	ADP	IN		conj	True
+foreign	foreign	ADJ	JJ		amod	False
+accounts	account	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+short	short	ADJ	JJ		amod	False
+term	term	NOUN	NN		compound	False
+notes	note	NOUN	NNS		conj	False
+acquired	acquire	VERB	VBN		acl	False
+in	in	ADP	IN		prep	True
+ex	ex	NOUN	NN		compound	False
+change	change	NOUN	NN		pobj	False
+for	for	ADP	IN		prep	True
+maturing	mature	VERB	VBG		amod	False
+bills	bill	NOUN	NNS		compound	False
+excludes	exclude	VERB	VBZ		compound	False
+redemptions	redemption	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+maturity	maturity	NOUN	NN		compound	False
+shifts	shift	NOUN	NNS		conj	False
+,	,	PUNCT	,		punct	False
+rollovers	rollover	NOUN	NNS		conj	False
+of	of	ADP	IN		prep	True
+maturing	mature	VERB	VBG		amod	False
+coupon	coupon	NOUN	NN		compound	False
+issues	issue	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+direct	direct	ADJ	JJ		amod	False
+treasury	treasury	PROPN	NNP		compound	False
+borrowing	borrow	VERB	VBG		conj	False
+from	from	ADP	IN		prep	True
+the	the	DET	DT		det	True
+system	system	NOUN	NN		nmod	False
+4	4	NUM	CD	CARDINAL_B	nummod	False
+outright	outright	ADJ	JJ		amod	False
+transdctions	transdction	NOUN	NNS		pobj	False
+in	in	ADP	IN		prep	True
+market	market	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+with	with	ADP	IN		conj	True
+foreign	foreign	ADJ	JJ		amod	False
+accounts	account	NOUN	NNS		pobj	False
+only	only	ADV	RB		advmod	True
+excludes	exclude	VERB	VBZ		ROOT	False
+redemptions	redemption	NOUN	NNS		dobj	False
+and	and	CCONJ	CC		cc	True
+maturit	maturit	PROPN	NNP	ORG_B	compound	False
+shifts	shift	NOUN	NNS		ROOT	False
+5	5	NUM	CD	CARDINAL_B	nummod	False
+in	in	ADP	IN		prep	True
+addition	addition	NOUN	NN		pobj	False
+to	to	ADP	IN		prep	True
+the	the	DET	DT		det	True
+net	net	ADJ	JJ		amod	False
+purchases	purchase	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+securities	security	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+also	also	ADV	RB		advmod	True
+reflects	reflect	VERB	VBZ		conj	False
+changes	change	NOUN	NNS		dobj	False
+in	in	ADP	IN		prep	True
+system	system	NOUN	NN		compound	False
+holdings	holding	NOUN	NNS		pobj	False
+of	of	ADP	IN		prep	True
+bankers	banker	NOUN	NNS		poss	False
+'	'	PART	POS		case	False
+acceptances	acceptance	NOUN	NNS		pobj	False
+,	,	PUNCT	,		punct	False
+direct	direct	ADJ	JJ		amod	False
+treasury	treasury	PROPN	NNP	ORG_B	compound	False
+borrowing	borrow	VERB	VBG		appos	False
+from	from	ADP	IN		prep	True
+the	the	DET	DT		det	True
+system	system	NOUN	NN		pobj	False
+and	and	CCONJ	CC		cc	True
+redemptions	redemption	NOUN	NNS		conj	False
+(	(	PUNCT	-LRB-		punct	False
+-	-	PUNCT	,		punct	False
+)	)	PUNCT	-RRB-		punct	False
+of	of	ADP	IN		prep	True
+agency	agency	NOUN	NN		nmod	False
+and	and	CCONJ	CC		cc	True
+trea	trea	NOUN	NN		conj	False
+sury	sury	NOUN	NN		compound	False
+coupon	coupon	NOUN	NN		compound	False
+issues	issue	NOUN	NNS		pobj	False
+6	6	NUM	CD	CARDINAL_B	nummod	False
+includes	include	VERB	VBZ		ROOT	False
+changes	change	NOUN	NNS		dobj	False
+in	in	ADP	IN		prep	True
+rps	rps	PROPN	NNP	GPE_B	pobj	False
+(	(	PUNCT	-LRB-		punct	False
++	+	CCONJ	CC		cc	False
+)	)	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+matched	match	VERB	VBN		amod	False
+sale	sale	NOUN	NN		compound	False
+purchase	purchase	NOUN	NN		compound	False
+transactions	transaction	NOUN	NNS		conj	False
+(	(	PUNCT	-LRB-		punct	False
+-	-	PUNCT	,		punct	False
+)	)	PUNCT	-RRB-		punct	False
+,	,	PUNCT	,		punct	False
+and	and	CCONJ	CC		cc	True
+matched	match	VERB	VBD		amod	False
+purchase	purchase	NOUN	NN		compound	False
+sale	sale	NOUN	NN		compound	False
+transactions	transaction	NOUN	NNS		conj	False
+(	(	PUNCT	-LRB-		punct	False
++	+	CCONJ	CC		cc	False
+)	)	PUNCT	-RRB-		punct	False
+fr	fr	ADP	IN		prep	False
+1'fr	1'fr	PROPN	NNP	CARDINAL_B	pobj	False
+(	(	PUNCT	-LRB-		ROOT	False
+
+71/1	71/1	X	LS		ROOT	False
+)	)	PUNCT	-RRB-		punct	False
