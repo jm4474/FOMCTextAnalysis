@@ -28,7 +28,7 @@ def clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,
     alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
     alts=alts.reset_index()
     alts.rename(columns={'start_date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
-    
+    #print(alts)
    
     data = pd.concat([speakers,alts],axis=0,keys=[0, 1])
     data = data.reset_index()
@@ -79,8 +79,8 @@ def clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,
     data.loc[(data['votingmember']==1) & (data['ambdiss']==1) & (data["_merge"]=='both'),'act_vote'] = "ambdissent"
     data.drop(columns = ["_merge"],inplace=True)
     
-        # Contrain dataset
-    newdata = data[(data["start_date"]>begin_date) & (data["start_date"]<end_date) ]
+        # Constrain dataset
+    newdata = data[(data["start_date"]>=begin_date) & (data["start_date"]<=end_date) ]
 
     return newdata
 
@@ -94,15 +94,16 @@ def main():
     
     # Load speaker text
     speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv").sort_values(by="Date")
-    
+    speakers = speakers[speakers.FOMC_Section==2]
+
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
     
     # Alternative results
     alternative_results = pd.read_csv("../output/alternative_results.csv")
     
-    begin_date = "1988-01-01"
-    end_date = "2008-12-31"
+    begin_date = "1988-03-29"
+    end_date = "2006-01-31"
     
     dataout = clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,begin_date,end_date)
     
