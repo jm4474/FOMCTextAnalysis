@@ -28,7 +28,7 @@ def clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,
     alts = pd.wide_to_long(alternatives,stubnames="corpus", sep="_",i="start_date", j="alternatives", suffix='\w+')
     alts=alts.reset_index()
     alts.rename(columns={'start_date':'Date','alternatives':'Speaker','corpus':'content'},inplace=True)
-    print(alts)
+    #print(alts)
    
     data = pd.concat([speakers,alts],axis=0,keys=[0, 1])
     data = data.reset_index()
