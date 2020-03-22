@@ -175,7 +175,7 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 
 ###############################################################################
     ### Model Selection ###
-run_modelsel = False   
+run_modelsel = True   
 run_numtopic = True
 
 if run_modelsel == True:    
@@ -323,7 +323,7 @@ print(confusion_matrix)
     
 print("\n### VISUAL OUTPUT ###\n")
 
-for date in ['2006-08-08','1993-05-18','2007-05-09','2000-11-15']:
+for date in ['2005-08-09','1993-05-18','1997-05-20','2000-11-15']:
     #date='1991-10-01'
     dataexample = data_lda_pca[(data_lda_pca['d_alt']==1) | (data_lda_pca['votingmember']==1)][data_lda_pca['date']==date]
     #print(dataexample[["speaker"]+col_topics+['PCI1','PCI2']])
