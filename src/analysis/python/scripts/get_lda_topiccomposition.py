@@ -58,14 +58,42 @@ data_speakers=data[data['votingmember']==1].merge(df_balt,on='date',how='inner')
 data_alternatives=data[data['d_alt']==1]
 #data_alternatives.to_csv("~/Desktop/alternativetext.csv")
 
-    ### Summary Statistics ###
-print("### SUMMARY STATISTICS ###\n")
-print("Number of speaker dates: %d" % len(data_speakers['date'].unique()))
-print("Number of alternative dates: %d" % len(data_alternatives['date'].unique()))
 
-print("Number of words for the speakers is: %s million" % (len(" ".join(data_speakers['content'].tolist())) / 1e6))
-print("Number of words for the alternatives is: %s million" % (len(" ".join(data_alternatives['content'].tolist())) / 1e6 ))
-# Speakers have roughly 15x the number of words
+    ### Check the coverage of the speaker data ###
+alt_dates = pd.DataFrame(data[data['d_alt']==1].date.unique()).rename(columns={0:"date"})
+alt_dates['alt']=1
+date_speakers = pd.DataFrame(data[data['votingmember']==1].date.unique()).rename(columns={0:"date"})
+date_speakers['speaker']=1
+merge_df = pd.merge(alt_dates,date_speakers,on="date",how="outer")
+
+
+print("Number of alternative dates: %d" % len(data_alternatives['date'].unique()))
+print(f"Earliest meeting with alternatives: {data_alternatives['date'].min()}" )
+print(f"Latest meeting with alternatives: {data_alternatives['date'].max()}" )
+
+
+print("Number of speaker dates: %d" % len(data_speakers['date'].unique()))
+print("Earliest date of speaker: %s" % data_speakers['date'].min())
+print("Latest date of speaker: %s" % data_speakers['date'].max())
+
+print("Number of words for the speakers is: {:.3f} million".format(len(" ".join(data_speakers['content'].tolist())) / 1e6))
+print("Number of words for the alternatives is: {:.3f} million".format(len(" ".join(data_alternatives['content'].tolist())) / 1e6 ))
+
+    ### Summary Statistics ###
+with open("../output/file_basic_sumstats.tex","w") as file:
+    file.write("DOCUMENTS COLLECTED:\\\\\\\\")
+    file.write(f"Number of alternative dates: \t \t {len(data_alternatives['date'].unique())}\\\\")
+    file.write(f"Earliest meeting with alternatives:\t \t {data_alternatives['date'].min()} \\\\")
+    file.write(f"Latest meeting with alternatives:\t \t {data_alternatives['date'].max()} \\\\ \\\\" )
+    
+    file.write(f"Number of speaker dates: {len(data_speakers['date'].unique())}\\\\")
+    file.write(f"Earliest date of speaker: {data_speakers['date'].min()}\\\\")
+    file.write(f"Latest date of speaker: {data_speakers['date'].max()}\\\\\\\\")
+    
+    file.write("Number of words for the speakers is: {:.3f} million \\\\".format(len(" ".join(data_speakers['content'].tolist())) / 1e6))
+    file.write("Number of words for the alternatives is: {:.3f} million \\".format(len(" ".join(data_alternatives['content'].tolist())) / 1e6 ))
+    
+
 
 # =============================================================================
 #     # Subsample the speakers -- only to learn the model

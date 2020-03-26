@@ -95,6 +95,8 @@ def main():
     # Load speaker text
     speakers = pd.read_csv("../output/speaker_data/speaker_corpus.csv").sort_values(by="Date")
     speakers = speakers[speakers.FOMC_Section==2]
+    
+    #len(speakers[speakers.start_date>='1988-03-29'].start_date.unique())
 
     # Alternatives that Anand collected
     alternatives = pd.read_csv("../output/alternative_outcomes_and_corpus.csv")
