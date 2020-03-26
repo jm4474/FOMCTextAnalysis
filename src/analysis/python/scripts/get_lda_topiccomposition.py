@@ -55,6 +55,7 @@ df_summary = data.pivot_table(index="date",values='new',columns=['d_alt','voting
 # Keep only dates for which alternatives are available and speakers who are votingmembers
 data_speakers=data[data['votingmember']==1].merge(df_balt,on='date',how='inner')
 data_alternatives=data[data['d_alt']==1]
+data_alternatives = data_alternatives[data_alternatives['content']!='[]'].copy()
 #data_alternatives.to_csv("~/Desktop/alternativetext.csv")
 
 
@@ -202,8 +203,8 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 
 ###############################################################################
     ### Model Selection ###
-run_modelsel = True   
-run_numtopic = True
+run_modelsel = False   
+run_numtopic = False
 
 if run_modelsel == True:    
         ### Explore multiple dimension of the parameter space - TAKES A LONG TIME ###
@@ -385,3 +386,6 @@ ax.plot(pref_distance['newdate'], pref_distance['altd'], 'mo',markersize=2)
 ax.plot(pref_distance['newdate'], pref_distance['ch_alt'], 'o', markersize=6,fillstyle='none',label="alt chosen")
 ax.legend()
 plt.savefig("../output/fig_greenspan_hd.pdf")
+
+    ### Push results to Overleaf
+# os.system("cp par* fig* tab* *.tex ~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files/")

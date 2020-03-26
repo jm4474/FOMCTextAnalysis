@@ -123,7 +123,7 @@ def extract_vectors(ldamodel,num_topics,corpus):
     return sent_topics_df
 
 def output_plot(date,data):
-    plt.figure()
+    plt.figure(figsize=(12,7))
     for i, row in data.iterrows():
         if re.search("^alt[a-d]", row["speaker"]):
             plt.scatter(row['PCI1'],row['PCI2'], edgecolors='k', c='b')
@@ -144,7 +144,8 @@ def create_distance(date,data,col_topics):
         for alt in ['a','b','c','d','e']:
             zz=data[(data['date']==date) & (data['speaker']=='alt'+alt)]
             #print(zz)
-            
+            #print(f"This is alternative {alt} and topic distribution\n"  )
+            #print(zz)
             if zz.index.empty or z.index.empty:
                 pass
             else:
