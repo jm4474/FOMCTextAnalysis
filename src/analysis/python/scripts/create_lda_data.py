@@ -109,12 +109,7 @@ def main():
     
     dataout = clean_data(alternatives,speakers,votingrecord,alternative_results,speakerid,begin_date,end_date)
     
-        
     return dataout
-
-
-
-
 # =============================================================================
 # # ### Do a variety of checks on the data
 # 

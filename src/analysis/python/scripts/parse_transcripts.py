@@ -174,17 +174,24 @@ def tag_interjections_with_section(interjection_df):
 
     separation_df['Date'] = pd.to_datetime(separation_df.date_string,format="%Y%m")
 
-    interjection_df['Date'] = pd.to_datetime(interjection_df.Date)
+    interjection_df['Date'] = pd.to_datetime(interjection_df['Date'])
+    
     interjection_df = interjection_df[(interjection_df.Date>pd.to_datetime("1987-07-31"))&
                                     (interjection_df.Date<pd.to_datetime("2006-02-01"))]
 
 
-    interjection_df['date_string'] = interjection_df.Date.\
-        apply(lambda x: x.strftime("%Y%m")).apply(str)
+    
 
     cc_df = meeting_df[meeting_df.event_type=="Meeting"]
-    cc_df['Date'] = pd.to_datetime(cc_df['end_date'])
+    print(cc_df)
+    cc_df['Date'] = pd.to_datetime(cc_df['start_date'])
+
+    cc_df['end_date'] = pd.to_datetime(cc_df['end_date'])
     interjection_df = interjection_df[interjection_df['Date'].isin(cc_df['Date'])]
+    interjection_df = pd.merge(interjection_df,cc_df[['Date','end_date']],on="Date",how="left")
+
+    interjection_df['date_string'] = interjection_df.end_date.\
+        apply(lambda x: x.strftime("%Y%m")).apply(str)
 
     separation_df['date_ind'] = separation_df.date_string.astype(int)
     separation_df = separation_df.set_index('date_ind')
@@ -212,7 +219,7 @@ def tag_interjections_with_section(interjection_df):
             tagged_interjections = pd.concat([tagged_interjections, meeting_date], ignore_index = True)
         except:
             tagged_interjections = pd.concat([tagged_interjections, meeting_date], ignore_index = True)
-    #tagged_interjections.to_csv("tagged_interjections.csv",index=False)
+    tagged_interjections.to_csv("tagged_interjections.csv",index=False)
     return tagged_interjections
 
 def generate_speaker_corpus(tagged_interjections):
@@ -250,7 +257,7 @@ def generate_speaker_files(speaker_statements):
 def main():
     interjection_df = get_interjections()
     tagged_interjections = tag_interjections_with_section(interjection_df)
-    speaker_statements = generate_speaker_corpus(pd.read_csv("tagged_interjections.csv"))
+    speaker_statements = generate_speaker_corpus(tagged_interjections)
     generate_speaker_files(speaker_statements)
 
 

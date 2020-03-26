@@ -47,7 +47,6 @@ rnd_state=5
 data = create_lda_data.main()
 data.rename(columns={"start_date":"date"},inplace=True)
 data.to_csv("../output/lda_dataset.csv",index=False)
-
     ### Data Selection  ###
 data['new']=1
 df_balt=data[data['d_alt']==1].pivot_table(index="date",values='new',aggfunc=np.sum).reset_index()
