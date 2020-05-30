@@ -15,7 +15,7 @@ def main():
     voter_df = get_voters()
     get_errors(voter_df)
     merge_error_correction(voter_df)
-    merge_voting_members_with_alternatives()
+    #merge_voting_members_with_alternatives()
 
 def get_voters():
     df = pd.read_excel("../data/fomc_dissents_data.xlsx",skiprows=3)
