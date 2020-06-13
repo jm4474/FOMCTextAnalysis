@@ -129,7 +129,8 @@ def generate_speaker_files(speaker_statements):
         with open("{}/{}_{}".format(speaker_path,speaker,"corpus.txt"),"w+") as f:
             f.write(" ".join(speaker_list))
         count+=1
-    
+    speaker_statements['content'] = speaker_statements['content'].fillna("")
+    speaker_statements = speaker_statements.groupby(['start_date','Speaker','Section'])['content'].apply(lambda x: "%s" % " ".join(x)).reset_index()
     return speaker_statements
 
 
@@ -168,8 +169,9 @@ def main():
     matlab_df = import_matlab_data()
 
     speaker_df = generate_speaker_files(matlab_df)
-
-    speaker_df.to_csv("../output/speaker_data/speaker_corpus.csv")
+    print(speaker_df)
+    speaker_df.to_csv("../output/speaker_data/speaker_corpus.csv",index=False)
+    
 
 
 
