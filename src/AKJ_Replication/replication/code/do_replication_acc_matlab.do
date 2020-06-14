@@ -19,6 +19,8 @@ merge 1:1 date using `propscore',nogenerate
 	* export dataset
 save ../data/data_replication,replace
 
+export delimited "../data/data_replication.csv",replace
+
 ********************************************************************************
 *** Replication based on the Angrist, Kuersteiner, Jorda ***
 
