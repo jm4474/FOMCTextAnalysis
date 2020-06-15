@@ -102,14 +102,14 @@ def name_corr(val):
     #print(val)       
     return val,sentence
 
-def generate_speaker_files(speaker_statements):
+def generate_speaker_file(speaker_statements):
     if os.path.exists("../output/speaker_data"):
         shutil.rmtree("../output/speaker_data")
 
-    if not os.path.exists("../output/speaker_data"):
-        os.mkdir("../output/speaker_data")
+    #if not os.path.exists("../output/speaker_data"):
+    #    os.mkdir("../output/speaker_data")
 
-
+    
     speaker_statements["content"] = speaker_statements["content"].apply(lambda x: " ".join(str(x).split()[1:]) if len(str(x).split())>1 and str(x).split()[0]=="LINDSEY" else x)
     speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
     speaker_statements['Speaker'] = speaker_statements['Speaker'].apply(lambda x: x.split(".")[0] if "." in x else x)
@@ -118,19 +118,21 @@ def generate_speaker_files(speaker_statements):
     speakers = [speaker for speaker in set(speaker_statements["Speaker"])]
     print("Number of speakers:{}".format(len(speakers)))
     count = 1
-    for speaker in speakers:
-        print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
-        speaker_df = speaker_statements[speaker_statements["Speaker"]==speaker]
-        speaker_path = "{}/{}".format("../output/speaker_data",speaker)
-        if not os.path.exists(speaker_path):
-            os.mkdir(speaker_path)
-        speaker_df[['start_date','content']].to_csv("{}/{}_{}".format(speaker_path,speaker,"statements_by_meeting.csv"))
-        speaker_list = list(speaker_df["content"])
-        with open("{}/{}_{}".format(speaker_path,speaker,"corpus.txt"),"w+") as f:
-            f.write(" ".join(speaker_list))
-        count+=1
+    #for speaker in speakers:
+        #print("Currently working on statements for speaker {} of {}. Name:{}".format(count,len(speakers),speaker))
+        #speaker_df = speaker_statements[speaker_statements["Speaker"]==speaker]
+        #speaker_path = "{}/{}".format("../output/speaker_data",speaker)
+        #if not os.path.exists(speaker_path):
+        #    os.mkdir(speaker_path)
+        #speaker_df[['start_date','content']].to_csv("{}/{}_{}".format(speaker_path,speaker,"statements_by_meeting.csv"))
+        #speaker_list = list(speaker_df["content"])
+        #with open("{}/{}_{}".format(speaker_path,speaker,"corpus.txt"),"w+") as f:
+        #    f.write(" ".join(speaker_list))
+        #count+=1
     speaker_statements['content'] = speaker_statements['content'].fillna("")
     speaker_statements = speaker_statements.groupby(['start_date','Speaker','Section'])['content'].apply(lambda x: "%s" % " ".join(x)).reset_index()
+    speaker_statements['Speaker'] = speaker_statements['Speaker'].apply(lambda x:x.lower())
+
     return speaker_statements
 
 
@@ -168,9 +170,9 @@ def main():
     
     matlab_df = import_matlab_data()
 
-    speaker_df = generate_speaker_files(matlab_df)
+    speaker_df = generate_speaker_file(matlab_df)
     print(speaker_df)
-    speaker_df.to_csv("../output/speaker_data/speaker_corpus.csv",index=False)
+    speaker_df.to_csv("../output/speaker_data.csv",index=False)
     
 
 
