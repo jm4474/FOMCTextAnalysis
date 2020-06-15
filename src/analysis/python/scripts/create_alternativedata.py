@@ -6,11 +6,21 @@ READ IN:
     2) Missing Bluebook Alternatives "../data/bluebook_missingalternatives.xlsx"
     3) FFR Target "../../../collection/python/data/FRED_DFEDTAR.xls"
     4) Meeting Dates "../../../collection/python/output/derived_data.csv"
+    
+    5) Lea's corpus collection "../data/alternatives_corpora"
+    6) Manual collection of missing corpus of lea's collection "../data/bluebook_missingcorpuslea.csv"
+    
+EXPORT:
+    "../output/alternativedata.csv"
+    
 @author: olivergiesecke
 """
 
 
 import pandas as pd
+import numpy as np
+import os
+import re
 
 def map_treatment(x):
     if x == 0:
@@ -98,34 +108,96 @@ def build_alttext(blue_df,bb_missing_df):
     all_df = all_df.sort_values(by=["start_date","alternative"])
     all_df.reset_index(drop=True,inplace=True)
     return all_df
-          
+
+
+def import_leaalttext(directory,missingcorpus):
+    # Import alternatives that Lea extracted
+    emptylist=[]
+    filenames = sorted(os.listdir(directory))
+    for filename in filenames:
+        if ".txt" not in filename:
+            #print("not a txt file")
+            continue
+        # get start date
+        start_date = filename.replace(".txt","")
+            
+        alternatives = {'start_date_string':start_date,'a':[],'b':[],'c':[],'d':[],'e':[]}
+        with open(f"../data/alternatives_corpora/{filename}") as f:
+            for line in f.readlines():
+                if line.strip():
+                    split = re.split("[a-z]\s[A-Z]{3,4}\s\d*",line.strip(),1)
+                    if len(split)>1:
+                        alt = line.strip()[0]
+                        alternatives[alt].append(split[1])
+        emptylist.append(alternatives)
+    corpus_df = pd.DataFrame(emptylist)
+    
+        # Restrict time period
+    corpus_df['start_date']=pd.to_datetime(corpus_df['start_date_string'])
+    corpus_df= corpus_df[(corpus_df['start_date']>="1988-01-01") & (corpus_df['start_date']<="2008-12-31")]                    
+                        
+    
+        # Fill-in the missing corpora for time 3/20/01 - 1/27/04
+    corpus_df = corpus_df[(corpus_df['start_date']<"2001-03-20") | (corpus_df['start_date']>"2004-01-29")]
+    
+        # Do a long reshape
+    newnames = dict(zip(['a', 'b', 'c', 'd', 'e'] ,[ f"alt_{col}" for col  in ['a', 'b', 'c', 'd', 'e'] ]))
+    corpus_df.rename(columns=newnames,inplace=True)
+    corpus_df.drop(columns="start_date_string",inplace=True)
+    
+    len(corpus_df["start_date"].unique())
+    
+    corpus_long = pd.wide_to_long(corpus_df,"alt",i="start_date",j="alternative",sep="_",suffix="\w").reset_index()
+    corpus_long.rename(columns={"alt":"newtext"},inplace=True)
+    corpus_long = corpus_long.sort_values(["start_date","alternative"],ascending=(True, True))
+
+    corpus_long = corpus_long.reset_index()
+    corpus_long["tt"] = np.nan
+    for idx,row in corpus_long.iterrows():
+        
+        if not row["newtext"]:
+            corpus_long.loc[idx, "tt"] = np.nan    
+        else:
+            corpus_long.loc[idx, "tt"] = " ".join(row["newtext"])
+    corpus_long.drop(columns="newtext",inplace=True)
+    corpus_long.rename(columns={"tt":"newtext"},inplace=True)
+    
+    corpus_long = corpus_long[corpus_long.newtext.notna()] 
+    corpus_long.drop(columns="index",inplace=True)
+    
+    missingcorpus_df = pd.read_csv(missingcorpus)
+    missingcorpus_df["start_date"] = pd.to_datetime( missingcorpus_df["start_date"])        
+
+    corpus = pd.concat([missingcorpus_df,corpus_long],join="outer",axis=0,ignore_index=True)
+    
+    return corpus
+        
 def get_ffr(ffr,startyear,endyear):
     ffr.rename(columns={"observation_date":"date","DFEDTAR":"ffrtarget"},inplace=True)
     ffr['year']=ffr['date'].apply(lambda x: x.year)
-    ffr=ffr[(ffr['year']>=startyear) & (ffr['year']<=endyear)]
-    ffr['target_before'] = ffr['ffrtarget'].shift(1)
-    ffr['target_after'] = ffr['ffrtarget'].shift(-1)
+    ffr=ffr[(ffr['year']>=startyear) & (ffr['year']<=endyear)].copy()
+    ffr['target_before'] = ffr['ffrtarget'].shift(1).copy()
+    ffr['target_after'] = ffr['ffrtarget'].shift(-1).copy()
     ffr['target_change'] = ffr['target_after'] - ffr['target_before']
     return ffr
 
 def main():
-    print("Processing of the manual bluebook menu")
+    print("Processing of the manual bluebook menu\n")
     blue_df = pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     bb_missing_df=pd.read_excel("../data/bluebook_missingalternatives.xlsx")
     menu_df = build_altmenu(blue_df,bb_missing_df)
     
-    print("Processing Anand and Oliver Alternative Text")
+    print("Processing Anand and Oliver alternative text\n")
     blue_df = pd.read_excel("../data/bluebook_manual_data_online_WORKING.xlsx")
     bb_missing_df=pd.read_excel("../data/bluebook_missingalternatives.xlsx")
     text_df = build_alttext(blue_df,bb_missing_df)
     
-    
-    print("Import FFR Target")
+    print("Import FFR Target\n")
     startyear, endyear = 1988, 2008
     ffrdata=pd.read_excel("../../../collection/python/data/FRED_DFEDTAR.xls",skiprows=10)
     ffr = get_ffr(ffrdata,startyear,endyear)
     
-    print("Processing the Ambiguous Decisions")
+    print("Processing the Ambiguous Decisions\n")
     decisions_df = pd.read_excel("../data/undetermined_alternatives_og.xlsx")
     decisions_df = decisions_df.loc[~decisions_df["Final decision"].isna(),['start_date',"Final decision"]].rename(columns={"Final decision":'decision'})
     
@@ -153,5 +225,22 @@ def main():
     
     mergedtext_df = merged_df.merge(text_df,on=["start_date","alternative"],how="inner")
     
+    directory = "../data/alternatives_corpora"
+    missingcorpus = "../data/bluebook_missingcorpuslea.csv"
+    newdata = import_leaalttext(directory,missingcorpus)
+    
+    mergedtext_df = mergedtext_df.merge(newdata , on=["start_date","alternative"],how="left")
+    
+        # Fill Lea's alternatives with the manual collected alternatives in the period from 2001-03-20 to 2004-01-28
+    mergedtext_df.loc[(mergedtext_df['start_date']>="2001-03-20") & (mergedtext_df['start_date']<="2004-01-28"),"newtext" ]= mergedtext_df.loc[(mergedtext_df['start_date']>="2001-03-20") & (mergedtext_df['start_date']<="2004-01-28"),"text" ]
+        # Fill Lea's alternatives with the aprime outlier on start_date 2001-01-30
+    mergedtext_df.loc[(mergedtext_df['start_date']>="2001-01-30") & (mergedtext_df['alternative']=="aprime"),"newtext" ]= mergedtext_df.loc[(mergedtext_df['start_date']>="2001-01-30") & (mergedtext_df['alternative']=="aprime"),"text" ]
+    
+    mergedtext_df.rename(columns={"text":"oldtext","newtext":"leatextwithadjustments"},inplace=True)
+    
     print("Export the final dataset")
     mergedtext_df.to_csv("../output/alternativedata.csv",index=False)
+
+
+if __name__ == "__main__":
+    main()
