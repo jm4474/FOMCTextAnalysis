@@ -254,8 +254,18 @@ def main():
     speakerid = create_speakerids(merge_df)
     dataout = create_votingrecord(merge_df,speakerid ).sort_values(by="date")
     
- 
+    
+    speakerid = dict((k.lower(), v) for k, v in speakerid.items()) 
+
+    invspeakerid = dict((v,k) for k, v in speakerid.items()) 
+    
     dataout=dataout[dataout["date"]<="2008-12-31"] 
+    
+    dataout["speaker"] = dataout['speaker_id'].map(invspeakerid)
+    
+    colorder = ["speaker"] + [col for col in dataout.columns if col!="speaker"]
+    dataout = dataout[colorder]
+    
     print(f"Number of votes in the data: {len(dataout[dataout['votingmember']==1])}; 1905 voters in D. Thornton")
     
     dataout.to_csv("../output/votingrecord.csv",index=False)
