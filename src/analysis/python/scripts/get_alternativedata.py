@@ -212,7 +212,7 @@ def main():
     
     merged_df = merged_df.merge(decisions_df,on="start_date",how="left")
 
-    merged_df = merged_df[['start_date','end_date','alternative','size','treatment','ffrtarget', 'target_before', 'target_change', 'decision']]
+    merged_df = merged_df[['start_date','end_date','alternative','size','treatment','target_after', 'target_before', 'target_change', 'decision']]
 
     merged_df['newds'] = merged_df.loc[ merged_df['size']== merged_df["target_change"],'alternative' ]
 
@@ -238,9 +238,29 @@ def main():
     
     mergedtext_df.rename(columns={"text":"oldtext","newtext":"leatextwithadjustments"},inplace=True)
     
+    decision = mergedtext_df[['start_date', 'end_date','decision']]
+    decision = decision.drop_duplicates('start_date')
+    
+    
     print("Export the final dataset")
     mergedtext_df.to_csv("../output/alternativedata.csv",index=False)
 
+    on = 1
+    if on ==1:
+        votes = pd.read_csv("../output/votingrecordwo.csv")
+        votes["date"] = pd.to_datetime(votes["date"] )
+        votes = votes.merge(decision,left_on="date",right_on="end_date",how="left")
+        votes.loc[votes['votingmember']!=1,"decision"] = np.nan
+        
+        votes['diss']= votes[['ambdiss',
+       'tighterdiss', 'easierdiss']].sum(axis=1)
 
+        votes.loc[votes['diss']==1,"decision"] = np.nan
+        
+        votes.drop(columns=['start_date', 'end_date', 'diss'],inplace=True)
+        votes = votes[votes["date"]!="1988-01-05"]
+
+        votes.to_csv("../output/votingrecord.csv")
+        
 if __name__ == "__main__":
     main()

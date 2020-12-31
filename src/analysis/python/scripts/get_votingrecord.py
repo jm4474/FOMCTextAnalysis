@@ -265,10 +265,10 @@ def main():
     
     colorder = ["speaker"] + [col for col in dataout.columns if col!="speaker"]
     dataout = dataout[colorder]
-    
+    dataout = dataout[dataout['votingmember']==1]
     print(f"Number of votes in the data: {len(dataout[dataout['votingmember']==1])}; 1905 voters in D. Thornton")
     
-    dataout.to_csv("../output/votingrecord.csv",index=False)
+    dataout.to_csv("../output/votingrecordwo.csv",index=False)
 
 if __name__== "__main__":
     main()

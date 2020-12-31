@@ -1,9 +1,0 @@
---- Please update from top ---
-
-
-
-03/12/2020 - OG 
-
-- Discuss how we can associate the alternative with the change in the federal funds rate. Anand and Pepe must have chosen a heuristic to do so.
-- Associate the alternative with the speakers. Apart from the consensus vote we also have to take care of the dissenters.
-- Create confusion matrix to see how well we are doing with the preference estimation.
