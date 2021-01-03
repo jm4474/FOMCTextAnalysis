@@ -64,6 +64,13 @@ args = parser.parse_args()
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+# =============================================================================
+args.dataset = "new"
+args.data_path = "data/min_df_10"
+args.train_embeddings = 0
+args.emb_path="embeddings/skipemb"
+# =============================================================================
+
 print('\n')
 # Set the seed
 np.random.seed(args.seed)
@@ -98,6 +105,7 @@ test_2_tokens = test['tokens_2']
 test_2_counts = test['counts_2']
 args.num_docs_test_2 = len(test_2_tokens)
 
+# Loa pre-trained embeddings.
 embeddings = None
 if not args.train_embeddings:
     emb_path = args.emb_path
@@ -117,6 +125,7 @@ if not args.train_embeddings:
             embeddings[i] = vectors[word]
             words_found += 1
         except KeyError:
+            print(f"{word} not in the embeddings")
             embeddings[i] = np.random.normal(scale=0.6, size=(args.emb_size, ))
     embeddings = torch.from_numpy(embeddings).to(device)
     args.embeddings_dim = embeddings.size()

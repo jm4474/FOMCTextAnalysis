@@ -1,36 +1,70 @@
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
-import pandas as pd
 import pickle
 import random
 from scipy import sparse
 import itertools
 from scipy.io import savemat, loadmat
 import os
-
-datapath = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/python/output/")
+import pandas as pd
+import argparse
 
 # Maximum / minimum document frequency
-max_df = 0.7 # in a maximum of # % of documents if # is float.
-min_df = 10  # choose desired value for min_df // in a minimum of # documents
+max_df = 1.0
+min_df = 10  # choose desired value for min_df
+
+parser = argparse.ArgumentParser(description='The Embedded Topic Model')
+
+parser.add_argument('--dataset', type=str, default='both_full', help='data source in {bluebook, transcipt, both_subsampled} -- or anything else for both_full')
+args = parser.parse_args()
 
 # Read stopwords
 with open('stops.txt', 'r') as f:
     stops = f.read().split('\n')
 
-# Read data from 
-print('reading speaker file...')
-data_file = pd.read_pickle(f"{datapath}speaker_data")
+# Read data
+print('reading text file...')
+data_file = '../../analysis/python/output/lda_dataset.csv'
+#with open(data_file, 'r') as f:
+    #docs = f.readlines()
 
-# Transform DataFrame into list of strings. Filtering can be applied here
-docs = data_file['content'].to_list()
+docs = pd.read_csv(data_file)
+print(docs.shape)
+if args.dataset=="bluebook":
+    docs = docs.loc[~docs['FOMC_Section'].isin(['2.0'])]
+    print(docs.shape)
+    docs = docs.loc[docs['content'].str.contains(' ')]
+if args.dataset=="transcript":
+    docs = docs.loc[docs['FOMC_Section'].isin(['2.0'])]
+    print(docs.shape)
+    docs = docs.loc[docs['content'].str.contains(' ')]
+if args.dataset=="both_subsampled":
+    tmp1 = docs.loc[docs['FOMC_Section'].isin(['2.0'])]
+    tmp2 = docs.loc[~docs['FOMC_Section'].isin(['2.0'])]
+    tmp1 = tmp1.loc[tmp1['content'].str.contains(' ')]
+    tmp2 = tmp2.loc[tmp2['content'].str.contains(' ')]
+    tmp1 = tmp1.sample(tmp2.shape[0])
+    tmp1 = tmp1.append(tmp2, ignore_index=True)
+    docs = tmp1
+    
+print(docs.shape)
+docs.to_csv("data_{}.csv".format(args.dataset), index=False)
 
-# Create count vectorizer
+docs = list(docs['content'])
+
+docs = [d for d in docs if len(d.split(" "))>2]
+
+docs = [d.lower().replace('alternative a ', 'alternative_a ').replace('alternative b ', 'alternative_b ').replace('alternative c ', 'alternative_c ') \
+        for d in docs]
+
+print(len(docs))
+
+# Create count vectorizer
 print('counting document frequency of words...')
 cvectorizer = CountVectorizer(min_df=min_df, max_df=max_df, stop_words=None)
 cvz = cvectorizer.fit_transform(docs).sign()
 
-# Get vocabulary
+# Get vocabulary
 print('building the vocabulary...')
 sum_counts = cvz.sum(axis=0)
 v_size = sum_counts.shape[1]
@@ -57,7 +91,10 @@ del vocab_aux
 word2id = dict([(w, j) for j, w in enumerate(vocab)])
 id2word = dict([(j, w) for j, w in enumerate(vocab)])
 
-# Split in train/test/valid
+for i in word2id.keys():
+    print(i)
+
+# Split in train/test/valid
 print('tokenizing documents and splitting into train/test/valid...')
 num_docs = cvz.shape[0]
 trSize = int(np.floor(0.85*num_docs))
@@ -66,7 +103,7 @@ vaSize = int(num_docs - trSize - tsSize)
 del cvz
 idx_permute = np.random.permutation(num_docs).astype(int)
 
-# Remove words not in train_data
+# Remove words not in train_data
 vocab = list(set([w for idx_d in range(trSize) for w in docs[idx_permute[idx_d]].split() if w in word2id]))
 word2id = dict([(w, j) for j, w in enumerate(vocab)])
 id2word = dict([(j, w) for j, w in enumerate(vocab)])
@@ -75,12 +112,13 @@ print('  vocabulary after removing words not in train: {}'.format(len(vocab)))
 docs_tr = [[word2id[w] for w in docs[idx_permute[idx_d]].split() if w in word2id] for idx_d in range(trSize)]
 docs_ts = [[word2id[w] for w in docs[idx_permute[idx_d+trSize]].split() if w in word2id] for idx_d in range(tsSize)]
 docs_va = [[word2id[w] for w in docs[idx_permute[idx_d+trSize+tsSize]].split() if w in word2id] for idx_d in range(vaSize)]
+del docs
 
 print('  number of documents (train): {} [this should be equal to {}]'.format(len(docs_tr), trSize))
 print('  number of documents (test): {} [this should be equal to {}]'.format(len(docs_ts), tsSize))
 print('  number of documents (valid): {} [this should be equal to {}]'.format(len(docs_va), vaSize))
 
-# Remove empty documents
+# Remove empty documents
 print('removing empty documents...')
 
 def remove_empty(in_docs):
@@ -173,7 +211,7 @@ del doc_indices_ts_h2
 del doc_indices_va
 
 # Save vocabulary to file
-path_save = './data/min_df_' + str(min_df) + '/'
+path_save = '../data/fomc/{}/min_df_'.format(args.dataset) + str(min_df) + '/'
 if not os.path.isdir(path_save):
     os.system('mkdir -p ' + path_save)
 
@@ -181,12 +219,8 @@ with open(path_save + 'vocab.pkl', 'wb') as f:
     pickle.dump(vocab, f)
 del vocab
 
-# Use entire corpus to train embeddings with skipgram.
-with open(path_save +"corpus_speakers.txt", "w") as file1: 
-    file1.writelines(docs)
-
-# Split bow into token/value pairs
-print('splitting bow into token/value pairs and saving to disk...')
+# Split bow intro token/value pairs
+print('splitting bow intro token/value pairs and saving to disk...')
 
 def split_bow(bow_in, n_docs):
     indices = [[w for w in bow_in[doc,:].indices] for doc in range(n_docs)]

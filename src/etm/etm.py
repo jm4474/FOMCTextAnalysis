@@ -16,7 +16,7 @@ class ETM(nn.Module):
         self.num_topics = num_topics
         self.vocab_size = vocab_size
         self.t_hidden_size = t_hidden_size
-        self.rho_size = rho_size
+        self.rho_size = rho_size # 
         self.enc_drop = enc_drop
         self.emsize = emsize
         self.t_drop = nn.Dropout(enc_drop)
@@ -34,7 +34,7 @@ class ETM(nn.Module):
         ## define the matrix containing the topic embeddings
         self.alphas = nn.Linear(rho_size, num_topics, bias=False)#nn.Parameter(torch.randn(rho_size, num_topics))
     
-        ## define variational distribution for \theta_{1:D} via amortizartion
+        ## define variational distribution for \theta_{1:D} via amortization
         self.q_theta = nn.Sequential(
                 nn.Linear(vocab_size, t_hidden_size), 
                 self.theta_act,
@@ -77,7 +77,7 @@ class ETM(nn.Module):
             return mu
 
     def encode(self, bows):
-        """Returns paramters of the variational distribution for \theta.
+        """Returns parameters of the variational distribution for \theta.
 
         input: bows
                 batch of bag-of-words...tensor of shape bsz x V
