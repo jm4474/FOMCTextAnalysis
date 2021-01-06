@@ -1,0 +1,26 @@
+Result for FOMC1
+
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  Transparency &  Recession &     EPU &  Twoday &    PhDs &  num\_stems &  Intercept \\
+\midrule
+Coef      &       -0.0047 &    -0.0022 & -0.0001 & -0.0009 & -0.0005 &        0.0 &     0.0166 \\
+Std Error &        0.0024 &     0.0032 &  0.0000 &  0.0018 &  0.0008 &        0.0 &     0.0085 \\
+Min       &       -0.0136 &    -0.0085 & -0.0000 & -0.0018 & -0.0039 &       -0.0 &     0.0803 \\
+Max       &       -0.0034 &     0.0076 &  0.0001 &  0.0058 & -0.0007 &        0.0 &     0.1152 \\
+\bottomrule
+\end{tabular}
+
+
+Result for FOMC2
+
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  Transparency &  Recession &     EPU &  Twoday &    PhDs &  num\_stems &  Intercept \\
+\midrule
+Coef      &       -0.0010 &    -0.0031 & -0.0001 & -0.0002 & -0.0014 &        0.0 &     0.0316 \\
+Std Error &        0.0028 &     0.0043 &  0.0000 &  0.0024 &  0.0010 &        0.0 &     0.0115 \\
+Min       &       -0.0233 &    -0.0182 & -0.0001 & -0.0076 & -0.0047 &       -0.0 &     0.0799 \\
+Max       &        0.0010 &     0.0188 &  0.0001 &  0.0082 &  0.0026 &       -0.0 &     0.1589 \\
+\bottomrule
+\end{tabular}
