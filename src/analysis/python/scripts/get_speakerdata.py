@@ -1,5 +1,5 @@
 #Author: Anand Chitale
-#This file reads in Pepe's transcript collocated and tokenized data file and brings it 
+#This file reads in Pepe's transcript collocated and tokenized data file and brings it
 #into the repo
 
 #Note: Matlab generated file uses start date as the meeting date
@@ -7,9 +7,10 @@
 import pandas as pd
 import os
 import shutil
+import pickle
 
 '''
-The imported file has a few errors which make use of 
+The imported file has a few errors which make use of
 the end date, instead of the start date, as is custom for
 most of the imported file. Furthermore, the imported file
 failed to fetch data for the meeting on 5-17-1988.
@@ -81,13 +82,13 @@ def name_corr(val):
     sentence=""
     dictkeys=[key for key, value in corrections.items()]
     if val in dictkeys:
-        val = corrections[val]    
+        val = corrections[val]
     else:
         if re.match(".*\(\?\)",val):
             val = re.search("(.*)(\(\?\))",val)[1]
             if val in dictkeys:
-                val = corrections[val]  
-            
+                val = corrections[val]
+
         if len(val.split(" "))>1:
             #print(val.split(" ")[0])
             #print(val.split(" ")[1:])
@@ -98,8 +99,8 @@ def name_corr(val):
                     #print(sentence)
             val = val.split(" ")[0]
             if val in dictkeys:
-                val = corrections[val]              
-    #print(val)       
+                val = corrections[val]
+    #print(val)
     return val,sentence
 
 def generate_speaker_file(speaker_statements):
@@ -109,7 +110,7 @@ def generate_speaker_file(speaker_statements):
     #if not os.path.exists("../output/speaker_data"):
     #    os.mkdir("../output/speaker_data")
 
-    
+
     speaker_statements["content"] = speaker_statements["content"].apply(lambda x: " ".join(str(x).split()[1:]) if len(str(x).split())>1 and str(x).split()[0]=="LINDSEY" else x)
     speaker_statements["Speaker"] = speaker_statements["Speaker"].apply(lambda x: "LINDSEY" if x=="D" else x)
     speaker_statements['Speaker'] = speaker_statements['Speaker'].apply(lambda x: x.split(".")[0] if "." in x else x)
@@ -167,13 +168,14 @@ def import_matlab_data():
     return merge_df
 
 def main():
-    
+
     matlab_df = import_matlab_data()
 
     speaker_df = generate_speaker_file(matlab_df)
     print(speaker_df)
+    speaker_df.to_pickle("../output/speaker_data")
     speaker_df.to_csv("../output/speaker_data.csv",index=False)
-    
+
 
 
 

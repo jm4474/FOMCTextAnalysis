@@ -5,7 +5,6 @@ from utils import bigrams, trigram, replace_collocation
 from tika import parser
 import timeit
 import pandas as pd
-import string
 from nltk.stem import PorterStemmer
 import numpy as np
 import pickle
@@ -15,6 +14,10 @@ import itertools
 from scipy.io import savemat, loadmat
 import string
 from sklearn.feature_extraction.text import CountVectorizer
+from gensim.test.utils import datapath
+from gensim.models.word2vec import Text8Corpus
+from gensim.models.phrases import Phrases
+from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
 def generate_rawtranscripts():
     raw_doc = os.listdir(TRANSCRIPT_PATH)  # as above
@@ -58,7 +61,7 @@ def generate_rawtranscripts():
     #raw_text.to_excel(os.path.join(CACHE_PATH,'raw_text.xlsx'))  # save as raw_text.xlsx
     print("Documents processed. Time: {}".format(end - start))    
     docs = raw_text.groupby('Date')['content'].sum().to_list()
-    return docs
+    return docs,raw_text
 
 
 def digit_count(line,digits=10):
@@ -67,23 +70,6 @@ def digit_count(line,digits=10):
     return boo
     
 
-def find_collocation(raw_text_separated):
-    content = raw_text_separated['content'].apply(lambda x: re.sub(r'[^\w\s]', '', x))  # remove punctuations
-
-    big_document = content.apply(lambda x: x.split(' ')).values
-
-    bigram_list = bigrams(big_document)
-    trigram_list = trigram(big_document)
-
-    replace_word = ['_'.join(x.split(' ')) for x in bigram_list] + ['_'.join(x.split(' ')) for x in trigram_list]
-    dict_collocation = dict(zip(bigram_list + trigram_list, replace_word))
-
-    content = content.apply(lambda x: replace_collocation(x, dict_collocation))
-
-    raw_text_separated['content'] = content
-    raw_text_separated.to_excel(os.path.join(CACHE_PATH,'FOMC_separated_collocation.xlsx'))
-    return raw_text_separated
-#MONTHS2 = ["jan .", "feb .", "mar .", "apr .", "may .", "jun .", "jul .", "aug .", "sep .", "oct .", "nov .", "dec ."]
 
 
 def preprocess_longdocs():
@@ -151,15 +137,46 @@ def contains_punctuation(w):
 
 def contains_numeric(w):
     return any(char.isdigit() for char in w)
-    
-def data_preprocess(docs,DATASET):
+
+def separation(raw_text):
+
+    separation_rule = pd.read_excel(os.path.join(UTILFILE_PATH, 'separation_rules.xlsx'), index_col=0)
+
+    FOMC_separation = pd.DataFrame(columns=['Date', 'Speaker', 'content', 'Section'])
+
+    for i in separation_rule.index:
+        print('Running for date {}'.format(i))
+        temp1 = raw_text[raw_text["Date"] == i].iloc[separation_rule['FOMC1_start'][i]:separation_rule['FOMC1_end'][i]]
+        temp1['Section'] = 1
+        if separation_rule['FOMC2_end'][i] == 'end':
+            temp2 = raw_text[raw_text["Date"] == i].iloc[separation_rule['FOMC2_start'][i]:]
+        else:
+            temp2 = raw_text[raw_text["Date"] == i].iloc[
+                    separation_rule['FOMC2_start'][i]:separation_rule['FOMC2_end'][i]]
+        temp2['Section'] = 2
+        FOMC_separation = FOMC_separation.append(temp1, ignore_index=True)
+        FOMC_separation = FOMC_separation.append(temp2, ignore_index=True)
+
+    FOMC_separation.to_excel(os.path.join(CACHE_PATH,'raw_text_separated.xlsx'))
+    return FOMC_separation
+
+
+def data_preprocess(docs,DATASET,phrase_itera,th):
     # Tokenize the documents
     init_docs = [re.findall(r'''[\w']+|[.,!?;-~{}`´_<=>:/@*()&'$%#"]''', doc) for doc in docs]
     init_docs = [[w.lower() for w in init_docs[doc] if not contains_punctuation(w)] for doc in range(len(init_docs))] # removes punct and makes lower case.
     init_docs = [[w for w in init_docs[doc] if not contains_numeric(w)] for doc in range(len(init_docs))]  # removes numeric
     init_docs = [[w for w in init_docs[doc] if len(w)>1] for doc in range(len(init_docs))] # removes single character
     
-    # Read stopwords
+
+    
+    for i in range(phrase_itera):
+        print(f"Phrase iteration: {i+1}")
+        phrases = Phrases(init_docs, min_count=1, threshold=th, connector_words=ENGLISH_CONNECTOR_WORDS)
+        init_docs = [phrases[sent] for sent in init_docs]
+        del phrases
+    
+        # Read stopwords
     with open('stops.txt', 'r') as f:
         stops = f.read().split('\n')
     # Add specific stopwords 
@@ -174,21 +191,11 @@ def data_preprocess(docs,DATASET):
     stops = stops + additional_stopword
     
     init_docs = [[w for w in init_docs[doc] if w not in stops] for doc in range(len(init_docs))]
-    init_docs = [" ".join(init_docs[doc]) for doc in range(len(init_docs))] # joins words in doc
     
-    
-    
-    # Optional Stemming
-    d_stemming = False
-    if d_stemming:
-        ps = PorterStemmer()
-        init_docs = [[ps.stem(w) for w in init_docs[doc] if w not in stops] for doc in range(len(init_docs))]
-    
-     # Optional Collocations
-    d_collocations = False
-    if d_collocations:
-        init_docs = [[ps.stem(w) for w in init_docs[doc] if w not in stops] for doc in range(len(init_docs))]
+    pkl_file = open(f'{OUTPATH}/{DATASET}/corpus.pkl','wb')
+    pickle.dump(init_docs,pkl_file)
         
+    init_docs = [" ".join(init_docs[doc]) for doc in range(len(init_docs))] # joins words in doc
     
     # Create count vectorizer
     print('counting document frequency of words...')
@@ -400,32 +407,49 @@ TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
 OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
+UTILFILE_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/util_files")        
 
 # Maximum / minimum document frequency
 max_df = 0.7 # in a maximum of # % of documents if # is float.
 min_df = 10  # choose desired value for min_df // in a minimum of # documents
+phrase_itera = 2
+threshold = 10
 
 bb_docs = preprocess_longdocs()
-transcript_docs = generate_rawtranscripts()
+docs,raw_text = generate_rawtranscripts()
+
 statement_docs = statements_raw()
 
-DATASET = f"BBTSST_{min_df}"
+DATASET = f"BBTSST_{min_df}_iter{phrase_itera}_th{threshold}"
 if not os.path.exists(f"{OUTPATH}/{DATASET}"):
     os.makedirs(f"{OUTPATH}/{DATASET}")
 docs = bb_docs + transcript_docs + statement_docs
-data_preprocess(docs,DATASET)
-    
-DATASET = f"BBTS_{min_df}"
-if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-    os.makedirs(f"{OUTPATH}/{DATASET}")
-docs = bb_docs + transcript_docs 
-data_preprocess(docs,DATASET)
-     
-DATASET = f"TS_{min_df}"
-if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-    os.makedirs(f"{OUTPATH}/{DATASET}")
-docs = transcript_docs 
-data_preprocess(docs,DATASET)
-     
-      
-    
+data_preprocess(docs,DATASET,phrase_itera,threshold)
+print("f{DATASET} complete!")   
+
+
+# =============================================================================
+# Pre-process
+raw_text 
+
+# =============================================================================
+
+
+
+
+
+# =============================================================================
+#     
+# DATASET = f"BBTS_{min_df}_iter{phrase_itera}_th{threshold}"
+# if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+#     os.makedirs(f"{OUTPATH}/{DATASET}")
+# docs = bb_docs + transcript_docs 
+# data_preprocess(docs,DATASET,phrase_itera,threshold)
+#   
+# DATASET = f"TS_{min_df}_iter{phrase_itera}_th{threshold}"
+# if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+#     os.makedirs(f"{OUTPATH}/{DATASET}")
+# docs = transcript_docs 
+# data_preprocess(docs,DATASET,phrase_itera,threshold)
+#     
+# =============================================================================
