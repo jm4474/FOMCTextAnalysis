@@ -216,5 +216,4 @@ os.system(f'python main.py --mode eval --dataset fomc_impemb --data_path {DATAPA
 os.system(f'python main.py --mode train --dataset meeting_pre --data_path {DATAPATH}/data/MEETING_1_iter2_thinf --emb_path {DATAPATH}/embeddings/preMEETING_1_iter2_thinf  --num_topics 10 --train_embeddings 0 --epochs 100')
 model = "etm_meeting_pre_K_10_Htheta_800_Optim_adam_Clip_0.0_ThetaAct_relu_Lr_0.005_Bsz_1000_RhoSize_300_trainEmbeddings_0"
 print(f"Evaluate model: {model}")
-os.system(f'python main.py --mode eval --dataset meeting_pre --data_path {DATAPATH}/data/MEETING_1_iter2_thinf --num_topics 10 --emb_path --emb_path {DATAPATH}/embeddings/preMEETING_1_iter2_thinf  --train_embeddings 0 --tc 1 --td 1 --load_from {DATAPATH}/results/{model}')
- 
+os.system(f'python main.py --mode eval --dataset meeting_pre --data_path {DATAPATH}/data/MEETING_1_iter2_thinf --num_topics 10 --emb_path {DATAPATH}/embeddings/preMEETING_1_iter2_thinf --train_embeddings 0 --tc 1 --td 1 --load_from {DATAPATH}/results/{model}')

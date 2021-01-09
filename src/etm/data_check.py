@@ -10,6 +10,10 @@ OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")
 SPEAKER_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/python/output")        
 DATAPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/")        
 
+if not os.path.exists(f"{DATAPATH}/full_results"):
+        os.makedirs(f"{DATAPATH}/full_results")
+
+
 ### SPEAKERS ###
 max_df = 0.7 # in a maximum of # % of documents if # is float.
 min_df = 10  # choose desired value for min_df // in a minimum of # documents
@@ -29,7 +33,10 @@ data_clean = data[data["d"]==1].reset_index()
 dist_df = pd.read_pickle(f'{DATAPATH}/topicdistribution/fomc_pre.pkl')
 
 full_data = pd.concat([data_clean,dist_df],axis=1)
-
+full_data.drop(columns=["content","d"],inplace=True)
+full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+full_data.columns
+full_data.to_stata(f"{DATAPATH}/full_results/speakers.dta")
 
 
 ### MEETING ###
@@ -52,6 +59,8 @@ dist_df = pd.read_pickle(f'{DATAPATH}/topicdistribution/meeting_pre.pkl')
 
 full_data = pd.concat([data_clean,dist_df],axis=1)
 
+full_data.drop(columns=["content"],inplace=True)
+full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+full_data.columns
+full_data.to_stata(f"{DATAPATH}/full_results/meetings.dta")
 
-for i in range(10):
-    full_data.plot(x="start_date",y=i)
