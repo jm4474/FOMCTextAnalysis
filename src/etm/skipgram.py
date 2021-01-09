@@ -23,14 +23,14 @@ args = parser.parse_args()
 class MySentences(object):
     def __init__(self, filename):
         self.filename = filename
- 
+
     def __iter__(self):
         for line in open(self.filename):
             yield line.split()
 
 # Gensim code to obtain the embeddings
 sentences = MySentences(args.data_file) # a memory-friendly iterator
-model = gensim.models.Word2Vec(sentences, min_count=args.min_count, sg=args.sg, size=args.dim_rho, 
+model = cc(sentences, min_count=args.min_count, sg=args.sg, size=args.dim_rho,
     iter=args.iters, workers=args.workers, negative=args.negative_samples, window=args.window_size)
 
 # Write the embeddings to a file

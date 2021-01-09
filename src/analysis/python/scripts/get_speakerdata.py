@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan  6 23:17:24 2021
+
+@author: olivergiesecke
+"""
+
 #Author: Anand Chitale
 #This file reads in Pepe's transcript collocated and tokenized data file and brings it
 #into the repo
@@ -8,6 +16,7 @@ import pandas as pd
 import os
 import shutil
 import pickle
+import re
 
 '''
 The imported file has a few errors which make use of
@@ -104,8 +113,6 @@ def name_corr(val):
     return val,sentence
 
 def generate_speaker_file(speaker_statements):
-    if os.path.exists("../output/speaker_data"):
-        shutil.rmtree("../output/speaker_data")
 
     #if not os.path.exists("../output/speaker_data"):
     #    os.mkdir("../output/speaker_data")
@@ -138,7 +145,7 @@ def generate_speaker_file(speaker_statements):
 
 
 def import_matlab_data():
-    ts_df = pd.read_excel("../data/FOMC_token_separated_col.xlsx")
+    ts_df = pd.read_excel("../data/raw_text_separated.xlsx")
     ts_df = ts_df[['Date','Section','Speaker','content']]
     ts_df.Date = ts_df.Date.replace(end_date_error_replacements)
 
@@ -173,11 +180,8 @@ def main():
 
     speaker_df = generate_speaker_file(matlab_df)
     print(speaker_df)
-    speaker_df.to_pickle("../output/speaker_data")
+    speaker_df.to_pickle("../output/speaker_data.pkl")
     speaker_df.to_csv("../output/speaker_data.csv",index=False)
-
-
-
 
 
 if __name__ == "__main__":

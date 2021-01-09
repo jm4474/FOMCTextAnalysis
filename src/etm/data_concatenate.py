@@ -19,6 +19,13 @@ from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
+TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
+BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
+STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
+OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
+SPEAKER_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/python/output")        
+
+
 def generate_rawtranscripts():
     raw_doc = os.listdir(TRANSCRIPT_PATH)  # as above
     filelist = sorted(raw_doc)  # sort the pdfs in order
@@ -28,7 +35,7 @@ def generate_rawtranscripts():
 
     start = timeit.default_timer()
     for i, file in enumerate(filelist):
-        print('Document {} of {}: {}'.format(i, len(filelist), file))
+        #print('Document {} of {}: {}'.format(i, len(filelist), file))
         with open(os.path.join(TRANSCRIPT_PATH, file), 'r') as inf:
             parsed = inf.read()
         
@@ -59,7 +66,7 @@ def generate_rawtranscripts():
         raw_text = pd.concat([raw_text, temp_df], axis=0)
     end = timeit.default_timer()   
     #raw_text.to_excel(os.path.join(CACHE_PATH,'raw_text.xlsx'))  # save as raw_text.xlsx
-    print("Documents processed. Time: {}".format(end - start))    
+    print("Transcripts processed. Time: {}".format(end - start))    
     docs = raw_text.groupby('Date')['content'].sum().to_list()
     return docs,raw_text
 
@@ -68,8 +75,6 @@ def digit_count(line,digits=10):
     numbers = sum(c.isdigit() for c in line)
     boo = numbers> digits
     return boo
-    
-
 
 
 def preprocess_longdocs():
@@ -94,7 +99,7 @@ def preprocess_longdocs():
 
     for fidx, infile in enumerate(files):
         if os.path.isfile(os.path.join(BB_PATH, infile)):
-            print("{}\t{}".format(fidx, infile))
+            #print("{}\t{}".format(fidx, infile))
             with open(os.path.join(BB_PATH, infile), 'r') as inf:
                 content = inf.read()
             try:
@@ -130,6 +135,7 @@ def preprocess_longdocs():
                     or digit_count(line)):
                     newlines.append(line)             
             docs.append(' '.join(newlines))
+    print("Bluebooks processed")
     return docs
     
 def contains_punctuation(w):
@@ -138,43 +144,23 @@ def contains_punctuation(w):
 def contains_numeric(w):
     return any(char.isdigit() for char in w)
 
-def separation(raw_text):
 
-    separation_rule = pd.read_excel(os.path.join(UTILFILE_PATH, 'separation_rules.xlsx'), index_col=0)
-
-    FOMC_separation = pd.DataFrame(columns=['Date', 'Speaker', 'content', 'Section'])
-
-    for i in separation_rule.index:
-        print('Running for date {}'.format(i))
-        temp1 = raw_text[raw_text["Date"] == i].iloc[separation_rule['FOMC1_start'][i]:separation_rule['FOMC1_end'][i]]
-        temp1['Section'] = 1
-        if separation_rule['FOMC2_end'][i] == 'end':
-            temp2 = raw_text[raw_text["Date"] == i].iloc[separation_rule['FOMC2_start'][i]:]
-        else:
-            temp2 = raw_text[raw_text["Date"] == i].iloc[
-                    separation_rule['FOMC2_start'][i]:separation_rule['FOMC2_end'][i]]
-        temp2['Section'] = 2
-        FOMC_separation = FOMC_separation.append(temp1, ignore_index=True)
-        FOMC_separation = FOMC_separation.append(temp2, ignore_index=True)
-
-    FOMC_separation.to_excel(os.path.join(CACHE_PATH,'raw_text_separated.xlsx'))
-    return FOMC_separation
-
-
-def data_preprocess(docs,DATASET,phrase_itera,th):
+def data_preprocess(docs,DATASET,phrase_itera,max_df,min_df,th=10,docindex=[]):
     # Tokenize the documents
     init_docs = [re.findall(r'''[\w']+|[.,!?;-~{}`´_<=>:/@*()&'$%#"]''', doc) for doc in docs]
     init_docs = [[w.lower() for w in init_docs[doc] if not contains_punctuation(w)] for doc in range(len(init_docs))] # removes punct and makes lower case.
     init_docs = [[w for w in init_docs[doc] if not contains_numeric(w)] for doc in range(len(init_docs))]  # removes numeric
     init_docs = [[w for w in init_docs[doc] if len(w)>1] for doc in range(len(init_docs))] # removes single character
     
-
-    
-    for i in range(phrase_itera):
-        print(f"Phrase iteration: {i+1}")
-        phrases = Phrases(init_docs, min_count=1, threshold=th, connector_words=ENGLISH_CONNECTOR_WORDS)
-        init_docs = [phrases[sent] for sent in init_docs]
-        del phrases
+    if str(th) == "inf":
+        pass
+    else:
+        for i in range(phrase_itera):
+            print(f"Phrase iteration: {i+1}")
+            phrases = Phrases(init_docs, min_count=1, threshold=th, connector_words=ENGLISH_CONNECTOR_WORDS)
+            init_docs = [phrases[sent] for sent in init_docs]
+            del phrases
+        
     
         # Read stopwords
     with open('stops.txt', 'r') as f:
@@ -189,7 +175,6 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     for firstname in firstname_list:
         additional_stopword.append(firstname.lower())
     stops = stops + additional_stopword
-    
     init_docs = [[w for w in init_docs[doc] if w not in stops] for doc in range(len(init_docs))]
     
     pkl_file = open(f'{OUTPATH}/{DATASET}/corpus.pkl','wb')
@@ -240,10 +225,12 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     id2word = dict([(j, w) for j, w in enumerate(vocab)])
     print('  vocabulary after removing words not in train: {}'.format(len(vocab)))
     
+    docs_all = [[word2id[w] for w in docs[idx_d].split() if w in word2id] for idx_d in range(num_docs)]    
     docs_tr = [[word2id[w] for w in docs[idx_permute[idx_d]].split() if w in word2id] for idx_d in range(trSize)]
     docs_ts = [[word2id[w] for w in docs[idx_permute[idx_d+trSize]].split() if w in word2id] for idx_d in range(tsSize)]
     docs_va = [[word2id[w] for w in docs[idx_permute[idx_d+trSize+tsSize]].split() if w in word2id] for idx_d in range(vaSize)]
     
+    print('  number of documents: {} [this should be equal to {}]'.format(len(docs_all), num_docs))
     print('  number of documents (train): {} [this should be equal to {}]'.format(len(docs_tr), trSize))
     print('  number of documents (test): {} [this should be equal to {}]'.format(len(docs_ts), tsSize))
     print('  number of documents (valid): {} [this should be equal to {}]'.format(len(docs_va), vaSize))
@@ -251,12 +238,22 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     # Remove empty documents
     print('removing empty documents...')
     
-    def remove_empty(in_docs):
-        return [doc for doc in in_docs if doc!=[]]
+    def remove_empty(in_docs,docindex=[]):
+        newdocs = [doc for doc in in_docs if doc!=[]]
+        newindex = []
+        try:
+            newindex = [docindex[docidx] for docidx,doc in enumerate(in_docs) if doc!=[]]
+        except:
+            print("No index given")
+        return newdocs,newindex
     
-    docs_tr = remove_empty(docs_tr)
-    docs_ts = remove_empty(docs_ts)
-    docs_va = remove_empty(docs_va)
+    docs_all,docs_allindex = remove_empty(docs_all,docindex)
+    docs_tr, _ = remove_empty(docs_tr)
+    docs_ts, _ = remove_empty(docs_ts)
+    docs_va, _ = remove_empty(docs_va)
+    
+    idx_df = pd.DataFrame(docs_allindex)
+    idx_df.to_pickle(f'{OUTPATH}/{DATASET}/original_indices.pkl')
     
     # Remove test documents with length=1
     docs_ts = [doc for doc in docs_ts if len(doc)>1]
@@ -272,12 +269,14 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     def create_list_words(in_docs):
         return [x for y in in_docs for x in y]
     
+    words_all = create_list_words(docs_all)
     words_tr = create_list_words(docs_tr)
     words_ts = create_list_words(docs_ts)
     words_ts_h1 = create_list_words(docs_ts_h1)
     words_ts_h2 = create_list_words(docs_ts_h2)
     words_va = create_list_words(docs_va)
     
+    print('  len(words_tr): ', len(words_all))
     print('  len(words_tr): ', len(words_tr))
     print('  len(words_ts): ', len(words_ts))
     print('  len(words_ts_h1): ', len(words_ts_h1))
@@ -291,12 +290,14 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
         aux = [[j for i in range(len(doc))] for j, doc in enumerate(in_docs)]
         return [int(x) for y in aux for x in y]
     
+    doc_indices_all = create_doc_indices(docs_all)
     doc_indices_tr = create_doc_indices(docs_tr)
     doc_indices_ts = create_doc_indices(docs_ts)
     doc_indices_ts_h1 = create_doc_indices(docs_ts_h1)
     doc_indices_ts_h2 = create_doc_indices(docs_ts_h2)
     doc_indices_va = create_doc_indices(docs_va)
     
+    print('  len(np.unique(doc_indices_all)): {} [this should be {}]'.format(len(np.unique(doc_indices_all)), len(docs_all)))
     print('  len(np.unique(doc_indices_tr)): {} [this should be {}]'.format(len(np.unique(doc_indices_tr)), len(docs_tr)))
     print('  len(np.unique(doc_indices_ts)): {} [this should be {}]'.format(len(np.unique(doc_indices_ts)), len(docs_ts)))
     print('  len(np.unique(doc_indices_ts_h1)): {} [this should be {}]'.format(len(np.unique(doc_indices_ts_h1)), len(docs_ts_h1)))
@@ -304,6 +305,7 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     print('  len(np.unique(doc_indices_va)): {} [this should be {}]'.format(len(np.unique(doc_indices_va)), len(docs_va)))
     
     # Number of documents in each set
+    n_docs_all = len(docs_all)
     n_docs_tr = len(docs_tr)
     n_docs_ts = len(docs_ts)
     n_docs_ts_h1 = len(docs_ts_h1)
@@ -323,6 +325,7 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     def create_bow(doc_indices, words, n_docs, vocab_size):
         return sparse.coo_matrix(([1]*len(doc_indices),(doc_indices, words)), shape=(n_docs, vocab_size)).tocsr()
     
+    bow_all = create_bow(doc_indices_all, words_all, n_docs_all, len(vocab))
     bow_tr = create_bow(doc_indices_tr, words_tr, n_docs_tr, len(vocab))
     bow_ts = create_bow(doc_indices_ts, words_ts, n_docs_ts, len(vocab))
     bow_ts_h1 = create_bow(doc_indices_ts_h1, words_ts_h1, n_docs_ts_h1, len(vocab))
@@ -344,11 +347,12 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
     path_save = f'{OUTPATH}/{DATASET}/'
     if not os.path.isdir(path_save):
         os.system('mkdir -p ' + path_save)
-    
+    print("money" in vocab)    
     with open(path_save + 'vocab.pkl', 'wb') as f:
         pickle.dump(vocab, f)
     del vocab
     
+
     
     # Split bow into token/value pairs
     print('splitting bow into token/value pairs and saving to disk...')
@@ -357,6 +361,13 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
         indices = [[w for w in bow_in[doc,:].indices] for doc in range(n_docs)]
         counts = [[c for c in bow_in[doc,:].data] for doc in range(n_docs)]
         return indices, counts
+    
+    bow_all_tokens, bow_all_counts = split_bow(bow_all, n_docs_all)
+    savemat(path_save + 'bow_all_tokens.mat', {'tokens': bow_all_tokens}, do_compression=True)
+    savemat(path_save + 'bow_all_counts.mat', {'counts': bow_all_counts}, do_compression=True)
+    del bow_all
+    del bow_all_tokens
+    del bow_all_counts
     
     bow_tr_tokens, bow_tr_counts = split_bow(bow_tr, n_docs_tr)
     savemat(path_save + 'bow_tr_tokens.mat', {'tokens': bow_tr_tokens}, do_compression=True)
@@ -401,55 +412,66 @@ def data_preprocess(docs,DATASET,phrase_itera,th):
 def statements_raw():
     data = pd.read_csv(STATEMENT_PATH)
     docs = data["statement"].to_list()
+    print("Statements processed")
     return docs
 
-TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
-BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
-STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
-OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
-UTILFILE_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/util_files")        
 
-# Maximum / minimum document frequency
-max_df = 0.7 # in a maximum of # % of documents if # is float.
-min_df = 10  # choose desired value for min_df // in a minimum of # documents
-phrase_itera = 2
-threshold = 10
+def build_embdata(max_df,min_df,phrase_itera,threshold):
+    bb_docs = preprocess_longdocs()
+    transcript_docs,raw_text = generate_rawtranscripts()
+    statement_docs = statements_raw()
+    
+    DATASET = f"BBTSST_{min_df}_iter{phrase_itera}_th{threshold}"
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")
+    docs = bb_docs + transcript_docs + statement_docs
+    data_preprocess(docs,DATASET,phrase_itera,max_df,min_df,threshold)
+    print(f"{DATASET} complete!")   
 
-bb_docs = preprocess_longdocs()
-docs,raw_text = generate_rawtranscripts()
+def build_speakerdata(max_df,min_df,phrase_itera,threshold):
+    # Pre-process
+    speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
+    speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
+    DATASET = f"SPEAKERS_{min_df}_iter{phrase_itera}_th{threshold}"
+    speaker_data_sec2.to_pickle(f"raw_data/speaker_data.pkl")
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")
+    data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
+    print(f"{DATASET} complete!")   
 
-statement_docs = statements_raw()
+def build_meeting(max_df,min_df,phrase_itera,threshold):
+    # Pre-process
+    speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
+    speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
+    speaker_data_sec2 = speaker_data_sec2.groupby("start_date")["content"].sum().reset_index()
+    DATASET = f"MEETING_{min_df}_iter{phrase_itera}_th{threshold}"
+    speaker_data_sec2.to_pickle(f"raw_data/meeting_data.pkl")
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")
+    data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
+    print(f"{DATASET} complete!")   
+    
+def main():
+    
+    # Maximum / minimum document frequency
+    max_df = 0.7 # in a maximum of # % of documents if # is float.
+    min_df = 10  # choose desired value for min_df // in a minimum of # documents
+    phrase_itera = 2
+    threshold = "inf"
 
-DATASET = f"BBTSST_{min_df}_iter{phrase_itera}_th{threshold}"
-if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-    os.makedirs(f"{OUTPATH}/{DATASET}")
-docs = bb_docs + transcript_docs + statement_docs
-data_preprocess(docs,DATASET,phrase_itera,threshold)
-print("f{DATASET} complete!")   
-
-
-# =============================================================================
-# Pre-process
-raw_text 
-
-# =============================================================================
+    build_embdata(max_df,min_df,phrase_itera,threshold)
+    build_speakerdata(max_df,min_df,phrase_itera,threshold)
+    
+    max_df = 1.0
+    min_df = 1
+    
+    build_meeting(max_df,min_df,phrase_itera,threshold)
+    
+    
+if __name__ == "__main__":
+    main()
 
 
 
 
 
-# =============================================================================
-#     
-# DATASET = f"BBTS_{min_df}_iter{phrase_itera}_th{threshold}"
-# if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-#     os.makedirs(f"{OUTPATH}/{DATASET}")
-# docs = bb_docs + transcript_docs 
-# data_preprocess(docs,DATASET,phrase_itera,threshold)
-#   
-# DATASET = f"TS_{min_df}_iter{phrase_itera}_th{threshold}"
-# if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-#     os.makedirs(f"{OUTPATH}/{DATASET}")
-# docs = transcript_docs 
-# data_preprocess(docs,DATASET,phrase_itera,threshold)
-#     
-# =============================================================================
