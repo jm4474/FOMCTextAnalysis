@@ -35,8 +35,8 @@ dist_df = pd.read_pickle(f'{DATAPATH}/topicdistribution/fomc_pre.pkl')
 full_data = pd.concat([data_clean,dist_df],axis=1)
 full_data.drop(columns=["content","d"],inplace=True)
 full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data.columns
-full_data.to_stata(f"{DATAPATH}/full_results/speakers.dta")
+full_data["start_date"] = pd.to_datetime(full_data["start_date"])
+full_data.to_stata(f"{DATAPATH}/full_results/speakers.dta",convert_dates={"start_date":"td"})
 
 
 ### MEETING ###
@@ -61,6 +61,6 @@ full_data = pd.concat([data_clean,dist_df],axis=1)
 
 full_data.drop(columns=["content"],inplace=True)
 full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data.columns
-full_data.to_stata(f"{DATAPATH}/full_results/meetings.dta")
+full_data["start_date"] = pd.to_datetime(full_data["start_date"])
+full_data.to_stata(f"{DATAPATH}/full_results/meetings.dta",convert_dates={"start_date":"td"})
 
