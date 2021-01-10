@@ -416,35 +416,33 @@ def statements_raw():
     return docs
 
 
-def build_embdata(max_df,min_df,phrase_itera,threshold):
+def build_embdata(max_df,min_df,phrase_itera,threshold,DATASET):
     bb_docs = preprocess_longdocs()
     transcript_docs,raw_text = generate_rawtranscripts()
     statement_docs = statements_raw()
     
-    DATASET = f"BBTSST_{min_df}_iter{phrase_itera}_th{threshold}"
+    DATASET = f"BBTSST_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
     docs = bb_docs + transcript_docs + statement_docs
     data_preprocess(docs,DATASET,phrase_itera,max_df,min_df,threshold)
     print(f"{DATASET} complete!")   
 
-def build_speakerdata(max_df,min_df,phrase_itera,threshold):
+def build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-    DATASET = f"SPEAKERS_{min_df}_iter{phrase_itera}_th{threshold}"
     speaker_data_sec2.to_pickle(f"raw_data/speaker_data.pkl")
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
     data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
     print(f"{DATASET} complete!")   
 
-def build_meeting(max_df,min_df,phrase_itera,threshold):
+def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
     speaker_data_sec2 = speaker_data_sec2.groupby("start_date")["content"].sum().reset_index()
-    DATASET = f"MEETING_{min_df}_iter{phrase_itera}_th{threshold}"
     speaker_data_sec2.to_pickle(f"raw_data/meeting_data.pkl")
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
@@ -458,14 +456,15 @@ def main():
     min_df = 10  # choose desired value for min_df // in a minimum of # documents
     phrase_itera = 2
     threshold = "inf"
-
-    build_embdata(max_df,min_df,phrase_itera,threshold)
-    build_speakerdata(max_df,min_df,phrase_itera,threshold)
+    DATASET = f"BBTSST_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    build_embdata(max_df,min_df,phrase_itera,threshold,DATASET)
+    DATASET = f"SPEAKERS_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET)
     
     max_df = 1.0
     min_df = 1
-    
-    build_meeting(max_df,min_df,phrase_itera,threshold)
+    DATASET = f"MEETING_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    build_meeting(max_df,min_df,phrase_itera,threshold,DATASET)
     
     
 if __name__ == "__main__":
