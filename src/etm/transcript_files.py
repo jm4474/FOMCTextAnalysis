@@ -27,7 +27,7 @@ from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
-TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
+TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/transcript_raw_text")
 
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
@@ -37,17 +37,21 @@ SPEAKER_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/pytho
 
 def generate_rawtranscripts():
     raw_doc = os.listdir(TRANSCRIPT_PATH)  # as above
-    filelist = sorted(raw_doc)  # sort the pdfs in order
-    onlyfiles = [f for f in filelist if os.path.isfile(os.path.join(TRANSCRIPT_PATH, f))]  # keep if in correct dir
+    filelist = [f for f in sorted(raw_doc) if f!="SD_Store"] # sort the pdfs in order
+
+    newfiles = [f for f in filelist if np.datetime64(f[:10]) > "2006-01-31"]
+
 
     raw_text = pd.DataFrame([])  # empty dataframe
 
     start = timeit.default_timer()
-    for i, file in enumerate(filelist):
+    for i, file in enumerate(newfiles):
+        print("*" * 80)
+        print(f"Date and file {file}")
+        print("*" * 80)
         #print('Document {} of {}: {}'.format(i, len(filelist), file))
         with open(os.path.join(TRANSCRIPT_PATH, file), 'r') as inf:
             parsed = inf.read()
-        
         try:
             pre  = re.compile("Transcript\s?of\s?(?:the:?)?\s?Federal\s?Open\s?Market\s?Committee",re.IGNORECASE)
             parsed = re.split(pre,parsed)[1]    
@@ -58,6 +62,7 @@ def generate_rawtranscripts():
             except:  
                 print("No split")
                 parsed = parsed  
+                
         interjections = re.split('\nMR. |\nMS. |\nCHAIRMAN |\nVICE CHAIRMAN ', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
         temp_df = pd.DataFrame(columns=['Date', 'Speaker', 'content'])  # create a temporary dataframe
         interjections = [interjection.replace('\n', ' ') for interjection in
@@ -73,6 +78,7 @@ def generate_rawtranscripts():
         temp_df['content'] = content  # save interjections
         temp_df['Date'] = file[:10]
         raw_text = pd.concat([raw_text, temp_df], axis=0)
+        
     end = timeit.default_timer()   
     #raw_text.to_excel(os.path.join(CACHE_PATH,'raw_text.xlsx'))  # save as raw_text.xlsx
     print("Transcripts processed. Time: {}".format(end - start))    
