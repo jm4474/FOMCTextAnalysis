@@ -1,0 +1,7 @@
+/etm/results/*
+/etm/data/*
+.DS_Store
+/etm/Robust-Text-Analysis-master/*
+/etm/embeddings/*
+*.pdf
+*.txt
