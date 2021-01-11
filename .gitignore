@@ -4,3 +4,9 @@
 *.log
 *.iml
 *.xml
+*.pdf
+*.txt
+/src/etm/data/*
+/src/etm/embeddings/*
+/src/etm/results/*
+/src/raw_data/*
