@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -746,8 +749,9 @@ Res e rve Ag r e g a t e s Monet a rv Var i ab es
 Required reserves Total Member Time Money Supply
 
 Total Against Deposits Private
-Nonborrowed Bank DepositsReserves ve Total Demand (comm. Total DemandReserves T (credit) i/ReserveDeposits ( ) 1/ banks) _ Deposits
+Nonborrowed Bank DepositsReserves ve Total Demand (comm. Total DemandReserves T (credit) i/
 
+ReserveDeposits ( ) 1/ banks) _ Deposits
 Annually:
 
 1966 + 1.3 + 0.8 + 1.5 - 0.2 + 3.8 + 8.7 + 2.2 + 1.2
@@ -975,7 +979,8 @@ DEMAND DEPOSITS
 
 130
 
-I I I I I I llllll I I INS OF DOLLARS I I
+I I I I I I llllll I I I
+NS OF DOLLARS I I
 
 MONEY SUPPLY COMPONENTS:
 
@@ -1477,10 +1482,12 @@ TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-S Total Nonborrowed -Required reservesPeriod reserves reserves Total Against private deposits
-S___Total IDemand
+S Total Nonborrowed -Required reserves
+Period reserves reserves Total Against private deposits
 
+S___Total IDemand
 1966--Jan.
+
 Feb.
 Mar.
 Apr.

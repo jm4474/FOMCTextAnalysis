@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1794,8 +1797,9 @@ I
 
 
 Strictly Confidential (FR)-
-Class II FOMCComponents of Money Stock and Related Measures
+Class II FOMC
 
+Components of Money Stock and Related Measures
 seasonally adjusted unless otherwise noted MAR. 27, 1989
 
 Other Overnight denomi- mutual funds, NSA denomi- Term Term Short- Bankers
@@ -2201,7 +2205,9 @@ Treasury bills Treasury coupons Federal Net change
 NRedem- et purchases 3  agencies outright
 
 Period Net Redrp- Net within Redmp- het redemptions holdin g
-purchases2 tions (-) change -year 1-5 5-10 over 10 tions (-) change () total Net RP
+purchases
+
+2 tions (-) change -year 1-5 5-10 over 10 tions (-) change () total Net RP
 
 1983
 1984
@@ -2243,7 +2249,8 @@ Mar. 1
 15
 22
 
-Memo: LEVEL (bil.$)6
+Memo: LEVEL (bil.$)
+6
 
 March 22
 

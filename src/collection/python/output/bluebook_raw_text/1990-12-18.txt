@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2282,7 +2285,8 @@ Isf16
 359.4
 
 1. Net of money market mutual fund holdings of these items.
-2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small time deposits.3. Excludes IRA and Keogh accounts.
+2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small time deposits.
+3. Excludes IRA and Keogh accounts.
 4. Net of large denomination time deposits held by money market mutual funds and thrift institutions.
 
 p-preliminary
@@ -2576,7 +2580,10 @@ Net RPs
 3,148 -1,959
 151 1,844
 
-S2.6 1 2.6 1.0 0.2 6.4
+S2.6 1 2.6 1.0 0.
+2
+
+6.4
 
 1. Change from end-of-period to end-of-period. 5. Reflects net change In redemptions (-) of Treasury and agency securities.
 2. Outright transactions in market and with foreign accounts. 6. Includes change in RPs (+), matched sale-piurchase transactions (-), and matched purchase sale transactions (+).

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1823,7 +1826,9 @@ Period
 
 MONEY MARKET CONDITIONS AND INTEREST RATES
 
-MONEY MARKET CONDITIONSI I
+MONEY MARKET CONDITIONS
+I I
+
 WEEKLY AVERAGES
 
 FEDERAL FUNDS
@@ -2584,7 +2589,10 @@ JUNE 16, 1978
 Treasury Treasury Coupons Federal Agencies Net Change Net
 Bills Net Net Purchases 3/ Net Purchases 4/ Outright R
 
-h ne Within - Over Within 5  ver HoldingsChange 2/ I year 1-5 5 - 10 Total 1 year -5 5 -10 10 Total Total 5/ /
+h ne Within - Over Within 
+5  
+
+ver HoldingsChange 2/ I year 1-5 5 - 10 Total 1 year -5 5 -10 10 Total Total 5/ /
 
 1972
 1973
@@ -2807,7 +2815,9 @@ S - -- - - - 238 -415
 
 June 7
 14
-2 1p
+2
+1p
+
 28
 
 LEVEL--June 14
@@ -3139,7 +3149,9 @@ p
 -5,127p
 
 20 174
-6 0 p 165p
+6 0
+
+p 165p
 
 -13,975
 - 8,:06
@@ -3325,7 +3337,12 @@ p 8.96p 6.16 n.a. 9.86 9.01
 p 8.36p
 
 8.47
-8 . 4 6 p
+8
+
+.
+4 6
+
+p
 
 NOTE: Weekly data for columns 1, 2, 3, 6, and 7 are statement week averages of daily data. Weekly data in column 4 are average rates set in the auctions of
 6-month bills that will be issued on the Thursday following the end of the statement week. Data in column 5 are 1-day Wednesday quotes. For columns 8 thrcuht
@@ -3793,12 +3810,13 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 Time and Savings DepoHsts Mutual Other
 Snd avings Credit Short Term Private
 
-Period Currncy mand Other Thn CD's Bank Union Savings U.S.Gov't Short-termDeposits To Ttl Tol an CD's SAL Shares Bonds/ Securitie Assets
+Period Currncy mand Other Thn CD's Bank Union Savings U.S.Gov't Short-term
+Deposits To Ttl Tol an CD's SAL Shares Bonds/ Securitie Assets
+
 L Total Savings Other Sharesi 0 11 1
-
 1 2 3 4 5 g 7 8 9 10 11 12
-2/ (Per cant *nnual rates of grow*
 
+2/ (Per cant *nnual rates of grow*
 ANNUALLY:
 
 1975 6.9 2.9 7.9 11.7 17.5 7.8 -6.4 15.3 19.5 6.2 338. -0.7

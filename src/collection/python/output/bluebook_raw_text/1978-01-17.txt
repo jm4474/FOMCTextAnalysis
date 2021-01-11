@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -3510,7 +3513,11 @@ o.42 6.10 6.51
 6.58 6.48 6.81
 
 6.56 6.20 6.58
-6 .75p 6.56 6.94
+6
+.7
+
+5
+p 6.56 6.94
 
 5.75 5.90
 4.50 4.63
@@ -3627,7 +3634,10 @@ o.42 6.10 6.51
 7.72p 7.95p
 
 - 6.64 7.75 7.39 7.71
-- 6.74 8.00 7.72p 7 .96p
+- 6.74 8.00 7.72p 
+
+7
+.96p
 
 8.17 8.95 8.94 7.13 9.10 9.20
 7.23 7.93 7.84 5.83 8.70 8.31
@@ -3856,7 +3866,8 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 Time and Savings Deposits Mutual Other
 ------ Savings Credit Short Terr Private
 
-Period Currency Demand Other Than CD's Bank & Union Savings U.S.Gov't Short-termDeposits Total Total Savings Other CD's S&aL Shares / BondslJ Securities Assets.... Shares1 1 i
+Period Currency Demand Other Than CD's Bank & Union Savings U.S.Gov't Short-term
+Deposits Total Total Savings Other CD's S&aL Shares / BondslJ Securities Assets.... Shares1 1 i
 
 1 2 3 4 5 6 7 8 9 10 11 12
 2/ (Per cent annual rates of growth)

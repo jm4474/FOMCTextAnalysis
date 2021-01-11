@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -359,7 +362,8 @@ and term RP's)
 
 11.3
 
-197 /1979-
+197 /
+1979-
 
 0.3
 
@@ -704,10 +708,11 @@ Chart 3
 
 1200
 
-I~uvul II
+I~uv
+ul II
 
-I I I I I I I I I II II I I I m 
-12 0 0
+I I I I I I I I I II II I I I 
+m 12 0 0
 
 *4 nnf
 
@@ -1298,7 +1303,8 @@ Actual 4-week Avg.
 
 39,796-1  38,496- /
 
-2/ 2/39,998 /  38,69 /
+2/ 2/
+39,998 /  38,69 /
 
 33/ /
 39,973-/ 38,507='
@@ -2102,7 +2108,10 @@ the System and redemptions (-) of agency and I'reasury coupon issues.
 6/ Includes changes In RPs (4), nmtched sale-purchase transactions (-)I and matched purchase-sale transactions (1).
 
 7/ On October 1, 1979, $668 million of maturing 2- and 4-year notes were exchanged for a like amount of short-term bills, because the note auctions
-were delayed. On October 9 and 10, the bills were exchanged for new 2- and 4 -year notes, respectively.
+were delayed. On October 9 and 10, the bills were exchanged for new 2- and 
+
+4
+-year notes, respectively.
 
 8/ aturing 2-year notes were exchanged on June 2, 1980, for special 2-day bills. At their maturity the bills were exchanged for new 2-year notes.
 
@@ -2300,7 +2309,9 @@ Mar. 4
 554p
 183p
 
-664p
+66
+4p
+
 741 p
 507p
 400p
@@ -2353,7 +2364,9 @@ l,113 p
 1,713p
 
 1,299p
-768p
+7
+6
+8p
 
 774p
 
@@ -2379,7 +2392,9 @@ l,113 p
 
 66
 97p
-l16 p
+l1
+6
+p
 
 120p
 14 8
@@ -2393,7 +2408,11 @@ p
 
 125p
 131p
-154 p
+15
+
+4
+p
+
 160p
 
 176p
@@ -2463,18 +2482,27 @@ p
 1,574p
 
 1,226p
-I,11 6p
+I,11
+
+6
+p
 
 1,005p
 1,227p
 1,082p
-1,6 56p
+1,
+
+6
+56p
 
 1,07 6 p
 98 2 p
 991p
 
-1, 5 5 3 p
+1,
+5 5 3
+
+p
 
 1.
 1 2 3

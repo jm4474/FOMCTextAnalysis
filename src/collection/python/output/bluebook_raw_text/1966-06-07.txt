@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -154,7 +157,8 @@ Money Market Indicators Bond Yields Flow of Reserves, Bank Credit and Money
 Federal 3-month U. S. Corporate Munici- Non- Total Bank Money Time
 Period Free ow- Treas- Gov't. epal borrowed Re- Credit Deposits
 
-Reserves ings Rate Bill (20 yr.) Aaa (Aaa) Reservesserves Proxy 2/
+Reserves ings Rate Bill (20 yr.) Aaa (Aaa) Reservesserves Proxy 
+2/
 
 1965--Apr. -129 471 4.09 3.93 4.20 4.46 3.09 +148 +224 +2,623 + 800 +1,400
 May -156 490 4.08 3.89 4.21 4.51 3.09 - 31 - 61 + 772 -1,100 +1,100
@@ -277,7 +281,8 @@ Preliminary. *Not representative. June 3, 1966.
 
 --- -- ~~- "
 
-I1
+I
+1
 
 
 
@@ -817,9 +822,11 @@ Re s e r v e A g g r e gate s Mon e t ar Var iables
 Required reserves Total Member Time Money Supply
 
 Total MemberTotal Against Deposits Private
-t Nonborrowed T DmBank DepositsReserves Total Demand e it (comm. Total DemandReserves (credit) 1/ReserveDeposits -banks) Deposits
+t Nonborrowed T DmBank DepositsReserves Total Demand e it (comm. Total Demand
 
+Reserves (credit) 1/ReserveDeposits -banks) Deposits
 Annually:
+
 1963 + 3.5 + 3.5 + 3.8 + 2.4 + 7.5 +14.7 + 3.8 + 3.2
 1964 + 4.2 + 4.6 + 4.9 + 3.2 + 7.6 +12.8 + 4.3 + 4.0
 1965 + 5.1 + 4.2 + 5.0 + 3.6 + 9.1 +16.1 + 4.8 + 4.6
@@ -892,7 +899,8 @@ REQUIRED AGAINST
 
 PRIVATE DEMAND DEPOSITS ,*-
 
-,00I0.0000rI
+,00I0.0000
+rI
 
 0-" REQUIRED AGAINST
 

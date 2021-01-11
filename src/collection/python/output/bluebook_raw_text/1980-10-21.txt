@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -626,8 +629,8 @@ stars
 
 r))
 
-F M A. M, 3 J A S 
-O
+F M A. M, 3 J A 
+S O
 
 198 
 L
@@ -1450,7 +1453,11 @@ Daily-Oct. 9
 13.08
 13.02
 
-12 .6lp
+1
+2
+.
+6
+lp
 
 10.91
 11.36
@@ -1837,7 +1844,8 @@ shifts, rollovers of maturing coupon issues, and direct Treasury borrowing from 
 
 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity shifts.
 
-In addition to the net purchases of securities, also reflect changes in System holdings of bankers' acceptances, direct Treasury borrowings from the
+In addition to the net purchases of securities, also reflect changes in System holdings of bankers' acceptances, direct Treasury borrowings from 
+the
 
 System and redemptions (-) of agency and Treasury coupon issues.
 
@@ -2043,17 +2051,24 @@ Oct. 1
 688p
 89p
 
-3 1 4 p
-8 9 p
+3 1 4
+p
+
+8 9
+p
 
 489p
 239p
-30 4 p
+30 4
+
+p
 
 54p
 
 378p
-3 94 p
+3 94
+
+p
 320p
 
 2,960
@@ -2075,24 +2090,47 @@ Oct. 1
 2,455
 1,018
 
-3 79 p
-39 5 p
-658 p
+3 79
+p
+
+39 5
+p
+
+65
+8
+p
 
 1,311p
 
 828p
-3 90 p
-34 5p
-700 p
+3 90
 
-1,34 8p
-5 9 4 p
+p
+34 5
+
+p
+70
+
+0
+p
+
+1,
+34
+8p
+
+5 9 4
+p
 
 1,213p
-1,6 13p
+1,
 
-1,8 73p
+6
+13p
+
+1,
+8
+73p
+
 1,248p
 1,107p
 
@@ -2167,7 +2205,10 @@ Oct. 1
 
 1,253p
 
-563 p
+5
+63
+p
+
 lllp
 78p
 

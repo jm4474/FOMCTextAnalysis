@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -859,7 +862,8 @@ output beyond its potential pushes the inflation rate to 3-1/2 percent
 
 late in the decade. The drop in real interest rates lowers the
 
-9foreign exchange value of the dollar, raising real net exports.
+9
+foreign exchange value of the dollar, raising real net exports.
 
 Should financial market participants come to be convinced of the ul-
 
@@ -1906,7 +1910,8 @@ ONDJ F M A M J J A S O N D J F M A M J J A S O N D
 
 4200
 
-4150I I
+4150
+I I
 
 ''
 
@@ -1927,7 +1932,9 @@ M1
 "
 
 . ' ."** .' * . ' .** 0
-.. ** .*'..** B 0%............................. ..........................
+.. ** .*'..** B 0%
+
+............................. ..........................
 
 ............................................................... .
 
@@ -2495,7 +2502,8 @@ QIV 1993 - QIV 1994
 
 3.5-6 (2.3) 24
 
-2.5-5.5 (8.5) 2
+2.5-5.5 (8.5)
+2
 
 5 -97 (7.2)
 
@@ -2677,8 +2685,8 @@ Footnotes on following page
 
 4.5 - 8.5
 
-4- 8 1
-2
+4- 8
+12
 
 4-8
 
@@ -3371,16 +3379,18 @@ Seasonally adjusted unless otherwise noted
 Money market
 Overnight Small mutual funds Large
 
-Other RPs and denomi- general denomi- Term Term Short-erm Comm ial nPeriod currency Demand chekable Euro- Savings ati purpose Institutions ntion Euro- Savings Treo c a andeposits deposit dars dposits time and on time NSA' dollars bonds res paper acceptan-
+Other RPs and denomi- general denomi- Term Term Short-erm Comm ial n
+Period currency Demand chekable Euro- Savings ati purpose Institutions ntion Euro- Savings Treo c a andeposits deposit dars dposits time and on time NSA' dollars bonds res paper acceptan-
+
 NSA' deposites broker/ ly deposits' NSA secuts 
-
 ce
+
 dealer
-
 2 3 4 5 6 7 - 9 1 11 12 13 14 15
-Levels (Bmllons) t
 
+Levels (Bmllons) t
 Annually (4th Qtr.)
+
 1992
 1993
 1994

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1971,9 +1974,12 @@ Net Changes in System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted August 20, 1984
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 
 Period bills outrght Net RP
 change2  wthin 1-5 5-10 over 10 total with 1-5 5-10 over 10 total hns

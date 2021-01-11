@@ -46,6 +46,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -910,9 +913,22 @@ Class I FOMC - Restricted Controlled (FR) 8 of 36
 
 Interpreting Movements in TIPS based Inflation Compensation  
 
-Over the intermeeting period, inflation compensation for the next five years—the spread  between nominal and inflation-indexed Treasury securities—declined 36 basis points.  In  contrast, inflation compensation from five to ten years ahead increased 18 basis points.   These diverging movements raise the question of whether the increase in longer-term  inflation compensation reflects higher long-run inflation expectations, an increase in  inflation risk premiums, or other factors.  Much of the rise in forward inflation  compensation occurred around FOMC communications that were interpreted by  investors as suggesting a lower path for policy and the release of higher-than–expected  CPI data—both of which could result in either higher long-run inflation expectations or  greater inflation uncertainty. 
+Over the intermeeting period, inflation compensation for the next five years—the spread 
+ between nominal and inflation-indexed Treasury securities—declined 36 basis points.  In 
+ contrast, inflation compensation from five to ten years ahead increased 18 basis points.  
+ These diverging movements raise the question of whether the increase in longer-term 
+ inflation compensation reflects higher long-run inflation expectations, an increase in 
+ inflation risk premiums, or other factors.  Much of the rise in forward inflation 
+ compensation occurred around FOMC communications that were interpreted by 
+ investors as suggesting a lower path for policy and the release of higher-than–expected 
+ CPI data—both of which could result in either higher long-run inflation expectations or 
+ greater inflation uncertainty. 
 
-An examination of the forward term structure of inflation compensation, shown on the  left below, sheds some light on these issues.  First, the declines in near-term forward rates  of inflation compensation are consistent with the drop in oil prices over the intermeeting  period, and staff models of inflation compensation suggest that this factor explains about  half of the fall in five-year inflation compensation.  Second, the increase in the slope of 
+An examination of the forward term structure of inflation compensation, shown on the 
+ left below, sheds some light on these issues.  First, the declines in near-term forward rates 
+ of inflation compensation are consistent with the drop in oil prices over the intermeeting 
+ period, and staff models of inflation compensation suggest that this factor explains about 
+ half of the fall in five-year inflation compensation.  Second, the increase in the slope of 
 forward inflation compensation beyond five years suggests that part of the increase in 
 longer-term inflation compensation owes to higher inflation risk premiums.  This follows 
 if we assume that investors’ expectations for inflation beyond six or seven years ahead are 

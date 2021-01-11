@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -155,12 +158,14 @@ FINANCIAL MARKET RELATIONSHIPS IN PERSPECTIVE
 (Monthly averages and, where available, weekly averages of daily figures)
 
 Money Market Indicators Bond Yields Flow of Reserves. Bank Credit and Money
-SB Federal 3-month Corporate Munici- Non- Total BankFree Borrow- Money Timeeriod Reserves ings Funds Treas- U.S. New pal borrowed Re- Credit Supply DepositsPeriod Reserves ings Supply DepositsPeo I i Rate ury Gov't. Issues (Aaa) Reserves serves Pro
+SB Federal 3-month Corporate Munici- Non- Total BankFree Borrow- Money Time
 
+eriod Reserves ings Funds Treas- U.S. New pal borrowed Re- Credit Supply DepositsPeriod Reserves ings Supply DepositsPeo I i Rate ury Gov't. Issues (Aaa) Reserves serves Pro
 (In millions Bill (20 y) (Aaa)/ (In millions (In bi lions /
-of dollars) of dnllar f dnI11ar=.)
 
+of dollars) of dnllar f dnI11ar=.)
 1965--Sept. -139 552 3.95 3.92 4.30 4.67 3.25 - 73 - 26 + 0.8 + 1.1 + 1.6
+
 Oct. -132 490 4.05 4.02 4.32 4.69 3.31 +132 + 68 + 2.3 + 1.1 + 2.1
 Nov. - 77 418 4.09 4.08 4.40 4.72 3.34 + 84 + 3 + 1.1 + 0.4 + 1.8
 Dec. - 22 452 4.28 4.37 4.50 4.85 3.39 +191 +270 + 1.8 + 1.6 + 1.4
@@ -661,10 +666,12 @@ Retrospective Changes, Seasonally Adjusted
 R e s e rve A xg r e a a t e s Mone t ag Var i ab le s 3/
 Required reserves Total Member Time Money Supply
 
-Total Against Deposits PrivateReserves Nonborrowed emand/ Bank Deposits (co. Total DemandReserves sre Total Demand- (cre(comm. Total Demand
-s Reserves /Deposits (credit) banks) Deposits
+Total Against Deposits Private
+Reserves Nonborrowed emand/ Bank Deposits (co. Total DemandReserves sre Total Demand- (cre(comm. Total Demand
 
+s Reserves /Deposits (credit) banks) Deposits
 Annually:
+
 1964 + 4.2 + 4.5 + 4.9 + 3.1 + 7.6 +12.8 + 4.3 + 4.0
 1965 + 5.3 + 4.3 + 5.2 + 2.3 + 9.1 +16.0 +4.7 +4.4
 
@@ -1016,13 +1023,15 @@ TECHNICAL FACTORS AFFECTING RESERVES
 Retrospective and Prospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-Technical Foreign Other
+Technical Foreign 
+Other
+
 Period factors Treasury Float deposits nonmember
-
 (n) operations and gold deposits and
-loans F. R. accounts
 
+loans F. R. accounts
 ACTUAL (Sign indicates effect on reserves)
+
 Year:
 1964 (12/25/63 - 1/23/64) -365 -470 - 84 + 11 +178
 1965 (12/23/64 - 1/22/65) +845 +232 - 13 - 7 +651
@@ -1286,7 +1295,9 @@ Total Nonbo d Required reserves
 Total Nonborrowed 
 
 ' -
-Period reserves reerves Total ainst private depositsreservesTotal Demand
+Period reserves reerves Total ainst private deposits
+
+reservesTotal Demand
 
 1964--January
 February
@@ -1525,9 +1536,10 @@ Seasonally Adjusted
 
 (Seasonal factors revised)
 
-Total member Private U.S. Gov't.Time
-Monthly bank deposits demand demand
+Total member Private U.S. Gov't.
+Time
 
+Monthly bank deposits demand demand
 (credit) 1/ eposis deposits 2/ deposits
 
 1964--January 202.8 93.5 104.4 4.9

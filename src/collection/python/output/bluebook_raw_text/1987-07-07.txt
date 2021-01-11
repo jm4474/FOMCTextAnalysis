@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1883,9 +1886,11 @@ Money stock measures and liquid assets Bank credit Domestic nonfinancial debts
 nontranactions total loan U.
 
 Pwiod Ml M2 compownts M3 L and governnrnt
-2  other total'
+2  
 
+other total'
 In M2 In M3 only Inmvetments'
+
 1 2 3 4 5 8 7 9 10
 
 PERCENT ANNUAL GROUTH:

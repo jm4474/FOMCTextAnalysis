@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -493,7 +496,8 @@ BILLIONS OF DOLLARS
 TOTAL MEMBER BANK DEPOSITS (CREDIT PROXY)
 SEAS ADJ WEEKLY AVERAGES OF DAILY FIGURES
 
-302 ---- -
+302 ---- 
+-
 
 298
 
@@ -793,7 +797,8 @@ Total M o n e y S u p 1 v Commercial Credit Proxy
 
 Member Banl, I Private Demand bank time (Incl. Euro-
 
-Depoits Total Currency Depoits deposits dollar
+Depoits Total Currency Depoits deposits 
+dollar
 
 S___ adjusted borrowngs )
 
@@ -1858,7 +1863,8 @@ I +
 +
 +
 
-+I +
++
+I +
 
 L.S. Goverrment securities
 
@@ -2272,7 +2278,12 @@ c r ves )
 
 - 100
 
-+ 40U_ + 185+ 135
++ 40
+
+U_
++ 185
++ 135
+
 + 70
 
 +1,522

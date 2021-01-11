@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1424,9 +1427,10 @@ CHART 3
 
 Table 1 CONFIDENTIAL (FR)
 
-MONETARY AGGREGATES CLASS II-FOMC
-OCT. 15, 1976
+MONETARY AGGREGATES CLASS 
+II-FOMC
 
+OCT. 15, 1976
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
 
 Money Supply Adjusted Total Time and Savings Deposits Nondeposit Member
@@ -1872,10 +1876,11 @@ Total Total 5/
 6,303
 7,267
 
-13 712 201 171 1,096 64 514 106 63 747 1,060
+13 712 201 171 1,096 64 514 106 63 747 
+1,060
 
-74 385 234 315 1,006 58 141 71 14 284 
-2,626
+74 385 234 315 1,006 58 141 71 14 
+284 2,626
 
 1,052
 1,284
@@ -2174,7 +2179,10 @@ Oct. 6
 273
 259
 42
-212p
+21
+
+2
+p
 
 414p
 206p
@@ -2305,7 +2313,10 @@ p
 -10,474
 - 7,737
 
-- 9, 0 16p
+- 9,
+0
+
+16p
 -11,417p
 
 **Monthly averages for excess reserves and borrowings are weighted averages of statement week figures.
@@ -2447,7 +2458,10 @@ Daily-Oct. 7
 5.02 4.94 5.18 5.19
 
 5.12 5.03 5.26 5.25
-4.96p 4.85 5.05 5.13
+4.9
+
+6
+p 4.85 5.05 5.13
 
 4.91 5.03 8.70 8.79
 4.84 5.06 8.63 8.63
@@ -3073,7 +3087,9 @@ BANK RESERVES!/ MEASURES MEASURES
 Total
 Period Adj. Loans
 
-Total bor Monetary Credit and M 1  M 2  M3 M4 M5 M6  M7borrowed Base proxy Invest-
+Total bor Monetary Credit and M 1  M 2  M3 M4 M5 M6  M7
+borrowed Base proxy Invest-
+
 ments
 
 1 2 3 4 5 6 7 8 9 10 11 12

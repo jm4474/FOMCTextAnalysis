@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -988,7 +991,11 @@ Billions of dollars
 
 .. o- . .. * 5%
 
-. .. ...... ................o ° .. - .
+. .. ...... ................o °
+..
+
+-
+.
 
 l l l l I I I I I l l I I I I I I I I I
 
@@ -2313,8 +2320,12 @@ S- Money stock measures and liquid assets Bank credit Domestic nontinancial debt
 nontransaclions total loans U.S.
 
 Period M1 M2 components M3 L and governmen'
-2  olher 2  total'
+2  
 
+olher
+2  
+
+total'
 in M2 in M3 only investments'
 
 1 2 3 4 5 6 7 8 9 10

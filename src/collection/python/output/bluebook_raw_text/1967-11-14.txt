@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1134,9 +1137,10 @@ Retrospective Changes, Seasonally Adjusted
 Reserve Aggregates Monetary Var i ables
 Required reserves l M Time Money SupplyTotal MemberTotal Against Bank posits Deposits Private
 
-Nonborroved Bank DepositsReserves Nonb ,ed Total Demandi / (comm. Total DemandReserves (credit) 1/2/ /
-Deposits _- -_ banks ) 2 / __Deposits
+Nonborroved Bank DepositsReserves Nonb ,ed Total Demandi / (comm. Total Demand
+Reserves (credit) 1/2/ /
 
+Deposits _- -_ banks ) 2 / __Deposits
 Annually:
 1965 + 5.2 + 4.2 + 5.1 + 2.3 + 9.1 +16.0 + 4.7 + 4.3
 1966 + 1.2 + 0.8 + 1.4 + 0.9 + 3.7 + 8.8 + 2.2 + 1.2
@@ -1393,8 +1397,8 @@ Oct. p 24 659 24,484 24,325 23,452 17,315
 
 p - Preliminary.
 
-1/ Reserves have been adjusted for redefinition of time deposits effective June 9, 
-1966.
+1/ Reserves have been adjusted for redefinition of time deposits effective 
+June 9, 1966.
 
 
 

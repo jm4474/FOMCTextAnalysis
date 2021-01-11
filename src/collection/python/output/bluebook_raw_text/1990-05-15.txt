@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -692,8 +695,8 @@ O N D J F M A M J J A S O N D
 
 1989 1990
 
-I I I I I I I I I I 
-I I I I
+I I I I I I I I I 
+I I I I I
 
 
 
@@ -1200,7 +1203,8 @@ WEEKLY
 23 p 805.7 3273.7 2468.0 794.7 4068.4
 30 p 805.4 3268.7 2463.3 791.3 4060.0
 
-1. Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to removediscontinuities.
+1. Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove
+discontinuities.
 p-preliminary
 pe-preliminary estimate
 

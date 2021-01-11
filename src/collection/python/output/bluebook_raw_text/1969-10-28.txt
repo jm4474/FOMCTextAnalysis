@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1574,9 +1577,11 @@ __________ _ Supported by Req uired Reserves Money Supply bank time Proxy
 Period Tol PI iate I .S. Gov't Private deposits (Incl. Euro
 
 PeriodTotal Nonborod Rued I. Ink demand demand Total Currency demand adjusted dollar
-rereserves rESves ItSie To a deposits P S 2/ e borrow1ngsIreserves rdeposits t [deposits 1/1 deposits |ed 2/ deposits 3 4/ borrowings
+rereserves rESves ItSie To a deposits P S 2/ e borrow1ngs
 
+Ireserves rdeposits t [deposits 1/1 deposits |ed 2/ deposits 3 4/ borrowings
 (In millions of dll ) (I n b i 1 i o n s o f d o 1 a r
+
 Monthly-
 1968--January 26,134 25,818 i 25,774 275.1 149.9 119.7 5.4 182.6 40.6 142.0 184.1 279.4
 
@@ -1622,10 +1627,22 @@ AGGREGATE RESERVES AND MONETARY VARIABLES
 Rmt Anl , ih 'i Ilink De,,i , Commercial Credit
 _ ' st.pp.o .d i d 9 ,cl 9 s c Money Su pply bank time Proxy
 
-Pe iod Todl Nonbo i... l l ,,, ui d '" ' T me I ' 1  I1' G v ' Private deposits (Incl. Eur
-..reserves II I , Se iv ' .(it. .posI s I mI 1 < nd lot al Currency demand adjusted dollar
+Pe iod Todl Nonbo i... l l ,,, ui d '" ' T me I ' 
+1  
 
+I
+1
+' G
+
+v
+' Private deposits (Incl. Eur
+
+..reserves II I , Se iv ' .(it. .posI s I mI 1 
+<
+
+nd lot al Currency demand adjusted dollar
 _______ _ ___________i posits Ideposits L/ deposits 2/ deposits 31 4/ borrowings
+
 Weeklvy
 
 1969-- an. 1
@@ -2806,7 +2823,9 @@ Ilo it) 11
 4
 
 ( I.01 1 eIncv
-b out nI banks
+b out n
+
+I banks
 
 - 725
 -2,,Ob7

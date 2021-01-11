@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1092,12 +1095,13 @@ TABLE 1 CLASS II-FOMC
 BANK RESERVES AUG. 15, 1975
 (ACTUAL AND CURRENT PROJECTIONS)
 
-AGGREGATE RESERVES REQUIRED RESERVESRESERVES AVAILABLE
+AGGREGATE RESERVES REQUIRED RESERVES
+RESERVES AVAILABLE
+
 Period FOR PRIVATE SEASONALLY ADJUSTED
-
 Period
-NONBANK DEPOSITS Total Nonborrowed Total Private Other Time CD's and Gov't. and
 
+NONBANK DEPOSITS Total Nonborrowed Total Private Other Time CD's and Gov't. and
 SA NSA Reserves Reserves Required Demand Deposits Nondeposits Interbank
 
 1 2 3 4 5 6 7 8 9
@@ -1294,9 +1298,11 @@ Req. res. against
 IT C A 4 Unta
 
 available res. 53
-(fl\*lrf+f-(Q9'I- ccep . 8 9ue 1Lsue 4 L I 4J ila [I =ara ''7"'''' 1trsrvs5M . 1
+(fl\*lrf+f-(Q9'
 
+I- ccep . 8 9ue 1Lsue 4 L I 4J ila [I =ara ''7"'''' 1trsrvs5M . 1
 (1)
+
 -1.102
 -1,015
 
@@ -1634,9 +1640,11 @@ Aug 6
 -- -- - - - - - - - - -2,304 -623
 
 -- -- -- -- -- -731 -4,652
----- -- -- -- ---- -- ---- -582 -3,571
+---- 
 
+-- -- -- ---- -- ---- -582 -3,571
 S - -- - - - 222 4,054
+
 16 153 113 52 333 -- -- - -- - 342 3,968
 
 4 335 67 57 462 - -- - -- -- 638 -4,183
@@ -1831,7 +1839,8 @@ NOTE:
 155
 201
 
-2 68p
+2 68
+p
 
 334
 -36

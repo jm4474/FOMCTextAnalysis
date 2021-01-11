@@ -11,7 +11,7 @@ outputing into raw_data.csv
 '''
 def download_raw_doc_metadata():
     documents = []
-    start_date, end_date = 1936,2013
+    start_date, end_date = 1936,2015
     year_pages = get_year_pages(start_date,end_date)
     for year in year_pages:
         soup = BeautifulSoup(year,'lxml')

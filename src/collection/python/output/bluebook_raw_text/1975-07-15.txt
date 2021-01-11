@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -459,7 +462,8 @@ Alt. A
 
 6.9
 
-M1
+M
+1
 
 Alt. B
 
@@ -1360,9 +1364,9 @@ JULY 11, 1975
 RESERVES AVAILABLE AGGREGATE RESERVES REQUIRED RESERVES
 
 FOR PRIVATE SEASONALLY ADJUSTED
-Period FOR PRIVATE --------------- ------ 
+Period FOR PRIVATE --------------- 
 
----
+------ ---
 Period
 
 NONBANK DEPOSITS Total Nonborrowed Total Private Other Time CD's and Gov't. and
@@ -1686,7 +1690,9 @@ RANGE OF 6.2 5 TO 8.25 PERCENT FOR THE JUNE-JULY PERI OD.
 
 Table 2 CONFIDENTIAL (F.R.)
 
-MONETARY AGGREGATES CLASS II FOMCJULY 11, 1975
+MONETARY AGGREGATES CLASS II FOMC
+JULY 11, 1975
+
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
 
 MONEY SUPPLY Adjusted U.S. TIME AND SAVINGS DEPOSITS Nondeposit
@@ -1763,16 +1769,19 @@ Bills Coupon Agency RP' Open Market Member Other 4/ Req. res. against available 
 
 (1) (2) (3) (4) - (5) (6) (7) (8) (9) (10) (11)
 
-1974--Nov. 1,217 212 331 981 2,739 327 -507 201 -183 204 
-395
+1974--Nov. 1,217 212 331 981 2,739 327 -507 201 -183 
+204 395
 
-Dec. 729 280 360 -976 393 2,963 -583 -2,395 66 -81 450
+Dec. 729 280 360 -976 393 2,963 -583 -2,395 66 -81 
+450
 
-1975--Jan. -1,102 406 -14 1,097 387 -636 -313 1,548 258 341 965
+1975--Jan. -1,102 406 -14 1,097 387 -636 -313 1,548 258 341 
+965
 
 Feb. -1,015 316 295 714 309 -1,241 -243 -499 -344 -1,627 -670
 
-Mar. 112 1,301 207 -1,758 -136 53 - 41 -773 -13 -766 -495
+Mar. 112 1,301 207 -1,758 -136 53 - 41 -773 -13 -766 
+-495
 
 Apr. 1,319 1,070 -2 5,442 7,829 2,229 4 -1,767 54 414 
 495
@@ -1780,7 +1789,8 @@ Apr. 1,319 1,070 -2 5,442 7,829 2,229 4 -1,767 54 414
 May 197 50 -97 -3,357 -3,207 5,064 -50 -5,747 4 
 -739 -170
 
-June -413 958 -6 -1,855 -1,317 -3,165 215 3,442 -102 594 215
+June -413 958 -6 -1,855 -1,317 -3,165 215 3,442 -102 594 
+215
 
 July 290
 Aug.
@@ -1800,7 +1810,9 @@ June 4 -724 - -6 -4,652 -5,383 -1,364 -- -1,062 112 -2,538
 8 3p 462 768
 
 25 9 333 -- 3,968 4,310 2,678 110 -2,9
-9 3p - 6 5p -140p
+9 3p -
+
+6 5p -140p
 
 July 2 15 624 -1 -4,183 -3,545 1,832 683 -1,
 77 6p 340p 399p
@@ -1813,12 +1825,14 @@ July 2 15 624 -1 -4,183 -3,545 1,832 683 -1,
 1/ Represents change in System's portfolio from end-of-period to end-of-period; includes redemptions in regular bill auctions.
 2/ Represents change in daily average level for preceding period.
 3/ Includes matched sale-purchase transactions as well as RP's.
-4/ Sum of changes in vault cash, currency in circulation, Treasury operations, F.R. float, gold and foreign accounts, and other F.R. accounts.
+4/ Sum of changes in vault cash, currency in circulation, Treasury operations, F.R. float, gold and foreign accounts, and other F.R. 
+
+accounts.
 
 5/ Reserves to support private nonbank deposits. Target change for June and July reflects the target adopted at the June 17, 1975 FOMC meeting.
 
-Target change for previous months reflects the bluebook patterns that are consistent with target ranges that were adopted during 
-the month.
+Target change for previous months reflects the bluebook patterns that are consistent with target ranges that were adopted 
+during the month.
 
 P - Preliminary.
 
@@ -2075,7 +2089,8 @@ Mar. 3,143 2,521 307 195 195 96 7 -5,732 -10,302
 
 Apr. 2,737 1,617 35 115 143 110 6 -4,079 -10,426
 
-May 4,744 1,752 91 170 155 66 9 -3,965 - 9,567
+May 4,744 1,752 91 170 155 66 9 -3,965 
+- 9,567
 
 June *5,201 *1,351 89 118 220p 227p l1p -5,430 - 9,344
 
@@ -2096,10 +2111,15 @@ June 4 4,634 1,445 4 175 334 84 9 -4,709 - 9,295
 25 *5,289 *1,282 197 99 121p 188p 10p -6,013 - 9,639
 
 July 2 *4,197 *1,791 58 108 394p 871p 15p -5,754p - 8,23
-4p
+4
+p
 
 9 *4,029 *1,310 98p 141p 
-87p 22 3p 13p -6,639 -10,030p
+8
+7p 
+
+22
+3p 13p -6,639 -10,030p
 
 16
 23
@@ -2533,7 +2553,10 @@ Maturiytv
 8.07
 
 8.13
-8 .19p
+8
+.
+19
+p
 
 FNMA
 Auctions
@@ -2597,7 +2620,8 @@ Issue Ofee .. .. , auiv Yields.Fud 90, 1-ea Pa
 
 APPENDIX TABLE 1-A
 
-MONEY AND CREDIT AGGREGATE MEASURES JULY 11, 1975
+MONEY AND CREDIT AGGREGATE MEASURES JULY 
+11, 1975
 
 E BANK CREDIT MONEY STOCK
 RESERVES MEASURES MEASURES
@@ -3130,11 +3154,13 @@ Time Mutual Short
 Demand Total Other Savings Credit Savings Term ICommercial
 
 Period Currency 
-De o Time her Bank Union CD's Bonds U Gov't 
+De
 
-o Paer
+o Time her Bank Union CD's Bonds U Gov't 
+o
+Paer
+
 Period Curnc Deosts Deposits and S & L Shares Securities
-
 s Sharesj/ S s
 
 1 2 3 4 5 6 7 8 9 10

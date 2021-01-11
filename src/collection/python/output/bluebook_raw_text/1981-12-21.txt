@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -723,7 +726,8 @@ QIV 4.6 4.6 4.6 9.6 9.6 9.6 9.6 9.6 9.6
 
 Annual Average
 
-1981 over 1980 4 .5 4.51- 4.51 9.7 9.7 9.7 11.6 11.6 11.6
+1981 over 1980 4 .5 4.51- 4.5
+1 9.7 9.7 9.7 11.6 11.6 11.6
 
 1/ Based on MI-B adjusted for shifts to nationwide NOW accounts in 1981.
 
@@ -1148,9 +1152,9 @@ Reserves Targets for
 For Remain-
 
 Date Reserves ing State-
-Pat Conseructed November 25 to December 23 November 25 to December 23 On 
+Pat Conseructed November 25 to December 23 November 25 to December 
 
-a ent eek
+23 On a ent eek
 
 5-week of Inter-
 Total Nonborrowed Total Required Excess Avg. meeting
@@ -1346,7 +1350,10 @@ S- 2150
 
 S- 2050
 
-rcent annual - 2000rate o grovtrate of growth
+rcent annual - 2000
+rate o grovt
+
+rate of growth
 Aug. 13.5
 Sept. 9.2
 Oct. 5.7
@@ -1782,10 +1789,14 @@ Millions of dollars, not seasonally adjusted
 December 21, 1981
 
 Treasury Treasury coupons nol purchases* Federal agencies not purchases
-4  Not rhnge
+4  
+
+Not rhnge
 
 Period bi. tot e | | | 1 o 0 oul ingh Net FRPs
-chennl within 1.5 &10 over fO total within ver 10 total1-year 1-year I Iota
+chennl within 1.5 &10 over fO total within ver 10 total
+
+1-year 1-year I Iota
 
 472 3,025 1,048 642 5,18
 517 2,833 758 553 4,660
@@ -2141,7 +2152,9 @@ Dec. 2
 145p
 
 151p
-4 6 3 p
+4 6 3
+
+p
 198p
 
 174
@@ -2181,7 +2194,9 @@ p
 p
 
 41p
-30 p
+30
+
+p
 
 65p
 
@@ -2207,7 +2222,10 @@ p
 301
 
 438
-16 5 p
+16
+
+5
+p
 
 413
 423
@@ -2219,7 +2237,9 @@ p
 126
 123p
 
-12 5 p
+12 5
+p
+
 125p
 
 135p

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1320,12 +1323,15 @@ U.S. government constant corporate municipal sconvantional homeota
 S government constant A utility Bond secondary
 
 arturty yil recently 
-B d  market pr
+B d  
 
+market pr
 im
-ary m
 
-a rket
+ary m
+a r
+
+ket
 
 3year 10-year 30-year offered Buyer fixed-rae fixed rate ARM
 9 10 I 11 I 12 1 13 1t4 15 1 16
@@ -1592,7 +1598,8 @@ end of the statement week. Column 15 Is the average contract rate on new commitm
 
 Strictly Confidential (FR)-
 
-Money and Credit Aggregate Measures cass FO4C
+Money and Credit Aggregate Measures cass 
+FO4C
 
 Seasonally adjusted
 AUi. IJ7 1987
@@ -2029,7 +2036,10 @@ Other Overnight denoml mutual funds, NSA denomi- Term Term Short-
 Demand checkable RPs and MMDAs Savings nation general Institu nation RPs Eurodollars Savings term Commer Bankers
 Period Currency deposits deposits Eurodotlars NSA deposits time purpose, tions time NSA NSA bonds Treasury clal paper accep-
 
-NSA deposits' and broker only deposits 3  securities lances
+NSA deposits' and broker only deposits
+3  
+
+securities lances
 dealer 2
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 1

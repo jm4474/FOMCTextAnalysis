@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1275,38 +1278,51 @@ Selected assets:
 Liquidity programs for financial firms -89 195 1,247 11/06/08 
 
 Primary, secondary, and seasonal credit -6 23 114 10/28/08 
+
 Term auction credit (TAF) -57 139 493 03/11/09 
+
 Foreign central bank liquidity swaps -26 33 586 12/04/08 
+
 Primary Dealer Credit Facility (PDCF) 0 0 156 09/29/08 
 Asset-Backed Commercial Paper Money Market 
 
 Mutual Fund Liquidity Facility (AMLF) -0 0 152 10/01/08 
-Lending through other credit facilities -24 60 351 01/23/09 
 
+Lending through other credit facilities -24 60 351 01/23/09 
 Net portfolio holdings of Commercial Paper 
+
 Funding Facility LLC (CPFF) -23 19 351 01/23/09 
 
 Term Asset-Backed Securities Loan Facility (TALF) -1 41 44 09/11/09 
+
 Support for specific institutions 10 110 118 04/02/09 
 
 Credit extended to AIG, net 6 45 91 10/27/08 
 Net portfolio holdings of Maiden Lane LLC, Maiden
 
 Lane II LLC, and Maiden Lane III LLC 4 65 75 12/30/08 
+
 Securities held outright* 102 1,690 1,693 10/23/09 
 
 U.S. Treasury securities 9 775 791 08/14/07 
+
 Agency securities 12 142 142 10/28/09 
+
 Agency mortgage-backed securities** 81 774 777 10/23/09 
 
 Memo: Term Securities Lending Facility (TSLF) 0 0 236 10/01/08 
+
 Total liabilities 3 2,112 2,213 12/04/08 
 
 Selected liabilities: 
 Federal Reserve notes in circulation 3 875 878 10/14/09 
+
 Reserve balances of depository institutions 191 1,083 1,097 10/23/09 
+
 U.S. Treasury, general account -29 31 137 10/23/08 
+
 U.S. Treasury, supplemental financing account -170 30 559 10/22/08 
+
 Other deposits 11 11 53 04/14/09 
 
 Total capital -0 53 53 10/28/09 
@@ -3024,6 +3040,7 @@ October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 31 of 77
  
 
  
+
  
 
  
@@ -4465,6 +4482,7 @@ October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 57 of 77
   
 
 Memo:
+
 September 
 baseline
 
@@ -4539,16 +4557,20 @@ Baseline Scenario 
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 TALF Other loans and facilities SDR and other assets
 
 0
@@ -4567,16 +4589,20 @@ TALF Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 59 of 77
@@ -4611,16 +4637,20 @@ Alternative A  
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 TALF Other loans and facilities SDR and other assets
 
 0
@@ -4639,16 +4669,20 @@ TALF Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 60 of 77
@@ -4681,16 +4715,20 @@ Source.  Federal Reserve H.4.1 statistical release and staff calculatio
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 TALF Other loans and facilities SDR and other assets
 
 0
@@ -4709,16 +4747,20 @@ TALF Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 61 of 77
@@ -5721,6 +5763,7 @@ Net portfolio holdings of Maiden Lane LLC,
 …Maiden Lane II LLC, and Maiden Lane III LLC
 
 Federal Reserve Balance Sheet:  End‐of‐Year Projections ‐‐ Baseline Scenario
+
 Appendix C:  Table
 
 October 29, 2009 Class I FOMC - Restricted Controlled (FR) Page 77 of 77

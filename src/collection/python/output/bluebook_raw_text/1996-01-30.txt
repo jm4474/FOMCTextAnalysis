@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -674,7 +677,8 @@ percent
 -Baseline
 ..... Tighter
 
-...........e eeeseea
+...........
+e eeeseea
 
 1999
 
@@ -729,7 +733,8 @@ CPI excluding food and energy
 (Four-quarter percent change)
 
 Baseline
-....... Upward ShockS--. Downward Shock
+....... Upward Shock
+S--. Downward Shock
 
 Lagged Policy Response
 
@@ -2007,7 +2012,8 @@ QIV 1994 - QIV 1995
 
 4 - 6.5 (7.3)w
 
-3.5- 6 (23)24
+3.5- 6 (23)
+24
 
 2.5 - 5.5 (8.5)2
 
@@ -2487,9 +2493,10 @@ Seasonallyadjusted
 
 __ _Monlev stock measures and liquid as ets Bank credit . .. Dom stic nonfinancial debt'
 
-nontransactions components loanstotal loans
-Period M1 M2 M3 L and U. S. other' total'
+nontransactions components loans
+total loans
 
+Period M1 M2 M3 L and U. S. other' total'
 In M2 In M3 only investments' goverment'
 
 __1 2 3 4 8 -0 7 9 10
@@ -2574,7 +2581,10 @@ NSA' deposits broker/ deposites NSAce
 
 dealer'
 
-Levels (Sbillion 1 2 3 4 5 6 - a 9 10 11 2 . 3 I4 
+Levels (Sbillion 1 2 3 4 5 6 - a 9 10 11 2 .
+3 
+
+I4 
 1
 
 Annual (Q4)
@@ -2625,7 +2635,8 @@ CLASS II-FOMC
 1994 ---01
 ---Q2
 ---03
---- 04Q3---Q4
+--- 04Q3
+---Q4
 
 1995 ---01
 ---02

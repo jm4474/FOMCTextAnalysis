@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1281,13 +1284,15 @@ Seasonally adjusted OCT. 2, 1989
 
 Bank reserves' Money stock mea ures and liouid st * Bank credit Do nestic nonfinancial debt
 
-Period nonborrowed total monetary M1 M2 M3 L total loanm U.S. other' total'base and government
+Period nonborrowed total monetary M1 M2 M3 L total loanm U.S. other' total'
+base and government
+
 Ii nvestment
-
 1 2 3 4 5 6 7 a 9 19 It
-LEVELS (MBILLIONS) :
 
+LEVELS (MBILLIONS) :
 ANNUALLY (4TH QTR. I
+
 1986
 1987
 1988
@@ -1547,8 +1552,9 @@ AUG.
 
 I I I I_ I I J.
 1. Reserves data are in millions of dollars, and have been adjusted for discontinuities.
-2. Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to remove
+2. Debt data are on a monthly average basis, derived by averaging end-of-month levels of adjacent months, and have been adjusted to 
 
+remove
 discontinuities.
 p-preliminary
 
@@ -2008,7 +2014,8 @@ Sept. 6
 20
 27
 
-Memo: LEVEL (bil.$)6
+Memo: LEVEL (bil.$)
+6
 
 September 27
 

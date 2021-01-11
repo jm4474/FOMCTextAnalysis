@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1389,8 +1392,9 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting _Supporting private deposits
-U. S. Gov't. Other thanPeriod required demand Total Seasonal changes seasonal changes
+U. S. Gov't. Other than
 
+Period required demand Total Seasonal changes seasonal changes
 reserves deposits Demand Time Demand Time
 
 Year:
@@ -1695,7 +1699,9 @@ Seasonally Adjusted
 Total Nonborrowed 
 Required reserves
 
-Period reserves reserves Total Against private depositsreserves reservTotal Demand
+Period reserves reserves Total Against private deposits
+reserves reservTotal Demand
+
 Total Demand
 
 1965--Jul.
@@ -1932,10 +1938,11 @@ p - Preliminary.
 
 1/ Reserves have been adjusted for redefinition of time deposits effective Ju
 
-2/ Reserve aggregates have been adjusted for change in 
-reserve requirements
+2/ Reserve aggregates have been adjusted for change 
+in reserve requirements
 
-held against net demand deposits effective at mid-month, January 1968.
+held against net demand deposits effective at mid-month, January 
+1968.
 
 une 9, 1
 S. 1

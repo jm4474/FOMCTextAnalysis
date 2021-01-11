@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -536,7 +539,8 @@ CLASS II FOMC
 /
 /
 
-?,/ ^' 6
+?,/ ^'
+6
 
 D J A J J A S O N D
 1984
@@ -916,7 +920,12 @@ Trwry b CDo comm. o bank U.8. govnmment conmt corporate muni. honme mogI n e mio
 POW H eaprimem maturDiy yids m A utility cipal conn- V NMAkma h nd m I- - mutual recently B d lionll FHA lyu
 1SnOnMft SItWh 1r Snanth f
 
-1 n  fund o n  to Byr offered luyer at SLe ARM
+1 n  
+fund 
+
+o n  
+to Byr offered luyer at SLe ARM
+
 _____1 3 4 8 8 7 8 10 11 12 13 14 18 16
 
 193--igh
@@ -1361,7 +1370,9 @@ CLASS II-FOMC
 MAY 21, 1984
 
 Treurr Trsury coupons net purcMhases Federal agencies net purchae
-4  Nt change
+4  
+
+Nt change
 
 chln 15 510 over 10 total 1-5 510 over 10 'total 
 N
@@ -1612,7 +1623,9 @@ IUL-NAT 17
 
 -6.4
 
-I Cha frm a-of-wod to end-of-peod. 5 In addition to nthe pur chass of scurities, ai reflects chamges In System holdings of bankers'2 Outright trancto in market and with feign accounts, and rdemptio (-) In bill auctions. accptnces, direct Treaury borrowing from the System and redemptions (-) of agency and Tre-3 Outright tntlons in marke and with foreign aounts. nd short-ten notes acquired In ex- sury coupon issues.
+I Cha frm a-of-wod to end-of-peod. 5 In addition to nthe pur chass of scurities, ai reflects chamges In System holdings of bankers'2 Outright trancto in market and with feign accounts, and rdemptio (-) In bill auctions. accptnces, direct Treaury borrowing from the System and redemptions (-) of agency and Tre-
+3 Outright tntlons in marke and with foreign aounts. nd short-ten notes acquired In ex- sury coupon issues.
+
 change fr maturing bll Excludes redemptio, maturity hifts, rollovers of maturing coupon Includes changes In RPs (+). matched sale-purchae transactions (-), and matched purchaealeI ria. tn direct Trnsy bonrowing from the System. trnmsctons (-).p4 Ou tright tramtjom In markt and wMth foren accounte o. Excludes redermprkn and mtufty
 shifts.
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1326,7 +1329,8 @@ Retrospective Changes, Seasonally Adjusted
 Reserve A g r e ga t e s Moneta a Va r i able s
 Required reserves Total Member Time Money Supply
 
-Total Against Deposits PrivateNonborrowed Against Bank Deposits DepositsReserves Total Demand (comm. Total Demand
+Total Against Deposits Private
+Nonborrowed Against Bank Deposits DepositsReserves Total Demand (comm. Total Demand
 ReervDema (credit) 1/ banks)Deposits -banks) Deposits
 
 + 1.3
@@ -1753,8 +1757,9 @@ Retrospective and Prospective
 Factors affecting sup ly of reserves = Change = Bank use of reserves
 
 Period Federal Reserve Gold Currency Technical in Required Excess
-credit (excl. k outside factors total reservesstock reserves
+credit (excl. k outside factors total reserves
 
+stock reserves
 float) 1/ banks net 2/ reserves 3/
 
 Year:
@@ -1840,8 +1845,9 @@ Total Supporting _Supporting private deposits
 U. S. Gov't. Other than
 
 Period required demand Total Seasonal changes sea l c han
-demand Total seasonal changesreserves s
+demand Total seasonal changes
 
+reserves s
 rese_ __ deposits Demand Time Demand Time
 
 Year:

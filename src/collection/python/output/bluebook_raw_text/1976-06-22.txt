@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1747,7 +1750,10 @@ __ _ __ _ _ * IJ .L LL ± __ _ J. __ _ _
 - 8,124
 
 - 7,605
--10,46 4p
+-10,46
+
+4
+p
 
 - 8,848p
 
@@ -1839,7 +1845,8 @@ the coupon rate 50 basis points below the current FHA/VA ceiling.
 
 APPENDIX TABLE 1-A
 
-MONEY AND CREDIT AGGREGATE MEASURES JUNE 18, 1976
+MONEY AND CREDIT AGGREGATE MEASURES
+JUNE 18, 1976
 
 BANK CREDIT MONEY STOCK
 BANK RESERVES y MEASURES MEASURES
@@ -2278,12 +2285,15 @@ SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
 
 JUNE 18, 1976
 
-BANK CREDIT MONEY STOCKBANK RESERVES A MEASURES MEASURES
+BANK CREDIT MONEY STOCK
+BANK RESERVES A MEASURES MEASURES
 
 A. Total
-Period Adj. Loansn MonetaryTotal ary Credit and M1  M2  M3  M4 M5  M6  M7borrowed Base proxy Invest-
+Period Adj. Loansn Monetary
 
+Total ary Credit and M1  M2  M3  M4 M5  M6  M7borrowed Base proxy Invest-
 ments
+
 1 2 3 4 5 6 7 8 9 10 11 12
 
 ANNUALLY:

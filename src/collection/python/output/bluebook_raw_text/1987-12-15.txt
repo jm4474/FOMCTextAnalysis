@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2049,7 +2052,10 @@ within
 
 Federal agencies net purchases
 wi th-n  1-5 5-10 over 10
-1-year total| oa
+1-year
+
+total
+| oa
 
 .2 7.6
 

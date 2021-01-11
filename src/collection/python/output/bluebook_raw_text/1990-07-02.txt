@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2766,7 +2769,8 @@ L
 
 Strictly Confidential (FR)-
 
-Components of Money Stock and Related Measures Class II FOMC
+Components of Money Stock and Related Measures Class 
+II FOMC
 
 seasonally adjusted unless otherwise noted JUN. 29, 1990
 
@@ -3160,7 +3164,8 @@ p-preliminary
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 
+1
 
 Millions of dollars, not seasonally adjustedJuly 2, 1990
 

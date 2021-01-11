@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -377,7 +380,8 @@ ranges) under the three alternatives are included in the detailed table
 
 on the next page.
 
-1/Alt. A Alt. B- Alt. C
+1/
+Alt. A Alt. B- Alt. C
 
 M1  6-8½ 5-7½ 4-6½
 
@@ -1748,11 +1752,15 @@ Mar. 5 19 -- 376 -4,202 -3,807 193 -110 106 127 62
 26 276 928 -- 3,292 4,496 3,679 -12 -3,344p 51p 272p
 
 April 2 -282r 373r 208 -2,371 -2,072r -493 -104 
-9 06p 166p 14
+9
+0
+6
+p 166p 14
 
-3p
+3
+p
+
 9 -669 - - -1,906 -2,575 -2,016 - 19 1,564p -76p -395p
-
 16
 23
 30
@@ -1970,7 +1978,8 @@ ce
 
 147
 198
-219p
+2
+19p
 
 395
 59
@@ -1982,7 +1991,8 @@ ce
 230
 20
 
-153p
+1
+53p
 
 325p
 115p
@@ -2637,8 +2647,8 @@ Column 9 is a one-day quote for Thursday following the end of
 end of the statement week. The FNMA auction yield is the
 underwritten mortgages.
 
-* The Treasury has revised its procedure for computing the constant maturity yields. Data have been revised back through December 
-1974 and
+* The Treasury has revised its procedure for computing the constant maturity yields. Data have been revised back 
+through December 1974 and
 
 result in an average increase of about 8 basis points in the level of the 10-year yield.
 
@@ -3682,7 +3692,8 @@ Appendix Table IV
 
 Growth Rates in Money Supply for Alternatives
 
-M2
+M
+2
 
 M 0
 

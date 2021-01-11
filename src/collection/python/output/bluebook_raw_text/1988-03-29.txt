@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -523,7 +526,9 @@ Billions of dollars
 
 * Short Run Alteratives
 
-- c,0 /
+- c
+,0 /
+
 /*o
 
 .- "
@@ -581,7 +586,8 @@ Chart 3
 M1
 Billions of dollars
 
-/0f
+/0
+f
 t
 
 0f
@@ -1053,12 +1059,13 @@ SELECTED INTEREST RATES
 Spercent
 - Lfln-Tlr-
 
--- Treasury bills--- -U.S. Gov't. constant-- --- conventional ho-secondary markt--- ---- maturity yields-- --- rtgages---
+-- Treasury bills--- -U.S. Gov't. constant-- --- conventional ho
+-secondary markt--- ---- maturity yields-- --- rtgages---
+
 money sec mkt primary market
-
 cds comi. market bank corp. A muni.
-federal 3 6 12 sec ekt paper mutual prime utility Bond fixed- fixed-
 
+federal 3 6 12 sec ekt paper mutual prime utility Bond fixed- fixed-
 funds month month month 3-month 1-month fund loan 3-year 10-year 30-year rec off Buyer rate rate ARM
 
 7.6Z 6.84 7.36 7.64 8.49 8.12 6.70 9.25 9.29 9.96 9.97 11.50
@@ -1493,7 +1500,8 @@ i.29 6.64 7.05 6.88 6.79
 
 Strictly Confidential (FR)-
 
-Money and Credit Aggregate Measures Class II FOMC
+Money and Credit Aggregate Measures 
+Class II FOMC
 
 Seasonaly adjusted MAR. 28, 1988
 
@@ -2023,13 +2031,15 @@ r3.4
 
 
 STRICTLY CONFIDENTIAL (FR)
-CLASS II FOMCNet Changes In System Holdings of Securities'
+CLASS II FOMC
 
+Net Changes In System Holdings of Securities'
 March 28, 1988 Millions of dollars, not seasonally adjusted
 
 Treasury bills Treasury coupons Federal Net change
-Period Net purchases3  agencies outright Net RPs5Net Redemp- Redemp- redemptions holdingspurchases tions (-) Ntchange within tions (-) Net change total
+Period Net purchases3  agencies outright Net RPs5Net Redemp- Redemp- redemptions holdings
 
+purchases tions (-) Ntchange within tions (-) Net change total
 1_ -year50 or
 
 1982
@@ -2212,7 +2222,9 @@ exhange for maturing bills. Excludes maturity shifts and rollovers of maturing c
 5. Includes changes in RPs (+), matched sale-purchase transactions (-), and matched purchase
 
 sale transactions (+).
-6. The levels of agency issues were as follows: wi th in  1 5-10 over10 total2 3 1-year2 .
+6. The levels of agency issues were as follows: wi th in  1 5-10 over10 total
+
+2 3 1-year2 .
 
 2.6 3.4 1.2 .2 7.4
 

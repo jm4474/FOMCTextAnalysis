@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1538,9 +1541,16 @@ July 3 292 176 305 -170 603 197 647 -106 383 355
 p -533p 257p
 
 Aug. 7 66 -- -3 366 430 -589 -606 
-88 9p -14 3p -163p
+88
 
-14 -138 - -- 1,820 1,682 -161 - 43 204p 4p -4p
+9p -1
+4 3
+p -163p
+
+14 -138 - -- 1,820 1,682 -161 - 43 204p 
+4
+p -4p
+
 21
 28
 
@@ -2450,10 +2460,11 @@ n.a.
 
 Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are one-day Wednesday quotes. For columns 7, 8 and 10 the
 
-weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for Thursday following the end 
-of the
+weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for Thursday following 
+the end of the
 
-statement week. Column 11 gives FNMA auction data for the Monay preceding the end of the statement week. The FNMA auction yield is the average yield
+statement week. Column 11 gives FNMA auction data for the Monay preceding the end of the statement week. The FNMA auction yield is the average 
+yield
 
 in hi-weekly auction for short-term forward commitments for Government underwritten mortgages.
 
@@ -2483,8 +2494,8 @@ M  M
 Credit Inest- To than posits 1 CD's
 Per(1)iod (2) (3) () (5) (6) (7) () (9) (10) (11) (12) (13) (time
 
-(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 
-(13) (14)
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) 
+(12) (13) (14)
 
 (Per Cent Annual Rates of Growth)
 

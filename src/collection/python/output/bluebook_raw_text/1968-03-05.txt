@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -160,7 +163,9 @@ Period Supply Deposits
 
 (In millions Rate ury Gov't. Issues (Aaa) Reserves serves Proxy 2/
 
-of dollars) Bill (20 yr.) (Aaa)l/ (I ll ionlars)--_ doILZl (In billions of dollars)
+of dollars) Bill (20 yr.) (Aaa)l/ (I ll ionlars)
+--_ doILZl (In billions of dollars)
+
 (Seasonally Adjusted)
 
 1"<7--Feb. 42 366 4.99 4.56 4.61 5.18 3.38 +325 +218 + 3.3 + 1.2 + 2.6
@@ -874,9 +879,11 @@ Reserve Ag gregates Moneta y Var iab le s
 Required reserves Total Member Time Money Supply
 
 Total Against Deposits Private
-Total onborrowed Bank DepositsReserves Total Demand (comm. Total Demand
+Total onborrowed Bank Deposits
 
+Reserves Total Demand (comm. Total Demand
 Reserves Deposits (credit)1 / 2 banks)2/ Deposits
+
 Annually:
 
 1966 + 1.2 + 0.8 + 1.4 + 0.9 + 3.7 + 8.8 + 2.2 + 1.2
@@ -1807,11 +1814,11 @@ Feb. p 2/ 25,267 24,978 24,885 23,824 17,557
 
 p - Preliminary.
 
-1/ Reserves have been adjusted for redefinition of time 
-deposits effective June 9, 1966.
+1/ Reserves have been adjusted for redefinition of 
+time deposits effective June 9, 1966.
 
-2/ Reserve aggregates have been adjusted for change 
-in reserve requirements
+2/ Reserve aggregates have been adjusted for 
+change in reserve requirements
 
 held against net demand deposits effective at mid-month. January 
 1968.
@@ -2195,8 +2202,8 @@ on monthly averages of daily figures)
 Private
 Monthly Money Supply Currency 1/ Demand Time Deposits
 
-__ _Deposits 2/ Adjusted 
-3/
+__ _Deposits 2/ 
+Adjusted 3/
 
 1966--Jan. 167.9 36.6 131.4 147.5
 Feb. 168.3 36.7 131.6 148.3

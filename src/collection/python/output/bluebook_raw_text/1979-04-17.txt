@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1468,10 +1471,12 @@ APR. 13, 1979
 Bank Reserves 1 Bank Money Stock Measures
 Credit
 
-TotalPeriod Total
-Total Non- Monetary Loans M M1+ M-2 M-3 M4 M-5 M-6 M
+Total
+Period Total
 
+Total Non- Monetary Loans M M1+ M-2 M-3 M4 M-5 M-6 M
 borrowed Base and M2 M M4 M M6 M
+
 Invest-
 ments
 
@@ -2535,7 +2540,10 @@ APRIL 13, 1979
 Treasury Coupons FedersLi AgenciesTreasury Coupons
 Net Purchases 3/
 
-1 - 5 5 - 10 Over 10 SwithinTotal 1 year
+1 - 5 5 - 10 Over 10
+Swithin
+
+Total 1 year
 
 Federa
 Net Pu

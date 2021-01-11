@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -387,7 +390,8 @@ combined)
 
 M
 
-M2
+M
+2
 
 Credit proxy
 
@@ -398,7 +402,8 @@ RPD
 
 M1
 
-M2
+M
+2
 
 Federal funds rate range
 (inter-meeting period)
@@ -449,7 +454,9 @@ RATIO SCALE, BILLIONS OF DOLLARS
 
 - 270
 
-.' .
+.' 
+.
+
 .-
 
 5%/4% GROWTH
@@ -1217,7 +1224,8 @@ PFrtFNT ANNUAL r.IOWT4
 
 OUARTFRL Y I
 
-ll------ 9T107?--4TH QT7 . I
+ll------ 9T
+107?--4TH QT7 . I
 
 1017--1IT OTP.
 2NO OTO. I
@@ -1252,7 +1260,9 @@ MaY ? I
 16 1
 23
 
-)iNF 30 I)uNEF 6 I
+)iNF 30 I
+)uNEF 6 I
+
 13 0
 ?0 oP
 
@@ -1739,12 +1749,15 @@ Apr. 2,457 106 12 60 255 1,688 3 -3,293 -6,577
 May 1,894 421 66 151 161 1,863 30 -3,019 -5,872
 
 June 2,281 562 33 120 2
-0 7p 1,8
+0
 
+7p 1,8
 4 9
-p 
 
-7 9 p -3,507 -6,443
+p 
+7 9
+
+p -3,507 -6,443
 
 1973 -- May 2 1,969 221 61 72 233 1,875 16 -1,831 -5,401
 
@@ -1760,19 +1773,27 @@ June 6 2,608 462 6 57 401 1,664 64 -2,934 -5,772
 13 2,686 551 100 130 2 1,700 67 -4,181 -6,82'
 
 20 *2,234 * 641 1 111 1
-6 0p 1,928p 73p -3,875 -6,581
+6 0
+p 1,928p 73p -3,875 -6,581
 
 27 *1,709 * 622 30 183 212p 1,846p 93p -2,932 -6,541
 
 Tuly 4 *2,013 * 391 0 133 441p 
-2 ,4 01 p Iltp -2,775p -
+2
+,
+4 01
 
+p Iltp -2,775p -
 6 , 2 2 3 p
 
 11 *t,382 * 373 lOOp 150p -65p 1,680p 117p -2,73
-2p -
+2
+p -
 
-7 ,54 8p
+7
+,5
+4 8
+p
 
 18
 25
@@ -1785,8 +1806,8 @@ issues still iL syndicate, excluding trading positions. The basic reserve defici
 *ral funds purchases. Weekly data are daily averages for statenent weeks, except for corporate and municipal issues in syndicate which are Friday
 figures.
 
-'pegthnifng with Tantary 1973, monthly averages for excess reserves and borrowings are weighted averages 
-of statedent week figures.
+'pegthnifng with Tantary 1973, monthly averages for excess reserves and borrowings are weighted 
+averages of statedent week figures.
 
 *STtICTLY CONIIbENtE A
 
@@ -2246,7 +2267,8 @@ July 4
 6.89
 6.93
 7.02
-7 .05p
+7
+.05p
 
 (11)
 

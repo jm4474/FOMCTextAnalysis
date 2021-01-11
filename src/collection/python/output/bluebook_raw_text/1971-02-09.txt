@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -215,7 +218,8 @@ Results
 
 % Annual Rates of Change
 
-3 /3.4 3/3.6
+3 /
+3.4 3/3.6
 
 5.5 2.8
 
@@ -288,7 +292,8 @@ Results
 
 8.1 8.3
 
-12.5 0.412.5 10. 9-
+12.5 0.4
+12.5 10. 9-
 
 1 MI plus bank time ana savings deposits other than large Ct's.
 
@@ -1592,14 +1597,15 @@ STRICTLYCONFIDENTIAL (FR)
 February 5, 1971
 
 L Adjusted
-Credit Proxy Money Supply S Governme TimeDepositsM S Demand Deposits Time Deposits Nondeposit 
+Credit Proxy Money Supply S Governme TimeDepositsM S Demand Deposits Time Deposits
 
-TotalReservesSources of Funds T
+Nondeposit TotalReserves
+Sources of Funds T
+
 1 Path 2 3 Path 4 5 Path 6 7 Path 810 11 ath 12
-
 as of Current of Current as of Current as of Current of Current of Current
-Proi Prol. Prol Prol Prol Prol.
 
+Proi Prol. Prol Prol Prol Prol.
 Jan. 12 Jan.12 Jan. 12 Jan. 12 Jan. 12 Jan. 12
 
 Monthly Pattern in Billions of Dollars
@@ -1927,7 +1933,10 @@ _____ (Annual rates in per cent)
 Reserve Aggregates Monetary Variables Addenda
 1 2 3 Total 4 Money Supply 8 9 10
 
-Peri Total Nonborrowed Member Adjusted 5 6 7 Privateie Thrift NonbarkPerad Private Deposits Instit. CommercialReserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
+Peri Total Nonborrowed Member Adjusted 5 6 7 Privateie Thrift Nonbark
+Perad Private Deposits Instit. Commercial
+
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
 __D _ _eposits Deposits
 
 AntaDally__
@@ -2738,17 +2747,17 @@ Jan. 6
 30.3
 30.6
 
-mOTES: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements against deposits, 
-but reserve requirements on Euro-
+mOTES: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements 
+against deposits, but reserve requirements on Euro-
 
-dollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning 
-October 1, 1970.
+dollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are 
+included beginning October 1, 1970.
 
-Adjuqted credit proxy includes mainly total member bank deposits subject to reserve requirements, bank-related 
-commercial paper, and Euro-dollar
+Adjuqted credit proxy includes mainly total member bank deposits subject to reserve requirements, 
+bank-related commercial paper, and Euro-dollar
 
-borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for nonbank commercial 
-71
+borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for 
+nonbank commercial 71
 
 paper figures which are for last day of month.
 

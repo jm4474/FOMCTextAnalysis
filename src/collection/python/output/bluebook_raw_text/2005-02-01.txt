@@ -47,6 +47,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1864,7 +1867,8 @@ Sample begins in 1999  due to  TIPS volatility
 
 in 1997-8.
 
-it = 0.97it-1+ [-1.24 + 0.68Bcomp5|t] .42b .44
+it = 0.97it-1+ [-1.24 + 0.68Bcomp5|t]
+.42b .44
 
 a RMSE for rules with imposed coefficients is calculated setting B*=1.5.
 b RMSE for TIPS-based rule is calculated for 1999:1-2004:4.

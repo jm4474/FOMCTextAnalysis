@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -639,7 +642,8 @@ I I I I I I I I I I I I I
 
 1981 1982
 
-1 March level is projected.
+1
+March level is projected.
 
 M1
 
@@ -674,7 +678,8 @@ O N D J F M A M J J A S O N D
 
 1981 1982
 
-1 March level is projected.
+1
+March level is projected.
 
 1750
 
@@ -953,7 +958,9 @@ Average 41,112 39,592 41,112 40,799 313 1520
 
 Sub-Period: March 10 to March 31
 
-6/ 6/March 5 3 9 , 3 76 7  37,8767/8 39,102 38,802 300 1226 1226
+6/ 6/
+March 5 3 9 , 3 76 7  37,8767/8 39,102 38,802 300 1226 1226
+
 12 39,239- 37760- 39,094 38,806 288 1334 1398
 19 39,159- 3 7 , 7 3 9 9/10/ 38,988 38,703 285 1249 1346
 26 39,002 37,739 39,002 38,698 304 1263 1405
@@ -1336,9 +1343,12 @@ Millions of dollars, not seasonally adjusted
 March 29, 1982
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 
 Peiod bills not outright Net RPs
 6
@@ -1414,7 +1424,9 @@ March 29, 1982
 
 U.S. government securities dealer positions snderwitin Member bank resve positions
 
-Period s r syndicate positions excess** borrowing at FRB**cash futures and forwards corporate municipal reserves adjustent seasonal exendedtotal
+Period s r syndicate positions excess** borrowing at FRB**
+cash futures and forwards corporate municipal reserves adjustent seasonal exendedtotal
+
 bills I coupons bills coupons bonds bondsent seasonal de total
 
 1980--High
@@ -1539,7 +1551,9 @@ p**
 2,385**
 
 -1,806**
--2 ,510p**
+-
+2
+,510p**
 
 -12,865
 -4,535
@@ -1650,10 +1664,18 @@ J I ---
 568
 3
 
-536p
-325p
+5
+3
+6p
+
+3
+2
+5p
+
 337P
-254p
+2
+5
+4p
 
 3,298
 12
@@ -1692,9 +1714,11 @@ J I ---
 1,534
 
 1,131p
-990p
-976p
+9
+9
+0p
 
+976p
 1,170p
 
 174
@@ -1734,7 +1758,9 @@ J I ---
 147p
 151p
 187p
-17 3p
+17 3
+
+p
 
 816
 0
@@ -1759,7 +1785,12 @@ J I ---
 148
 
 197
-2 32 p
+2
+
+3
+2
+
+p
 
 193
 194
@@ -1771,7 +1802,9 @@ J I ---
 227
 222p
 
-2 8 8 p
+2 8 8
+p
+
 306p
 3 0 1
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -964,7 +967,8 @@ Annual-
 
 1977
 
-3/Quarterly-
+3/
+Quarterly-
 
 1977-QI
 
@@ -2295,7 +2299,8 @@ I I I290
 
 BROADER MONEY SUPPLY M2
 
-1976 1977 1978 N D J F
+1976 1977 1978
+N D J F
 
 1977 1978
 
@@ -5192,8 +5197,8 @@ sd sead loving@ Depositsanl Credit Term Private Non- Total
 Period Currency Demand __ Ban" Union SavinIs U.S Short- Deposit Gov't
 Deposits Totl Other Than CDs & S&L Shares Bonds Gov't term Fund Demand
 
-Dot Ta Total ISavings Other Shares 1 i Sec j Assets 
-S Deposit
+Dot Ta Total ISavings Other Shares 1 i Sec 
+j Assets S Deposit
 
 ANNUALLY:
 

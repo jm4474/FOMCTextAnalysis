@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2152,7 +2155,11 @@ July 2,262 97 142 166 147 202 - 55 -2,945 -2,603
 Aug. 2,643 692 114 176 255 438 -183 -3,913 -2,801
 Sept. 4,099 170 53 174 162 514 -352 -3,835 -4,024
 
-Oct. *2,887 *207 105 132 233p 574p -341p -3,637 -4,044
+Oct. *2,887 *207 105 132 
+2
+3
+3
+p 574p -341p -3,637 -4,044
 
 1972 -- Sept. 6 4,223 314 103 204 796 837 - 41 -3,403 -3,591
 13 4,291 239 58 202 -115 149 -264 -4,499 -4,719
@@ -2165,10 +2172,24 @@ Oct. 4 3,507 170 51 51 230 436 -206 -3,248 -3,354
 25 *2,734 * 282 235 149 150 765 -615 -2,900 -3,858
 
 Nov. I *3,114 * 328 0 173 
-267p 5 56p -289p -3,272 -3,225
+267
 
-8 *2 ,520r *1,095r 31 254 106p 958p u852p -4,589p -3,6 20p
-15 *2,531 *1,117r 30p 105p 579p 494p 85p -4,923p -3,653p
+p 
+5 56
+
+p -289p -3,272 -3,225
+8 *
+
+2
+,520r *1,095r 31 254 106p 958p u852p -4,589p -3,
+
+6
+20p
+
+15 *2,531 *1,117r 30p 1
+0
+5p 579p 494p 85p -4,923p -3,653p
+
 22
 29
 
@@ -2911,7 +2932,9 @@ Deposits
 
 Total
 
-M 1
+M 
+1
+
 Pvt. Dep.
 
 197.4 154.0
@@ -3482,13 +3505,14 @@ Funds Demand
 4.6 7.2
 4.0 8.0
 
-NOTES: Reserve requirements on Euro-dollar borrowings are included beginning October 16, 1969, and requirements on bank related commercial paper are included beginning
+NOTES: Reserve requirements on Euro-dollar borrowings are included beginning October 16, 1969, and requirements on bank related commercial paper are included 
+beginning
 
-October 1, 1970. Adjusted credit proxy includes mainly total member banks deposits subject to reserve requirements, bank-related commercial 
-paper, and Euro-dollar
+October 1, 1970. Adjusted credit proxy includes mainly total member banks deposits subject to reserve requirements, bank-related 
+commercial paper, and Euro-dollar
 
-borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for nonbank commercial 
-paper figures which
+borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for 
+nonbank commercial paper figures which
 
 are for last day of month. Weekly data are not available for M3, total loans and investments and thrift institution deposits.
 

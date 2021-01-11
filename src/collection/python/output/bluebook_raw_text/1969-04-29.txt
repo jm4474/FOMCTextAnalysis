@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1242,7 +1245,8 @@ Weekly:
 
 Apr.
 
-pP
+p
+P
 Pp /
 p If
 
@@ -1493,9 +1497,10 @@ SOURCE OF FEDERAL RESERVE CREDIT
 Retrospective Changes
 (Dollar amounts in millions of dollars, based on weekly averages of daily figures)
 
-Total Federal U.S. Government securities Federal Bankers' Member banksBankers Member banks
-Period Reserve credit Total Bills hr Repurchase Agencyas
+Total Federal U.S. Government securities Federal Bankers' Member banks
+Bankers Member banks
 
+Period Reserve credit Total Bills hr Repurchase Agencyas
 ( . faBills Otherholdings acceptances borrowings
 (Excl. float) holdings agreements Securities
 
@@ -1733,7 +1738,10 @@ Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
 STotal Nonborrowed Required reserves
-Period eserves reserves Total Against private depositsreserves reserves TotalTotalDemandTotal Demand
+Period eserves reserves Total Against private deposits
+
+reserves reserves TotalTotalDemand
+Total Demand
 
 1966--July
 Aug.

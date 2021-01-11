@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2233,7 +2236,9 @@ lOOp
 228
 2p
 
-444p
+444
+p
+
 -35p
 
 -7,387
@@ -2316,7 +2321,10 @@ lOOp
 
 - 9,091p
 
--11, 2 33p
+-11,
+2
+
+33p
 
 **Monthly averages for excess reserves and borrowings are weighted averages of statement week figures.
 
@@ -2460,7 +2468,10 @@ Aug. 4
 5.20 5.30 8.72 8,69
 
 5.20 5.30 8.60 8.60
-5.25 5.35 8.50p 8.49p
+5.25 5.35 8.50p 8.
+
+49
+p
 
 Daily-Aug. 5 5.33 5.19 5.73 5.38
 12 5.24p 5.16 5.66 5.38
@@ -2550,7 +2561,10 @@ ing the coupon rate 50 basis points below the current FHA/VA ceiling.
 8.03
 
 7.99
-7.94p
+7
+.
+94
+p
 
 9.95
 8.78
@@ -3439,8 +3453,8 @@ Total Savings Other Shares
 
 1 2 3 4 5 6 7 8 9 10 11 12
 
-ANNUALLY: (Per cent annual rates 
-of growth)
+ANNUALLY: (Per cent annual 
+rates of growth)
 
 1973 8.1 5.3 16.2 11.4 2.8 18.7 45.6 8.5 13.8 4.9 31.3 39.3
 1974 10.2 3.0 15.0 9.4 7.0 11.2 41.4 5.6 12.1 4.8 11.9 9.1

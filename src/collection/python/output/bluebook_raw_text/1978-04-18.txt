@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1893,7 +1896,9 @@ RATE FNMA MONDAY AU(
 
 -6
 
-F.R. DISCOUNT EURO-DOLLARS 7RATE 3-MONTH - Aaa UTIL
+F.R. DISCOUNT EURO-DOLLARS 7
+RATE 3-MONTH - Aaa UTIL
+
 NEW ISSUE
 
 5  PRIME COMMERCIAL
@@ -2914,10 +2919,22 @@ Mar. 1 2,176 1,577 37 253 120 391 59 -4,836 -11,655
 
 15 2,923 891 70 244 131 248 40 -7,537 -11,771
 22 *2,705 *450 215 282 148 280 47 -7,525 -11,473
-29 *2,158 *390 93 349 235p 386p 51p -5,510 -9,237
+29 *2,158 *390 93 349 
 
-Apr. 5 *4,398 *2 23 189 30 7p 304p 45p -6,511p -10,356p
-12 *4,078p *-305p 55p 175p 91p 172p 37p .8,240p -14,520p
+2
+35p 
+
+38
+6p 51p -5,510 -9,237
+
+Apr. 5 *4,398 *2 23 189 3
+0 7
+p 304p 45p -6,511p -10,356p
+
+12 *4,078p *-305p 55p 175p 91p 1
+72
+p 37p .8,240p -14,520p
+
 19
 26
 
@@ -3051,7 +3068,8 @@ Appendix Table 1-A
 
 MONEY AND CREDIT AGGREGATE MEASURES
 
-Bank Reserves Ban Money Stock MeasuresCredit
+Bank Reserves Ban Money Stock Measures
+Credit
 Total
 
 Period Loans
@@ -3927,11 +3945,12 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 APR. 14, 1978
 
 Time and Savings Deposits Mutual t P te Non Total
-Prid Demand _Savings Credit sTerm Private Non- TotalPeriod Currency and Bank Union Savings US. Short- Deposit Gov't
+Prid Demand _Savings Credit sTerm Private Non- Total
 
+Period Currency and Bank Union Savings US. Short- Deposit Gov't
 Deposits Other Than CD's & S&L Shares Bonds Gov't term Funds Demand
-STotal vCD's Sh L Shares Gov't Assets Deposits
 
+STotal vCD's Sh L Shares Gov't Assets Deposits
 STotal j Savings Other S harest 1/ id Sec tel F DemVA
 
 ANNUALLY:

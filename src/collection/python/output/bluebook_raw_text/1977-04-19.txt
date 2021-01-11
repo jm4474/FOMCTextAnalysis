@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -264,7 +267,8 @@ other than large CD's) 10.4 10.5 10.6 8.0 8.0
 M3 (2 plus deposits at thrift
 institutions) 13.0 12.4 12.1 9.7 8.9
 
-M4 (M2 plus CD's) 7.2 8.0 9.5 6.8 5.9
+M4 (M2 plus CD's) 7.2 8.0 9.5 6.8 
+5.9
 
 M5 (M3 plus CD's) 10.7 10.7 11.3 8.9 7.5
 
@@ -948,7 +952,8 @@ preceding paragraph. Specifically, at present, it expects the
 
 annual growth rates over the [DEL: March-April] APRIL-MAY period to be
 
-within the ranges of [DEL: 4-1/2 to 8-1/2] ____ to ____ per cent
+within the ranges of [DEL: 4-
+1/2 to 8-1/2] ____ to ____ per cent
 
 for M-1 and [DEL: 7 to 11] _____ to ____ per cent for M-2. In the
 
@@ -1775,7 +1780,9 @@ S-- -- -- -- -- -- -278
 -- -- -- -- -- -- -- -- -- -- -25
 
 41 174 46 37 298 -- -- -- -- -- 288
--6-- -- -- -- -- -- -- -- -- -- -6
+-6
+
+-- -- -- -- -- -- -- -- -- -- -6
 
 -- -- -- -- -- -- -- -- -- -- -177
 -- -- -- -- -- -- -- -- -- -- -117
@@ -3185,9 +3192,9 @@ APPENDIX TABLE 2-B
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Time and Savings Deposits Mutual Short Total
-Peri Currec Demand Savings Credit Term 
+Peri Currec Demand Savings Credit 
 
-Com Non Total
+Term Com Non Total
 Currency Bank Union Sings U.S. mercial Deposit Gov't
 
 Deposits Total Other Than CD's CDs & S&L Shares Bonds Gov't Paper Funds Demand

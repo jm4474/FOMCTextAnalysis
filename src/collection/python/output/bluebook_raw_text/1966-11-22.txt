@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -830,7 +833,8 @@ MONEY SUPPLY AND BANK DEPOSITS
 
 SEASONALLY ADJUSTED WEEKLY AVERAGES OF DAILY FIGURES
 
-II OF DOLLRSBILLIONS OF DOLLARS
+II OF DOLLRS
+BILLIONS OF DOLLARS
 
 TOTAL MEMBER BANK DEPOSITS_
 
@@ -1170,7 +1174,10 @@ Retrospective Changes, Seasonally Adjusted
 Reserve A g re gates Monet arv Variab 1 es
 Required reserves M Time Money Supply
 
-Total Nd Against al MemeDeposits PrivateNonborrowed Bank Deposits Total DemandReserves Total Demand (coank DepositsTotal Demand
+Total Nd Against al MemeDeposits Private
+Nonborrowed Bank Deposits Total Demand
+
+Reserves Total Demand (coank DepositsTotal Demand
 __________ _______ Reserves Deposits (credit) 1/ banks) Deposits
 
 Annually:
@@ -1259,8 +1266,9 @@ Dec. 7 +665 -- -445 -170 + 50 + 50
 Jan. 4 - 70 -- +555 -225 +260 +260
 11 - 20 -- - 40 -290 -350 -350
 18 -670 -- +420 - + 50 -200 -200
-25 -235 -- +245 -225 -215 -215'
+25 -235 -- +245 -225 -215 -215
 
+'
 For retrospective details, see Table B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits, see T
@@ -1282,12 +1290,14 @@ Totl Supporting Supporting private deposits
 Total U. S. Gov't. Other than
 
 Period required demand Total Seasonal changes s ther than
-reee demand Total seasonal changesreserves
+reee demand Total seasonal changes
 
+reserves
 deposits Demand Time Demand Time
-ACTUAL
 
+ACTUAL
 Year:
+
 1964 (1/1/64 - 12/30/64) +766 + 13 +753 -222 - 12 +511 +476
 1965 (12/30/64 - 12/29/65) +1,188 - 89 +1,277 +115 - 4 +499 +667
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2260,9 +2263,10 @@ RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
 Reserve Aggregates 1  Monetary Variables Addenda
 1 2 3 Total 4 Money Supply 8 9 10
 
-Total Nonborrowed Member Adlusted 7 Time Thrift NonbankPeriod Total Nonboowed Member Adusted Private Deposits Instit. Commercial
-Reserves Reserves Bank Credit Proxy Total Currency Demand Adlusted Deposits Paper
+Total Nonborrowed Member Adlusted 7 Time Thrift Nonbank
+Period Total Nonboowed Member Adusted Private Deposits Instit. Commercial
 
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adlusted Deposits Paper
 ____Deposits Deposits
 
 Annually
@@ -3807,7 +3811,8 @@ Dollar Percentage Dollar Percentage
 
 Item June Sept. Oct.p Change Change Change Chan g e
 
-1. Money supply--M 1
+1. Money supply--M
+1
 
 2. Plus: Time deposits
 other than large CD's

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -125,7 +128,9 @@ M-1 4¼ 3.1 3 to 6 3/ 5.5
 M-2 8½ 6.9 5 to 8 8.3
 
 M-3 7½ 6.3 6 to 9 8.1
-4/Reserve Aggregates-
+4/
+
+Reserve Aggregates-
 
 Total Reserves 13½ 13.9 -- 2.8
 
@@ -1359,7 +1364,8 @@ S... . Alternative shorter-run growth rates
 
 S e
 
-r * *S*/
+r * *
+S*/
 
 I
 • '
@@ -2083,7 +2089,8 @@ UNDER ALTERNATIVE MONETARY ASSUMPTIONS
 
 Long-Run Alternative I
 
-1/Alt. A Alt. B- Alt. C
+1/
+Alt. A Alt. B- Alt. C
 (1) (2) (3)
 
 10% 12% 13%
@@ -3009,9 +3016,11 @@ Table 3 JAN. 4, 1980
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Tme ad vlnge IbaipeeIts Mutual Other
-Demn Savings Credit Short Term PrivatePeriod Currency Den n Tt Other Thn CDs Bank A Union v Ungs U.S.Gov't Short-term
+Demn Savings Credit Short Term Private
 
+Period Currency Den n Tt Other Thn CDs Bank A Union v Ungs U.S.Gov't Short-term
 Depsit Ttal sav Cgss S&L SharesI sonds"l Securities Assets
+
 ______________ Shares
 
 1 2 3 4 5 6 7 9 10 11 1
@@ -3542,7 +3551,9 @@ j(3)
 10.37
 10.45
 
-10.45p
+10.
+4
+5p
 
 (kU)
 

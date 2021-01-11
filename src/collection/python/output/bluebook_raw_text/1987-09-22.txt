@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -531,7 +534,8 @@ O N D J F M A M J J A S 0 N D
 
 S-3400
 
-3350I I I I I t I I I
+3350
+I I I I I t I I I
 
 1986 1987
 
@@ -1026,7 +1030,9 @@ Sept. II
 Short-term
 CDs money.deral Treasury bills comm. mark
 
-ey  bank
+ey  
+bank
+
 feeral / /secondary marketfndsecondary market paper mutual prime
 funds -3 [ ea 5 market .. mutual
 
@@ -1302,7 +1308,10 @@ Money stock measures and liquid assets Bank credit Domestic nonfinancial debt
 nontransactions total loans U.S.
 Period M1 M2 components M3 L and government
 
-2  other total2
+2  
+other total
+
+2
 
 In M2 In M3 only investment s
 1 2 3 4 S 6 7 9 10

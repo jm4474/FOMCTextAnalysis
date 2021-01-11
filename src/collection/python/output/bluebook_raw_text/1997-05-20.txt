@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -143,7 +146,10 @@ Selected Treasury Interest Rates
 PPI, GDP Emp.,
 
 Daily Emp. RSCPI ECI Budget
-FOMC ...F OMC  ... ..... . . .
+FOMC ...F O
+
+MC  
+... ..... . . .
 
 Ten-year
 
@@ -255,8 +261,8 @@ BAMMA:kmd
 . . ...
 . .
 
-I I I I I I I I I I I
-I ... ,
+I I I I I I I I I I 
+I I ... ,
 
 -1
 
@@ -1897,7 +1903,9 @@ CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
 
-Net purchases 3 agencies outrightPeriod Net 2 Redemptions Net - aRedemptions Net redemptions holdings 5
+Net purchases 3 agencies outright
+Period Net 2 Redemptions Net - aRedemptions Net redemptions holdings 5
+
 purchases (-) change 1 yer 1-5 5-10 over 10 (-) Change total 4 Net RPs
 
 1994

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1043,8 +1046,8 @@ SProjections are based on staff forecasts of GDP, money, and debt
 
 1980 1985 1990 1995
 
-i i i i i i i i i i i i l l i l l 
-i l
+i i i i i i i i i i i i l l i 
+l l i l
 
 7 1 1 1 1 1 1 1 1 1 1 1 1 II l i l l l l lIl l l l l l l
 
@@ -1792,7 +1795,9 @@ I I
 I
 
 J
-J 10*
+J
+
+10*
 
 1990 1991 1992
 
@@ -2750,7 +2755,8 @@ QIV 1990 - QIV
 
 3 - 6 (5.5)
 
-4 - 6.5 (7.3) 3 '4
+4 - 6.5 (7.3)
+3 '4
 
 3.5 - 6 (2.3) 3 .5
 
@@ -2833,7 +2839,11 @@ n.s (6.2)
 6 - 9 (8.8)
 6
 
-6 - 97  (7.1)6
+6 - 9
+7  
+
+(7.1)
+6
 
 8.5 - 11.5 (10.5)
 

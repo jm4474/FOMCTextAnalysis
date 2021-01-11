@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -293,7 +296,8 @@ Mar. '69p
 
 -6.7
 
-51/5.2-
+51/
+5.2-
 
 NOTE: Dates are inclusive.
 p--preliminary.
@@ -910,10 +914,12 @@ Mar.
 Reserve A gregates Monet a r Variab 1 es
 Required reserves Time Money Supply
 
-Total Against Deposits PrivateNonborrowed Bank Deposits
-Reserves Total Demand Bank De its (comm. Total Demand
+Total Against Deposits Private
+Nonborrowed Bank Deposits
 
+Reserves Total Demand Bank De its (comm. Total Demand
 Reserves (credit) / banks Deposits
+
 Deposits banks) ____ Deposits
 
 + 9.9
@@ -1870,7 +1876,9 @@ TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-S Total Nonborrowed equredreservePeriod reserves reserves Total Aainst private deposits
+S Total Nonborrowed equredreserve
+Period reserves reserves Total Aainst private deposits
+
 I __Total Demand
 
 1966--July

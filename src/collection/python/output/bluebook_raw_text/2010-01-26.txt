@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook, January 2010
 
 
@@ -1062,7 +1065,9 @@ Jan.
  20
 
 Dec.
-FOMCDaily
+FOMC
+
+Daily
 
 Spreads on 30-day commercial paper
 
@@ -1408,51 +1413,73 @@ Selected assets:
 Liquidity programs for financial firms -64 56 1,247 11/06/08 
 
 /08 
+
 /09
+
 /08 
+
 /08
 
 /08 
+
 /09
 
 /09
+
 /09 
+
 /09
+
 /08 
 
 /10 
 
 /08 
+
 /10
+
 /07
+
 /10 
+
 /10 
+
 /08
 
 10 
 
 /09
+
 /09 
+
 /09
+
 /08 
+
 /09
+
 09 
 
 pen 
 
 Primary, secondary, and seasonal credit -4 16 114 10/28
+
 Term auction credit (TAF) -47 
+
 Foreign central bank liquidity swaps -13 
+
 Primary Dealer Credit Facility (PDCF) 0 
 Asset-Backed Commercial Paper Money Market 
 
 Mutual Fund Liquidity Facility (AMLF) 0 
-Lending through other credit facilities -0 
 
+Lending through other credit facilities -0 
 Net portfolio holdings of Commercial Paper 
+
 Funding Facility LLC (CPFF) -1 
 
 Term Asset-Backed Securities Loan Facility (TALF) 1 
+
 Support for specific institutions 3 
 
 Credit extended to AIG, net 3 
@@ -1462,52 +1489,74 @@ Holdings LLC +0
 Net portfolio holdings of Maiden Lane LLC, Maiden
 
 Lane II LLC, and Maiden Lane III LLC -0 
+
 Securities held outright* 78 1
 
 U.S. Treasury securities +0 
+
 Agency securities 5 
+
 Agency mortgage-backed securities** 74 
 
 Memo: Term Securities Lending Facility (TSLF) 0 
+
 Total liabilities 19 2
 
 39 493 03/11
+
 1 586 12/04
+
 0 156 09/29
 
 0 152 10/01
+
 61 351 01/23
 
 13 351 01/23
+
 48 48 12/22
 
 113 118 04/02
+
 23 91 10/27
 
 25 25 01/20
 
 65 75 12/30
+
 ,910 1,910 01/20
+
 777 791 08/14
+
 162 162 01/20
+
 971 971 01/20
 
 0 236 10/01
+
 ,203 2,243 01/13/
 
 879 890 12/29
+
 ,063 1,169 11/27
+
 170 187 12/31
 
 5 559 10/22
+
 +0 53 04/14
+
 52 55 12/01/
 
 Selected liabilities: 
 Federal Reserve notes in circulation -3 
+
 Reserve balances of depository institutions -74 1
+
 U.S. Treasury, general account 127 
+
 U.S. Treasury, supplementary financing account -10 
+
 Other deposits -27 
 
 Total capital -1 
@@ -1531,7 +1580,6 @@ $1,149 billion.
  
 
   
- 
 
  
 
@@ -1546,6 +1594,9 @@ $1,149 billion.
  
 
  
+
+ 
+
  
 
  
@@ -3240,9 +3291,11 @@ Financial
 Markets 
 
 “conditions have  
-become more supportive” --- 
+become more supportive” 
 
+--- 
 “conditions remain 
+
 supportive” 
 
 “conditions have 
@@ -3260,7 +3313,9 @@ stimulus, market forces
 remains sluggish” 
 
 “bank lending  
-continues to contract” --- 
+continues to contract” 
+
+--- 
 
 Outlook 
 “likely to remain weak  
@@ -4249,16 +4304,20 @@ Baseline Scenario (Alternative B)  
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 Other loans and facilities SDR and other assets
 
 0
@@ -4277,16 +4336,20 @@ Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 January 21, 2010 Class I FOMC - Restricted Controlled (FR) Page 53 of 72
@@ -4319,16 +4382,20 @@ Alternative A  
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 Other loans and facilities SDR and other assets
 
 0
@@ -4347,16 +4414,20 @@ Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
  
@@ -4372,6 +4443,7 @@ January 21, 2010 Class I FOMC - Restricted Controlled (FR) Page 54 of 72
  
 
 Memo:
+
 December 
 Baseline
 
@@ -5465,6 +5537,7 @@ Net portfolio holdings of Maiden Lane LLC,
 ...Maiden Lane II LLC, and Maiden Lane III LLC
 
 Federal Reserve Balance Sheet: End‐of‐Year Projections ‐‐ Baseline Scenario
+
 Appendix C:  Table
 
 January 21, 2010 Class I FOMC - Restricted Controlled (FR) Page 72 of 72

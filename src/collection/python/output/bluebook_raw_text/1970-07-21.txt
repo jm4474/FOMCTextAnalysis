@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -922,9 +925,9 @@ lay -13.9 -19.0 -15.1
 June p + 0.2 + 5.8 +0.9
 
 total I o a L y 5 I , i I y ( i (nrrsa lrc Credit rl'xy + Addendum
-Member Bank i Pt iva t IDemand bink tie, huro-d lars + 
+Member Bank i Pt iva t IDemand bink tie, huro-d lars 
 
-Nonbank
++ Nonbank
 
 Deposits Total Currn P L)eposnts dPpsits other n o.lep, commercial
 p ___adjusted source, Lunds paper
@@ -1350,17 +1353,17 @@ o d
 156.2
 155.9
 
-Private demand deposits include demand deposits of individuals, partnerships, and 
-corporations and net interbank deposits.
+Private demand deposits include demand deposits of individuals, partnerships, 
+and corporations and net interbank deposits.
 
-Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial 
-banks.
+Includes currency outside the Treasury, the Federal Reserve, and the vaults of 
+all commercial banks.
 
-Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial 
-banks and the U.S Government, le
+Includes (1) demand deposits at all commercial banks, other than those due to domestic 
+commercial banks and the U.S Government, le
 
-process of collection and Federal Reserve float; and (2) foreign demand balances at Federal 
-Reserve Banks.
+process of collection and Federal Reserve float; and (2) foreign demand balances 
+at Federal Reserve Banks.
 
 Excludes Interbank and U.S. Government time deposits.
 Includes increases in required reserves due to changes in Regulations M and D of approximately $400 million since October 16, 1969.
@@ -1952,16 +1955,18 @@ S312.2
 314.2
 314.4
 
-1/ Private demand deposits include demand deposits of individuals, partnerships, and corporations 
-and net interbank deposits. p - Preliminary.
+1/ Private demand deposits include demand deposits of individuals, partnerships, and 
+corporations and net interbank deposits. p - Preliminary.
 
 2/ Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial banks.
 
-3/ Includes (1) demand deposits at all commercial banks, other than those due to 
-domestic commercial banks and the U.S Government, less cash items in
+3/ Includes (1) demand deposits at all commercial banks, other than those 
+due to domestic commercial banks and the U.S Government, less cash items 
 
-process of collection and Federal Reserve float, and (2) foreign demand blances at Federal 
-Reserve Banks.
+in
+
+process of collection and Federal Reserve float, and (2) foreign demand blances 
+at Federal Reserve Banks.
 
 4/ Excludes interbank and U.S. Government time deposits
 

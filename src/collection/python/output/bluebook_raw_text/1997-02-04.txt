@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1910,7 +1913,8 @@ Money market
 urrency Demand Other Small mutuLarge Short-term
 Period urrency 
 
-D ema nd  checkable Savings denomination denomination RP's' Eurodollars" Savings CTury ommercial Bankers
+D ema nd  
+checkable Savings denomination denomination RP's' Eurodollars" Savings CTury ommercial Bankers
 deposits depos time deposits' Retail' Institution- time deposits bonds securities paper acceptances
 
 only

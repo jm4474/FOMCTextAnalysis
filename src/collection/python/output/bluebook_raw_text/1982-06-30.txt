@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1092,9 +1095,14 @@ Percent June 28. 1982
 Short-Term Long-Term
 
 Treasury bills CDs money U.S. government constant corporate muni. home mortages
-Pertod federal se a uct secondary cucoy Eomm. market bank maturity yields Asa utility cipal secondary marketfunds market market paper mutual prime recently Bond primaryA
+Pertod federal se a uct secondary cucoy 
 
+E
+omm. market bank maturity yields Asa utility cipal secondary market
+
+funds market market paper mutual prime recently Bond primaryA
 _3.month| I1-year 6-month 3month &month fund loan 3year 10year 30yar offered Buyer con". auction security
+
 S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 1981-Hish
@@ -1418,9 +1426,10 @@ Millions of dollars, not seasonally adjusted
 
 June 28, 1982
 
-Treasury Treasury coupons net purchases 3  Federal agencies net purchases4  Net change
-Period bills net outright 
+Treasury Treasury coupons net purchases 3  Federal agencies net purchases
+4  Net change
 
+Period bills net outright 
 Ne t RP
 
 change 2  5within withi 1-5 5-10 over 10 totall Net Psl__ 1-year 1-5 5-10 over 10 total 1-year over 10 totai-ea -yeartoa
@@ -2015,7 +2024,8 @@ n.a.
 
 6 56p
 9 7 4 p
-606p
+6
+06p
 666p
 
 309
@@ -2052,7 +2062,10 @@ n.a.
 232
 258
 
-260p
+2
+6
+0p
+
 217p
 221p
 253p

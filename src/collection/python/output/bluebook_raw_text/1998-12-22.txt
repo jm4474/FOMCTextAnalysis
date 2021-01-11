@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -253,13 +256,17 @@ ailyOct.15
 Ease
 
 Jan Mar May Jul Sep Nov
-1998'Spreads of next-to-most-recently over most-recently issued security.
+1998
 
+'Spreads of next-to-most-recently over most-recently issued security.
 Note. New five- and thirty-year Treasury securities issued on 11/16.
 
 S&P 500 Implied Volatility Percent
 
-"H)gh yield spread is relative to the seve9 -year Treasury yield.
+"H)gh yield spread is relative to the seve
+9
+
+-year Treasury yield.
 BBB corporate spread is relative to the ten-year Treasury yield.
 
 Implied Interest Rate Volatilities Percent
@@ -284,7 +291,8 @@ Jan Mar May Jul
 
 1998
 
-:1 */
+:1
+*/
 
 Sep Nov
 
@@ -2317,7 +2325,8 @@ December 16
 
 December 18, 1998
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

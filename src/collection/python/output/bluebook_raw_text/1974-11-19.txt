@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1113,7 +1116,8 @@ II
 34.842 Ifl
 (34,8991 II
 
-tIIIt
+tIII
+t
 I,
 It
 fIII
@@ -1323,7 +1327,8 @@ QUARTERLY I
 ---- I
 
 1974--1ST QTR.
-2ND OTR, I3NO QTR,3RD QTR I
+2ND OTR, I3NO QTR,
+3RD QTR I
 
 MONTHLY
 
@@ -1694,12 +1699,27 @@ p 10
 4
 p -3,772 - 8,383
 
-Nov. 6 *2,518 * 534 93 202 302p 1,12 7p 79p -5,158p - 8,672p
-13 *2,962 * 1,919 138p 198p 177p 1,098 p 70p -7 ,8 70p - 9,53 0p
+Nov. 6 *2,518 * 534 93 202 302p 1,1
+2
+7p 79p -5,158p - 8,672p
+
+13 *2,962 * 1,919 138p 198p 177p 1,0
+98
+
+p 70p -
+7
+,
+8 7
+
+0p - 9,5
+3
+0p
+
 20
 27
 
-NOTE: Government security dealer trading positions are on a commitment basis. Trading positions, which exclude Treasury bills financed by repurchase agreements
+NOTE: Government security dealer trading positions are on a commitment basis. Trading positions, which exclude Treasury bills financed by repurchase 
+agreements
 
 maturing in 16 days or more, are indicators of dealer holdings available for sale over the near term. Other security deater positions are oeoc issues
 still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing at Federal Reserve less net Federal funds
@@ -2226,7 +2246,10 @@ MEASURES MEASURES
 Available Total Time Thrift
 Period to Adlusted Loans T Tft Non US
 
-Total Non Support M 1  M 2  M3  Credit and Total Other Insti CD's deposit Gov'tborrowed Private 1  2  Proxy Invest Time Than tunton Funds Demand
+Total Non Support M 1  M 2  M3  Credit and Total Other Insti CD's deposit Gov'tborrowed Private 
+1  2  
+
+Proxy Invest Time Than tunton Funds Demand
 Deposits I I ments CD's Deposits
 
 2 3 4 5 6 7
@@ -2959,7 +2982,9 @@ RESERVES MONEY STOCK MEASURES ASURESOTHER
 Period Available Total Time Thrift
 Non to M1 Adl Loans To Other Insti on U S
 
-Total n Support M2 3 Credit and Total Other nst CD's deposit Gov'tborrowed Sport M2  M3  Credit an Time Than tution dPvt Put Proxy Invest CD'sFunds Demand
+Total n Support M2 3 Credit and Total Other nst CD's deposit Gov't
+borrowed Sport M2  M3  Credit an Time Than tution dPvt Put Proxy Invest CD'sFunds Demand
+
 Deposits T Dep ments
 
 ANNUALLY

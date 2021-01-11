@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1251,8 +1254,9 @@ Seasonally adjusted October 2, 2000
 Money stock measures Domestic nonfinancial debt
 
 nontransactions components .
-Period M1 M2 M3 other' total'In M2 In M3 only government' 
+Period M1 M2 M3 other' total'
 
+In M2 In M3 only government' 
 o t he r
 
 1 2 3 4 5 6 7 8
@@ -1329,9 +1333,13 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs
 Agency total
 
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
-Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term
+Purchases
 
-6 Term 7 Change
+2
+(-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term
+
+6
+Term 7 Change
 
 1999 OQI
 

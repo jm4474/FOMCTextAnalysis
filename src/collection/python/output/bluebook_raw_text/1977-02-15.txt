@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1302,7 +1305,8 @@ M1  M2
 
 Old Revised Old Revised
 
-M3
+M
+3
 
 Old Revised
 
@@ -2861,9 +2865,10 @@ BANK RESERVES MEASURES MEASURES
 Total
 Period Adj. Loans
 
-Total Non Monetary Credit and M 1  M2 M 3  M4 M5 M 6  M7borrowed Ba proxy Invest-
-ments
+Total Non Monetary Credit and M 1  M2 M 3  M4 M5 M 6  M7
+borrowed Ba proxy Invest-
 
+ments
 .... 6_ mm I
 
 ANNUALLY:
@@ -3512,8 +3517,8 @@ P - PRELIMINARY.
 
 
 
-APPENDIX TABLE 2-B FEB. 11, 
-1977
+APPENDIX TABLE 2-B 
+FEB. 11, 1977
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 

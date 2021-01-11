@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1118,7 +1121,8 @@ p - preliminary data
 
 Strictly Confidential (FR)-
 
-Money and Credit Aggregate Measures class11 FOM
+Money and Credit Aggregate Measures class11 
+FOM
 
 Seasonally adjusted SEPTFAER 23, 199
 
@@ -1128,7 +1132,9 @@ nontransaclions components
 total loans
 
 Period Ml M2 M3 L and U. S. other2  totalz
-In M2 In M3 only investments' government 2
+In M2 In M3 only investments' government
+
+2
 
 1 2 3 4 5 6 7 8 9 10
 Annual arowth rates( ):
@@ -1201,7 +1207,11 @@ Money market
 Other Small mutual funds Large Short-term
 Peiod Currency Demand checkable Savings denomination denomination RP's
 
-.  Eurodolars Savins Treasury Commerc Bankersdemand deposits' esecuries papel acceptances'deposits deposits depo time deposit Retai Institution- time deposits bo  securities acceptances
+.  
+Eurodolars Savins Treasury Commerc Bankersdemand deposits' esecuries papel acceptances'deposits deposits depo time deposit Retai Institution- time deposits 
+
+bo  
+securities acceptances
 
 only
 
@@ -1367,7 +1377,9 @@ _-
 1,279
 
 12791,279
----_-. _---.
+---_
+-. _
+---.
 ---.
 
 ---_

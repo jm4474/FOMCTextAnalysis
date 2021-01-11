@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1033,7 +1036,9 @@ REQUIRED AGAINST --
 PRIVATE DEMAND DEPOSITS lo-n
 
 ________ __ -mm
-/ _
+/ 
+
+_
 
 an m 00 o soWo*
 
@@ -1162,8 +1167,9 @@ Weekly:
 23 -519 -- + 56 +415 - 47 -108 + 61
 
 Mar. 2 -115 -- +143 - 19 + 10 +115 -105
-9 +450 - -528 + 8 - 71 -138 + 6716 -100 -- + 90 + 86 + 76 + 73 + 3
+9 +450 - -528 + 8 - 71 -138 + 67
 
+16 -100 -- + 90 + 86 + 76 + 73 + 3
 23 p - 3 - 29 + 16 +288 +273 +263 + 10
 30 p + 71 - 72 +226 -448 -225 -126 - 9Apr. 6 p +512 + 1 -399 +107 +97 .99 +12
 
@@ -1218,10 +1224,13 @@ CHANGES IN REQUIRED RESERVE COMPONENTS
 Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-Total Supporting Supporting private depositsU. S. Gov't. Other thanPeriod required demand Total Seasonal changes seasonal chan
-reee demand Total seasonal changes
+Total Supporting Supporting private deposits
+U. S. Gov't. Other thanPeriod required demand Total Seasonal changes seasonal chan
 
-reservesrese s deposits Demand Time Demand Time
+reee demand Total seasonal changes
+reserves
+
+rese s deposits Demand Time Demand Time
 ACTUAL
 
 Year
@@ -1474,7 +1483,8 @@ U. S. Government securities
 Bill
 Outright Repurchase
 
-nr tm~~( c fot an, s B--1--, 4 *- --- '' 4- - -. _ _ _ _ _ 1
+nr tm~~( c fot an, s B
+--1--, 4 *- --- '' 4- - -. _ _ _ _ _ 1
 
 Bankers'
 acceptances

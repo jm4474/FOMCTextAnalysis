@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -680,10 +683,12 @@ Retrospective Changes, Seasonally Adjusted
 Reserve A gr e ates Monetary Variables
 Required reserves Time Money Supply
 
-Total MemberTotal Against Deposits Private
-Reserves Total Demand (comm. Total Demand
+Total Member
+Total Against Deposits Private
 
+Reserves Total Demand (comm. Total Demand
 Deposits banks) Deposits
+
 annually:
 
 1963 + 3.5 + 3.5 + 3.8 + 1.7 + 7.5 +14.7 + 3.8 + 3.2
@@ -899,9 +904,12 @@ Retrospective and Prospective
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Factors affecting supply of reserves = Change = Bank use of reserves
-Period Federal Reserve Gold Currency Technical in Requiredcredit (excl. outside factors total reserves
+Period Federal Reserve Gold Currency Technical in Required
 
-float) 1/ stock banks net 2/ reserves 3/ reserves+ 
+credit (excl. outside factors total reserves
+
+float) 1/ stock banks net 2/ reserves 3/ reserves
++ 
 
 I~
 

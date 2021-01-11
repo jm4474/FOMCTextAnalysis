@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -366,9 +369,10 @@ Jun Aug Oct Dec Feb Apr Jun Aug Oct
 Nominal Trade-Weighted Dollar
 Exchange Rates Ir
 
-Daily----y Broad Index
-.. . Major Currencies Index
+Daily
+----y Broad Index
 
+.. . Major Currencies Index
 Other Important Trading
 Partners
 
@@ -1256,9 +1260,11 @@ Short-term Long-term
 CDs Conventional home
 
 STreasury bills se ary Comm. U.S. goverment constant Indexed yields M dy's B ond p rimar market
-Federal secondary market market paper maturity yields Baa Buyer ra arBuyer
+Federal secondary market market paper maturity yields Baa Buyer ra ar
 
+Buyer
 3-month 6-month 1-year 3-month 1-month 3-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
+
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 98 -- High
@@ -1609,7 +1615,8 @@ November 3
 Memo: LEVEL (bil. $) 6
 November 10
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -975,7 +978,12 @@ Waily-Oct. 24
 
 5.83
 5.83
-5 .9 5p
+5
+
+.
+9 5
+
+p
 
 8.65
 6.77
@@ -1410,10 +1418,17 @@ Money and Credit Aggregate Measures Strictly Confidential (FR)-
 Seasonally adjusted
 NOV. 3, 1986
 
-Money stock measures and liquid assets Bank credit Domestic nonfinancial debt2
+Money stock measures and liquid assets Bank credit Domestic nonfinancial debt
+2
 
 nontransuclions total loans U.S.
-PRrlod M1 M2 components M3 L and goernment 2  other2  tlolal
+PRrlod M1 M2 components M3 L and goernment
+
+2  
+other
+
+2  
+tlolal
 
 In M2 In M3 only invs_ tment 
 1

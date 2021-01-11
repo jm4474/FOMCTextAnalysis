@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -854,10 +857,12 @@ Retrospective Changes, Seasonally Adjusted
 Reserve Ag gr e ates Monet ary Variables
 Required reserves Total Member Time Mone Su pply
 
-Total Nonbor ed Against Bank Deposits Deposits PrivateNonborroved Bank DepositsReserves Reserves Total Demand (credit) 1/ (comm. Total Demand
-Deposits - banks) - Deposits
+Total Nonbor ed Against Bank Deposits Deposits Private
+Nonborroved Bank DepositsReserves Reserves Total Demand (credit) 1/ (comm. Total Demand
 
+Deposits - banks) - Deposits
 Annually:
+
 1965
 1966
 
@@ -1192,7 +1197,8 @@ NOT SEAS ADJ, WEDNESDAYS
 2
 
 0 I I I |
-S D M J S D1966 SES967WENSDY
+S D M J S D
+1966 SES967WENSDY
 1966 1967
 
 
@@ -1291,7 +1297,10 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 
 credit (excl. o outside factors total reserves
-stock reservesfloat) 1/ s  k  banks net 2/ reserves 3/
+stock reserves
+
+float) 1/ 
+s  k  banks net 2/ reserves 3/
 
 Year:
 1965 (12/30/64 - 12/29/65) +4,035 -1,602 -2,143 + 798 +1,089 +1,188 - 99

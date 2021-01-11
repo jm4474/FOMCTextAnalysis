@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1226,7 +1229,10 @@ Daily--Mar. 15
 8.55
 
 8.00
-7. 8 0p
+7.
+
+8
+0p
 
 8.31
 8.21
@@ -1441,7 +1447,10 @@ Millions of dollars March 25, 1985
 Cash Positions Forward and Futures Positions
 TreasY coupons Treasuy coupon* I
 
-Period Net 1  Tresuy under over federal private Treasury under over edral private
+Period Net
+1  
+
+Tresuy under over federal private Treasury under over edral private
 Total bills 1 year 1 year agency shor-term bills 1 yewr 1 year agency short-term
 
 1983--Nigh
@@ -2048,7 +2057,9 @@ LEVEL--Mar. 21
 
 Treasury
 bills net
-change2
+change
+
+2
 
 -3,052
 5,337
@@ -2102,7 +2113,8 @@ Treasury coupons net purchases
 Federal agencies net purchases
 4
 
-within 1-5 5-10 over 10 total within 1-5 5-10 over 10 total1-year 1-year I
+within 1-5 5-10 over 10 total within 1-5 5-10 over 10 total
+1-year 1-year I
 
 2,138
 1,702

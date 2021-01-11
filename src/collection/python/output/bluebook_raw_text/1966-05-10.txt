@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1509,9 +1512,10 @@ Seasonally adjusted
 
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-Total member Private U. S. Gov't.Time
-Monthly bank deposits demand demand
+Total member Private U. S. Gov't.
+Time
 
+Monthly bank deposits demand demand
 (credit)1/ deposits deposits 2/ deposits
 
 1964--January 202,981 93,563 104,407 5,011

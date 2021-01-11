@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1080,7 +1083,8 @@ Oct. 1 -1,116 320 1,436 95 531 257 553
 
 29 -1,099 80 1,179 53 322 293 511
 
-Nov. 5 -1,032 296 1,328 121 422 295 490
+Nov. 5 -1,032 296 1,328 121 422 295 
+490
 
 12 - 873 371 1,244 350 296 189 409
 
@@ -1119,8 +1123,8 @@ Retrospective Changes, Seasonally Adjusted
 Reserve Apggre g a t e s Monetary V riab I 1 c s
 Honey Sup p 1 y L unt r rcial Credit Prxy +
 
-Period Total Nonborrowed Required bank time Eur l-d lart. +Member Bank iPrivate Demand' bak time Euro-d 
-lars +
+Period Total Nonborrowed Required bank time Eur l-d lart. +Member Bank iPrivate Demand' bak time 
+Euro-d lars +
 
 Reserves Reserves Reserves Deposits lotal Currency D posts deposits other noridep
 
@@ -1551,17 +1555,17 @@ I I I I I - I _ _ _ _ _ _ _ _.
 155.1
 153.1
 
-Private demand deposits include demand deposits of individuals, partnerships, and corporations 
-and net interbank deposits.
+Private demand deposits include demand deposits of individuals, partnerships, and 
+corporations and net interbank deposits.
 
-Includes currency outside the Treasury, the Federal Reserve, and the vaults of all 
-commercial banks.
+Includes currency outside the Treasury, the Federal Reserve, and the vaults 
+of all commercial banks.
 
-Includes (1) demand deposits at all commercial banks, other than those due to domestic 
-commercial banks and the U.S. Government, less
+Includes (1) demand deposits at all commercial banks, other than those due to 
+domestic commercial banks and the U.S. Government, less
 
-process of collection and Federal Reserve float; and (2) foreign demand balances 
-at Federal Reserve Banks.
+process of collection and Federal Reserve float; and (2) foreign demand 
+balances at Federal Reserve Banks.
 
 Excludes interbank and U.S. Government time deposits.
 

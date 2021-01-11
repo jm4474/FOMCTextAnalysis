@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -659,7 +662,8 @@ ON D J F MA M J J A S ON D J F MA M J J A S ON D
 3850
 I I I I
 
-^^<*
+^
+^<*
 
 
 
@@ -2124,7 +2128,8 @@ p-pr liminary
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS ON SECURITIES1
+NET CHANGES IN SYSTEM HOLDINGS ON SECURITIES
+1
 
 December 18, 1989 Millions of dollars, not seasonally adjusted
 STRICTLY CONFIDENTIAL (FR)
@@ -2174,7 +2179,8 @@ Nov. 1
 Dec. 6
 13
 
-Memo: LEVEL (bil.$)6
+Memo: LEVEL (bil.$)
+6
 
 December 13
 

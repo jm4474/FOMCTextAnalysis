@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -330,7 +333,8 @@ Bank credit -.9 1.7 -.1 2.4
 
 Reserve measures
 
-1Nonborrowed reserves 10.5 -8.1 4.8 15.3
+1
+Nonborrowed reserves 10.5 -8.1 4.8 15.3
 
 Total reserves 12.1 -6.3 6.2 15.5
 
@@ -476,7 +480,8 @@ the alternatives.4  Ml, on the other hand, is likely to expand at a
 
 double-digit pace over coming months, boosted by mortgage prepayments,
 
-low time deposit rates, and special factors.5
+low time deposit rates, and special factors.
+5
 
 Alt. A Alt. B Alt. C
 
@@ -1696,8 +1701,9 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-SR mp s Nt rhass 3 agencies outrightPeriod Net 2 Redemptions Net Redemptions Net redemptions holdings 5
+SR mp s Nt rhass 3 agencies outright
 
+Period Net 2 Redemptions Net Redemptions Net redemptions holdings 5
 purchases (-) change yea 1-5 5-10 over 10 (-) Change (') total 4 Net RPs
 
 1989

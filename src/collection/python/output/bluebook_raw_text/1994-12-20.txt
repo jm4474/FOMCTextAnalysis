@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -924,7 +927,8 @@ Billions of Dollars
 - Actual Level
 * Short-Run Alternatives
 
-c*
+c
+*
 
 3800
 
@@ -1831,7 +1835,10 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-Net purchases 3  agencies outrightPeriod Net 2 Redemptions Net i th Redemptions Net redemptions holdings 5
+Net purchases 
+
+3  agencies outright
+Period Net 2 Redemptions Net i th Redemptions Net redemptions holdings 5
 
 purchases (-) change 1 1-5 5-10 over 10 (-) Change I total 4 Net RPs
 
@@ -1973,11 +1980,13 @@ December 14
 1,103
 1,117
 
-938-. _
+938
+-. _
 
 938
 
-660---
+660
+---
 
 .--
 
@@ -2195,7 +2204,9 @@ in exchange for maturing bills. Excludes maturity shifts and rollovers of maturi
 
 December 14
 
-nihin1 year 1-5 5-10 over 10 total
+nihin
+1 year 1-5 5-10 over 10 total
+
 1.7 1.4 0.5 0.0 3.6
 
 90.0 28.1 34.8

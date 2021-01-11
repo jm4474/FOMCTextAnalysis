@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -699,7 +702,8 @@ MARGINAL RESERVE MEASURES
 (Dollar amounts in millions, based on period averages of daily figures)
 
 Member Banks Borr owings
-Period free I Exess R e s e r v e C i t y iPeriod Free Excess IReserve C ty
+Period free I Exess R e s e r v e C i t y i
+Period Free Excess IReserve C ty
 
 reserves i reserves Total Major banks Other CountrN
 8 N.Y. Outside N Y.
@@ -925,7 +929,10 @@ February
 March
 April p
 
-Reserve Aggregates 5/ Member Bank DepositsCunnnrtdA br Rn. uira4 DOe ruas
+Reserve Aggregates 5/
+Member Bank Deposits
+
+CunnnrtdA br Rn. uira4 DOe ruas
 
 Total Nonborrowed Required Total Time Private U.S. Cov't.|
 Total Required member bank dpi Idemand demandreserves reserves reserves 
@@ -1194,7 +1201,8 @@ I do l
 
 7(11 .
 
-199.119' . '201 . )
+199.119' . '
+201 . )
 20 1. 6
 
 1 a rs
@@ -1395,7 +1403,9 @@ Apr. 1
 Resc% egregat s
 
 Total Nonbol rowed Required
-reserves reserves I ese ves me
+reserves reserves I ese ves
+
+me
 
 (In millions of dollars)
 27,409 26,194 26,957
@@ -1872,8 +1882,8 @@ S / funds
 
 2 Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial banks.
 
-3/ Includes (1) demand deposits at all commercial banks, other than these due to domestic commercial banks and the U.S Government, less cash items 
-in
+3/ Includes (1) demand deposits at all commercial banks, other than these due to domestic commercial banks and the U.S Government, 
+less cash items in
 
 process of collections and Federal Reserve float; and (2) foreign demand balances at Federal Reserve Banks.
 4/ Excludes interbank ar U.S. Government time deposits.

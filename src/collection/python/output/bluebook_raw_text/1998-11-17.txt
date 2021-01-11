@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -211,9 +214,10 @@ S- .... Money Center Banks
 
 Index(1/98) = 100 Dollar Exchange Rate Indexes Index (1/98 = 100)
 
-Daily i-Dy Trade-Weighted Broad Index (Nominal)*
-. Trade-Weighted Oct. 15
+Daily i
+-Dy Trade-Weighted Broad Index (Nominal)*
 
+. Trade-Weighted Oct. 15
 Narrow Index (Nominal)# Ease
 
 A Sep. 29
@@ -238,7 +242,8 @@ ilyOct. 15Ease
 
 Jan Mar May Jul Sep Nov
 
-1998 er mo r"Spreads of next-to-most recently issued security over most recently issued security.
+1998 er mo r
+"Spreads of next-to-most recently issued security over most recently issued security.
 
 Interest Rate Spreads
 (Over Treasuries) Percentage Points
@@ -1292,10 +1297,12 @@ growth in M2 and M3 over coming months.
 Short-Term Long-Term
 Treasury bills Cos corporate conventional home
 
-deral seC comm. U.S. government constant Indexed yields A-u municipal mortgagesfederal secondary market seonary paper maturity yields I mBond primary market
-funds recently BuOr
+deral seC comm. U.S. government constant Indexed yields A-u municipal mortgages
+federal secondary market seonary paper maturity yields I mBond primary market
 
+funds recently BuOr
 3-month 6-month 1-year 3-month 1-month 3-year 5-year 10-year 30-year 5-year 10-year offered fixed-rate ARM
+
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 97 -- High
@@ -1481,13 +1488,15 @@ Strictly Confidential (FR)
 
 Money and Debt Aggregates Class FOMC
 
-Seasonally adjusted November 16, 
-1998
+Seasonally adjusted November 
+16, 1998
 
 Money stock measures and liquid assets Domestic nonfinancial debt
 
 nontransactions components U.
-Period M1 M2 M3 other' total'In M2 In M3 only government' other
+Period M1 M2 M3 other' total'
+
+In M2 In M3 only government' other
 
 1 2 3 4 5 6 7 a
 Annual growth rates(%)t
@@ -1548,7 +1557,8 @@ pe preliminary estimate
 
 November 13, 1998
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

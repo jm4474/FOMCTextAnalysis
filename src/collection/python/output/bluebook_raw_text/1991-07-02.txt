@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1015,8 +1018,10 @@ SProjections are based on staff forecasts of GNP and money.
 
 -1 1.5
 
-1990I 
-I I I I I I I I I I I II I I I I I I I IILI I I I I I I I I I I I I I 1 I I I I I I I I 1.~
+1990
+I I I I I I I I I I 
+
+I I II I I I I I I I IILI I I I I I I I I I I I I I 1 I I I I I I I I 1.~
 
 
 
@@ -2999,7 +3004,8 @@ in M
 
 Strictly Confidential (FR).
 
-Components of Money Stock and Related Measures Class FOMC
+Components of Money Stock and Related Measures Class 
+FOMC
 
 seasonally adjusted unless otherwise noted JUL. 1, 1991
 

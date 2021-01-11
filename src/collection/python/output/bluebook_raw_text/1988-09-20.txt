@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1497,7 +1500,8 @@ NOTE: Meekly data for columns 1 through 11 are statement week averages. Data in 
 
 are 1-day quotes for Friday, Thursday or Friday, respectively, following the end of the statement week. Column 13 is the Bond Buyer revenue index. Column 14
 
-is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average contract rate on nw commitments for
+is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average contract rate on nw commitments 
+for
 
 fixed-rate mortgagesiFRls) with 80 percent loan-to-value ratios at a sample of savings and loans. Column 16 is the average initial contract rate on new
 
@@ -2391,7 +2395,10 @@ __ __ _ __ __ _ j __ _I_ __J_ _ I ___ J _ _I_ _ I __ _I __ _ _ _ I_ _ _ _
 
 38.9
 
-time deposits.1. Net of money market mutual fund holdings of these items.2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small
+time deposits.1. Net of money market mutual fund holdings 
+of these items.
+
+2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small
 3. Excludes IRA and Keogh accounts.
 4. Net of large denomination time deposits held by money market mutual funds and thrift institutions.
 
@@ -2446,7 +2453,8 @@ Aug. 3
 Sept. 7
 14
 
-Memo: LEVEL (bil.$)6
+Memo: LEVEL (bil.$)
+6
 
 Sept. 14
 

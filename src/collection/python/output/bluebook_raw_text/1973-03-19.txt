@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -962,7 +965,10 @@ CHART 4
 MONEY MARKET CONDITIONS AND INTEREST RATES
 
 ONEY MARKET CONDITIONS INTEREST RATES Short-term INTEREST RATES Long-term
-WEEKLY AVERAGES PER CENT WFFKLY AVFRAGF '  PER CENT WFEKLY PER CENT
+WEEKLY AVERAGES PER CENT WFFKLY AVFRAGF
+
+'  
+PER CENT WFEKLY PER CENT
 
 7 -9 -9
 
@@ -971,7 +977,8 @@ FNMA MONDAY AUCTION
 
 FEDERAL FUNDS 1 I~
 
-5  -  7  Aaa UTILITY
+5  -  7  
+Aaa UTILITY
 NEW ISSUE
 
 EURO DOLLARS
@@ -1244,7 +1251,8 @@ PROJCTOED PROJCTED I REStRVfS RESERVES I DERANO DEPOSITS INTFIRRN
 31.945
 31.496
 
-11 .?7431.7at
+11 .?74
+31.7at
 
 -6.1
 15.5
@@ -2684,10 +2692,12 @@ A
 . Credit I.ans and Total Other than nstltution Deposit Gov't.
 er Ttalts Total 2 
 
-3 roxy Investments Time CO's Desosits CD's Fu.nds Demand
-(1) (2)
+3
+roxy Investments Time CO's Desosits CD's Fu.nds Demand
 
+(1) (2)
 Annually:
+
 0ec. 1968 27,219 26,416
 1ec. 1969 27,959 26,699
 bDc. 1970 29,121 28,727

@@ -46,6 +46,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1455,8 +1458,8 @@ Money stock measure Domestic nonfinanclal debt
 nontransactlons components
 Period M1 M2 M3 other' tota
 
-In M2 In M3 only government' ther 
-tot
+In M2 In M3 only government' 
+ther tot
 
 1 2 3 4 5 78
 

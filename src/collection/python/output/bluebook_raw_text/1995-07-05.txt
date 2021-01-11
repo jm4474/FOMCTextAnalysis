@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1989,7 +1992,8 @@ QIV 1994 - QIV 1995"
 
 4 - 6.5 (7.3)2 3
 
-3.5 - 6 (2.3) 24
+3.5 - 6 (2.3)
+24
 
 2.5 - 5.5 (8.5) 2
 
@@ -2114,7 +2118,8 @@ Footnotes on following page
 
 1-5
 
-0 - 420-4 ' 2
+0 - 420-4 '
+2
 
 0-4
 
@@ -2178,7 +2183,8 @@ Footnotes on following page
 
 4.5 - 8.5
 
-4 - 8 12
+4 - 8
+12
 
 4-8
 
@@ -2438,7 +2444,10 @@ Mo ey stock measures and liquid assets Bank credit I Domestic nonfinanclal debt'
 nontransactlons components total loans
 total loans
 
-Period M1 M2 M3 L and U.S. other=  total'
+Period M1 M2 M3 L and U.S. other
+=  
+
+total'
 In M2 In M3 only investments' government'
 
 1_ 2 3 4 5 7 8 9 10
@@ -2516,14 +2525,15 @@ Other RPs and denomi- general denomi- Term Term
 Period Currency Demand checkable Euro- Savings nation purpose Institutions nation RP's Euro Savings ort-ter ommeral ankers
 
 deposits deposits dollars deposits' time and time NSA dollars bonds Treasury paper accepan-
-NSA' deposits' broker/ only deposits NSA' securities ces
+NSA' deposits' broker/ only deposits NSA' securities 
 
+ces
 dealer
+
 1 2 3 4 6 7 8 9 10 11 12 13 14 1S
-
 Levels thSDllions i
-Annual (04)
 
+Annual (04)
 1992
 1993
 1994

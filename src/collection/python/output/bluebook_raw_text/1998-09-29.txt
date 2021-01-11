@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -164,8 +167,8 @@ rodollar Futures Percent
 
 09/25/98
 
-... .. . . . .
-.
+... .. . . .
+. .
 
 12/98 3/99 6/99 9/99
 Contract Months
@@ -1107,7 +1110,9 @@ Actual and Projected M3
 Billions of Dollars
 6100
 
-SA' 6000SA
+SA' 6000
+SA
+
 - Actual Level * B
 
 * Short-Run Alternatives
@@ -2046,7 +2051,8 @@ September 23
 
 1,769
 
-1.049720* ..°.
+1.049720
+* ..°.
 
 1,776 7,941
 2,015 5,179

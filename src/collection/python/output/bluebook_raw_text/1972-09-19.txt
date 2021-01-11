@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1540,7 +1543,8 @@ Sept. 6
 
 30,418-30,619' (30,678)
 
-;::::::::::;:::::::;:::::::::::::^:::::............... ::: :::
+;::::::::::;:::::::;:::::::::::::^:::::
+............... ::: :::
 
 .........:..... :.........
 
@@ -4067,7 +4071,8 @@ October 1, 1970. Adjusted credit proxy includes mainly total member banks deposi
 borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for nonbank commercial paper figures which
 are for last day of month. Weekly data are not available for M
 
-3 , total loans and investments and thrift institution deposits.
+3 , 
+total loans and investments and thrift institution deposits.
 
 p - Preliminary.
 

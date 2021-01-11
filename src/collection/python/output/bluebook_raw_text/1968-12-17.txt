@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -477,7 +480,9 @@ o dollars
 + 8.7
 + 5.3
 
-BankBank Money
+BankBank 
+Money
+
 Credit upply
 
 Proxy
@@ -1191,7 +1196,9 @@ Required reserves T l Member Time Money Supply
 Total Against Deposits Private
 Nonborrowed Bank Deposits ?  ^Reserves Nonborrowed Total Demand Bank Deposit (comm. Total Demand
 
-Reserves (credit) I/Reee : Deposits (c ) banks) ___Deposits
+Reserves (credit) I/
+Reee : Deposits (c ) banks) ___Deposits
+
 Annually:
 
 1966 + 1.3 + 0.8 + 1.5 - 0.2 + 3.8 (+ 4.5) + 8.7 + 2.2 + 1.2
@@ -2053,7 +2060,9 @@ TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-Total Nonborrowed Required reervesPeriod reserves Total Aainst private deposits
+Total Nonborrowed Required reerves
+Period reserves Total Aainst private deposits
+
 reserves reserves TotalTotalDemandTotal Demand
 
 1966--Jan.

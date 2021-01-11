@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1392,7 +1395,9 @@ Money stock measures and liquid as sets Bank credit Domestic nonfinancal debt'
 
 nontransacions components total loans
 
-Period M1 M2 M3 L and U. S. other z  total=
+Period M1 M2 M3 L and U. S. other
+z  total=
+
 In M2 In M3 only investments' go0emment
 
 1 2 3 4 5 8 7 10
@@ -1815,12 +1820,15 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-Netpurchases 3  agencies outright
+Netpurchases
 
+3  agencies outright
 Period Net 2 Redemptions Net witp Redemptions Net redemptions holdings
-purchases (-) change 1 yea 1-5 5-10 over 10 () Change _ total 
 
-4 Net RPs
+purchases (-) change 1 yea 1-5 5-10 over 10 () Change _ total 
+4
+
+Net RPs
 
 1993
 1994

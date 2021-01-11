@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1178,7 +1181,8 @@ Actual 3-week Avg.
 7/ 7/
 40,294- 38,660- 40,683
 
-40,683 e 38,660 e 40,683 e
+40,683 e 38,660 e 40,683
+e
 
 1/ Total and nonborrowed reserves paths adjusted upward by $126 million to reflect
 changing sources of NOW accounts and deposit strength in week of April 8, 1981,
@@ -1803,18 +1807,35 @@ Apr. 1 14.93 12.70 11.93 12.08 13.75 13.38 17.50 13.45 13.24 12.79 14.87 14.89 1
 29 16.28 14.16 13.29 14.04 15.48 14.92 17.43 14.49 13.92 13.38 16.12 16.26 10.94 15.82 16.61 14.81r
 
 May 6 18.91 15.73 14.03 15.10 17.44 16.84 18.43 15.10 14.38 13.86 15.94 15.62 10.90 16.12 -- 15.46r
-13 18.21 16.72 14.65 15.53 18.70 18.04 19.21 15.36 14.37 13.88 15. 83p 15.73p 10.83 n.a. 17.21 15.37
+13 18.21 16.72 14.65 15.53 18.70 18.04 19.21 15.36 14.37 13.88 15.
+
+83
+p 15.73p 10.83 n.a. 17.21 15.37
+
 20
 27
 
 Daily--May 8 18.14 16.48 14.50 -- 18.73 18.04 19.00 15.21 14.23 13.76 .... .
 13 18.26 17.01 14.82 18.87 18.19 19.50 15.52 14.49 13.95
-14 18 . 8 8 p 16.67 14.65 - 19.01 18.29 19.50 15.35p 1
+14 1
 
-4 .33p 13 . 6 3p .
+8
+.
 
-moI l'. wf klv d'l n for rclo,, I, 9 , 1and 5 ilrluii'll 10 ,.- stalIi wee av ri)<- of dqhl v di .i W l ( 1v ditA i (ol lmi /i 
-.11 * w ra W1 tc' - t ial lIhi
+8 8
+p 16.67 14.65 - 19.01 18.29 19.50 15.35p 1
+
+4
+.33p 1
+
+3
+.
+
+6
+3p .
+
+moI l'. wf klv d'l n for rclo,, I, 9 , 1and 5 ilrluii'll 10 ,.- stalIi wee av ri)<- of dqhl v di .i W l ( 1v ditA 
+i (ol lmi /i .11 * w ra W1 tc' - t ial lIhi
 
 
 
@@ -2122,7 +2143,9 @@ CLASS II - FOMC
 Member Bank Reserve Positions
 U.S. Govt. Securities Underwriting Excess Borrowing at FRB
 
-Dealer Positions Syndicate Positions Ees1 s B ocrwi AatsFRnReserves Total Seasonal Special Adjustment
+Dealer Positions Syndicate Positions Ees1 s B ocrwi AatsFRn
+Reserves Total Seasonal Special Adjustment
+
 Cash I Futures & Forwards Corporate Municipal
 
 Bills I Coupons Bills I Coupons Bonds Bonds
@@ -2480,7 +2503,9 @@ month figures for 1980.
 
 226p
 
-10 5p
+1
+0 5
+p
 
 155
 63
@@ -2506,13 +2531,21 @@ month figures for 1980.
 19 3p
 2 00p
 
-2 20p
+2 2
+0p
+
 16 2 p
 149 p
-149p
+14
+
+9
+p
+
 1 7 5 p
 
-198p
+1
+98
+p
 
 3,298
 12

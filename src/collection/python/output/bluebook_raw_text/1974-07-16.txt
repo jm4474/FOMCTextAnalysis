@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1866,13 +1869,20 @@ d ~ ~ a .
 207
 -259
 
-7 81p
+7
+81p
+
 -
 91
 p
 
-3 83p
-- 2 89p
+3
+83p
+
+-
+2
+
+89p
 
 STarget
 available
@@ -3033,8 +3043,8 @@ June 5 36,514 33,460 34,754 281.2 216.7 596.9 -- 481.9 - 397.6 315.7 -- 81.9 10.
 19P 36,980 33,757 34.974 281.5 216.7 598.6 -- 82.9 - 400.5 317.0 -- 83.5 9.7 3.5
 26 P 36,844 34,056 34,780 280.4 215.6 597.4 -- 482.9 - 401.2 317.1 - 84.1 10.4 3.3
 
-July 3p 37,374 33,940 35,097 281.2 216.3 598.4 -- 487.6 - 402.5 317.2 
--- 85.3 10.7 3.2
+July 3p 37,374 33,940 35,097 281.2 216.3 598.4 -- 487.6 - 402.5 
+317.2 -- 85.3 10.7 3.2
 
 / tiated monthly average leels derived by averaging end of current month and end of previous onth reported data.
 NOTE: Reserve requirements on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related
@@ -3184,7 +3194,8 @@ Growth Rates in Money Supply for Alternatives
 M1
 
 M Q
-M2
+M
+2
 
 M Q
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -179,7 +182,9 @@ Week ending:
 June 2 225.7 225.6 450.7 450.6 346.7 345.8
 June 9 224.3 224.1 449.8 449.3 346.6 345.7
 June 16 226.1 226.1 452.2 452.0 347.2 346.5
-June 23 227.6 22 6.6 pe/ 454.7 453.3 pe/ 347.0 345.0 pe/
+June 23 227.6 22 6.6 pe/ 454.7 453.3 pe/ 347.0 345.0 pe
+
+/
 
 pe--partly estimated
 
@@ -1642,7 +1647,10 @@ Annualy
 (Annual rates in percent)
 
 1  2 3 Total 4 Money Supply 8 9 10
-PerodTotal Nonborrowed Member Adjusted 56 rivat Time Thrift NonbankPe r io d  k Private Deposits instit. CommercialReserves Reserves Bank Credit Proxy Total Currency Demand Adlusted Deposits Paper
+PerodTotal Nonborrowed Member Adjusted 56 rivat Time Thrift Nonbank
+
+Pe r io d  k Private Deposits instit. Commercial
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adlusted Deposits Paper
 
 _ Deposits _ Deposits Adjusted Deposits Paper
 

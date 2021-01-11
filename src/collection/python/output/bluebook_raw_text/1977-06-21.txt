@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -278,7 +281,8 @@ CD's) 10.4 10.3 9.6 9.0 4.7
 M3 (M plus deposits at
 thrift institutions) 13.0 12.1 10.7 9.7 7.0
 
-M4 (M2 plus CD's) 7.3 8.6 8.9 7.8 5.4
+M4 (M2 plus CD's) 7.3 8.6 8.9 7.8 
+5.4
 
 M5 (M3 plus CD's) 10.7 10.9 10.2 8.9 7.3
 
@@ -980,7 +984,8 @@ RESERVES BILLIONS OF DOLLARS
 
 - 36
 
-T O T A L  - 3 5
+T O T A L  -
+3 5
 
 34
 
@@ -1031,7 +1036,10 @@ ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
 
 Money Supply Adjusted Totail Time nd Savings Deposits Nondeposit Member
 
-Period Narrow Broad Credit U.S. Govl. Othr Than C'D Sources o f US. Govt.
+Period Narrow Broad Credit U.S. Govl. Othr Than C'D Sources 
+o f 
+
+US. Govt.
 (M1) (M2) Proxy Deposits. Tt otal Savins tar Funds Deposits
 
 1 2 3 4 5 6 7 8 9 10 11
@@ -1928,7 +1936,9 @@ June 1
 
 8.15
 8.11
-8 .01p
+8
+
+.01p
 
 8.22
 8.22

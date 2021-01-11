@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -420,7 +423,8 @@ n.a.
 
 /
 
--1.0 2
+-1.0
+2
 
 n.a.n.a.
 
@@ -2104,7 +2108,10 @@ FEBRUARY 1, 1980
 
 Home Mortgages
 Primary Secondary Market
-P  v y  FNMA GNMA
+P  
+
+v
+y  FNMA GNMA
 
 Auc. Sec.
 

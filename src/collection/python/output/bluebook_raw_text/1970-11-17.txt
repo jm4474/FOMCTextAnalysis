@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -176,7 +179,8 @@ supply and the adjusted credit proxy.
 Recent Paths of Key Monetary Aggregates
 (Seasonally adjusted, billions of dollars)
 
-2/Adjusted Credit Proxy Mone Supply /
+2/
+Adjusted Credit Proxy Mone Supply /
 
 Indicated at Actual Indicated at Actual
 Last Meetingi/ Results Last Meetingi Results
@@ -1872,7 +1876,8 @@ n.a.
 
 +32.3
 
-FR 712 - Ebeen adjusted to eliminate changes in percentage reserve requirements against deposits, but reserve requirements
+FR 712 - E
+been adjusted to eliminate changes in percentage reserve requirements against deposits, but reserve requirements
 included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning
 
 
@@ -1930,7 +1935,9 @@ Oct. 7
 28 p
 
 Nov. 
-4 p
+4
+
+p
 
 (In millions of dollars)
 28,139 27,318 27,902

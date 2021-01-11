@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -175,8 +178,9 @@ I I I I --- I --
 Change Since 03/28/95
 
 F-=- 7 .
-Basis points-I
+Basis points
 
+-I
 Change Since 03/28/95
 
 [IEEE
@@ -1819,15 +1823,17 @@ Money market
 Overnight Small mutual funds Large
 
 Other RPs and denoml- general denomi- Term Terhortterm ank
-Period Currency D checkable Euro- nation purpose Institutions nation RP's Er- S avs Sreaial andeposits deposits dollars deposits, time and time NSA dolla bonds epaper ceS
+Period Currency D checkable Euro- nation purpose Institutions nation RP's Er- S avs Sreaial an
 
+deposits deposits dollars deposits, time and time NSA dolla bonds epaper ceS
 _NSA__ dpot_ debroker o deposits$ NSAc
+
 dealer'
-
 1 2 3 4 - 6 7 - 9 10 11 12 is3 14 1
-Leve.ls aI .bllonas)
 
+Leve.ls aI .bllonas)
 Annual (Q4)
+
 1992
 1993
 1994
@@ -2314,7 +2320,8 @@ i00 11,486
 
 2,549
 
-2,549-.-.
+2,549
+-.-.
 
 ---.
 

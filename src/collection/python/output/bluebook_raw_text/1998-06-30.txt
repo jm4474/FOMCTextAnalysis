@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -192,7 +195,8 @@ Inter.
 
 Thirty-years
 
-Ten-years....- . ... .... .
+Ten-years
+....- . ... .... .
 
 Two-years
 
@@ -834,7 +838,9 @@ Chart 3
 Actual and Projected Velocity of M2, M3, and Debt
 
 Ratio Scale
--(2.5M2 Velocity
+-(2.5
+
+M2 Velocity
 
 S1 1 I I 5 I 1 I I t I 9 I I I 1 I I I I I 1 1 I I i l I I I I
 
@@ -1176,7 +1182,8 @@ Points
 *The errors are adjusted for the effects of deviations of the federal funds rate from Greenbook assumptions, based
 on the semi-elasticity of .63 implied by the correlation between the forecast errors of V3 growth and of the funds rate.
 
-i---------l2 -----
+i---------l
+2 -----
 
 
 
@@ -1792,7 +1799,8 @@ QIV 1997 - QIV 1998'1
 
 4 - 6.5 (7.3)2.
 
-3.5 - 6 (2.3)2
+3.5 - 6 (2.3)
+2
 
 2.5 - 5.5 (8.5)2
 
@@ -3178,7 +3186,8 @@ June 24
 
 3,550
 
-215.72|5.7
+215.7
+2|5.7
 
 390 5,366
 524 3,898

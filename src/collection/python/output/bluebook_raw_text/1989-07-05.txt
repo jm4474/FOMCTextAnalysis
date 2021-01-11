@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1754,7 +1757,10 @@ i.s.--not specified.
 
 4 - 8 (5.2)
 
-3 -8 10 (12.7)
+3 -8 1
+0
+
+(12.7)
 
 3 - 8 (15.2)
 
@@ -2400,20 +2406,20 @@ JUN
 8.12
 8.09p
 
-NOTE: Weekly data for columns 1 through 11 are statement week averages. Data in column 7 are taken from Donoghue's Money Fund Report. 
-Columns 12, 13 and 14
+NOTE: Weekly data for columns 1 through 11 are statement week averages. Data in column 7 are taken from Donoghue's Money 
+Fund Report. Columns 12, 13 and 14
 
-are 1-day quotes for Friday, Thursday or Friday, respectively, following the end of the statement week. Column 13 
-is the Bond Buyer revenue index. Column 14
+are 1-day quotes for Friday, Thursday or Friday, respectively, following the end of the statement week. 
+Column 13 is the Bond Buyer revenue index. Column 14
 
-is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average 
-contract rate on new commitments for
+is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is 
+the average contract rate on new commitments for
 
-fixed-rate mortgageslFRMs) with 80 percent loan-to-value ratios at major institutional lenders. Column 
-16 is the average initial contract rate on new
+fixed-rate mortgageslFRMs) with 80 percent loan-to-value ratios at major institutional lenders. 
+Column 16 is the average initial contract rate on new
 
-commitments for 1-year, adjustable-rate mortgages(ARMs) at major institutional lenders offering both FRMs and ARMs 
-with the same number of discount points.
+commitments for 1-year, adjustable-rate mortgages(ARMs) at major institutional lenders offering both FRMs 
+and ARMs with the same number of discount points.
 
 federal
 funds
@@ -3114,9 +3120,9 @@ MAY
 
 I II
 1. Net of money market mutual fund holdings of these items.
-2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted from small 
+2. Includes retail repurchase agreements. All IRA and Keogh accounts at commercial banks and thrift institutions are subtracted 
 
-time deposits.
+from small time deposits.
 
 3. Excludes IRA and Keogh accounts. .
 4. Net of large denomination time deposits held by money market mutual funds and thrift institutions.
@@ -3182,7 +3188,8 @@ June 7
 21
 28
 
-Memo: LEVEL (bil.$)6
+Memo: LEVEL (bil.$)
+6
 
 June 28
 

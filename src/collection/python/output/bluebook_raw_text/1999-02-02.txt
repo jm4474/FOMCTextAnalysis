@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -162,10 +165,12 @@ II .
 2/99 3/99 4/99
 Contract Months
 
-Selected Stock Indexesf-Daily
-Wilshire 5000
+Selected Stock Indexesf-
+Daily
 
+Wilshire 5000
 ........ Money Center Banks
+
 .----- NASDAQ
 
 I I I I I I I I I
@@ -297,7 +302,9 @@ BBB corporate spread is relative to the ten-year Treasury yield.
 
 Implied Interest Rate Volatilities
 
-Daily---- Long-term Treasury Bond
+Daily
+---- Long-term Treasury Bond
+
 --- Three-month Eurodollar
 
 May Jun Jul Aug Sep Oct Nov
@@ -796,9 +803,11 @@ Supply-Side Risks
 Nominal Federal Funds Rate Real Federal Funds Rate 1
 
 Percent Percent Percent Percent
-8 - - 8 5.5 - Baseline - 5.5-- Baseline ...... Adverse price shocks
+8 - - 8 5.5 - Baseline - 5.5
 
+-- Baseline ...... Adverse price shocks
 7 Adverse price shock 5.0 - - Lower NAIRU 5.0
+
 7 -" Lower NAIRU 7
 
 . 4.5 -4.5
@@ -819,7 +828,8 @@ Civilian Unemployment Rate
 Percent Percent
 7.5 - -7.5
 
-7.0 - - Baseline 7.0....... Adverse price shocks
+7.0 - - Baseline 7.0
+....... Adverse price shocks
 
 6.5 - -- "- Lower NAIRU - 6.5
 
@@ -1232,7 +1242,9 @@ demand. Even the rapid money growth associated with market turbulence may have b
 
 
 Chart 7
-M2 Velocity and Opportunity Cost M2 VelocityRatio scale
+M2 Velocity and Opportunity Cost M2 Velocity
+
+Ratio scale
 
 1959 1962 1965 1968 1971 1974 1977 1980 1983 1986 1989 1992 1995 1998
 
@@ -2364,7 +2376,8 @@ February 1, 1999
 
 Short-term Long-term
 
-Treasury bills CDs Conventional homeF ederal se asury let sec ary Comm. U.S. government constant n i o Municipal mortgagesFederal secondary market s ec  paper maturity yields Indexed yields Moody's Bndipa morgages
+Treasury bills CDs Conventional home
+F ederal se asury let sec ary Comm. U.S. government constant n i o Municipal mortgagesFederal secondary market s ec  paper maturity yields Indexed yields Moody's Bndipa morgages
 funds market pBaa Bond primary market
 
 Buyer3-month 6-month 1-year 3-month 1-month 3-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM

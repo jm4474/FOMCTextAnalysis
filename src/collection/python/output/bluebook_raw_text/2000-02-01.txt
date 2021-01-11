@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -148,7 +151,9 @@ Billions of dollars
 Treasury Balance at the Federal Reserve and
 Foreign RP Pool Billions of d
 
-Daily Treasury
+Daily
+Treasury
+
 ............... RPPool .-
 
 .*.°
@@ -180,7 +185,9 @@ Percent
 Spread Between Morning Federal Funds Rate
 and Overnight Repo Rate Basis P
 
-Daily Dec. 31F~Is
+Daily Dec. 31
+
+F~Is
 I I
 
 11/23 12/15
@@ -1065,7 +1072,8 @@ Percentage points
 
 1.0 1.0
 
-0.5 0.5
+0.5
+0.5
 
 0.0
 
@@ -1419,7 +1427,9 @@ Intercept fit from 1993:01 - 1999:Q4 *• 7 •
 • *--- *- • * " .• ----1.7 - . * 0
 + ++ S S.V
 
-1.7 . . ** ._-.r ..-..- ... -. * . * S
+1.7 . . *
+* ._-.r ..-..- ... -. * . * S
+
 .* * S S *
 
 *
@@ -2343,7 +2353,8 @@ Footnotes on following page
 
 2.5 - 6.5
 
-1-5' 2
+1-5'
+2
 
 1-5
 

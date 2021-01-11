@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -195,8 +198,9 @@ J M M J S N J M M J S N
 1996 1997
 
 *Index, Jan 19
-9 6=100
+9
 
+6=100
 Daily beainnina November 10.
 
 Federal Funds Futures Percent
@@ -247,8 +251,8 @@ Daily beginning November 10.
 12/12/97
 ......... 11/10/97
 
-...........- ... ...... .
-.............
+...........- ... ...... 
+. .............
 
 Dec. Jan. Feb. Mar. Apr.
 Contract Months
@@ -1728,7 +1732,10 @@ Period MI M2 M3 L and U. S. other' total=
 In M2 In M3 only investments' government'
 
 1 2 3 4 ~ 5 8 7 8 9 ~ 10
-Annual arowth rates(9 ):
+Annual arowth rates(
+
+9
+):
 
 Annually (04 to 04)
 1994 2.5 0.6 -0.3 6.5 1.7 2.7 6.9 5.7 4.8 5.1
@@ -1739,7 +1746,10 @@ Quarterly(average)
 1996-Q4 -7.3 4.2 9.0 19.6 7.5 6.2 6.0 3.4 5.2 4.7
 1997-Q1 -0.7 5.4 7.8 15.9 7.7 6.1 9.7 1.8 5.1 4.2
 1997-Q2 -5.5 3.8 7.4 16.7 6.7 7.8 7.7 0.4 6.2 4.7
-199 7 -Q3 0.2 5.1 6.9 19.7 8.4 7.7 6.9 -0.6 5.3 3.7
+199
+
+7
+-Q3 0.2 5.1 6.9 19.7 8.4 7.7 6.9 -0.6 5.3 3.7
 
 Monthly
 1996-NOV. -0.2 5.9 8.4 8.7 6.6 6.7 8.4 4.5 5.4 5.2
@@ -1795,10 +1805,12 @@ Seasonallyadjusted
 Money market
 mutual funds
 
-Demand Other Small mutualfunds Large Savings Short-term Commercial BankersPeriod Currency deposits checkable Savings denomination denomination RP'so. Eurodollars
-'  
+Demand Other Small mutualfunds Large Savings Short-term Commercial Bankers
+Period Currency deposits checkable Savings denomination denomination RP'so. Eurodollars
 
+'  
 bonds Treasury om c Ba er
+
 deposits deposits time deposit Retai Institution- time deposits' securities' paper acceptances'
 
 only

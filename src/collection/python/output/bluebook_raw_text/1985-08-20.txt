@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -888,7 +891,8 @@ ACTUAL AND TARGETED DEBT
 Billions of dollars
 1 6800
 
-- ACTUAL LEVEL -- 6600
+- ACTUAL LEVEL
+-- 6600
 
 - 6400
 
@@ -1261,8 +1265,14 @@ Percent August 19, 1985
 Short Term Long-Term
 Treasury bills CDs comm money bank S government constant corporate muni home mortgages
 
-federal secondary market secondary omm market bankPeriod fundsecondary market secondary mark prime maturity yields A utility cipal conven- F NA S&L
-Smarket mutua l  on recently Bond tional 1-yearmonth -month Iear 3-month fund lan 3 year 10 year 30year offered Buyer at S&Ls ce ARM
+federal secondary market secondary omm market bank
+Period fundsecondary market secondary mark prime maturity yields A utility cipal conven- F NA S&L
+
+Smarket mut
+ua l  
+
+on recently Bond tional 1-year
+month -month Iear 3-month fund lan 3 year 10 year 30year offered Buyer at S&Ls ce ARM
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
@@ -1360,7 +1370,8 @@ Daily--Aug. 9
 8.53 7.19
 8.1
 
-7 p 7.11
+7
+p 7.11
 
 10.76
 8.01
@@ -1732,7 +1743,10 @@ Daily--Aug. 9
 
 10.37 10.61
 10.36 10.64
-10.30p 10. 5 7 p
+10.30p 10.
+
+5 7
+p
 
 11.44 14.68 14.00
 9.86 13.14 12.50
@@ -2319,14 +2333,19 @@ CLASS II-FOMC
 August 19 1985
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 
 Period bills net outright Net RPs"
 change
 
-2  within within holdi 5 5-10 over 10 totals1-year 1-5 5-10 over 10 total 1 year 15 5-10 over 10 totaltotal
+2  
+within within holdi 5 5-10 over 10 totals
+1-year 1-5 5-10 over 10 total 1 year 15 5-10 over 10 totaltotal
 
 1984--QTR. I
 II

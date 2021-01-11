@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -184,7 +187,9 @@ Monetary base 6.8 6.6 6.9 6.8 7.6 6.4 4.9 6.8
 Memo: (Millions of dollars)
 
 3/ 8/
-Adjustment borrowing-  337 433 387z  - -- -
+Adjustment borrowing-  337 433 387
+
+z  - -- -
 
 Excess reserves 404 407 450 8 - -
 
@@ -943,8 +948,15 @@ Path Constructed Mtaserves Reserve ve Iserves Reserves Period Period!/
 November 19 41,331 41,081 41,331 41,031 300 250 250
 26 41,411 / 41,1611/ 41,462 41,152 310 301 306
 
-December 3 41,464 7/  41,183/4/1 41,477 41,123 355 289 242
-10 41,591 5/ 41,3155/ 41,601 41,244 357 286 230
+December 3 41,464
+7/  
+
+41,183/4/1 41,477 41,123 355 289 242
+10 41,591
+
+5
+/ 41,3155/ 41,601 41,244 357 286 230
+
 17 41,617i/ 41,34L6/ 41,684 41,277 407 343 230
 
 I/ Represents borrowing in reasining staement weeks (as intereeting per od progresses) Implied by
@@ -1341,7 +1353,8 @@ to be held for savings purposes, they are more likely to shift to MMDA's
 
 and hence, the shifts affecting M1 shown in table 1 assume that only
 
-one to five percent of the $300 billion would shift to Super NOWs.2
+one to five percent of the $300 billion would shift to Super NOWs.
+2
 
 1. Estimates are based on results from surveys of depository institutions.
 2. In the case of conventional NOW accounts, it is estimated that about
@@ -2133,7 +2146,9 @@ Millions of dollars, not seasonally adjusted
 December 20, 1982
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases4  Net change
+3  Federal agencies net purchases
+
+4  Net change
 
 Period bills net outright Not RPRchange2  within lwithin total holdl *I I i I0 s-ia 1 .o5 over ,o. tots-year -l-year j oteP
 
@@ -2454,7 +2469,10 @@ bills I coupons J bills I coupons
 
 6,668**
 7,743**
-5,584 p**
+5,58
+
+4
+p**
 
 4,633
 540
@@ -2497,7 +2515,8 @@ bills I coupons J bills I coupons
 unoer rilng
 syndicate positions
 
-1 .- 
+1 
+.- 
 
 .---.-
 *
@@ -2547,7 +2566,12 @@ reserves adjustment
 
 14** -2.995**
 -1,872** -3,019**
--3 ,070p** -3,1llp**
+-
+3
+,0
+
+7
+0p** -3,1llp**
 
 562
 -21
@@ -2664,7 +2688,9 @@ asonal a tialudesn special)
 48
 46
 
-3 5p
+3
+5p
+
 26p
 24p
 
@@ -2707,7 +2733,10 @@ total
 119
 
 141
-188p
+18
+
+8
+p
 
 123
 117

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -445,7 +448,8 @@ Alt. A
 6.1
 7.5
 
-M1
+M
+1
 
 Alt. B
 
@@ -510,7 +514,9 @@ Alt. A Alt B Alt. C
 10.3
 5.0
 
-M2
+M
+2
+
 Alt. A Alt. B Alt. C
 
 592.9 592.9 592.9
@@ -1113,7 +1119,8 @@ MAY 1
 I
 JUN. 5 I
 
-12 I
+12
+I
 
 33,117
 33,660
@@ -1501,7 +1508,9 @@ PE - PARTIALLY ESTIMATED
 82.0
 82.5
 
-82.282.371.4 I
+82.282.3
+71.4 I
+
 7239I
 
 8.6
@@ -1775,7 +1784,9 @@ June 5
 134
 
 182
-154 p
+15
+4
+p
 
 226
 62
@@ -1786,7 +1797,8 @@ June 5
 177
 213
 176
-97p
+9
+7p
 
 108p
 
@@ -1864,7 +1876,10 @@ June 5
 94
 
 112p
-114 p
+11
+
+4
+p
 
 131p
 136p
@@ -1893,7 +1908,10 @@ June 5
 -5,030
 
 -3,952
--3,17 6p
+-3,17
+
+6
+p
 
 -4,032
 -5,375
@@ -1906,7 +1924,10 @@ June 5
 -2,858
 -2,447
 
--3,5 84p
+-3,
+5 84
+
+p
 -5,040p
 
 (9)
@@ -1947,7 +1968,10 @@ June 5
 - 8,711
 
 - 9,340p
--10,418p
+-10,41
+
+8
+p
 
 Government security dealer trading positions are on a commitment basis. Trading positions, which exclude Treasury bills financed by repurchase
 agreements maturing in 16 days or more, are indicators of dealer holdings available for sale over the near-term. Other security dealer posi-
@@ -2716,7 +2740,8 @@ May p
 
 +14.7
 +15.5
-+16.8+16. Y
++16.8
++16. Y
 +10.2
 
 (Dollar Change in Billions)

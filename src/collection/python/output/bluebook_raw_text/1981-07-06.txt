@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -966,7 +969,8 @@ Billions of dollars
 
 - Actual Level
 
-... Short-Run Alternatives -- 1820
+... Short-Run Alternatives
+-- 1820
 
 -- 1800
 
@@ -1781,15 +1785,16 @@ May 22 40,011 37,911 40,011 39,786 225 2,100
 1/ 1/
 May 29 40,098
 
-/  37,792 /  40,104 39,821 283 2,312
+/  37,792
+/  40,104 39,821 283 2,312
 
 2/ 21
 June 5 40,204
 
 2  37,898- 40,141 39,823 318 2,243
 
-June 12 40,1372 /  37,831
-/  40,078 39,788 290 2,247
+June 12 40,137
+2 /  37,831 /  40,078 39,788 290 2,247
 
 Actual 4-week
 Average 40,069 38,824 40,069 39,788 281 2,245
@@ -1803,16 +1808,18 @@ As of
 
 June 17
 (FOMC consul-
-tation) 40,643- 38,843 /  40,643 40,418 225 1,800
+tation) 40,643- 38,843
+
+/  40,643 40,418 225 1,800
 
 June 19 40,643 38,843 40,464 40,239 225 1,621
 
 June 26 40,8085/  38,8405 /  40,674 40,374 300 1,834
 
 6_ / _l 6/ £/
-July 2 6/ 6/ 40,377 6/ 
+July 2 6/ 6/ 40,377 
 
-6/
+6/ 6/
 
 1/ Total and nonborrowed reserve paths adjusted upward by $87 million reflecting
 an upward adjustment of $200 million due to multiplier changes and a downward
@@ -2716,7 +2723,9 @@ July 1
 -7,277 -3,050
 -6,486 -2,822
 
--10,07 9p* -2,967p*
+-10,07
+9
+p* -2,967p*
 
 -5,930 -2,873
 -6,431 -2,753
@@ -2729,7 +2738,9 @@ July 1
 -11,500* -3,221*
 -10,465* -2,858*
 
-2,458p* 4,082p* -9,605p* -2,902p* 3 257
+2,45
+8
+p* 4,082p* -9,605p* -2,902p* 3 257
 
 NOTE: Government securities dealer cash positions consist of securities already delivered, commitments to buy (sell) securities on an outright
 basis for immediate delivery (5 business days or less), and certain "when-issued" securities for delayed delivery (more than 5 business days).
@@ -2742,7 +2753,10 @@ of-month figures for 1980.
 
 * Strictly confidential.
 
-74 1p
+7
+4
+1p
+
 - 2 34p
 
 203
@@ -2755,13 +2769,22 @@ of-month figures for 1980.
 498
 552
 
-5 44 p
-18 3p
-38 1p
+5 44
+p
+
+1
+8
+3p
+
+3
+8
+1p
 
 144
 263p
-3 3 1p
+3 3
+
+1p
 
 336
 98
@@ -2792,7 +2815,11 @@ of-month figures for 1980.
 
 1,395p
 1,303p
-1 ,O0 0 p
+1
+,O
+0 0
+
+p
 
 1,338
 
@@ -2804,10 +2831,19 @@ of-month figures for 1980.
 1,975
 2,923
 
-1 ,9 54 p
+1
+,
+9 54
+
+p
 2,207p
-1 ,8 9 5p
-2 ,305p
+1
+,
+8 9 5
+
+p
+2
+,305p
 
 1,735p
 
@@ -2816,11 +2852,20 @@ of-month figures for 1980.
 116
 
 120p
-148 p
-196 p
+14
+
+8
+p
+
+19
+6
+p
 
 162
-26 9p
+2
+6
+9p
+
 291p
 
 198
@@ -2863,9 +2908,15 @@ of-month figures for 1980.
 1,704
 2,614
 
-1,66 7p
+1,6
+6
+7p
+
 1,930p
-1,61 6p
+1,61
+
+6
+p
 
 1,999p
 

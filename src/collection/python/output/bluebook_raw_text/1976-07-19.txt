@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -300,8 +303,8 @@ institutions) 11.3 11.4 12.0 11.0 7.5
 
 M (M2 plus CD's) 6.4 6.1 6.3 7.6 8.5
 
-M5 (M3 plus CD's) 9.7 9.3 9.0 9.5 
-9.4
+M5 (M3 plus CD's) 9.7 9.3 9.0 
+9.5 9.4
 
 Bank Credit
 
@@ -330,7 +333,8 @@ tions--which are derived from either end-of-month or last Wednesday-of-month
 
 figures. Growth rates for reserve measures in this and subsequent tables are
 
-adjusted to remove the effect of discontinuities from breaks in the series when
+adjusted to remove the effect of discontinuities from breaks in the series 
+when
 
 reserve requirements are changed.
 
@@ -1958,7 +1962,16 @@ June 2 5,266 175 10 199 453 242 17 -3,235 - 7,605
 
 16 5,777 522 25 201 571 49 16 -4,916 - 9,561
 23 *4,445 *561 334 160 -180 165 22 -3,701 - 9,559
-30 *4,495p *793 213 204 46 5p 166p 2 9p -3,154 - 6,908
+30 *4,495p *793 213 204 
+
+46 5
+p 1
+
+6
+6p 
+
+2
+9p -3,154 - 6,908
 
 July 7 *5,263 *1,264 228 146 
 6
@@ -1975,7 +1988,10 @@ p - 7,880p
 p 
 
 23
-p -6.126p -10, 6 5 1p
+p -6.126p -10,
+
+6 5
+1p
 
 21
 28
@@ -2195,7 +2211,10 @@ Daily-July 8
 5.38 5.50 8.72 8,67 F,87
 
 5.50 5.63 8.58 8.57 6.78
-5.25 5.38 8.53p 8.53p 6.78
+5.25 5.38 8.5
+
+3
+p 8.53p 6.78
 
 VKOTE: Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are 1-day Wednesday quotes (prior to 1976, figures shown
 are for 60-89 day and 90-119 day ranges, respectively). For columns 7 and 10, the weekly date is the mid-point of the calendar week over which data are

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -177,7 +180,9 @@ Monetary base 15.9 7.1 6.6 6.9 11.0
 
 Memo: (Millions of dollars)
 
-Adjustment and seasonal 355 273 2323  -
+Adjustment and seasonal 355 273 232
+3  -
+
 borrowing
 
 Excess reserves 1068 1209 9003
@@ -570,9 +575,10 @@ M1
 
 a,
 
-*A .. ' - 750,* **
-' f..-" - 750
+*A .. ' - 750
+,* **
 
+' f..-" - 750
 - 700
 
 S690
@@ -636,7 +642,8 @@ S- 8100
 
 7300
 
-1l 1 . 7200. - -- i i I I I I I Ii I
+1l 1 . 7200
+. - -- i i I I I I I Ii I
 
 
 
@@ -970,9 +977,13 @@ March 30, 1987
 
 SShort-tem Long-Term
 
-Truy bms co one y nk U.8. government constant orort municipal conventnal home mortgage
+Truy bms co one y nk U.8. government constant orort municipal conventnal home 
+mortgage
 
-P0 fedal d MWOmy secons pK6  prime maturity yields A utility Bond primary mrketuno d  mrt n""k mutual recenl mtli B e rket
+P0 fedal d MWOmy secons pK6  prime maturity yields A utility Bond primary mrketun
+o d  
+
+mrt n""k mutual recenl mtli B e rket
 Siont | ntIy- 3Smonth -nh i fund 3-year 10year 30-yer offered fixed- ate fixed-rate ARM
 
 1 3 4 5 8 T 8 9 10 11 12 13 14 15 1
@@ -1246,9 +1257,12 @@ S 7.50
 
 7.22 7.53
 7.24 7.56
-7 . 3
+7
 
-2p 7.66p
+.
+3 2
+
+p 7.66p
 
 10.83
 9.03
@@ -1428,9 +1442,11 @@ Demand checkable RPs and MMDA Savings nation general Instilu- nation RPs Eurodol
 Period Currency deposits deposits Eurodollars NSA deposits time purpose, lions time NSA NSA bonds Treasury clal paper accep-
 
 NSA deposits' nd broker/ only deposits
-3  securities tances
+3  
 
+securities tances
 dealer'
+
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 AUOALLI (4T78 Ut):

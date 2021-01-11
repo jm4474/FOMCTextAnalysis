@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -151,10 +154,12 @@ FINANCIAL MARKET RELATIONSHIPS IN PERSPECTIVE
 Money arket Indicators Bond Yields Flow
 Free Borrow- Federal 3-month Corporate Munici- Non-
 
-ed eserves ings Funds Treas- U.S. New pal borrowedPeriod
-(In millions Rate ury Gov't. Issues (Aaa) Reserves
+ed eserves ings Funds Treas- U.S. New pal borrowed
+Period
 
+(In millions Rate ury Gov't. Issues (Aaa) Reserves
 of dollars) 4/ Bill (20 yr) (Aaa)1/ (In mil
+
 of dol
 
 1967--Dec.
@@ -1537,11 +1542,12 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting Supporting private deposits
-U. S. Gov't. Other thanPeriod required demand Total Seasonal changes seasonal chanes
+U. S. Gov't. Other than
 
+Period required demand Total Seasonal changes seasonal chanes
 r demand Total seasonal changes
-reserves
 
+reserves
 d eposits Demand Time Demand Time
 
 vear:

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1144,7 +1147,8 @@ Seasonally adjusted
 Money stock measures and liquid ass ets Bank credit Domestic nonfinancial debt'
 nontransactions components total loans
 
-Period M1 M2 M3 L and U. . other' total'In M2 In M3 only investments' goverment'
+Period M1 M2 M3 L and U. . other' total'
+In M2 In M3 only investments' goverment'
 
 S 1 2 3 4 5 6 7 8 9 10
 Annual orowth rates ():
@@ -1222,14 +1226,18 @@ d Other Small Large Short-term
 Periodurrency Dema checkable Saving denomination denomination RP's'* Eurodollars Savings Treasury Commercial Bankers
 
 deposits deposits' time deposits' Retail Institution- time deposits bonds securites 
-p ap  acceptances
+p ap  
+
+acceptances
 
 only
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14
-Levels ( SD1llioal --
+Levels ( SD1llioal 
 
+--
 Annual (Q4)
+
 1994 352.4 384.9 404.8 1164.0 806.5 379.8 197.4 358.7 176.6 80.5 179.7 378.8 402.2 13.6
 1995 371.4 390.3 362.1 1127.3 930.4 451.0 244.7 416.3 186.7 89.5 184.4 465.6 439.3 11.6
 1996 392.6 401.1 278.3 1258.8 943.5 516.2 293.1 485.3 195.1 108.7 187.0 471.1 486.1 12.2
@@ -1281,7 +1289,8 @@ SNet purhases 3 agencies outright
 Period Net 2 Redemptions Net witNet pur s Redemptions Net redemptions holdings
 purchases (-) change 1 1-5 5-10 over 10 (-) Change total
 
-4 Net RPs
+4
+Net RPs
 
 1994
 1995
@@ -1414,7 +1423,9 @@ S4,006
 
 416
 
-416--..
+416
+--..
+
 ..- °
 
 15,493

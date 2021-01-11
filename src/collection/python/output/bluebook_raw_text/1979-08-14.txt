@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -872,7 +875,10 @@ O N D J F M A M J J A S O N 0
 
 1500
 
-1480I L D . . . . I_ I I I I I -1 1
+1480
+I L D . . . . I_ I I I I I -1 
+
+1
 
 
 
@@ -1762,7 +1768,9 @@ AUG. 11, 1979
 Time and Savings Deposits Mutual Short- Other Tot
 Savings Credit Term Private Non- Total
 
-Period Currency Demand Ban-- Union Savins S. hort- Dposit GovtDeposits Other Than C's U.S.Total Other Than CD's CD & S&L Shares Bods ov' term Funds DemadIC/ Assets N Deposits
+Period Currency Demand Ban-- Union Savins S. hort- Dposit Govt
+Deposits Other Than C's U.S.Total Other Than CD's CD & S&L Shares Bods ov' term Funds DemadIC/ Assets N Deposits
+
 a __ _Total Savings Other 1 Sharest i Sec i Assets Dsis
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -909,12 +912,13 @@ Retrospective Changes, Seasonally Adjusted
 Reserve Aggregates Monetarvy Variables
 Required reserves Total Member Time Money Supply
 
-Total MemberTotal Against Deposits Private
+Total Member
+Total Against Deposits Private
+
 Reserves Total Demand it (comm. Total Demand
-
 Reserves (credit) 1/
-SDeposits banks) Deposits
 
+SDeposits banks) Deposits
 Annually:
 
 1966 2/ + 1.3 + 0.8 + 1.5 - 0.2 + 3.8 + 8.7 + 2.2 + 1.2
@@ -1176,7 +1180,8 @@ Retrost L.tive and Prospective
 
 I Factors affecting supply of reserves
 
-Period Federal Reserve
+Period
+Federal Reserve
 credit (excl.
 
 float) 1/
@@ -1562,7 +1567,11 @@ Reserve credit
 (Excl. float)
 
 U.S. Government securities
-TotalIholdines Bills Other Repurchaseaereements
+Total
+
+Iholdines Bills Other
+Repurchase
+aereements
 
 I I
 

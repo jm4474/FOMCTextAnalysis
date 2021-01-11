@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -131,7 +134,8 @@ retail RPs issued by depository institutions in part to compete with MMMFs
 
 but mainly to attract customer funds in anticipation of the October 1
 
-issuance of All Saver Certificates (ASCs).1  These RPs were not included
+issuance of All Saver Certificates (ASCs).
+1  These RPs were not included
 
 in M2 when it was redefined in early 1980 because they were not of any
 
@@ -1398,7 +1402,8 @@ change
 
 49.5
 
-Treasury coupons net purchases 3
+Treasury coupons net purchases
+3
 
 10 
 thin
@@ -1513,7 +1518,8 @@ within
 
 2.4
 
-Federal agencies net purchases 4
+Federal agencies net purchases
+4
 
 15 510 over 10 total
 
@@ -1700,7 +1706,10 @@ p 1,
 34
 9p
 
-23 5,944** 2,005** -9,657** -3,019** 25 84 27 8 p 891p 230p 325p 1/46p
+23 5,944** 2,005** -9,657** -3,019** 25 84 27
+8
+
+p 891p 230p 325p 1/46p
 30 2,689** 1,742** -8,070** -3,116** 23 58 494p 82
 
 8

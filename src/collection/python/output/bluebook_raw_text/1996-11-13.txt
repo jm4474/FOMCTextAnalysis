@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -202,8 +205,8 @@ Weekly. Daily beginning September 23.
 
 85
 
-80I I 
-I I I
+80
+I I I I I
 
 Oct Nov Dec Jan Feb Mar
 Contract months
@@ -1196,7 +1199,13 @@ Money market
 mutual funds
 
 Other Small Large Short-termPed Currency Demand checkable Savings denomination denomination RP's Eurodollars Savings Treasury Commercial ankers
-depos deposits' bends paper acceptancesdeposits deposits deposits' time deposits' Retail' Institution- time deposits' bo nds securities' paper acceptances'
+depos deposits' bends paper acceptancesdeposits deposits deposits' time deposits' Retail' Institution- time deposits' 
+
+bo nd
+s securities' 
+
+pa
+per acceptances'
 
 only
 
@@ -1354,7 +1363,8 @@ November 6
 
 1,240
 
-1,240217.7-
+1,240217.7
+-
 
 -- ,4
 

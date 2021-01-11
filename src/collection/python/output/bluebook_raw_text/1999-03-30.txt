@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -192,9 +195,10 @@ Jan Mar
 Selected Long-Term Interest Rates Percent
 7.0 - -8.0
 
-Daily Feb. 23... .... BBB Corporate H.H.
-6.5 - Thirty-year Treasury Feb. 3 7.5
+Daily Feb. 23
+... .... BBB Corporate H.H.
 
+6.5 - Thirty-year Treasury Feb. 3 7.5
 FOMC
 
 6.0 . . - 7.0
@@ -220,7 +224,8 @@ Years Ahead
 Nominal Trade-Weighted Dollar
 Exchange Rates
 
-Daily -- Broad Index
+Daily
+-- Broad Index
 -- Major Currencies Index
 
 10 20 30
@@ -302,8 +307,9 @@ Thirty-year Bond Basis Points
 aily . 17
 
 Jul Aug Sep Oct Nov Dec Jan Feb Mar
-198*Spreads of next-to-mosP-recently over most-recently issue security.
+198
 
+*Spreads of next-to-mosP-recently over most-recently issue security.
 Note. The new thirty-year Treasury security was issued on 2/15.
 
 S&P 500 Implied Volatility
@@ -342,8 +348,9 @@ Jul Aug Sep Oct Nov Dec Jan Feb Mar
 Percent Average Stripped Brady Bond Spread* Basis Points
 
 ep Oct Nov Dec Jan Feb Mar Jul Aug Sep Oct Nov Dec Jan Feb Mar
-1998 1999 1998 1999*J.P. Morgan Emerging Market Bond Index, an average of stnpped Brady
+1998 1999 1998 1999
 
+*J.P. Morgan Emerging Market Bond Index, an average of stnpped Brady
 bond yield spreads over Treasuries for ten emerging market countries.
 
 o.I o.
@@ -1044,8 +1051,8 @@ Mar 26 99
 
 Short-term Long-term
 
-Treasury bills s Comm. U.S. government constant Indexed yields M unicipal 
-vntional home
+Treasury bills s Comm. U.S. government constant Indexed yields M 
+unicipal vntional home
 
 FdTreasury ills secondary paper m sMoody's
 Federal secondary market market aturity yields a Bond primary marketfunds sae paper Purity yields Bya
@@ -1594,7 +1601,8 @@ and have been adjusted to remove discontinuities.
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 
@@ -1799,7 +1807,9 @@ outright
 holdings 5
 
 total
-4 Net RPs
+4
+
+Net RPs
 
 14,670
 40,586

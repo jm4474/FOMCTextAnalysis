@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2147,7 +2150,10 @@ Dec. *3,510 * 953 58 291 200p 1,050p -850p -4,977 -4,958
 Dec. 6 3,899 938 85 322 336 589 -253 -4,233 -4,415
 13 3,564 975 108 383 244 805 -561 -5,602 -4,647
 29 *3,114 * 849 19 260 206 1,221 -1,015 -4,899 -5,476
-27 *3,520 *1,107 19 197 2 57p 1,120p - 86 3p -4,781 -5,445
+27 *3,520 *1,107 19 197 
+
+2
+57p 1,120p - 86 3p -4,781 -5,445
 
 1973 -- Jan. 3 *3,718 * 871 19 142r 486p 1,751p -1,265p -5,001p -4,338p
 10 *3,212 * 843 115p 1OOp 60p 6 91p - 6 31p -5,31 6 p -5,899p
@@ -3951,8 +3957,8 @@ Deposit Gov't
 
 1WnF Reserve requirements on Euro-dollar borrowing9 are Included helinnlng October 16, 1969, and requirements on bank-related commercial paper are included beginlftng
 
-Oetbher 1 1970 Adjusted credit proxy includes mainly total member hank depoost shbject to reserve requirefents, bank-related conmemrcia paper, and 
-Euro-dbllar
+Oetbher 1 1970 Adjusted credit proxy includes mainly total member hank depoost shbject to reserve requirefents, bank-related conmemrcia 
+paper, and Euro-dbllar
 
 borrowings of U S banks Weekly data are daily averages for statement weekt Monthly data are daily averages except for nonbank confercial paper figures which
 are for lest day of month Weekly data are not available for 3, total loans and investments and thrift institution deposits

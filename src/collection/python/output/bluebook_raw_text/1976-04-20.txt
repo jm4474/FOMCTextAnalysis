@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -239,8 +242,8 @@ M3 (M2 plus deposits at
 thrift institu-
 tions) 6.8 11.2 10.8 12.4 10.8
 
-M4 (M2 plus CD's) 10.6 6.3 6.3 4.6 
-4.0
+M4 (M2 plus CD's) 10.6 6.3 6.3 
+4.6 4.0
 
 M5 (M3 plus CD's) 9.0 9.6 9.0 8.2 7.9
 
@@ -1214,9 +1217,13 @@ TABLE 1 CLASS II-FOMC
 BANK RESERVES APRIL 16, 1976
 (ACTUAL AND CURRENT PROJECTIONS)
 
-RSERVES AVAILABLE AGGREGATE RESERVES REQUIRED RESERVESRESERVES AVAILABLE SEASONALLYADJUSTEDdFOR PRIVATE ASEASONALLY ADJUSTEDFOR PRIVATE
-Period NONBANK DEPOSITS Total Nonborrowed Total Private Total Time Gov't. and
+RSERVES AVAILABLE AGGREGATE RESERVES REQUIRED 
+RESERVES
 
+RESERVES AVAILABLE SEASONALLYADJUSTED
+dFOR PRIVATE ASEASONALLY ADJUSTEDFOR PRIVATE
+
+Period NONBANK DEPOSITS Total Nonborrowed Total Private Total Time Gov't. and
 SA NSA Reserves Reserves Required Demand Deposits InterbankSA NSA
 
 1 2 3 4 5 6 7 8
@@ -1798,7 +1805,8 @@ TABLE 6
 SELECTED INTEREST RATES
 (Per Cent)
 
-Short-Term . Lona-Te r m
+Short-Term . Lona-Te
+r m
 
 Treasury Bills 90-119 Day CD's New ssue-NYC aA Ut .y Municipal U.S. Govt.(20- IFNA lONMA
 Federal Commercial New Recently Bond yr, Constant Auction Guaranteed
@@ -1890,7 +1898,8 @@ NOTE:
 4.77
 
 4.73
-4 .75p
+4
+.75p
 
 (3)
 
@@ -2054,7 +2063,10 @@ NOTE:
 8.54
 
 8.50
-8.4 6p
+8.
+
+4
+6p
 
 (10)
 
@@ -3073,14 +3085,15 @@ APPENDIX TABLE 2-A
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Demand otal Other Savings Credit Savings Term ICommercialTime Mutual ShortPeriod Currency Dp Time Than ank Union CD's Bonds US
-T  v't 
+T  
 
+v't 
 C
+
 Paper
-
 Deposits CD's and S & L Shares Securities
-. Sharesy 1
 
+. Sharesy 1
 1 2 3 4 5 6 7 8 9 10
 
 S(Per cent annual rates of growth)

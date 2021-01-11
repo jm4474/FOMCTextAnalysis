@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -189,7 +192,8 @@ System and Treasury.
 
 The bulk of this increase was recorded in its Ml component, which posted
 
-growth rates of 27-1/2 percent in May and 7-1/2 percent in June.2
+growth rates of 27-1/2 percent in May and 7-1/2 percent in June.
+2
 
 The growth in liquid deposits owed in part to the latest wave of mort-
 
@@ -2001,11 +2005,13 @@ QIV 1991 -
 
 QIV 1992 -
 
-4 - 6.5 (7.3) 2 . 4
+4 - 6.5 (7.3)
+2 . 4
 
 3.5 - 6 (2.3) 2 , 4
 
-2.5 - 5.5 (8.5) 2
+2.5 - 5.5 (8.5)
+2
 
 5 - 97 (7.2)
 
@@ -2069,7 +2075,8 @@ QIV
 
 2.5 - 6.5 (2.0)
 
-2 - 6 (0.9) 1 2
+2 - 6 (0.9)
+1 2
 
 M3
 
@@ -2099,7 +2106,8 @@ M3
 
 1 - 5 (0.5)
 
-0.5 - 4.5 (-0.2) 1 2
+0.5 - 4.5 (-0.2)
+1 2
 
 at end of policy
 
@@ -2111,7 +2119,8 @@ financial Debt
 6 - 9 (8.8)
 5
 
-6 - 9 7  (7.1) 5
+6 - 9 7  (7.1)
+5
 
 8.5 - 11.5 (10.5)
 
@@ -2186,7 +2195,8 @@ n.s (8.0)
 
 n.s (14.3)
 
-n.s. ( 9.8) 12
+n.s. ( 9.8)
+12
 
 QIV 1992
 
@@ -2903,7 +2913,8 @@ MAY
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2276,7 +2279,8 @@ n.s.--not specified.
 
 3 - 8
 
-11n.s
+11
+n.s
 
 n.s
 
@@ -3724,7 +3728,8 @@ Data on this table include revisions from the 1991 benchmark and seasonal review
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 
+1
 
 IMion of dollr, not seaonlly adiusted
 

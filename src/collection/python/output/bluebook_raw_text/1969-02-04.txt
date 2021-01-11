@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1267,7 +1270,8 @@ MONEY SUPPLY COMPONENTS:
 
 36 -
 
-16 DEMAND DEPOSITS146
+16 DEMAND DEPOSITS
+146
 
 142
 
@@ -1303,7 +1307,8 @@ Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required ExcessPeriod Gold Excess
 
 credit (excl. s outside factors total reserves
-floatstock banks net 2/ reserves 3reservesfloat) 1/ banks net 2/ reserves 3/
+floatstock banks net 2/ reserves 3reserves
+float) 1/ banks net 2/ reserves 3/
 
 Year:
 1' (12/28/66
@@ -1487,10 +1492,12 @@ CHANGES IN REQUIRED RESERVE COMPONENTS
 Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-Supporting Supporting private depositsTotal U. S. Gov't. Other than
-Period required demad T l Seasonal changes seasonal changes
+Supporting Supporting private deposits
+Total U. S. Gov't. Other than
 
+Period required demad T l Seasonal changes seasonal changes
 demand Total seasonal changes
+
 reserves deposits Demand Time Demand Time
 
 Year:
@@ -1536,7 +1543,8 @@ TECHNICAL FACTORS AFFECTING RESERVES
 Retrospective and Prospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-Foreign OtherTechnical
+Foreign Other
+Technical
 Technical Treasury deposits nonmember
 
 Period factors Treasury Float

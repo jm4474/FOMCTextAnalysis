@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -995,12 +998,17 @@ I I I I I I I I I I I I I I
 15Z
 S-
 
-Soc
+So
+c
+
 5 -
 
 S -1SX -x _
 
-I I I I I I I i I L
+I I I I I I I 
+i I
+
+L
 
 840
 
@@ -2205,7 +2213,13 @@ Other Overnight denomi- mutual funds, NSA denomi- Term Term Short-
 Demand checkable RPs and MMDAs Savings nation general Instlitu- nation RPs Eurodollars Savings term Commer- Bankers
 Period Currency deposits deposits Eurodollara NSA deposits time purpose, lions time NSA NSA bonds Treasury clal paper accep-
 
-NSA deposits1  nd broker/ only deposits 3  securities lances
+NSA deposits
+1  
+
+nd broker/ only deposits
+3  
+
+securities lances
 dealer
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 t6

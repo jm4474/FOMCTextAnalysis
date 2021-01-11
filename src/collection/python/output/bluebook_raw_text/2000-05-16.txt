@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1048,10 +1051,12 @@ SELECTED INTEREST RATES
 
 Short-term Long-term
 
-Treasury bills Cs Comm. U.S. govemen constant I I Municipal mortgagesFederal secondary market secondary pm. U.S.g r meteonstant Indexed yields Moody's Bond primary market
-funds market Baa Buyer
+Treasury bills Cs Comm. U.S. govemen constant I I Municipal mortgages
+Federal secondary market secondary pm. U.S.g r meteonstant Indexed yields Moody's Bond primary market
 
+funds market Baa Buyer
 3-month 6-month 1-year 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
+
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 99 -- High
@@ -2137,7 +2142,8 @@ redemptions
 
 1,069
 
-330..---..
+330
+..---..
 
 52.4 68.1
 

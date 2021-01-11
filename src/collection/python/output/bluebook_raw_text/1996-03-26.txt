@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1096,8 +1099,13 @@ Money market
 Demand Other Small mutual funds Large Short-term
 Period urrency des checkable Savins, denomination denomination RP's
 
-," Eurodollar Savings re r Commercial Bankers
-deposits time deposits2  Retail Institution- time deposits' bond securities ppe acceptances
+,
+" Eurodollar Savings re r Commercial Bankers
+
+deposits time deposits
+2  
+
+Retail Institution- time deposits' bond securities ppe acceptances
 
 only
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -235,7 +238,8 @@ Annual rates of increase 4/
 
 I I II
 
-1/ Average of total number of days in period. p - Preliminary.
+1/ Average of total number of days in period. 
+p - Preliminary.
 
 2/ Includes issues carrying 5-year and 10-year call protection, * - issues carry a 10-year call protection.
 

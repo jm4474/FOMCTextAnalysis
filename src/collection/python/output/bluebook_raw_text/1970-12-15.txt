@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1160,7 +1163,9 @@ DECEM I R 11, 1970
 Adjusted U.S. Government Nondeposit T
 Credit Proxy Money Supply Demand Deposits Time Deposits ources of Funds Total ReservesCredit Proxy Demand Deposits Sources of Funds
 
-Period Path 2 3 Path 4 Patth 6 7 Path Path 10 11Pathof Current sof Current as of Current of Current of Current asof Current
+Period Path 2 3 Path 4 Patth 6 7 Path Path 10 11Path
+of Current sof Current as of Current of Current of Current asof Current
+
 Po roj. Proj. Proj. P rol. Prol. Proj.Nov. 17 Nov. 17 Nov. 17 Nov. 17 Nov. 17 Nov. 17
 
 1970- June
@@ -2566,7 +2571,9 @@ September
 Oct.ber
 November p
 
-1970--July 1
+1
+970--July 1
+
 8
 15
 22
@@ -3273,7 +3280,9 @@ Nov. 4
 25 p
 
 Dec. 
-2 p
+2 
+
+p
 9 p
 
 1/ For retrospective

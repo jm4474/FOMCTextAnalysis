@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -169,7 +172,8 @@ Domestic Nonfinancial Debt 8.6 9.6 9.5 9.4 -- -- 9.4
 
 Bank Credit 12.8 7.6 11.2 8.7 -- -- 9.7
 
-4/Reserve Measures-
+4/
+Reserve Measures-
 
 Nonborrowed reserves-/ -17.5 8.8 14.7 5.2 5.6 5.4 4.6
 
@@ -181,7 +185,8 @@ Memo: (Millions of dollars)
 Adjustment and seasonal 6/
 borrowing 372 304 474 598 398 -
 
-Excess reserves 548 435 433 477 470 6 /
+Excess reserves 548 435 433 477 470 
+6 /
 
 1/ Projections based on data available through May 18.
 
@@ -1285,9 +1290,13 @@ Short-Term Long-Tems
 Treasury bill CD money U.S. govrnment constant corporate mun.- home mortages
 federall oondary market secondy m arket n maturity yields Aae utility clpal conver-
 
-Pe d  fund marlet P*er mutual dnme recently Bond tlonal FHANA ONMA
-.ntM 1-onith 1-yer 3month 1n4 fund lo  Syer 10-yar 3-yWr oflered Buyer tS L ce ll g security
+Pe
+d  
 
+fund marlet P*er mutual dnme recently Bond tlonal FHANA ONMA
+.ntM 1-onith 1-yer 3month 1n4 fund 
+
+lo  Syer 10-yar 3-yWr oflered Buyer tS L ce ll g security
 1 1 4 5 1 1 I 9 1 1 11 I 13 14 i 1-
 
 1982--Hlgh
@@ -1763,12 +1772,20 @@ Net Changes In System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted May 23, 1983
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases' Net change
+3  
 
-Period ills tOulrlghl Nei RPssbhange,,r  within within holdinPch oan -yar 1-5 5-10 over 10 total 1-5 o10 over 10 total o 
+Federal agencies net purchases' Net change
+
+Period ills tOulrlghl Nei RPssbhange,,r  within within holdin
+P
+ch
+
+o
+an -yar 1-5 5-10 over 10 total 1-5 o10 over 10 total o 
+
 N e
-
 l 
+
 R
 
 1978 870 1.184 4,188 1,526 1,063 7,962 -47 45 104 24 127 8.724 -1.774

@@ -47,6 +47,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1961,8 +1964,9 @@ variables include the staff’s estimate of trailing four-quarter core PCE infla
 of inflation two and three quarters ahead (πt+2|t and πt+3|t), its assessment of the current output gap 
 ( t ), its one-quarter-ahead forecast of the output gap (*ty y− *1| 1|t t t ty y+ +− ), its three-quarter-ahead 
 forecast of annual average GDP growth relative to potential ( 4 4 *3| 3|t t t ty y+ +Δ − Δ ), and the assumed value 
-f policymakers’ long-run inflation objective (o *π ).    
+f policymakers’ long-run inflation objective (o *π ).   
 
+ 
 For periods prior to the current quarter, rule prescriptions are computed using the staff’s current 
 estimates of the output gap and inflation rate.  Prospective prescriptions are computed using dynamic 
 simulations of the FRB/US model, implemented as though the rule will be followed henceforth, starting 

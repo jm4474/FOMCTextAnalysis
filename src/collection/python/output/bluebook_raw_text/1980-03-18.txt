@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1020,7 +1023,8 @@ SELECTED INTEREST RATES
 Short-term
 CDs
 
-Treasury Bills Comn. BankFederal B s Secondary Paper Prim
+Treasury Bills Comn. Bank
+Federal B s Secondary Paper Prim
 funds Market Auction Market Cpm. Re
 
 3-mo l-vr I 6-mo 3-mo
@@ -1226,7 +1230,10 @@ ClASS II - FOM(
 MARCH 14, 1980
 
 Home Mortgages_-
-a Secondary MarketPrimary MA  CN MA
+a Secondary Market
+
+Primary MA  CN
+MA
 
 Auc. Sec.-L
 (15)

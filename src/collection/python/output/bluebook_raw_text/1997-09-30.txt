@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1158,7 +1161,10 @@ Period M1 M2 M3 L and U. S. other' total'
 In M2 In M3 only investments' government'
 
 1 2 3 4 5 8 7 8 9 10
-Annual arowth rates(% ):
+Annual arowth rates(
+
+%
+):
 
 Annually (Q4 to Q4)
 1994 2.5 0.6 -0.3 6.5 1.7 2.7 6.9 5.7 4.8 5.1
@@ -1227,7 +1233,10 @@ Seasonally adjusted
 Money market
 
 Other Small mutual funds Large Short-term
-Perd urrency Demand checkable Sa denminati denominattmion RP's" Eurodollars" Sing s TaCommercial BankersP od urey deposits deposits' bonds paper' acceptances'deposits deposits depos time deposits' Retail' Institution- time deposits' securities,
+Perd urrency Demand checkable Sa denminati denominattmion RP's" Eurodollars" Sing s TaCommercial 
+
+Bankers
+P od urey deposits deposits' bonds paper' acceptances'deposits deposits depos time deposits' Retail' Institution- time deposits' securities,
 
 only
 
@@ -1657,7 +1666,8 @@ September 24
 
 596
 
-209.6-.
+209.6
+-.
 
 --
 

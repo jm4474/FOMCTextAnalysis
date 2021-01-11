@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1132,7 +1135,9 @@ corpwate I ( convPnitonal home mortgages
 US gomnmen constant A ullMy | municipal I secondary I
 r matuly yields recntly | Bond ) market ptmar rnartre
 
---i ) I ..-.-l aI I -. lu nid |-B l J Jal I I1- e edu -la -e lARM
+--i ) I ..-.-l aI I -. lu nid |-B l J Jal I I1
+- e edu -la -e lARM
+
 10 11 1- -_ _12 1 _ 1. 14 1 1 - 1 Ir
 
 10,47
@@ -1298,7 +1303,8 @@ p -- pretnilly data
 
 Strictly Confidential (FR)
 
-Money and Credit Aggregate Measures Class II FOMC
+Money and Credit Aggregate Measures Class 
+II FOMC
 
 Seasonally adjusted MAR. 26, 1990
 
@@ -1723,8 +1729,9 @@ derived by averaging end-of-month levels of adjacent months, and have been adjus
 
 
 Strictly Confidential (FR)-
-Class II FOMCComponents of Money Stock and Related Measures
+Class II FOMC
 
+Components of Money Stock and Related Measures
 seasonally adjusted unless otherwise noted MAR. 26, 1990
 
 Smell Money market Large
@@ -2122,7 +2129,8 @@ Treasu bills Treasury coupons Federal Net change
 Net purchases_ agencies outright
 Period Net Redep- Net within Redenp- Net redemptions holdings
 
-Spurchases tions (-) chan 1-year 1-5 5-10 over 10 tions (-) change (-) total Net RP 5
+Spurchases tions (-) chan 1-year 1-5 5-10 over 10 tions (-) change (-) total Net RP
+5
 
 1984
 1985

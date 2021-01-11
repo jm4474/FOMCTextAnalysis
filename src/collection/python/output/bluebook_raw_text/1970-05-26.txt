@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -871,14 +874,15 @@ March - 751 129 880 90 225 287 278
 April - 687 178 865 227 331 119 188
 
 Weekly: 422 295 490
-1969 Nov. 5 -1,032 296 1,328 121 422 
+1969 Nov. 5 -1,032 296 1,328 121 
 
-295 490
+422 295 490
 
-12 - 873 371 1,244 350 296 189 409
+12 - 873 371 1,244 350 296 189 
+409
 
-19 - 925 146 1,071 - 390 260 
-421
+19 - 925 146 1,071 - 390 
+260 421
 
 26 -1,072 138 1,210 8 438 260 504
 
@@ -911,13 +915,14 @@ Mar. 4 - 638 198 836 32 46 419 339
 
 11 861 71 932 169 349 190 22:
 
-18 - 667 150 817 146 216 185 
-270
+18 - 667 150 817 146 216 
+185 270
 
-25 - 840 96 936 11 289 357 279
+25 - 840 96 936 11 289 357 
+279
 
-Apr. 1 - 610 339 949 232 264 161 
-29
+Apr. 1 - 610 339 949 232 264 
+161 29
 
 8 -317 179 496 -- 269 
 49 178
@@ -931,7 +936,8 @@ Apr. 1 - 610 339 949 232 264 161
 May 6 p - 428 345 773 93 248 220 
 212
 
-13 p - 790 23 813 150 254 203 206
+13 p - 790 23 813 150 254 203 
+206
 
 20 p -1,064 118 1,182 331 310 
 245 296
@@ -1045,7 +1051,10 @@ h________ _ 'I Ibinlt tim' Euro-do'l Ial +
 P[ I v.ite l id , iJthli n n e.hp.
 
 lo l .I 'd I 1 I'd Flunrls.
-,d l", nI , 11 *, 1F-8n .
+,d l", nI
+
+,
+11 *, 1F-8n .
 
 'ntl ly
 168-- January
@@ -1344,7 +1353,9 @@ I . . 43.4
 I ',h . I I ,s
 1'i6.8 44. 1
 1'1 I1 44,2
-IL) . I iI l 'l .i *, ', ''I Im . ' 4
+IL) . I i
+
+I l 'l .i *, ', ''I Im . ' 4
 
 19'I I ..
 
@@ -1394,10 +1405,11 @@ I 1.4
 
 2/ Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial bank.
 
-3/ Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial bank and 
-the U.S. Government, less
+3/ Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial 
+bank and the U.S. Government, less
 
-process of collection and Federal Reserve float, and (2) foreign demand balances at Federal Reserve Bank.
+process of collection and Federal Reserve float, and (2) foreign demand balances at Federal 
+Reserve Bank.
 
 4/ Excludes interbank and U S Government time deposits
 
@@ -1901,11 +1913,11 @@ deposits.
 
 Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial bank
 
-Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial 
-bank, and the U S Government, less
+Includes (1) demand deposits at all commercial banks, other than those due to domestic 
+commercial bank, and the U S Government, less
 
-process of collection and Federal Reserve float, and (2) foreign demand balances 
-at Federal Reserve Banks.
+process of collection and Federal Reserve float, and (2) foreign demand 
+balances at Federal Reserve Banks.
 
 Excludes interbank and U.S. Government time deposits.
 

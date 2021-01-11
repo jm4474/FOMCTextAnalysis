@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2358,7 +2361,8 @@ on monthly averages of daily figures)
 Private Time Deposits
 Monthly Money Supply Currency 1/ Demand D s
 
-__ _Deposits2/ AdjustedDeposits 2/
+__ _Deposits2/ Adjusted
+Deposits 2/
 
 1964--January
 February

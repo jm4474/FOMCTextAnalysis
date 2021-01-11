@@ -36,6 +36,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -775,7 +778,9 @@ SELECTED INTEREST RATES
 Short-term Long-term
 T edr CDs Conventional home
 
-Feeral se ary blse a Comm. U.S. government cnstant Indexed yields Moody's Municipal mortgagesfunds secondary market market maturity yields Ba Bond primary market
+Feeral se ary blse a Comm. U.S. government cnstant Indexed yields Moody's Municipal mortgages
+funds secondary market market maturity yields Ba Bond primary market
+
 3-month 6-month 1-year 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
@@ -1318,8 +1323,9 @@ Seasonally adjusted
 _____ __Money stock measures Domestic nonfinancial ebt
 
 nontransactions components U.S.
-Period M1 M2 M3 government1 other 1  total'
+Period M1 M2 M3 government1 other
 
+1  total'
 In M2 In M3 only government
 
 1 2 3 4 5 6 7 8
@@ -1398,7 +1404,13 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 
 Net Redemptions Net Net Purchases 3 Redemptions Net Redemptions outright Short- Long- Net
-Purchases2 (-) Change < 1 1-5 5-10 _ ver10 (-) Change holdings 4 Term 6 Term 7 Change
+Purchases2 (-) Change < 1 1-5 5-10 _ ver10 (-) Change holdings 4 Term
+
+6
+Term
+
+7
+Change
 
 1999 QIII
 

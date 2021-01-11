@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1918,7 +1921,8 @@ Dec 5 -304 - - 593 288 710 188 -424 62 412
 19 1,002 73 73 2,752 3,900 868 186 -370 106 -578
 
 26 420 50 -- -5,874 -5,404 
-6 13p -447 152 -238 556
+6
+13p -447 152 -238 556
 
 1974 -- Jan. 2 659 205 121 5,124 6,110 716p 168 -885 293 -294o
 9 205 - -2 -3,819 -3,616 -36p -434 1,025 669 -114p
@@ -2153,7 +2157,9 @@ B ill. Bonds Bonds Reserves Total Seasonal 8 New York 38 5thera
 476p
 
 3 8 6 p
--2p321p
+-2p
+
+321p
 
 1.223
 12
@@ -2186,12 +2192,19 @@ B ill. Bonds Bonds Reserves Total Seasonal 8 New York 38 5thera
 
 1,475
 1,303
-1,489 p
+1,4
+
+89
+p
+
 1,038p
 
 1,210p
 
-776p
+77
+6
+p
+
 989p
 
 3
@@ -2204,7 +2217,8 @@ B ill. Bonds Bonds Reserves Total Seasonal 8 New York 38 5thera
 
 126
 84
-4 1p
+4 1
+p
 
 93
 80
@@ -2217,7 +2231,9 @@ B ill. Bonds Bonds Reserves Total Seasonal 8 New York 38 5thera
 3 p
 
 3 1 p
-19p20 p
+19
+p20
+p
 
 (8)
 
@@ -2296,7 +2312,11 @@ B ill. Bonds Bonds Reserves Total Seasonal 8 New York 38 5thera
 -9,281
 
 - 9,541
--10, 79 7p
+-10,
+
+79 7
+p
+
 -11,314p
 
 Y1..- overnment Security dealer trading positions are on a commitment basis. Trading positions, wh-ch exclude Treasury bills financed by repurchase agreements
@@ -2373,7 +2393,14 @@ Dec. 5 10.17 7.36 7.31 9.33 9.50 9.25 8.06 7.98 5.15 6.72
 9 9.76 7.57 7.01 8.98 9.13 8.88 8.17r 8.25 5.22 6.98
 t6 9.77 7.89 7.09 8.88 9.13 8.88 8.27p 8.
 
-2 5p 5.24 6 .99p 8.71
+2
+5p 5.24 
+
+6
+.
+9
+9p 8.71
+
 23
 30
 

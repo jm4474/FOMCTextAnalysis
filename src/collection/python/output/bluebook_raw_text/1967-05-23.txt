@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1039,7 +1042,8 @@ BILLIONS OF DOLLARS BILLIONS OF DOLLARS
 
 NEGOTIABLE CD'S
 
-_(Unadjusted) 2__20
+_(Unadjusted) 2__
+20
 
 10
 
@@ -1303,8 +1307,9 @@ Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
 Total Nonborroweduired reserves
-Period Against private depositsreserves reserves Total
+Period Against private deposits
 
+reserves reserves Total
 Total Demand
 
 1965--January 21,960 21,625 21,563 20,702 15,730

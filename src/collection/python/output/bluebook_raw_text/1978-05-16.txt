@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1120,7 +1123,10 @@ S-I930
 
 - I
 
-o I .,T - 9 o
+o I .,T -
+9
+
+o
 0"-- *- 9107%7
 
 3 - 890
@@ -1842,7 +1848,10 @@ Total Savings Deposits Time Deposits
 Time Memo: Large
 
 Period Tand Total Indvidual Business Government Total Large Small Negotiable CD's
-Savings Nonrofit (NSA) (NSA) Denomina t ion Denomination
+Savings Nonrofit (NSA) (NSA) Denomina
+
+t
+ion Denomination
 
 Nonprofit
 
@@ -2394,7 +2403,8 @@ MAY 12, 1978
 Treasury Treasury Coupons Federal Agencies Net Change Net
 Bills Net Net Purchases 3/ Net Purchases 4/ Outright RP's
 
-Change 2/ 1 - 5 5 - 10 vr Total Wi - 5 5 - 10 Ovr Total Hoing 6/1 year 10 1 year 10 Total 5/
+Change 2/ 1 - 5 5 - 10 vr Total Wi - 5 5 - 10 Ovr Total Hoing 6/
+1 year 10 1 year 10 Total 5/
 
 1977--Qtr.
 Qtr.
@@ -2642,7 +2652,10 @@ MAY 12, 1978
 U.S. Govt. Security Underwriting Member Bank Reserve Positions
 Dealer Positions Syndicate Positions cess** Borrowing at FRB** Basic Reserve Deficit**
 
-BillsCoupon Corporate Muniipal e s  s easonal 8 rk38 therBillsIssues Bonds Bonds Reserves Total Seasonal 8 New York 38 Others
+BillsCoupon Corporate Muniipal 
+e s  
+
+s easonal 8 rk38 therBillsIssues Bonds Bonds Reserves Total Seasonal 8 New York 38 Others
 
 513
 -111
@@ -3505,8 +3518,8 @@ M39 M5, M6, M7, TOTAL LOANS AND INVESTMENTS AND THRIFT INSTITUTION DEPOSITS.
 
 
 
-APPENDIX TABLE 2-A MAY 12, 
-1978
+APPENDIX TABLE 2-A MAY 
+12, 1978
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 

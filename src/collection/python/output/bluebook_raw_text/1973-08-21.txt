@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -140,7 +143,8 @@ Reserve and Monetary Aggregates
 
 RPD
 
-M 1
+M
+1
 
 M2
 
@@ -1688,7 +1692,8 @@ Millions of Dollars
 
 U. S. Govt. Security Other Security Member Bank Reserves Positions
 
-Period Dealer Positions Dealer Positions__ber Bank Re s
+Period Dealer Positions Dealer Positions__ber Bank 
+Re s
 
 Bills Coupon Issues Corporate Municipals Excess** Borrowing at FRB** Basic Reserve Deficit
 Bonds Bonds Reserves Total Seasonal 8 New York 38 Other
@@ -1726,11 +1731,24 @@ July 1,425 265 24 139 250p 1,953p 131p -2,488p -6 ,096p
 
 July 4 2,013 391 0 134 631 2,402 111 -2,771 -6,137
 11 1,382 373 77 129 -20 1,680 117 -2,860 -7,267
-18 1,472 328 10 144 4 05p 1,722p 117p -2,202 -6,651
+18 1,472 328 10 144 
+
+4
+05p 1,722p 117p -2,202 -6,651
+
 25 *1,362 * 234 10 148 16p 2,080p 12 8p -2,374 -5,176
 
 Aug. I *1,193 * 58 0 86 4 76 p 2,094p 141p -2,262 -4,725
-8 * 897 *112 0 53 24p 2 ,008p 158p -2,4 11p -5,49 0p
+8 * 897 *112 0 53 24p 2 ,008p 15
+
+8
+p -2,
+
+4
+11p -5,
+
+49
+0p
 
 15 *2,060 * -18 lop 60p 259p 1,916p 148p -2,706p -6097p
 22

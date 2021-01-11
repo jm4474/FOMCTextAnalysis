@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -289,8 +292,8 @@ other than large CD's) 8.5 10.6 10.4 11.9 10.3
 M3 (M2 plus deposits at thrift
 institutions) 11.3 12.6 12.8 13.9 11.6
 
-M4 (M2 plus CD's) 6.4 6.7 7.9 9.8 
-9.3
+M4 (M2 plus CD's) 6.4 6.7 7.9 
+9.8 9.3
 
 M5 (M3 plus CD's) 9.7 10.0 11.0 12.4 11.1
 
@@ -2372,7 +2375,9 @@ Dec. 1
 205
 
 221
-28 9p
+28
+
+9p
 
 334
 212
@@ -3248,7 +3253,9 @@ I I I
 APPENDIX TABLE 1-B
 
 MONEY AND CREDIT AGGREGATE MEASURES
-SEASONALLY ADJUSTED, BILLIONS OF DOLLARS DEC. 17, 1976
+SEASONALLY ADJUSTED, BILLIONS OF DOLLARS DEC. 17, 
+
+1976
 
 BANK CREDIT MONEY STOCK
 BANK RESERVES MEASURES MEASURES
@@ -3316,7 +3323,10 @@ APPENDIX TABLE 2-A DEC. 17, 1976
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Time ind Savings Deposits Mutual
-nd Savings Credit Short TerPeriod Currency Dm and Other Thn CD's Bn Unin Savings US Commercialp os t s  Total  CD' s  re s  B onds l  c u per j /TtriodL :h s IrecuritieTotal Savings I Other Shares /
+nd Savings Credit Short Ter
+
+Period Currency Dm and Other Thn CD's Bn Unin Savings US Commercialp os t s  Total  CD' s  re s  B onds l  c u
+per j /TtriodL :h s IrecuritieTotal Savings I Other Shares /
 
 1 2 3 4 5 6 7 8 9 10 11 12
 
@@ -3379,12 +3389,13 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Time and Savings Deposits Mutual Short- TotalSavings Credit Term Com- Non- Total
 
-Periodncy Demand Bank Union Savings U.S mercial Deposit Gov't
+Periodncy Demand Bank Union Savings U.S mercial Deposit 
+Gov't
+
 Deposits Other Than CD's & S&L Shares Bonds Gov't Paper Funds Demand
-
 Total C D's c i Se / , Deposits
-Total ISavings Other Shares0 1 2Sec 1
 
+Total ISavings Other Shares0 1 2Sec 1
 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 
 ANNUALLY:

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -206,7 +209,9 @@ lndex(7/1/98)= 100
 Aug. 24 160 800
 
 750
-140 700700
+140 700
+
+700
 
 650
 120
@@ -298,8 +303,9 @@ Ten-year Swap Spread and Eurodollar Implied Volatility
 Percent Basis points
 
 S- - 120
-Daily Aug. 24...-..... Volatility (left scale) FOMC
+Daily Aug. 24
 
+...-..... Volatility (left scale) FOMC
 Swap Spread (right scale) 110
 
 100
@@ -1233,10 +1239,12 @@ Seasonally adjusted
 o___ _nev stock measures Domestic nonfinancial debt
 
 nontransactions components .
-Period M1 M2 M3 other' total'In M2 In M3 only 
+Period M1 M2 M3 other' total'
 
-M  government o
-t he r  to t a
+In M2 In M3 only 
+M  government 
+
+o t he r  to t a
 
 1 2 3 4 5 6 7 8
 Annual arowth rates(%):

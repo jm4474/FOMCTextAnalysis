@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -405,7 +408,8 @@ for March-April
 
 M1 5-7 44-6k 4-6
 
-M2  8-10 7*9% 7-9
+M2  8-10 7*9% 
+7-9
 
 RPD 34-5k 2k-4k 1j-3k
 
@@ -1542,10 +1546,12 @@ Low -289 -309 0 27 -168 647 13 -2,447 - 6,046
 Mar. 1,986 583 68 239 134 1,314 32 -5,030 -11,058
 
 Apr. 1,435 99 39 78 182 1,736 40 -3,952 -11,603
-May 408 85 142 83 178 2,590 102 -3,171 - 9,091June 580 9 66 124 204 3,020 134 -4,445 - 9,920
+May 408 85 142 83 178 2,590 102 -3,171 - 9,091
+June 580 9 66 124 204 3,020 134 -4,445 - 9,920
 
 July 457 -214 14 79 162 3,075 149 -3,522 - 9,555
-Aug. 1,758 398 33 103 197 3,337 164 -4,231 - 9,224Sept. 2,309 552 23 85 180 3,282 139 -4,235 - 8,250
+Aug. 1,758 398 33 103 197 3,337 164 -4,231 - 9,224
+Sept. 2,309 552 23 85 180 3,282 139 -4,235 - 8,250
 
 Oct. 2,174 654 25 166 197 1,813 117 -4,602 - 8,689
 Nov. 2,900 1,608 83 268 205 1,252 67 -6,322 - 9,715
@@ -1558,11 +1564,17 @@ Feb. *3,329 *2,121 144 166 216p 147p lip -6,318 - 9,533
 8 2,487 2,845 14 75 137 311 19 -5,218 -10,332
 
 15 3,351 2,036 174 88 -42 609 13 -5,633 -10,677
-22 1,586 1,619 130 66 186 594 12 -5,853 - 9,61629 2,308 1,615 6 48 174 142 10 -4,713 - 8,504
+22 1,586 1,619 130 66 186 594 12 -5,853 - 9,616
+29 2,308 1,615 6 48 174 142 10 -4,713 - 8,504
 
-Feb. 5 2,739 2,178 0 105 395 98 11 -5,652 - 8,65312 3,555 1,863 59 203 59 90 10 -7,138 - 9,07419 *3,644 *1,699 128 192 158 229 12 -6,439 -10,18426 *3,335 *2,607 244 165 177p 180p lip -5,866 - 9,961
+Feb. 5 2,739 2,178 0 105 395 98 11 -5,652 - 8,653
+12 3,555 1,863 59 203 59 90 10 -7,138 - 9,074
+19 *3,644 *1,699 128 192 158 229 12 -6,439 -10,18426 *3,335 *2,607 244 165 177p 180p lip -5,866 - 9,961
 
-Mar. 5 *3,146 *2,249 266 117 428p 70p 9p -5,720p - 9,271p12 *3,215 *2,159 39 9p 150p 258p 61p 7p -7,4 66p -11,376p19
+Mar. 5 *3,146 *2,249 266 117 42
+8
+p 70p 9p -5,720p - 9,271p12 *3,215 *2,159 39 9p 150p 258p 61p 7p -7,4 66p -11,376p19
+
 26
 
 NOTE: Government security dealer trading positions are on a commitment basis. Tradin positions, which exclude Treasury bills financed by repurchase
@@ -1573,7 +1585,9 @@ in syndicate which are Friday
 ** Monthly averages for excess reserves and borrowings are weighted averages of statement week figures.
 
 agreements maturing in 16 days or more, are indicators of dealer holdings available for sale over the near-term. Other
-issues still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing atFederal funds purchases. Weekly data are daily averages for statement weeks, except for corporate and municipal issuesfigures.
+issues still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing at
+Federal funds purchases. Weekly data are daily averages for statement weeks, except for corporate and municipal issues
+figures.
 
 * STRICTLY CONFIDENTIAL
 
@@ -2145,10 +2159,14 @@ SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
 
 March 14, 1975
 
-RESERVES MONEY STOCK MEASURES BANK REIT OTHERMEASURES
+RESERVES MONEY STOCK MEASURES BANK REIT OTHER
+MEASURES
 
 Period Available 1 Total Time Thrift Non S
-Non- to CAdi Loans Total Other InstiTotal b wed Support M2  M3  Credit and CD's deposit Gov'tTotalPvt Total Pvt Proxy Invest- Funds Demand
+Non- to CAdi Loans Total Other Insti
+
+Total b wed Support M2  M3  Credit and CD's deposit Gov't
+TotalPvt Total Pvt Proxy Invest- Funds Demand
 
 Deposits Dep ments CD's Deposits
 
@@ -2178,35 +2196,35 @@ Dec. 35,584 34,857 33,423 284.3 216.6 614.3 955.0 494 3 686.0 420.3 330.0 340.7 
 1975--Jan. 35,820 35,421 33,423 282.2 214.1 616.0 959 6 495 8 690.7 426.7 333.8 343.6 92.9 7.6 0.7
 Feb. p 35,015 34,867 33,245 283.9 215.3 621.1 967.9 495.8 692.4 429.4 337.2 346.8 92.2 6.5 0.6
 
-975--Jan. 1 36,193 35,632 33,778 284.3 216.5 615.1 - 494.9 - 423.9 330.8 
-- 93.1 8.2
+975--Jan. 1 36,193 35,632 33,778 284.3 216.5 615.1 - 494.9 - 423.9 
+330.8 - 93.1 8.2
 
-8 35,563 35,252 33,324 282.2 214.3 614.5 - 495.6 -- 425.7 332.4 -- 93.3 
-8.1 --
+8 35,563 35,252 33,324 282.2 214.3 614.5 - 495.6 -- 425.7 332.4 -- 
+93.3 8.1 --
 
-15 36,003 35,394 33,395 282.2 214.1 616.3 - 496.6 -- 427.0 334.0 -- 
-92.9 7.4 1.9
+15 36,003 35,394 33,395 282.2 214.1 616.3 - 496.6 -- 427.0 334.0 
+-- 92.9 7.4 1.9
 
-22 36,123 35,529 33,569 282.4 214.1 616.3 - 495.9 -- 426.7 334.0 
--- 92.7 7.6 1.6
+22 36,123 35,529 33,569 282.4 214.1 616.3 - 495.9 -- 426.7 
+334.0 -- 92.7 7.6 1.6
 
-29 35,616 35,474 33,358 281.4 213.0 616.0 -- 495.0 -- 427.4 334.6 
--- 92.8 7.3 0.1
+29 35,616 35,474 33,358 281.4 213.0 616.0 -- 495.0 -- 427.4 
+334.6 -- 92.8 7.3 0.1
 
-Feb. 5 35,541 35,443 33,413 281.8 213.6 616.8 -- 494.3 -- 427.9 335.0 -- 
-93.0 6.7 0 1
+Feb. 5 35,541 35,443 33,413 281.8 213.6 616.8 -- 494.3 -- 427.9 335.0 
+-- 93.0 6.7 0 1
 
-12 34,859 34,769 33,135 284.2 215.6 621.2 -- 495.5 -- 430.0 337.1 
--- 92.9 6.4 0.1
+12 34,859 34,769 33,135 284.2 215.6 621.2 -- 495.5 -- 430.0 
+337.1 -- 92.9 6.4 0.1
 
-19p 35,014 34,785 33,151 283.6 214.8 621.0 -- 496.0 -- 429.8 337.4 -- 92.3 
-6.5 0.8
+19p 35,014 34,785 33,151 283.6 214.8 621.0 -- 496.0 -- 429.8 337.4 -- 
+92.3 6.5 0.8
 
-26p 34,790 34,610 33,286 284.7 215.9 623.4 -- 497.2 -- 430.1 338.7 -- 
-91.3 6.5 1.3
+26p 34,790 34,610 33,286 284.7 215.9 623.4 -- 497.2 -- 430.1 338.7 
+-- 91.3 6.5 1.3
 
-Mar. 5; 35,031 34,961 33,393 285.1 216.3 623.9 - 494.8 -- 423.9 338.7 - 90.2 
-6.1 0.9
+Mar. 5; 35,031 34,961 33,393 285.1 216.3 623.9 - 494.8 -- 423.9 338.7 -
+90.2 6.1 0.9
 
 NOTES: 1/ Estimated monthly average levels derived by averaging end of current month and end of previous month reported data. Reserve requirements on
 Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning
@@ -2366,7 +2384,8 @@ M Q
 
 6.5
 
-M 2
+M
+2
 
 M Q
 

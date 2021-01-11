@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -659,7 +662,8 @@ o\: ./ .o, .. . ...... .. .. .................
 
 1040
 
-0% 1020- ....... .. . ........ ........ .. .. ... ....................... - 1020
+0% 1020
+- ....... .. . ........ ........ .. .. ... ....................... - 1020
 
 I I I I I I I I 1000
 O N D J F M A M J J A S O N D J F M A M J
@@ -1566,7 +1570,8 @@ I - I - I - - , - 1 - I L 1 ~ .- , .-I 1 I I I I I- -I---_- , , 1
 
 November 12, 1993
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

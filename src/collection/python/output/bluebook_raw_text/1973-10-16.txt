@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -602,7 +605,9 @@ Alt. C
 4.1
 
 Adjusted Credit Proxy
-Alt. A' A r. B Art. C,,=-- m -
+Alt. A' A r. B Art. C
+
+,,=-- m -
 
 446.0
 446.5
@@ -1588,7 +1593,8 @@ July 1,073 27 168 1,148 2,416 2,090 263 -850 311 1,185 795
 Aug. -753 -- -20 -143 -915 -818 93 966 -304 545 680
 
 Sept. -494 -- -30 531 7 -645 -282 1,1
-6 2p -136 3700 475
+6
+2p -136 3700 475
 
 Oct. 1,005
 NOv.
@@ -1615,10 +1621,14 @@ Sept. 5 -228 -- -5 158 -75 530* -198 -7 -132 457
 4
 
 38p* 487 -1,6
-4 9p 61 215p
+4
+
+9p 61 215p
 
 Oct. 3 313 -- -- 1,567 1,88( 1,491 -672p -293p 3p 5
-2 3 p
+2 3
+
+p
 
 10 589 -- 20 -5,668 -5,059 -559 -164 733p 
 254
@@ -1684,7 +1694,16 @@ June 2.281 562 33 120 236 1,851 75 -3,507 -6,463
 
 July 1.625 265 24 139 285 1,953 155 -2,660 -6,106
 Aug. 1,690 39 0 70 177 2,165 163 -2,689 -4,940
-Sept. *2,745 *395 6 80 215p 1,85 3 p 14 8p -3.173 -5.355
+Sept. *2,745 *395 6 80 
+
+2
+15p 1,85
+
+3
+p 1
+
+4
+8p -3.173 -5.355
 
 1973 -- Aug. 1 1,193 58 0 86 499 2.095 141 -2,262 -4,725
 8 897 112 0 53 76 2,006 158 -2,315 -5,372
@@ -1695,13 +1714,26 @@ Sept. *2,745 *395 6 80 215p 1,85 3 p 14 8p -3.173 -5.355
 
 Sept. 5 2,390 386 15 36 477 2,363 168 -2,075 -4,260
 12 3,169 395 0 89 126 1,488 145 -3,471 -6,233
-19 *2,924 * 323 10 58 136p 1,7
+19 *2,924 * 323 10 58 
 
-04p 139p -3,687 -5,672
+1
+36p 1,7
+
+0
+4p 139p -3,687 -5,672
+
 26 *2,255 * 663 0 136 68p 2,191p 1SOp -3,050 -5,649
 
-Oct. 3 *2,124 * 462 60 177 4 36p 1,519p ltAp -3,137p -4,544p
-10 *2,739 * 443 5p 150p 288p 1,355p 131p -3,6 32p -6,697p
+Oct. 3 *2,124 * 462 60 177 4 36p 1,519p l
+t
+Ap -3,137p -4,544p
+
+10 *2,739 * 443 5p 150p 288p 1,355p 131p -3,
+6
+3
+2
+p -6,697p
+
 17
 26
 31
@@ -1709,10 +1741,11 @@ Oct. 3 *2,124 * 462 60 177 4 36p 1,519p ltAp -3,137p -4,544p
 .-- a comme ba Tradg pitlnns which exclude Treasurv bills finenced vby repurchet agree-
 Notes" Government Security duealr tra inR pon on .
 
-ments maturing in 16 days or more. are indicators of dealer holdings available for sale over the near-term. Other security dealer positions 
-are debt
+ments maturing in 16 days or more. are indicators of dealer holdings available for sale over the near-term. Other security dealer 
+positions are debt
 
-iseops still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing at Federal Reserve less net Fed-
+iseops still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing at Federal Reserve 
+less net Fed-
 
 eral funds purchases. Weekly data are daily averages for statement weeks, except for corporate and Msunicipal issues in syndicate which are Friday
 f RIure.C
@@ -1779,7 +1812,10 @@ Oct. 3 10.72 7.22 7.51 9.63 9.75 9.50 7 75 7.90 5.04 6.89 9.11
 10 9.87 7.30 7.35 9.53 9.50 9.38 7.9
 
 6
-p 7.8 6 p 4.99 6.78p --
+p 7.8
+
+6
+p 4.99 6.78p --
 
 17
 24

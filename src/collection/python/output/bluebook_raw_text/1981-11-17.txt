@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1123,10 +1126,12 @@ Percent November 16, 1981
 
 Short-Term Long-Term
 
-Federal Treasury bills Cs comm. bank U.S. government conatant corporate Aae munl- home mortgagesr d  funds market auction secondary paper prime maturity yields utility cpal secondary market
-market 3-month rate 3 j.i yr new recently Bond p a FNMA GNMA
+Federal Treasury bills Cs comm. bank U.S. government conatant corporate Aae munl- home mortgagesr d  
+funds market auction secondary paper prime maturity yields utility cpal secondary market
 
+market 3-month rate 3 j.i yr new recently Bond p a FNMA GNMA
 3-month 1-year 6-month 3-month 3-year 10-year 30-year Buyer conv.I Issue I offered suction security
+
 t ; 2 1 3 1 4 5 1 a 7 8 I 1 10 11 1 1t I IS
 
 1980--Righ
@@ -1439,9 +1444,10 @@ Millions of dollars, not seasonally adjusted
 
 November 16, 1981
 
-Treasury Treasury coupons net purchases 3  Federal agencies net purchases 4  Net change
-Period bills net5 over 10 tota 110 veto 
+Treasury Treasury coupons net purchases
+3  Federal agencies net purchases 4  Net change
 
+Period bills net5 over 10 tota 110 veto 
 N t
 
 chang2 within 1-5 5-10 over 10 total within 1-5 510 over 10 total
@@ -1764,7 +1770,9 @@ j
 I futures and forwards
 s tilb 
 
-] couponsb ll I - I -n b I an I
+] coupons
+
+b ll I - I -n b I an I
 
 8,838
 1,972
@@ -1990,7 +1998,10 @@ reserves
 259p
 
 234p
-26 7 p
+2
+6 7
+
+p
 
 I borrowing at FRB
 
@@ -2075,7 +2086,9 @@ seasonal
 155
 147p
 
-1 3 4 p
+1 3 4
+p
+
 130p
 
 O Extended total
@@ -2120,7 +2133,9 @@ rduchs special) total
 464p
 
 452p
-1 1 5 p
+1 1 5
+
+p
 
 3,438
 215
@@ -2157,7 +2172,10 @@ rduchs special) total
 1,255
 1,137p
 
-1,23 7 p
+1,23
+7
+p
+
 965p
 
 1 .5.

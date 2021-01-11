@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -789,7 +792,8 @@ I
 
 I VII
 
-0%-'----------------------------------
+0%
+-'----------------------------------
 
 -4 800
 
@@ -800,8 +804,8 @@ O N D J F M A M J J A S O N D J
 
 1989 1990 1991
 
-I I I I I I I I 
-I I I I l i
+I I I I I I I 
+I I I I I l i
 
 ,-'
 ,' ^
@@ -2031,8 +2035,8 @@ I
 
 I I1 ' II
 
-t i 
--- :
+t 
+i -- :
 
 5 - 6 1 7
 
@@ -2051,7 +2055,10 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 Period NRedpn Nt Not purchases 3 4 agencies outright
 
-Pe ri od  Net Redmptions Nt purchases Redemptions Net redemptions holdings 6
+Pe
+ri od  
+
+Net Redmptions Nt purchases Redemptions Net redemptions holdings 6
 purchases (-) change 1-5 5-10 over 10 ( Change total 5 Net RPs
 
 1987
@@ -2357,7 +2364,11 @@ September 26
 
 1. Change from end-of-period to And-of-period 5. Reflects net change in redemptions (-) of Treasury and agency securities.
 2. Outright transactions in market and with foreign accounts 6. Includes change In RPs (+), matched sale-piurchase transactions (-), and matched purchase sale transactions (+).
-3. Outnght transactions in mar"et and vwth 'orlga  ccounts, and short-term notes acquired 7. The levels of agency issues were as follows:
+3. Outnght transactions in mar"et and vwth 'orlg
+
+a  
+ccounts, and short-term notes acquired 7. The levels of agency issues were as follows:
+
 in exchange for maturing bills Excludes matunty shirts and rollovers of maturing Issues. with.in
 4 Weekly net purchases of Treasury couoons are summed overall maturites. 1 year 1-5 I 5-10 over 10
 

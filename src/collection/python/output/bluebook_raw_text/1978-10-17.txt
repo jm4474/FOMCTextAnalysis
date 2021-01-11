@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -419,7 +422,8 @@ shifts between demand and savings deposits at banks and should
 
 provide useful collateral evidence about the strength of the
 
-1/transactions demand for money.- This aggregate--defined as M-1
+1/
+transactions demand for money.- This aggregate--defined as M-1
 
 plus savings deposits at commercial banks, NOW accounts at thrifts,
 
@@ -4981,10 +4985,12 @@ APPENDIX TABLE 2-A
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
-Time and Savings Deposits Mutual OtherTi me a d  Savings Credit Short Term Private
-Period Currency Demand Other Than CD's Bank & Union avings U.S Gov't Short-term
+Time and Savings Deposits Mutual OtherTi me a d  
+Savings Credit Short Term Private
 
+Period Currency Demand Other Than CD's Bank & Union avings U.S Gov't Short-term
 Deposits Total CD's S&L Shares-i Bonds Securities Assets
+
 Total Savings Other Shares-1/ 1/
 
 1 2 3 4 5 6 7 8 9 10 11 12

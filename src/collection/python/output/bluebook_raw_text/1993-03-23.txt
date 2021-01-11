@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1621,7 +1624,8 @@ by averaging end-of-month levels of adjacent months, and have been adjusted to r
 
 Strictly Confidential (FR)-
 
-Components of Money Stock and Related Measures Class II FOMC
+Components of Money Stock and Related Measures 
+Class II FOMC
 
 seasonally adjusted unless otherwise noted MAR. 22, 1993
 
@@ -1682,8 +1686,9 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-Net purchases 3 agendes outrightPeriod Net Redemptions Nt urchasesRedemptions Net redemptions holdings
+Net purchases 3 agendes outright
 
+Period Net Redemptions Nt urchasesRedemptions Net redemptions holdings
 purchases (-) change 1 1-5 5-10 over 10 ) Change -) total 4 Net RPs
 
 1990

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -793,8 +796,9 @@ O N D J F M A M J J A S O N D J
 10100
 
 4
-^«*
+^
 
+«*
 ^<*
 
 
@@ -1094,7 +1098,10 @@ QUARTERLY AVERAGE
 1990-4th QTR. 5.4 2.0 1.6 -3.6 0.9 1.8 2.9 11.6 3,8 5.7
 1991-1st QTR. 5.9 3.5 2.7 6.5 4.0 3.2 2.7 11.9 2.1 4.5
 1991-2nd QTR. 7.3 4.8 4.0 -10.5 1.9 -2.5 2.7 5.7 3.0 3.7
-1991-3rd QTR. pe 7 - -24  -12J -?h
+1991-3rd QTR. pe 7 - -
+
+24  
+-12J -?h
 
 MONTHLY
 1990-SEP. 7.8 4.4 3.3 -9.7 1.7 5.2 1.5 11.0 5.1 6.5
@@ -1236,7 +1243,10 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 
 Period Net 2 Redemptions Net witNet purchases 3 Redemptions Net ee hldigh
-purchases (-) change 1-5 5-10 over 10 (.) Change total 4 Net RPs
+purchases (-) change 1-5 5-10 over 10 (.) Change total
+
+4
+Net RPs
 
 1988
 1989
@@ -1393,7 +1403,9 @@ September 25
 150
 90
 
-100-
+100
+
+-
 175
 650
 

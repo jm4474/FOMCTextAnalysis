@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1633,9 +1636,10 @@ STRICTLY CONFIDENTIAL (FR)
 
 December 10, 1971
 
-U.S. Gov't. Deposits Total Time & Time Deposits other Nondeposit SourcesSavings Deposits than large CD's Large Negotiable CD's of Funds
-Period 1 Path as of 2 Actuals & 3 Path as of 4 Actuals & 5 Path as of 6 Actuals & 7 Path as of 8 Actuals & Path as of 10 Actuals &
+U.S. Gov't. Deposits Total Time & Time Deposits other Nondeposit Sources
+Savings Deposits than large CD's Large Negotiable CD's of Funds
 
+Period 1 Path as of 2 Actuals & 3 Path as of 4 Actuals & 5 Path as of 6 Actuals & 7 Path as of 8 Actuals & Path as of 10 Actuals &
 Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj. Nov. 16 Current Proj.
 
 Monthly Pattern in Billions of Dollars
@@ -1881,7 +1885,8 @@ Reserve Aggregates Monetary Variables Addenda
 Total Nonborrowed Member Adjusted Time Thrift Nonbank
 Period Total Nonborrowed Member Adjusted 6 7 Private Deposits Instit. Commercial
 
-Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits PaperDeposits Deposits
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
+Deposits Deposits
 
 Annually
 1968
@@ -2294,11 +2299,11 @@ n.a.
 
 p - Preliminary. n.a. - Not available.
 
-NOTE: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements against deposits, but reserve 
-requirements FR 712 - E
+NOTE: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements against deposits, 
+but reserve requirements FR 712 - E
 
-on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are included 
-beginning October 1, 1970.
+on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are 
+included beginning October 1, 1970.
 
 
 
@@ -2742,8 +2747,8 @@ MARGINAL RESERVE MEASURES
 
 Member Banks Borr owin s
 
-Period Free Excess R e s e r v 
-e C i t
+Period Free Excess R e s 
+e r v e C i t
 
 reserves reserves Total Major banks Country
 8 N.Y. Outside N.Y.
@@ -3048,7 +3053,8 @@ Bills 1/
 
 +
 
-++
++
++
 
 82)
 12)
@@ -3310,7 +3316,9 @@ F a c t o r s a f f e c t i n s u 1 of r e s e v e s
 Factors affecting supply of reserves
 
 Federal Reserve Currency Foreign Other nonmember
-Cold Treasurycredit (excl. stok outside operations Float deposits deposits and
+Cold Treasury
+
+credit (excl. stok outside operations Float deposits deposits and
 
 float) 1/ stock banks and gold loans F.R. accounts
 

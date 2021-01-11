@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -545,7 +548,8 @@ Alt. C
 Alternative Monthly and Quarterly Patterns
 of Reserve Aggregates
 
-Total Reserves _RPD /_
+Total Reserves _RPD
+/_
 
 Alt. A Alt. B Alt. C Alt. A Alt.-B Alt. C
 
@@ -2039,7 +2043,8 @@ June 16, 1972
 Reserves Money toCK Measures Bank Creadi neasures vll_
 Available to Adjusted Total Time Thrift Non- U.S.
 
-Non- Support Pvt. M M2  M3  Credit Loans and Total Other than Institution Deposit Gov't.
+Non- Support Pvt. M M2  M3  Credit Loans and Total Other than Institution 
+Deposit Gov't.
 
 Period Total borrowd Deposits Total Pvt.ep Proxy Investments Time CD's Deposits CD's Funds Demand
 "^' "\

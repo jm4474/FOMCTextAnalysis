@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -158,7 +161,8 @@ Money Market Indicators Bond Yields Flow of Reserves. Bank Credit and Money
 Federal Treas- U. S. New Munici- Non- Total Bank Money Time
 Period Free Borrow- Funds ury Gov't. Issues pal borrowed Re- Credit 
 
-M o n e y D T i m e
+M o n e y D
+T i m e
 
 Reserves ings Rate Bill (20 yr.) (Aaa) (Aaa) Reserves serves Proxy upply De
 
@@ -1299,11 +1303,12 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting _Supporting private deposits
-> *U. S. Gov't. Other thanPeriod required U. Gov't. Seasonal changes Other thandemand Total seasonal changes
+> *U. S. Gov't. Other thanPeriod required U. Gov't. Seasonal changes Other than
 
+demand Total seasonal changes
 reser deposits Demand Time Demand Time
-ACTUAL
 
+ACTUAL
 Year:
 1963 (12/26/62 - 12/25/63) +763 + 8 +755 + 45 -- +239 +471
 1964 (12/25/63 - 12/23/64) +910 -115 +1,025 + 16 -- +542 +467
@@ -1640,7 +1645,8 @@ Seasonally Adjusted
 
 Total Nonborrowed Required reserves
 
-Period Total Nnb rsewed Against private depositsreserve reserves TotalTotal DemandToa ,,an
+Period Total Nnb rsewed Against private deposits
+reserve reserves TotalTotal DemandToa ,,an
 
 1964--January
 February
@@ -2151,9 +2157,10 @@ Seasonally Adjusted
 
 on monthly averages of daily figures)
 
-PrivatePrivate Time Deposits
-Monthly Money Supply Currency 4/ Demand Ad
+Private
+Private Time Deposits
 
+Monthly Money Supply Currency 4/ Demand Ad
 Deposits _/
 
 1964--January

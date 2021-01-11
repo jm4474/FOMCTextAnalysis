@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1803,12 +1806,22 @@ Class II FOMC
 
 December 14, 2000
 
-T___reasury Bills Treasury Coupons Federal Net change Net RPs 5
+T___reasury Bills Treasury Coupons Federal Net change Net RPs 
+5
 
 Agency total
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
 
-Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings4 Term6 Term 7 Change
+Purchases
+2
+
+(-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings
+4
+
+Term6 Term
+7
+
+Change
 
 1999 Q0ll
 

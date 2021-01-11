@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -291,7 +294,9 @@ M2 (M1 plus time deposits
 at commercial banks
 other than large CD's) 10.4 10.4 10.1 9.3 13.0
 
-M3 (2 plus deposits at thrift
+M3 (2 plus deposits at 
+thrift
+
 institutions) 13.0 12.2 11.4 10.2 12.4
 
 M4 (M2 plus CD's) 7.2 8.2 9.1 7.9 11.3
@@ -1625,7 +1630,9 @@ Total
 Period Ad. Loans
 
 Total Non- Monetary Credit and M1  M2  M3 M4 MS Mg M7borrowed Base proxy Invest.
-ments__ L ,
+ments
+
+__ L ,
 
 ANNUALLY:
 
@@ -2199,7 +2206,9 @@ Time and Savings Deposits Mutual
 Savings Credit short Te Commercial
 
 Period Currency Demand Other Than CD's Bank & Union Savings U.S. Gov't ercial
-Deposits Total CD's S&L Shares Bonds ecurities Paperi , ||es SecuritiesTotal Savings Other Shares- it
+Deposits Total CD's S&L Shares Bonds ecurities Paperi , ||es Securities
+
+Total Savings Other Shares- it
 
 1 2 3 4 5 6 7 8 9 10 11 12
 

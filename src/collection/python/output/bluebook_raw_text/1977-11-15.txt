@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2889,12 +2892,13 @@ Appendix Table 1-A
 
 MONEY AND CREDIT AGGREGATE MEASURES
 
-Bank Reserves an Money Stock Meo resCredit
+Bank Reserves an Money Stock Meo res
+Credit
+
 Total
-
 Period Loans
-Total Non- Monetary and M1  M2  M3  M4  M5  M6  M7borrowed Base Invest-
 
+Total Non- Monetary and M1  M2  M3  M4  M5  M6  M7borrowed Base Invest-
 Sments I I
 
 ANNUALLY:
@@ -3367,12 +3371,13 @@ NOV. 11, 1977
 
 Imk ERner ves Bank Credit Money Stock Measures
 
-TotalPeriod 
+Total
+Period 
+
 o t
-
 Non- Monetary Loans
-Total borrowed Base and M M2  M3 M4  M5  M6 M7
 
+Total borrowed Base and M M2  M3 M4  M5  M6 M7
 Invest
 ments " "
 
@@ -3816,10 +3821,12 @@ APPENDIX TABLE 2-B NOV. 11, 1977
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
-Time and Savings Deposits Mutual Short Other TotalSavings Credit Term Private Non Total
-Period Currency De d 'ThnC's C Ban Union Sav U.S. Short Deposit Gov't
+Time and Savings Deposits Mutual Short Other Total
+Savings Credit Term Private Non Total
 
+Period Currency De d 'ThnC's C Ban Union Sav U.S. Short Deposit Gov't
 Deposi Total CD's & S&L Shares Bonds Gov't term Funds DemandToa C D's S& SheAssets Deposits
+
 Total Savings Other Sharesl 1 1 Sec i 1/2 / A/
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14

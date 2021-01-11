@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1326,7 +1329,8 @@ Appendix Table IV-2
 MONEY STOCK--M-2
 (Annual rates of growth, compounded quarterly)-
 
-En g Base PeriodEnding
+En g Base Period
+Ending
 Period 74IV 751 7511 75111 75IV 761 7611 76111 76IV 771 7711 77 II 77IV
 
 1975 I 5.8
@@ -1500,7 +1504,8 @@ TIONS PERCENT
 BILLIONS OF DOLLARS
 2
 
-+----
++
+----
 
 Il 21
 I 1 I I I I
@@ -1520,8 +1525,9 @@ CHART 3
 Table 1 CONFIDENTIAL (FR)
 
 MONETARY AGGREGATES CLASS II -FOMC
-ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED 
+ACTUAL AND CURRENT PROJECTIONS, SEASONALLY 
 
+ADJUSTED 
 F EB. 2 4, 197 8
 
 Money Supply Total Time & Savings Deposits _ Nondeposit
@@ -1598,8 +1604,9 @@ CLASS II-FOMC
 FEB. 24, 1978
 
 Total Savings Deposits Time Deposits
-Period Time ndivdual Memo: Largeerod and Total d a Business Government Total Large Small Negotiable CD's
+Period Time ndivdual Memo: Large
 
+erod and Total d a Business Government Total Large Small Negotiable CD's
 Savings Nonrot (NSA) (NSA) Denomination DenominationNonprofit
 
 OUTSTANDING ($ BILLIONS)

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1377,7 +1380,8 @@ A.?
 -I. 0
 
 0.8
-3.06.7
+3.0
+6.7
 
 3.0
 
@@ -2379,7 +2383,9 @@ Sn
 
 utner
 Savings ShortTerm Private
-Bonds-/ U.S.Gov't Short-termSecurities Assets
+Bonds-/ U.S.Gov't Short-term
+
+Securities Assets
 
 10 11 12
 10 11 12
@@ -2460,7 +2466,9 @@ Bonds-/ U.S.Gov't Short-termSecurities Assets
 23.0
 12.6
 
-8 -pI
+8 -p
+I
+
 .0 tAS ) S Tese _11 0 , oay ;u W I I .. ft 4 mv
 
 PPFVTOUS MONTH REJnRTFD DATA.
@@ -3019,7 +3027,9 @@ Short-Term f. Long-Term
 CD's New Comm. U.S. Govt. Constant Corp.-Aaa Muni- Home Mortgages
 
 Federal 
-e a  Issue- Paper Maturity Yields Utility cipal Secondary Market
+e a  
+
+Issue- Paper Maturity Yields Utility cipal Secondary Market
 
 Funds Market Auction NYC 90-119 rime New Recently Bond rinv FNMA 
 G N
@@ -3607,7 +3617,9 @@ ty
 
 em,
 
-( n n0-- -I _ _.
+( n n0-- -I _ _
+.
+
 .
 
 

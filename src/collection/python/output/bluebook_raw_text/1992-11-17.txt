@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1179,7 +1182,9 @@ Billions of Dollars
 S 12300
 
 - Actual Level 8.5%
-* Projected Level 8.5%
+* Projected Level
+
+8.5%
 
 -- I 12100
 
@@ -1512,11 +1517,14 @@ period in February Monetary Policy Report to Congress)
 
 3 - 6 (5.5)
 
-4 - 6.5 (7.3) 3 , 4
+4 - 6.5 (7.3)
+3 , 4
 
-3.5 - 6 (2.3) 3 , 5
+3.5 - 6 (2.3)
+3 , 5
 
-2.5 - 5.5 (8.5) 3
+2.5 - 5.5 (8.5)
+3
 
 5 - 9 8  (7.2)
 
@@ -1701,7 +1709,8 @@ n.11
 
 n.s
 
-n.sn.s
+n.s
+n.s
 
 (6.2)
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -857,7 +860,9 @@ Retrospective Changes, Seasonally Adjusted
 Required reserves by type of deposit Reserve related measures
 Per Total Nonborrowed Demand Total memberPeriod Moneyreserves reserves Time Private + rvat bank deposits upply
 
-U. S. Gov't. P (credit) 1/ 
+U. S. Gov't. 
+P (credit) 1/ 
+
 su
 
 Annually:

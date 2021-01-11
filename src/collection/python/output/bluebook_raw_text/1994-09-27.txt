@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1701,8 +1704,9 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-Spurs 3 agendes outrightPeriod Net Redeptions Net Ne purchases Redemptions Net redemptions holdings 5
+Spurs 3 agendes outright
 
+Period Net Redeptions Net Ne purchases Redemptions Net redemptions holdings 5
 purchases (-) change w n 1-5 5-10 over 10 (.) Change total 4 Net RPs
 
 1994 ---Q1
@@ -1816,7 +1820,8 @@ September 21
 
 155
 
-151207.0...
+151207.0
+...
 
 -..
 

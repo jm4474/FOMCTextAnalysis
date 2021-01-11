@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1193,7 +1196,9 @@ Net Changes in System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases4  Net change
+3  Federal agencies net purchases
+
+4  Net change
 
 Period bills net -0 ve0 oa 15 0 ver toaoutright Net RPs
 6
@@ -1450,8 +1455,11 @@ CLASS II-FOMC
 
 May 17, 1982
 
-Underwriting Member bank reserve positionsU.S. government securities dealer positions syndea iting ensmber bank reerat FRBptin
-Period p syndicate positions excess** borrowing at FRB-cash futures and forwards corporate municipal reserves adjustment seasonal extended tot
+Underwriting Member bank reserve positions
+U.S. government securities dealer positions syndea iting ensmber bank reerat FRBptin
+
+Period p syndicate positions excess** borrowing at FRB-
+cash futures and forwards corporate municipal reserves adjustment seasonal extended tot
 
 bills coupons bills coupons bonds bonds includes secial)
 
@@ -1512,7 +1520,10 @@ Mar.
 9,318
 8,061
 8,202**
-5,5 30 p**
+5,
+
+5 30
+p**
 
 6,192p**
 6,104p**
@@ -1586,10 +1597,24 @@ Mar.
 -1,795
 -3,148
 -6,852**
--8,6 79p**
+-8,
 
--8 ,390p** -3,910p**
--9,901p** -4 ,6 97 p**
+6 7
+9p**
+
+-
+8
+,
+3
+90p** -3,910p**
+
+-9,901p** -
+4
+,
+6
+9
+7
+p**
 
 -4,676
 -2,514

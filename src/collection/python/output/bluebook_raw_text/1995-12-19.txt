@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -164,7 +167,8 @@ Nov. 14
 
 3-Year Note !,_ "
 
-10-Year Note .. - 5
+10-Year Note .. -
+5
 
 *... , .****- ... 3-Month Bill
 
@@ -1130,7 +1134,8 @@ p - preliminary data
 
 Strictly Confidential (FR)
 
-Money and Credit Aggregate Measures Class FOMC
+Money and Credit Aggregate Measures 
+Class FOMC
 
 Seasonally adjusted DECEMBER 18,1995
 
@@ -1138,7 +1143,10 @@ Money stock measures and liquid assets Bank credit Dom stli nonfinanclal debt'
 nontransactions componentsotal loans
 
 total loans
-Period M1 M2 M3 L and U. S. other2  total'
+Period M1 M2 M3 L and U. S. other
+
+2  
+total'
 
 In M2 In M3 only investments' government'
 

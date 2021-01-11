@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -227,8 +230,8 @@ in growth
 
 1/ Average of total number of days in period. P - P
 
-2/ Includes issues carring 5-year and 10-year call protection, * - issues carry a 10-year call 
-protection.
+2/ Includes issues carring 5-year and 10-year call protection, * - issues carry a 10-year 
+call protection.
 
 3/ Time deposits adjusted at all commercial banks.
 

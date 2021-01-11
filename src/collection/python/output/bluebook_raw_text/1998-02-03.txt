@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -360,7 +363,8 @@ I I I I I 4.5
 
 Years Ahead
 
-Change Since 08/25/97 Basis points
+Change Since 08/25/97
+Basis points
 
 1 2 3 5 7 10 20 30
 
@@ -852,8 +856,8 @@ Percent
 
 6.5 1
 
-. .. . .... . . .
-. . . . . . . .
+. .. . .... . .
+. . . . . . . . .
 
 5.5
 
@@ -1169,7 +1173,8 @@ Total Domestic Nonfinancial Debt Velocity
 
 -- 1.00
 
-0.501959 1962 1965 1968 1971 1974 1977 1980 1983 1986 1989 1992 1995 19981959 1962 1965 1968 1971 1974 1977 1980 1983 1986 1989 1992 1995 1998
+0.501959 1962 1965 1968 1971 1974 1977 1980 1983 1986 1989 1992 1995 1998
+1959 1962 1965 1968 1971 1974 1977 1980 1983 1986 1989 1992 1995 1998
 
 
 
@@ -2409,7 +2414,8 @@ confidential until released in early February.
 
 January 30, 1998
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

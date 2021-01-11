@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -649,7 +652,10 @@ I I I I I I 1480
 O N o J F M A M J J A S O N 0
 
 S1979 1980
-Billions of dollarsn-3 .- 9% % '.* 1940
+Billions of dollars
+
+n-3 .
+- 9% % '.* 1940
 
 - Longer-Run Range..
 
@@ -1347,8 +1353,9 @@ mortgages carrying the coupon rate 50 basis points below the current FIA/VA ceil
 
 
 TABLE 2 1
-1/NET CHANCES IN SYSTEM HOLDINGS OF SECURITIES-
+1/
 
+NET CHANCES IN SYSTEM HOLDINGS OF SECURITIES-
 (Millions of dollars, not seasonally adjusted)
 
 STRICTLY CONFIDENTIAL (FR)
@@ -1456,9 +1463,10 @@ Issues Bonds Bonds
 204
 190
 223p
-28 1p
-3 33
+28
+1p
 
+3 33
 p
 
 1979--High
@@ -1467,7 +1475,10 @@ Low
 1980--Highl
 Low
 
-19 7 9 -- Aug.
+1
+9 7 9
+
+-- Aug.
 Sept.
 
 Oct.
@@ -1651,7 +1662,9 @@ p
 p
 
 390p
-344 p
+344
+
+p
 7
 00
 

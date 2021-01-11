@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -778,7 +781,8 @@ Alt. B. Range ---
 
 ..-- "" Q4 '78-Q4 79
 
---- - **- a- 1 Y2%- i I . 9% - --.... - --- -
+--- - **- a- 1 Y2%
+- i I . 9% - --.... - --- -
 
 D J F M A M J J
 1979
@@ -1784,12 +1788,15 @@ Table 2 MAR. 16, 1979
 Money and Credit Aggregate Measures
 Seasonally Adjusted, Billions of Dollars
 
-Bank Reserves Bank Money Stock MeasuresCredit
+Bank Reserves Bank Money Stock Measures
+Credit
 
 Period Total
 Non- Monetary Loans
 
-Total borrowed Base and M- 1  M-l+ M-2 M-3 M-4 M-5 M-6 M-7
+Total borrowed Base and M-
+1  M-l+ M-2 M-3 M-4 M-5 M-6 M-7
+
 Invest-
 ments
 
@@ -3000,7 +3007,10 @@ Daily--Mar. 8
 9.45 9.22 9.12 9.64 9.67 6.42 10.43
 
 10.07 9.41 9.43 9.42 9.88 9.96 11.75 9.39 9.13 9.08
-10.21 9.50 9.42 9.46 9.89 9.97 11.75 9.39p 9.15p 9 .08p
+10.21 9.50 9.42 9.46 9.89 9.97 11.75 9.39p 9.15p 
+
+9
+.08p
 
 10.02 9.42 9.34
 10.15p 9.49 9.43
@@ -3247,7 +3257,9 @@ Mar. 7
 868
 
 1,003
-97 3p
+97 3
+
+p
 
 1,183
 686
@@ -3303,7 +3315,10 @@ Mar. 7
 123p
 
 107
-108p
+10
+
+8
+p
 
 -9,151
 -4,234
@@ -3340,7 +3355,12 @@ Mar. 7
 -2,602
 -2,232
 
--3 ,99 8p
+-
+3
+,
+99 8
+
+p
 -6,770p
 
 -13,975

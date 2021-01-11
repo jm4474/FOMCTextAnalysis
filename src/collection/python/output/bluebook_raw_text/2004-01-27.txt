@@ -51,6 +51,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2416,10 +2419,16 @@ Rules Chart: Explanatory Notes
 
 In all of the rules below, it denotes the federal funds rate, Bt the staff estimate at date t of trailing four-
 quarter core PCE inflation, (yt-yt*) the staff estimate (at date t) of the output gap, it-1 the lagged federal
-funds rate, gt-1 the residual from the rule’s prescription the previous quarter, (yt+3|t-yt+3|t*) the staff’s
-three-quarter-ahead forecast of the output gap, () yt+3|t-) yt+3|t*) the staff’s forecast of output growth less
+funds rate, gt-1 the residual from the rule’s prescription the previous quarter, (yt+3|t-yt+3|t
+
+*) the staff’s
+three-quarter-ahead forecast of the output gap, () yt+3|t-) yt+3|t
+
+*) the staff’s forecast of output growth less
 potential output growth three quarters ahead, Bt+3|t a three-quarter-ahead forecast of inflation, and (ut+3|t-
-ut+3|t*) a three-quarter-ahead forecast of the unemployment gap.  Data are quarterly averages taken from
+ut+3|t
+
+*) a three-quarter-ahead forecast of the unemployment gap.  Data are quarterly averages taken from
 the Greenbook and staff memoranda closest to the middle of each quarter, unless otherwise noted.
 
 Rule Specification
@@ -2438,20 +2447,25 @@ Outcome-based
 1.  Baseline Taylor
 Coefficients are benchmark values, not estimated.
 
-it = 2 + Bt + 0.5(yt-yt*) + 0.5(Bt-
+it = 2 + Bt + 0.5(yt-yt
+*) + 0.5(Bt-
+
 2) .93 .90
 
 2.  Aggressive Taylor
 Coefficients are benchmark values, not estimated.
 
-it = 2 + Bt + (yt-yt*) + 0.5(Bt-2) .75 .77
+it = 2 + Bt + (yt-yt
+*) + 0.5(Bt-2) .75 .77
 
 3.  Estimated Outcome-based
 Rule includes both lagged interest rate and serial
 correlation in residual.
 
 it = 0.56it-1 + 0.44 [1.14
- + 0.97(yt-yt*) + 1.47Bt]+ 0.40gt-1 .25 .28
+ + 0.97(yt-yt
+
+*) + 1.47Bt]+ 0.40gt-1 .25 .28
 
 Forecast-based
 
@@ -2460,7 +2474,9 @@ Rule includes both lagged interest rate and serial
 correlation in residual.
 
 it = 0.71it-1 + 0.29 [0.73
- + 1.05(yt+3|t-yt+3|t*) + 1.55Bt+3|t]
+ + 1.05(yt+3|t-yt+3|t
+
+*) + 1.55Bt+3|t]
  + 0.35gt-1
 
 .26 .29
@@ -2475,14 +2491,17 @@ is estimated at semiannual frequency, and projected
 forward using Greenbook forecasts.
 
 it = 0.49it-2 + 0.51 [0.32
- ! 2.13(ut+3|t-ut+3|t*) + 1.58Bt+3|t] .46 .71
+ ! 2.13(ut+3|t-ut+3|t
+
+*) + 1.58Bt+3|t] .46 .71
 
 6.  First-difference Rule
 Coefficients are benchmark values, not estimated.
 
-it = it-1 + 0.5() yt+3|t-) yt+3|t*)
- + 0.5(Bt+3|t-2)
+it = it-1 + 0.5() yt+3|t-) yt+3|t
+*)
 
+ + 0.5(Bt+3|t-2)
 .87 .33
 
 From Financial Markets

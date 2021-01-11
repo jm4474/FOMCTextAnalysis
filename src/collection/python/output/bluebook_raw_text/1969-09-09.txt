@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -434,7 +437,10 @@ o
 l Nonborrowed Total Bank Money TimePerd re Rar Grvos eorrowings eant New Municipal I
 (In millions of Funds Treasury overnment Issues (Aaa) Reserves Reserves Credit Supply DepositE
 
-Rate 8111 (20 yr.) Proxy 3/dollars for weeks y (Aan) (n millions y  3
+Rate 8111 (20 yr.) Proxy 3/
+dollars for weeks y (Aan) (n millions
+
+y  3
 
 ending tn) 2/ of dollars) (In billions of dollars)
 
@@ -529,7 +535,9 @@ Avera
 I IL I1__I
 
 1/ Average of total number of days in period. P
-2/ Includes issues carrying 5-year and 10-year call protection, * - issues carry a 10-year call protection.
+2/ Includes issues carrying 5-year and 10-year call protection, * - issues carry a 10-year call 
+
+protection.
 
 3/ Time deposits adjusted at all commercial banks.
 
@@ -2018,15 +2026,19 @@ Retrospective and Prospective Changes
 
 F t o i s a ff e c t t n g s u p p y of r e s e r v e s = Change = Bank use of reserves
 
-Period Federal Reserve old Currency Foreign Other nonmember inedP e r e
+Period Federal Reserve old Currency Foreign Other nonmember ined
+P e r
+
+e
 o d  
 
-(excl . <old Treasury Required Excesscredit (excl. outside Float deposits deposits and total reserves
+(excl . <old Treasury Required Excess
+credit (excl. outside Float deposits deposits and total reserves
+
 stock loperations I reserves reserves
-
 float) 1/ banks operos and gold loans F.R. accounts reserves _____
-(Sig n i n c a t s e f c t on r eserves )
 
+(Sig n i n c a t s e f c t on r eserves )
 Year
 1967 (12/28/66-12/27/67) +4,718 - 725 -2,305 - 85 - 389 - 7 + 316 +1,522 +1,517 + 5
 1968 (12/27/67-12/25/68) +3,757 -2,067 -3,221 4 928 +1,309 - 67 + 869 +1,508 +1,563 - 55
@@ -2093,8 +2105,11 @@ Retrospective and Prospective Changes
 F a to o s a f f e c t i n g su p p1 y of r e se r v e s Change = Bank use of reserves
 period Federal Reserve Currency Foreign Other nonmember inPeriod Fed l Gold Currency Required Excesscredit (excl 
 
-o  outside 
-e a  y Float deposits deposits and total d Exes
+o  
+outside 
+
+e a  
+y Float deposits deposits and total d Exes
 
 float) / 
 t o c k  
@@ -2140,9 +2155,10 @@ Sept. 3 p + 275 -- - 151 + 39 - 140 - 9 - 31 - 16 - 163 + 147
 PROJECTED 2
 1969--Sept. 10 -1,345 -- - 70 +1,050 + 300 + 5 + 70 + 10 + 10 --
 
-17 - 570 -- 220 + 420 + 200 + 5 + 200 + 35 + 3524 +1,315 - + 95 -1,600 + 200 -- + 35 + 45 + 45
-Oct. 1 + 260 -- + 380 -- - 400 - - + 240 + 240
+17 - 570 -- 220 + 420 + 200 + 5 + 200 + 35 + 35
+24 +1,315 - + 95 -1,600 + 200 -- + 35 + 45 + 45
 
+Oct. 1 + 260 -- + 380 -- - 400 - - + 240 + 240
 8 + 455 -- 280 -- - 75 - -- + 100 + 100
 
 1/ For retrospective details, see Table 5.

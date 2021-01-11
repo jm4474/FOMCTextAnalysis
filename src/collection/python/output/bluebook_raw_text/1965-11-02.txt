@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1346,19 +1349,24 @@ Year:
 
 Year-to-date:
 (12/25/63 - 10/28/64) - 62 -315 +253 -544 - 49 +372 +474
-(12/23/64 - 10/27/65) +216 - 85 +301 -576 + 39 +238 +600Weekly:
+(12/23/64 - 10/27/65) +216 - 85 +301 -576 + 39 +238 +600
+Weekly:
 1965--Aug. 25 - 73 + 54 -127 -129 - 8 - 12 + 22
 
 Sept. 1 + 30 -154 +184 + 79 - 8 + 88 + 25
-8 -104 -186 + 82 + 81 + 8 - 10 + 315 + 79 -349 +428 +338 - 8 + 85 + 1322 +561 +371 +190 - 16 - 16 +228 - 6
+8 -104 -186 + 82 + 81 + 8 - 10 + 3
 
+15 + 79 -349 +428 +338 - 8 + 85 + 13
+22 +561 +371 +190 - 16 - 16 +228 - 6
 29 -125 +273 -398 -306 + 8 -116 + 16
+
 Oct. 6 + 57 -187 +244 + 81 + 8 +134 + 21
+13 -205 -292 + 87 +146 - 8 - 85 + 34
+20 p +381 +230 +151 +161 - - 22 + 122 7 p -129 -110 - 19 - 34 -- - + 16
 
-13 -205 -292 + 87 +146 - 8 - 85 + 3420 p +381 +230 +151 +161 - - 22 + 122 7 p -129 -110 - 19 - 34 -- - + 16
 PROJECTED
-
 1965--Nov. 3 + 5 -100 +105 + 80 - 10 + 25 + 10
+
 10 -140 -175 + 35 + 35 -- -
 17 - 45 - 35 - 10 + 15 - 25
 24 -- +140 -140 -130 - 10
@@ -1659,7 +1667,9 @@ TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-Total Nonborrowed Required reservesPeriod reserves reserves Total Aainst private deposits
+Total Nonborrowed Required reserves
+Period reserves reserves Total Aainst private deposits
+
 _Total Demand
 
 1963--January

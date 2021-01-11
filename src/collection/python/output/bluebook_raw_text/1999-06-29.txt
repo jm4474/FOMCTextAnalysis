@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -745,7 +748,8 @@ Civilian Unemployment Rate
 Percent
 7.5
 
-7.0 - Baseline....- . Price stability
+7.0 - Baseline
+....- . Price stability
 
 ,.. , .. . .. . * ...... .,. ... .
 

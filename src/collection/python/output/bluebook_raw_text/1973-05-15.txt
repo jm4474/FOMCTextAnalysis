@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1926,7 +1929,10 @@ are debt issues still in syndicate, excluding trading positions.
 -4,121
 -2,392
 
--1, 8 2 0p
+-1,
+8 2
+
+0p
 -3,465p
 
 basis. Trading positions, which exclude Treasury bills financed
@@ -3407,14 +3413,14 @@ NOTE: Reserve requirements on Euro-dollar borrowings are included beginning Octo
 
 on bank-related commercial paper are included beginning
 
-October 1, 1970. Adjusted credit proxy includes mainly total member bank deposits subject 
-to reserve requirements, bank-related commercial paper, and Euro-dollar
+October 1, 1970. Adjusted credit proxy includes mainly total member bank deposits 
+subject to reserve requirements, bank-related commercial paper, and Euro-dollar
 
 borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly 
 data are daily averages except for nonbank commercial paper figures which
 
-are for last day of month. Weekly data are not available for M3 , total 
-loans and investments and thrift institution deposits.
+are for last day of month. Weekly data are not available for M3 , 
+total loans and investments and thrift institution deposits.
 
 p - Preliminary.
 

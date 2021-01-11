@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1241,7 +1244,9 @@ Fit from -
 
 I 1994:Q2
 
-... . .1990:1* * . .-*
+... . .1990:1
+* * . .-*
+
 ** •
 
 _ ... ... _
@@ -2842,7 +2847,9 @@ Money stock measures and liquid assets_ Bank credit Domestic nonfinancial debt'
 nontransactions components
 total loans
 
-Period M1 M2 M3 L and U. S. other' total =
+Period M1 M2 M3 L and U. S. other' total
+=
+
 In NM2 In M3 only investments' government'
 
 1 2 3 4 5 6 7 8 9 10
@@ -2916,16 +2923,18 @@ Seasonallyadjusted
 Money market
 mutual funds
 
-Other Smallfunds Large ShorttermPeriod Demand Or vin Smallmutualfunds Large Savings Short-term Commercial BankersPe d Currency Demand checkable Savn denomination denomination RP's" Eurodollars
+Other Smallfunds Large Shortterm
+Period Demand Or vin Smallmutualfunds Large Savings Short-term Commercial BankersPe d Currency Demand checkable Savn denomination denomination RP's" Eurodollars
+
 '  
-
 Treasury
+
 deposits e deposits bonds paper acceptances'deposits d its ime deposits' Retail' Institution- time deposits b
-
 o nd s  
-securities' 
 
+securities' 
 pa pe
+
 r acceptances'
 
 only
@@ -2969,7 +2978,8 @@ p preliminary
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 
@@ -2985,7 +2995,8 @@ Period Net Net purchases
 Period Net 2 Redemptions Net wihin pu iha Redemptions Net redemptions holdings
 purchases () change 1 r 1-5 5-10 over 10 (-) Change () total
 
-4 Net RPs
+4
+Net RPs
 
 1994
 1995

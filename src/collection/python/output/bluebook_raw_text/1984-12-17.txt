@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -601,7 +604,8 @@ O N 0 J F M A M J J A S O N D J F M A M J J A S O N D
 
 1983 1984 1985
 
-2600I I I I I I I I I I I I I I I i I i I I i I I
+2600I I I I I I I I I I I I I I I i I i I I i 
+I I
 
 
 
@@ -1397,8 +1401,9 @@ Security Dealer Positions
 Millions of dollars December 17, 1984
 
 Cash Positions Forward and Futures Positions
-Treasury coupon* I Treasury couponSPeirod ,Nel Treasuiy under over federal prlvate Tresury under ovr lederal private
+Treasury coupon* I Treasury couponS
 
+Peirod ,Nel Treasuiy under over federal prlvate Tresury under ovr lederal private
 Total bills 1 yeu 1 year agency short-term bills 1 a 1 y1ar ayency short-ten
 
 1983--High
@@ -1890,13 +1895,18 @@ December 17, 1984
 Treasury Treasury coupons net purchases
 3  Federal agencies noe purchases
 
-4  Net change
+4  
+Net change
+
 Pero bills ntt 0 Outrig M Nt RPt
-
 heri
-o d  
 
-within within 1-5 510 ooer 10 to tal
+o d  
+within within 1-5 510 ooer 10 to
+
+t
+al
+
 Ich I 1-year 1-5 5-10 over 10 total 1-5 510 1over 10 total ot 1
 
 1979

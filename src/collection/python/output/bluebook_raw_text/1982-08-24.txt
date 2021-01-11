@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -381,7 +384,8 @@ on a quarterly average basis of only about 2 percent at an annual rate,
 Chart 1 CONFIDENTIAL (FR)
 Class II - FOMC
 
-Actual and Targeted M1 ss F
+Actual and Targeted M1 
+ss F
 
 M1 Billions of dollars
 480
@@ -1484,7 +1488,9 @@ U.S. government securities dealer positions Underwriting Member bank reserve pos
 syndicate positions borrowin at FRB **
 
 Period cash futures and forwards corporate municipal reserves adjustment seasonal etended
-bills coupons bills coupons bonds bonds adjustment seasonal includes special) total
+bills coupons bills coupons bonds bonds adjustment seasonal includes special) 
+
+total
 
 1981--High
 Low

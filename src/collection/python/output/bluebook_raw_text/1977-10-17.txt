@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -97,7 +100,8 @@ Content last modified 6/05/2009.
 
 
 
-October 14, 1977Strictly Confidential (FR) Class I FOMC
+October 14, 1977
+Strictly Confidential (FR) Class I FOMC
 
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -2875,7 +2879,10 @@ Daily--Oct. 6 6.41 6.13 6.42 6.38
 7.61 8.14
 
 7.63 8.15
-7,71p 8. 20p
+7,71p 8.
+
+2
+0p
 
 7.63
 7.73p
@@ -3389,10 +3396,15 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 Time and Savings Deposits Mutual Other
 m nd S v n  D Savings Credit , Short Ter Private
 
-Period CurrncyDemand Other Than CD's Bank & Union Savings U.S.Gov't Short-termPerioDepurrency Deposits Total CD's S&L Shares-l Bonds Securities Assets
-Total Savings Other S, haresU V -ns CeitI I I ha s .
+Period CurrncyDemand Other Than CD's Bank & Union Savings U.S.Gov't Short-term
+PerioDepurrency Deposits Total CD's S&L Shares-l Bonds Securities Assets
 
+Total Savings Other S, haresU V -ns 
+Ceit
+
+I I I ha s .
 1 2 3 4 5 6 7 8 9 10 11 12
+
 2/ (Per cent annual rates of growth)ANNUALLY:
 
 1974 10.3 3.6 14.7 10.1 6.5 12.7 36.5 5.6 12.3 4.7 13.5 .9.6
@@ -3451,12 +3463,13 @@ P - PRELIMINARY.
 APPENDIX TABLE 2-B OCT. 14, 1977
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
-Time and Savings Deposits Mutual Short- O e TotairiSd CurencyDemanSavings Credit PTerm P te Non- Total
+Time and Savings Deposits Mutual Short- O e Tota
+iriSd CurencyDemanSavings Credit PTerm P te Non- Total
+
 Period Currency Demand Ban UniU.S. 
-
 t Deposit Gov't
-Deposits Total Other Than CD's C' & S& Shar i Bngs Gt ter Demandta Savns SOther Shar es Gov't Funds epo
 
+Deposits Total Other Than CD's C' & S& Shar i Bngs Gt ter Demandta Savns SOther Shar es Gov't Funds epo
 Total [Savingsl Other S ha reSec p: 4hae ecI
 
 ANNUALLY

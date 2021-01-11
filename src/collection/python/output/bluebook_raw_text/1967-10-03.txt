@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -708,7 +711,10 @@ Reserve Ag gr eg a t e s Monetar y Var iab le s
 Required reserves Total Mbr Time Money Supply
 
 Total onbrAgainst Deposits Private
-SNonborroed Bank DepositsReserves Total Demandit (comm. Total DemandReserves (credit) I/2/ /Deposits -- - banks)- Deposits
+SNonborroed Bank DepositsReserves Total Demandit (comm. Total Demand
+
+Reserves (credit) I/2/ /
+Deposits -- - banks)- Deposits
 
 Annually:
 1965 + 5.2 + 4.2 + 5.1 + 2.3 + 9.1 +16.0 + 4.7 + 4.3
@@ -1006,8 +1012,9 @@ Total Supporting Supporting private deposits
 U. S. Gov't. Other than
 
 Period required demand Total Seasonal changes seasonal hanes
-demand Total seasonal changesreservesrese s deposits Demand Time Demand Time
+demand Total seasonal changes
 
+reservesrese s deposits Demand Time Demand Time
 ACTUAL
 
 aar:

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -939,8 +942,8 @@ O N D J F M A M J J A S O N D
 
 -1 2850
 
-I I I I I I I I 
-I I
+I I I I I I I 
+I I I
 
 1987 1988
 
@@ -1044,7 +1047,8 @@ _ ,,
 I I I I I I I I i I I I
 O N D J F M A M J J A S O N D
 
-720I I
+720
+I I
 
 1987 1988
 
@@ -1402,7 +1406,8 @@ M1
 
 2.5 - 5.5(8.5) 4
 
-95 - 9 (7.2)
+9
+5 - 9 (7.2)
 
 4 - 8 (5.2)
 
@@ -2232,8 +2237,9 @@ commitments for 1-year, adjustable-rate mortgagesARMs) at SILs offering both FRM
 
 
 Strictly Confidential (FR)-
-Class II FOMCMoney and Credit Aggregate Measures
+Class II FOMC
 
+Money and Credit Aggregate Measures
 Seasonally adjusted JUNE 27, 1988
 
 Money stock measures and liquid assets Bank credit Domestic nonfinancial debt2
@@ -2696,7 +2702,13 @@ Other Overnight denomi- mutual funds, NSA denomi- Term Term Short.
 Demand checkable RPs and MMDAs Savings nation general Institu- nation RPs Eurodollars Savings term Commer- Banker"
 
 Period Currency deposits deposits Eurodollars NSA deposits time purpose, tlons time NSA NSA bonds Treasury cial paper accep-
-NSA deposits 1 and brokerl only deposits 3  securities tances
+NSA deposits
+
+1 
+and brokerl only deposits
+
+3  
+securities tances
 
 _dealer 2
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16

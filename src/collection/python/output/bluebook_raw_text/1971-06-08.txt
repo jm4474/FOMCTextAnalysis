@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2418,8 +2421,8 @@ n.a.
 
 _ _I g _ __ I I I L I
 
-NOTE: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements against deposits, but reserve 
-requirements FR712-E
+NOTE: Aggregate reserve series have been adjusted to eliminate changes in percentage reserve requirements against deposits, 
+but reserve requirements FR712-E
 
 on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related cosnaercial paper are included beginning October 1, 1970.
 
@@ -3220,8 +3223,8 @@ Mar. 3 +279 - + 220 - 99 - 752 + 17 - 40 - 374 - 227 - 147
 
 31 + 506 - + 435 - 60 - 371 - 41 - 9 + 458 + 150 + 308
 
-Apr. 7 + l - - 257 - 243 + 235 + 14 - 173 - 270 -171 -
-9
+Apr. 7 + l - - 257 - 243 + 235 + 14 - 173 - 270 -171 
+- 9
 
 14 - 255 - - 483 + 249 + 241 - 14 + 217 - 45 + 24 -69
 
@@ -3237,7 +3240,8 @@ May 5 + 771 - + 129 + 307 -497 - 14 - 72 + 623 + 306 + 317
 
 26 p + 115 - + 58 + 218 -187 - 25 - 315 - 137 -197 + 60
 
-June Z p + 302 - - 10 + 169 -300 -- -33 + 37 - 79 + 116
+June Z p + 302 - - 10 + 169 -300 -- -33 + 37 - 79 
++ 116
 
 1/ For retrospective details, see Table 5.
 

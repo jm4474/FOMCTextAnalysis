@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -221,7 +224,8 @@ Aug. 16-Dec. 6 239 106 3.95 4.55 5.37 6.11 3.90 + 9.9 + 4.9 +12.2
 
 p - Preliminary.
 
-r - Revised. Decemb
+r - Revised. 
+Decemb
 
 call protection.
 
@@ -888,7 +892,10 @@ Retrospective Changes, Seasonally Adjusted
 Reserve Aggr e ate s Monet ary Var iab 1 e s
 Required reserves Total Member Time Money Supply
 
-Total Against Deposits PrivateNonborroed Bank Deposits Total DemandReserves ( ) Total Demand (comm. Tot
+Total Against Deposits Private
+Nonborroed Bank Deposits Total Demand
+
+Reserves ( ) Total Demand (comm. Tot
 Reserves (credit) 1/2/ 2/_____________Deposits - -banks) 2/ _ Deposits
 
 Annually:
@@ -916,9 +923,10 @@ Sept. + 9.6 + 4.8 + 9.0 + 7.1 +10.3 +11.4 + 0,7 - 0.9
 Oct. +15.3 +12.4 +18.0 +16.0 +11.6 +12.7 + 6.7 + 6.9
 Nov. p + 6.8 + 9.6 + 5.6 + 3.3 + 8.4 +11.9 + 7.3 + 8.6
 
-b / d l l i hiI Includes ai.
-movements in
+b / d l l i h
+iI Includes ai.
 
+movements in
 uepuosit su jeL tLo reseLve quLre s kme i-n iJ aggregate curre.puuu uJ uac ey WJ.L.
 total member bank credit.
 
@@ -1695,8 +1703,8 @@ Nov. p
 17,313
 17,410,
 
-1/ Reserves have been adjusted for redefinition of time deposits effective 
-June 9, 1966.
+1/ Reserves have been adjusted for redefinition of time deposits 
+effective June 9, 1966.
 
 
 
@@ -1708,9 +1716,10 @@ Seasonally adjusted
 
 (Dollar amounts in billions, based on monthly averages of daily figures)
 
-Total member Private U.S. Gov't.Time
-Monthly bank deposits demand demand
+Total member Private U.S. Gov't.
+Time
 
+Monthly bank deposits demand demand
 (credit) 1/2/ deposits deposits 3/ deposits
 
 1965--Jul. 229.1 113.6 108.6 6.8

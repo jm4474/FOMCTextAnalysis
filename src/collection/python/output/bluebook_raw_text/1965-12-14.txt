@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -155,8 +158,9 @@ FINANCIAL MARKET RELATIONSHIPS IN PERSPECTIVE
 Money Market Indicators Bond Yields Flow of Reserves, Bank Credit and Money)
 
 de -month U. S. Corporate Munici- Non- Total Bank Time
-Period Federal Munici- Total TimePeriod Free Borrow- Trea- Gov't. New Borrowed Credit MoneyiFunds pal Re- DepositsReserves ings sury (20 yr. Issues (Aaa) Re- serve Proxy Supply
+Period Federal Munici- Total TimePeriod Free Borrow- Trea- Gov't. New Borrowed Credit Money
 
+iFunds pal Re- DepositsReserves ings sury (20 yr. Issues (Aaa) Re- serve Proxy Supply
 Bill bond) (Aaa) serves
 
 1964 - Nov. 2 413 3.51 3.64 4.17 -- 3.08 + 28 + 84 +1,740 + 300 +1,600
@@ -961,7 +965,10 @@ J
 
 1965
 
-REQUIRED AGAINST PRIVATE DEMAND DEPOSITS# mI , I I II I I I I I I I-------- ^ ----.-- S^ ' ----
+REQUIRED AGAINST PRIVATE DEMAND DEPOSITS# 
+m
+
+I , I I II I I I I I I I-------- ^ ----.-- S^ ' ----
 
 .5I«n«-^----------------------
 
@@ -1145,12 +1152,14 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting Supporting private deposits
-U. S. Gov't. Other thanperiod required dem Total Seasonal changes seas l han
+U. S. Gov't. Other than
 
+period required dem Total Seasonal changes seas l han
 _demand Total seasonal changes
-reserves deposits Demand Time Demand Time
 
+reserves deposits Demand Time Demand Time
 ACTUAL
+
 . -ar:
 1963 (12/26/62 - 12/25/63) +763 + 8 +755 + 45 -- +239 +471
 1964 (12/25/63 - 12/23/64) +910 -115 +1,025 + 16 -- +542 +467
@@ -1254,7 +1263,9 @@ Retrospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Federal U. S. Government securities BanMemr
-Period Reserve credit Total Outright Repurchase a n e  br b
+Period Reserve credit Total Outright Repurchase 
+
+a n e  br b
 
 (__excl. float) holdings Bills Other agreements acceptances borrowings
 
@@ -1424,7 +1435,10 @@ TOTAL, NONBORROWED AND REQUIRED RESERVES
 Seasonally Adjusted
 (Dollar amounts in millions, based on monthly averages of daily figures)
 
-I Aa _Reuired reserves_Total Nonborrowed Reuired reserves
+I Aa _Reuired reserves_
+Total Nonborrowed Reuired 
+
+reserves
 Period reserves reserves Total gainst private deposits
 
 I resee Total nv Demand

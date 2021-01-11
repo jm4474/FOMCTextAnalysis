@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1515,10 +1518,12 @@ January 11, 1971
 Reserve Aggregates Monetary Variables Addenda
 1 2 3 Total 4 Money Supply 8 9 10
 
-Total Nonborrowed Member Adusted Time Thrift NonbankPeriod Total Nonborrowed Member Adusted 7 Private Deposits Instit Commercial
-Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
+Total Nonborrowed Member Adusted Time Thrift Nonbank
+Period Total Nonborrowed Member Adusted 7 Private Deposits Instit Commercial
 
+Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
 Deposits Deposits
+
 Annually
 1968
 

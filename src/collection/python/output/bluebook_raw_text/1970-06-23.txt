@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1166,12 +1169,12 @@ April - 687 178 865 227 331 119 188
 May - 765 159 924 165 241 228 290
 
 Weekly:
-1969- Nov. 5 -1,032 296 1,328 121 
+1969- Nov. 5 -1,032 296 1,328 
 
-422 295 490
+121 422 295 490
 
-12 - 873 371 1,244 350 296 189 
-409
+12 - 873 371 1,244 350 296 
+189 409
 
 19 - 925 146 1,071 -- 390 
 260 421
@@ -1206,43 +1209,50 @@ Feb. 4 -1,047 211 1,258 75 383 317 483
 
 Mar. 4 - 638 195 836 32 46 419 339
 
-11 - 861 71 931 169 349 190 
-22L
+11 - 861 71 931 169 349 
+190 22L
 
-18 667 150 817 146 216 185 
-270
+18 667 150 817 146 216 
+185 270
 
-25 840 96 936 11 289 357 
-279
+25 840 96 936 11 289 
+357 279
 
-Apr. 1 610 339 9 o0 232 264 161 292
+Apr. 1 610 339 9 o0 232 264 161 
+292
 
 8 -2 17 tc 496 -- 269 
 49 178
 
-15 - 915 102 1,017 322 509 47 139
+15 - 915 102 1,017 322 509 47 
+139
 
-22 - 811 158 969 517 252 81 119
+22 - 811 158 969 517 252 81 
+119
 
-29 - 783 111 894 63 361 259 211
+29 - 783 111 894 63 361 259 
+211
 
-May 6 -424 350 774 93 248 220 
-213
+May 6 -424 350 774 93 248 
+220 213
 
-13 -782 28 810 150 254 202 204
+13 -782 28 810 150 254 202 
+204
 
-20 - 965 214 1,179 332 310 243 ?94
+20 - 965 214 1,179 332 310 243 
+?94
 
-27 -889 44 933 86 150 247 450
+27 -889 44 933 86 150 247 
+450
 
-June 3 p -1,050 175 1,225 269 354 
-264 338
+June 3 p -1,050 175 1,225 269 
+354 264 338
 
-10 p - 738 118 856 195 237 169 
-255
+10 p - 738 118 856 195 237 
+169 255
 
-17 p - 446 212 658 -- 251 186 
-221
+17 p - 446 212 658 -- 251 
+186 221
 
 p - Freliminary.
 
@@ -1476,7 +1486,8 @@ S8.0
 +10.t
 + 70
 
-- 7.i .
+- 7.
+i .
 
 S55
 +67
@@ -1579,7 +1590,8 @@ S97
 
 -I.
 
-+1 '-1 ,
++1 '
+-1 ,
 
 +76
 43
@@ -1644,13 +1656,20 @@ Seasonally Adjusted
 
 (Based on monthly averages of daily figures)
 
-ReHerve A ggates I/ Member Bank Deposits Money Supply Commercial Credit Prcxy +
-Supported by Required Reserves oneyank time E,,r,-dnllars +
+ReHerve A ggates I/ Member Bank Deposits Money Supply Commercial Credit Prcxy 
++
 
-Period ro: . 1 1 - Private U.S. Gov'L. Private deposits other nindep.Total Nonboitowedv Requrudl memb, bank d T ime demand demand Total Currency demand adjusted sources of
+Supported by Required Reserves oneyank time E,,r,-dnllars +
+Period ro: . 1 1 - Private U.S. Gov'L. Private deposits other nindep.
+
+Total Nonboitowedv Requrudl memb, bank d
+T
+
+ime demand demand Total Currency demand adjusted sources of
 de ts
 
-r e s e r v e s *resev r I deposits its 1/ deposits 2/ deposits 3 4/ | rn
+r e s e r v e s
+*resev r I deposits its 1/ deposits 2/ deposits 3 4/ | rn
 
 Monthly:
 1968--January
@@ -1950,16 +1969,17 @@ d o 1 l a r s
 ____________________ 
 L
 
-Private demand deposits include demand deposits of individuals, partnerships, and corporations 
-and net interbank deposits.
+Private demand deposits include demand deposits of individuals, partnerships, and 
+corporations and net interbank deposits.
 
-Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial 
-banks.
+Includes currency outside the Treasury, the Federal Reserve, and the vaults of 
+all commercial banks.
 
-Includes (1) demand deposits at all commercial banks, other, than those due to domestic commercial banks and the U.S. Government, less
+Includes (1) demand deposits at all commercial banks, other, than those due to domestic commercial banks and the U.S. Government, 
+less
 
-process of collection and Federal Reserve float , and (2) Foreign demand balances 
-at Federal Reserve Banks.
+process of collection and Federal Reserve float , and (2) Foreign demand 
+balances at Federal Reserve Banks.
 
 Excludes interbank and U.S Government timee deposits.'
 
@@ -2215,7 +2235,9 @@ I I L
 Member Bank Deposits
 Supported by Reouired Reserves
 
-Tn i ITotl Time
+Tn i ITotl 
+Time
+
 in meo i h.nk elos t
 d i dos iti(Irpusits
 
@@ -2628,13 +2650,14 @@ lI3.0
 
 Private demand deposits include demand deposits of individuals, partnerships, and corporations and net Interbank depsits. p Preliminary.
 
-Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial banks.
+Includes currency outside the Treasury, the Federal Reserve, and the vaults of all commercial 
+banks.
 
-Includes (1) demand deposits at a11 commercial banks, other than those due to domestic commercial banks 
-and the U.S. Government, less cash items in
+Includes (1) demand deposits at a11 commercial banks, other than those due to domestic commercial 
+banks and the U.S. Government, less cash items in
 
-process of collection and Federal R serve float, and (2) foreign demand balances at Federal 
-Reserve Banks,
+process of collection and Federal R serve float, and (2) foreign demand balances at 
+Federal Reserve Banks,
 
 Excludes interank and U.S. Government time deposits.
 

@@ -47,6 +47,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1392,7 +1395,8 @@ Percent
 
  
 
-1Real Federal Funds Rate
+1
+Real Federal Funds Rate
 
 2004 2005 2006 2007 2008 2009 2010 2011 2012
 
@@ -1543,7 +1547,8 @@ Percent
 
  
 
-1Real Federal Funds Rate
+1
+Real Federal Funds Rate
 
 2004 2005 2006 2007 2008 2009 2010 2011 2012
 

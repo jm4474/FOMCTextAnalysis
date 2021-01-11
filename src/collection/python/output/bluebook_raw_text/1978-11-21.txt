@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -913,13 +916,15 @@ S- 375
 
 Q3 '78-03 '79
 
-,..-2% - 365
+,..-2% -
+365
 
 S355
 
 8-Q2 '79
 
--P4% - 365
+-P4% 
+- 365
 
 j 355
 
@@ -1039,7 +1044,8 @@ Billions of dollars
 
 1490
 
-'79 1550
+'79 
+1550
 
 1520
 
@@ -2472,7 +2478,8 @@ NOV. 17, 1978
 Total Savings Deposits Time Deposits
 Time Memo Large
 
-Period TimeIndividual Memo Largeand Total ndi Business Government Total Large Small Negotiable CD's
+Period TimeIndividual Memo Large
+and Total ndi Business Government Total Large Small Negotiable CD's
 an Nonprofit SA ) Denomination Denomination
 
 Savings Nonprofit (NSA) (NSA) Denomina t ionJDenominat ion
@@ -3232,10 +3239,12 @@ S - - - 3,358
 
 625
 
--6-- -- -- -- -- -- -- -6
--- -- -- -- -- -- -- -22
+-6
+-- -- -- -- -- -- -- -6
 
+-- -- -- -- -- -- -- -22
 - -- -- - - - - 634
+
 122 751 -- -- -- -- -- 2,751
 
 -- -- -- -- -- -- -- 712
@@ -3481,9 +3490,16 @@ Nov. 1
 -119
 367p
 
-138p
-3 97p
-36 3p
+13
+8
+p
+
+3 97
+p
+
+3
+6
+3p
 
 1,861
 20
@@ -3770,7 +3786,10 @@ Daily--Nov. 2
 Short-Term I Long-Term
 SCD's New Comm. U.S. Govt.-Constant Corp.-Aaa Home Mortgages
 
-y Bills ssue- Paper Ba n k  Maturity Yields tility MuncipalecondaryMarket
+y Bills ssue- Paper 
+Ba n k  
+
+Maturity Yields tility MuncipalecondaryMarket
 S Auction NYC 90-119 New R e ely B r Cmry FNMA GNMA
 
 1-yr 6-mo 90-Day Day Rate 3-yr 7-yr 20-yr Buyer Con. Auc. Sec.
@@ -4402,7 +4421,8 @@ P - PRELIMINARY
 
 
 
-APPENDIX TABLE 2-A Nov. 17, 1978
+APPENDIX TABLE 2-A Nov. 17, 
+1978
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 

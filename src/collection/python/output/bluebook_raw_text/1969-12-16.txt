@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1070,9 +1073,13 @@ _ __Monetary Variables
 
 Total M o n e y S u p p y Commercial Credit Proxy
 
-Member Bank Private Demand bank time (Incl Euro-
+Member Bank Private Demand bank time (Incl 
+Euro-
 
-DepositsTotal Currency Deposits deposits dollarI __ _______ adjusted borrowings)
+DepositsTotal Currency Deposits deposits 
+dollar
+
+I __ _______ adjusted borrowings)
 
 +11.8
 + 9.0
@@ -1312,7 +1319,8 @@ May 28,235 26,888 27,942 295.1 159.3 130.0 5.9 198.3 44.5 153.8 201.7 305.0
 June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 304.7
 July 27,530 26,275 27,334 288.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 301.8
 August 27,401 26,214 27,161 285.3 152.5 129.9 2.9 199.0 45.3 153.8 194.5 299.4
-September 27,402 26,383 27,1&4 28).7 152.1 129.2 4.4 199.0 45.2 153.7 194.1 O0October ?7, 154 26,210 27,129 283.5 151.5 128.9 3.1 199.1 45.6 1536 193 975
+September 27,402 26,383 27,1&4 28).7 152.1 129.2 4.4 199.0 45.2 153.7 194.1 O0
+October ?7, 154 26,210 27,129 283.5 151.5 128.9 3.1 199.1 45.6 1536 193 975
 November p 27,770 26,524 27,549 286.1 151.1 129.5 5.5 199.7 45.8 153.9 193.4 30,.3
 
 1/ Private demand deposits include demand deposits of individuals, partnerships, and corporations and net interbank deposits.
@@ -1774,11 +1782,12 @@ Retrospective and Prospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 F a c t o r s affect n g upp y of r e serve s - Change =Bank use of reserves
-Period Federal Reserve God Currency r Foreign Other nonmember in Recredit (excl. o outside easury Float deposits aeposits and total Reuired Excess
+Period Federal Reserve God Currency r Foreign Other nonmember in Re
 
+credit (excl. o outside easury Float deposits aeposits and total Reuired Excess
 sockfloat) / banks opertionsand gold loans F.R. accounts reserves reservesfloat) 1/ banks __
-a n
 
+a n
 and old loans F.R. accounts reserves
 
 Year-

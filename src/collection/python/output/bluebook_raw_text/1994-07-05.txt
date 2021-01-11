@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -946,7 +949,8 @@ S%----
 CPI Excluding Food and Energy (Four-quarter percent change)
 - 3.6
 
-,,- ----c *^^
+,,- ----
+c *^^
 
 f t 
 I l 
@@ -961,7 +965,8 @@ I a,,,l;,, I
 1
 s
 
-rr
+r
+r
 
 c
 
@@ -1295,7 +1300,9 @@ Ratio Scale
 -- 1.5
 
 1980 1985 1990 1995
-I.I. . . . . . .i I I I I I I I I I I I I I I I I I I I I I I I I I I
+I.I. . . . . . .i I I I I I I I I I I I I I I I I I I I I I I I 
+
+I I I
 
 '5
 
@@ -1331,8 +1338,10 @@ DOMESTIC NONFINANCIAL DEBT VELOCITY
 
 M1 VELOCITY
 
-1960 1965 1970 1975 1980I I I I 
-I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I A-1-1 I
+1960 1965 1970 1975 1980
+I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I 
+
+I I A-1-1 I
 
 
 
@@ -2257,7 +2266,8 @@ Footnotes on following page
 
 1-5
 
-0-4 12
+0-4
+12
 
 0-4
 
@@ -2318,7 +2328,8 @@ Footnotes on following page
 
 4.5 - 8.5
 
-4-8 12
+4-8 1
+2
 
 4-8
 
@@ -3295,7 +3306,9 @@ S 7,749
 
 1,413
 
-2,81783.7..--.1.413
+2,81783.7
+..
+--.1.413
 
 -..
 
@@ -3386,7 +3399,9 @@ S 4,326
 
 618
 
-896..-..
+896
+..-
+..
 
 ---.
 

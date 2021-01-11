@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -151,7 +154,8 @@ Reserve and Monetary Aggregates Range of
 
 M1 5-7 1.1
 
-M2  7-10 4.5
+M2  7-10 
+4.5
 
 RPD 9-11 4.7
 
@@ -357,7 +361,8 @@ June '74-June '75
 Nov. '74-June '75
 Dec. '74-June '75
 
-M2
+M
+2
 
 June '74-June '75
 Nov. '74-June '75
@@ -952,8 +957,8 @@ DEPOSITS
 BILLIONS OF DOLLARS
 40
 
-30 I 
-I I I 't
+30
+I I I I 't
 
 0 N
 1974
@@ -1077,7 +1082,8 @@ IT Short-term PERCENT INTEREST RATES Long-term PERCENT
 WEEKLY AVERAGES
 WEEKLY
 
-EURO-DOLLARS FHA MORTGAGES0  3-MONTH FNMA MONDAY AUCTION
+EURO-DOLLARS FHA MORTGAGES0  
+3-MONTH FNMA MONDAY AUCTION
 
 11 - - 9
 
@@ -1691,7 +1697,9 @@ I
 
 93.1
 
-93.693.5 I3
+93.693.5
+I3
+
 I3
 
 (8)
@@ -1764,14 +1772,27 @@ Weekly
 27 251 212 -- 3,088 3,550 1,388 114 -1,845 -203 -140
 
 Dec. 4 554 - - -5,269 -4,715 532 -409 459p 132p 450p
-11 56 - -- 3,987 4,043 -243 -425 - 91P 44p -803p
+11 56 - -- 3,987 4,043 -243 -425 - 91P 44p -
+
+8
+03p
+
 18 313 -- 360 1,091 1,764 432 174 -137p lip 458p
 25 399 280 -- 757 1,436 2,612 -159 -2,390p -196p 259P
 
 1975--Jan 1 - - - -3,323 -3,409 - 103 -101 1,041p 329P 508p
-8 -30_ -14 -3,069 -3,393 -1,918 -249 1,851p 81p -397 p
+8 -30_ -14 -3,069 -3,393 -1,918 -249 1,
 
-15 -371 406 - 2,492 2,526 -863 296 1,444p 458p 4 19p
+8
+51p 81p -39
+
+7
+p
+
+15 -371 406 - 2,492 2,526 -863 296 1,444p 458p 
+4
+19p
+
 22
 29
 
@@ -2200,7 +2221,8 @@ Nov.
 Dec.
 
 1974 -
-J.Nv. 6
+J
+.Nv. 6
 
 13
 20
@@ -2676,12 +2698,16 @@ Appendix Table 1
 RESERVES AND MONETARY VARIABLES January 16, 1975
 
 MONEY STOCK BANK CREDIT
-RESERVES OTHERMEASURES MEASURES
+RESERVES OTHER
+
+MEASURES MEASURES
 
 Available Total T e Tr
 Period to Adjusted Loans Time Thrift Non- U.S.
 
-Total Non Support M1  M2  M3  Credit and Total Other Inst- Ds deposit Gov't.borrowed Private Proxy Invest- Time Than tution C Funds Demand
+Total Non Support M1  M2  M3  Credit and Total Other Inst- Ds deposit Gov't.
+borrowed Private Proxy Invest- Time Than tution C Funds Demand
+
 Deposits ments CD's Deposits
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14
@@ -2739,10 +2765,14 @@ SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
 
 January 16, 1975
 
-BANK CREDITRESERVES MONEY STOCK MEASURES EASN RET OTHERMEASURES
+BANK CREDIT
+RESERVES MONEY STOCK MEASURES EASN RET OTHERMEASURES
 
 Period Available Total Time Thrift
-Non- to 1 Ad Loans Total Other Insti- N - U.S.Total borrowed Support M2  M3  Credit and Time Than tution CD's deposit Gov't.
+Non- to 1 Ad Loans Total Other Insti- N 
+
+- U.S.
+Total borrowed Support M2  M3  Credit and Time Than tution CD's deposit Gov't.
 
 Pvt Total Pvt. Proxy Invest- CD's Deposits Funds Demand
 Deposits Dep. ments
@@ -2785,7 +2815,8 @@ Dec.
 p 37,269 36,197 34,991 286.0 218.2 614.9 -- 493 5 -- 415.5 328.9 -- 86.7 7.6 3.6
 
 lip 36,564 35,917 34,415 284.3 216.6 614.3 -- 494.6 -- 418.5 330.0 -- 88.5 8.1 3.5
-18p 36,816 35,995 34,584 283.4 215.6 613.5 -- 495.7 -- 420.3 330.1 -- 90.2 8.9 3.22 5p 36,842 36,180 34,711 282.8 215.2 613.8 -- 493.1 -- 422.7 331.0 -- 91.7 8.6 0.1
+18p 36,816 35,995 34,584 283.4 215.6 613.5 -- 495.7 -- 420.3 330.1 -- 90.2 8.9 3.22
+5p 36,842 36,180 34,711 282.8 215.2 613.8 -- 493.1 -- 422.7 331.0 -- 91.7 8.6 0.1
 
 1975--Jan. Ip 37,352 36,791 34,858 283.6 215.9 614.0 -- 494.5 -- 423.5 330.4 -- 93.1 8.2 --
 8p 36,677 36,365 34,376 281.5 213.7 613.7 -- 495.4 425.7 332.1 -- 93.6 8.1 --

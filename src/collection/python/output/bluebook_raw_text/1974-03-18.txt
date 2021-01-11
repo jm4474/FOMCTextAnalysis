@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -450,7 +453,10 @@ RATIO SCALE, BILLIONS OF DOLLARS
 
 Week of March 6, 1974
 
-®4, o GROWTH- -. -5 % GROWTH
+®4,
+o GROWTH
+
+- -. -5 % GROWTH
 
 RATE OF GROWTH
 DEC. '72 TO DEC. '73 5.7%
@@ -1430,7 +1436,10 @@ Weekly
 Feb. 6 -38Z -- -38 -1,864 -2,285 -685 -222 243 31 -695
 13 394 -- -- 2,788 2,683 269 155 -551 165 -292
 20 185 30 120 1,049 1,384 888 224 -1,067 96 -51
-27 -124 -- -8 -3,106 -3,238 -1,001 -122 615 -423p -85p
+27 -124 -- -8 -3,106 -3,238 -1,001 -122 615 -4
+
+23
+p -85p
 
 Mar. 6 -759 -- -5 370 -394 -376 -343 436 -330p 47P
 13 -416 -- -43 2,116 1.657 -21 72 99 373p -223p
@@ -1484,7 +1493,8 @@ Mar 2,490 -50 24 125 177 1,825 -4,273 -5,847
 
 Apr. 2,457 106 12 60 255 1,688 3 -3,293 -6,577
 
-May 1,894 421 66 151 161 1,843 30 -3,019 -5,872
+May 1,894 421 66 151 161 1,843 30 -3,019 
+-5,872
 
 June 2,281 562 33 120 234 1,851 75 -3,507 -6,443
 
@@ -1503,7 +1513,8 @@ Dec. 3,441 973 105 276 307 1,298 41 -4,682 -9,793
 1974 -- Jan. 3,102 540 114 254 162 1,051 18 -4,753 -10,893
 
 Feb. *2,436 *1,619 120 263 195p 1,193p 1
-7p -5,262 -10,769
+7
+p -5,262 -10,769
 
 1974 - Jan. 2 2,890 858 43 238 388 1,210 31 -4,418 -9,541
 
@@ -1515,25 +1526,36 @@ Feb. *2,436 *1,619 120 263 195p 1,193p 1
 
 36 3,087 420 42 371 259 1,220 17 -3,229 -10,651
 
-Feb. 6 2,759 898 88 226 124 998 18 -4,118 -10,417
+Feb. 6 2,759 898 88 226 124 998 18 -4,118 
+-10,417
 
-13 2,781 2,203 253 210 294 1,153 15 -5,656 -10,719
+13 2,781 2,203 253 210 294 1,153 15 -5,656 
+-10,719
 
 20 *2,121 *1,882 95 245 114 1,376 20 -5,726 -10,863
 
 27 *2,096 *1,508 115 299 241p 1,
-255p 16p -5,341 -10,907
+2
+5
+5
+p 16p -5,341 -10,907
 
 Mar. 6 *2,474 *1,097 114 298 9
-2p 912p 19p -6,003p -10,
+2
+p 912p 19p -6,003p -10,
 
-4 21p
+4
+21p
 
 13 *2,466 * 848 20
-0p 
+0
+p 
 
-2 80p 120p 984p 19p -5,871p -11,5
-4 1p
+2
+80p 120p 984p 19p -5,871p -11,5
+
+4
+1p
 
 20
 27
@@ -1551,12 +1573,12 @@ NOTE:
 Government s6curity dealer trading positions are on a commitment basis. Trading positions, which exclude treasury DoLis fnanced oy repu ,aa a -
 
 ments maturing in 16 days or more, are indicators of dealer holdings available for sale over the hear-term. Other security dealer positions are debt
-issues still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing at 
+issues still in syndicate, excluding trading positions. The basic reserve deficit is excess reserves less borrowing 
 
-Federal Reserve less net
+at Federal Reserve less net
 
-Federal funds purchases. Weekly data are daily averages for statement weeks, except for corporate end municipal issues in syndicate 
-which are Friday
+Federal funds purchases. Weekly data are daily averages for statement weeks, except for corporate end municipal issues 
+in syndicate which are Friday
 
 figures.
 
@@ -1728,7 +1750,12 @@ PerIod Commercial New Recently Municipal (10-yr. Constant Auction
 8.30
 
 8.37
-8 . 3 3 p
+8
+
+.
+3 3
+
+p
 
 8.30
 7.26
@@ -2941,7 +2968,8 @@ M 0
 "Rate in Money Supply
 change at an annual rate)
 
-M2 M
+M2 
+M
 
 M Q M Q
 

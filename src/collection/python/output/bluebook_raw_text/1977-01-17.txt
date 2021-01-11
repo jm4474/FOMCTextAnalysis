@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1763,9 +1766,11 @@ Over
 1,070
 642
 
-ii Federal AgenciesNet Purchases 4/
-Within
+ii
+Federal Agencies
+Net Purchases 4/
 
+Within
 Total 1-vear
 
 1,582
@@ -2128,7 +2133,9 @@ p
 26
 69
 37
-82p
+8
+2
+p
 
 32p
 20p
@@ -3087,8 +3094,8 @@ nd avings Credit Short Ter
 
 Period CurrencyDemand Other Than CD's CD' Bank & Union Sainds Commercial
 
-DepstTotal Savings Other Shares- n 
-G
+DepstTotal Savings Other Shares- 
+n G
 
 1 2 3 4 5 6 7 8 9 10 11 12
 ANNUALLY: (Per cent annual rates of growth)

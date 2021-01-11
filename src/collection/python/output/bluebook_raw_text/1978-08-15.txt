@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -363,7 +366,10 @@ Recently Established M-1 Growth Ranges and Actual M-1
 
 Billions of dollars
 
-6%%A6 1/2%
+6%%A6
+1
+/2%
+
 - -- Projection # - 370
 
 Q2 '78-02 '79
@@ -419,7 +425,8 @@ S- 890
 
 S- 860
 
-e 00 9'%
+e 00 
+9'%
 
 S-- 845
 
@@ -443,7 +450,8 @@ F 0 0 %815
 755 - - A845755 L^ . Q3 '77-Q3 '78 
 4 5
 
-785- r 0 6 % %  - 830
+785- r 0 
+6 % %  - 830
 
 770 - - 815
 
@@ -834,7 +842,9 @@ S - 1500
 1260 L , ~ 1440-/
 
 1290 - -o 1470
-I / s S S Q3'77-Q3'78
+I / s
+
+S S Q3'77-Q3'78
 
 1260 L . s , - 1440
 
@@ -2488,7 +2498,9 @@ CONFIDENTIAL (F.R.)
 TABLE 2 CLASS II-FOMC
 
 BANK RESERVES
-ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED AUG. 11, 1978AUG. 11, 1978
+ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED AUG. 11, 1978
+
+AUG. 11, 1978
 
 BANK RESERVES REQUIRED RESERVES
 
@@ -3012,7 +3024,10 @@ p
 903
 
 1,589
-1,4 6 0p
+1,4
+
+6
+0p
 
 1
 ,
@@ -4134,7 +4149,9 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 Time and Savings Deposits Mutual Other
 Dmand -Savings Credit Short Term Private
 
-Period Currency Demand Other Than CD's Bank & Union Saings U.S.Govt Short-termDeposits Total -&CS'sh BoessI U.S.Gov't Short-termDeposits Total CD's sL Shares1 Securities Assets
+Period Currency Demand Other Than CD's Bank & Union Saings U.S.Govt Short-term
+Deposits Total -&CS'sh BoessI U.S.Gov't Short-termDeposits Total CD's sL Shares1 Securities Assets
+
 . I Total-| Savings Other I Shares-V 1 .1/
 
 1 2 3 4 5 6 7 8 9 10 11 12

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1030,7 +1033,9 @@ September 17 39,933/ 39,583.
 6
 /7/ 40,278 40,010 268 597 550
 
-October 1 39,784 39,7438/ 40,348 40,004 344 605 500
+October 1 39,784 39,743
+8
+/ 40,348 40,004 344 605 500
 
 1/ Represents borrowing in remaining statement weeks (as intermeeting sub-period progresses) implied
 
@@ -1528,13 +1533,19 @@ Net Changes in System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted October 4, 1982
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 Period bills net ii outright Net RPs6chang
 
-2  w-5 510 over 10 total witn 1.5 510 over 10 total 
-ho
+2  
+w-5 510 over 10 total witn 1.5 510 over 10 total 
+
+h
+o
 
 N e t
 al
@@ -1589,7 +1600,10 @@ LEVEL--Sept. 29 53.7 15.8 36.0 12.3 16.3 80.3 2.5 5.1 .9 .5 8.9 143.0 -3.7
 change for maturing bills. Excludes redemptions, maturity shifts, rollovers of maturing coupon 6 Includes changes in RPs (+), matched sale-purchase transactions (-), and matched purchase-sale
 issues. and direct Treasury borrowing from the System. transactions (+).
 
-4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity 7 Maturing 4 -year notes were exchanged on June 30 for special 6-day bills.
+4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity 7 Maturing 
+4
+
+-year notes were exchanged on June 30 for special 6-day bills.
 shifts. At their maturity, the bills were exchanged for new 4-year notes.
 
 FR 1368 (7/81)
@@ -1847,7 +1861,8 @@ U.a.
 0
 8
 
-p2
+p
+2
 42p
 
 2
@@ -1952,7 +1967,10 @@ FR 1369 (7/81)
 
 1,329p
 809p
-74 9 p
+7
+
+4 9
+p
 
 
 

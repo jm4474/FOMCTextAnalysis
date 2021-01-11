@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1475,7 +1478,10 @@ S13.35
 12.96
 
 Daily--Apr. 10 19.53 14.30 13.11
-17 18. 35 p 13.50 11.96
+17 18.
+
+35
+p 13.50 11.96
 
 - 17.47 17.31 20.00 12.99 12.06 11.74
 - 16.00 15.79 20.00 11.66p 11.03p 11.00p
@@ -1502,7 +1508,8 @@ APRIL 18, 1980
 Treasury Coupons Federal Agencies Net Change
 Bills Net Net Purchases 3/ Net purchases 4/ Outright RPs
 
-Change 2/ Within - 5 5 - 10 Over 10 Total thn 1 - 5 5 - 10 Over 10 Total Holdings6/- year year Total 5/ -
+Change 2/ Within - 5 5 - 10 Over 10 Total thn 1 - 5 5 - 10 Over 10 Total Holdings6/
+- year year Total 5/ -
 
 1975 -468 337 3,284 1,510 1,070 6,202 191 824 460 138 1,613 7,267 1,272
 1976 863 472 3,025 1,048 642 5,187 105 469 203 114 891 6,227 3,607
@@ -1744,7 +1751,8 @@ Apr. 2
 
 75
 0
-5 p
+5
+p
 
 404
 53
@@ -1807,28 +1815,41 @@ Apr. 2
 398
 
 350p
-1 9 9 p
+1 9 9
+
+p
 258p
 
 556p
 -171p
-6 00p
+6
+00p
 
 -228p
 
-5 10 p
-1 3 9 p
+5 10
+p
+
+1 3 9
+p
+
 223p
 132p
 
 398p
-1 9 9 p
+1 9 9
+
+p
 287p
 
 2,960
 628
 
-3 ,4 39 p
+3
+,
+4 39
+
+p
 732p
 
 991
@@ -1843,23 +1864,50 @@ Apr. 2
 
 2,023
 1,911
-1,4 73 p
+1,
+
+4 73
+p
 
 1,240p
 1,654p
 2,824p
 
-7 5 9 p
+7 5 9
+p
+
 1,236p
-2 ,194 p
-2,05 7p
+2
+,19
 
-2 ,508p
-3 ,4 3 9p
+4
+p
+
+2,05
+7
+p
+
+2
+,50
+
+8
+p
+
+3
+,
+4 3 9
+
+p
 3,001p
-2,6 6 0p
+2,
 
-2,26 2 p
+6 6 0
+p
+
+2,2
+6 2
+
+p
 2,386p
 2,276p
 
@@ -1931,7 +1979,8 @@ December 1135.3 6/ 93.8 191.5 850.0 292.3 242.4 182.7 18.3 30.3 812.5
 February 1165.3 94.8 195.2 875.3 302.8 247.7 184.4 17.7 31.1 835.4
 Marche 1168.7r 9
 
-4.5r 196.Or 878.2r 304.8r 249.6 n.a. 16.8 31.7 837.1r
+4
+.5r 196.Or 878.2r 304.8r 249.6 n.a. 16.8 31.7 837.1r
 
 annual percentage rate of change
 
@@ -1963,7 +2012,8 @@ December 4.1 -6.4 6.3 4.8 8.7 13.5 2.6 7.1
 February 18.7 20.6 13.1 19.8 22.2 13.2 4.6 19.0
 Marche 3.5r -3.8r 
 
-4.9r 4.0r 7.9r 9.2 n.a. 2,4r
+4
+.9r 4.0r 7.9r 9.2 n.a. 2,4r
 
 Note: Monthly averages reflect prorated averages of Wednesday data for domestic chartered banks and averages of current
 and previous month-end data for foreign-related institutions. Loans are adjusted to exclude domestic interbank

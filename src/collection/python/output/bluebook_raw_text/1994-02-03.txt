@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2769,7 +2772,8 @@ DEC. 321.5 386.1 415.7 84.7 1218.6 783.5 336.4 198.8 331.5 95.3 47.8
 
 p preliminary
 
-Note: The monetary data in this table do not reflect the 1994 benchmaik and revision of seasonal factor.
+Note: The monetary data in this table do not reflect the 1994 benchmaik and revision of seasonal 
+factor.
 
 
 
@@ -2997,7 +3001,8 @@ January 26
 
 1,008
 
-1,008---
+1,008
+---
 
 °..
 
@@ -3029,7 +3034,9 @@ January 26
 4,326
 
 100
-4,642
+4,64
+
+2
 
 100
 
@@ -3154,7 +3161,8 @@ January 28, 1994
 
 826
 
-826°-
+826
+°-
 -- _
 
 -1,614

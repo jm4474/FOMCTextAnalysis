@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -687,7 +690,8 @@ September
 
 October
 
-1/Quarter-
+1/
+Quarter-
 
 3rd (Sept.
 over June)
@@ -2030,7 +2034,8 @@ o a r s
 
 3/ Includes (1) demand deposits at all commercial banks, other than those due to domestic commercial banks and the U.S. Government,
 
-process of collection and Federal Reserve float; and (2) foreign demand balances at Federal Reserve Banks.
+process of collection and Federal Reserve float; and (2) foreign demand balances at Federal Reserve 
+Banks.
 
 4/ Excludes interbank and U.S. Government time deposits.
 5/ Weekly nonbank commercial paper are not seasonally adjusted.
@@ -2166,7 +2171,8 @@ p - Preliminary.
 
 71)
 
-- )-- )
+- )
+-- )
 - )
 
 -- )

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1014,8 +1017,8 @@ BILLIONS OF DOLLARS
 5% growth
 for Oct -Nov
 
-- 32 2% 
-growth
+- 32 
+2% growth
 
 32
 
@@ -2688,7 +2691,9 @@ borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Mo
 are for last day of month. Weekly data are not available for M, total loans and investments and thrift institution deposits.
 
 1/ Estimated mho hly average levels derived by averaging end of current month and end of previous month reported data.
-?/ Sertes revised to incorporate new seasonal factors and June 30, 1973, benchmark adjustments. iata are prellminAr: and may be subject to minor chanes.
+?/ Sertes revised to incorporate new seasonal factors and June 30, 1973, benchmark adjustments. iata are prellminAr: and may be subject to minor 
+
+chanes.
 
 I
 

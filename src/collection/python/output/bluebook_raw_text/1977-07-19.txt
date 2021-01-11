@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -330,7 +333,8 @@ Committee meeting for the QI '77-QI '78 period. The growth rates for bank
 
 credit shown under A through D relate to total loans and investments of all
 
-1/commercial banks.rather than to the bank credit proxy.-
+1/
+commercial banks.rather than to the bank credit proxy.-
 
 Alt. A Alt. B Alt. C Alt. D Current
 
@@ -2291,8 +2295,9 @@ S - - - - 2,908
 ---- -- ----- 125
 
 - 173 138 35 346 2,176
----- -- ----- 254
+---- 
 
+-- ----- 254
 - 233 113 33 380 1,744
 
 - -- -- - - - 173 138 35 346 866
@@ -2580,7 +2585,9 @@ n.a.
 226
 223
 271p
-334p
+334
+
+p
 
 265p
 n.a.
@@ -2660,7 +2667,10 @@ n.a.
 -5,612
 -4,269p
 
--5,990p
+-5,
+990
+
+p
 n.a.
 
 -12,744
@@ -3114,7 +3124,8 @@ Long- ern
 Corp.-Aaa Utilit Municipall
 
 New Recently Bond
-Issue Offered Buyer(10r ) ( i) (1Z)
+Issue Offered Buyer
+(10r ) ( i) (1Z)
 8.95 8.94 7.13
 7.93 7.84 5.83
 
@@ -3653,7 +3664,9 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 ITime and Savings Deposits Mutual
 Savings Credit Short Term
 
-Period Currency nd Other Than CD's Bank & Union Savings U.S.Gov't Com cDeposits Total CD's S&L Shares BndsJ Securities Paper
+Period Currency nd Other Than CD's Bank & Union Savings U.S.Gov't Com c
+Deposits Total CD's S&L Shares BndsJ Securities Paper
+
 ______ Total Savings Other Shares-i 1i
 
 1 2 3 4 5 6 7 8 9 10 11 12
@@ -3718,7 +3731,9 @@ APPENDIX TABLE 2-B JULY 15, 1977
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
 Time and Savings Deposits Mutual Short-
-Demand Savings Credit Term Con- Non- TotalPeriod Currency k Union Saings mercial Deposit Gov't
+Demand Savings Credit Term Con- Non- Total
+
+Period Currency k Union Saings mercial Deposit Gov't
 Deposit otal Other Than CDs D's & S&L Shares Bods Gov't Paper Funds Demand
 
 ___ _ Total Savings| Other Shares 9 1 Sec j Deposip

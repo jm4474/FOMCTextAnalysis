@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -259,8 +262,8 @@ other than large CD's) 8.5 9.7 10.3 9.3 9.8
 M3 (M2 plus deposits at thrift
 institutions) 11.3 11.7 12.0 11.4 12.7
 
-M4 (M2 plus CD's) 6.4 6.6 6.3 6.4 
-0.8
+M4 (M2 plus CD's) 6.4 6.6 6.3 
+6.4 0.8
 
 M5 (M3 plus CD's) 9.7 9.6 9.4 9.5 7.0
 
@@ -1600,8 +1603,9 @@ AVERAGES
 
 
 Table 1 CONFIDENTIAL (FR)
-CLASS 11-FOMCMONETARY AGGREGATES SEPT. 17, 1976
+CLASS 11-FOMC
 
+MONETARY AGGREGATES SEPT. 17, 1976
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
 
 Money Supply Adjusted Total Time and Savings Deposits Nondeposit Member
@@ -2375,10 +2379,17 @@ Sept. 1
 157
 122
 85
-67p
+6
+7
+p
 
-93p
-46p
+93
+p
+
+4
+6
+p
+
 61p
 
 (8)
@@ -2596,7 +2607,10 @@ Daily-- Sept. 9
 5.22 5.12 5.56 5.38
 
 5.25 5.12 5.56 5.38
-5.22p 5.10 5.53 5.38
+5.
+
+22
+p 5.10 5.53 5.38
 
 5.03
 5.06
@@ -3242,7 +3256,9 @@ I
 APPENDIX TABLE 1-B
 
 MONEY AND CREDIT AGGREGATE MEASURES
-SEASONALLY ADJUSTED, BILLIONS OF DOLLARS SEPT. 17, 1976
+SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
+
+SEPT. 17, 1976
 
 BANK CREDIT MONEY STOCK
 BANK RESERVES MEASURES MEASURES
@@ -4157,8 +4173,11 @@ APPENDIX TABLE 2-B SEPT. 17, 1976
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
-T and S g Depos Mutual Short-Tim and Savin DeposSving s Credit Term Com- Non- Total
-Period Currency Demand Bank Union Savins U.S mercial Deposit Gov'tDeposits orncy Other Than CD's S&L Shares Bon Gov't Paper Funds Demnd
+T and S g Depos Mutual Short-
+Tim and Savin DeposSving s Credit Term Com- Non- Total
+
+Period Currency Demand Bank Union Savins U.S mercial Deposit Gov't
+Deposits orncy Other Than CD's S&L Shares Bon Gov't Paper Funds Demnd
 
 t Total Savings Other S hares Y Sec Deposi
 
@@ -4202,8 +4221,9 @@ AUG. 4 78.4 227.1 471.3 404.8 182.7 222.1 66.5 8.7 11.0
 25 78.7 227.6 471.8 408.3 185.0 223.3 63.5 9.3 16.5
 
 SEPT. 1P 78.6 227.2 472.3 409.5 185.8 223.8 62.8 8.6 16.0
-8P 79.0 225.1 473.6 411.4 186.8 224.7 62.2 7.9 16.0. .- - --- -- --- -- --- . . - -
+8P 79.0 225.1 473.6 411.4 186.8 224.7 62.2 7.9 16.0
 
+. .- - --- -- --- -- --- . . - -
 1/ ESTIMATED MONTHLY AVERAGE LEVELS DERIVED BY AVERAGING END OF CURRENT MONTH AND END OF PREVIOUS MONTH REPORTED DATA.
 2/ INCLUDES TREASURY DEPOSITS AT MEMBER BANKS AND FEDERAL RESERVE BANKS.
 P - PRELIMINARY

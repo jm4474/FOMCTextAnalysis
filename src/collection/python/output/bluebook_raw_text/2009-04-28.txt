@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -3998,11 +4001,12 @@ Baseline Scenario 
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-Bi
-lli
-on
-
+$
+ B
+il
+li
+o
+n
 s
 
 Federal Reserve Assets
@@ -4031,11 +4035,12 @@ Swaps  TALF  Other liquidity facilities Other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-Bi
-lli
-on
-
+$
+ B
+il
+li
+o
+n
 s
 
 Federal Reserve Liabilities and Capital
@@ -4079,11 +4084,13 @@ Expanded Purchases Scenario 
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
@@ -4113,11 +4120,13 @@ Swaps  TALF  Other liquidity facilities Other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 

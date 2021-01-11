@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -537,7 +540,8 @@ S - ACTUAL LEVELS / -2380
 
 / -2340
 
-/ 23206/
+/ 2320
+6/
 
 / / - 2300
 
@@ -1932,7 +1936,13 @@ CLASS II-FOMC
 
 October 1, 1984
 
-Treasury Treasury coupons net purchases 3  Federal agencies net purchases 4  Net change_
+Treasury Treasury coupons net purchases
+3  
+
+Federal agencies net purchases
+4  
+
+Net change_
 Period bills net outright Net RPs
 
 change 15 510 over 10 total 1-5 510 over 10 total h s11-year 1.5 &10 over 10 total 5-10 tota'1-year 1-year

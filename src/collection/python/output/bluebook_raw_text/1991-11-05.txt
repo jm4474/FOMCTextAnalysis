@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -580,7 +583,9 @@ O N D J F M A M J J A S 0 N D J
 2.5%
 
 J
-^<r
+^
+
+<r
 
 
 
@@ -1540,7 +1545,8 @@ Nov 1 91
 9.12
 8.98
 
-NOTE: Weekly data for columns 1 through 11 are statement week averages. Data in column 7 are taken from Donoghue's Money Fund Report. Columns 12,13 and 14 are 1-day quotes for Friday, Thursday or Friday, respectively,following the end of the statement week. Column 13 is the Bond Buyer revenue index. Column 14 Is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average
+NOTE: Weekly data for columns 1 through 11 are statement week averages. Data in column 7 are taken from Donoghue's Money Fund Report. Columns 12,13 and 14 are 1-day quotes for Friday, Thursday or Friday, respectively,
+following the end of the statement week. Column 13 is the Bond Buyer revenue index. Column 14 Is the FNMA purchase yield, plus loan servicing fee, on 30-day mandatory delivery commitments. Column 15 is the average
 contract rate on new commitments for fixed-rate mortgages (FRMs) with 80 percent loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1 -year, adjustable-
 rate mortgages (ARMs) at major institutional lenders offering both FRMs and ARMs with the same number of discount points.
 

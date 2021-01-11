@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -336,7 +339,8 @@ however, payments by the Treasury will probably be moderating and might be
 
 more than offset by the public's drawing down balances that had been built
 
-up by earlier refunds. Thus, M 1 growth during the March-April period is
+up by earlier refunds. Thus, 
+M 1 growth during the March-April period is
 
 expected to depend essentially on transactions demands associated with
 
@@ -1203,7 +1207,9 @@ TABLE 1
 BANK RESERVES
 (ACTUAL AND CURRENT PROJECTIONS)
 
-RESERVES AVAILABLE AGGREGATE RESERVES REQUIRED RESERVESRESERVES AVAILABLE SEASONALLY aDJUSTED
+RESERVES AVAILABLE AGGREGATE RESERVES REQUIRED RESERVES
+RESERVES AVAILABLE SEASONALLY aDJUSTED
+
 FOR PRIVATE ______SEASONALLY ADJUSTED_____
 FOR PRIVATE
 
@@ -1650,7 +1656,8 @@ Tooues Net '/
 -2,907
 -9,653
 
-Daily Average Reserve Effects /
+Daily Average Reserve Effects 
+/
 
 Open Market
 O atlnonstn
@@ -1731,7 +1738,10 @@ Factors
 3,788
 -490
 
--3,578p
+-3,
+578
+
+p
 
 -1,607
 2,767
@@ -2426,7 +2436,11 @@ Feb. 4 4.82 4.82 5.36 5.00 4.75 4,88 8.68 8.62 6.86 8.04r -- 8.27
 25 4.80 4.86 5.57 5.15 4.88 5.13 8.58. 8.56 6.98 7.96r 9.04 8.25
 
 Mar. 3 4.95 5.11 5.87 5.20 5.13 5.38 8.72 8.72 7.04 8,07r - 8.31
-10 4.86 5.08 5.92 5.25 5.13 5.25 8.64p 8.66p 6.98 8.00p 9.06 8.31
+10 4.86 5.08 5.92 5.25 5.13 5.25 
+
+8
+.64p 8.66p 6.98 8.00p 9.06 8.31
+
 17
 24
 31
@@ -2448,7 +2462,8 @@ APPENDIX TABLE 1-A
 MONEY AND CREDIT AGGREGATE MEASURES
 MAR. 12, 1976
 
-SBANK CREDIT MONEY STOCKRESERVES MEASURES MEASURES
+SBANK CREDIT MONEY STOCK
+RESERVES MEASURES MEASURES
 
 Available Total
 Period Nto Adi Loans

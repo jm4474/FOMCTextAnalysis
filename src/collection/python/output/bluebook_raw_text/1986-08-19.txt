@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -988,7 +991,10 @@ Daily-Aug. 8
 
 6.36
 6.29
-6. 3 6p
+6.
+
+3 6
+p
 
 8.65
 6.77
@@ -1305,7 +1311,8 @@ Seasonally adjusted
 
 AUG. 18, 1986
 
-Money stock measures and liquid assets Bank credit Domestic nonfinancial debt 2
+Money stock measures and liquid assets Bank credit Domestic nonfinancial debt
+2
 
 nontransactions total loans U.S.
 Period M1 M2 components M3 L and government2 other total!2

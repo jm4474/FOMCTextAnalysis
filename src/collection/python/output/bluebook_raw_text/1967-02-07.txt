@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2272,7 +2275,8 @@ on monthly averages of daily figures)
 Private Time Deposits
 Week Ending Money Supply Currency 1/ Demand
 
-_Deposits 2/ adjusted
+_Deposits 2/ 
+adjusted
 
 1966--July
 

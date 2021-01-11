@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -569,7 +572,9 @@ Alt. C
 
 Growth Rates for
 
-M 2
+M
+2
+
 Alt. A Alt. B
 
 626.4 626.4
@@ -608,7 +613,9 @@ Growth Rates
 
 Key Monetary Aggregates
 
-M3
+M
+3
+
 Alt. C Alt. A Alt. B
 
 626.4
@@ -1076,7 +1083,8 @@ CHART 2
 
 280
 
-1974 A M
+1974
+A M
 
 Illllllllllllllj l 1111
 
@@ -1155,12 +1163,13 @@ ABLE CLASS II-FOMC
 BANK RESERVES MAY 16, 1975
 (ACTUAL AND CURRENT PROJECTIONS)
 
-RESERVES AV E AGGREGATE RESERVES I REQUIRED RESERVESRESERVES AVAILABLE
+RESERVES AV E AGGREGATE RESERVES I REQUIRED RESERVES
+RESERVES AVAILABLE
+
 Perid FSEASONALLY ADJUSTED
-
 FOR PRIVATE
-Period
 
+Period
 NONBANK DEPOSITS Total Nonborrowed Total Private Other Time CD's and Gov't. and
 
 SA NSA Reserves Reserves Required Demand Deposits Nondeposits Interbank
@@ -1475,8 +1484,8 @@ RANGE OF 1.50 TO 4.25 PERCENT FOR THE APRIL-MAY PERIOD.
 
 Table 2 CONFIDENTIAL (F.R.)
 
-MONETARY AGGREGATES CLASS 
-II-FOMC
+MONETARY AGGREGATES 
+CLASS II-FOMC
 
 MAY 16, 1975
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
@@ -1579,7 +1588,10 @@ Apr. 2 -282 373 208 -2,371 -2,072 - 493 - 104 868 163 108
 
 16 416 - -- 3,750 4,166 620 - 11 23 111 521
 23 317 539 -- - 324 532 2,383 144 -2,481 -199 245
-30 1,231 530 -- 4,189 5,950 4,097 76 -3,910p 4 3p 220p
+30 1,231 530 -- 4,189 5,950 4,097 76 -3,910p 
+
+4 3
+p 220p
 
 May 7 274 -- -27 -2,827 -2,580 966 -208 -951p 26p -219p
 14 425 50 -- -698 -223 -905 -15 Illp 21p -830p
@@ -1611,7 +1623,8 @@ NET CHANGES IN SYSTEM HOLDINGS OF SECURITIES 1/
 
 7,232 207 579 500 129 1,415 120 400 244 101 864 9,273 - 46
 
-1,280 320 797 434 196 1,747 439 1,665 659 318 3,082 6,303 - 154
+1,280 320 797 434 196 1,747 439 1,665 659 318 3,082 6,303 
+- 154
 
 1974--Qtr.
 Qtr.
@@ -1818,7 +1831,10 @@ Feb. 3,329 2,121 144 166 198 147 11 -6,318 - 9,533
 Mar. 3,143 2,521 307 195 195 96 7 -5,732 -10,302
 
 Apr. *2,737 *1,617 35 115 167p 11Op 7p -4,11
-9 p - 9,71 4p
+9 p - 9,71
+
+4
+p
 
 1975--Mar. 5 3,146 2,249 266 117 409 70 9 -6,006 - 9,828
 12 3,215 2,159 290 168 230 60 7 -7,387 -11,297
@@ -1831,10 +1847,15 @@ Apr. 2 3,287 2,501 47 154 279 51 7 -4,643 - 9,617
 23 *2,296 *1,286 55 122 70 165 6 -3,590 -10,893
 
 30 *2,291 * 601 0 109 208p 
-241p 6p -1,918p - 7,976p
+24
+1p 6p -1,918p - 7,976p
 
 May 7 *4,129 * 532 80 130 38 5p 33p 10p -2,815p - 9,550p
-14 *4,470 *2,144 6 2p 168p -23p 18p 8p 4 ,965p - 9,753p
+14 *4,470 *2,144 
+
+6
+2p 168p -23p 18p 8p 4 ,965p - 9,753p
+
 21
 28
 
@@ -2289,7 +2310,10 @@ Daily--May 8
 0.2
 
 8.09
-8.06p
+8.
+
+0
+6p
 
 8.09
 n.a.
@@ -2330,17 +2354,19 @@ n.a.
 
 9.29
 
-NOTE: Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are one-day Wednesday quotes. For columns 7, 8, and 
-10
+NOTE: Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are one-day Wednesday quotes. For 
+columns 7, 8, and 10
 
-the weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for Thursday following 
-the end of
+the weekly date is the mid-point of the calendar week over which data are averaged. Column 9 is a one-day quote for 
+Thursday following the end of
 
-the statement week. Column 11 gives FNMA auction data for the Monday preceeding the end of the statetment week. The FNMA auction yield is 
-the
+the statement week. Column 11 gives FNMA auction data for the Monday preceeding the end of the statetment week. The FNMA 
+auction yield is the
 
 average yield in bi-weekly auction for short-term forward commitments for Government underwritten mortgages.
-* The Treasury has revised its procedure for computing the constant maturity yields. Data have been revised back through December 1974 and result
+* The Treasury has revised its procedure for computing the constant maturity yields. Data have been revised back through December 
+
+1974 and result
 
 in an average increase of about 8 basis points in the level of the 10-year yield.
 p- preliminary.
@@ -2349,7 +2375,8 @@ p- preliminary.
 
 APPENDIX TABLE 1-A
 
-MONEY AND CREDIT AGGREGATE MEASURES MAY 16, 1975
+MONEY AND CREDIT AGGREGATE MEASURES
+MAY 16, 1975
 
 ' BANK CREDIT MONEY STOCK
 RESERVES _ MEASURES MEASURES
@@ -3694,13 +3721,13 @@ APPENDIX TABLE 2-B MAY 16, 1975
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
-Time Mutual ShortTime Time Savings Credit Non- U.S.
+Time Mutual Short
+Time Time Savings Credit Non- U.S.
+
 Period Currency D Total O nk Union CD's Savings Term Commercia l  pot Gov'
+Deposits Total Bank union CD's Bonds U.S.Gov't Pae 
 
-Deposits Total Bank union CD's Bonds U.S.Gov't Pae yit 
-Gov't
-
-DositsDeposits a and S &L Shares US Got Paper Funds DeandCD's Securities
+yit Gov'tDositsDeposits a and S &L Shares US Got Paper Funds DeandCD's Securities
 Shares i
 
 1 2 3 4 5 6 7 8 9 10 11 12
@@ -3896,7 +3923,9 @@ Growth Rates in Money Supply for Alternatives
 7.3
 5.8
 
-M2
+M
+2
+
 M Q
 
 10.4
@@ -3908,7 +3937,9 @@ M Q
 9.4
 8.7
 
-M3
+M
+3
+
 M Q
 
 10.1

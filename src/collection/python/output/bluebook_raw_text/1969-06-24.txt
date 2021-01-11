@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -299,10 +302,14 @@ Bill
 6.50
 6.65
 
-Bond Yields Flo or Reeres sakCrdtan onv5..... Make Indicators Bn Yields - ..
-U.S.
+Bond Yields Flo or Reeres sakCrdtan 
+onv5
 
+..... Make Indicators Bn Yields - ..
+
+U.S.
 Government
+
 (20 yr.)
 
 I I I
@@ -474,9 +481,9 @@ Proxy
 - 6.9
 
 1/ Average of total number of days in period. P
-2/ Includes issues carrying 5-year and 10-year call protection, * - issues carry 
+2/ Includes issues carrying 5-year and 10-year call protection, * - issues 
 
-a 10-year call protection.
+carry a 10-year call protection.
 
 3/ Time deposits adjusted at all commercial banks.
 4/ Base is change for month preceding specified period or in case of weekly periods, the first week shown.
@@ -1761,7 +1768,10 @@ Seasonally Adjusted
 Reserve Aggregates Member Bank Deposits ICommercial Credit
 _Supported by Required Reserves Money Supply bank time Proxy
 
-Peri o d  Total Nonborrowed RequTotal Time Private U.S. Gov't. Private deposits (Incl. Eurc
+Peri
+o d  
+
+Total Nonborrowed RequTotal Time Private U.S. Gov't. Private deposits (Incl. Eurc
 reserves reserve reer member bank d si demand demand Total Currency demand adjusted dollar
 
 Sreserves reserves reserves deposideposits 3 f borrowingsts

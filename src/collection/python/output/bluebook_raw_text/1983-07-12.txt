@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1741,9 +1744,18 @@ Short-Trm Long-Term
 Treasury bills COs money U.S. government contant corporate muni- home mortgagO
 
 federal econday market secondary comm. marke bank maturiy yield A ulty ipl on
-funds market pp mutual r recnty Bond c ons PHAl A ONMA
+funds market pp mutual r recnty Bond 
 
-3-month -month -yer 3-month 1- h fund 3.yea 1-yr 30-year olfferd Buy er S c l l in g  ourity
+c
+ons PHAl A ONMA
+
+3-month -month -yer 3-month 1- h fund 3.yea 1-yr 30-year olfferd Buy er S 
+c l l
+
+in
+g  
+
+ourity
 
 1 2- 3 4 I 8 T 8 - c aIn i 12 13 14 1g 18
 
@@ -2194,7 +2206,13 @@ n commitmnM or eawuJuianal o rn t maodglr ag wir 0 percent loan4oveaI rlloatnio 
 Net Changes in System Holdings of Securities 1
 Millions of dollars, not seasonally adjusted
 
-Treasury Treasury coupons not purchases3  Federal agencies net purchae 4  Net ching
+Treasury Treasury coupons not purchases
+3  
+
+Federal agencies net purchae
+4  
+
+Net ching
 Piod bills not oiln igh Net RP'
 
 -yan 1-6 5-10 over 10 total 1- 1-5 510 over 10 total hol d

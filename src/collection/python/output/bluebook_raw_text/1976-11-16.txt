@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1177,7 +1180,8 @@ Other reserve aggregates:
 
 Total reserves
 
-1/Monetary base1/
+1/
+Monetary base1/
 
 Nonborrowed monetary
 base
@@ -1581,8 +1585,10 @@ BILLIONS OF DOLLARS
 
 0 N
 
-. . .. . 1i 1 1 1 1 1 1 
-1 1 [I i I jli/ i
+. . .. . 1i 1 1 1 1 
+1 1 1 1 [I i
+
+I jli/ i
 
 
 
@@ -1647,8 +1653,9 @@ CHART 3
 
 
 Table 1 CONFIDENTIAL (FR)
-CLASS II-FOMCMONETARY AGGREGATES NOV. 12, 1976
+CLASS II-FOMC
 
+MONETARY AGGREGATES NOV. 12, 1976
 ACTUAL AND CURRENT PROJECTIONS, SEASONALLY ADJUSTED
 
 Money Supply Adjusted Total Time and Savings Deposits _Nondeposit M ker
@@ -1997,7 +2004,8 @@ July -2,000 - - -- -- -- -- -- - - - -2,040 -2,334
 Aug. 1,100 42 301 72 65 480 - -- -- -- - 1,484 2,093
 Sept. 954 129 580 272 95 1,077 - -- - -- -- 1,954 633
 
-Oct. 418 - - - - - -- - 409 -1,742
+Oct. 418 - - - - - -- -
+409 -1,742
 
 1976--Sept. 1 -171 -- -- - -- - -- - - - -- -186 2,002
 8 -- -- -- -- -- -- -- -- -- -- -- -- -5,731
@@ -2439,7 +2447,10 @@ Daily--Nov. 4
 4.80 5.05 8.29 8.27
 
 4.85 5.03 -- 8.23
-na na 8.31p 8.27p
+na na 8.31p 8.
+
+27
+p
 
 NOTE: Weekly data for columns 1 to 4 are statement week averages of daily data. Columns 5 and 6 are 1-day Wednesday quotes (prior to 1976, figures shown
 are for 60-89 day and 90-119 day ranges, respectively). For columns 7 and 10, the weekly date is the mid-point of the calendar week over which data are

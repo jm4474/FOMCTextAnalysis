@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -362,22 +365,22 @@ Annual rates of increase 4/
 
 r - Revised, p - reliminary S.A. - Seasonally adjusted.
 1/ Average of total number of days in period 10-year ll protection.
-2/ Includes ,,r , 5-year and 10-year call protection, * -
+2/ Includes ,,r , 5-year and 10-year call protection, 
 
-issue carry a l0-year cal protection.
+* - issue carry a l0-year cal protection.
 
 3/ Time deposits adjusted at all commercial banks
-Base is change for month preceding specific period or In case of weekly 
+Base is change for month preceding specific period or In case 
 
-periods, the first week shown.
+of weekly periods, the first week shown.
 
 * flect </Ol' ill1 i i l neber Iu ai depo.
 1
 
 r resun rectng n witlIdrawai I. a large cuuntrv bank
 
-tr,, 'v, te- lembership Percentage annual rlt. are al usted tn eliminate this break 
-in beries.
+tr,, 'v, te- lembership Percentage annual rlt. are al usted tn eliminate 
+this break in beries.
 
 Iam,. 1), lt70.
 
@@ -1390,7 +1393,8 @@ Reser ves Reserves
 Monetary Variables
 To al M o n e y S u p p 1 y C mmercial Credit Proxy
 
-Nembet Bank Private Demand bank time (Incl. Euro-
+Nembet Bank Private Demand bank time (Incl. 
+Euro-
 
 DeposTotal Currency Deposits deposits dollar
 
@@ -1635,19 +1639,36 @@ Ht bivi Aggregites 1/ Member BHnk Jepos i s Mone S Commercial Credit
 SStipported by Rtuired Reserve, Money Supp bank time Proxy
 
 P ri d T otI Noiirow Ruird T PI lvate U .S. (Gov't Private deposits ](Incl. Euro
-iusrves rs rseer , 't esudthl I binkl d demand d mtand lotal Currency demand adjusted dollar
+iusrves rs rseer , '
+
+t
+esudthl I binkl d demand d mtand lotal Currency demand adjusted dollar
 
 I r(er0r it L d eposits /I depoIs 2/ deposits 3 4/ borrowings
 (In millions of dollit ) ( n b I 1 ll o n s o I d o 1 1 a s )Monthly.
 
 1968--Jantarv 26,134 25,818 25,774 275.1 i 149.9 119.7 5.4 182.6 40.6 142.0 184.1 279.4
-February 26,352 25,961 25,989 277.4 150.2 120.1 7.1 ld1.3 40.7 142.6 185.8 281.9March 26,451 25,755 26,078 278.5 151.2 120.6 b.7 184.2 41., 143.2 187.2 283.2April 26,298 25,606 25,964 277.3 151.3 120.8 5.2 185.1 41.3 143.8 187.7 282.1May 26,353 25,626 25,952 277.8 151.5 122.7 3.7 I 186.8 41.6 145.3 188.2 283.5June 26,547 25.889 26.196 279.5 151.8 123.8 3,9 188.2 '11.9 146.3 188.6 285.8July 26 715 26,186 26,402 281.7 I1 1.8 125.2 2.7 189.6 4'2.1 147.5 191.1 288.3August 27,213 26,675 26,893 286.9 156., 125.6 4.8 191.0 42.4 148.6 193,8 293.7September 27,311 26,860 26,951 289.0 158.9 124.8 5.3 191.4 42.7 148.8 196.4 296.3ctober 27,504 27,066 27,185 292.2 161.5 125.7 5.0 191.8 42.8 149.1 199.4 299.3November 27,685 27,095 27,376 295.0 163.5 126.8 4.7 193.6 43.2 150.5 202.1 302.2December 27,964 27,215 27,609 298.2 165.8 128.2 4.2 194.8 43.4 151.4 204.9 305.1
+February 26,352 25,961 25,989 277.4 150.2 120.1 7.1 ld1.3 40.7 142.6 185.8 281.9March 26,451 25,755 26,078 278.5 151.2 120.6 b.7 184.2 41., 143.2 187.2 283.2
+April 26,298 25,606 25,964 277.3 151.3 120.8 5.2 185.1 41.3 143.8 187.7 282.1May 26,353 25,626 25,952 277.8 151.5 122.7 3.7 I 186.8 41.6 145.3 188.2 283.5June 26,547 25.889 26.196 279.5 151.8 123.8 3,9 188.2 '11.9 146.3 188.6 285.8July 26 715 26,186 26,402 281.7 I1 1.8 125.2 2.7 189.6 4'2.1 147.5 191.1 288.3August 27,213 26,675 26,893 286.9 156., 125.6 4.8 191.0 42.4 148.6 193,8 293.7September 27,311 26,860 26,951 289.0 158.9 124.8 5.3 191.4 42.7 148.8 196.4 296.3ctober 27,504 27,066 27,185 292.2 161.5 125.7 5.0 191.8 42.8 149.1 199.4 299.3November 27,685 27,095 27,376 295.0 163.5 126.8 4.7 193.6 43.2 150.5 202.1 302.2December 27,964 27,215 27,609 298.2 165.8 128.2 4.2 194.8 43.4 151.4 204.9 305.1
 
-19 6 9--January 28,139 27,318 27,902 1 297.0 163.2 128.4 5.4 195.8 4J.5 152.3 203.2 304.8February 28,060 27,206 27,832 296.7 161.0 129.1 6.7 196.3 43.8 152.5 202.4 305.3March 27,972 27,024 27,729 294.2 160.5 128.9 4.8 196.8 44.1 152.7 202.3 303.6Apriv 27,775 26,754 27,614 295.4 160.1 129.4 5.9 198.1 44.2 154.0 202,3 305.0May 28,235 26,888 27,942 295.1 159.3 130.0 5.9 198.3 44.5 153.8 201.7 305.0June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 304.7July 27,530 26 275 27,334 289.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 301.8Aug Is 27,401 26,2)4 27,161 285. 152.5 129.9 2.9 199.0 45.3 153.8 194.5 299.4Stitmher 27,402 26,j) 27,1L4 28).7 152.1 129.2 4.4 19.0 4. 157 194.10 tt her "7, 354 "6.210 27,129 283.5 151.5 128.9 3.1 199.1 45.6 15?.6 193.
+1
+9 6
+
+9--January 28,139 27,318 27,902 1 297.0 163.2 128.4 5.4 195.8 4J.5 152.3 203.2 304.8February 28,060 27,206 27,832 296.7 161.0 129.1 6.7 196.3 43.8 152.5 202.4 305.3March 27,972 27,024 27,729 294.2 160.5 128.9 4.8 196.8 44.1 152.7 202.3 303.6
+Apriv 27,775 26,754 27,614 295.4 160.1 129.4 5.9 198.1 44.2 154.0 202,3 305.0May 28,235 26,888 27,942 295.1 159.3 130.0 5.9 198.3 44.5 153.8 201.7 305.0June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 304.7July 27,530 26 275 27,334 289.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 301.8
+Aug Is 27,401 26,2)4 27,161 285. 152.5 129.9 2.9 199.0 45.3 153.8 194.5 299.4Stitmher 27,402 26,j) 27,1L4 28).7 152.1 129.2 4.4 19.0 4. 157 194.1
+0 t
+
+t
+her "7, 354 "6.210 27,129 283.5 151.5 128.9 3.1 199.1 45.6 15?.6 193.
+
 November 27,733 26,538 21,548 28 . 151,1 129.1 6 1,9.3 4,.9 1 3. .9^.4 300.0
 December p 27,905 26,784 27,707 285.7 151.5 129.3 4.9 199. 46.0 153.6 194.2 299.8
 
-Si ; i-- _ -. _ - _ _j -i _ - i^ _ -. 1 1- .- -_. i_ - - - _ -^ i . ^ - * _ .-- . . - - . _ - -i * . 1 .I^
+Si ; i-- _ -. _ - _ _j -i _ - i^ _ -. 1 1- .- -_. i_ - - - _ -^ i . ^ - * _ .-- . . - - . _ 
+-
+
+-i * . 1 .I^
 rrivdae demalnd udepo li IU lu tl diemdnu deposits. i of dioVluudLS, parLneirsinps, inu corporaicona ana net interoanK deposits.
 
 cash items in
@@ -1674,7 +1695,9 @@ Semember hank T t demand d mind Total Currency demand adjusted dollar
 reset es rtserves ieserveh deposits I 
 e  
 
-deposits 1/i deposts 2/ deposits 3 4/ borrowingsI__________ I
+deposits 1/i deposts 2/ deposits 3 4/ borrowings
+I__________ I
+
 Weekly .  (In millions of dollars) I n b i I i o n a o f d o 1 a r s
 
 S Apr 2 27,879 26,689 27,570 293.6 160.7 130.0 3.0 197.6 44.2 153.4 202.6 303.0
@@ -1686,11 +1709,17 @@ S Apr 2 27,879 26,689 27,570 293.6 160.7 130.0 3.0 197.6 44.2 153.4 202.6 303.0
 May 7 28,501 27,048 27.993 294.7 159.6 128.7 6.4 197.2 44.3 152.9 202.0 304.5
 14 28 162 26,980 27.888 296.5 159.4 129.8 7.3 197.8 44.4 153.4 201.8 306.221 28,020 26,629 27,844 295.2 159.3 131.0 5.0 199.5 44.4 155.1 201.7 305.028 28.219 26,920 28,091 294.9 159.1 110.6 ,.3 199.1 44.6 154.6 201.7 305.1
 
-Ihne 4 28,320 26.829 27,826 293.7 158.8 130.6 4.) 198.8 44.7 154.0 201.6 303.611 28,308 27,028 27.800 293.9 158.7 130.6 4.6 198.8 44.7 154.0 201.5 304.918 27 833 26,543 27,698 293.1 158.2 130.6 4.3 198.2 44.8 153.5 200.9 305.625 27 761 26,588 27,701 291.3 157.6 130.3 1.4 199.1 44.8 154.2 200.1 304.5
+Ihne 4 28,320 26.829 27,826 293.7 158.8 130.6 4.) 198.8 44.7 154.0 201.6 303.611 28,308 27,028 27.800 293.9 158.7 130.6 4.6 198.8 44.7 154.0 201.5 304.9
+18 27 833 26,543 27,698 293.1 158.2 130.6 4.3 198.2 44.8 153.5 200.9 305.625 27 761 26,588 27,701 291.3 157.6 130.3 1.4 199.1 44.8 154.2 200.1 304.5
 
-July 2 28,217 26,543 27,711 290.6 157.0 130.7 2.9 199.2 44.9 154.3 199.3 303.89 27,506 26,461 27,462 289.4 156.1 130.2 3.0 199.4 44.9 154.5 198.8 302.516 27,568 26,370 27,492 286.7 155.3 130.5 .9 199.3 45.0 154.3 197.9 300.723 27,703 26,274 27,307 288.0 154.6 130.5 3.0 199.1 45.0 154.2 197.2 302.230 27,151 25,927 26,980 287.1 154.1 130.0 3.0 199.1 45.0 154.1 196.7 301.3
+July 2 28,217 26,543 27,711 290.6 157.0 130.7 2.9 199.2 44.9 154.3 199.3 303.8
+9 27,506 26,461 27,462 289.4 156.1 130.2 3.0 199.4 44.9 154.5 198.8 302.5
+
+16 27,568 26,370 27,492 286.7 155.3 130.5 .9 199.3 45.0 154.3 197.9 300.7
+23 27,703 26,274 27,307 288.0 154.6 130.5 3.0 199.1 45.0 154.2 197.2 302.2
+30 27,151 25,927 26,980 287.1 154.1 130.0 3.0 199.1 45.0 154.1 196.7 301.3
+
 Aug 6 27,491 26,411 27,258 286.2 153.4 129.9 2.9 199.1 45.1 153.9 195.6 300.2
-
 13 27,538 26,309 27,216 285.9 152.9 129.9 3.1 199.1 45.2 154.0 194.9 299.870 27,151 25,91' 27,164 284.4 152.4 130.3 1.7 199.5 45.2 154.3 194.4 298.6
 27 27,433 26.259 27,135 285.1 152.1 129.9 3.1 198.9 45.3 153.6 193.9 299.4
 
@@ -1723,8 +1752,9 @@ Dec. 3 27,839 26,588 27,646 287.2 1 I 3 12l .4 6.1 199.' 45.9 153.4 193.8 301::
 
 1/ Private demand deposits includ demand deposits of individuals, partnerships, and corporations and net interbank deposits.
 2/ Includes currency outside the Treasury, the Fderal Reserve, and the vaults of all commercial banks.
-3/ Includes (1) demand deposits at all commerial banks, other than those due to domestic commercial banks and the U S Government, less cash items inprocess of collection and Federal Reserve I at, and (2) ioitin demand balances at Federal Reserve Banks.
+3/ Includes (1) demand deposits at all commerial banks, other than those due to domestic commercial banks and the U S Government, less cash items in
 
+process of collection and Federal Reserve I at, and (2) ioitin demand balances at Federal Reserve Banks.
 4/ Excludes interbank and U S Government time deposit,
 5/ Includes increases in required reserves due to changes in Regulations M and D at approximately $400 million since October 16, 1969.
 

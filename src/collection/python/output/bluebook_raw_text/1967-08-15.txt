@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -785,7 +788,10 @@ Re s e rve Ag gregates Monetary Var iables
 Required reserves Total Member Time Money Supply
 Total Member
 
-Total Against Deposits PrivateToa Nonborrowed T e (crBank Deposits 2/Reserves Total Demand Bak Deposits (comm. Total Demand
+Total Against Deposits Private
+Toa Nonborrowed T e (crBank Deposits 2/
+
+Reserves Total Demand Bak Deposits (comm. Total Demand
 Reserves D i(credit) 1/2 .2/
 
 Reseres Re e Deposits - banks)- Deposits
@@ -1004,8 +1010,9 @@ Retrospective and Prospective
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Factors affecting supply of reserves = Change =Bank use of reserves
-Period Federal Reserve Gold Currency Technical in Required ExcessPeriod Gold Excesscredit (excl. outside factors total reserves
+Period Federal Reserve Gold Currency Technical in Required ExcessPeriod Gold Excess
 
+credit (excl. outside factors total reserves
 _float) 1/ banks net 2/ reserves 3/
 
 Year:
@@ -1145,10 +1152,12 @@ CHANGES IN REQUIRED RESERVE COMPONENTS
 Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-Total Supporting Supporting private depositsU. S. Gov't. Other than
-Period required US. Gov't. Seasonal changes seasonl han
+Total Supporting Supporting private deposits
+U. S. Gov't. Other than
 
+Period required US. Gov't. Seasonal changes seasonl han
 demand Total seasonal changes
+
 reserves deposits Demand Time Demand Time
 
 ACTUAL (Data reflect revision of seasonal factors)
@@ -1426,8 +1435,11 @@ Seasonally Adjusted
 
 (SERIES REVISED)
 
-STotal Nonborrowed Required reservesPeriod serves Total Aainst private deposits
-reserves reserves TotalTotal DemandTotal Demand
+STotal Nonborrowed Required reserves
+Period serves Total Aainst private deposits
+
+reserves reserves TotalTotal Demand
+Total Demand
 
 1965--Jul.
 Aug.

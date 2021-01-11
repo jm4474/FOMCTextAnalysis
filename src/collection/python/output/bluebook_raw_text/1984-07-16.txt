@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -626,7 +629,9 @@ a SHORT RUN ALTERNATIVES
 I I
 I I I 1 I I I 1 I I
 
-0 N . i .J .F M A M J J A 5 0 N D
+0 N . i .J .
+F M A M J J A 5 0 N D
+
 1984
 
 8%
@@ -2016,9 +2021,10 @@ agency short-term
 -1,038* -5,451* 15,961* 14.868*
 -669* -3,023* 16,887* 15,236*
 
-_ -- . Forward e -- nd Futures Positions.. . .reasury coupons [
-Treasury under over federal private
+_ -- . Forward e -- nd Futures Positions.. . .
+reasury coupons [
 
+Treasury under over federal private
 bills 1 year 1 year agency short-term
 
 17.005
@@ -2433,7 +2439,8 @@ within
 
 14.3 19.1
 
-Federal agencies net purchases4
+Federal agencies net purchases
+4
 
 within
 l1yeaI
@@ -2471,7 +2478,8 @@ sury coupon issues.
 6 includes changes in RPs (+), matched sale purchase transactions ( -). and matched purchase sale
 transactions (+),
 
-Net RPs 6
+Net RPs
+6
 
 -2.597
 2,462

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2167,13 +2170,18 @@ Millions of dollars, not seasonally adjusted
 September 30, 1985
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 Period bills net outright Net RPs'
 
 change
-2  w | 15 | 0 over 10 holdin1yr 1-5 5-10 over 10 total 1-5 510 over 10 total tol
+2  
+
+w | 15 | 0 over 10 holdin1yr 1-5 5-10 over 10 total 1-5 510 over 10 total tol
 
 1980 -3,052 912 2.138 703 811 4,564 217 298 29 24 668 2.035 2,462
 1981 5,337 294 1,702 393 379 2.768 133 360 - - 494 8,491 684

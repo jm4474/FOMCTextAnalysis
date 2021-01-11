@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1556,7 +1559,9 @@ _____Moiney stock measures and liquid assets Bank credit Domestic noninancial de
 nontransactions components
 total loans
 
-Period M1 M2 M3 L and U. S. other' total2
+Period M1 M2 M3 L and U. S. other' total
+2
+
 In M2 In M3 only investments' government'
 
 1 2 3 4 5 6 7 8 9 1
@@ -1969,7 +1974,10 @@ CLASS II-FOMC
 Treasury bills Treasurycoupons Federal Net change
 
 eNet urchases 3 agencies outright
-Period Net 2 Redemptions Net wi t hin e pwithi nRedemptions Net redemptions holdings g
+Period Net 2 Redemptions Net wi t hin e 
+
+p
+withi nRedemptions Net redemptions holdings g
 
 purchases (-) I change year 1-5 5-10 | over 10 (-) Change total 4 Net RPs
 
@@ -2096,7 +2104,9 @@ August 10
 155
 
 5
-150203.9~--
+150203.9
+
+~--
 
 ~--
 

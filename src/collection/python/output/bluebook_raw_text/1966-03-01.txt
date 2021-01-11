@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1435,8 +1438,9 @@ Retrospective Changes
 millions, based on weekly averages of daily figures)
 
 Total Federal U. S. Government securities Bankers' Member bank
-Bankers Member bankPeriod Reserve credit Total Outright Repurchase
+Bankers Member bank
 
+Period Reserve credit Total Outright Repurchase
 ciacceptances borrowings(excl. float) holdings Bills Other agreements
 
 Year:
@@ -1805,7 +1809,8 @@ Seasonally Adjusted
 Total member e U. S. Gov't. Private
 Period bank deposits edemand demand
 
-deposits(credit 1/) deposit deposits 2/
+deposits
+(credit 1/) deposit deposits 2/
 
 1964--January 202,981 93,563 5,011 104,407
 February 203,759 94,495 4,695 104,569

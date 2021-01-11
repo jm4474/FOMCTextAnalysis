@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -992,8 +995,9 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting _Supporting private deposits
-U. S. Gov't. Other thanPeriod required demand Total Seasonal changes seasonal changes
+U. S. Gov't. Other than
 
+Period required demand Total Seasonal changes seasonal changes
 reee demand Total seasonal changes
 erves deposits Demand Time Demand Time
 
@@ -1051,12 +1055,14 @@ Retrospective and Prospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Technical Foreign Other
-TePeriod faTreasury deposits nonmemberPeriod factors Float
+TePeriod faTreasury deposits nonmember
 
+Period factors Float
 (net) operations and gold deposits and
-loans F. R. accounts
 
+loans F. R. accounts
 ACTUAL (Sign indicates effect on reserves)
+
 Year:
 1964 (1/1/64 - 12/30/ 64) -185 -476 +132 - 37 +196
 1965 (12/30/64 - 12/29/65) +798 +294 -171 + 77 +598
@@ -1102,9 +1108,10 @@ SOURCES OF FEDERAL RESERVE CREDIT
 Retrospective Changes
 millions, based on weekly averages of daily figures)
 
-Total Federal U. S. Government securities Bank 'Bankers Member bank
-Period Reserve credit Total Outri ht Repurchase I anes borr n
+Total Federal U. S. Government securities Bank '
+Bankers Member bank
 
+Period Reserve credit Total Outri ht Repurchase I anes borr n
 (excl. float) holdings Bills . Other agreements a t s borrowings
 
 Year:

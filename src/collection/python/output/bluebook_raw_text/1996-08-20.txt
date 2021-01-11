@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -169,7 +172,10 @@ Last observation is spot rate at 12:00 p.m. Week beginning
 Federal Funds Futures Percent
 
 ---.
-July 5 .. ** "  .
+July 5 .. ** 
+
+"  
+.
 
 * .- *" July 3
 
@@ -184,7 +190,8 @@ Real Interest Rates*
 
 Monthly * ** .
 
-' *
+' 
+*
 
 Ten-Year .
 
@@ -917,8 +924,9 @@ Short-Term Long-Term
 COs money corporate conventional home mortgages
 
 federal Treasury bills secondary comm. market bank U.S. govemment constant A-utility municipal secondary primary
-funds secondary market market paper mutual prime maturity yields recently Bond market marketS3-month 6-month -year 3-month 1-month fund loan -year 10-year 30-year offered Buyer fixed-rate fixed-rate ARM
+funds secondary market market paper mutual prime maturity yields recently Bond market market
 
+S3-month 6-month -year 3-month 1-month fund loan -year 10-year 30-year offered Buyer fixed-rate fixed-rate ARM
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 95 -- High
@@ -1113,9 +1121,11 @@ rate mortgages (ARMs) at major institutional lenders offering both FRMs and ARMs
 
 Strictly Confidential (FR)-
 
-Money and Credit Aggregate Measures class FOMC
+Money and Credit Aggregate Measures class 
+FOMC
 
-Sesonally adjusted AUGUST 19, 1996
+Sesonally adjusted AUGUST 19, 
+1996
 
 Money stock measures and liquid assets Bank credit Domestic nonfinancial debt
 
@@ -1123,7 +1133,12 @@ nontransactions components to
 total loans
 
 Period M1 M2 M3 L and U. S. other= total'
-In M2 In M3 only investments' gove m ment2
+In M2 In M3 only investments' gove
+
+m
+ment
+
+2
 
 1 2 3 4 5 6 7 8 9 ~ 1
 Annual arowth rates(%) t
@@ -1199,7 +1214,10 @@ urrency mand checkable Sa s denomination denomination RP's Eurodollars Svin Trea
 d
 ep
 
-os deposits deposit time deposits. Retail' Institution- time deposits' b  securities pape acceptances'
+os deposits deposit time deposits. Retail' Institution- time deposits'
+b  
+
+securities pape acceptances'
 
 only
 
@@ -1526,7 +1544,8 @@ p preliminary
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

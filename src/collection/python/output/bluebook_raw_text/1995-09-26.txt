@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1903,13 +1906,19 @@ Strictly Confidential (FR)-
 Class II FOMC
 
 Money and Credit Aggregate Measures
-Seasonlyaduted SEPTEtMER25,1995Seasonallyadjusted
+Seasonlyaduted SEPTEtMER25,1995
+
+Seasonallyadjusted
 
 Money stock measures and liquid as: ets Bank credit Domestic nonfinancial debt'
 
-nontransactions components toal loanstotal loans
-Period M1 M2 M3 L and U. S. other2  total'
+nontransactions components toal loans
+total loans
 
+Period M1 M2 M3 L and U. S. other
+2  
+
+total'
 In M2 In M3 only investments' government 2
 
 1 2 3 4 5 6 7 8 9 10
@@ -1982,7 +1991,10 @@ Money market
 Overnight Small mutual funds Large
 
 Other RPs and denomi- general denomi- Term Term Short-term Bankers
-Period ur rency Demand checkable Euro- avings nation e Insttutons naton Rs Euro- Savings rer Commerci an
+Period 
+
+ur r
+ency Demand checkable Euro- avings nation e Insttutons naton Rs Euro- Savings rer Commerci an
 
 deposits deposits dollars deposits time and only time NSA seurities acceptan-
 NSA' deposits brokert deposits NSA'
@@ -2355,8 +2367,9 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
-Net purchases 3 agencies outrightPeriod Net 2 Redemptions Net t puRedemptions Net redemptions holdings 5
+Net purchases 3 agencies outright
 
+Period Net 2 Redemptions Net t puRedemptions Net redemptions holdings 5
 purchases (-) change 1 year 1-5 5-10 over 10 (-) Change total 4 Net RPs
 
 1992

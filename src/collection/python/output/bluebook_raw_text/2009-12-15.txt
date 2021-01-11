@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1496,18 +1499,23 @@ Selected assets:
 Liquidity programs for financial firms -72 122 1,247 11/06/08 
 
 Primary, secondary, and seasonal credit -3 19 114 10/28/08 
+
 Term auction credit (TAF) -53 86 493 03/11/09 
+
 Foreign central bank liquidity swaps -15 17 586 12/04/08 
+
 Primary Dealer Credit Facility (PDCF) 0 0 156 09/29/08 
 Asset-Backed Commercial Paper Money Market 
 
 Mutual Fund Liquidity Facility (AMLF) 0 0 152 10/01/08 
-Lending through other credit facilities +0 58 351 01/23/09 
 
+Lending through other credit facilities +0 58 351 01/23/09 
 Net portfolio holdings of Commercial Paper 
+
 Funding Facility LLC (CPFF) -1 14 351 01/23/09 
 
 Term Asset-Backed Securities Loan Facility (TALF) 1 44 45 11/26/09 
+
 Support for specific institutions 1 111 118 04/02/09 
 
 Credit extended to AIG, net -23 21 91 10/27/08 
@@ -1517,20 +1525,28 @@ Holdings LLC 25 25 25 12/09/09
 Net portfolio holdings of Maiden Lane LLC, Maiden
 
 Lane II LLC, and Maiden Lane III LLC -1 65 75 12/30/08 
+
 Securities held outright* 89 1,787 1,787 11/24/09 
 
 U.S. Treasury securities +0 777 791 08/14/07 
+
 Agency securities 9 156 156 12/09/09 
+
 Agency mortgage-backed securities** 80 854 856 11/24/09 
 
 Memo: Term Securities Lending Facility (TSLF) 0 0 236 10/01/08 
+
 Total liabilities 23 2,137 2,213 12/04/08 
 
 Selected liabilities: 
 Federal Reserve notes in circulation 7 883 883 12/09/09 
+
 Reserve balances of depository institutions 41 1,107 1,169 11/27/09 
+
 U.S. Treasury, general account -25 55 137 10/23/08 
+
 U.S. Treasury, supplementary financing account 0 15 559 10/22/08 
+
 Other deposits 1 2 53 04/14/09 
 
 Total capital -2 52 55 12/01/09 
@@ -1941,7 +1957,8 @@ Feb Nov Aug May Feb Nov Aug May Feb Nov Aug May
 
 2007 2008 2009
 
-eNov.
+e
+Nov.
 
 Bank credit
 Jan. 2008 = 100
@@ -3153,9 +3170,11 @@ Amount
 $1.25 trillion 
 
 “a total of”  
-$1.5 trillion $1.25 trillion 
+$1.5 trillion 
 
+$1.25 trillion 
 “cap” at 
+
 $1.1 trillion 
 
 Pace pace will “gradually slow”  “is gradually slowing”  
@@ -3220,7 +3239,11 @@ will continue to be evaluated
 
 Liquidity Facilities 
 
- adjustments as warranted adjustments as warranted expire on February 1 
+ adjustments as warranted 
+adjustments as 
+
+warranted 
+expire on February 1 
 
 December 10, 2009 Class I FOMC - Restricted Controlled (FR) 36 of 72
 
@@ -3331,6 +3354,7 @@ December 10, 2009 Class I FOMC - Restricted Controlled (FR) 38 of 72
  
 
  
+
 December FOMC Statement—Alternative B 
 
 1. Information received since the Federal Open Market Committee met in November suggests 
@@ -4003,6 +4027,7 @@ December 10, 2009 Class I FOMC - Restricted Controlled (FR) 50 of 72
  
 
  
+
 Balance Sheet Projections Summary 
 
  Alternative A Alternative B Alternative C
@@ -4133,16 +4158,20 @@ Baseline Scenario 
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 Other loans and facilities SDR and other assets
 
 0
@@ -4161,16 +4190,20 @@ Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 December 10, 2009 Class I FOMC - Restricted Controlled (FR) 53 of 72
@@ -4203,16 +4236,20 @@ Alternative A  
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 Other loans and facilities SDR and other assets
 
 0
@@ -4231,16 +4268,20 @@ Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 December 10, 2009 Class I FOMC - Restricted Controlled (FR) 54 of 72
@@ -4275,16 +4316,20 @@ Source.  Federal Reserve H.4.1 statistical release and staff calculatio
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Assets
 
 Treasury securities Agency debt Agency MBS
+
 Repurchase agreements TAF Central bank swaps
+
 Other loans and facilities SDR and other assets
 
 0
@@ -4303,16 +4348,20 @@ Other loans and facilities SDR and other assets
 
 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
 
-$ 
-B
-ill
-io
-ns
+$
+ B
+il
+li
+o
+n
+s
 
 Federal Reserve Liabilities and Capital
 
 Federal Reserve notes Reverse repurchase agreements
+
 Deposits, other than reserve balances Reserve balances
+
 Other liabilities Capital
 
 December 10, 2009 Class I FOMC - Restricted Controlled (FR) 55 of 72
@@ -4330,6 +4379,7 @@ December 10, 2009 Class I FOMC - Restricted Controlled (FR) 55 of 72
   
 
 Memo:
+
 October 
 Baseline
 
@@ -4842,11 +4892,15 @@ real funds rate 
 
 average)
 
-Lagged core inflation ‐1.4 ‐1.9  ‐0.6
+Lagged core inflation 
+‐1.4 ‐1.9  ‐0.6
 
-Lagged headline inflation ‐1.2 ‐2.1  ‐0.8
+Lagged headline inflation 
+‐1.2 ‐2.1  ‐0.8
 
-Projected headline inflation ‐1.2 ‐2  ‐0.7
+Projected headline inflation 
+‐1.2 ‐2  ‐0.7
+
  
 
   
@@ -4958,11 +5012,11 @@ achieve the higher target federal funds rate.
 ASSETS 
 
 Asset Purchases 
+
  The baseline scenario incorporates large-scale asset purchases (LSAP) roughly in line with 
-
 those that have been announced. 
-o The Committee purchases $175 billion in agency debt securities and $1.25 trillion in 
 
+o The Committee purchases $175 billion in agency debt securities and $1.25 trillion in 
 agency MBS; both types of purchases are to be executed by the end of the first 
 quarter of 2010. 
  Agency debt securities and agency MBS are held to maturity and are not 
@@ -5021,11 +5075,11 @@ of the U.S. Treasury’s supplementary financing account to zero, but also the r
 Treasury securities purchases to maintain reserve balances at a level of $25 billion.   
 
 Liquidity Programs and Credit Facilities 
+
  Projections of the liquidity programs and credit facilities implicitly incorporate a judgment 
-
 about the potential interactions between their level and the level of reserve balances. 
- Primary credit declines gradually from its current level to $1 billion by the end of 2011 and 
 
+ Primary credit declines gradually from its current level to $1 billion by the end of 2011 and 
 remains at that level thereafter.  Secondary credit is assumed to be zero over the forecast 
 period. 
 
@@ -5093,8 +5147,8 @@ LLC does not purchase any ABS received by the Federal Reserve Bank of New York i
 connection with a decision of a borrower not to repay a TALF loan.  
 
 Other Assets 
- The Special Drawing Rights (SDR) certificate account increases by $2 billion, to $7 billion, 
 
+ The Special Drawing Rights (SDR) certificate account increases by $2 billion, to $7 billion, 
 by the third quarter of 2011, as a result of an assumed monetization of the recent allocation 
 of SDRs. 
 
@@ -5292,6 +5346,7 @@ October Alternative A Baseline Alternative C
 0
 
 10
+
 20
 
 30
@@ -5407,6 +5462,7 @@ Net portfolio holdings of Maiden Lane LLC,
 ...Maiden Lane II LLC, and Maiden Lane III LLC
 
 Federal Reserve Balance Sheet: End‐of‐Year Projections ‐‐ Baseline Scenario
+
 Appendix C:  Table
 
 December 10, 2009 Class I FOMC - Restricted Controlled (FR) 72 of 72

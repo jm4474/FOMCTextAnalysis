@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -608,7 +611,9 @@ Rates of Growth
 
 596.0
 
-M3
+M
+3
+
 Alt, A Alt. B
 
 893.2
@@ -1001,7 +1006,8 @@ BILLIONS OF DOLLARS
 
 j I I I I I I j I
 
-73 %% growth for Jan.-Feb.
+7
+3 %% growth for Jan.-Feb.
 
 42/13/74) -133
 
@@ -1140,7 +1146,9 @@ II AGGREGATE RESERVES I REQUIRED RESERVES
 RESERVES AVAILABLE FOR ..--------------------------- "--------------------------
 PRIVATE NONBANK DEPOSITS I SEASONALLY ADJUSTEU
 
-).--------------------------------------------------------* --
+).--------------------------------------------------------* 
+--
+
 ----------------------------- 1 TOTAL NONBORROWED I PRIVATE OTHER CD'S AND GOV*T AND
 
 PERIOD SEAS ADJ I NON SEAS ADJ II RESERVES RESERVES I DEMAND TIME DEP NON DEP INTERBANK
@@ -1498,7 +1506,8 @@ RESERVE EFFECTS OF
 OPFN MARKET OPERATIONS AND OTHER RESERVE FACTORS
 (Millions of dollars, not seasonally adjusted)
 
-ny. e Marke t nrtHnna I Daiv Araverao e a rve ffert 2/ .A in reserve ca teoriesI . If L ____a_= _________ -1 1 46
+ny. e Marke t nrtHnna I Daiv Araverao e a rve ffert 2/ .A in reserve ca teories
+I . If L ____a_= _________ -1 1 46
 
 Monthly
 
@@ -1719,7 +1728,10 @@ p ___ . J 6r.l -1 V O I 2 - a,--- -d - 4
 720
 326
 -279p
--5 8 8 p
+-5
+
+8 8
+p
 
 30
 146
@@ -1809,7 +1821,8 @@ the month.
 _ - - -_ l-L C - _rr i i -~--tYI L_^ ~ - ~e~ --- ~L-
 Bills
 
-1 1C. A -ran* RP's
+1 1C. A -ran*
+RP's
 Ne- 3/
 
 
@@ -1866,10 +1879,20 @@ Dec. 3,441 973 105 276 307 1,298 41 -4,682 -9,793
 23 *3,238 *553 161 316 -83 1,182 13 -4,870 -11,987
 
 30 *3,087 *420 42 371 
-276 p 1,221p 17p -3,229 -10,651
+2
+7
+6
+p 1,221p 17p -3,229 -10,651
 
 Feb. 6 *2,759 *898 88 226 tOlp 998p 18p -4 ,115p -10,501p
-13 *2,781 *2,203 250p 150p 319p 1,15 3p 15p -5,621p -10, 46 1p
+13 *2,781 *2,203 250p 150p 319p 1,15
+
+3
+p 15p -5,621p -10,
+
+46
+1p
+
 20
 27
 
@@ -2359,7 +2382,9 @@ _ ~ _~ _.___
 7 .-. -1 ... L,,,,,
 Re ry.. Mcne ck W.w"res Bank Credit Keasurai Other
 
-oxv 1 Investments I--.. I - C i L I-L '
+oxv 1 Investments I
+--.. I - C i L I-L '
+
 I ...
 
 

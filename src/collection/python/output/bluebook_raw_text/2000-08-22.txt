@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -157,7 +160,9 @@ allowance for term premia and other adjustments.
 Selected Private Long-Term Yields
 Percent Percent
 
-D a ily High Yield Corporate BBB
+D a
+ily High Yield Corporate BBB
+
 / -__ (right scale) - 4
 
 Jun Aug Oct Dec Feb Apr Jun Aug
@@ -1529,7 +1534,8 @@ acquired in exchange for maturing bills Excludes maturity shifts and rollovers o
 
 367 10,179
 
-o A n c:617 I vI
+o A n c:
+617 I vI
 
 40,586
 

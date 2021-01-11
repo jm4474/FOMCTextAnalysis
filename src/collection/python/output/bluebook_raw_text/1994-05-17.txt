@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2351,7 +2354,9 @@ CLASS II-FOMC
 
 Treasury bills Treasurycoupons Federal Net change
 
-Net purchases 3 agencies outrightPeriod Net Redemptions Net within reRede Net RPsgs 5
+Net purchases 3 agencies outright
+Period Net Redemptions Net within reRede Net RPsgs 5
+
 purchases (-) change 1 15 510 over 10 () Change toal Net RPs
 
 1991

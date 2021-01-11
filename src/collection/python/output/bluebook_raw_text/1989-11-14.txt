@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -562,9 +565,11 @@ Actual Level
 j
 
 49
-//
+/
 
+/
 ,- 3%
+
 ,,
 
 3300
@@ -2085,7 +2090,9 @@ CLASS II-FOMC
 Treasury bills Treasury coupons Federal N
 3 Federal Net change
 
-Pro Net puchases agencies outrlghtPeriod Net 2 Redmp- Net w hin Redemp- Net redemptlons holdings
+Pro Net puchases agencies outrlght
+Period Net 2 Redmp- Net w hin Redemp- Net redemptlons holdings
+
 purchases tions (-) chane 1-ear 1-5 5-10 over 10 tions (-) change (-) total Net RPs
 
 1984

@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook, April 2010
 
 
@@ -487,21 +490,28 @@ typically issued at a spread over Libor that is sufficiently large to result in 
 exceeding the ten-year Treasury yield. 
 
 ‐20 
+
 0 
+
 20 
+
 40 
+
 60 
+
 80 
 
 100 
+
 120 
+
 140 
 
 93 95 97 99 01 03 05 07 09 
 
 Basis points 10y swap spread 
-fitted value 
 
+fitted value 
 3/31/10 values: 
 actual=‐1 bp 
 fitted=+18 bp 
@@ -567,17 +577,19 @@ Percentage
  
 
      
-   
 
+   
  
 
    
+
  
 
  
      
 
        
+
        
 
            
@@ -1152,7 +1164,9 @@ Apr.
  21
 
 Mar.
-FOMCDaily
+FOMC
+
+Daily
 
 Spreads on 30-day commercial paper
 
@@ -1463,36 +1477,53 @@ period.
 
  
  
- 
- 
- 
- 
 
-  
  
 
  
+
  
+
  
 
   
 
  
 
+ 
+
+ 
+
+ 
+
   
+
  
+
+  
+
  
+
  
+
  
+
+ 
+
  
 
    
 
   
+
  
+
  
+
  
+
  
+
  
 
  
@@ -1526,18 +1557,23 @@ Selected assets:
 Liquidity programs for financial firms -9 7 1,247 11/06/08 
 
 Primary, secondary, and seasonal credit -5 7 114 10/28/08 
+
 Term auction credit (TAF) -3 0 493 03/11/09 
+
 Foreign central bank liquidity swaps 0 0 586 12/04/08 
+
 Primary Dealer Credit Facility (PDCF) 0 0 156 09/29/08 
 Asset-Backed Commercial Paper Money Market 
 
 Mutual Fund Liquidity Facility (AMLF) 0 0 152 10/01/08 
-Lending through other credit facilities -1 55 351 01/23/09 
 
+Lending through other credit facilities -1 55 351 01/23/09 
 Net portfolio holdings of Commercial Paper 
+
 Funding Facility LLC (CPFF) +0 8 351 01/23/09 
 
 Term Asset-Backed Securities Loan Facility (TALF) -1 47 49 03/11/10 
+
 Support for specific institutions +0 115 118 04/02/09 
 
 Credit extended to AIG, net -0 25 91 10/27/08 
@@ -1547,20 +1583,28 @@ Holdings LLC +0 25 25 04/21/10
 Net portfolio holdings of Maiden Lane LLC, Maiden 
 
 Lane II LLC, and Maiden Lane III LLC +0 65 75 12/30/08 
+
 Securities held outright* 39 2,048 2,048 04/20/10 
 
 U.S. Treasury securities +0 777 791 08/14/07 
+
 Agency securities 1 169 169 03/11/10 
+
 Agency mortgage-backed securities** 38 1,102 1,102 04/20/10 
 
 Memo: Term Securities Lending Facility (TSLF) 0 0 236 10/01/08 
+
 Total liabilities 33 2,287 2,288 04/14/10 
 
 Selected liabilities: 
 Federal Reserve notes in circulation 2 895 896 04/07/10 
+
 Reserve balances of depository institutions -49 1,059 1,249 02/24/10 
+
 U.S. Treasury, general account -39 62 187 01/01/10 
+
 U.S. Treasury, supplementary financing account 125 200 559 10/22/08 
+
 Other deposits -4 +0 81 03/12/10 
 
 Total capital -0 54 55 04/20/10 
@@ -2363,8 +2407,11 @@ Total loans and leases 451 6,958
 Credit cards and related plans 322 662 
 
 Other consumer loans 41 536 
+
 Commercial and industrial loans 33 1,267 
+
 Residential real estate loans* 27 2,122 
+
 All other loans 28 2,371 
 
 Allowance for loan and lease losses 36 236 
@@ -3527,7 +3574,8 @@ CMBS and that it closed on March 31 for loans backed by all other types of colla
 
  
 
-  
+ 
+ 
 
   
   
@@ -3553,7 +3601,8 @@ CMBS and that it closed on March 31 for loans backed by all other types of colla
  
  
 
-  
+ 
+ 
 
 Table 1: Overview of Alternatives for the April 28 FOMC Statement 
 

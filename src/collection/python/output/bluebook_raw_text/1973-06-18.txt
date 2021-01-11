@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -450,7 +453,8 @@ combined)*
 
 M1 5-1/2 4-1/2 3
 
-M2  7 5 3-1/4
+M2  7 5 
+3-1/4
 
 Credit proxy 9-1/2 8-3/4 7-1/4
 
@@ -953,7 +957,10 @@ M A M
 M J S D M J S D
 1973
 
-* Break in Series Actual Level of RPD After ReprodLction in Reserve Requirements Effective November 9, 3972
+* Break in Series Actual Level o
+f
+
+RPD After ReprodLction in Reserve Requirements Effective November 9, 3972
 
 CHART 1
 
@@ -1603,7 +1610,8 @@ I
 .9 I10.25.7 16I
 4 7
 
-9.68.1 19*8 1S9.0)
+9.68.1 19*8 1
+S9.0)
 
 ( 9.5)
 
@@ -1933,7 +1941,8 @@ Millions of Dollars
 
 U. S. Govt. Security Other Security
 
-period Dealer Positions Dealer Positions Meber ank Reserves Positions
+period Dealer Positions Dealer Positions Meber ank Reserves 
+Positions
 
 Bills Coupon Issues Corporate Municipal Excess Borrowings at FIB Basic Reserve Jeficit
 Bills...... Bonds Bonds Reserves Total Seasonal 8 New York 38 Other
@@ -1973,18 +1982,30 @@ may 2 1,969 221 61 72 233 1,875 16 -1,831 -5,401
 9 1,788 809 0 162 -81 1,484 18 -3,275 -5,509
 
 16 1,709 562 44 126 363 1,814 23 -3,658 -5,829
-23 *1,586 * 104 6 143 140p 1,688 p 32p -2,767 -5,863
+23 *1,586 * 104 6 143 140p 1,
+
+688
+p 3
+
+2
+p -2,767 -5,863
+
 30 *2,375 * 269 154 100 180p 2,400p 47p -2,749 -6,437
 
 June 6 *2,608 * 462 25 54 350p 1,664p 
-64p -3,00
+6
+4p -3,00
 
-4 p -5,875p
+4
+p -5,875p
 
-13 *2,686 * 551 115p 100p - 17p 1,69
-7p 67p -4,274p -6,
+13 *2,686 * 551 115p 100p - 17p 1,
+697
 
-8 98p
+p 67p -4,274p -6,
+8 98
+
+p
 20
 27
 

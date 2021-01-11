@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -281,8 +284,9 @@ Reserves serves
 (I mi llonof dnlr5
 
 Bank
-Bank MoneyCredit MSSupply
+Bank Money
 
+Credit MSSupply
 Proxy
 
 (In billions of
@@ -985,12 +989,14 @@ Retrospective Changes, Seasonally Adjusted
 (In per cent, annual rates based on monthly averages of daily figures)
 
 Re s e rve Ag gregates I Moneta rv Variables
-Required reserves T l M Time Money SupplyTotal Member
+Required reserves T l M Time Money Supply
 
+Total Member
 Total Nb d Against B epit Deposits Private
-Reserves Total Demand (comm. Total Demand
 
+Reserves Total Demand (comm. Total Demand
 Reserves Deposits edit) / banks) __Deposits
+
 Annually:
 
 1965 + 5.3 + 4.3 + 5.3 + 2.3 + 9.1 +16.0 + 4.7 + 4.4
@@ -1607,7 +1613,9 @@ Seasonally Adjusted
 Required reserves
 Total Nonborrowed Reauired reserves
 
-Period reserves reserves Total Against private deporeserves reserves Total
+Period reserves reserves Total Against private depo
+reserves reserves Total
+
 Total Demal
 
 1965--January 21,960 21,625 21,563 20,702 15,730

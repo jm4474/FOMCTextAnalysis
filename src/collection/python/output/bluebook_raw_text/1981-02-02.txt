@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -154,7 +157,8 @@ Dec. Jan..1/ Dec. Jan.!/ Dec. -Jan...!
 
 M-1
 
-2/Target Path- -, 388.8 390.2 1.2 4.3 2.8
+2/
+Target Path- -, 388.8 390.2 1.2 4.3 2.8
 Adjusted Actual-- 384.8 386.9 -11.1 6.5 -2.3
 Actual 384.8 373.8 -11.1 -34.3 -22.6
 
@@ -213,7 +217,8 @@ reserves. Excess reserves remained higher than expected over the past
 Recent Growth in Reserve Aggregates
 (SAAR)
 
-1/November- December January
+1/
+November- December January
 
 2/
 Nonborrowed reserves -5.1 13.4 16.5-
@@ -399,7 +404,8 @@ ranges ranges for 1981 for 1981 growth
 
 for 1980 announced in July I II in 1980
 
-1/M-1A 3½ to 6 3 to 5½ 3 to 5½ 2½ to 5 5.0-
+1/
+M-1A 3½ to 6 3 to 5½ 3 to 5½ 2½ to 5 5.0-
 
 M-1B 4 to 6½ 3½ to 6 3½ to 6 3 to 5½ 7.3 1/
 
@@ -685,7 +691,9 @@ Including Assumed NOW Accounts Impact Billions of dollars
 463
 
 - Lcnger-Run Pange
-- 457*** Short-Run Alternatives
+- 457
+
+*** Short-Run Alternatives
 
 - - 451
 
@@ -699,7 +707,9 @@ SI i403
 J F M A M J
 
 1981
-A S 0 N ON 0CaP
+A S 0 N ON 0
+
+CaP
 
 
 
@@ -1637,7 +1647,8 @@ January 30
 
 39,648 /
 
-3/ 3/41,338- 39,8383
+3/ 3/
+41,338- 39,8383
 
 Targets for
 3-Week Averages
@@ -2327,7 +2338,10 @@ _- -year
 
 1979--QLr. IV
 
-19 80--QLr. I
+1
+9
+
+80--QLr. I
 II
 Ill
 IV
@@ -2390,7 +2404,9 @@ Nt I', lrchiaa!3_ ________Net Pr chase 3/t
 118 1,101
 
 292
-110 8 /
+110
+
+8 /
 
 137
 100
@@ -2729,7 +2745,9 @@ n.a.
 881
 262p
 502p
-8 0 9 p
+8 0 9
+
+p
 496p
 
 664p
@@ -2818,7 +2836,9 @@ n.a.
 112p
 105p
 123p
-13 7p
+1
+3 7
+p
 
 0
 0
@@ -2865,7 +2885,8 @@ I, 196
 I , 96t p
 l,51
 
-4 p
+4
+p
 
 1, 80 6 p
 1.95p

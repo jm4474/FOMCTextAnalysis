@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -790,7 +793,9 @@ Required reserves Total Member Time Money Supply
 Total Against Deposits Private
 Nonborrowed Bank Deposits D ^^ ^Reserves Total Demand (comm. Total Demand
 
-Reserves r e (credit) I/Reserves Deposits ( ) 1/ banks) __Deposits
+Reserves r e (credit) I/
+Reserves Deposits ( ) 1/ banks) __Deposits
+
 Annually:
 
 1967 + 9.9 +11.5 +10.2 + 7.0 +11.7 (+11.5) +16.1 + 6.4 + 6,7
@@ -850,7 +855,8 @@ NONBORROWED RESERVES
 
 REQUIRED RESERVES
 
-24 0 - -
+24 0 -
+-
 
 23 5
 
@@ -1027,7 +1033,9 @@ Retrospective and Prospective
 Factors affecting supply of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required ExcessPeriod Gold Excess
 
-credit (excl. s outside factors total reservesstock reserves
+credit (excl. s outside factors total reserves
+stock reserves
+
 float) 1/ banks net 2/ reserves 3/
 
 Year:
@@ -1066,7 +1074,8 @@ For retrospective details, see B-4.
 For factors included, see Table B-3.
 For required reserves by type of deposits, see Table B-2.
 See reverse side for explanation.
-Includes increase in reserve requirements of $360 million effective Jan. 11,Jan. 18, 1968.
+Includes increase in reserve requirements of $360 million effective Jan. 11,
+Jan. 18, 1968.
 
 p - Preliminary.
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2057,7 +2060,10 @@ change
 68.3
 
 Treasury coupons net purchases
-3 Federal agencies net purchases 4
+3
+
+Federal agencies net purchases
+4
 
 within 1-5 5-10 over 10 total w 1-5 510 over 10 total
 
@@ -2211,7 +2217,9 @@ total
 3 Outright transactions in market and with foreign accounts, and short-term notes acquired in ex- suy coupon issues.
 
 change for maturing bills. Exclude redemptions, maturity shifts, rollovers of maturing coupon 6 Includes changes in RPt (+), matched sale-purchase transactions (-), and matched purchase-sale
-issues, nd dirensc Treasury borrowing from the System. transactions 1+).4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity
+issues, nd dirensc Treasury borrowing from the System. transactions 1+).
+
+4 Outright transactions in market and with foreign accounts only. Excludes redemptions and maturity
 shifts
 
 

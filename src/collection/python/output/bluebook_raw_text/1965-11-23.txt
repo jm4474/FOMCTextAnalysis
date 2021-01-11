@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1189,8 +1192,8 @@ credit
 
 220
 
-210 _ BILLIONS OF 
-DOLLARS
+210 _ BILLIONS 
+OF DOLLARS
 
 205 - 115
 
@@ -1259,11 +1262,12 @@ Retrospective and Prospective
 Factors affecting supply of reserves = Change = Bank use of reserves
 
 Period Federal Reserve Gold Currency Technical in Required Excess
-credit (excl. k outside factors total reserves esstock reserves
+credit (excl. k outside factors total reserves es
 
+stock reserves
 float) 1/ banks net 2/ reserves 3/
-ACTUAL
 
+ACTUAL
 -ear:
 1963 (12/26/62 - 12/25/63) +3,125 -426 -1,950 - 76 +676 +763 - 87
 1964 (12/25/63 - 12/23/64) +3,219 -165 -1,847 -365 +840 +910 - 70
@@ -1452,8 +1456,9 @@ Retrospective Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Federal U. S. Government securities B ' M r
-Period Reserve credit Total Outri ht Repurchase a an e s Member ban
+Period Reserve credit Total Outri ht Repurchase a an
 
+e s Member ban
 (excl. float) holdings Bills Other agreements acceptances borrowings
 
 Year:

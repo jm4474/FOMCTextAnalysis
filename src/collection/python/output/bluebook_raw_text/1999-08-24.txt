@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -213,7 +216,8 @@ Contract Months Contract Months
 Yields on Treasury Inflation-Protected
 Securities (TIPS)
 
-Daily--.-- Ten-year TIPS
+Daily
+--.-- Ten-year TIPS
 - Thirty-year TIPS
 
 Percent
@@ -1224,7 +1228,8 @@ Billions of Dollars
 
 -- Actual Level
 
-S Projected Level 17600
+S Projected Level
+17600
 
 -- 1 17400
 
@@ -1865,9 +1870,9 @@ Treasury bills Treasurycoupons Federal Net change
 -- Net purchases 3 agencies outright
 
 Period Net Redemptions Net purchases Redemptions Net redemptions holdings
-purchases (-) change 1 ye 1-5 5-10 over 10 (-) Change 0 total 4 Net 
+purchases (-) change 1 ye 1-5 5-10 over 10 (-) Change 0 
 
-RPs
+total 4 Net RPs
 
 1996
 1997

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1920,9 +1923,12 @@ RETROSPECTIVE CHANGES, SEASONALLY ADJUSTED
 (Annual rates in percent)
 
 Reserve Aggregates Monetary Variables Addenda
-1  2 3 Total 4 Money Supply 8 9 10
+1  
 
-eod Total Nonborrowed Member Adjusted 5 T67 Private e Thrift NonbankPeriod7 Prvate Deposits Instit Commercial
+2 3 Total 4 Money Supply 8 9 10
+eod Total Nonborrowed Member Adjusted 5 T67 Private e Thrift Nonbank
+
+Period7 Prvate Deposits Instit Commercial
 Reserves Reserves Bank Credit Proxy Total Currency Demand Adjusted Deposits Paper
 
 Deposits Deposits
@@ -2806,10 +2812,11 @@ Euro-dollar borrowings are included beginning October 16, 1969, and requirements
 
 1970. Adjusted credit proxy includes mainly total member bank deposits subject to reserve requirements, bank-related commercial paper, and Euro-
 
-dollar borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly 
-data are daily averages except for nonbank
+dollar borrowings of U.S. banks. Weekly data are daily averages for statement weeks. 
+Monthly data are daily averages except for nonbank
 
-commercial paper figures which are for last day of month. FR 712-F
+commercial paper figures which are for last day of month. 
+FR 712-F
 
 
 

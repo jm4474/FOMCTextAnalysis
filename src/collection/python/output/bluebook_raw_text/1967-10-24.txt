@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1325,8 +1328,8 @@ Factors affecting sup ly of reserves = Change = Bank use of reserves
 Period Federal Reserve Gold Currency Technical in Required Excess
 credit (excl. o outside factors total reserves es
 
-float) 1/ s  
-k  banks net 2/ reserves 3/ reserves
+float) 1/ 
+s  k  banks net 2/ reserves 3/ reserves
 
 ACTUAL
 
@@ -1500,8 +1503,9 @@ Retrospective and Prospective Seasonal and Nonseasonal Changes
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
 Total Supporting _Supporting private deposits
-Perid re U. S. Gov't. Other thanPeriod required ,Seasonal changesSreqired demand Total Sea l c s seasonal changes
+Perid re U. S. Gov't. Other than
 
+Period required ,Seasonal changesSreqired demand Total Sea l c s seasonal changes
 reser deposits _ Demand Time Demand Time
 
 ACUTAL
@@ -1687,7 +1691,9 @@ v l f1 tr\
 U.S. government securities
 Total
 
-hliA Bills Other
+hliA
+Bills Other
+
 Repurchase
 a reement
 

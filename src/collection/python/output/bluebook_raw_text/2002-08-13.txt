@@ -46,6 +46,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -157,8 +160,8 @@ Selected Equity Indexes
 Chart 1
 Financial Market Indicators
 
-ndex(8/31/00 = 100) Implied Volatility of the 
-S&P 100 (VIX)
+ndex(8/31/00 = 100) Implied Volatility of 
+the S&P 100 (VIX)
 
 Index(8/31/00 =100)
 
@@ -555,7 +558,9 @@ Note. March 16, 1990 = 100 for n.s.a. series.
 
 Growth of M2
 
-Percent1 18
+Percent
+1 18
+
 s.a.a.r.
 
 Li~l~iL.ii
@@ -1682,11 +1687,11 @@ p - preliminary data MFMA
 
 Strictly Confidential (FR)-
 
-Money Aggregates Class 
-II FOMC
+Money Aggregates 
+Class II FOMC
 
-Seasonally adjusted August 
-12, 2002
+Seasonally adjusted 
+August 12, 2002
 
 nontransactions components
 
@@ -1768,7 +1773,13 @@ Treasury Bills Treasury Coupons Federal Net change Net RPs 5
 Agency total
 
 Net Redemptions Net Net Purchases 3  Redemptions Net Redemptions outright Short- Long- Net
-Purchases 2 (-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term6 Term7 Change
+Purchases
+
+2
+(-) Change <1 1-5 5-10 Over 10 (-) Change (-) holdings
+
+4
+Term6 Term7 Change
 
 2001 QIl
 

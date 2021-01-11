@@ -51,6 +51,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1449,9 +1452,15 @@ Policy Rules Chart: Explanatory Notes
 In all of the rules below, it denotes the federal funds rate, Bt the staff estimate at date t of trailing four-
 quarter core PCE inflation, (yt-yt*) the staff estimate (at date t) of the output gap, B* policymakers’
 long-run objective for inflation, it-1 the lagged federal funds rate, gt-1  the residual from the rule’s
-prescription the previous quarter, (yt+3|t-yt+3|t*) the staff’s three-quarter-ahead forecast of the output gap,
-() yt+3|t-) yt+3|t*) the staff’s forecast of output growth less potential output growth three quarters ahead,
-Bt+3|t a three-quarter-ahead forecast of inflation, and (ut+3|t-ut+3|t*) a three-quarter-ahead forecast of the
+prescription the previous quarter, (yt+3|t-yt+3|t
+
+*) the staff’s three-quarter-ahead forecast of the output gap,
+() yt+3|t-) yt+3|t
+
+*) the staff’s forecast of output growth less potential output growth three quarters ahead,
+Bt+3|t a three-quarter-ahead forecast of inflation, and (ut+3|t-ut+3|t
+
+*) a three-quarter-ahead forecast of the
 unemployment gap.  Data are quarterly averages taken from the Greenbook and staff memoranda
 closest to the middle of each quarter, unless otherwise noted.
 
@@ -1468,13 +1477,20 @@ square error
 
 Rules with Imposed Coefficients 
 
-1.  Baseline Taylor Rule it = 2 + Bt + 0.5(yt-yt*) + 0.5(Bt-B*) .95a 1.00a
+1.  Baseline Taylor Rule it = 2 + Bt + 0.5(yt-yt
+*) + 0.5(Bt-B*) .95
 
-2.  Aggressive Taylor Rule it = 2 + Bt + (yt-yt*) + 0.5(Bt-B*) .72a .74a
+a 1.00a
 
-3.  First-difference Rule it = it-1 + 0.5() yt+3|t-) yt+3|t*)
+2.  Aggressive Taylor Rule it = 2 + Bt + (yt-yt
+*) + 0.5(Bt-B*) .72
+
+a .74a
+
+3.  First-difference Rule it = it-1 + 0.5() yt+3|t-) yt+3|t
+*)
+
         + 0.5(Bt+3|t-B*)
-
 .83a .32a
 
 Rules with Estimated Coefficients
@@ -1483,9 +1499,10 @@ Rules with Estimated Coefficients
 Rule includes both lagged interest rate and
 serial correlation in residual.
 
-it = .53it-1 + 0.47 [1.07 + 0.97(yt-yt*)
-        + 1.51Bt]+ 0.48gt-1
+it = .53it-1 + 0.47 [1.07 + 0.97(yt-yt
+*)
 
+        + 1.51Bt]+ 0.48gt-1
 .23 .25
 
 5.  Estimated Greenbook Forecast-based
@@ -1493,9 +1510,10 @@ Rule
 Rule includes both lagged interest rate and
 serial correlation in residual.
 
-it = .72it-1 + 0.28 [0.46 + 1.07(yt+3|t-yt+3|t*)
-        + 1.66Bt+3|t] + 0.32gt-1
+it = .72it-1 + 0.28 [0.46 + 1.07(yt+3|t-yt+3|t
+*)
 
+        + 1.66Bt+3|t] + 0.32gt-1
 .25 .26
 
 6.  Estimated FOMC Forecast-based Rule
@@ -1509,7 +1527,9 @@ at semiannual frequency, and projected
 forward using Greenbook forecasts.
 
 it = 0.49it-2 + 0.51 [0.27
-        ! 2.10(ut+3|t-ut+3|t*) + 1.60Bt+3|t] .45 .61
+        ! 2.10(ut+3|t-ut+3|t
+
+*) + 1.60Bt+3|t] .45 .61
 
 7.  Estimated TIPS-based Rule
 Bcomp5|t denotes the time-t difference between

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -901,9 +904,10 @@ Seasonally adjusted
 
 Mo ney stock measures and liquid as ets Bank credit Domestic nonfinancial debt'
 
-nontransactions components total loanstotal loans
-Period M1 M2 M3 L and U. S. other' total=
+nontransactions components total loans
+total loans
 
+Period M1 M2 M3 L and U. S. other' total=
 In M2 In M3 only Investments' government'
 
 1_ 2 3 4 5 6 7 8 9 10
@@ -976,7 +980,12 @@ Seasonallyaduted
 Money market
 
 Demand Other Savings Small mutualfunds Large Short-term Commercial Bankers
-Period urrency deposit checkable denomination denomination RP's' Eurodollars$ Savings Treasury ommerc Bankersdeponia p checkabletances =deposit deposits posits ime deposits Retail Institution- time deposits' d securities' accepa
+Period urrency deposit checkable denomination denomination RP's' Eurodollars$ Savings Treasury ommerc Bankers
+
+deponia p checkabletances
+=
+
+deposit deposits posits ime deposits Retail Institution- time deposits' d securities' accepa
 
 only
 
@@ -1324,7 +1333,8 @@ p preliminary
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1507,7 +1510,8 @@ July 5
 
 Aug. 2
 
-16916
+169
+16
 23
 30
 
@@ -1993,8 +1997,9 @@ Perod Federal unds Treasury Bills 90-19 day New Issue Municipal (1 .
 G o
 
 stant FNMA Auction
-90-day 1-year Commercial Aaa Utility, Bond Buyer YieldsPaper Maturity)
+90-day 1-year Commercial Aaa Utility, Bond Buyer Yields
 
+Paper Maturity)
 () (2) (3) (4) (5) (6) (7) (8)
 
 1971 -- High 5 73 5 47 5.94 5.88 8.26 6.23 6.89 8.07
@@ -2065,7 +2070,8 @@ October 13, 1972
 Available to Adjusted Total Time Thrift U.S.
 Support Pvt. Credit Loans and Total Other than lInstitution Nondeposit Govt.
 
-Period Total Nonborrowed Deposits 1 2 3 Proxy Investments Time ICD's Deposits CD's Funds Demand
+Period Total Nonborrowed Deposits 
+1 2 3 Proxy Investments Time ICD's Deposits CD's Funds Demand
 
 Annually:
 
@@ -2716,7 +2722,8 @@ Ar
 
 - 2.1
 
--0.7A -
+-0.7
+A -
 
 NOTE: Reserve requirements on Eurodollar
 beginning October 1, 1970.

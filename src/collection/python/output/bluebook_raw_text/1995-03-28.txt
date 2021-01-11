@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -937,7 +940,10 @@ Aug
 I I I I I I II I I I I I
 
 ''
-''''''
+''
+
+''
+''
 
 ''
 ''
@@ -1240,7 +1246,9 @@ Money stock measures and liquid assets Bank credit Domestic nonfinancial debt1
 nontransactions components total loans
 total loans
 
-Period M1 M2 M3 L and U. S. other' total2
+Period M1 M2 M3 L and U. S. other' total
+2
+
 In M2 In M3 only investments' government'
 
 1 2 3 4 5 6 7 8 9 10

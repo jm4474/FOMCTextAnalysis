@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -78,7 +81,8 @@ reliably recognized by the OCR process and were not checked or corrected by staf
 
 
 
-July 14, 1978Strictly Confidential (FR) Class I FOMC
+July 14, 1978
+Strictly Confidential (FR) Class I FOMC
 
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -925,7 +929,10 @@ S7/ Q2'77-Q2'78
 
 7 ^ 7% - 815
 
-755 800755
+755 
+800
+
+755
 
 740 - 785
 
@@ -1234,7 +1241,9 @@ S1440
 - - 1410
 
 1290 -10
-% % - 1380
+% % 
+
+- 1380
 
 12 0 Q3'77-03'78
 1260 -* 1440
@@ -1248,7 +1257,8 @@ S1440
 
 1230 Q277-278 1410
 
-1290 13801290 e
+1290 1380
+1290 e
 
 1260 - e 1350
 
@@ -2423,8 +2433,8 @@ MONEY MARKET CONDITIONS Per cent INTEREST RATES Short-term Percent INTEREST RATE
 
 FHA MORTGAGES
 
-FEDERAL FUNDS RATE 7 FNMA Monday 
-Aucti
+FEDERAL FUNDS RATE 7 FNMA 
+Monday Aucti
 
 8
 
@@ -2525,7 +2535,9 @@ CLASS 1-FOMC
 JULY 14, 1978
 
 Money Supply Total Time & Savings Deposits Non deposit
-Sources ofPeriod Narrow Broad U.S. Govt thr Than CD's o urces ofPeriod) (2) Deposits tala l s Other CD's unds
+Sources of
+
+Period Narrow Broad U.S. Govt thr Than CD's o urces ofPeriod) (2) Deposits tala l s Other CD's unds
 
 1 2 3 4 s 1 1 7 8 9
 
@@ -3670,7 +3682,11 @@ July 5
 
 174 49
 177 113
-211 29 7p
+211 
+
+29
+7p
+
 163 244p
 
 1,861
@@ -4954,7 +4970,8 @@ P - PRELIMINARY
 
 
 
-APPENDIX TABLE 2-A JULY 14, 197
+APPENDIX TABLE 2-A JULY 14, 
+197
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 
@@ -5434,10 +5451,12 @@ APPENDIX TABLE 2-B
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 JULY 14, 1978
 
-Time and Savings Deposits Mutual Short- OtherSavings Credit Term Private Non- Total
-Period Currency Demand Bank Union Saving U.S Short Deposit Gov't
+Time and Savings Deposits Mutual Short- Other
+Savings Credit Term Private Non- Total
 
+Period Currency Demand Bank Union Saving U.S Short Deposit Gov't
 Deposits Total Other Thn CD's & S&L Shares Bonds Govt term Funds Demando t  otal Savings Other Shares Gov'Sec As Depos
+
 I Total Savings Other I Sec i 1 Asets j/
 
 ANNUALLY:

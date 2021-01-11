@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1261,12 +1264,14 @@ of alternative B (or C) but associate with such language the growth rates
 
 discussed in connection with alternative A.
 
-(24) Alternative C. This language is proposed for possible 
-use
+(24) Alternative C. This language is proposed for 
+possible use
 
-if the Committee decides to seek the objectives discussed above in connec-
+if the Committee decides to seek the objectives discussed above 
+in connec-
 
-tion with alternative B, but would prefer to have the Desk shift emphasis
+tion with alternative B, but would prefer to have the Desk shift 
+emphasis
 
 from money market conditions to bank reserves in implementing policy.
 
@@ -3317,7 +3322,10 @@ Retrospective and Prospective Changes
 Factor s a ffecting a upp ly of r e s e r v e s = Change = Bank use of reserves
 
 Federal Reserve Currency Foreign Other nonmember inquired Excess
-eriod credit (exl. Gold outside Treasury Float deposits deposits and total r e resfloat) e / stock banks operations reserves reservescfloat 1/ stock banks and gold loans F.R. accounts reservesfloat)~~~o reserves)s rseral
+eriod credit (exl. Gold outside Treasury Float deposits deposits and total r e res
+
+float) e / stock banks operations reserves reservescfloat 1/ stock banks and gold loans F.R. accounts reserves
+float)~~~o reserves)s rseral
 
 Year:
 1969 (12/25/68 -

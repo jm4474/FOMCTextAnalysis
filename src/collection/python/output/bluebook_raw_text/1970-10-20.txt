@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1362,7 +1365,8 @@ February 28,060 27,206 27,832 296.7 161.0 129.1 6.7 196.3 43.8 152.5 202.4
 March 27,972 27,024 27,729 294.2 160.5 128.9 4.8 196.8 44.1 152.6 202.3
 April 27,775 26,754 27,614 295.4 160.1 129.4 5.9 198.1 44.2 154.0 202.3
 May 28,235 26,888 27,942 295.1 159.3 130.0 5.9 198.3 44.5 153.8 201.7
-June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 307.5 25.5July 27,530 26,275 27,334 288.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 305.7 26.1
+June 28,056 26,705 27,742 292.6 158.1 130.5 4.0 199.0 44.8 154.2 200.8 307.5 25.5
+July 27,530 26,275 27,334 288.0 155.1 130.5 2.4 199.3 45.0 154.4 197.7 305.7 26.1
 August 27,401 26,214 27,161 285.3 152.5 129.9 2.9 199.0 45.3 153.8 194.5 303.8 26.6
 September 27,402 26,383 27,144 285.7 152.1 129.2 4.4 L99.0 45.2 153.7 194.1 304 27.5October 27, 354 26, 210 27,129 283.5 151.5 128.9 3.1 199.1 45.6 153.6 193.5 302 27.9November 27,783 26,538 27,548 285.8 151.1 129.1 5.6 199.3. 45.9 153.4 193.4 =05.5 28.2
 December 27,928 26,806 27,707 285.8 151.5 129.4 4.9 199.6 45.9 153.7 194.1 305.7 29.0
@@ -1390,7 +1394,9 @@ AGGREGATE RESERVES AND MONETARY VARIABLES
 Seasonally Adjusted
 
 Member Bank Deposits Commercial Credit Proxy+Reserve Aggregates Supported by Required Reserves Money Supply bank time Euro-dollars + Addendun:5
-e r i o d  onborrowed Required Total Ti Private U.S. Gov't. Private deposits other nondep. Nonbank
+e r i o d  
+
+onborrowed Required Total Ti Private U.S. Gov't. Private deposits other nondep. Nonbank
 
 reserves reserves reserves member bank demep demand demand Total Currency demand adjusted sources of commerciareserves reserves reserves deposits funds paper
 deposits deposits I/ deposits 2/ deposits 3. 4/ funds paper
@@ -1735,10 +1741,11 @@ Retrospective and Prospective Changes
 
 F a c t o r s a f f e c t i u p p 1 y of r e s e r v e s = Change = Bank use of reserves
 
-Pe d Federal Reserve Gold and Currency Foreign Other nonmember in Re dcredit (excl. spec. dr. outside Treasury Float deposits deposits and total Required Exces
+Pe d Federal Reserve Gold and Currency Foreign Other nonmember in Re d
+credit (excl. spec. dr. outside Treasury Float deposits deposits and total Required Exces
 
-float) / rhts bansand gold loans F.R. accounts 
-reserves reserve
+float) / rhts bansand gold loans F.R. 
+accounts reserves reserve
 
 banks and gold loans F.R. accounts reserves r
 

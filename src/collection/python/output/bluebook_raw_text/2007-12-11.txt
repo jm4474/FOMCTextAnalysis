@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2677,7 +2680,9 @@ Class I FOMC - Restricted Controlled (FR) 27 of 43
 
 
 
-50 bp Easing 25 bp Easing No Change Greenbook Forecast*
+50 bp Easing 25 bp Easing No Change
+Greenbook 
+Forecast*
 
 Monthly Growth Rates
 Jul-07 4.1 4.1 4.1 4.1
@@ -2900,7 +2905,10 @@ with higher r*
 
 it = 2.75 + πt + 0.5(πt – *π ) + ( *t ty y− )  
 
-First-difference rule it = it-1 + 0.5(πt+3|t – *π ) + 0.5( 4 4 *3| 3|t t t ty y+ +Δ − Δ ) 
+First-difference rule it = it-1 + 0.5(πt+3|t – *π ) + 0.5(
+4 4 *
+
+3| 3|t t t ty y+ +Δ − Δ ) 
  
 FRB/US Model Simulations:  Prescriptions from the two empirical rules are computed using dynamic simulations of 
 the FRB/US model, implemented as though the rule were followed starting at this FOMC meeting.  The dotted line 

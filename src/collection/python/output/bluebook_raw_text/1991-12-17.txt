@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -968,7 +971,8 @@ Actual Level 1
 ------ Growth from 1990:04
 -- Growth from 1991:Q4
 
-L * Short-Run Altematives / -970/
+L * Short-Run Altematives / -970
+/
 
 S- 950
 
@@ -2028,7 +2032,8 @@ Dec 13 91
 6.29
 6.23
 
-NOTE: Weekly data for columns 1 through 11 are statement week averages. Data In column 7 are taken from Donoghue's Money Fund Report. Columns 1213 and 14 are 1 -day quotes for Friday. Thursday or Frday respectively,following the end of the statement week. Column 13 Is the Bond Buyer revenue Index. Column 14 s the FNMA purchase yield, plus loan servcing fee, on 30-day mandatory delivery commitments. Column 15 s the averagecontract rate on new commitments for fixed-ae mortgages (FRM) with 80 percent loan-to-value ratios at major Institutional lenders. Column 16 Is the average initial contract rate on new commitments for 1 -year, adjustable-
+NOTE: Weekly data for columns 1 through 11 are statement week averages. Data In column 7 are taken from Donoghue's Money Fund Report. Columns 1213 and 14 are 1 -day quotes for Friday. Thursday or Frday respectively,
+following the end of the statement week. Column 13 Is the Bond Buyer revenue Index. Column 14 s the FNMA purchase yield, plus loan servcing fee, on 30-day mandatory delivery commitments. Column 15 s the averagecontract rate on new commitments for fixed-ae mortgages (FRM) with 80 percent loan-to-value ratios at major Institutional lenders. Column 16 Is the average initial contract rate on new commitments for 1 -year, adjustable-
 rate mortgages (ARMs) at major institutional lenders offering both FRMI and ARMs with the same number of discount points.
 
 p - preliminary data

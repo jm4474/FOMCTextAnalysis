@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -97,7 +100,8 @@ Content last modified 6/05/2009.
 
 
 
-December 16, 1977Strictly Confidential (FR) Class I FOMC
+December 16, 1977
+Strictly Confidential (FR) Class I FOMC
 
 MONETARY AGGREGATES AND
 MONEY MARKET CONDITIONS
@@ -2977,9 +2981,10 @@ DEC. 16, 1977
 
 Sank Reserves I Bnk Credit Money Stock Measure
 
-Period TotalPeriod on- Monetary Loans
-Total borrowed Base and M1  M2  M3  M4  M5  M6  M7
+Period Total
+Period on- Monetary Loans
 
+Total borrowed Base and M1  M2  M3  M4  M5  M6  M7
 Invest-
 ments
 
@@ -3044,7 +3049,8 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 Time and Savings Deposits Mutual Other
 De d Savings Credit Short Term Private
 
-Period Currency Demand Other Than CD's Bank & Union Savings U.S.Gov't Short-termDeposits Total CD's S&L Shares Bonds / Securities AssetsIII -Securities AssetsTotal Savings Other Shares 1  1/
+Period Currency Demand Other Than CD's Bank & Union Savings U.S.Gov't Short-termDeposits Total CD's S&L Shares Bonds / Securities AssetsIII -Securities Assets
+Total Savings Other Shares 1  1/
 
 1 2 3 4 5 6 7 8 9 10 11 12
 ANNUALLY:

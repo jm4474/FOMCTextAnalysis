@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -928,9 +931,10 @@ Projection- -
 
 Q3 '78-Q3 '79
 
-- - 2 - 365-- 2
-% -
+- - 2 - 365
+-- 2
 
+% -
 3 6 5
 
 S355
@@ -1142,8 +1146,8 @@ X-C- S' 995
 
 0/ 2 '78-02 '79
 
-40 1 %u l 9 3
-5
+40 1 %u 
+l 9 3 5
 
 X - 1975
 
@@ -2897,7 +2901,8 @@ DEC. 15, 1978
 Money Supply Total Time & Savings Deposits _Nondeposit
 Period Narrow Broad U.S. Govt. TotalOther Than CD's Surces of
 
-(Ml) (M2) Deposits 1/ Total Savin s Other CD's Funds 2/
+(Ml) (M2) Deposits 1/ Total Savin s Other CD's Funds 
+2/
 
 MONTHLY LEVELS-SBIL
 
@@ -3843,7 +3848,8 @@ Net Pu
 ury Coupons
 urchases 3/
 
-5 - 10 Over 10 Total Within
+5 - 10 Over 10 Total
+Within
 1 vear
 
 Federal Agencies
@@ -4671,7 +4677,10 @@ Daily--Dec. 7
 9.43r
 
 9.87 8.93 9.29 9.22 10.25 10.25 11.50 9,12 8,86 8.79 9.28 9.31 6,29 10.35 -- 9.39r
-9.79 8.90 9.27 9.26 10.38 10.27 11.50 9.18p 8.94p 8.85p 9.30p 9.35p 6.45 n.a. 10.40 9.43
+9.79 8.90 9.27 9.26 10.38 10.27 11.50 9.1
+
+8
+p 8.94p 8.85p 9.30p 9.35p 6.45 n.a. 10.40 9.43
 
 9.80 8.90 9.32 -- - 10.25 11.50 9.13 8.89 8.79
 9.
@@ -4715,7 +4724,8 @@ Appendix Table 1-A
 
 Money and Credit Aggregate Measures
 
-Bank Reserves 1  Bank Money Stock Measures
+Bank Reserves
+1  Bank Money Stock Measures
 
 Total
 Period Total Non- Monetary Loans
@@ -4791,7 +4801,9 @@ Bank Reserves -1B k  Money Stock MeasureBCredit Money Stock Measures
 Period Total
 Non- Monetary Loans
 
-Total borrowed Base and M-1 M-l+ M-2 M-3 M-4 M-5 M-6 M-7borrowed Base and
+Total borrowed Base and M-1 M-l+ M-2 M-3 M-4 M-5 M-6 M-7
+borrowed Base and
+
 Invest-
 ments
 
@@ -4859,8 +4871,8 @@ P - PRELIMINARY
 
 
 
-APPENDIX TABLE 2-A DEC. 
-15, 1978
+APPENDIX TABLE 2-A 
+DEC. 15, 1978
 
 COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1713,7 +1716,8 @@ Keq. res. against
 
 98
 
-7p
+7
+p
 
 17
 25
@@ -1903,7 +1907,9 @@ July 4,231 1,246 60 135 188 259 17 -5,546 - 9,896
 Aug. 4,020 1,204 44 181 195 211 37 -3,964 - 9,966
 Sept. 5,008 588 31 122 191 397 58 -3,551 - 9,015
 
-Oct. 5,766 1,480 14 123 207p 188p 65p -2,644 - 9,202
+Oct. 5,766 1,480 14 123 
+2
+07p 188p 65p -2,644 - 9,202
 
 1975--Sept. 3 4,294 1,103 1 183 301 222 51 -2,745 - 9,391
 10 5,070 894 33 84 -6 385 54 -4,884 -10,478
@@ -2981,13 +2987,15 @@ SEASONALLY ADJUSTED, BILLIONS OF DOLLARS
 
 NOV. 14, 1975
 
-RE BANK CREDIT MONEY STOCKRESERVES MEASURES MEASURES
+RE BANK CREDIT MONEY STOCK
+RESERVES MEASURES MEASURES
+
 Available Tots
-
 Period Non- to Ad! Loans
-Total boro uprt Credit and M M 2  M3  M4 M M M7
 
+Total boro uprt Credit and M M 2  M3  M4 M M M7
 borrowed pits proxy Invests
+
 Deposits ments
 
 ANNUALLY!
@@ -4014,7 +4022,9 @@ M Q
 
 10.4
 
-M3
+M
+3
+
 M q
 
 8.8 10.4
@@ -4067,7 +4077,8 @@ from average levels in the final
 Q = Annual rate calculated from average levels in all three months of
 the quarters.
 
-M2
+M
+2
 
 M Q
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1019,7 +1022,8 @@ I 860
 . 6.2%
 - 1600
 
-6 %  - 1580
+6 %  
+- 1580
 
 - 1560
 
@@ -2495,12 +2499,13 @@ COMPONENTS OF MONEY STOCK AND RELATED MEASURES
 I Time and Savings Deposits Mutual Other
 nd Savings Credit Short Term Private
 
-Period Currnc mand Other Than CD's Bank & Union Savigs U.S.Gov't Short-termDCeposits Total Total Savings Oth CD's S&L Shares-/ Bonds/ Securities Assets
+Period Currnc mand Other Than CD's Bank & Union Savigs U.S.Gov't Short-term
+DCeposits Total Total Savings Oth CD's S&L Shares-/ Bonds/ Securities Assets
+
 II_ I Total Savings I Other I Shares-V 1 u1/
-
 1 2 3 4 5 6 7 8 9 10 11 12
-AN 2/ (Per cent annual rates of growth)
 
+AN 2/ (Per cent annual rates of growth)
 ANNUALLY:
 
 1976 9.5 4.6 8.1 15.0 25.0 7.5 -23.3 15.4 17.8 6.9 7.1 12.1
@@ -3297,7 +3302,12 @@ July 5
 8.99 8.87 8.93
 8.81 8.78 8.82 9.43
 
-8.77p 8.73 p 8.79p - 9.42p
+8.77p 8.7
+3
+p 8.7
+
+9
+p - 9.42p
 
 9.13
 9.27

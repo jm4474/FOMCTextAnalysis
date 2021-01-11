@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2038,9 +2041,12 @@ CLASS II-FOMC
 November 5, 1984
 
 Treasury Treasury coupons net purchases
-3  Federal agencies net purchases
+3  
 
-4  Net change
+Federal agencies net purchases
+4  
+
+Net change
 Period bills net outright Net RPs
 
 6

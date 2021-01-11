@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1276,7 +1279,9 @@ Total r-
 
 +426
 -216
-- 97,% hn,
+- 97
+
+,% hn,
 
 Seasonal changes
 
@@ -1561,7 +1566,8 @@ U. S. Government securities
 RWi11
 Outright Repurchase
 
-tnsmsCholde i Bill
+tnsmsC
+holde i Bill
 
 Bankers' Member bank
 acceptances borrowings

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -558,7 +561,9 @@ n.a.
 n.a.
 
 5.95/
-57.47.4;1/
+57.4
+
+7.4;1/
 
 2.1
 
@@ -1449,7 +1454,8 @@ Q3 '78-Q3 '79
 
 So - 1580
 
-/ 07%%
+/ 
+07%%
 
 S-1550
 
@@ -1811,7 +1817,9 @@ Benchmark
 0
 
 2/
-due to: /
+due to:
+
+/
 
 Seasonal
 Factors
@@ -3185,7 +3193,8 @@ R69.1
 
 17.0
 
-19.3If).a1q.3".?3
+19.3If).a1q.3
+".?3
 
 17.4
 11.2
@@ -3801,7 +3810,12 @@ FEBRUARY 2, 1979
 U.S. Govt. Security Underwriting Member Bank Reserve Positions
 Dealer Positions Syndicate Positions Borrowing at FRB** Basic Reserve Deficit**
 
-ills Cupon Corporate Municipal Rxess** t a l  son eS Issues Bonds Bonds Reserves Total Seasonal 8 New York 38 Others
+ills Cupon Corporate Municipal 
+R
+xess** 
+
+t a l  
+son eS Issues Bonds Bonds Reserves Total Seasonal 8 New York 38 Others
 
 1977--High
 Low
@@ -4036,7 +4050,11 @@ p
 -4,188
 -4,182
 -4,341
--2,622p
+-2,
+
+6
+22p
+
 -2,384p
 
 -13,975
@@ -4077,7 +4095,10 @@ p
 -10,520
 -13,555
 -12,858
--12,648p
+-
+1
+2,648p
+
 -11,267p
 
 NOTE: Government security dealer trading positions are on a commitment basis. Trading positions, which exclude Treasury securities financed by
@@ -4198,7 +4219,10 @@ Feb. 1
 10.12
 
 10.02
-10.04p
+10.0
+
+4
+p
 
 (2)
 
@@ -4646,12 +4670,13 @@ Appendix Table 1-A
 
 Money and Credit Aggregate Measures
 
-Bank Reserves Bdnk Money Stock MeasuresCredit
+Bank Reserves Bdnk Money Stock Measures
+Credit
+
 Total
-
 Period Non- Monetary Loans
-Total borrowed Base and M-1 M-l M-2 M-3 M-4 M-5 M-6 M7
 
+Total borrowed Base and M-1 M-l M-2 M-3 M-4 M-5 M-6 M7
 Invest-
 m_ 2 rn ments 9 10 1
 
@@ -5136,9 +5161,11 @@ Period Total
 Non- Monetary Loans
 
 Total borrowed Base nd M-1 M1+ M-2 
-M -3 M -4  M-5 M-6 M-7
+M -3 M -
 
+4  M-5 M-6 M-7
 Invest-
+
 S-r-ments
 
 ANNUALLY%

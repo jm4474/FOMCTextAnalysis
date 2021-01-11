@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1180,8 +1183,10 @@ _Z2 Longer Run Path
 
 CHART 1
 
-q I I . . . . . 1 1 1 1 I1 
-1 A I I
+q I I . . . . . 1 1 1 1 
+I1 1 A I 
+
+I
 
 
 
@@ -2621,7 +2626,9 @@ NOTES: Aggregate reserve series have been adjusted to eliminate changes in perce
 
 Euro-dollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning October 1,
 
-1970. Adjusted credit proxy includes mainly, total member bank deposits subject to reserve requirements, bank-related commercial paper, and Euro-
+1970. Adjusted credit proxy includes mainly, total member bank deposits subject to reserve requirements, bank-related commercial paper, 
+and Euro-
+
 dollar borrowings of U. S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except for nonbahk commercial
 paper figures which are for last day of month. FR 712- F
 
@@ -2751,7 +2758,9 @@ MARGINAL RESERVE MEASURES
 
 Member Banks borrowin a
 
-Period Free Excess Reserve C 1 ty
+Period Free Excess Reserve 
+C 1 ty
+
 reserves reserves Total Major banks Other Country
 
 8 N.Y. Outsice N.Y.
@@ -3148,8 +3157,8 @@ Retrospective and Prospective Changes
 
 (Dollar amounts in millions, based on weekly averages of daily figures)
 
-F-actors a.,f f e c t i n g. supply of re se r v Change =Bank use 
-oreserves
+F-actors a.,f f e c t i n g. supply of re se r v Change 
+=Bank use oreserves
 
 Period Federal Reserve Currency Treasur Foreign Other nonmember in Required Excess
 credit (excl. Gold outside Float deposits deposits and total serves res

@@ -46,6 +46,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -658,7 +661,10 @@ Jul Sep Nov Jan Mar May Jul Sep
 160
 
 Transactions in Corporate Securities:
-Greater than one-year maturity* $ Billions
+Greater than one-year maturity*
+
+$ Billions
+
  Weekly
 
 *Total transaction volume in corporate securities reported by primary dealers.
@@ -684,7 +690,10 @@ Aug 7
  14
 
 NFIB Survey: Credit More Difficult
-to Obtain than 3 Months Ago (Net)* Percent
+to Obtain than 3 Months Ago (Net)*
+
+Percent
+
  Monthly
 
 *Of borrowers who sought credit within the past three months, the proportion that

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1418,15 +1421,19 @@ Strictly Confidential (FR)-
 Class II FOMC
 
 Money and Credit Aggregate Measures Class
-Sssonay djustsd NOVEMBER14.1995Seasonallyadjusted
+Sssonay djustsd NOVEMBER14.1995
+
+Seasonallyadjusted
 
 Mon ey stock measures and liquid as ets Bank credit pom stic nonfinancial debt'
-nontransactlons components tot loanstotal loans
+nontransactlons components tot loans
 
+total loans
 Period M1 M2 M3 L and U. S. other total'
-In M2 In M3 only investments' governmen
 
-2t
+In M2 In M3 only investments' governmen
+2
+t
 
 _ 1 2 3 4 5 6-. 7 8 ~ 10 ,
 Annual arowth ratesg(%4
@@ -1886,8 +1893,9 @@ STRICTLY CONFIDENTIAL (FR)
 CLASS II-FOMC
 
 . . Treasury bills Treasurycoupons Federal Net change
-Net purchases 3 agencies outrightPeriod Net Redemptions Ne Redempons Ne redemptions holdings
+Net purchases 3 agencies outright
 
+Period Net Redemptions Ne Redempons Ne redemptions holdings
 ___________purchases (-) change 1 ear 1-5 5-10 over 10 (-) Change () total 4 Net RPs
 
 1992
@@ -2099,7 +2107,8 @@ November 8
 
 46
 
-83--.o.-
+83
+--.o.-
 
 30,219
 35,374

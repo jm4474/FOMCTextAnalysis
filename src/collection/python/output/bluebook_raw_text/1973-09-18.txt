@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -147,7 +150,8 @@ RPD 11--13 12.2
 
 M1 -- 4 - 0.7
 
-M2  6-3/4--9-3/4 6.7
+M2  6-3/4--9-3/4 
+6.7
 
 Memo: Statement
 week ave.
@@ -1076,7 +1080,8 @@ I I I I I I I I I I
 
 1i -,
 
-93%% growth for Aug. - Sept
+9
+3%% growth for Aug. - Sept
 
 -916
 
@@ -1107,7 +1112,8 @@ TOTAL RESERVES
 1972 1.73 A M J J A S 0
 1S-3
 
-*Break in series, Actual Level of Total Reserves After Reduction in Reserve Requirements E'fecttie November 9 1972* Break in series, Actual Level of Total Peberve After Increase in Reserve Renuirenents Effertive lu y 19 1973
+*Break in series, Actual Level of Total Reserves After Reduction in Reserve Requirements E'fecttie November 9 1972
+* Break in series, Actual Level of Total Peberve After Increase in Reserve Renuirenents Effertive lu y 19 1973
 
 -- 430
 
@@ -1547,9 +1553,18 @@ Aug 1 788 -- -- 952 1,740 674 14 -464 -346 570
 
 15 -515 351* -- -59 -223 -931 -92 1,395 74 298
 22 -473 .351* -- 3,406 2,582 394 219 -840 3 -230
-29 253 -- -17 -918 -682 4 87p* 42 5p -6 94p -150 368p
+29 253 -- -17 -918 -682 
 
-Sept.5 -228 - -5 158 -75 5 30p* -196p -8p -133p 459p
+4 87
+p* 42 5p -
+
+6
+94p -150 368p
+
+Sept.5 -228 - -5 158 -75 
+5 30
+
+p* -196p -8p -133p 459p
 12 -417 169* -26 -619 -893 -2,683p* -875p 
 
 2
@@ -1616,7 +1631,8 @@ June 2,281 562 33 120 234 1,851 75 -3,507 -6,443
 July 1,425 265 24 139 285 1,953 155 -2,460 -6,106
 Aug 0 70 177p 2,165p 1
 
-6 3p -2,689 -4,940
+6
+3p -2,689 -4,940
 
 1973 -- July 4 2,013 391 0 134 631 2,402 111 -2,771 -o,137
 11 1,382 373 77 129 -20 1,680 117 -2,860 -7,267
@@ -1631,13 +1647,24 @@ Aug. 1 1,193 58 0 86 499 2,095 141 -2,262 -4,725
 29 0 79 145p 2,558p 185p -2,681 -4,048
 
 Sept.5 15 36 5
-02p 2 ,362p 1
+0
+2p 
 
-68p -2,060p -4,1
-8 8p
+2
+,3
+
+6
+2p 1
+
+6
+8p -2,060p -4,1
+
+8
+8p
 
 12 Op 5
-2p 7p 1,487p 145p -3,572p -6,181p
+2
+p 7p 1,487p 145p -3,572p -6,181p
 
 19
 26
@@ -3002,16 +3029,17 @@ Sept. 5 p
 p - Preliminary
 VOrE- Reserve requirements on Eurodollar borrowings are included beginning October 16, 1969, and requirements on bank-related commercial paper are included beginning
 
-October 1, 197C. Adjusted credit proxy includes mainly total member bank deposits subject to reserve requirements, bank-related commercial paper, 
-and Eurodollar
+October 1, 197C. Adjusted credit proxy includes mainly total member bank deposits subject to reserve requirements, bank-related commercial 
+paper, and Eurodollar
 
-borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except.for nonbank commercial 
-paper figures which
+borrowings of U.S. banks. Weekly data are daily averages for statement weeks. Monthly data are daily averages except.for nonbank 
+commercial paper figures which
 
-are for last day of month. Weekly data are not available for M,. total loans and investments and thrift institution 
-deposits.
+are for last day of month. Weekly data are not available for M,. total loans and investments and thrift 
+institution deposits.
 
-1/ Estimated monthly average levels derived by averaging end of current month and end of previous month reported data.
+1/ Estimated monthly average levels derived by averaging end of current month and end of previous month reported 
+data.
 
 
 

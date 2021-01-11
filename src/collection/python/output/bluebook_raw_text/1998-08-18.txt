@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1339,7 +1342,9 @@ federal secondarymarke nda comm. aturity yields indexed yields -utiity municipal
 5.60
 
 NOTE: Weekly data for columns 1 through 12 are week-ending averages. As of September 1997, data in column 6 are interpolated from data on certain commercial paper trades settled by the Depository Trust Company; prior
-to that, they reflect an average of offering rates placed by several leading dealers. Columns 13 and 14 are 1-day quotes for Friday or Thursday, respectively. Column 14 is the Bond Buyer revenue index. Column 15 is
+to that, they reflect an average of offering rates placed by several leading dealers. Columns 13 and 14 are 1-day quotes for Friday or Thursday, respectively. Column 14 is the Bond Buyer revenue index. Column 15 
+
+is
 
 the average contract rate on new commitments for fixed-rate mortgages (FRMs) with 80 percent loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-
 
@@ -1696,7 +1701,8 @@ Debt data are on a monthly average basis, derived by averaging end-of-month leve
 
 
 
-NET CHANGES IN SYSTEM HOLDINGS OF SECURITES 1
+NET CHANGES IN SYSTEM HOLDINGS OF SECURITES
+1
 
 Millions of dollars, not seasonally adjusted
 

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1937,7 +1940,10 @@ JULY 7, 1986
 Money stock measures and liquid assets SBnk credit Domestc nonfinanclal debit
 nontransctlons total loans U.S.
 
-Perlod M1 M2 components M3 L and govrnment' 2  other 2 total 2
+Perlod M1 M2 components M3 L and govrnment'
+2  
+
+other 2 total 2
 n M2 I in M3 ogny I nvetment _
 
 1 2 3 4 5 6 7 8 9 10
@@ -2011,7 +2017,10 @@ Other Overnight denomi. mutual funds, NSA denomi- Term Term Short-
 Demand checkable RPs and MMDAs Savings nation gineral Instilu- nation RPs Eurodollars Savings term Commer- Bankers
 Period Currency deposits deposits Eurodollars NSA deposits time purpose, lions time NSA NSA bonds Treasury clal paper accep-
 
-NSA deposits' nd brokerl only deposits3  securities tances
+NSA deposits' nd brokerl only deposits
+3  
+
+securities tances
 dealer'
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
@@ -2409,9 +2418,9 @@ y bs Treasury coupons net purchases' Federal agencies net purchases' Net change
 Period Treasury bills outright holdings Net RPs'
 
 ___net change wh 1-5 5-10 over 10 total w1-5 5-10 over 10 total total
-year 1-5 5-1 over tota 
+year 1-5 5-1 over 
 
--year
+tota -year
 
 1980
 1981

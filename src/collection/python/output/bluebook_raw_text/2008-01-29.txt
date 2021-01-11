@@ -42,6 +42,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -2814,7 +2817,8 @@ Simple policy rules can serve as useful benchmarks
  policy strategies using the version of the FRB/US model
  in which expectations of the private sector are formed  
  based on past economic data.  As a point of reference, 
-suppose that the Greenbook outlook is the best feasible  under current circumstances, at least in the absence of  uncertainty. 
+suppose that the Greenbook outlook is the best feasible  
+under current circumstances, at least in the absence of  uncertainty. 
 
 Now consider the “Recession” scenario presented in  
  the Greenbook alternative simulations.  When monetary 
@@ -2828,7 +2832,8 @@ Now consider the “Recession” scenario presented in
  while core PCE inflation falls well below the assumed  
 long-run inflation goal of 1¾ percent.   
 
-If policymakers could instantly be sure that such a   recession was already in train, they might well cut the  
+If policymakers could instantly be sure that such a  
+ recession was already in train, they might well cut the  
  funds rate target immediately to a rate below 1 percent 
 in order to reduce the severity of the downturn.  In reality, 
  of course, economic turning points are notoriously difficult 
@@ -2839,7 +2844,9 @@ in order to reduce the severity of the downturn.  In reality,
 
  Such an approach is illustrated by the Risk Management  
 path (solid lines), in which the funds rate target is   
-reduced to 1½ percent for two quarters and thereafter  follows the prescriptions of the outcome-based rule.    This policy has visible effects in stabilizing economic   activity and inflation:  The unemployment rate at the peak 
+reduced to 1½ percent for two quarters and thereafter  
+follows the prescriptions of the outcome-based rule.    This policy has visible effects in stabilizing economic  
+ activity and inflation:  The unemployment rate at the peak 
  of the recession is about ¼ percentage point lower than 
  in the absence of insurance, and the inflation rate stays 
  noticeably closer to the assumed long-run inflation goal  

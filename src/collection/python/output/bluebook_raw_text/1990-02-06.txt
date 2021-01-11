@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -1236,9 +1239,10 @@ ON D J F MA M J J A S ON D J F MA M J J A S O ND
 
 3850
 
-rr
-rr
+r
+r
 
+rr
 r
 
 
@@ -2003,7 +2007,8 @@ SELECTED INTEREST RATES
 
 (percent)
 
-C, money c I porae convnlional home mortgagesd0n Tuty r lc c imm bnk US g Oamnnr oumlMl A uAlmty munk Ipal seondary
+C, money c I porae convnlional home mortgages
+d0n Tuty r lc c imm bnk US g Oamnnr oumlMl A uAlmty munk Ipal seondary
 hK -codKly alt nuk p miul pr nutuyyls mntly Bond malit ary mnar
 
 ---- s- -mrman I -mmnl| -v ai -nm~ 1-mn h lu ran - a -vi I f- r | 9i1Uai loMld Buv li Ie I ad [Me AI

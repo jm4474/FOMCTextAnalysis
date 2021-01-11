@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -288,7 +291,8 @@ A 4'
 6 11
 6.22
 6.113
-6 116 8II
+6 11
+6 8II
 
 6 1
 
@@ -381,14 +385,16 @@ In erel-th
 
 Sr - Revised. p - PI
 :1 Average of 'rtal ntolhu f days il p trlld
-2' Includes " I.i II -*year "id 0-t r I1 ploleit, 1 i t, n -
+2' Includes " I.i II -*year "id 0-t r I1 ploleit, 1 i t, 
 
-e rv I ill r
+n - e rv I ill r
 
 1 Ti0w deposlts ad td at all inVrtr II hnt
-4/ Base is hange for month prec d 0t, I cfld p til. or in Ls, ol wee
+4/ Base is hange for month prec d 0t, I cfld p til. or in Ls, ol 
 
+wee
 6  
+
 p Ilods, the first week shos
 
 J - fleLts, .0i Ill I i ' I r hi Jlep Ilt. r t ll. 1 lw. l . "ll tr I s
@@ -1570,7 +1576,8 @@ November
 December p
 1970--January p
 
-R ese r e A z r e p a t eS- I-----
+R ese r e A z r e p a t e
+S- I-----
 
 Total
 Reserves
@@ -1712,7 +1719,8 @@ M o i t t r y V a r i a b I
 
 iToi o I c y Supply I LC umn i re tI realt Pro >
 
-embr Bank Prvate Demand bn me Icl. Euro-dols.
+embr Bank Prvate Demand bn me 
+Icl. Euro-dols.
 
 Deposits Total Currency post deposits and nondeposit
 S______________________ adjusted sources of funds

@@ -41,6 +41,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -185,9 +188,10 @@ FOMC
 
 Mark' : .*,....'*"
 
-105- (right scale) %100 - ... .:" / \ ' -
-100 . Yn' -
+105- (right scale) %
+100 - ... .:" / \ ' -
 
+100 . Yn' -
 (right scale) I
 
 90 IA^ ^
@@ -1098,9 +1102,10 @@ May 15 98
 Short-Term Long-Term
 corporate conventional home
 
-Treasurybills se da comm bank U.S. govemmenl constant indexed yelds ule mortgagesfederal secondary market Se pa prime maturity yields recen BOd primary marketfunds market prime recen mrketytloan recere Buyer
-3-month 6-monh Iyear 3-month 1-monlh 3-year 10-year 30-year 5-year 10-year offler fixed-rate ARM
+Treasurybills se da comm bank U.S. govemmenl constant indexed yelds ule mortgages
+federal secondary market Se pa prime maturity yields recen BOd primary marketfunds market prime recen mrketytloan recere Buyer
 
+3-month 6-monh Iyear 3-month 1-monlh 3-year 10-year 30-year 5-year 10-year offler fixed-rate ARM
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
 
 5.80
@@ -1687,7 +1692,9 @@ Strictly Confidential (FR)-
 Class l1 FOMC
 
 Money and Debt Aggregates Ca FO
-Seasonally adjusted May 18, 1998Seasonally adJuated
+Seasonally adjusted May 18, 1998
+
+Seasonally adJuated
 
 Mone stock measures and liquid assets Domes tl nonflnanciai debt
 nontransacttonscomponents U.S.
@@ -1932,7 +1939,9 @@ May 13
 
 1,389
 
-1,3221,680**.
+1,3221,680
+**.
+
 .°
 
 52.3 98,8 40.6 50,8

@@ -40,6 +40,9 @@
 
 
 
+
+
+
 Bluebook
 
 
@@ -154,7 +157,9 @@ S1-i b ll
 Money Market Indicators Bond Yields Flow of Reserves, Bank Credit and Money
 Federal 3-month Corporate Munici- Non- Total Bank Money Time
 
-Period Free Borrow- Funds Treas- U.S. New pal borrowed Re- Credit u yPeriod Free Borrow- Supply Deposits
+Period Free Borrow- Funds Treas- U.S. New pal borrowed Re- Credit u y
+Period Free Borrow- Supply Deposits
+
 Reserves ings Rate ury Gov't. Issues (Aaa) Reserves serves Proxy 1/
 Reserves ings Bill (20 y) (Aaa)
 
@@ -886,8 +891,8 @@ BILLIONS OF DOLLARS
 1.0
 MEMBER BANK BORROWINGS
 
-.5 0 m-- =i 
-0 a
+.5 0 m-- 
+=i 0 a
 
 EXCESS RESERVES
 
