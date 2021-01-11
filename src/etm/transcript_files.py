@@ -28,6 +28,7 @@ from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
 TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
+
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
 OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
