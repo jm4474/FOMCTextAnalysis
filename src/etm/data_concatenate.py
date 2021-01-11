@@ -421,7 +421,6 @@ def build_embdata(max_df,min_df,phrase_itera,threshold,DATASET):
     transcript_docs,raw_text = generate_rawtranscripts()
     statement_docs = statements_raw()
     
-    DATASET = f"BBTSST_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
     docs = bb_docs + transcript_docs + statement_docs
@@ -432,7 +431,8 @@ def build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-    speaker_data_sec2.to_pickle(f"raw_data/speaker_data.pkl")
+    speaker_data_sec2.to_pickle(f"raw_data/{DATASET}.pkl")
+    
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
     data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
@@ -442,12 +442,23 @@ def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-    speaker_data_sec2 = speaker_data_sec2.groupby("start_date")["content"].sum().reset_index()
-    speaker_data_sec2.to_pickle(f"raw_data/meeting_data.pkl")
+    speaker_data_sec2 = speaker_data_sec2.groupby("start_date")["content"].agg(lambda x: ' '.join(x)).reset_index()
+    speaker_data_sec2.to_pickle(f"raw_data/{DATASET}.pkl")
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
     data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
     print(f"{DATASET} complete!")   
+    
+    
+    
+def build_transcriptdata(max_df,min_df,phrase_itera,threshold,DATASET):
+    transcript_docs,raw_text = generate_rawtranscripts()
+
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")
+    data_preprocess(transcript_docs ,DATASET,phrase_itera,max_df,min_df,threshold)
+    print(f"{DATASET} complete!")   
+
     
 def main():
     
@@ -469,8 +480,5 @@ def main():
     
 if __name__ == "__main__":
     main()
-
-
-
 
 

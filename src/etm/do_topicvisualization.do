@@ -58,10 +58,12 @@ use "full_results/meetings.dta",clear
 gen date_m = mofd(start_date)
 format date_m %tm
 drop level_0 index d
-duplicates drop date_m,force
-merge m:1 date_m using `econdata'
-drop if _merge==2
+collapse topic_*,by(date_m)
+foreach num of numlist 0/9{
+lpoly topic_`num' date_m,name(topic`num',replace)
+}
 
+lpoly topic_0 date_m
 
 
 

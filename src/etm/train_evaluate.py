@@ -38,6 +38,8 @@ pp = pprint.PrettyPrinter()
 DATAPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/")        
 OVERLEAF = os.path.expanduser("~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files")
 
+if not os.path.exists(f"{DATAPATH}/full_results"):
+        os.makedirs(f"{DATAPATH}/full_results")
 
 # =============================================================================
 # ## #1 Data Preparation
@@ -57,13 +59,20 @@ speakermin_df = 10
 SPEAKERDATA = f"SPEAKERS_min{speakermin_df}_max{speakermax_df}_iter{speakerphrase_itera}_th{speakerthreshold}"
 build_speakerdata(speakermax_df,speakermin_df,speakerphrase_itera,speakerthreshold,SPEAKERDATA)
 
-
 meetphrase_itera = 2 # Number o fphrase iterations
 meetthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
 meetmax_df=1.0
-meetmin_df=2
+meetmin_df=10
 MEEETDATA = f"MEET_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
 build_meeting(meetmax_df,meetmin_df,meetphrase_itera,meetthreshold,MEEETDATA)
+
+ts_phrase_itera = 2 # Number o fphrase iterations
+ts_threshold = "inf" # Threshold value for collocations. If "inf": no collocations
+ts_max_df=1.0
+ts_min_df=10
+TSDATA = f"TS_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
+build_transcriptdata(ts_max_df,ts_min_df,ts_phrase_itera,ts_threshold,TSDATA)
+
 
 print("*" * 80)
 print("Datasets Construction Completed")
@@ -120,18 +129,12 @@ print("*" * 80)
 print("\n\n")
 
 
-
-
-with open(f'{DATAPATH}/data/BBTSST_min1_max1.0_iter2_thinf/vocab.pkl', 'rb') as f:
-     embvoc = pickle.load(f)
-
-
 # =============================================================================
 # ## #4 TRAIN TOPIC MODELS
 
 ## SPEAKERDATA - Pre-Trained Emb.
 
-model_ckpt = etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
+speaker_ckpt = etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
         batch_size = 1000, epochs = 150, num_topics = 10, rho_size = 300,
         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
@@ -142,22 +145,46 @@ model_ckpt = etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
         num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
         load_from = "", tc = 1, td = 1)
 
-print(f"Evaluate model: {model_ckpt}")
+print(f"Evaluate model: {speaker_ckpt}")
 etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{model_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
+        mode = 'eval', load_from = f"{speaker_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
 
-print(f"Output the topic distribution: {model_ckpt}")
+print(f"Output the topic distribution: {speaker_ckpt}")
 etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{model_ckpt}", train_embeddings = 0)
+        mode = 'retrieve',load_from = f"{speaker_ckpt}", train_embeddings = 0)
 
 
 ## MEETINGS - Pre-Trained Emb.
 
-model_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+meeting_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 150, num_topics = 10, rho_size = 300,
+        batch_size = 1000, epochs = 1000, num_topics = 10, rho_size = 300,
+        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+        mode = 'train', optimizer = 'adam',
+        seed = 2019, enc_drop = 0.0, clip = 0.0,
+        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+        num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
+        load_from = "", tc = 1, td = 1)
+
+print(f"Evaluate model: {meeting_ckpt}")
+etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        mode = 'eval', load_from = f"{meeting_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
+
+print(f"Output the topic distribution: {meeting_ckpt}")
+etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        mode = 'retrieve',load_from = f"{meeting_ckpt}", train_embeddings = 0)
+
+
+## TRANSCRIPTS - Pre-Trained Emb.
+
+ts_ckpt = etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
+        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        batch_size = 1000, epochs = 1000, num_topics = 10, rho_size = 300,
         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
         mode = 'train', optimizer = 'adam',
@@ -167,15 +194,54 @@ model_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
         load_from = "", tc = 1, td = 1)
 
 print(f"Evaluate model: {model_ckpt}")
-etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{model_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
+        mode = 'eval', load_from = f"{ts_ckpt}", train_embeddings = 0 ,num_topics = 10,tc = 1, td = 1)
 
-print(f"Output the topic distribution: {model_ckpt}")
-etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+print(f"Output the topic distribution: {ts_ckpt}")
+etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{model_ckpt}", train_embeddings = 0)
+        mode = 'retrieve',load_from = f"{ts_ckpt}", train_embeddings = 0,num_topics = 10)
 
+
+# =============================================================================
+# ## #5 OUTPUT DAA
+
+## SPEAKERDATA
+
+raw_df  = pd.read_pickle(f"raw_data/{SPEAKERDATA}.pkl")
+
+idx_df = pd.read_pickle(f'{OUTPATH}/{SPEAKERDATA}/original_indices.pkl')
+idx_df = idx_df.set_index(0)
+idx_df["d"] = 1
+
+data = pd.concat([idx_df,raw_df],axis=1)
+data_clean = data[data["d"]==1].reset_index()
+dist_df = pd.read_pickle(f'{speaker_ckpt}tpdist.pkl')
+
+full_data = pd.concat([data_clean,dist_df],axis=1)
+full_data.drop(columns=["content","d"],inplace=True)
+full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+full_data["start_date"] = pd.to_datetime(full_data["start_date"])
+full_data.to_stata(f"{DATAPATH}/full_results/{SPEAKERDATA}.dta",convert_dates={"start_date":"td"})
+
+
+### MEETING ###
+raw_df  = pd.read_pickle(f"raw_data/{MEEETDATA}.pkl")
+
+idx_df = pd.read_pickle(f'{OUTPATH}/{MEEETDATA}/original_indices.pkl')
+idx_df = idx_df.set_index(0)
+idx_df["d"] = 1
+
+data = pd.concat([idx_df,raw_df],axis=1)
+data_clean = data[data["d"]==1].reset_index()
+dist_df = pd.read_pickle(f'{meeting_ckpt}tpdist.pkl')
+
+full_data = pd.concat([data_clean,dist_df],axis=1)
+full_data.drop(columns=["content"],inplace=True)
+full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+full_data["start_date"] = pd.to_datetime(full_data["start_date"])
+full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"start_date":"td"})
 
 
 
