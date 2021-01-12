@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import Tag
 import csv
+import os
 '''
 @author Anand Chitale
 #This script goes through every page of the FOMC historical website and extracts raw
@@ -26,31 +27,32 @@ def download_raw_doc_metadata():
         for meeting_table in meeting_tables:
             meeting_info = meeting_table.find("h5").text
 
-            meeting_document_tables = meeting_table.find_all("div")[1]
+            meeting_document_tables = meeting_table.find_all("div")[1:]
 
-            #each p tag contains a set of one of more links to documents of a type
-            document_types = meeting_document_tables.find_all("p")
-            for document_type in document_types:
-                document_list = get_documents_and_links(document_type)
-                grouping = get_grouping(document_type,document_list)
-                #Append Meeting Specific Information to each document
-                for document in document_list:
-                    document['grouping'] = grouping
-                    add_document(documents,document,year,meeting_info)
+            for meeting_document_table in meeting_document_tables:
+                #each p tag contains a set of one of more links to documents of a type
+                document_types = meeting_document_table.find_all("p")
+                for document_type in document_types:
+                    document_list = get_documents_and_links(document_type)
+                    grouping = get_grouping(document_type,document_list)
+                    #Append Meeting Specific Information to each document
+                    for document in document_list:
+                        document['grouping'] = grouping
+                        add_document(documents,document,year,meeting_info)
 
-            #Catches any minutes that are not given in a p-tag, just written as text in the div
-            meeting_document_lists = meeting_document_tables.find_all("div")
-            for meeting_document_list in meeting_document_lists:
-                non_p_text = ''.join(meeting_document_list.find_all(text=True, recursive=False))
-                non_p_text += get_non_link_inner_text(meeting_document_list)
-                if non_p_text and non_p_text.strip():
-                    non_p_text = ' '.join(non_p_text.split())
-                    document = {'document_name':non_p_text,
-                                      'link': None
-                                    }
-                    grouping = get_grouping(document['document_name'],None)
-                    document['grouping'] = grouping
-                    add_document(documents,document,year,meeting_info)
+                #Catches any minutes that are not given in a p-tag, just written as text in the div
+                meeting_document_lists = meeting_document_table.find_all("div")
+                for meeting_document_list in meeting_document_lists:
+                    non_p_text = ''.join(meeting_document_list.find_all(text=True, recursive=False))
+                    non_p_text += get_non_link_inner_text(meeting_document_list)
+                    if non_p_text and non_p_text.strip():
+                        non_p_text = ' '.join(non_p_text.split())
+                        document = {'document_name':non_p_text,
+                                        'link': None
+                                        }
+                        grouping = get_grouping(document['document_name'],None)
+                        document['grouping'] = grouping
+                        add_document(documents,document,year,meeting_info)
 
     write_to_csv(documents)
 
@@ -108,7 +110,9 @@ def add_document(documents,document,year,meeting_info):
 
 # Writes information to CSV File
 def write_to_csv(documents):
-    with open('../output/raw_data.csv', 'w') as csvfile:
+    if not os.path.exists("../output"):
+        os.mkdir("../output")
+    with open('../output/raw_data.csv', 'w+') as csvfile:
         fieldnames = ['year', 'meeting_info', 'document_name', 'link', 'grouping']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
