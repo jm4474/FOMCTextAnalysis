@@ -27,43 +27,69 @@ from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
-TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/transcript_raw_text")
+TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
 
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
 OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
 SPEAKER_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/python/output")        
 
+MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+month_string = r"((\b"+r"\b)?(\b".join(MONTHS)+r"\b)?)"
+datestring = re.compile(month_string+r"\s+\d+\–?(\d?\d?)\,\s+\d\d\d\d",re.IGNORECASE)
 
 def generate_rawtranscripts():
     raw_doc = os.listdir(TRANSCRIPT_PATH)  # as above
-    filelist = [f for f in sorted(raw_doc) if f!="SD_Store"] # sort the pdfs in order
+    filelist = [f for f in sorted(raw_doc) if f!=".DS_Store"] # sort the pdfs in order
 
-    newfiles = [f for f in filelist if np.datetime64(f[:10]) > "2006-01-31"]
+    newfiles = [f for f in filelist if int(f[:4]) >= 2006]
 
 
     raw_text = pd.DataFrame([])  # empty dataframe
 
     start = timeit.default_timer()
     for i, file in enumerate(newfiles):
-        print("*" * 80)
+        print("\n"+"*" * 80)
         print(f"Date and file {file}")
         print("*" * 80)
         #print('Document {} of {}: {}'.format(i, len(filelist), file))
         with open(os.path.join(TRANSCRIPT_PATH, file), 'r') as inf:
             parsed = inf.read()
+        
+
+        
         try:
             pre  = re.compile("Transcript\s?of\s?(?:the:?)?\s?Federal\s?Open\s?Market\s?Committee",re.IGNORECASE)
+            m = re.search(pre,parsed)
+            print(parsed[m.start():m.start()+90])
+        
+# =============================================================================
+#             date = re.search(datestring,parsed[m.start():m.start()+90])[0]
+#             month = re.search(month_string,date,re.IGNORECASE)[0]
+#             
+#             print(date)
+#             print(month)
+#         
+#             try:
+#                 day = re.search("(\–)(\d?\d?)",date,re.IGNORECASE)[2]            
+#                 print(day)
+#             except:
+#                 pass
+# =============================================================================
+  
             parsed = re.split(pre,parsed)[1]    
         except:  
             try:
                 pre  = re.compile("Transcript\s?of\s?(?:Telephone:?)?\s?Conference\s?Call",re.IGNORECASE)
+                m = re.search(pre,parsed)
+                print(parsed[m.start():m.start()+100])
+            
                 parsed = re.split(pre,parsed)[1] 
             except:  
                 print("No split")
                 parsed = parsed  
                 
-        interjections = re.split('\nMR. |\nMS. |\nCHAIRMAN |\nVICE CHAIRMAN ', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
+        interjections = re.split('\n\s*MR. |\n\s*MS. |\n\s*CHAIRMAN |\n\s*VICE\s+CHAIRMAN ', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
         temp_df = pd.DataFrame(columns=['Date', 'Speaker', 'content'])  # create a temporary dataframe
         interjections = [interjection.replace('\n', ' ') for interjection in
                          interjections]  # replace \n linebreaks with spaces
@@ -84,3 +110,26 @@ def generate_rawtranscripts():
     print("Transcripts processed. Time: {}".format(end - start))    
     docs = raw_text.groupby('Date')['content'].sum().to_list()
     return docs,raw_text
+
+docs,raw_text = generate_rawtranscripts()
+
+
+dates =list(raw_text['Date'].unique())
+date =dates[0]
+for date in dates:
+    data = raw_text[raw_text['Date']==date ]
+    print(date)
+    
+    for idx,row in data.iterrows():
+        m = re.search("go-round",row["content"].lower())
+        if m:
+            print(idx)
+            print(row["Speaker"].lower())
+            print(row["content"].lower())
+    
+
+
+
+
+
+
