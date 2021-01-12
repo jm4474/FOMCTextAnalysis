@@ -9,8 +9,12 @@ echo Downloading Bluebooks
 python download_bluebook.py
 echo Downloading Statements
 python download_statement.py
+echo Downloading Transcripts
+python download_transcripts.py
 echo Extracting Raw Text from Statements
 python extract_statement_raw_text.py
+echo Extracting Raw Text from Transcripts
+python extract_transcript_raw_text.py
 echo Extracting Raw Text from Bluebooks
 python extract_bluebook_raw_text.py
 echo Extracting Greenbook Data
