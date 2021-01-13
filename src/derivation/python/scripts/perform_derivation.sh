@@ -19,4 +19,6 @@ echo Produce Daily Policy Data
 python produce_daily_policy_data.py
 echo Produce Market Expectations
 python extract_market_expectations.py
+echo Produce Separated Transcripts
+python transcript_file.py
 

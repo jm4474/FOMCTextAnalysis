@@ -19,7 +19,7 @@ from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
-TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
+TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/transcript_raw_text")
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
 OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
@@ -431,26 +431,34 @@ def build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-    speaker_data_sec2.to_pickle(f"raw_data/{DATASET}.pkl")
+    speaker_data_part2 = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_part2.pkl")
+    speaker_data_part2_sec2 = speaker_data_part2[speaker_data_part2["Section"]==2]
+    speakers_full = pd.concat([speaker_data_sec2,speaker_data_part2_sec2[['start_date', 'Speaker', 'Section', 'content']]], axis=0)  
+    speakers_full = speakers_full.reset_index(drop=True)
+    
+    speakers_full.to_pickle(f"raw_data/{DATASET}.pkl")
     
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
-    data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
+    data_preprocess(speakers_full["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speakers_full["content"].index))
     print(f"{DATASET} complete!")   
 
 def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-    speaker_data_sec2 = speaker_data_sec2.groupby("start_date")["content"].agg(lambda x: ' '.join(x)).reset_index()
-    speaker_data_sec2.to_pickle(f"raw_data/{DATASET}.pkl")
+    speaker_data_part2 = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_part2.pkl")
+    speaker_data_part2_sec2 = speaker_data_part2[speaker_data_part2["Section"]==2]
+    speakers_full = pd.concat([speaker_data_sec2,speaker_data_part2_sec2[['start_date', 'Speaker', 'Section', 'content']]], axis=0)    
+    speakers_full = speakers_full.reset_index(drop=True)
+    
+    speakers_full = speakers_full.groupby("start_date")["content"].agg(lambda x: ' '.join(x)).reset_index()
+    speakers_full.to_pickle(f"raw_data/{DATASET}.pkl")
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
-    data_preprocess(speaker_data_sec2["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speaker_data_sec2["content"].index))
+    data_preprocess(speakers_full["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speakers_full["content"].index))
     print(f"{DATASET} complete!")   
-    
-    
-    
+     
 def build_transcriptdata(max_df,min_df,phrase_itera,threshold,DATASET):
     transcript_docs,raw_text = generate_rawtranscripts()
 
