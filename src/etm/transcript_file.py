@@ -27,7 +27,7 @@ from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
 from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 
-TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/data/transcript_raw_text")
+TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/transcript_raw_text")
 
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
 STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
@@ -89,7 +89,7 @@ def generate_rawtranscripts():
                 print("No split")
                 parsed = parsed  
                 
-        interjections = re.split('\n\s*MR. |\n\s*MS. |\n\s*CHAIRMAN |\n\s*VICE\s+CHAIRMAN ', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
+        interjections = re.split('\\n\s*MR. |\\n\s*MS\. |\\n\s*CHAIRMAN |\\n\s*VICE\s+CHAIRMAN |\\n\s*CHAIR\s+', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
         temp_df = pd.DataFrame(columns=['Date', 'Speaker', 'content'])  # create a temporary dataframe
         interjections = [interjection.replace('\n', ' ') for interjection in
                          interjections]  # replace \n linebreaks with spaces
@@ -118,10 +118,10 @@ dates =list(raw_text['Date'].unique())
 date =dates[0]
 for date in dates:
     data = raw_text[raw_text['Date']==date ]
-    print(date)
+    print(f"\n\n************************{date}*****************************")
     
     for idx,row in data.iterrows():
-        m = re.search("go-round",row["content"].lower())
+        m = re.search("policy\s+round",row["content"].lower())
         if m:
             print(idx)
             print(row["Speaker"].lower())
