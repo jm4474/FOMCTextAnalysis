@@ -5,3 +5,6 @@
 /etm/embeddings/*
 *.pdf
 *.txt
+/etm/full_results/*
+/etm/word2vecmodels/*
+
