@@ -378,8 +378,26 @@ def etm(dataset,data_path,emb_path,save_path= '',
             x_df.to_pickle(f'{ckpt}tpdist.pkl')
         
             print(f"\nTopic distributions for {args.dataset} saved")
+               
+          
+        ## visualize topics using monte carlo
+        with torch.no_grad():
+            print('#'*100)
+            print('Visualize topics...')
+            topics_data = []
+            gammas = model.get_beta()
+            for k in range(args.num_topics):
+                gamma = gammas[k]
+                top_words = list(gamma.cpu().numpy().argsort()[-12+1:][::-1])
+                topic_words = [vocab[a] for a in top_words]
+                topics_data.append([k,topic_words])    
+                print([k,topic_words])
+            
+            with open(f'{ckpt}topics.pkl', 'wb') as f:
+                pickle.dump(topics_data, f)        
         
         
+     
     else:
         with open(ckpt, 'rb') as f:
             model = torch.load(f)
