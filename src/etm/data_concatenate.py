@@ -446,13 +446,14 @@ def build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET):
 def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
-    speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
+    speaker_data_sec2 = speaker_data #[speaker_data["Section"]==2]
     speaker_data_part2 = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_part2.pkl")
-    speaker_data_part2_sec2 = speaker_data_part2[speaker_data_part2["Section"]==2]
+    speaker_data_part2_sec2 = speaker_data_part2 #[speaker_data_part2["Section"]==2]
     speakers_full = pd.concat([speaker_data_sec2,speaker_data_part2_sec2[['start_date', 'Speaker', 'Section', 'content']]], axis=0)    
     speakers_full = speakers_full.reset_index(drop=True)
     
-    speakers_full = speakers_full.groupby("start_date")["content"].agg(lambda x: ' '.join(x)).reset_index()
+    speakers_full = speakers_full.groupby(["start_date",'Section'])["content"].agg(lambda x: ' '.join(x)).reset_index()
+    #speakers_full = speakers_full.groupby("start_date")["content"].agg(lambda x: ' '.join(x)).reset_index()
     speakers_full.to_pickle(f"raw_data/{DATASET}.pkl")
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")

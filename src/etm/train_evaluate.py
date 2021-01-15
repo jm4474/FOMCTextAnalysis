@@ -59,7 +59,7 @@ speakermin_df = 10
 SPEAKERDATA = f"SPEAKERS_min{speakermin_df}_max{speakermax_df}_iter{speakerphrase_itera}_th{speakerthreshold}"
 build_speakerdata(speakermax_df,speakermin_df,speakerphrase_itera,speakerthreshold,SPEAKERDATA)
 
-meetphrase_itera = 2 # Number o fphrase iterations
+meetphrase_itera = 2 # Number of phrase iterations
 meetthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
 meetmax_df=1.0
 meetmin_df=10
@@ -193,7 +193,7 @@ ts_ckpt = etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
         num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
         load_from = "", tc = 1, td = 1)
 
-print(f"Evaluate model: {model_ckpt}")
+print(f"Evaluate model: {ts_ckpt}")
 etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
         mode = 'eval', load_from = f"{ts_ckpt}", train_embeddings = 0 ,num_topics = 10,tc = 1, td = 1)
@@ -227,6 +227,8 @@ full_data.to_stata(f"{DATAPATH}/full_results/{SPEAKERDATA}.dta",convert_dates={"
 
 
 ### MEETING ###
+
+# Retrieve raw data
 raw_df  = pd.read_pickle(f"raw_data/{MEEETDATA}.pkl")
 
 idx_df = pd.read_pickle(f'{OUTPATH}/{MEEETDATA}/original_indices.pkl')
@@ -242,6 +244,46 @@ full_data.drop(columns=["content"],inplace=True)
 full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
 full_data["start_date"] = pd.to_datetime(full_data["start_date"])
 full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"start_date":"td"})
+full_data.to_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
+
+
+# =============================================================================
+# ## 6 Visualize
+
+import matplotlib.pyplot as plt
+import matplotlib.ticker as tkr
+# Load data
+full_data = pd.read_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
+# Retrieve topics
+with open(f'{meeting_ckpt}topics.pkl', 'rb') as f:
+    meet_topics = pickle.load(f)
+    top_dic = dict(zip([item[0] for item in meet_topics ],[", ".join(item[1]) for item in meet_topics ] ))
+# Check topics
+for item in meet_topics:
+    print(f'{item[0]}: {", ".join(item[1])}')
+
+section1 = full_data[full_data["Section"]==1].copy()
+section2 = full_data[full_data["Section"]==2].copy()
+
+k= 0
+
+for k in range(10):
+    fig = plt.figure(figsize=(20,9))
+    axs = fig.add_subplot(1,1,1)
+    plt.subplots_adjust(.1,.20,1,.95)
+    section1.plot.scatter('start_date',f'topic_{k}',color="dodgerblue",ax=axs,label="Section 1")
+    section2.plot.scatter('start_date',f'topic_{k}',color="red",ax=axs,label="Section 2")
+    plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k]}", ha="left", fontsize=20)
+    axs.set_xlabel("Meeting Day",fontsize=20)
+    axs.set_ylabel(f"Topic {k}",fontsize=20)
+    axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.1f}"))
+    axs.grid(linestyle=':')
+    axs.tick_params(which='both',labelsize=20,axis="y")
+    axs.tick_params(which='both',labelsize=20,axis="x")
+    axs.legend( prop={'size': 20})
+    plt.savefig(f'transcript_topic_{k}.eps', format='eps')
+
+
 
 
 

@@ -11,8 +11,34 @@ tempfile econdata
 save `econdata'
 
 ********************************************************************************
+use "full_results/MEET_min10_max1.0_iter2_thinf.dta",clear
+gen date_m = mofd(start_date)
+format date_m %tm
+drop level_0 index d
+keep if Section==2
+drop if start_date == date("16sep2003","DMY")
+duplicates tag date_m,gen(dup)
+tab dup
+merge m:1 date_m using `econdata'
 
-use "full_results/speakers.dta",clear
+reshape long topic_,i(date_m) j(nr)
+rename topic_ topic_sh
+drop if topic_sh==.
+
+mlogit topic_sh  PCEH UNRATE PCEH1 UNRATE1
+
+
+foreach num of numlist 0/9{
+lpoly topic_`num' date_m,name(topic`num',replace)
+}
+
+lpoly topic_0 date_m
+
+
+
+
+
+use "full_results/SPEAKERS_min10_max0.7_iter2_thinf.dta",clear
 drop level_0 index
 rename start_date date
 gen date_m = mofd(date)
@@ -53,17 +79,6 @@ twoway scatter topic_`num' date_m,name(topic`num',replace)
 
 
 
-
-use "full_results/meetings.dta",clear
-gen date_m = mofd(start_date)
-format date_m %tm
-drop level_0 index d
-collapse topic_*,by(date_m)
-foreach num of numlist 0/9{
-lpoly topic_`num' date_m,name(topic`num',replace)
-}
-
-lpoly topic_0 date_m
 
 
 
