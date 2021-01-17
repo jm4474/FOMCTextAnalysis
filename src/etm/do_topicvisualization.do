@@ -3,6 +3,7 @@
 	* set path
 cd "/Users/olivergiesecke/Dropbox/MPCounterfactual/src/etm"
 
+global OVERLEAF = "/Users/olivergiesecke/Dropbox/Apps/Overleaf/FOMC_Summer2019/files"
 
 use "../AKJ_Replication/replication/data/data_replication",clear
 gen date_m = mofd(date)
@@ -10,29 +11,106 @@ format date_m %tm
 tempfile econdata
 save `econdata'
 
+
+use "../economic_data/final_data/greenbook_data.dta",clear
+keep *_l1 meeting_date
+gen date_m = mofd(meeting_date)
+format date_m %tm
+
+duplicates drop date_m,force
+
+tempfile econdata
+save `econdata'
+
+
+use "../economic_data/final_data/econmarketdata.dta",clear
+
 ********************************************************************************
 use "full_results/MEET_min10_max1.0_iter2_thinf.dta",clear
 gen date_m = mofd(start_date)
 format date_m %tm
 drop level_0 index d
-keep if Section==2
 drop if start_date == date("16sep2003","DMY")
-duplicates tag date_m,gen(dup)
+duplicates tag Section date_m,gen(dup)
 tab dup
-merge m:1 date_m using `econdata'
+rename start_date date
 
-reshape long topic_,i(date_m) j(nr)
-rename topic_ topic_sh
-drop if topic_sh==.
+**** TO DO: Check the date merge.
 
-mlogit topic_sh  PCEH UNRATE PCEH1 UNRATE1
+merge m:1 date using "../economic_data/final_data/econmarketdata.dta",keep(3)
+rename m_cape EQUITYCAPE
 
+label var l1d_UNRATE "Lag 1 dURate"
+label var l2d_UNRATE "Lag 2 dURate"
+label var l1dln_PCEPI "Lag 1 dlnPCEPI"
+label var l2dln_PCEPI "Lag 2 dlnPCEPI"
+label var l1dln_INDPRO "Lag 1 dlnIP"
+label var l2dln_INDPRO "Lag 2 dlnIP"
+label var d7ln_spindx "7 day Return S\&P500"
+label var d14ln_spindx "14 day Return S\&P500"
+label var EQUITYCAPE "Equity Cape"
+label var TEDRATE "Ted Spread"  
+label var SVENY01 "Tr. 1yr Yield" 
+label var d28_SVENY01  "$\Delta$ Tr. 1yr Yield" 
+label var d28_SVENY10 "$\Delta$ Tr. 10yr Yield" 
+label var SVENY10 "Tr. 10yr Yield" 
+label var BAA10Y "BAA Credit Spread"
+label var AAA10Y "AAA Credit Spread"
 
 foreach num of numlist 0/9{
-lpoly topic_`num' date_m,name(topic`num',replace)
+	local j = `num' + 1
+	rename topic_`num' ntopic_`j'
 }
 
-lpoly topic_0 date_m
+rename ntopic_* topic_*
+/*
+foreach num of numlist 0/9{
+lpoly topic_`num' date_m,name(topic`num',replace)
+*/
+
+	* Multinomial logit
+foreach num of numlist 1/4 6/10{
+	gen dt`num't5 = log(topic_`num') -  log(topic_5)
+}
+
+est clear
+	* TABLE SECTION 1
+foreach num of numlist 1/4 6/10{
+	di "********************* Estimate for Topic `num' *********************"
+	reg dt`num't5 l1d_UNRATE l2d_UNRATE l1dln_PCEPI l2dln_PCEPI l1dln_INDPRO l2dln_INDPRO d14ln_spindx d28_SVENY01 d28_SVENY10 TEDRATE  SVENY01 SVENY10 BAA10Y AAA10Y if Section ==1
+	est store b`num', title("Topic `num'")
+}
+	
+#delimit;
+esttab  b*
+		using "$OVERLEAF/policy_section1.tex", 
+		replace compress b(a3) se(a3) r2  star(* 0.10 ** 0.05 *** 0.01 )    nogaps
+		obslast booktabs  nonotes 	label substitute(\_ _);
+#delimit cr
+
+est clear
+	* TABLE SECTION 2
+foreach num of numlist 1/4 6/10{
+	di "********************* Estimate for Topic `num' *********************"
+	reg dt`num't5 l1d_UNRATE l2d_UNRATE l1dln_PCEPI l2dln_PCEPI l1dln_INDPRO l2dln_INDPRO d14ln_spindx d28_SVENY01 d28_SVENY10 TEDRATE  SVENY01 SVENY10 BAA10Y AAA10Y if Section ==2
+	est store b`num'
+}
+
+	*MAKE TABLE SECTION 2
+#delimit;
+esttab  b*
+		using "$OVERLEAF/policy_section2.tex", 
+		replace compress b(a3) se(a3) r2  star(* 0.10 ** 0.05 *** 0.01 )   nogaps
+		obslast booktabs  nonotes 	label substitute(\_ _);
+#delimit cr
+
+
+
+/*
+collapse topic_*,by(date_m)
+foreach num of numlist 0/9{
+twoway scatter topic_`num' date_m,name(topic`num',replace)
+}
 
 
 

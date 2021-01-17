@@ -252,28 +252,38 @@ full_data.to_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
 
 import matplotlib.pyplot as plt
 import matplotlib.ticker as tkr
+
+meetphrase_itera = 2 # Number of phrase iterations
+meetthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
+meetmax_df=1.0
+meetmin_df=10
+MEEETDATA = f"MEET_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
+
 # Load data
 full_data = pd.read_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
+full_data.rename(columns=dict(zip([f"topic_{k}" for k in range(10)],[f"topic_{k+1}" for k in range(10)] )),inplace=True)
+meeting_ckpt = f"{DATAPATH}/results/etm_MEET_min10_max1.0_iter2_thinf_K_10_Htheta_800_Optim_adam_Clip_0.0_ThetaAct_relu_Lr_0.005_Bsz_1000_RhoSize_300_trainEmbeddings_0"
 # Retrieve topics
 with open(f'{meeting_ckpt}topics.pkl', 'rb') as f:
     meet_topics = pickle.load(f)
     top_dic = dict(zip([item[0] for item in meet_topics ],[", ".join(item[1]) for item in meet_topics ] ))
 # Check topics
 for item in meet_topics:
-    print(f'{item[0]}: {", ".join(item[1])}')
+    print(f'{item[0]+1}: {", ".join(item[1])}')
+
 
 section1 = full_data[full_data["Section"]==1].copy()
 section2 = full_data[full_data["Section"]==2].copy()
 
 k= 0
 
-for k in range(10):
+for k in range(1,11):
     fig = plt.figure(figsize=(20,9))
     axs = fig.add_subplot(1,1,1)
     plt.subplots_adjust(.1,.20,1,.95)
     section1.plot.scatter('start_date',f'topic_{k}',color="dodgerblue",ax=axs,label="Section 1")
     section2.plot.scatter('start_date',f'topic_{k}',color="red",ax=axs,label="Section 2")
-    plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k]}", ha="left", fontsize=20)
+    plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k-1]}", ha="left", fontsize=20)
     axs.set_xlabel("Meeting Day",fontsize=20)
     axs.set_ylabel(f"Topic {k}",fontsize=20)
     axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.1f}"))
@@ -281,9 +291,109 @@ for k in range(10):
     axs.tick_params(which='both',labelsize=20,axis="y")
     axs.tick_params(which='both',labelsize=20,axis="x")
     axs.legend( prop={'size': 20})
-    plt.savefig(f'transcript_topic_{k}.eps', format='eps')
+    plt.savefig(f'output/transcript_topic_{k}.pdf')
+    try:
+        #plt.savefig(f'{OVERLEAF}/files/transcript_topic_{k}.eps', format='eps')
+        plt.savefig(f'{OVERLEAF}/transcript_topic_{k}.pdf')
+    except:
+        print("Invalid Overleaf Path")
+
+# =============================================================================
+# ## 7 MN Logit
+import statsmodels.api as sm
+import pandas as pd
+import numpy as np
+
+DATAPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/")        
+OVERLEAF = os.path.expanduser("~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files")
+topics = pd.read_stata("full_results/MEET_min10_max1.0_iter2_thinf.dta") 
+topics.rename(columns=dict(zip([f"topic_{k}" for k in range(10)],[f"topic_{k+1}" for k in range(10)] )),inplace=True)
+topics.drop(columns=["level_0","index", "d"],inplace=True)
+topics = topics[topics["start_date"]!="2009-09-16"]
+
+econdata = pd.read_pickle("../economic_data/final_data/econmarketdata.pkl")
+data = topics.merge(econdata,left_on="start_date",right_on="date",how="inner")
+data.rename(columns={"m_cape":"EQUITYCAPE"},inplace=True)
+
+for k in range(1,11):
+    data[f"lns{k}s5"] = np.log(data[f"topic_{k}"]) - np.log(data[f"topic_5"])
+
+for k in range(1,11):
+    data[f"s{k}s5"] = data[f"topic_{k}"]  / data[f"topic_5"]
 
 
+data["constant"] = 1
+
+covs = "l1d_UNRATE l2d_UNRATE l1dln_PCEPI l2dln_PCEPI l1dln_INDPRO l2dln_INDPRO d14ln_spindx d28_SVENY01 d28_SVENY10 TEDRATE SVENY01 SVENY10 BAA10Y AAA10Y"
+covs_list = covs.split(" ")
+
+
+
+est_section1 = data.loc[data["Section"] == 1,[f"s{k}s5" for k in range(1,11) ]]
+res_df = pd.DataFrame([])
+for k in [1,2,3,4,6,7,8,9,10]:
+    print(f"\n ************** Topic: {k} ***********************\n")
+    model = sm.OLS(data.loc[data["Section"] == 1,f"lns{k}s5"], data.loc[data["Section"] == 1,["constant"]+covs_list])
+    results = model.fit()
+    print(results.summary())
+
+    ef_dict = []
+    for var in covs_list:
+        est_section1[f"mr_{var}"] = est_section1[f"s{k}s5"]  * results.params[var]
+        ef_dict.append(est_section1[f"mr_{var}"].mean())
+    aux_df = pd.DataFrame(data=ef_dict,columns=[f"AMX T{k}"],index=list(results.params.keys())[1:])       
+    res_df = pd.concat([res_df,aux_df],axis=1)
+    
+labels = {"l1d_UNRATE":"Lag 1 dURate","l2d_UNRATE": "Lag 2 dURate","l1dln_PCEPI": "Lag 1 dlnPCEPI",
+          "l2dln_PCEPI": "Lag 2 dlnPCEPI","l1dln_INDPRO":"Lag 1 dlnIP","l2dln_INDPRO": "Lag 2 dlnIP",
+          "d7ln_spindx": "7 day Return S\&P500","d14ln_spindx":"14 day Return S\&P500",
+          "EQUITYCAPE": "Equity Cape","TEDRATE": "Ted Spread","SVENY01": "Tr. 1yr Yield",
+          "d28_SVENY01": "$\Delta$ Tr. 1yr Yield","d28_SVENY10": "$\Delta$ Tr. 10yr Yield",
+          "SVENY10": "Tr. 10yr Yield", "BAA10Y": "BAA Credit Spread","AAA10Y": "AAA Credit Spread"}
+res_df = res_df.reset_index().replace({"index":labels}).set_index("index")
+
+print(res_df.to_latex(escape=False))
+res_df.to_latex(f"{OVERLEAF}/section1_avgmr.tex",escape=False,float_format="{:0.3f}".format )
+
+
+
+
+est_section1 = data.loc[data["Section"] == 2,[f"s{k}s5" for k in range(1,11) ]]
+res_df = pd.DataFrame([])
+for k in [1,2,3,4,6,7,8,9,10]:
+    print(f"\n ************** Topic: {k} ***********************\n")
+    model = sm.OLS(data.loc[data["Section"] == 2,f"lns{k}s5"], data.loc[data["Section"] == 2,["constant"]+covs_list])
+    results = model.fit()
+    print(results.summary())
+
+    ef_dict = []
+    for var in covs_list:
+        est_section1[f"mr_{var}"] = est_section1[f"s{k}s5"]  * results.params[var]
+        ef_dict.append(est_section1[f"mr_{var}"].mean())
+    aux_df = pd.DataFrame(data=ef_dict,columns=[f"AMX T{k}"],index=list(results.params.keys())[1:])       
+    res_df = pd.concat([res_df,aux_df],axis=1)
+    
+labels = {"l1d_UNRATE":"Lag 1 dURate","l2d_UNRATE": "Lag 2 dURate","l1dln_PCEPI": "Lag 1 dlnPCEPI",
+          "l2dln_PCEPI": "Lag 2 dlnPCEPI","l1dln_INDPRO":"Lag 1 dlnIP","l2dln_INDPRO": "Lag 2 dlnIP",
+          "d7ln_spindx": "7 day Return S\&P500","d14ln_spindx":"14 day Return S\&P500",
+          "EQUITYCAPE": "Equity Cape","TEDRATE": "Ted Spread","SVENY01": "Tr. 1yr Yield",
+          "d28_SVENY01": "$\Delta$ Tr. 1yr Yield","d28_SVENY10": "$\Delta$ Tr. 10yr Yield",
+          "SVENY10": "Tr. 10yr Yield", "BAA10Y": "BAA Credit Spread","AAA10Y": "AAA Credit Spread"}
+res_df = res_df.reset_index().replace({"index":labels}).set_index("index")
+
+print(res_df.to_latex(escape=False))
+res_df.to_latex(f"{OVERLEAF}/section2_avgmr.tex",escape=False,float_format="{:0.3f}".format )
+
+
+
+
+
+
+
+
+
+# 
+# =============================================================================
 
 
 

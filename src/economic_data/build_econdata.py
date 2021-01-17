@@ -41,7 +41,22 @@ unrate = m_import(f"{PATH}/raw_data/UNRATE.csv")
 
 #merge
 data_m = pd.concat([indpro,pcepi,unrate],axis=1)
+data_m = data_m.reset_index()
 
+data_m["UNRATE"] = data_m["UNRATE"] / 100
+data_m["d_UNRATE"] = data_m["UNRATE"].diff(periods=1)
+data_m["l1d_UNRATE"] = data_m["d_UNRATE"].shift(periods=1)
+data_m["l2d_UNRATE"] = data_m["d_UNRATE"].shift(periods=2)
+
+data_m["ln_INDPRO"] = np.log(data_m["INDPRO"])
+data_m["dln_INDPRO"] = data_m["ln_INDPRO"].diff(periods=1)
+data_m["l1dln_INDPRO"] = data_m["dln_INDPRO"].shift(periods=1)
+data_m["l2dln_INDPRO"] = data_m["dln_INDPRO"].shift(periods=2)
+
+data_m["ln_PCEPI"] = np.log(data_m["PCEPI"])
+data_m["dln_PCEPI"] = data_m["ln_PCEPI"].diff(periods=1)
+data_m["l1dln_PCEPI"] = data_m["dln_PCEPI"].shift(periods=1)
+data_m["l2dln_PCEPI"] = data_m["dln_PCEPI"].shift(periods=2)
 
 # =============================================================================
 
@@ -77,19 +92,21 @@ for var in variables:
 table.to_pickle("final_data/greenbook_data.pkl")
 
 
+table.to_stata("final_data/greenbook_data.dta",convert_dates={"meeting_date":"td"})
+
 ### Add financial indicators ###
     
     # Treasury Yields
 
+# Download Data from here:
 # =============================================================================
-# # Download Data from here:
 # url = "https://www.federalreserve.gov/data/yield-curve-tables/feds200628.csv"
 # r = requests.get(url)
 # r.status_code
 # with open(f'{PATH}/raw_data/fed_zerobondyields.csv', 'wb') as f:
 #     f.write(r.content)
+# # Pre-process the data
 # =============================================================================
-# Pre-process the data
 start_date = "1971-11-01"
 end_date = "2020-9-30"
 
@@ -124,6 +141,7 @@ mood_aaa["DATE"] = pd.to_datetime(mood_aaa["DATE"])
 mood_aaa[mood_aaa["AAA10Y"]=="."] = np.nan
 mood_aaa.fillna(method="ffill",inplace=True)
 mood_aaa["AAA10Y"] = pd.to_numeric(mood_aaa["AAA10Y"])
+mood_aaa["AAA10Y"] = mood_aaa["AAA10Y"].apply(lambda x: x/100)
 mood_aaa = mood_aaa.drop_duplicates(subset="DATE",keep="first")
 mood_aaa = mood_aaa.set_index(["DATE"])
 
@@ -132,6 +150,7 @@ mood_baa["DATE"] = pd.to_datetime(mood_baa["DATE"])
 mood_baa[mood_baa["BAA10Y"]=="."] = np.nan
 mood_baa.fillna(method="ffill",inplace=True)
 mood_baa["BAA10Y"] = pd.to_numeric(mood_baa["BAA10Y"])
+mood_baa["BAA10Y"] = mood_baa["BAA10Y"] / 100
 mood_baa = mood_baa.drop_duplicates(subset="DATE",keep="first")
 mood_baa = mood_baa.set_index(["DATE"])
 
@@ -156,6 +175,7 @@ tedspread["DATE"] = pd.to_datetime(tedspread["DATE"])
 tedspread[tedspread["TEDRATE"]=="."] = np.nan
 tedspread.fillna(method="ffill",inplace=True)
 tedspread["TEDRATE"] = pd.to_numeric(tedspread["TEDRATE"])
+tedspread["TEDRATE"] = tedspread["TEDRATE"] / 100
 tedspread = tedspread.drop_duplicates(subset="DATE",keep="first")
 tedspread = tedspread.set_index(["DATE"])
 
@@ -190,6 +210,45 @@ for col in [cl for cl in total_market.columns if cl not in ["date","month","year
     
 total_market.to_pickle("final_data/marketdata.pkl")
 
+# =============================================================================
+### Merge all the data
+
+start_date = np.datetime64("1985-01-01")
+end_date = np.datetime64("2015-12-31")
+index = pd.date_range(start_date, end_date, freq='D')
+ 
+df = pd.DataFrame(index=index).reset_index().rename(columns={"index":"date"})
+df = df.merge(total_market,on="date",how="left")
+
+df = df.merge(data_m,on=["year", "month"],how="left")
+
+dates = pd.read_csv(f"{GR_PATH}/derived_data.csv")
+dates["d_meeting"] = 1
+dates = dates.drop_duplicates(subset="start_date")
+dates["start_date"] = pd.to_datetime(dates["start_date"])
+df = df.merge(dates[["d_meeting", "start_date"]],left_on = "date", right_on = "start_date", how= "left")
+df.drop(columns=['sprtrn', 'vwretd', 'vwindd',"start_date"],inplace=True)
+
+### Define one and two week and yield differences and returns
+for col in ['spindx','vwindx']:
+    df[f"{col}"].ffill(inplace=True)
+    df[f"ln_{col}"] = np.log(df[f"{col}"])
+    df[f"d14ln_{col}"] = df[f"ln_{col}"].diff(periods=14)
+    df[f"d28ln_{col}"] = df[f"ln_{col}"].diff(periods=28)
+    df[f"d7ln_{col}"] = df[f"ln_{col}"].diff(periods=7)
+
+for col in ['SVENY01', 'SVENY02', 'SVENY03', 'SVENY04', 'SVENY05',
+       'SVENY06', 'SVENY07', 'SVENY08', 'SVENY09', 'SVENY10', 'AAA10Y',
+       'BAA10Y']:
+    df[f"{col}"].ffill(inplace=True)
+    df[f"d14_{col}"] = df[f"{col}"].diff(periods=14)
+    df[f"d28_{col}"] = df[f"{col}"].diff(periods=28)
+    df[f"d7_{col}"] = df[f"{col}"].diff(periods=7)
+    
+
+df.to_stata("final_data/econmarketdata.dta",convert_dates={"date":"td"})
+df.to_pickle("final_data/econmarketdata.pkl")
+            
 # =============================================================================
 # 
 # def main():

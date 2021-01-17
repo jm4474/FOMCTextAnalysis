@@ -11,7 +11,7 @@ def extract_greenbook_data():
     greenbook_path = "../data/greenbook_excel/"
     all_projections = []
     if os.path.exists(greenbook_path):
-        files = os.listdir(greenbook_path)
+        files = [file for file in os.listdir(greenbook_path) if file != ".DS_Store"]
         for filename in files:
             print(filename)
             all_projections.extend(extract_variable_forecasts(greenbook_path+filename))
