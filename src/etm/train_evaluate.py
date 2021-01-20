@@ -73,7 +73,6 @@ ts_min_df=10
 TSDATA = f"TS_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
 build_transcriptdata(ts_max_df,ts_min_df,ts_phrase_itera,ts_threshold,TSDATA)
 
-
 print("*" * 80)
 print("Datasets Construction Completed")
 print("*" * 80)
@@ -179,6 +178,31 @@ etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
         mode = 'retrieve',load_from = f"{meeting_ckpt}", train_embeddings = 0)
 
+## MEETINGS - Pre-Trained Emb. - Sample 
+
+MEETDATASAMPLE = f"{MEEETDATA}sampled"
+nr_topics = 10
+meeting_ckptsampled = etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        batch_size = 1000, epochs = 1000, num_topics = nr_topics, rho_size = 300,
+        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+        mode = 'train', optimizer = 'adam',
+        seed = 2019, enc_drop = 0.0, clip = 0.0,
+        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+        num_words = 15, log_interval = 2, visualize_every = 100, eval_batch_size = 1000,
+        load_from = "", tc = 1, td = 1)
+
+print(f"Evaluate model: {meeting_ckptsampled}")
+etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        mode = 'eval', load_from = f"{meeting_ckptsampled}", train_embeddings = 0 ,tc = 1, td = 1,num_topics = nr_topics)
+
+print(f"Output the topic distribution: {meeting_ckptsampled}")
+etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+        mode = 'retrieve',load_from = f"{meeting_ckptsampled}", train_embeddings = 0,num_topics = nr_topics)
+
 
 ## TRANSCRIPTS - Pre-Trained Emb.
 
@@ -205,7 +229,7 @@ etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
 
 
 # =============================================================================
-# ## #5 OUTPUT DAA
+# ## #5 OUTPUT DATA
 
 ## SPEAKERDATA
 
@@ -242,10 +266,28 @@ dist_df = pd.read_pickle(f'{meeting_ckpt}tpdist.pkl')
 full_data = pd.concat([data_clean,dist_df],axis=1)
 full_data.drop(columns=["content"],inplace=True)
 full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data["start_date"] = pd.to_datetime(full_data["start_date"])
-full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"start_date":"td"})
+full_data["date"] = full_data["start_date"]
+full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"date":"td"})
 full_data.to_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
 
+### MEETING SAMPLED ###
+
+# Retrieve raw data
+raw_df  = pd.read_pickle(f"raw_data/{MEETDATASAMPLE}.pkl")
+idx_df = pd.read_pickle(f'{OUTPATH}/{MEETDATASAMPLE}/original_indices.pkl')
+idx_df = idx_df.set_index(0)
+idx_df["d"] = 1
+
+data = pd.concat([idx_df,raw_df],axis=1)
+data_clean = data[data["d"]==1].reset_index()
+dist_df = pd.read_pickle(f'{meeting_ckptsampled}tpdist.pkl')
+
+full_data = pd.concat([data_clean,dist_df],axis=1)
+full_data.drop(columns=["content"],inplace=True)
+full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+full_data["date"] = pd.to_datetime(full_data["date"])
+full_data.to_stata(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.dta",convert_dates={"date":"td"})
+full_data.to_pickle(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.pkl")
 
 # =============================================================================
 # ## 6 Visualize
@@ -263,6 +305,7 @@ MEEETDATA = f"MEET_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{mee
 full_data = pd.read_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
 full_data.rename(columns=dict(zip([f"topic_{k}" for k in range(10)],[f"topic_{k+1}" for k in range(10)] )),inplace=True)
 meeting_ckpt = f"{DATAPATH}/results/etm_MEET_min10_max1.0_iter2_thinf_K_10_Htheta_800_Optim_adam_Clip_0.0_ThetaAct_relu_Lr_0.005_Bsz_1000_RhoSize_300_trainEmbeddings_0"
+
 # Retrieve topics
 with open(f'{meeting_ckpt}topics.pkl', 'rb') as f:
     meet_topics = pickle.load(f)
@@ -275,7 +318,7 @@ for item in meet_topics:
 section1 = full_data[full_data["Section"]==1].copy()
 section2 = full_data[full_data["Section"]==2].copy()
 
-k= 0
+k = 0
 
 for k in range(1,11):
     fig = plt.figure(figsize=(20,9))
@@ -286,7 +329,7 @@ for k in range(1,11):
     plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k-1]}", ha="left", fontsize=20)
     axs.set_xlabel("Meeting Day",fontsize=20)
     axs.set_ylabel(f"Topic {k}",fontsize=20)
-    axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.1f}"))
+    axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.2f}"))
     axs.grid(linestyle=':')
     axs.tick_params(which='both',labelsize=20,axis="y")
     axs.tick_params(which='both',labelsize=20,axis="x")
@@ -295,6 +338,45 @@ for k in range(1,11):
     try:
         #plt.savefig(f'{OVERLEAF}/files/transcript_topic_{k}.eps', format='eps')
         plt.savefig(f'{OVERLEAF}/transcript_topic_{k}.pdf')
+    except:
+        print("Invalid Overleaf Path")
+        
+# Meetings Sampled
+
+# Retrieve topics
+full_data = pd.read_pickle(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.pkl")
+full_data.rename(columns=dict(zip([f"topic_{k}" for k in range(12)],[f"topic_{k+1}" for k in range(12)] )),inplace=True)
+
+with open(f'{meeting_ckptsampled}topics.pkl', 'rb') as f:
+    meet_topics = pickle.load(f)
+    top_dic = dict(zip([item[0] + 1 for item in meet_topics ],[", ".join(item[1]) for item in meet_topics ] ))
+# Check topics
+for item in top_dic.keys():
+    print(f'{item}: {top_dic[item]}')
+
+section1 = full_data[full_data["Section"]==1].copy()
+section2 = full_data[full_data["Section"]==2].copy()
+
+k = 0
+
+for k in range(1,11):
+    fig = plt.figure(figsize=(20,9))
+    axs = fig.add_subplot(1,1,1)
+    plt.subplots_adjust(.1,.20,1,.95)
+    section1.plot.scatter('date',f'topic_{k}',color="dodgerblue",ax=axs,label="Section 1")
+    section2.plot.scatter('date',f'topic_{k}',color="red",ax=axs,label="Section 2")
+    plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k]}", ha="left", fontsize=20)
+    axs.set_xlabel("Meeting Day",fontsize=20)
+    axs.set_ylabel(f"Topic {k}",fontsize=20)
+    axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.2f}"))
+    axs.grid(linestyle=':')
+    axs.tick_params(which='both',labelsize=20,axis="y")
+    axs.tick_params(which='both',labelsize=20,axis="x")
+    axs.legend( prop={'size': 20})
+    plt.savefig(f'output/transcriptsampled_topic_{k}.pdf')
+    try:
+        #plt.savefig(f'{OVERLEAF}/files/transcript_topic_{k}.eps', format='eps')
+        plt.savefig(f'{OVERLEAF}/transcriptsampled_topic_{k}.pdf')
     except:
         print("Invalid Overleaf Path")
 
@@ -383,14 +465,6 @@ res_df = res_df.reset_index().replace({"index":labels}).set_index("index")
 
 print(res_df.to_latex(escape=False))
 res_df.to_latex(f"{OVERLEAF}/section2_avgmr.tex",escape=False,float_format="{:0.3f}".format )
-
-
-
-
-
-
-
-
 
 # 
 # =============================================================================
