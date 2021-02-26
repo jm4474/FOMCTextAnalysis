@@ -395,7 +395,6 @@ topics = topics[topics["start_date"]!="2009-09-16"]
 
 econdata = pd.read_pickle("../economic_data/final_data/econmarketdata.pkl")
 data = topics.merge(econdata,left_on="start_date",right_on="date",how="inner")
-data.rename(columns={"m_cape":"EQUITYCAPE"},inplace=True)
 
 for k in range(1,11):
     data[f"lns{k}s5"] = np.log(data[f"topic_{k}"]) - np.log(data[f"topic_5"])

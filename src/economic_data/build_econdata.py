@@ -5,7 +5,7 @@ import os
 import numpy as np
 import requests
 
-PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/economic_data") 
+PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/economic_data")
 GR_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output")
 
 
@@ -29,7 +29,7 @@ def m_import(path):
     data.drop(columns=["DATE"],inplace=True)
     data = data.set_index(["year","month"])
     return data
-    
+
 # Industrial Production Index
 indpro = m_import(f"{PATH}/raw_data/INDPRO.csv")
 
@@ -87,7 +87,7 @@ table.columns = newcols
 
 # replace l1 with 0 if l1 is mssing
 for var in variables:
-    table.loc[table[f"{var}_l1"].isna(),f"{var}_l1"] = table.loc[table[f"{var}_l1"].isna(),f"{var}_0"]    
+    table.loc[table[f"{var}_l1"].isna(),f"{var}_l1"] = table.loc[table[f"{var}_l1"].isna(),f"{var}_0"]
 
 table.to_pickle("final_data/greenbook_data.pkl")
 
@@ -95,7 +95,7 @@ table.to_pickle("final_data/greenbook_data.pkl")
 table.to_stata("final_data/greenbook_data.dta",convert_dates={"meeting_date":"td"})
 
 ### Add financial indicators ###
-    
+
     # Treasury Yields
 
 # Download Data from here:
@@ -163,7 +163,7 @@ sandp500["date"] = pd.to_datetime(sandp500["caldt"],format='%Y%m%d')
 sandp500.drop(columns = ["caldt"] ,inplace=True)
 sandp500 = sandp500.set_index("date")
 
-marketreturns = pd.read_csv(f"{PATH}/raw_data/marketreturns.csv")    
+marketreturns = pd.read_csv(f"{PATH}/raw_data/marketreturns.csv")
 marketreturns["date"] = pd.to_datetime(marketreturns["caldt"],format='%Y%m%d')
 marketreturns.drop(columns = ["caldt"] ,inplace=True)
 
@@ -206,8 +206,8 @@ total_market.drop(columns=["day","date"],inplace=True)
 total_market.rename(columns={"index":"date"},inplace=True)
 
 for col in [cl for cl in total_market.columns if cl not in ["date","month","year"]]:
-    total_market[col].fillna(method="ffill",inplace=True) 
-    
+    total_market[col].fillna(method="ffill",inplace=True)
+
 total_market.to_pickle("final_data/marketdata.pkl")
 
 # =============================================================================
@@ -216,7 +216,7 @@ total_market.to_pickle("final_data/marketdata.pkl")
 start_date = np.datetime64("1985-01-01")
 end_date = np.datetime64("2015-12-31")
 index = pd.date_range(start_date, end_date, freq='D')
- 
+
 df = pd.DataFrame(index=index).reset_index().rename(columns={"index":"date"})
 df = df.merge(total_market,on="date",how="left")
 
@@ -244,15 +244,15 @@ for col in ['SVENY01', 'SVENY02', 'SVENY03', 'SVENY04', 'SVENY05',
     df[f"d14_{col}"] = df[f"{col}"].diff(periods=14)
     df[f"d28_{col}"] = df[f"{col}"].diff(periods=28)
     df[f"d7_{col}"] = df[f"{col}"].diff(periods=7)
-    
 
+df.rename(columns={"m_cape":"EQUITYCAPE"},inplace=True)
 df.to_stata("final_data/econmarketdata.dta",convert_dates={"date":"td"})
 df.to_pickle("final_data/econmarketdata.pkl")
-            
+
 # =============================================================================
-# 
+#
 # def main():
-# 
+#
 #     monthly_dataframes = [indpro,pcepi,pcepi_ch,unrate,pcepi_pch]
 #     for dataframe in monthly_dataframes:
 #         dataframe['DATE'] = pd.to_datetime(dataframe['DATE'].apply(year_fix))
@@ -260,7 +260,7 @@ df.to_pickle("final_data/econmarketdata.pkl")
 #     monthly_merged = reduce(lambda left,right: \
 #                            pd.merge(left,right,on=['DATE'],how='outer'),monthly_dataframes)
 #     monthly_merged.to_csv("../output/string_theory_indicators_monthly.csv")
-# 
+#
 #     treasury_yields = pd.read_csv("../data/string_theory/FRB_H15.csv")
 #     treasury_yields['DATE'] = pd.to_datetime(treasury_yields['Unique Identifier: '],errors="coerce")
 #     treasury_yields = treasury_yields.dropna(subset=['DATE'])
@@ -268,26 +268,26 @@ df.to_pickle("final_data/econmarketdata.pkl")
 #     treasury_yields['TRY-2Y'] = treasury_yields['H15/H15/RIFLGFCY02_N.B']
 #     treasury_yields['TRY-10Y'] = treasury_yields['H15/H15/RIFLGFCY10_N.B']
 #     treasury_yields = treasury_yields[['DATE','TRY_3M','TRY-2Y','TRY-10Y']]
-# 
+#
 #     futures_contract = pd.read_excel("../data/string_theory/federal_funds_cont.xlsx")
 #     futures_contract['DATE'] = pd.to_datetime(futures_contract.iloc[:,0],errors='coerce')
 #     futures_contract['FF1_COMDTY'] = futures_contract.iloc[:,1]
 #     futures_contract['FF2_COMDTY'] = futures_contract.iloc[:,2]
 #     futures_contract = futures_contract[['DATE','FF1_COMDTY','FF2_COMDTY']]
 #     futures_contract = futures_contract.dropna(subset=["DATE"])
-# 
+#
 #     dataframes = [dfedtar,dfedtarl,dfedtaru,dff,treasury_yields,futures_contract]
 #     for dataframe in dataframes:
 #         dataframe['DATE'] = pd.to_datetime(dataframe['DATE'])
 #     df_merged = reduce(lambda left,right: \
 #                            pd.merge(left,right,on=['DATE'],how='outer'),dataframes)
-# 
+#
 #     df_merged['DATE'] = pd.to_datetime(df_merged['DATE'])
-# 
+#
 #     df_merged.to_csv("../output/string_theory_indicators_daily_new.csv")
-# 
+#
 # def year_fix(d_str):
-#     date = d_str.rsplit("/",1) 
+#     date = d_str.rsplit("/",1)
 #     if len(date)>1:
 #         if int(date[1])>30:
 #             return date[0]+"/19"+date[1]

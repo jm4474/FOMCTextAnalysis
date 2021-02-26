@@ -101,5 +101,15 @@ def main():
     matlab_df.to_pickle("../output/speaker_data_part2.pkl")
     matlab_df.to_csv("../output/speaker_data_part2.csv",index=False)
 
+
+    speaker_data = pd.read_pickle("../output/speaker_data.pkl")    
+    speakers_full = pd.concat([speaker_data,matlab_df[['start_date', 'Speaker', 'Section', 'content']]], axis=0)    
+    speakers_full = speakers_full.reset_index(drop=True)
+    speakers_full.to_pickle("../output/speaker_data_full.pkl")
+    speakers_full.to_csv("../output/speaker_data_full.csv",index=False)
+
+
+
+
 if __name__ == "__main__":
     main()
