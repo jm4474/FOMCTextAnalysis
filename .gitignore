@@ -6,6 +6,11 @@
 *.xml
 *.pdf
 *.txt
+*.csv
+*.pkl
+*.dta
+*.png
+*.eps
 /src/etm/data/*
 /src/etm/embeddings/*
 /src/etm/results/*

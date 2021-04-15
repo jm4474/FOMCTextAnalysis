@@ -2,6 +2,7 @@ import os
 from bs4 import BeautifulSoup
 import datetime
 import csv
+import lxml
 '''
 @Author Anand Chitale
 This prgram extracts the raw text from downloaded html statement documents
@@ -17,7 +18,7 @@ def extract_statement_raw_text():
     for file in os.listdir("../output/statement_webpages"):
         file_path = "../output/statement_webpages/{}".format(file)
         with open(file_path, 'rb') as f:
-            file_soup = BeautifulSoup(f,'lxml')
+            file_soup = BeautifulSoup(f,"html.parser")
             raw_text = extract_html_text(file_soup).encode('utf8').strip()
             raw_text_path = "../output/statement_raw_text/{}".format(file.replace(".html",".txt"))
             with open(raw_text_path, "wb") as f:

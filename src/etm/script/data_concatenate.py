@@ -4,11 +4,8 @@ get_ipython().magic('reset -sf')
 import os, shutil
 import re
 import csv
-from utils import bigrams, trigram, replace_collocation
-from tika import parser
 import timeit
 import pandas as pd
-from nltk.stem import PorterStemmer
 import numpy as np
 import pickle
 import random
@@ -20,18 +17,24 @@ from sklearn.feature_extraction.text import CountVectorizer
 from gensim.test.utils import datapath
 from gensim.models.word2vec import Text8Corpus
 from gensim.models.phrases import Phrases
-# from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 import matplotlib
 import matplotlib.pyplot as plt
 import random
 random.seed(2019)
+from utils import bigrams, trigram, replace_collocation
 
+# =============================================================================
+
+STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/")
 TRANSCRIPT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/transcript_raw_text")
 BB_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output/bluebook_raw_text")
-STATEMENT_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/derivation/python/output/statements_text_extraction.csv")
 OUTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/data")        
 SPEAKER_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/analysis/python/output")        
 ECONDATA = os.path.expanduser("~/Dropbox/MPCounterfactual/src/economic_data")
+PROJECTPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm")
+
+# =============================================================================
+
 
 def generate_rawtranscripts():
     raw_doc = os.listdir(TRANSCRIPT_PATH)  # as above
@@ -54,7 +57,7 @@ def generate_rawtranscripts():
                 pre  = re.compile("Transcript\s?of\s?(?:Telephone:?)?\s?Conference\s?Call",re.IGNORECASE)
                 parsed = re.split(pre,parsed)[1] 
             except:  
-                print("No split")
+                #print("No split")
                 parsed = parsed  
         interjections = re.split('\nMR. |\nMS. |\nCHAIRMAN |\nVICE CHAIRMAN ', parsed)  # split the entire string by the names (looking for MR, MS, Chairman or Vice Chairman)
         temp_df = pd.DataFrame(columns=['Date', 'Speaker', 'content'])  # create a temporary dataframe
@@ -73,7 +76,7 @@ def generate_rawtranscripts():
         raw_text = pd.concat([raw_text, temp_df], axis=0)
     end = timeit.default_timer()   
     #raw_text.to_excel(os.path.join(CACHE_PATH,'raw_text.xlsx'))  # save as raw_text.xlsx
-    print("Transcripts processed. Time: {}".format(end - start))    
+    #print("Transcripts processed. Time: {}".format(end - start))    
       
     docs = raw_text.groupby('Date')['content'].sum().to_list()
     return docs,raw_text
@@ -145,7 +148,7 @@ def preprocess_longdocs():
                     or digit_count(line)):
                     newlines.append(line)             
             docs.append(' '.join(newlines))
-    print("Bluebooks processed")
+    #print("Bluebooks processed")
     return docs,docdates
     
 def contains_punctuation(w):
@@ -316,8 +319,13 @@ def data_preprocess(docs,docindex,data,DATASET,max_df,min_df):
     #print("money" in vocab)    
     with open(path_save + 'vocab.pkl', 'wb') as f:
         pickle.dump(vocab, f)
+        
+    # Save corpus
+    corpus = [[w for w in doc.split(' ') ]for doc in docs.to_list()]
+    with open(path_save + 'corpus.pkl', 'wb') as f:
+        pickle.dump(corpus, f)
+        
 
-    
     # Create covariates
     if not isinstance(data, type(None)):
         print('create covariates...')
@@ -414,7 +422,7 @@ def data_preprocess(docs,docindex,data,DATASET,max_df,min_df):
     print('*' * 80)
 
 def statements_raw():
-    data = pd.read_csv(STATEMENT_PATH)
+    data = pd.read_csv(f"{STATEMENT_PATH}/statements_text_extraction.csv")
     docs = data["statement"].to_list()
     docdates = data["meeting_end_date"].to_list()
     print("Statements processed")
@@ -432,7 +440,7 @@ def word_count(df,name):
     token_counts_yr = [len(doc) for doc in df_year["cleaned_content"].to_list()]
     fig, ax = plt.subplots()
     ax.plot(df_year_date,token_counts_yr)
-    plt.savefig(f"output/{name}_yearly.png")
+    plt.savefig(f"{PROJECTPATH}/output/{name}_yearly.png")
 
     df_date = df.groupby(['date'])["content"].agg(lambda x: ' '.join(x)).reset_index()["content"]
     df_date_date = df.groupby(['date'])["content"].agg(lambda x: ' '.join(x)).reset_index()['date'].to_list()
@@ -445,7 +453,7 @@ def word_count(df,name):
     fig, ax = plt.subplots()
     df_date_date = [np.datetime64(dat) for dat in df_date_date]
     ax.plot(df_date_date,token_counts)
-    plt.savefig(f"output/{name}_mymeeting.png")
+    plt.savefig(f"{PROJECTPATH}/output/{name}_mymeeting.png")
     plt.suptitle(name)
     return df_year, token_counts_yr        
 
@@ -461,8 +469,8 @@ def build_embdata(max_df,min_df,phrase_itera,threshold,DATASET):
     word_count(transcript_df,"transcript")
         
     statement_docs,docdates = statements_raw()
-    transcript_df = pd.DataFrame(zip(docdates,statement_docs),columns=["date","content"])
-    word_count(transcript_df,"statements")
+    statement_df = pd.DataFrame(zip(docdates,statement_docs),columns=["date","content"])
+    word_count(statement_df,"statements")
     
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")
@@ -536,7 +544,7 @@ def data_clean(rawdocs,doc_index,th="inf",phrase_itera=2):
                            'bernanke', 'hoenig', 'duke', 'bies',"laughter","handout","line",'williams',"unintelligible","lorie"]
     
     additional_stopword = additional_stopword + [w[:3] for w in additional_stopword]
-    firstname = pd.read_excel('util_files/firstnames.xlsx')
+    firstname = pd.read_excel(f'{PROJECTPATH}/util_files/firstnames.xlsx')
     firstname_list = firstname['First name'].dropna().values
     for firstname in firstname_list:
         additional_stopword.append(firstname.lower())
@@ -595,6 +603,39 @@ def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
                     MS_cleanedsampled[colsel],
                     f"{DATASET}",max_df,min_df)
     
+    
+def common_phrase(new):
+    phrases = ["federal reserve issues fomc statement release share information received",
+               "frb press release fomc statement release date release",
+               "fomc statement release share information received",
+               "frb press release fomc statement board discount rate action release date release"]
+    
+    for phrase in phrases:
+        new = re.sub(f"^{phrase} ","",new)
+    
+    new = re.sub(f"federal open market committee","",new)
+    
+    return new
+                            
+    
+def build_statement_data(max_df,min_df,phrase_itera,threshold,DATASET):
+    # Pre-process
+    statements_df = pd.read_csv(f"{STATEMENT_PATH}/statements_text_extraction.csv")[['release_date', 'statement']]
+
+    statements_df.set_index(["release_date"],inplace=True)
+    df_cleancontent = data_clean(statements_df["statement"],statements_df.index)
+    df_cleancontent["cleaned_content"] = df_cleancontent["cleaned_content"].apply(common_phrase)
+    
+    cleaned_statement = df_cleancontent.copy()
+    del statements_df, df_cleancontent
+    
+    # Do cleaning
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")    
+    cleaned_statement.to_pickle(f"{OUTPATH}/{DATASET}/rawdata.pkl")
+        
+    data_preprocess(cleaned_statement['cleaned_content'],cleaned_statement.index,None,f"{DATASET}",max_df,min_df)
+
      
 def build_transcriptdata(max_df,min_df,phrase_itera,threshold,DATASET):
     transcript_docs,raw_text = generate_rawtranscripts()
@@ -620,6 +661,14 @@ def main():
     min_df = 10
     DATASET = f"MEET_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
     build_meeting(max_df,min_df,phrase_itera,threshold,DATASET)
+    
+    phrase_itera = 2
+    threshold = "inf"
+    max_df = 1.0
+    min_df = 5
+    DATASET = f"STATEMENT_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    build_statement_data(max_df,min_df,phrase_itera,threshold,DATASET)
+    
     
 if __name__ == "__main__":
     main()

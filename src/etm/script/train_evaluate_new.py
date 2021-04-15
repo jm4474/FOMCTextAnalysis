@@ -1,18 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
+### Model Training and Evaluation ###
+# Author: Oliver Giesecke 
 
-# ## Model Training and Evaluation
-# Author: Oliver Giesecke
+from IPython import get_ipython
+get_ipython().magic('reset -sf')
 
-# In[ ]:
-
-
-# Load modules
 import os, shutil
 import re
 import csv
 from utils import bigrams, trigram, replace_collocation
-from tika import parser
 import timeit
 import pandas as pd
 import string
@@ -26,140 +21,142 @@ from scipy.io import savemat, loadmat
 import string
 from sklearn.feature_extraction.text import CountVectorizer
 from gensim.test.utils import datapath
-from gensim.models.word2vec import Text8Corpus
-from gensim.models.phrases import Phrases
-from gensim.models.phrases import ENGLISH_CONNECTOR_WORDS
 from gensim.models import Word2Vec
 from data_concatenate import *
 import gensim.downloader
 import pprint
 from manetm import etm
+import matplotlib.pyplot as plt
+import matplotlib.ticker as tkr
 pp = pprint.PrettyPrinter()
+
+# =============================================================================
+
 DATAPATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/etm/")        
 OVERLEAF = os.path.expanduser("~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files")
 
 if not os.path.exists(f"{DATAPATH}/full_results"):
         os.makedirs(f"{DATAPATH}/full_results")
 
-# =============================================================================
-# ## #1 Data Preparation
-print("Build datasets")
 
-embphrase_itera = 2 # Number o fphrase iterations
+# =============================================================================
+# #0 Set Parameters
+# =============================================================================
+
+# Dataset parameters
+embphrase_itera = 2 # Number of phrase iterations
 embthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
 emb_max_df = 1.0 # in a maximum of # % of documents if # is float.
 emb_min_df = 1  # choose desired value for min_df // in a minimum of # documents
 EMBDATASET = f"BBTSST_min{emb_min_df}_max{emb_max_df}_iter{embphrase_itera}_th{embthreshold}"
-build_embdata(emb_max_df,emb_min_df,embphrase_itera,embthreshold,EMBDATASET)
 
-speakerphrase_itera = 2 # Number o fphrase iterations
-speakerthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
-speakermax_df = 0.7 
-speakermin_df = 10
-SPEAKERDATA = f"SPEAKERS_min{speakermin_df}_max{speakermax_df}_iter{speakerphrase_itera}_th{speakerthreshold}"
-build_speakerdata(speakermax_df,speakermin_df,speakerphrase_itera,speakerthreshold,SPEAKERDATA)
-
-meetphrase_itera = 2 # Number of phrase iterations
-meetthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
-meetmax_df=1.0
-meetmin_df=10
+meetphrase_itera = 2 
+meetthreshold = "inf"
+meetmax_df = 1.0
+meetmin_df = 10
 MEEETDATA = f"MEET_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
-build_meeting(meetmax_df,meetmin_df,meetphrase_itera,meetthreshold,MEEETDATA)
 
-ts_phrase_itera = 2 # Number o fphrase iterations
-ts_threshold = "inf" # Threshold value for collocations. If "inf": no collocations
-ts_max_df=1.0
-ts_min_df=10
-TSDATA = f"TS_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
-build_transcriptdata(ts_max_df,ts_min_df,ts_phrase_itera,ts_threshold,TSDATA)
+sta_phrase_itera = 2
+sta_threshold = "inf"
+sta_max_df = 1.0
+sta_min_df = 5
+STADATASET = f"STATEMENT_min{sta_min_df}_max{sta_max_df}_iter{sta_phrase_itera}_th{sta_threshold}"
 
-print("*" * 80)
-print("Datasets Construction Completed")
-print("*" * 80)
-print("\n\n")
+# Skipgram parameters
+mincount = 2
+d_sg = 1
+vectorsize = 300
+iters = 100
+cpus = 16 
+neg_samples =  10
+windowsize = 4
 
-# =============================================================================
-# ## #2 Train Word Embeddings
-# Select corpus
-
-# Run Skipgram
-print(f"Run model: {EMBDATASET}")
-os.system(f"python skipgram_man.py --data_file {DATAPATH}/data/{EMBDATASET}/corpus.pkl --modelfile {DATAPATH}/word2vecmodels/{EMBDATASET} --emb_file {DATAPATH}/embeddings/{EMBDATASET}_emb --dim_rho 300 --iters 100 --window_size 4")
-print("*" * 80)
-print(f"Embedding Training Completed")
-print("*" * 80)
-print("\n\n")
+# Activate code 
+d_construct = False
+d_estemb = False
 
 
 # =============================================================================
-# ## #3  Get Pre-Trained Word Embeddings
+# #1 Data Preparation
+# =============================================================================
 
-sel_mod = "glove-wiki-gigaword-300"
-glove_vectors = gensim.downloader.load(sel_mod)
+if d_construct:
+    
+    print("*" * 80)
+    print("Build datasets")
+    
+    build_embdata(emb_max_df,emb_min_df,embphrase_itera,embthreshold,EMBDATASET)
+    build_meeting(meetmax_df,meetmin_df,meetphrase_itera,meetthreshold,MEEETDATA)
+    build_statement_data(sta_max_df,sta_min_df,sta_phrase_itera,sta_threshold,STADATASET)
+    
+    print("*" * 80)
+    print("Datasets Construction Completed")
+    print("*" * 80)
+    print("\n")
 
-with open(f'{DATAPATH}/data/{SPEAKERDATA}/vocab.pkl', 'rb') as f:
-     vocab = pickle.load(f)
 
-# Write the embeddings to a file
-with open(f"{DATAPATH}/embeddings/{EMBDATASET}_pre", 'w') as f:
-    for v in glove_vectors.index_to_key:
-        if v in vocab:
-            vec = list(glove_vectors[v])
+# =============================================================================
+# #2 Train Word Embeddings
+# =============================================================================
+
+if d_estemb:
+    # Run Skipgram
+    print(f"Run model: {EMBDATASET}\n")
+       
+    sentences = pd.read_pickle(f"{DATAPATH}/data/{EMBDATASET}/corpus.pkl")
+    model = gensim.models.Word2Vec(sentences, min_count = mincount, sg = d_sg, vector_size = vectorsize, epochs = iters, workers = cpus, negative = neg_samples, window = windowsize)
+    model.save(f"{DATAPATH}/word2vecmodels/{EMBDATASET}")
+    
+    # Write the embeddings to a file
+    with open(f"{DATAPATH}/embeddings/{EMBDATASET}_emb", 'w') as f:
+        for v in model.wv.index_to_key:
+            vec = list(model.wv[v])
             f.write(v + ' ')
             vec_str = ['%.9f' % val for val in vec]
             vec_str = " ".join(vec_str)
             f.write(vec_str + '\n')
+    
+    print("*" * 80)
+    print(f"Embedding Training Completed")
+    print("*" * 80)
+    print("\n\n")
 
-with open(f'{DATAPATH}/data/{MEEETDATA}/vocab.pkl', 'rb') as f:
-     vocab = pickle.load(f)
-
-# Write the embeddings to a file
-with open(f"{DATAPATH}/embeddings/{MEEETDATA}_pre", 'w') as f:
-    for v in glove_vectors.index_to_key:
-        if v in vocab:
-            vec = list(glove_vectors[v])
-            f.write(v + ' ')
-            vec_str = ['%.9f' % val for val in vec]
-            vec_str = " ".join(vec_str)
-            f.write(vec_str + '\n')
-print("*" * 80)
-print(f"Embeddings Extracted")
-print("*" * 80)
-print("\n\n")
 
 
 # =============================================================================
-# ## #4 TRAIN TOPIC MODELS
+## #4 TRAIN TOPIC MODELS
+# =============================================================================
 
+# =============================================================================
 ## SPEAKERDATA - Pre-Trained Emb.
-
-speaker_ckpt = etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
-        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 150, num_topics = 10, rho_size = 300,
-        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
-        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
-        mode = 'train', optimizer = 'adam',
-        seed = 2019, enc_drop = 0.0, clip = 0.0,
-        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
-        num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
-        load_from = "", tc = 1, td = 1)
-
-print(f"Evaluate model: {speaker_ckpt}")
-etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{speaker_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
-
-print(f"Output the topic distribution: {speaker_ckpt}")
-etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{speaker_ckpt}", train_embeddings = 0)
-
+# speaker_ckpt = etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
+#         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         batch_size = 1000, epochs = 150, num_topics = 10, rho_size = 300,
+#         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+#         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+#         mode = 'train', optimizer = 'adam',
+#         seed = 2019, enc_drop = 0.0, clip = 0.0,
+#         nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+#         num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
+#         load_from = "", tc = 1, td = 1)
+# 
+# print(f"Evaluate model: {speaker_ckpt}")
+# etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'eval', load_from = f"{speaker_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
+# 
+# print(f"Output the topic distribution: {speaker_ckpt}")
+# etm(f"{SPEAKERDATA}",data_path=f"{DATAPATH}/data/{SPEAKERDATA}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'retrieve',load_from = f"{speaker_ckpt}", train_embeddings = 0)
+# 
+# =============================================================================
 
 ## MEETINGS - Pre-Trained Emb.
 
 meeting_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 1000, num_topics = 10, rho_size = 300,
+        batch_size = 1000, epochs = 2000, num_topics = 10, rho_size = 300,
         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
         mode = 'train', optimizer = 'adam',
@@ -178,122 +175,80 @@ etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
         mode = 'retrieve',load_from = f"{meeting_ckpt}", train_embeddings = 0)
 
-## MEETINGS - Pre-Trained Emb. - Sample 
+print(f"Output topic distributions statement:")
+etm(dataset= f"{STADATASET}", data_path= f"{DATAPATH}/data/{STADATASET}",
+    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb", save_path = f"{DATAPATH}/results",
+        mode = 'retrieve', load_from = f"{meeting_ckpt}", train_embeddings = 0)
 
-MEETDATASAMPLE = f"{MEEETDATA}sampled"
-nr_topics = 10
-meeting_ckptsampled = etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
-        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 1000, num_topics = nr_topics, rho_size = 300,
-        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
-        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
-        mode = 'train', optimizer = 'adam',
-        seed = 2019, enc_drop = 0.0, clip = 0.0,
-        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
-        num_words = 15, log_interval = 2, visualize_every = 100, eval_batch_size = 1000,
-        load_from = "", tc = 1, td = 1)
-
-print(f"Evaluate model: {meeting_ckptsampled}")
-etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{meeting_ckptsampled}", train_embeddings = 0 ,tc = 1, td = 1,num_topics = nr_topics)
-
-print(f"Output the topic distribution: {meeting_ckptsampled}")
-etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{meeting_ckptsampled}", train_embeddings = 0,num_topics = nr_topics)
-
-
-## TRANSCRIPTS - Pre-Trained Emb.
-
-ts_ckpt = etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
-        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 1000, num_topics = 10, rho_size = 300,
-        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
-        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
-        mode = 'train', optimizer = 'adam',
-        seed = 2019, enc_drop = 0.0, clip = 0.0,
-        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
-        num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
-        load_from = "", tc = 1, td = 1)
-
-print(f"Evaluate model: {ts_ckpt}")
-etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{ts_ckpt}", train_embeddings = 0 ,num_topics = 10,tc = 1, td = 1)
-
-print(f"Output the topic distribution: {ts_ckpt}")
-etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{ts_ckpt}", train_embeddings = 0,num_topics = 10)
 
 
 # =============================================================================
-# ## #5 OUTPUT DATA
+## #5 OUTPUT DATA
+# =============================================================================
 
-## SPEAKERDATA
-
-raw_df  = pd.read_pickle(f"raw_data/{SPEAKERDATA}.pkl")
-
-idx_df = pd.read_pickle(f'{OUTPATH}/{SPEAKERDATA}/original_indices.pkl')
-idx_df = idx_df.set_index(0)
-idx_df["d"] = 1
-
-data = pd.concat([idx_df,raw_df],axis=1)
-data_clean = data[data["d"]==1].reset_index()
-dist_df = pd.read_pickle(f'{speaker_ckpt}tpdist.pkl')
-
-full_data = pd.concat([data_clean,dist_df],axis=1)
-full_data.drop(columns=["content","d"],inplace=True)
-full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data["start_date"] = pd.to_datetime(full_data["start_date"])
-full_data.to_stata(f"{DATAPATH}/full_results/{SPEAKERDATA}.dta",convert_dates={"start_date":"td"})
-
+# =============================================================================
+# ## SPEAKERDATA
+# raw_df  = pd.read_pickle(f"raw_data/{SPEAKERDATA}.pkl")
+# 
+# idx_df = pd.read_pickle(f'{OUTPATH}/{SPEAKERDATA}/original_indices.pkl')
+# idx_df = idx_df.set_index(0)
+# idx_df["d"] = 1
+# 
+# data = pd.concat([idx_df,raw_df],axis=1)
+# data_clean = data[data["d"]==1].reset_index()
+# dist_df = pd.read_pickle(f'{speaker_ckpt}tpdist.pkl')
+# 
+# full_data = pd.concat([data_clean,dist_df],axis=1)
+# full_data.drop(columns=["content","d"],inplace=True)
+# full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+# full_data["start_date"] = pd.to_datetime(full_data["start_date"])
+# full_data.to_stata(f"{DATAPATH}/full_results/{SPEAKERDATA}.dta",convert_dates={"start_date":"td"})
+# 
+# =============================================================================
 
 ### MEETING ###
 
-# Retrieve raw data
-raw_df  = pd.read_pickle(f"raw_data/{MEEETDATA}.pkl")
+meet_data = pd.read_pickle(f"{DATAPATH}/data/MEET_min10_max1.0_iter2_thinf/rawdata.pkl")
+meet_data.reset_index(inplace=True)
+meet_data.drop(columns=['cleaned_content','sampled_content'],inplace=True)
 
-idx_df = pd.read_pickle(f'{OUTPATH}/{MEEETDATA}/original_indices.pkl')
-idx_df = idx_df.set_index(0)
-idx_df["d"] = 1
+meet_topics = pd.read_pickle(f"{DATAPATH}/results/etm_MEET_min10_max1.0_iter2_thinf_K_10_Htheta_800_Optim_adam_Clip_0.0_ThetaAct_relu_Lr_0.005_Bsz_1000_RhoSize_300_trainEmbeddings_0topics.pkl")
+top_dic = dict(zip([item[0] + 1 for item in meet_topics ],[", ".join(item[1]) for item in meet_topics ] ))
 
-data = pd.concat([idx_df,raw_df],axis=1)
-data_clean = data[data["d"]==1].reset_index()
-dist_df = pd.read_pickle(f'{meeting_ckpt}tpdist.pkl')
+meet_topicdstr = pd.read_pickle(f"{DATAPATH}/results/etm_MEET_min10_max1.0_iter2_thinf_K_10_Htheta_800_Optim_adam_Clip_0.0_ThetaAct_relu_Lr_0.005_Bsz_1000_RhoSize_300_trainEmbeddings_0tpdist.pkl")
+meet_topicdstr.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i+1}" for i in range(10)])),inplace=True)
 
-full_data = pd.concat([data_clean,dist_df],axis=1)
-full_data.drop(columns=["content"],inplace=True)
-full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data["date"] = full_data["start_date"]
-full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"date":"td"})
-full_data.to_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
+meet_full = pd.concat([meet_data,meet_topicdstr],axis=1)
 
-### MEETING SAMPLED ###
+section1 = meet_full[meet_full["Section"]==1].copy()
+section2 = meet_full[meet_full["Section"]==2].copy()
 
-# Retrieve raw data
-raw_df  = pd.read_pickle(f"raw_data/{MEETDATASAMPLE}.pkl")
-idx_df = pd.read_pickle(f'{OUTPATH}/{MEETDATASAMPLE}/original_indices.pkl')
-idx_df = idx_df.set_index(0)
-idx_df["d"] = 1
+for k in range(1,11):
+    print(f"Topic: {k}")
+    fig = plt.figure(figsize=(20,9))
+    axs = fig.add_subplot(1,1,1)
+    plt.subplots_adjust(.1,.20,1,.95)
+    section1.plot.scatter('start_date',f'topic_{k}',color="dodgerblue",ax=axs,label="Section 1")
+    section2.plot.scatter('start_date',f'topic_{k}',color="red",ax=axs,label="Section 2")
+    plt.figtext(0.10, 0.05, f"Topic {k} words: {top_dic[k]}", ha="left", fontsize=20)
+    axs.set_xlabel("Meeting Day",fontsize=20)
+    axs.set_ylabel(f"Topic {k}",fontsize=20)
+    axs.yaxis.set_major_formatter(tkr.FuncFormatter(lambda x, p: f"{x:.2f}"))
+    axs.grid(linestyle=':')
+    axs.tick_params(which='both',labelsize=20,axis="y")
+    axs.tick_params(which='both',labelsize=20,axis="x")
+    axs.legend( prop={'size': 20})
+    plt.savefig(f"{DATAPATH}/output/transcript_topic_{k}.pdf")
 
-data = pd.concat([idx_df,raw_df],axis=1)
-data_clean = data[data["d"]==1].reset_index()
-dist_df = pd.read_pickle(f'{meeting_ckptsampled}tpdist.pkl')
 
-full_data = pd.concat([data_clean,dist_df],axis=1)
-full_data.drop(columns=["content"],inplace=True)
-full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
-full_data["date"] = pd.to_datetime(full_data["date"])
-full_data.to_stata(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.dta",convert_dates={"date":"td"})
-full_data.to_pickle(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.pkl")
+
+
+
 
 # =============================================================================
 # ## 6 Visualize
 
-import matplotlib.pyplot as plt
-import matplotlib.ticker as tkr
+
 
 meetphrase_itera = 2 # Number of phrase iterations
 meetthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
@@ -318,7 +273,6 @@ for item in meet_topics:
 section1 = full_data[full_data["Section"]==1].copy()
 section2 = full_data[full_data["Section"]==2].copy()
 
-k = 0
 
 for k in range(1,11):
     fig = plt.figure(figsize=(20,9))
@@ -470,6 +424,47 @@ res_df.to_latex(f"{OVERLEAF}/section2_avgmr.tex",escape=False,float_format="{:0.
 
 
 
+# =============================================================================
+# 
+# 
+# # Retrieve raw data
+# raw_df  = pd.read_pickle(f"raw_data/{MEEETDATA}.pkl")
+# 
+# idx_df = pd.read_pickle(f'{OUTPATH}/{MEEETDATA}/original_indices.pkl')
+# idx_df = idx_df.set_index(0)
+# idx_df["d"] = 1
+# 
+# data = pd.concat([idx_df,raw_df],axis=1)
+# data_clean = data[data["d"]==1].reset_index()
+# dist_df = pd.read_pickle(f'{meeting_ckpt}tpdist.pkl')
+# 
+# full_data = pd.concat([data_clean,dist_df],axis=1)
+# full_data.drop(columns=["content"],inplace=True)
+# 
+# full_data["date"] = full_data["start_date"]
+# full_data.to_stata(f"{DATAPATH}/full_results/{MEEETDATA}.dta",convert_dates={"date":"td"})
+# full_data.to_pickle(f"{DATAPATH}/full_results/{MEEETDATA}.pkl")
+# 
+# ### MEETING SAMPLED ###
+# 
+# # Retrieve raw data
+# raw_df  = pd.read_pickle(f"raw_data/{MEETDATASAMPLE}.pkl")
+# idx_df = pd.read_pickle(f'{OUTPATH}/{MEETDATASAMPLE}/original_indices.pkl')
+# idx_df = idx_df.set_index(0)
+# idx_df["d"] = 1
+# 
+# data = pd.concat([idx_df,raw_df],axis=1)
+# data_clean = data[data["d"]==1].reset_index()
+# dist_df = pd.read_pickle(f'{meeting_ckptsampled}tpdist.pkl')
+# 
+# full_data = pd.concat([data_clean,dist_df],axis=1)
+# full_data.drop(columns=["content"],inplace=True)
+# full_data.rename(columns=dict(zip([i for i in range(10)],[f"topic_{i}" for i in range(10)])),inplace=True)
+# full_data["date"] = pd.to_datetime(full_data["date"])
+# full_data.to_stata(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.dta",convert_dates={"date":"td"})
+# full_data.to_pickle(f"{DATAPATH}/full_results/{MEETDATASAMPLE}.pkl")
+# 
+# =============================================================================
 
 # =============================================================================
 # 
@@ -533,4 +528,110 @@ res_df.to_latex(f"{OVERLEAF}/section2_avgmr.tex",escape=False,float_format="{:0.
 # print(f"Evaluate model: {model}")
 # os.system(f'python main.py --mode eval --dataset fomc_joint --data_path {DATAPATH}/data/SPEAKERS_10_iter2_th80 --num_topics 10 --train_embeddings 1 --tc 1 --td 1 --load_from {DATAPATH}/results/{model}')
 # # Joint training of embeddings
+# =============================================================================
+# =============================================================================
+# # =============================================================================
+# # ## #3  Get Pre-Trained Word Embeddings
+# 
+# sel_mod = "glove-wiki-gigaword-300"
+# glove_vectors = gensim.downloader.load(sel_mod)
+# 
+# with open(f'{DATAPATH}/data/{SPEAKERDATA}/vocab.pkl', 'rb') as f:
+#      vocab = pickle.load(f)
+# 
+# # Write the embeddings to a file
+# with open(f"{DATAPATH}/embeddings/{EMBDATASET}_pre", 'w') as f:
+#     for v in glove_vectors.index_to_key:
+#         if v in vocab:
+#             vec = list(glove_vectors[v])
+#             f.write(v + ' ')
+#             vec_str = ['%.9f' % val for val in vec]
+#             vec_str = " ".join(vec_str)
+#             f.write(vec_str + '\n')
+# 
+# with open(f'{DATAPATH}/data/{MEEETDATA}/vocab.pkl', 'rb') as f:
+#      vocab = pickle.load(f)
+# 
+# # Write the embeddings to a file
+# with open(f"{DATAPATH}/embeddings/{MEEETDATA}_pre", 'w') as f:
+#     for v in glove_vectors.index_to_key:
+#         if v in vocab:
+#             vec = list(glove_vectors[v])
+#             f.write(v + ' ')
+#             vec_str = ['%.9f' % val for val in vec]
+#             vec_str = " ".join(vec_str)
+#             f.write(vec_str + '\n')
+# print("*" * 80)
+# print(f"Embeddings Extracted")
+# print("*" * 80)
+# print("\n\n")
+# =============================================================================
+
+
+# =============================================================================
+# ## MEETINGS - Pre-Trained Emb. - Sample 
+# MEETDATASAMPLE = f"{MEEETDATA}sampled"
+# nr_topics = 10
+# meeting_ckptsampled = etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+#         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         batch_size = 1000, epochs = 1000, num_topics = nr_topics, rho_size = 300,
+#         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+#         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+#         mode = 'train', optimizer = 'adam',
+#         seed = 2019, enc_drop = 0.0, clip = 0.0,
+#         nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+#         num_words = 15, log_interval = 2, visualize_every = 100, eval_batch_size = 1000,
+#         load_from = "", tc = 1, td = 1)
+# 
+# print(f"Evaluate model: {meeting_ckptsampled}")
+# etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'eval', load_from = f"{meeting_ckptsampled}", train_embeddings = 0 ,tc = 1, td = 1,num_topics = nr_topics)
+# 
+# print(f"Output the topic distribution: {meeting_ckptsampled}")
+# etm(f"{MEETDATASAMPLE}",data_path=f"{DATAPATH}/data/{MEETDATASAMPLE}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'retrieve',load_from = f"{meeting_ckptsampled}", train_embeddings = 0,num_topics = nr_topics)
+# 
+# =============================================================================
+
+# =============================================================================
+# ## TRANSCRIPTS - Pre-Trained Emb.
+# 
+# ts_ckpt = etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
+#         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         batch_size = 1000, epochs = 1000, num_topics = 10, rho_size = 300,
+#         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+#         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+#         mode = 'train', optimizer = 'adam',
+#         seed = 2019, enc_drop = 0.0, clip = 0.0,
+#         nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+#         num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
+#         load_from = "", tc = 1, td = 1)
+# 
+# print(f"Evaluate model: {ts_ckpt}")
+# etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'eval', load_from = f"{ts_ckpt}", train_embeddings = 0 ,num_topics = 10,tc = 1, td = 1)
+# 
+# print(f"Output the topic distribution: {ts_ckpt}")
+# etm(f"{TSDATA}",data_path=f"{DATAPATH}/data/{TSDATA}",
+#     emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+#         mode = 'retrieve',load_from = f"{ts_ckpt}", train_embeddings = 0,num_topics = 10)
+# =============================================================================
+# =============================================================================
+# ts_phrase_itera = 2 
+# ts_threshold = "inf"
+# ts_max_df= 1.0
+# ts_min_df = 10
+# TSDATA = f"TS_min{meetmin_df}_max{meetmax_df}_iter{meetphrase_itera}_th{meetthreshold}"
+# build_transcriptdata(ts_max_df,ts_min_df,ts_phrase_itera,ts_threshold,TSDATA) 
+# =============================================================================
+# =============================================================================
+# speakerphrase_itera = 2 # Number o fphrase iterations
+# speakerthreshold = "inf" # Threshold value for collocations. If "inf": no collocations
+# speakermax_df = 0.7 
+# speakermin_df = 10
+# SPEAKERDATA = f"SPEAKERS_min{speakermin_df}_max{speakermax_df}_iter{speakerphrase_itera}_th{speakerthreshold}"
+# build_speakerdata(speakermax_df,speakermin_df,speakerphrase_itera,speakerthreshold,SPEAKERDATA)
 # =============================================================================

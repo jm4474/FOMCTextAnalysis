@@ -8,8 +8,8 @@ from torch import nn
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class ETMECON(nn.Module):
-    def __init__(self, num_topics, vocab_size, t_hidden_size, rho_size, emsize, 
-                    theta_act, embeddings=None, train_embeddings=True, econ_vars=None, enc_drop=0.5):
+    def __init__(self, num_topics, vocab_size, rho_size, emsize, embeddings=None, 
+                 train_embeddings=True, econ_vars=None, enc_drop=0.5):
         super(ETMECON, self).__init__()
 
         ## define hyperparameters
@@ -57,7 +57,7 @@ class ETMECON(nn.Module):
     def forward(self, bows, normalized_bows, econ_vars, aggregate=True):
         ## get \theta
         theta = self.get_theta(econ_vars)
-
+        
         ## get \beta
         beta = self.get_beta()
 
@@ -66,4 +66,4 @@ class ETMECON(nn.Module):
         recon_loss = -(preds * bows).sum(1)
         if aggregate:
             recon_loss = recon_loss.mean()
-        return recon_loss
+        return recon_loss , theta , beta , preds

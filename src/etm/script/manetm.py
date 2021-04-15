@@ -18,6 +18,7 @@ import data
 import scipy.io
 import pandas as pd
 
+import torch
 from torch import nn, optim
 from torch.nn import functional as F
 
@@ -28,14 +29,15 @@ from utils import nearest_neighbors, get_topic_coherence, get_topic_diversity
 
 
 def etm(dataset,data_path,emb_path,save_path= '',
-        batch_size = 1000, epochs = 20, num_topics = 10,rho_size = 300,
+        batch_size = 1000, epochs = 20, num_topics = 10, rho_size = 300,
         emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
         train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
-        mode = 'tain', optimizer = 'adam',
+        mode = 'train', optimizer = 'adam',
         seed = 2019, enc_drop = 0.0, clip = 0.0,
         nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
         num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
         load_from = "", tc = 1, td = 1):
+    
     class Vars:
         pass
     args = Vars()    
@@ -120,7 +122,7 @@ def etm(dataset,data_path,emb_path,save_path= '',
     args.num_docs = len(all_tokens)
     
     
-    # Loa pre-trained embeddings.
+    # Load pre-trained embeddings.
     embeddings = None
     if not args.train_embeddings:
         emb_path = args.emb_path
@@ -153,7 +155,7 @@ def etm(dataset,data_path,emb_path,save_path= '',
     if not os.path.exists(args.save_path):
         os.makedirs(args.save_path)
     
-    if args.mode == 'eval':
+    if args.mode == 'eval' or args.mode == 'retrieve':
         ckpt = args.load_from
     else:
         ckpt = os.path.join(args.save_path,
@@ -370,12 +372,13 @@ def etm(dataset,data_path,emb_path,save_path= '',
                 normalized_data_batch = data_batch / sums
             else:
                 normalized_data_batch = data_batch
+            print(normalized_data_batch.shape)
             theta, _ = model.get_theta(normalized_data_batch)
             
             x_np = theta.numpy()
             
             x_df = pd.DataFrame(x_np)
-            x_df.to_pickle(f'{ckpt}tpdist.pkl')
+            x_df.to_pickle(f'{save_path}/{args.dataset}_tpdist.pkl')
         
             print(f"\nTopic distributions for {args.dataset} saved")
                
