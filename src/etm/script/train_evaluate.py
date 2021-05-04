@@ -36,7 +36,6 @@ OVERLEAF = os.path.expanduser("~/Dropbox/Apps/Overleaf/FOMC_Summer2019/files")
 if not os.path.exists(f"{DATAPATH}/full_results"):
         os.makedirs(f"{DATAPATH}/full_results")
 
-
 # =============================================================================
 # #0 Set Parameters
 # =============================================================================
@@ -72,7 +71,7 @@ windowsize = 4
 # Activate code 
 d_construct = False
 d_estemb = False
-
+d_train = False
 
 # =============================================================================
 # #1 Data Preparation
@@ -151,28 +150,28 @@ if d_estemb:
 # =============================================================================
 
 ## MEETINGS - Pre-Trained Emb.
-
-meeting_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+if d_train:
+    meeting_ckpt = etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+            emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+            batch_size = 1000, epochs = 2000, num_topics = 10, rho_size = 300,
+            emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
+            train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
+            mode = 'train', optimizer = 'adam',
+            seed = 2019, enc_drop = 0.0, clip = 0.0,
+            nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
+            num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
+            load_from = "", tc = 1, td = 1)
+    
+    print(f"Evaluate model: {meeting_ckpt}")
+    etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
         emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        batch_size = 1000, epochs = 2000, num_topics = 10, rho_size = 300,
-        emb_size = 300, t_hidden_size = 800, theta_act = 'relu',
-        train_embeddings = 0,  lr = 0.005,  lr_factor=4.0,
-        mode = 'train', optimizer = 'adam',
-        seed = 2019, enc_drop = 0.0, clip = 0.0,
-        nonmono = 10, wdecay = 1.2e-6, anneal_lr = 0, bow_norm = 1,
-        num_words =10, log_interval = 2, visualize_every = 10, eval_batch_size = 1000,
-        load_from = "", tc = 1, td = 1)
-
-print(f"Evaluate model: {meeting_ckpt}")
-etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'eval', load_from = f"{meeting_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
-
-print(f"Output the topic distribution: {meeting_ckpt}")
-etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
-    emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
-        mode = 'retrieve',load_from = f"{meeting_ckpt}", train_embeddings = 0)
-
+            mode = 'eval', load_from = f"{meeting_ckpt}", train_embeddings = 0 ,tc = 1, td = 1)
+    
+    print(f"Output the topic distribution: {meeting_ckpt}")
+    etm(f"{MEEETDATA}",data_path=f"{DATAPATH}/data/{MEEETDATA}",
+        emb_path=f"{DATAPATH}/embeddings/{EMBDATASET}_emb",save_path=f"{DATAPATH}/results",
+            mode = 'retrieve',load_from = f"{meeting_ckpt}", train_embeddings = 0)
+    
 
 # =============================================================================
 ## #5 OUTPUT DATA

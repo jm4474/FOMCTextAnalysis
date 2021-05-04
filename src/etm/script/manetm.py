@@ -396,7 +396,7 @@ def etm(dataset,data_path,emb_path,save_path= '',
                 topics_data.append([k,topic_words])    
                 print([k,topic_words])
             
-            with open(f'{ckpt}topics.pkl', 'wb') as f:
+            with open(f'{save_path}/{args.dataset}_topics.pkl', 'wb') as f:
                 pickle.dump(topics_data, f)        
         
         

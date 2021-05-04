@@ -174,7 +174,7 @@ def remove_empty(in_docs,docindex=[], doctype=""):
             testindex = [newindex[docidx] for docidx,doc in enumerate(newdocs) if doc!=[]]
         except:
             print("No index given")
-        if len(newdocs) != len(newindex):
+        if len(newdocs) != len(testindex):
             raise Exception("Length of index and data does not match") 
         newindex = testindex
     return newdocs,newindex
@@ -560,11 +560,16 @@ def data_clean(rawdocs,doc_index,th="inf",phrase_itera=2):
 
 def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     # Pre-process
+    link = pd.read_csv(f"{STATEMENT_PATH}/meeting_derived_file.csv")[['start_date', 'end_date',"event_type"]].drop_duplicates()
+    for col in ['start_date', 'end_date']:
+        link[col] = pd.to_datetime(link[col])
+        
     speakers_full = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_full.pkl")    
     econdata = pd.read_pickle(f"{ECONDATA}/final_data/econmarketdata.pkl")
     MS_text = speakers_full.groupby(["start_date",'Section'])["content"].agg(lambda x: ' '.join(x)).reset_index()
-    
+    MS_text = MS_text.merge(link,left_on = 'start_date', right_on = 'start_date',how = "left" )
     MS_data = MS_text.merge(econdata,left_on="start_date",right_on="date",how="left") 
+    
     MS_data.drop(columns="date",inplace=True)
     MS_data.set_index(["start_date","Section"],inplace=True)
     df_cleancontent = data_clean(MS_data["content"],MS_data.index)
@@ -584,10 +589,27 @@ def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
     MS_cleanedsampled["sampled_content"].update(MS_cleanedsampled["sampled_content2"])
     MS_cleanedsampled.drop(columns=["sampled_content1","sampled_content2"],inplace=True)
     
+    
+    statements_df = pd.read_csv(f"{STATEMENT_PATH}/statements_text_extraction.csv")[['meeting_end_date','release_date', 'statement']]
+    for col in ['meeting_end_date','release_date']:
+        statements_df[col] = pd.to_datetime(statements_df[col])
+    statements_df = statements_df.merge(link,left_on = 'meeting_end_date', right_on = 'end_date',how = "left" )
+    statements_df.loc[:,"Section"] = 3
+    statements_df.drop(columns = ["meeting_end_date"],inplace=True)
+    statements_df  = statements_df.merge(econdata,left_on="start_date",right_on="date",how="left") 
+    statements_df.set_index(["start_date","Section"],inplace=True)
+    df_cleancontent = data_clean(statements_df["statement"],statements_df.index)
+    df_cleancontent["sampled_content"] = df_cleancontent["cleaned_content"].apply(common_phrase)
+    stat_clean_df = pd.concat([df_cleancontent,statements_df.drop(columns = "statement") ],axis=1)
+    stat_clean_df.drop(columns="date",inplace=True)
+    
+    fulldata = pd.concat([MS_cleanedsampled,stat_clean_df],axis=0)
+    
+    
     # Do cleaning
     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
         os.makedirs(f"{OUTPATH}/{DATASET}")    
-    MS_cleanedsampled.to_pickle(f"{OUTPATH}/{DATASET}/rawdata.pkl")
+    fulldata.to_pickle(f"{OUTPATH}/{DATASET}/rawdata.pkl")
      
     colsel = ['SVENY01','d28_SVENY01','SVENY10','d14_SVENY10',
               'AAA10Y', 'BAA10Y','d28_AAA10Y', 'd28_BAA10Y',
@@ -598,9 +620,45 @@ def build_meeting(max_df,min_df,phrase_itera,threshold,DATASET):
               'd14ln_spindx', 'd28ln_spindx', 'd7ln_spindx', 
               'd14ln_vwindx', 'd28ln_vwindx', 'd7ln_vwindx']
     
-    data_preprocess(MS_cleanedsampled['sampled_content'],
-                    MS_cleanedsampled.index,
-                    MS_cleanedsampled[colsel],
+    data_preprocess(fulldata['sampled_content'],
+                    fulldata.index,
+                    fulldata[colsel],
+                    f"{DATASET}",max_df,min_df)
+    
+def build_speaker(max_df,min_df,phrase_itera,threshold,DATASET):
+    # Pre-process
+    link = pd.read_csv(f"{STATEMENT_PATH}/meeting_derived_file.csv")[['start_date', 'end_date',"event_type"]].drop_duplicates()
+    for col in ['start_date', 'end_date']:
+        link[col] = pd.to_datetime(link[col])
+        
+    speakers_full = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_full.pkl")    
+    econdata = pd.read_pickle(f"{ECONDATA}/final_data/econmarketdata.pkl")
+    speakers_full = speakers_full.merge(link,left_on = 'start_date', right_on = 'start_date',how = "left" )
+    MS_data = speakers_full.merge(econdata,left_on="start_date",right_on="date",how="left") 
+    
+    MS_data.drop(columns="date",inplace=True)
+    MS_data.set_index(["start_date","Section"],inplace=True)
+    df_cleancontent = data_clean(MS_data["content"],MS_data.index)
+    MS_cleaned = pd.concat([MS_data,df_cleancontent], axis = 1)
+    MS_cleaned.drop(columns="content",inplace=True)
+       
+    # Do cleaning
+    if not os.path.exists(f"{OUTPATH}/{DATASET}"):
+        os.makedirs(f"{OUTPATH}/{DATASET}")    
+    MS_cleaned.to_pickle(f"{OUTPATH}/{DATASET}/rawdata.pkl")
+     
+    colsel = ['SVENY01','d28_SVENY01','SVENY10','d14_SVENY10',
+              'AAA10Y', 'BAA10Y','d28_AAA10Y', 'd28_BAA10Y',
+              'spindx', 'vwretx', 'vwindx', 'TEDRATE', 'EQUITYCAPE', 
+              'd_UNRATE', 'l1d_UNRATE', 'l2d_UNRATE',
+              'dln_INDPRO', 'l1dln_INDPRO', 'l2dln_INDPRO',
+              'dln_PCEPI', 'l1dln_PCEPI', 'l2dln_PCEPI', 
+              'd14ln_spindx', 'd28ln_spindx', 'd7ln_spindx', 
+              'd14ln_vwindx', 'd28ln_vwindx', 'd7ln_vwindx']
+    
+    data_preprocess(MS_cleaned['cleaned_content'],
+                    MS_cleaned.index,
+                    MS_cleaned[colsel],
                     f"{DATASET}",max_df,min_df)
     
     
@@ -662,59 +720,24 @@ def main():
     DATASET = f"MEET_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
     build_meeting(max_df,min_df,phrase_itera,threshold,DATASET)
     
+    
     phrase_itera = 2
     threshold = "inf"
     max_df = 1.0
-    min_df = 5
-    DATASET = f"STATEMENT_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
-    build_statement_data(max_df,min_df,phrase_itera,threshold,DATASET)
+    min_df = 10
+    DATASET = f"SPEAKER_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    build_speaker(max_df,min_df,phrase_itera,threshold,DATASET)
+    
+    #phrase_itera = 2
+    #threshold = "inf"
+    #max_df = 1.0
+    #min_df = 5
+    #DATASET = f"STATEMENT_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
+    #build_statement_data(max_df,min_df,phrase_itera,threshold,DATASET)
     
     
 if __name__ == "__main__":
     main()
     
-# =============================================================================
-# DATASET = f"SPEAKERS_min{min_df}_max{max_df}_iter{phrase_itera}_th{threshold}"
-# build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET)
-#     
-# =============================================================================
-
-# =============================================================================
-#     docs =  speakers_full["content"].to_list()
-#     import re
-#     matches = {}
-#     for idx,doc in enumerate(docs):
-#         matches.update({idx:[(m.start(0), m.end(0)) for m in re.finditer("terrace", doc)]})
-#     
-#     for idx,doc in enumerate(docs):
-#         for pos in matches[idx]:
-#             print(doc[0:pos[1]+100])
-#             print("\n")
-#     
-# =============================================================================
-# =============================================================================
-#     GR_PATH = os.path.expanduser("~/Dropbox/MPCounterfactual/src/collection/python/output")
-#     dates = pd.read_csv(f"{GR_PATH}/derived_data.csv")
-#     dates["d_meeting"] = 1
-#     dates = dates.drop_duplicates(subset="start_date")
-#     speakers_full = speakers_full.merge(dates[["d_meeting", "start_date"]],left_on = "start_date", right_on = "start_date", how= "left")
-#     
-# =============================================================================
-# =============================================================================
-# def build_speakerdata(max_df,min_df,phrase_itera,threshold,DATASET):
-#     # Pre-process
-#     speaker_data = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data.pkl")
-#     speaker_data_sec2 = speaker_data[speaker_data["Section"]==2]
-#     speaker_data_part2 = pd.read_pickle(f"{SPEAKER_PATH}/speaker_data_part2.pkl")
-#     speaker_data_part2_sec2 = speaker_data_part2[speaker_data_part2["Section"]==2]
-#     speakers_full = pd.concat([speaker_data_sec2,speaker_data_part2_sec2[['start_date', 'Speaker', 'Section', 'content']]], axis=0)  
-#     speakers_full = speakers_full.reset_index(drop=True)
-#  
-#     
-#     speakers_full.to_pickle(f"raw_data/{DATASET}.pkl")
-#     
-#     if not os.path.exists(f"{OUTPATH}/{DATASET}"):
-#         os.makedirs(f"{OUTPATH}/{DATASET}")
-#     data_preprocess(speakers_full["content"].to_list() ,DATASET,phrase_itera,max_df,min_df,threshold,docindex = list(speakers_full["content"].index))
-#     print(f"{DATASET} complete!")   
-# =============================================================================
+    
+    
